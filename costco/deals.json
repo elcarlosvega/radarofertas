@@ -1,6 +1,6 @@
 {
- "generated_at": 1783718312.9338007,
- "generated_at_str": "10/07/2026 15:18",
+ "generated_at": 1783721881.8470228,
+ "generated_at_str": "10/07/2026 16:18",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1549,7 +1549,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-16T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783718312.9338007
+   "first_seen": 1783718319.8572085
   },
   {
    "id": "695990",
@@ -1906,10 +1906,10 @@
    "price_new": 499.0,
    "pct": 28.6,
    "amount": 200.0,
-   "starts": "2026-07-09T06:00:00.000Z",
-   "ends": "2026-07-28T05:59:59.999Z",
+   "starts": "2026-07-10T06:00:00.000Z",
+   "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783636130.0769348
+   "first_seen": 1783721881.8470228
   },
   {
    "id": "1784128",
@@ -3112,6 +3112,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "693651",
+   "name": "Krups Cafetera Automática Silver incluye kit de mantenimiento",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Maquinas-de-Espresso/Krups-Cafetera-Automatica-Silver-incluye-kit-de-mantenimiento/p/693651",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h58/h6e/399104721682462.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 12399.0,
+   "price_new": 9199.0,
+   "pct": 25.8,
+   "amount": 3200.0,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "696202",
    "name": "GE Secadora de Gas 22kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Secadora-de-Gas-22kg/p/696202",
@@ -3544,7 +3559,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783718312.9338007
+   "first_seen": 1783718319.8572085
   },
   {
    "id": "694079",
@@ -8242,6 +8257,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "693682",
+   "name": "Hisense Pantalla 65\" QLED 4K Canvas Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-65-QLED-4K-Canvas-Google-TV/p/693682",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4f/hcb/435243953455134.jpg",
+   "category": "Electronicos",
+   "price_old": 24999.0,
+   "price_new": 18999.0,
+   "pct": 24.0,
+   "amount": 6000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "693430",
    "name": "Apple iPad Chip A16 256GB Azul",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-256GB-Azul/p/693430",
@@ -8493,6 +8523,21 @@
    "amount": 6500.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1933975",
+   "name": "SunVilla, Charme Comedor para Exterior de 5 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/SunVilla-Charme-Comedor-para-Exterior-de-5-Piezas/p/1933975",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h6a/399318182952990.jpg",
+   "category": "Muebles",
+   "price_old": 38999.0,
+   "price_new": 29999.0,
+   "pct": 23.1,
+   "amount": 9000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -9277,6 +9322,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "693894",
+   "name": "Vino Tinto Chateau Palmer 2022 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Palmer-2022-750-ml/p/693894",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h38/h1f/379124056064030.jpg",
+   "category": "Vinos",
+   "price_old": 11999.0,
+   "price_new": 9499.0,
+   "pct": 20.8,
+   "amount": 2500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "723629",
    "name": "Philips, Purificador de Agua Philips con Ósmosis Inversa",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Purificadores-y-Dispensadores-de-Agua/Philips-Purificador-de-Agua-Philips-con-Osmosis-Inversa/p/723629",
@@ -9517,6 +9577,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "1969700",
+   "name": "Gorilla Centro de Juegos Adventure Wave",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Gorilla-Centro-de-Juegos-Adventure-Wave/p/1969700",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9e/h1d/400673781809182.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 34999.0,
+   "price_new": 27999.0,
+   "pct": 20.0,
+   "amount": 7000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "668321",
    "name": "Maytag Lavadora 29Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-29Kg-Carga-Superior/p/668321",
@@ -9672,6 +9747,21 @@
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cajas-de-Almacenamiento/Mirador-Caja-de-Almacenamiento-de-Aluminio-con-Capacidad-de-776L/p/1850920",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h66/he4/413913927090206.jpg",
    "category": "Patio y Jardin",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1934020",
+   "name": "Agio, Hyde Park Set Bistro para Exterior de 3 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Agio-Hyde-Park-Set-Bistro-para-Exterior-de-3-piezas/p/1934020",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h86/h79/413711767273502.jpg",
+   "category": "Muebles",
    "price_old": 9999.0,
    "price_new": 7999.0,
    "pct": 20.0,
@@ -10353,6 +10443,21 @@
    "amount": 20000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1934121",
+   "name": "Agio, Juniper Sala con Fogatero para Exterior de 5 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/Agio-Juniper-Sala-con-Fogatero-para-Exterior-de-5-Piezas/p/1934121",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/hbf/416376125882398.png",
+   "category": "Muebles",
+   "price_old": 54999.0,
+   "price_new": 44999.0,
+   "pct": 18.2,
+   "amount": 10000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -12589,7 +12694,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-07-16T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783718312.9338007
+   "first_seen": 1783718319.8572085
   },
   {
    "id": "2051799",

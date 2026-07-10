@@ -127,7 +127,7 @@ const STORES = [
   {key:'palacio',      name:'Palacio de Hierro', path:'palacio',      accent:'#d4af37'},
   {key:'costco',       name:'Costco',            path:'costco',       accent:'#e11d2a'},
   {key:'coppel',       name:'Coppel',            path:'coppel',       accent:'#2b7cf0'},
-  {key:'mercadolibre', name:'Mercado Libre',     path:'mercadolibre', accent:'#ffe600'},
+  {key:'mercadolibre', name:'Mercado Libre', short:'MeLi',     path:'mercadolibre', accent:'#ffe600'},
 ];
 const TOP_N = 5;
 const $ = id => document.getElementById(id);
@@ -140,7 +140,7 @@ function makeCard(d, store){
   const ib=document.createElement('div'); ib.className='imgbox';
   if(d.img){ const im=document.createElement('img'); im.loading='lazy'; im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('div'); bp.className='badge-pct'; bp.textContent='-'+Math.round(d.pct)+'%';
-  const sc=document.createElement('div'); sc.className='storechip'; sc.style.background=store.accent; sc.textContent=store.name.split(' ')[0].toUpperCase();
+  const sc=document.createElement('div'); sc.className='storechip'; sc.style.background=store.accent; sc.textContent=(store.short||store.name.split(' ')[0]).toUpperCase();
   card.append(ib,bp,sc);
   const body=document.createElement('div'); body.className='cbody';
   const cat=document.createElement('div'); cat.className='cat'; cat.textContent=d.category||store.name;
@@ -162,7 +162,7 @@ function sectionShell(store){
   const dot=document.createElement('span'); dot.className='dot'; dot.style.background=store.accent;
   const h2=document.createElement('h2'); h2.textContent=store.name;
   const cnt=document.createElement('span'); cnt.className='cnt'; cnt.id='cnt-'+store.key;
-  const all=document.createElement('a'); all.className='all'; all.href=store.path+'/'; all.textContent='Ver todas las de '+store.name.split(' ')[0]+' →';
+  const all=document.createElement('a'); all.className='all'; all.href=store.path+'/'; all.textContent='Ver todas las de '+(store.short||store.name.split(' ')[0])+' →';
   head.append(dot,h2,cnt,all);
   const grid=document.createElement('div'); grid.className='grid'; grid.id='grid-'+store.key;
   sec.append(head,grid);

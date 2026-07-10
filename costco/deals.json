@@ -1,6 +1,6 @@
 {
- "generated_at": 1783721888.1182022,
- "generated_at_str": "10/07/2026 16:18",
+ "generated_at": 1783725427.0058405,
+ "generated_at_str": "10/07/2026 17:17",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1909,7 +1909,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783721888.1182022
+   "first_seen": 1783721893.6143441
   },
   {
    "id": "1784128",
@@ -8026,6 +8026,21 @@
    "price_new": 156.75,
    "pct": 25.0,
    "amount": 52.25,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "594613",
+   "name": "Lysol Triple Poder Desinfectante Multiusos con Aroma Cítricos 6 l",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Lysol-Triple-Poder-Desinfectante-Multiusos-con-Aroma-Citricos-6-l/p/594613",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/hfd/70366701486110.jpg",
+   "category": "Grocery",
+   "price_old": 199.0,
+   "price_new": 149.25,
+   "pct": 25.0,
+   "amount": 49.75,
    "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,

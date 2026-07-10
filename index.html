@@ -34,7 +34,7 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(-
 .tab{padding:7px 12px;border-radius:8px;font-size:.86rem;font-weight:600;color:var(--mut);text-decoration:none}
 .tab.on{color:var(--ink);position:relative}
 .tab.on::after{content:"";position:absolute;left:12px;right:12px;bottom:2px;height:2px;background:var(--accent);border-radius:2px}
-.tab.soon{opacity:.45;pointer-events:none}
+.tab.soon{opacity:.72;pointer-events:none;cursor:default}.tab.soon::after{content:" · pronto";font-size:.7em;opacity:.85;font-weight:500}
 .tgtop{background:var(--accent);color:#08121a;padding:9px 16px;border-radius:10px;font-weight:800;font-size:.85rem;text-decoration:none;white-space:nowrap}
 .hero{background:radial-gradient(1200px 400px at 80% -10%,color-mix(in srgb,var(--accent) 18%,transparent),transparent),linear-gradient(180deg,var(--bg2),var(--bg));border-bottom:1px solid var(--line)}
 .heroin{max-width:1200px;margin:0 auto;padding:40px 16px 28px}
@@ -60,6 +60,8 @@ main{max-width:1200px;margin:0 auto;padding:26px 16px 70px}
 .card{background:var(--card);color:var(--txt);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 2px 10px rgba(0,0,0,.25);transition:transform .12s,box-shadow .12s}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.35)}
 .imgbox{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:12px}
+.imgbox.ld{background:linear-gradient(100deg,#eef1f6 30%,#f7f9fc 50%,#eef1f6 70%);background-size:200% 100%;animation:skg 1.2s ease-in-out infinite}
+@keyframes skg{to{background-position:-200% 0}}
 .imgbox img{max-width:100%;max-height:100%;object-fit:contain}
 .badge-pct{position:absolute;top:10px;left:10px;background:var(--red);color:#fff;font-weight:900;font-size:.9rem;padding:5px 9px;border-radius:8px}
 .storechip{position:absolute;top:10px;right:10px;font-weight:800;font-size:.62rem;padding:4px 8px;border-radius:6px;letter-spacing:.04em;color:#08121a}
@@ -93,8 +95,9 @@ footer{border-top:1px solid var(--line);margin-top:40px}
       <a class="tab" href="/costco/">Costco</a>
       <a class="tab" href="/coppel/">Coppel</a>
       <a class="tab" href="/mercadolibre/">MeLi</a>
-      <span class="tab soon">Liverpool</span>
-      <span class="tab soon">Amazon</span>
+      <span class="tab soon" title="Próximamente">Liverpool</span>
+      <span class="tab soon" title="Próximamente">Amazon</span>
+      <span class="tab soon" title="Próximamente">Sears</span>
     </div>
     <a class="tgtop" href="https://t.me/CostcoAhorros" target="_blank" rel="noopener">Unirme al Telegram</a>
   </div>
@@ -127,18 +130,18 @@ const STORES = [
   {key:'palacio',      name:'Palacio de Hierro', path:'palacio',      accent:'#d4af37'},
   {key:'costco',       name:'Costco',            path:'costco',       accent:'#e11d2a'},
   {key:'coppel',       name:'Coppel',            path:'coppel',       accent:'#2b7cf0'},
-  {key:'mercadolibre', name:'Mercado Libre', short:'MeLi',     path:'mercadolibre', accent:'#ffe600'},
+  {key:'mercadolibre', name:'Mercado Libre',     path:'mercadolibre', accent:'#ffe600', short:'MeLi'},
 ];
 const TOP_N = 5;
 const $ = id => document.getElementById(id);
-const money = v => '$' + Number(v).toLocaleString('es-MX',{maximumFractionDigits:Number.isInteger(v)?0:2});
+const money = v => { const n=Number(v)||0; const dec=Number.isInteger(n)?0:2; return '$' + n.toLocaleString('es-MX',{minimumFractionDigits:dec, maximumFractionDigits:dec}); };
 const score = d => d.pct * Math.log10(10 + d.amount);
 let ALL = []; // {store, ...deal}
 
-function makeCard(d, store){
+function makeCard(d, store, eager){
   const card=document.createElement('div'); card.className='card';
   const ib=document.createElement('div'); ib.className='imgbox';
-  if(d.img){ const im=document.createElement('img'); im.loading='lazy'; im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
+  if(d.img){ const im=document.createElement('img'); im.loading=eager?'eager':'lazy'; if(eager)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('div'); bp.className='badge-pct'; bp.textContent='-'+Math.round(d.pct)+'%';
   const sc=document.createElement('div'); sc.className='storechip'; sc.style.background=store.accent; sc.textContent=(store.short||store.name.split(' ')[0]).toUpperCase();
   card.append(ib,bp,sc);
@@ -175,9 +178,11 @@ async function loadStore(store){
     const r=await fetch(store.path+'/top.json?_='+Date.now(),{cache:'no-store'});
     if(!r.ok) throw new Error(r.status);
     const data=await r.json();
-    const deals=(data.deals||[]).slice().sort((a,b)=>score(b)-score(a));
+    let deals=(data.deals||[]);
+    { const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} deals=Array.from(seen.values()); }
+    deals=deals.slice().sort((a,b)=>score(b)-score(a));
     grid.innerHTML='';
-    deals.slice(0,TOP_N).forEach(d=>{ d._store=store.key; ALL.push({...d,_store:store.key,_name:store.name,_accent:store.accent,_path:store.path}); grid.appendChild(makeCard(d,store)); });
+    const _eager = store.key===STORES[0].key; deals.slice(0,TOP_N).forEach(d=>{ d._store=store.key; ALL.push({...d,_store:store.key,_name:store.name,_accent:store.accent,_path:store.path}); grid.appendChild(makeCard(d,store,_eager)); });
     cnt.textContent = data.total ? ('· '+Number(data.total).toLocaleString('es-MX')+' ofertas') : '';
     return {store, total:data.total||deals.length, best:Math.max(0,...deals.map(d=>d.pct)), when:data.generated_at_str};
   }catch(e){
@@ -204,26 +209,4 @@ function updateStats(){
     ['🏬','<b>'+ok.length+'</b> tiendas'],
     ['🕑','actualizado cada hora'],
   ];
-  items.forEach(([e,h])=>{ const s=document.createElement('span'); s.className='pill'; s.innerHTML=e+' '+h; bar.appendChild(s); });
-}
-
-function applySearch(q){
-  q=q.trim().toLowerCase();
-  STORES.forEach(store=>{
-    const grid=$('grid-'+store.key); if(!grid) return;
-    const mine=ALL.filter(d=>d._store===store.key);
-    const shown = q ? mine.filter(d=>d.name.toLowerCase().includes(q)) : mine.sort((a,b)=>score(b)-score(a)).slice(0,TOP_N);
-    grid.innerHTML='';
-    if(!shown.length){ const em=document.createElement('div'); em.className='err'; em.textContent='Sin resultados en '+store.name+'.'; grid.appendChild(em); return; }
-    shown.slice(0, q?12:TOP_N).forEach(d=>grid.appendChild(makeCard(d,store)));
-  });
-}
-
-// init
-const sec=$('sections');
-STORES.forEach(store=>{ const sh=sectionShell(store); sec.appendChild(sh); $('grid-'+store.key).innerHTML=skeletons(); });
-Promise.all(STORES.map(loadStore)).then(res=>{ RESULTS=res; updateStats(); });
-$('q').addEventListener('input',e=>applySearch(e.target.value));
-</script>
-</body>
-</html>
+  items.forEach(([e,h

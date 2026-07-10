@@ -1,6 +1,6 @@
 {
- "generated_at": 1783711086.5283568,
- "generated_at_str": "10/07/2026 13:18",
+ "generated_at": 1783714697.8582246,
+ "generated_at_str": "10/07/2026 14:18",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1955,6 +1955,21 @@
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783693147.886097
+  },
+  {
+   "id": "693723",
+   "name": "Nespresso, Cafetera Vertuo Lattisima Black",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Cafeteras-y-Teteras/Nespresso-Cafetera-Vertuo-Lattisima-Black/p/693723",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbd/h54/343306026123294.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 7899.0,
+   "price_new": 5649.0,
+   "pct": 28.5,
+   "amount": 2250.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "703747",
@@ -5452,6 +5467,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "700726",
+   "name": "Emporio Armani 0EA3259 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Emporio-Armani-0EA3259-Armazon-Oftalmico/p/700726",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcc/h37/416168513339422.jpg",
+   "category": "Optica",
+   "price_old": 2699.0,
+   "price_new": 2024.25,
+   "pct": 25.0,
+   "amount": 674.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "700725",
    "name": "Emporio Armani 0EA3253 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Emporio-Armani-0EA3253-Armazon-Oftalmico/p/700725",
@@ -8598,6 +8628,21 @@
    "amount": 4200.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "2002634",
+   "name": "Sauna Infrarrojo Ultra Low EMF Dynamic Lugano, 3 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Ultra-Low-EMF-Dynamic-Lugano-3-Personas/p/2002634",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h9c/175849409544222.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 89999.0,
+   "price_new": 69999.0,
+   "pct": 22.2,
+   "amount": 20000.0,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },

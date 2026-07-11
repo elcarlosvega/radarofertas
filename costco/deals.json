@@ -1,6 +1,6 @@
 {
- "generated_at": 1783789749.6408594,
- "generated_at_str": "11/07/2026 11:09",
+ "generated_at": 1783793364.9364753,
+ "generated_at_str": "11/07/2026 12:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -547,6 +547,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "695474",
+   "name": "JLAB Jbuds Open Sport Audífonos Inalámbricos Conducción Aérea",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/JLAB-Jbuds-Open-Sport-Audifonos-Inalambricos-Conduccion-Aerea/p/695474",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3b/h7b/366219915264030.jpg",
+   "category": "Electronicos",
+   "price_old": 1799.0,
+   "price_new": 1249.0,
+   "pct": 30.6,
+   "amount": 550.0,
+   "starts": "2026-06-22T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "1889179",
    "name": "Desobry Galletas Belgas Seleccionadas 600 g",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Galletas-y-Cereales/Desobry-Galletas-Belgas-Seleccionadas-600-g/p/1889179",
@@ -967,21 +982,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "686855",
-   "name": "Sonos Ace Audífonos Bluetooth Negros",
-   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Sonos-Ace-Audifonos-Bluetooth-Negros/p/686855",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/hdb/278830863319070.jpg",
-   "category": "Electronicos",
-   "price_old": 8499.0,
-   "price_new": 5949.0,
-   "pct": 30.0,
-   "amount": 2550.0,
-   "starts": "2026-07-08T06:00:00.000Z",
-   "ends": "2026-07-22T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "1390050",
    "name": "Sealy, Siena, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/Sealy-Siena-Colchon-Matrimonial/p/1390050",
@@ -1234,7 +1234,7 @@
    "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783789749.6408594
+   "first_seen": 1783789763.151063
   },
   {
    "id": "665571",
@@ -8434,7 +8434,7 @@
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783789749.6408594
+   "first_seen": 1783789763.151063
   },
   {
    "id": "704683",
@@ -8868,21 +8868,6 @@
    "amount": 4200.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "2002634",
-   "name": "Sauna Infrarrojo Ultra Low EMF Dynamic Lugano, 3 Personas",
-   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Ultra-Low-EMF-Dynamic-Lugano-3-Personas/p/2002634",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h9c/175849409544222.jpg",
-   "category": "Hogar y Bano",
-   "price_old": 89999.0,
-   "price_new": 69999.0,
-   "pct": 22.2,
-   "amount": 20000.0,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -10084,7 +10069,7 @@
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783789749.6408594
+   "first_seen": 1783789763.151063
   },
   {
    "id": "696198",
@@ -14282,21 +14267,6 @@
    "pct": 5.2,
    "amount": 1500.0,
    "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "703949",
-   "name": "Samsung Pantalla 83\" OLED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV/p/703949",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hdd/he0/485231533916190.jpg",
-   "category": "Electronicos",
-   "price_old": 41999.0,
-   "price_new": 39999.0,
-   "pct": 4.8,
-   "amount": 2000.0,
-   "starts": "2026-07-08T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572

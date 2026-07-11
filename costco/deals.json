@@ -1,11 +1,26 @@
 {
- "generated_at": 1783775345.1792953,
- "generated_at_str": "11/07/2026 07:09",
+ "generated_at": 1783778934.223418,
+ "generated_at_str": "11/07/2026 08:08",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
  },
  "deals": [
+  {
+   "id": "685353",
+   "name": "Universal Broadmoore, Cama Tamaño King Con Dosel",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-King-Con-Dosel/p/685353",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/h33/367525539807262.jpg",
+   "category": "Muebles",
+   "price_old": 19999.0,
+   "price_new": 9999.0,
+   "pct": 50.0,
+   "amount": 10000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783778934.223418
+  },
   {
    "id": "682092",
    "name": "Crayola Set Inspiración de Arte 140 Piezas",
@@ -446,6 +461,21 @@
    "name": "Skullcandy Bundle Rail + Jib Audífonos",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Skullcandy-Bundle-Rail-Jib-Audifonos/p/696143",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hff/h2f/402215840186398.jpg",
+   "category": "Electronicos",
+   "price_old": 1799.0,
+   "price_new": 1249.0,
+   "pct": 30.6,
+   "amount": 550.0,
+   "starts": "2026-06-22T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "695474",
+   "name": "JLAB Jbuds Open Sport Audífonos Inalámbricos Conducción Aérea",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/JLAB-Jbuds-Open-Sport-Audifonos-Inalambricos-Conduccion-Aerea/p/695474",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3b/h7b/366219915264030.jpg",
    "category": "Electronicos",
    "price_old": 1799.0,
    "price_new": 1249.0,
@@ -1010,6 +1040,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "685376",
+   "name": "Tequila Patrón Cristalino 700 ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Tequila-Patron-Cristalino-700-ml/p/685376",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h09/hb8/227372220153886.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 1099.0,
+   "price_new": 769.3,
+   "pct": 30.0,
+   "amount": 329.7,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783778934.223418
   },
   {
    "id": "2315612",
@@ -2360,6 +2405,21 @@
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "696357",
+   "name": "DELL Alienware Gaming ACT 1250 Desktop Tower Intel Core Ultra 7 32GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Gaming-ACT-1250-Desktop-Tower-Intel-Core-Ultra-7-32GB-1TB-SSD/p/696357",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd1/hc7/486488842797086.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 54999.0,
+   "price_new": 39999.0,
+   "pct": 27.3,
+   "amount": 15000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783778934.223418
   },
   {
    "id": "664483",
@@ -12123,21 +12183,6 @@
    "amount": 7000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "703960",
-   "name": "Hisense Pantalla 75\" Miniled 4K Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Miniled-4K-Google-TV/p/703960",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/hea/468632295079966.jpg",
-   "category": "Electronicos",
-   "price_old": 26999.0,
-   "price_new": 22999.0,
-   "pct": 14.8,
-   "amount": 4000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },

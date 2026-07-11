@@ -2,211 +2,148 @@
 <html lang="es-MX">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="index,follow">
 <title>Radar Ofertas MX — las mejores ofertas de México en un solo lugar</title>
 <meta name="description" content="Radar Ofertas MX detecta automáticamente las mejores rebajas de Palacio de Hierro, Costco, Coppel y Mercado Libre, actualizadas cada hora. Descuentos reales, en un solo lugar.">
 <link rel="canonical" href="https://radarofertas.mx/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Radar Ofertas MX">
 <meta property="og:title" content="Radar Ofertas MX — las mejores ofertas de México">
 <meta property="og:description" content="Detectamos las mejores rebajas de varias tiendas, actualizadas cada hora.">
+<meta property="og:type" content="website">
 <meta property="og:url" content="https://radarofertas.mx/">
-<meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%230b1020'/><circle cx='32' cy='32' r='20' fill='none' stroke='%2322d3ee' stroke-width='4'/><circle cx='32' cy='32' r='4' fill='%2322d3ee'/></svg>">
 <style>
-:root{
-  --bg:#0b1020; --bg2:#111a33; --panel:#141d38; --line:#26304f;
-  --accent:#22d3ee; --accent2:#ffd23f;
-  --ink:#eaf1ff; --mut:#93a3c9; --card:#fff; --txt:#141a2b; --gris:#6b7488;
-  --green:#12b76a; --red:#e6295a;
-}
+:root{--bg:#0b1020;--bg2:#111a33;--panel:#141d38;--line:#26304f;--accent:#22d3ee;--ink:#eaf1ff;--mut:#93a3c9;--card:#fff;--txt:#141a2b;--red:#e6295a;--green:#12b76a}
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
 a{color:inherit}
-.skip{position:absolute;left:-999px;top:0;background:#111827;color:#fff;padding:8px 14px;z-index:99;border-radius:0 0 8px 0}.skip:focus{left:0}
-a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
-.nav{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,#000);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
-.navin{max-width:1200px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:18px}
-.brand{font-weight:900;letter-spacing:.02em;font-size:1.05rem;white-space:nowrap}
-.brand b{color:var(--accent)}
-.tabs{display:flex;gap:4px;flex:1;flex-wrap:wrap}
-.tab{padding:7px 12px;border-radius:8px;font-size:.86rem;font-weight:600;color:var(--mut);text-decoration:none}
-.tab.on{color:var(--ink);position:relative}
-.tab.on::after{content:"";position:absolute;left:12px;right:12px;bottom:2px;height:2px;background:var(--accent);border-radius:2px}
-.tab.soon{opacity:.72;pointer-events:none;cursor:default}.tab.soon::after{content:" · pronto";font-size:.7em;opacity:.85;font-weight:500}
-.tgtop{background:var(--accent);color:#08121a;padding:9px 16px;border-radius:10px;font-weight:800;font-size:.85rem;text-decoration:none;white-space:nowrap}
-.hero{background:radial-gradient(1200px 400px at 80% -10%,color-mix(in srgb,var(--accent) 18%,transparent),transparent),linear-gradient(180deg,var(--bg2),var(--bg));border-bottom:1px solid var(--line)}
-.heroin{max-width:1200px;margin:0 auto;padding:40px 16px 28px}
-.eyebrow{font-weight:800;letter-spacing:.14em;font-size:.8rem;color:var(--mut)}
+.nav{position:sticky;top:0;z-index:9;background:color-mix(in srgb,var(--bg) 88%,#000);border-bottom:1px solid var(--line);padding:11px 16px;display:flex;gap:13px;align-items:center;flex-wrap:wrap}
+.nav a.t{color:var(--mut);text-decoration:none;font-weight:600;font-size:.85rem}
+.nav a.on{color:var(--ink)}
+.brand{font-weight:900;font-size:1rem}.brand b{color:var(--accent)}
+.soon{color:var(--mut);opacity:.6;font-size:.85rem}
+.tg{margin-left:auto;background:var(--accent);color:#08121a;padding:8px 14px;border-radius:9px;font-weight:800;text-decoration:none;font-size:.85rem;white-space:nowrap}
+.hero{max-width:1140px;margin:0 auto;padding:34px 16px 6px}
+.eyebrow{font-weight:800;letter-spacing:.14em;font-size:.78rem;color:var(--mut)}
 .eyebrow span{color:var(--accent)}
-h1.tag{font-size:2.5rem;line-height:1.05;font-weight:900;letter-spacing:-.02em;margin:8px 0 12px;max-width:20ch}
-h1.tag em{color:var(--accent);font-style:normal}
-.lead{color:var(--mut);font-size:1rem;max-width:56ch;margin-bottom:20px}
-.searchbig{display:flex;gap:10px;max-width:560px;margin-bottom:18px}
+h1{font-size:2.3rem;font-weight:900;line-height:1.08;margin:8px 0 12px;max-width:22ch}
+h1 em{color:var(--accent);font-style:normal}
+.lead{color:var(--mut);font-size:1rem;max-width:56ch;margin-bottom:18px}
+.searchbig{display:flex;max-width:560px;margin-bottom:16px}
 .searchbig input{flex:1;padding:13px 16px;border-radius:12px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font-size:1rem}
 .statbar{display:flex;gap:10px;flex-wrap:wrap}
-.pill{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--line);padding:8px 13px;border-radius:99px;font-size:.82rem;color:var(--mut)}
+.pill{background:var(--panel);border:1px solid var(--line);padding:8px 13px;border-radius:99px;font-size:.82rem;color:var(--mut)}
 .pill b{color:var(--ink)}
-main{max-width:1200px;margin:0 auto;padding:26px 16px 70px}
-.storesec{margin-top:36px}
-.storehead{display:flex;align-items:center;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+main{max-width:1140px;margin:0 auto;padding:20px 16px 70px}
+.storesec{margin-top:34px}
+.storehead{display:flex;align-items:center;gap:11px;margin-bottom:13px;flex-wrap:wrap}
 .dot{width:12px;height:12px;border-radius:50%;flex:none}
-.storehead h2{font-size:1.25rem;font-weight:800}
+.storehead h2{font-size:1.2rem;font-weight:800}
 .storehead .cnt{color:var(--mut);font-size:.82rem}
-.storehead .all{margin-left:auto;color:var(--accent);text-decoration:none;font-weight:700;font-size:.86rem;white-space:nowrap}
-.storehead .all:hover{text-decoration:underline}
+.storehead .all{margin-left:auto;color:var(--accent);text-decoration:none;font-weight:700;font-size:.85rem;white-space:nowrap}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
-.card{background:var(--card);color:var(--txt);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 2px 10px rgba(0,0,0,.25);transition:transform .12s,box-shadow .12s}
-.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.35)}
-.imgbox{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:12px}
-.imgbox.ld{background:linear-gradient(100deg,#eef1f6 30%,#f7f9fc 50%,#eef1f6 70%);background-size:200% 100%;animation:skg 1.2s ease-in-out infinite}
-@keyframes skg{to{background-position:-200% 0}}
-.imgbox img{max-width:100%;max-height:100%;object-fit:contain}
-.badge-pct{position:absolute;top:10px;left:10px;background:var(--red);color:#fff;font-weight:900;font-size:.9rem;padding:5px 9px;border-radius:8px}
-.storechip{position:absolute;top:10px;right:10px;font-weight:800;font-size:.62rem;padding:4px 8px;border-radius:6px;letter-spacing:.04em;color:#08121a}
-.cbody{padding:12px 13px 13px;display:flex;flex-direction:column;gap:5px;flex:1}
-.cat{font-size:.64rem;color:var(--gris);text-transform:uppercase;letter-spacing:.06em}
-.nm{font-size:.88rem;font-weight:650;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.3em}
-.prices{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
-.pnew{color:var(--red);font-size:1.2rem;font-weight:900}
-.pold{color:var(--gris);text-decoration:line-through;font-size:.82rem}
-.save{font-size:.74rem;color:var(--green);font-weight:800}
-.go{margin-top:auto;display:block;text-align:center;background:var(--txt);color:#fff;text-decoration:none;font-weight:800;font-size:.8rem;padding:10px;border-radius:9px}
-.go:hover{filter:brightness(1.25)}
-.sk{background:var(--panel);border:1px solid var(--line);border-radius:14px;height:280px;position:relative;overflow:hidden}
-.sk::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.05),transparent);animation:sh 1.2s infinite}
-@keyframes sh{100%{transform:translateX(100%)}}
-.err{padding:16px;border:1px dashed var(--line);border-radius:12px;color:var(--mut);font-size:.86rem}
-.err button{margin-left:8px;background:var(--accent);color:#08121a;border:0;border-radius:8px;padding:6px 12px;font-weight:800;cursor:pointer}
-footer{border-top:1px solid var(--line);margin-top:40px}
-.foot{max-width:1200px;margin:0 auto;padding:22px 16px;font-size:.72rem;color:var(--mut);display:flex;gap:16px;flex-wrap:wrap;justify-content:space-between}
-@media(max-width:760px){.navin{flex-wrap:wrap;gap:10px 12px}.tabs{order:3;flex:0 0 100%;flex-wrap:nowrap;overflow-x:auto;gap:2px}.tab{padding:6px 10px;white-space:nowrap}.tab.soon{display:none}.tgtop{margin-left:auto}h1.tag{font-size:2rem}.grid{grid-template-columns:repeat(2,1fr);gap:10px}.cbody{padding:10px}.pnew{font-size:1.05rem}}
+.card{background:var(--card);color:var(--txt);border-radius:13px;overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 2px 10px rgba(0,0,0,.28)}
+.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:11px}
+.imgb img{max-width:100%;max-height:100%;object-fit:contain}
+.pct{position:absolute;top:9px;left:9px;background:var(--red);color:#fff;font-weight:900;padding:4px 9px;border-radius:8px;font-size:.9rem}
+.chip{position:absolute;top:9px;right:9px;font-weight:800;font-size:.6rem;padding:4px 7px;border-radius:6px;color:#08121a}
+.cb{padding:11px 13px;display:flex;flex-direction:column;gap:5px;flex:1}
+.nm{font-size:.85rem;font-weight:650;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.2em}
+.pr{display:flex;gap:7px;align-items:baseline;flex-wrap:wrap}
+.pn{color:var(--red);font-weight:900;font-size:1.1rem}.po{color:#8892a6;text-decoration:line-through;font-size:.78rem}
+.sv{color:var(--green);font-weight:800;font-size:.72rem}
+.go{margin-top:auto;text-align:center;background:var(--txt);color:#fff;text-decoration:none;font-weight:800;padding:9px;border-radius:8px;font-size:.78rem}
+.sk{background:var(--panel);border:1px solid var(--line);border-radius:13px;height:250px}
+.err{padding:14px;border:1px dashed var(--line);border-radius:12px;color:var(--mut);font-size:.85rem}
+footer{border-top:1px solid var(--line);padding:20px 16px;color:var(--mut);font-size:.72rem;text-align:center}
+footer a{color:var(--accent)}
 </style>
 </head>
 <body>
-<a class="skip" href="#stores">Saltar al contenido</a>
 <nav class="nav">
-  <div class="navin">
-    <a class="brand" href="/">RADAR <b>OFERTAS</b> MX</a>
-    <div class="tabs">
-      <a class="tab on" href="/">Inicio</a>
-      <a class="tab" href="/palacio/">Palacio</a>
-      <a class="tab" href="/costco/">Costco</a>
-      <a class="tab" href="/coppel/">Coppel</a>
-      <a class="tab" href="/mercadolibre/">MeLi</a>
-      <span class="tab soon" title="Próximamente">Liverpool</span>
-      <span class="tab soon" title="Próximamente">Amazon</span>
-      <span class="tab soon" title="Próximamente">Sears</span>
-    </div>
-    <a class="tgtop" href="https://t.me/CostcoAhorros" target="_blank" rel="noopener">Unirme al Telegram</a>
-  </div>
+  <a class="brand" href="/">RADAR <b>OFERTAS</b> MX</a>
+  <a class="t on" href="/">Inicio</a>
+  <a class="t" href="/palacio/">Palacio</a>
+  <a class="t" href="/costco/">Costco</a>
+  <a class="t" href="/coppel/">Coppel</a>
+  <a class="t" href="/mercadolibre/">MeLi</a>
+  <span class="soon" title="Próximamente">Liverpool · pronto</span>
+  <a class="tg" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Unirme al Telegram</a>
 </nav>
 <header class="hero">
-  <div class="heroin">
-    <div class="eyebrow">RADAR <span>OFERTAS</span> MX</div>
-    <h1 class="tag">Las mejores ofertas de México, <em>en un solo lugar</em>.</h1>
-    <p class="lead">Detectamos automáticamente las rebajas más fuertes de varias tiendas y las juntamos aquí, actualizadas cada hora. Tú solo eliges.</p>
-    <div class="searchbig">
-      <input id="q" type="search" placeholder="Buscar en todas las tiendas…" aria-label="Buscar ofertas en todas las tiendas">
-    </div>
-    <div class="statbar" id="statbar">
-      <span class="pill">🕑 Cargando ofertas…</span>
-    </div>
-  </div>
+  <div class="eyebrow">RADAR <span>OFERTAS</span> MX</div>
+  <h1>Las mejores ofertas de México, <em>en un solo lugar</em>.</h1>
+  <p class="lead">Detectamos automáticamente las rebajas más fuertes de varias tiendas y las juntamos aquí, actualizadas cada hora. Tú solo eliges.</p>
+  <div class="searchbig"><input id="q" type="search" placeholder="Buscar en las ofertas destacadas…" aria-label="Buscar"></div>
+  <div class="statbar" id="statbar"><span class="pill">🕑 Cargando ofertas…</span></div>
 </header>
-<main id="stores">
-  <div id="sections"></div>
-</main>
+<main id="sections"></main>
 <footer>
-  <div class="foot">
-    <span>Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Los precios y vigencias pueden cambiar sin previo aviso; verifica siempre el precio final en el sitio oficial antes de comprar.</span>
-    <span>Actualizado automáticamente cada hora.</span>
-  </div>
+  Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
+  <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.
 </footer>
 <script>
-// Tiendas activas. Agregar una tienda = agregar una línea aquí.
-const STORES = [
-  {key:'palacio',      name:'Palacio de Hierro', path:'palacio',      accent:'#d4af37'},
-  {key:'costco',       name:'Costco',            path:'costco',       accent:'#e11d2a'},
-  {key:'coppel',       name:'Coppel',            path:'coppel',       accent:'#2b7cf0'},
-  {key:'mercadolibre', name:'Mercado Libre',     path:'mercadolibre', accent:'#ffe600', short:'MeLi'},
-];
-const TOP_N = 5;
-const $ = id => document.getElementById(id);
-const money = v => { const n=Number(v)||0; const dec=Number.isInteger(n)?0:2; return '$' + n.toLocaleString('es-MX',{minimumFractionDigits:dec, maximumFractionDigits:dec}); };
-const score = d => d.pct * Math.log10(10 + d.amount);
-let ALL = []; // {store, ...deal}
-
-function makeCard(d, store, eager){
-  const card=document.createElement('div'); card.className='card';
-  const ib=document.createElement('div'); ib.className='imgbox';
-  if(d.img){ const im=document.createElement('img'); im.loading=eager?'eager':'lazy'; if(eager)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
-  const bp=document.createElement('div'); bp.className='badge-pct'; bp.textContent='-'+Math.round(d.pct)+'%';
-  const sc=document.createElement('div'); sc.className='storechip'; sc.style.background=store.accent; sc.textContent=(store.short||store.name.split(' ')[0]).toUpperCase();
-  card.append(ib,bp,sc);
-  const body=document.createElement('div'); body.className='cbody';
-  const cat=document.createElement('div'); cat.className='cat'; cat.textContent=d.category||store.name;
-  const nm=document.createElement('div'); nm.className='nm'; nm.textContent=d.name;
-  const pr=document.createElement('div'); pr.className='prices';
-  const pn=document.createElement('span'); pn.className='pnew'; pn.textContent=money(d.price_new);
-  const po=document.createElement('span'); po.className='pold'; po.textContent=money(d.price_old);
-  pr.append(pn,po);
-  const sv=document.createElement('div'); sv.className='save'; sv.textContent='Ahorras '+money(d.amount);
-  const a=document.createElement('a'); a.className='go'; a.href=d.url; a.target='_blank'; a.rel='noopener nofollow';
-  a.setAttribute('aria-label','Ver oferta de '+d.name+' en '+store.name+' (abre en nueva pestaña)'); a.textContent='Ver oferta →';
-  body.append(cat,nm,pr,sv,a); card.appendChild(body);
-  return card;
+var STORES=[{key:'palacio',name:'Palacio de Hierro',path:'palacio',accent:'#e3c765',short:'Palacio'},
+ {key:'costco',name:'Costco',path:'costco',accent:'#e11d2a',short:'Costco'},
+ {key:'coppel',name:'Coppel',path:'coppel',accent:'#2b7cf0',short:'Coppel'},
+ {key:'mercadolibre',name:'Mercado Libre',path:'mercadolibre',accent:'#ffe600',short:'MeLi'}];
+var TOP_N=5;
+var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
+var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
+var score=function(d){return (d.pct||0)*Math.log10(10+(d.amount||0));};
+var ALL=[];
+function cardHtml(d,st){
+  return '<a class="card" href="'+esc(d.url)+'" target="_blank" rel="noopener nofollow">'+
+    '<div class="pct">-'+Math.round(d.pct||0)+'%</div>'+
+    '<div class="chip" style="background:'+st.accent+'">'+esc((st.short||st.name).toUpperCase())+'</div>'+
+    '<div class="imgb">'+(d.img?'<img loading="lazy" src="'+esc(d.img)+'" alt="">':'')+'</div>'+
+    '<div class="cb"><div class="nm">'+esc(d.name)+'</div>'+
+    '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
+    '<div class="sv">Ahorras '+money(d.amount)+'</div>'+
+    '<span class="go">Ver oferta →</span></div></a>';
 }
-
-function sectionShell(store){
-  const sec=document.createElement('section'); sec.className='storesec'; sec.dataset.store=store.key;
-  const head=document.createElement('div'); head.className='storehead';
-  const dot=document.createElement('span'); dot.className='dot'; dot.style.background=store.accent;
-  const h2=document.createElement('h2'); h2.textContent=store.name;
-  const cnt=document.createElement('span'); cnt.className='cnt'; cnt.id='cnt-'+store.key;
-  const all=document.createElement('a'); all.className='all'; all.href=store.path+'/'; all.textContent='Ver todas las de '+(store.short||store.name.split(' ')[0])+' →';
-  head.append(dot,h2,cnt,all);
-  const grid=document.createElement('div'); grid.className='grid'; grid.id='grid-'+store.key;
-  sec.append(head,grid);
-  return sec;
-}
-
-async function loadStore(store){
-  const grid=$('grid-'+store.key), cnt=$('cnt-'+store.key);
-  try{
-    const r=await fetch(store.path+'/top.json?_='+Date.now(),{cache:'no-store'});
-    if(!r.ok) throw new Error(r.status);
-    const data=await r.json();
-    let deals=(data.deals||[]);
-    { const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} deals=Array.from(seen.values()); }
-    deals=deals.slice().sort((a,b)=>score(b)-score(a));
-    grid.innerHTML='';
-    const _eager = store.key===STORES[0].key; deals.slice(0,TOP_N).forEach(d=>{ d._store=store.key; ALL.push({...d,_store:store.key,_name:store.name,_accent:store.accent,_path:store.path}); grid.appendChild(makeCard(d,store,_eager)); });
-    cnt.textContent = data.total ? ('· '+Number(data.total).toLocaleString('es-MX')+' ofertas') : '';
-    return {store, total:data.total||deals.length, best:Math.max(0,...deals.map(d=>d.pct)), when:data.generated_at_str};
-  }catch(e){
-    grid.innerHTML='';
-    const er=document.createElement('div'); er.className='err';
-    er.textContent='No se pudieron cargar las ofertas de '+store.name+'.';
-    const b=document.createElement('button'); b.textContent='Reintentar'; b.onclick=()=>{ grid.innerHTML=skeletons(); loadStore(store).then(updateStats); };
-    er.appendChild(b); grid.appendChild(er);
-    return null;
-  }
-}
-
-function skeletons(n=TOP_N){ let s=''; for(let i=0;i<n;i++) s+='<div class="sk"></div>'; return s; }
-
-let RESULTS=[];
+function skeletons(n){var s='';for(var i=0;i<n;i++)s+='<div class="sk"></div>';return s;}
+var sections=document.getElementById('sections');
+STORES.forEach(function(st){
+  var sec=document.createElement('section');sec.className='storesec';sec.id='sec-'+st.key;
+  sec.innerHTML='<div class="storehead"><span class="dot" style="background:'+st.accent+'"></span>'+
+    '<h2>'+esc(st.name)+'</h2><span class="cnt" id="cnt-'+st.key+'"></span>'+
+    '<a class="all" href="/'+st.path+'/">Ver todas las de '+esc(st.short||st.name)+' →</a></div>'+
+    '<div class="grid" id="grid-'+st.key+'">'+skeletons(TOP_N)+'</div>';
+  sections.appendChild(sec);
+});
+var results=[];
 function updateStats(){
-  const ok=RESULTS.filter(Boolean);
-  const total=ok.reduce((a,r)=>a+(r.total||0),0);
-  const best=Math.max(0,...ok.map(r=>r.best||0));
-  const bar=$('statbar'); bar.innerHTML='';
-  const items=[
-    ['🛍️','<b>'+total.toLocaleString('es-MX')+'</b> ofertas activas'],
-    ['🔥','hasta <b>'+Math.round(best)+'%</b> de descuento'],
-    ['🏬','<b>'+ok.length+'</b> tiendas'],
-    ['🕑','actualizado cada hora'],
-  ];
-  items.forEach(([e,h
+  var ok=results.filter(Boolean);
+  var total=ok.reduce(function(a,r){return a+(r.total||0);},0);
+  var best=Math.max.apply(null,[0].concat(ok.map(function(r){return r.best||0;})));
+  var bar=document.getElementById('statbar');
+  bar.innerHTML='<span class="pill">🛍️ <b>'+total.toLocaleString('es-MX')+'</b> ofertas activas</span>'+
+    '<span class="pill">🔥 hasta <b>'+Math.round(best)+'%</b></span>'+
+    '<span class="pill">🏬 <b>'+ok.length+'</b> tiendas</span>'+
+    '<span class="pill">🕑 actualizado cada hora</span>';
+}
+function loadStore(st){
+  return fetch(st.path+'/top.json?_='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(data){
+    var deals=(data.deals||[]).slice().sort(function(a,b){return score(b)-score(a);});
+    deals.slice(0,TOP_N).forEach(function(d){ALL.push({d:d,st:st});});
+    document.getElementById('grid-'+st.key).innerHTML=deals.slice(0,TOP_N).map(function(d){return cardHtml(d,st);}).join('')||'<div class="err">Sin ofertas ahora.</div>';
+    document.getElementById('cnt-'+st.key).textContent=data.total?('· '+Number(data.total).toLocaleString('es-MX')+' ofertas'):'';
+    return {total:data.total||deals.length,best:Math.max.apply(null,[0].concat(deals.map(function(d){return d.pct||0;})))};
+  }).catch(function(){
+    document.getElementById('grid-'+st.key).innerHTML='<div class="err">No se pudieron cargar las ofertas de '+esc(st.name)+'.</div>';
+    return null;
+  });
+}
+Promise.all(STORES.map(loadStore)).then(function(res){results=res;updateStats();});
+document.getElementById('q').addEventListener('input',function(e){
+  var q=e.target.value.trim().toLowerCase();
+  STORES.forEach(function(st){
+    var mine=ALL.filter(function(x){return x.st.key===st.key;});
+    var shown=q?mine.filter(function(x){return String(x.d.name||'').toLowerCase().indexOf(q)>=0;}):mine.slice(0,TOP_N);
+    var g=document.getElementById('grid-'+st.key);
+    g.innerHTML=shown.length?shown.map(function(x){return cardHtml(x.d,x.st);}).join(''):'<div class="err">Sin resultados en '+esc(st.name)+'.</div>';
+  });
+});
+</script>
+</body>
+</html>

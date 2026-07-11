@@ -1,7 +1,7 @@
 {
- "generated_at": 1783778934.223418,
- "generated_at_str": "11/07/2026 08:08",
- "total": 942,
+ "generated_at": 1783782549.9504907,
+ "generated_at_str": "11/07/2026 09:09",
+ "total": 952,
  "deals": [
   {
    "id": "685353",
@@ -13,6 +13,39 @@
    "pct": 50.0,
    "amount": 10000.0,
    "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-King-Con-Dosel/p/685353"
+  },
+  {
+   "id": "688034",
+   "name": "Universal Broadmoore, Bellevue, Cama Queen",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/hd3/367525542330398.jpg",
+   "category": "Muebles",
+   "price_new": 8999.0,
+   "price_old": 17999.0,
+   "pct": 50.0,
+   "amount": 9000.0,
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Bellevue-Cama-Queen/p/688034"
+  },
+  {
+   "id": "689330",
+   "name": "Universal Broadmoore, Cama Tamaño Queen Con Dosel",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h45/367525552881694.jpg",
+   "category": "Muebles",
+   "price_new": 8999.0,
+   "price_old": 17999.0,
+   "pct": 50.0,
+   "amount": 9000.0,
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-Queen-Con-Dosel/p/689330"
+  },
+  {
+   "id": "1812505",
+   "name": "Universal Broadmoore, Bellevue, Mesa de Noche",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/ha3/367525932630046.jpg",
+   "category": "Muebles",
+   "price_new": 3999.0,
+   "price_old": 7999.0,
+   "pct": 50.0,
+   "amount": 4000.0,
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Buros/Universal-Broadmoore-Bellevue-Mesa-de-Noche/p/1812505"
   },
   {
    "id": "683627",
@@ -101,39 +134,6 @@
    "pct": 33.3,
    "amount": 6000.0,
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0151la-Laptop-156-Full-HD-Tactil-Intel-Core-i5-8GB-512GB-SSD-12-Meses-M365-Personal/p/695045"
-  },
-  {
-   "id": "693792",
-   "name": "Samsung Lavasecadora Eléctrica 26Kg/15Kg Bespoke AI",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he3/h2a/452706645803038.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 33599.0,
-   "price_old": 47999.0,
-   "pct": 30.0,
-   "amount": 14400.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-26Kg15Kg-Bespoke-AI/p/693792"
-  },
-  {
-   "id": "702556",
-   "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD Intel Core 7 16GB 512GB SSD",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h72/h21/450325706506270.jpg",
-   "category": "Computadoras y Tablets",
-   "price_new": 23399.0,
-   "price_old": 33799.0,
-   "pct": 30.8,
-   "amount": 10400.0,
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-Intel-Core-7-16GB-512GB-SSD/p/702556"
-  },
-  {
-   "id": "684411",
-   "name": "Samsung Bespoke Centro de Lavado Blanco 22/24KG",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h4f/452706639675422.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 30099.0,
-   "price_old": 42999.0,
-   "pct": 30.0,
-   "amount": 12900.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-Centro-de-Lavado-Blanco-2224KG/p/684411"
   }
  ]
 }

@@ -334,4 +334,4 @@ function render(){
     amount:(a,b)=>b.amount-a.amount, new:(a,b)=>b.first_seen-a.first_seen,
     price:(a,b)=>a.price_new-b.price_new, ends:(a,b)=>new Date(a.ends||'2099')-new Date(b.ends||'2099') }[sort];
   list.sort(cmp);
-  $('count').textContent=list.length+' oferta'+(list.length===1?'':'
+  $('count').textContent=list.length+' oferta'+(list.len

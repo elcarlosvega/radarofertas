@@ -1,6 +1,6 @@
 {
- "generated_at": 1783793364.9364753,
- "generated_at_str": "11/07/2026 12:09",
+ "generated_at": 1783796964.7881083,
+ "generated_at_str": "11/07/2026 13:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -971,6 +971,21 @@
    "name": "Sonos Ace Audífonos Bluetooth Blancos",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Sonos-Ace-Audifonos-Bluetooth-Blancos/p/688386",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h1b/h2d/278830870528030.jpg",
+   "category": "Electronicos",
+   "price_old": 8499.0,
+   "price_new": 5949.0,
+   "pct": 30.0,
+   "amount": 2550.0,
+   "starts": "2026-07-08T06:00:00.000Z",
+   "ends": "2026-07-22T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "686855",
+   "name": "Sonos Ace Audífonos Bluetooth Negros",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Sonos-Ace-Audifonos-Bluetooth-Negros/p/686855",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/hdb/278830863319070.jpg",
    "category": "Electronicos",
    "price_old": 8499.0,
    "price_new": 5949.0,
@@ -4578,21 +4593,6 @@
    "amount": 999.75,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "704767",
-   "name": "Coach 0HC6261BU Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC6261BU-Armazon-Oftalmico/p/704767",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h9a/h1d/471761628299294.jpg",
-   "category": "Optica",
-   "price_old": 3999.0,
-   "price_new": 2999.25,
-   "pct": 25.0,
-   "amount": 999.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -8512,21 +8512,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "702200",
-   "name": "Whirlpool Lavadora Carga Superior 28kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-Carga-Superior-28kg/p/702200",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/h52/436354918907934.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 22999.0,
-   "price_new": 17499.0,
-   "pct": 23.9,
-   "amount": 5500.0,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "694476",
    "name": "Sony Pantalla 75\" BRAVIA II UHD 4K Google TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Sony-Pantalla-75-BRAVIA-II-UHD-4K-Google-TV/p/694476",
@@ -8868,6 +8853,21 @@
    "amount": 4200.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "2002634",
+   "name": "Sauna Infrarrojo Ultra Low EMF Dynamic Lugano, 3 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Ultra-Low-EMF-Dynamic-Lugano-3-Personas/p/2002634",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h9c/175849409544222.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 89999.0,
+   "price_new": 69999.0,
+   "pct": 22.2,
+   "amount": 20000.0,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -9232,21 +9232,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "695386",
-   "name": "Samsung Galaxy Watch 8 Classic 46mm Blanco",
-   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-8-Classic-46mm-Blanco/p/695386",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h2b/368805604327454.jpg",
-   "category": "Joyeria y Relojes",
-   "price_old": 6999.0,
-   "price_new": 5499.0,
-   "pct": 21.4,
-   "amount": 1500.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "702949",
    "name": "Hisense Pantalla 55\" QLED 4K Fire TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Hisense-Pantalla-55-QLED-4K-Fire-TV/p/702949",
@@ -9320,21 +9305,6 @@
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783693170.9841163
-  },
-  {
-   "id": "695370",
-   "name": "Samsung Galaxy S25 Edge 256GB Azul Titanio",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Edge-256GB-Azul-Titanio/p/695370",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/h3a/368805529845790.jpg",
-   "category": "Electronicos",
-   "price_old": 16499.0,
-   "price_new": 12999.0,
-   "pct": 21.2,
-   "amount": 3500.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783700236.6629386
   },
   {
    "id": "676485",
@@ -13102,21 +13072,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "1014223",
-   "name": "Adidas Caminadora T23",
-   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/Adidas-Caminadora-T23/p/1014223",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h59/h76/204641123467294.jpg",
-   "category": "Deportes",
-   "price_old": 39999.0,
-   "price_new": 34999.0,
-   "pct": 12.5,
-   "amount": 5000.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "683833",
    "name": "Sole Caminadora F63",
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/Sole-Caminadora-F63/p/683833",
@@ -14267,6 +14222,21 @@
    "pct": 5.2,
    "amount": 1500.0,
    "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703949",
+   "name": "Samsung Pantalla 83\" OLED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV/p/703949",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdd/he0/485231533916190.jpg",
+   "category": "Electronicos",
+   "price_old": 41999.0,
+   "price_new": 39999.0,
+   "pct": 4.8,
+   "amount": 2000.0,
+   "starts": "2026-07-08T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572

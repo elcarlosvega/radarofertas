@@ -10,6 +10,10 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%23111827'/><text x='32' y='46' font-size='40' font-family='Arial,sans-serif' font-weight='bold' fill='%23ffffff' text-anchor='middle'>R</text></svg>">
 <title>Radar Costco — ofertas detectadas cada hora</title>
 <meta name="description" content="Ofertas de Costco detectadas automáticamente: descuentos fuertes y rebajas grandes, actualizado cada hora. Página no oficial.">
+<link rel="canonical" href="https://radarofertas.mx/costco/">
+<meta property="og:title" content="Radar Costco — ofertas detectadas cada hora">
+<meta property="og:description" content="Ofertas de Costco detectadas automáticamente, actualizado cada hora. Página no oficial.">
+<meta property="og:url" content="https://radarofertas.mx/costco/">
 <style>
 :root{
   --bg:#081226; --bg2:#0c1e3f; --panel:#0f2148; --line:#20386b;
@@ -30,7 +34,7 @@ a{color:inherit}
 .tab{padding:7px 12px;border-radius:8px;font-size:.86rem;font-weight:600;color:var(--mut);text-decoration:none}
 .tab.on{color:var(--ink);position:relative}
 .tab.on::after{content:"";position:absolute;left:12px;right:12px;bottom:2px;height:2px;background:var(--accent);border-radius:2px}
-.tab.soon{opacity:.45;pointer-events:none}
+.tab.soon{opacity:.72;pointer-events:none;cursor:default}.tab.soon::after{content:" · pronto";font-size:.7em;opacity:.85;font-weight:500}
 .tgtop{background:var(--accent);color:#fff;padding:9px 16px;border-radius:10px;font-weight:700;font-size:.85rem;text-decoration:none;white-space:nowrap}
 .tgtop.gold{color:#1a1400}
 /* hero */
@@ -84,7 +88,7 @@ main{max-width:1200px;margin:0 auto;padding:26px 16px 70px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
 .card{background:var(--card);color:var(--txt);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 2px 10px rgba(0,0,0,.25);transition:transform .12s,box-shadow .12s}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.35)}
-.imgbox{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:12px}
+.imgbox{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:12px}.imgbox.ld{background:linear-gradient(100deg,#eef1f6 30%,#f7f9fc 50%,#eef1f6 70%);background-size:200% 100%;animation:sk 1.2s ease-in-out infinite}@keyframes sk{to{background-position:-200% 0}}
 .imgbox img{max-width:100%;max-height:100%;object-fit:contain}
 .badge-pct{position:absolute;top:11px;left:11px;background:var(--red);color:#fff;font-weight:900;font-size:.95rem;padding:5px 10px;border-radius:9px;box-shadow:0 3px 8px rgba(0,0,0,.3)}
 .tag2{position:absolute;top:11px;right:11px;font-weight:800;font-size:.66rem;padding:4px 9px;border-radius:7px;letter-spacing:.05em}
@@ -119,15 +123,16 @@ footer{border-top:1px solid var(--line);margin-top:30px}
 <nav class="nav">
   <div class="navin">
     <a class="brand" href="#top">RADAR <b>OFERTAS</b> MX</a>
-    <div class="tabs"><a class="tab" href="/">Inicio</a><a class="tab" href="/palacio/">Palacio</a><a class="tab on" href="/costco/">Costco</a><a class="tab" href="/coppel/">Coppel</a><a class="tab" href="/mercadolibre/">MeLi</a><span class="tab soon">Liverpool</span><span class="tab soon">Amazon</span><span class="tab soon">Sears</span></div>
+    <div class="tabs"><a class="tab" href="/">Inicio</a><a class="tab" href="/palacio/">Palacio</a><a class="tab on" href="/costco/">Costco</a><a class="tab" href="/coppel/">Coppel</a><a class="tab" href="/mercadolibre/">MeLi</a><span class="tab soon" title="Próximamente">Liverpool</span><span class="tab soon" title="Próximamente">Amazon</span><span class="tab soon" title="Próximamente">Sears</span></div>
     <a class="tgtop " href="https://t.me/CostcoAhorros" target="_blank" rel="noopener">Unirme al Telegram</a>
   </div>
 </nav>
+<div id="stalebar" role="alert" style="display:none;background:#7c2d12;color:#fff;text-align:center;padding:9px 16px;font-size:.85rem;font-weight:600;line-height:1.35">⚠️ Datos temporalmente retrasados — esta tienda no se actualizó en el último barrido. Verifica el precio final antes de comprar.</div>
 <header class="hero" id="top">
   <div class="heroin">
     <div>
       <div class="eyebrow">RADAR <span>COSTCO</span></div>
-      <h1 class="tag">Descuentos de <em>Costco</em><br>cazados cada hora.</h1>
+      <h1 class="tag">Descuentos de <em>Costco</em> <br>cazados cada hora.</h1>
       <p class="lead">Detectamos rebajas reales y te mostramos lo que vale la pena revisar antes de que cambie de precio.</p>
       <div class="hcta">
         <button class="btn primary" id="verTop">🔥 Ver imperdibles</button>
@@ -210,10 +215,12 @@ const $ = id => document.getElementById(id);
 const STEP = 240;
 const HAS_ENDS = true;
 function boot(){
-const deals = (DATA && DATA.deals) || [];
-const money = v => '$' + v.toLocaleString('es-MX', {maximumFractionDigits: Number.isInteger(v)?0:2});
+let deals = (DATA && DATA.deals) || [];
+(function(){ const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} deals=Array.from(seen.values()); })();
+const money = v => '$' + v.toLocaleString('es-MX', {minimumFractionDigits: Number.isInteger(v)?0:2, maximumFractionDigits: Number.isInteger(v)?0:2});
 const now = Date.now();
 const genAt = DATA ? DATA.generated_at*1000 : now;
+if(DATA && (now-genAt) > 3*3600e3){ var _sb=document.getElementById('stalebar'); if(_sb) _sb.style.display='block'; }
 const isNew = d => (genAt - d.first_seen*1000) < 864e5 || (now - d.first_seen*1000) < 864e5;
 const daysLeft = d => { if(!d.ends) return null; const ms = new Date(d.ends)-now; return Math.ceil(ms/864e5); };
 const score = d => d.pct * Math.log10(10 + d.amount);
@@ -242,10 +249,10 @@ const topSet = new Set([...deals].sort((a,b)=>score(b)-score(a)).slice(0,8).map(
 function badge(d){ if(isNew(d)) return ['nueva','NUEVA','Detectada en las últimas 24 horas']; if(topSet.has(d.id)) return ['top','TOP','Entre las mejores por combinación de descuento y ahorro']; if(d.pct>=40) return ['hot','HOT','Descuento de 40% o más']; return null; }
 
 // tarjeta (DOM, sin innerHTML con datos crudos -> evita XSS)
-function makeCard(d){
+function makeCard(d, eager){
   const card=document.createElement('div'); card.className='card';
   const ib=document.createElement('div'); ib.className='imgbox';
-  if(d.img){ const im=document.createElement('img'); im.loading='lazy'; im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
+  if(d.img){ const im=document.createElement('img'); im.loading=eager?'eager':'lazy'; if(eager)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('div'); bp.className='badge-pct'; bp.textContent='-'+Math.round(d.pct)+'%';
   card.append(ib,bp);
   const bd=badge(d); if(bd){ const t=document.createElement('div'); t.className='tag2 '+bd[0]; t.textContent=bd[1]; if(bd[2])t.title=bd[2]; card.appendChild(t); }
@@ -267,7 +274,7 @@ function makeCard(d){
 }
 
 // imperdibles
-const topGrid=$('topgrid'); [...deals].sort((a,b)=>score(b)-score(a)).slice(0,8).forEach(d=>topGrid.appendChild(makeCard(d)));
+const topGrid=$('topgrid'); [...deals].sort((a,b)=>score(b)-score(a)).slice(0,8).forEach(d=>topGrid.appendChild(makeCard(d, true)));
 
 // categorias
 const cats=[...new Set(deals.map(d=>d.category))].sort();
@@ -327,25 +334,4 @@ function render(){
     amount:(a,b)=>b.amount-a.amount, new:(a,b)=>b.first_seen-a.first_seen,
     price:(a,b)=>a.price_new-b.price_new, ends:(a,b)=>new Date(a.ends||'2099')-new Date(b.ends||'2099') }[sort];
   list.sort(cmp);
-  $('count').textContent=list.length+' oferta'+(list.length===1?'':'s')+(list.length>shown?' (mostrando '+shown+')':'');
-  $('empty').style.display=list.length?'none':'block';
-  $('more').style.display=list.length>shown?'block':'none';
-  const frag=document.createDocumentFragment();
-  list.slice(0,shown).forEach(d=>frag.appendChild(makeCard(d)));
-  const g=$('grid'); g.innerHTML=''; g.appendChild(frag);
-}
-$('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();shown=STEP;render();});
-$('sort').addEventListener('change',e=>{sort=e.target.value;shown=STEP;render();});
-$('pct').addEventListener('input',e=>{minPct=+e.target.value;activeQuick='';document.querySelectorAll('.qchip').forEach(b=>b.classList.remove('on'));$('pctLbl').textContent=(minPct>=hiPct?'≥ ':'')+minPct+'%';shown=STEP;render();});
-$('amt').addEventListener('input',e=>{minAmt=+e.target.value;activeQuick='';document.querySelectorAll('.qchip').forEach(b=>b.classList.remove('on'));$('amtLbl').textContent=(minAmt>=hiAmt?'≥ ':'')+money(minAmt);shown=STEP;render();});
-$('more').addEventListener('click',()=>{shown+=STEP;render();});
-$('advtgl').addEventListener('click',()=>{const o=$('adv').classList.toggle('show');$('advtgl').setAttribute('aria-expanded',o);});
-$('verTop').addEventListener('click',()=>$('topSec').scrollIntoView({behavior:'smooth'}));
-applyQuick('todo');if(window.innerWidth<=760){$('adv').classList.remove('show');$('advtgl').setAttribute('aria-expanded','false');}
-}
-if (DATA) boot();
-else fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{DATA=d;boot();})
-  .catch(()=>{ $('upd').textContent='Aún no hay datos — el primer barrido corre pronto.'; });
-</script>
-</body>
-</html>
+  $('count').textContent=list.length+' oferta'+(list.length===1?'':'s')+(list.len

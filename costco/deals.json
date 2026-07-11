@@ -1,6 +1,6 @@
 {
- "generated_at": 1783778934.223418,
- "generated_at_str": "11/07/2026 08:08",
+ "generated_at": 1783782549.9504907,
+ "generated_at_str": "11/07/2026 09:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -19,7 +19,52 @@
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783778934.223418
+   "first_seen": 1783778939.4408414
+  },
+  {
+   "id": "688034",
+   "name": "Universal Broadmoore, Bellevue, Cama Queen",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Bellevue-Cama-Queen/p/688034",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/hd3/367525542330398.jpg",
+   "category": "Muebles",
+   "price_old": 17999.0,
+   "price_new": 8999.0,
+   "pct": 50.0,
+   "amount": 9000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
+  },
+  {
+   "id": "689330",
+   "name": "Universal Broadmoore, Cama Tamaño Queen Con Dosel",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-Queen-Con-Dosel/p/689330",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h45/367525552881694.jpg",
+   "category": "Muebles",
+   "price_old": 17999.0,
+   "price_new": 8999.0,
+   "pct": 50.0,
+   "amount": 9000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
+  },
+  {
+   "id": "1812505",
+   "name": "Universal Broadmoore, Bellevue, Mesa de Noche",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Buros/Universal-Broadmoore-Bellevue-Mesa-de-Noche/p/1812505",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/ha3/367525932630046.jpg",
+   "category": "Muebles",
+   "price_old": 7999.0,
+   "price_new": 3999.0,
+   "pct": 50.0,
+   "amount": 4000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
   },
   {
    "id": "682092",
@@ -172,6 +217,21 @@
    "first_seen": 1783606843.9460945
   },
   {
+   "id": "684491",
+   "name": "Samsung Galaxy S24 Ultra 256GB Gris Titanio",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S24-Ultra-256GB-Gris-Titanio/p/684491",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h01/227231424380958.jpg",
+   "category": "Electronicos",
+   "price_old": 23999.0,
+   "price_new": 16599.0,
+   "pct": 30.8,
+   "amount": 7400.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
+  },
+  {
    "id": "696319",
    "name": "ASUS Vivobook 14 Laptop 14\" WUGA Snapdragon X X1 16GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-Laptop-14-WUGA-Snapdragon-X-X1-16GB-512GB-SSD/p/696319",
@@ -245,6 +305,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783606912.8708422
+  },
+  {
+   "id": "696881",
+   "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD AMD Ryzen 7 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-AMD-Ryzen-7-16GB-1TB-SSD/p/696881",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hea/438164196360222.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 38499.0,
+   "price_new": 26699.0,
+   "pct": 30.7,
+   "amount": 11800.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
   },
   {
    "id": "702818",
@@ -727,21 +802,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "1654558",
-   "name": "Tommy Bahama Silla de Madera Plegable",
-   "url": "https://www.costco.com.mx/Deportes/Acuaticos/Accesorios/Tommy-Bahama-Silla-de-Madera-Plegable/p/1654558",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h85/h62/205605037244446.jpg",
-   "category": "Deportes",
-   "price_old": 4299.0,
-   "price_new": 2999.0,
-   "pct": 30.2,
-   "amount": 1300.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "1325468",
    "name": "Juego de 8 Vasos Acrílicos de Colores, 651mL",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Juego-de-8-Vasos-Acrilicos-de-Colores-651mL/p/1325468",
@@ -1054,7 +1114,7 @@
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783778934.223418
+   "first_seen": 1783778939.4408414
   },
   {
    "id": "2315612",
@@ -1595,6 +1655,36 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "2233445",
+   "name": "Michelin Tapete Universal de Hule Gris Para Automóvil 4 Piezas",
+   "url": "https://www.costco.com.mx/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Accesorios-para-Automovil/Michelin-Tapete-Universal-de-Hule-Gris-Para-Automovil-4-Piezas/p/2233445",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h90/h30/155946047537182.jpg",
+   "category": "Ferreteria Llantas y Automotriz",
+   "price_old": 549.0,
+   "price_new": 389.0,
+   "pct": 29.1,
+   "amount": 160.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
+  },
+  {
+   "id": "2233446",
+   "name": "Michelin Tapete Universal de Hule Café Para Automóvil 4 Piezas",
+   "url": "https://www.costco.com.mx/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Accesorios-para-Automovil/Michelin-Tapete-Universal-de-Hule-Cafe-Para-Automovil-4-Piezas/p/2233446",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h86/hf3/155946046783518.jpg",
+   "category": "Ferreteria Llantas y Automotriz",
+   "price_old": 549.0,
+   "price_new": 389.0,
+   "pct": 29.1,
+   "amount": 160.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
   },
   {
    "id": "694764",
@@ -2197,6 +2287,36 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "2658467",
+   "name": "Ninja Deluxe, Sistema de Cocina con Jarra de 2.6 L, Procesador de 9 Tazas, 2 Discos de Rebanado/triturado, 2 Vasos de 700 ml",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Licuadoras-y-Procesadores/Ninja-Deluxe-Sistema-de-Cocina-con-Jarra-de-26-L-Procesador-de-9-Tazas-2-Discos-de-Rebanadotriturado-2-Vasos-de-700-ml/p/2658467",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/hdc/298563259727902.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 4699.0,
+   "price_new": 3399.0,
+   "pct": 27.7,
+   "amount": 1300.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
+  },
+  {
+   "id": "668214",
+   "name": "Mikel's, Calibrador para Neumáticos con Carátula Profesional",
+   "url": "https://www.costco.com.mx/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Accesorios-para-Automovil/Mikels-Calibrador-para-Neumaticos-con-Caratula-Profesional/p/668214",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb3/ha0/80717789069342.webp",
+   "category": "Ferreteria Llantas y Automotriz",
+   "price_old": 325.0,
+   "price_new": 235.0,
+   "pct": 27.7,
+   "amount": 90.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
+  },
+  {
    "id": "634122",
    "name": "Carlos V Chocolate 27 pzas de 18 g",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Carlos-V-Chocolate-27-pzas-de-18-g/p/634122",
@@ -2419,7 +2539,7 @@
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783778934.223418
+   "first_seen": 1783778939.4408414
   },
   {
    "id": "664483",
@@ -6845,6 +6965,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "652382",
+   "name": "Accu-Chek Instant 100 Tiras + 100 Lancetas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Cuidado-para-Diabeticos/Accu-Chek-Instant-100-Tiras-100-Lancetas/p/652382",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3d/h0f/206799896215582.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1039.0,
+   "price_new": 779.25,
+   "pct": 25.0,
+   "amount": 259.75,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782549.9504907
   },
   {
    "id": "646707",
@@ -12183,6 +12318,21 @@
    "amount": 7000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703960",
+   "name": "Hisense Pantalla 75\" Miniled 4K Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Miniled-4K-Google-TV/p/703960",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/hea/468632295079966.jpg",
+   "category": "Electronicos",
+   "price_old": 26999.0,
+   "price_new": 22999.0,
+   "pct": 14.8,
+   "amount": 4000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },

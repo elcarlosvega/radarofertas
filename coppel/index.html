@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index,follow">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Radar Ofertas MX">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%23111827'/><text x='32' y='46' font-size='40' font-family='Arial,sans-serif' font-weight='bold' fill='%23ffffff' text-anchor='middle'>R</text></svg>">
+<title>Radar Coppel — ofertas detectadas cada hora</title>
+<meta name="description" content="Ofertas de Coppel detectadas automáticamente: descuentos fuertes y rebajas grandes, actualizado cada hora. Página no oficial.">
+<link rel="canonical" href="https://radarofertas.mx/coppel/">
+<meta property="og:title" content="Radar Coppel — ofertas detectadas cada hora">
+<meta property="og:description" content="Ofertas de Coppel detectadas automáticamente, actualizado cada hora. Página no oficial.">
+<meta property="og:url" content="https://radarofertas.mx/coppel/">
+<style>
+:root{
+  --bg:#041a3d; --bg2:#082a5f; --panel:#0b3370; --line:#1a4c96;
+  --accent:#2b7cf0; --accent2:#ffd21e;
+  --ink:#eaf2ff; --mut:#9fb6db; --card:#fff; --txt:#141a2b; --gris:#6b7488;
+  --green:#12b76a; --red:#e6295a;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:1200px;margin:0 auto;padding:0 16px}
+/* nav */
+.nav{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,#000);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.navin{max-width:1200px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:18px}
+.brand{font-weight:900;letter-spacing:.02em;font-size:1.05rem;white-space:nowrap}
+.brand b{color:var(--accent)}
+.tabs{display:flex;gap:4px;flex:1;flex-wrap:wrap}
+.tab{padding:7px 12px;border-radius:8px;font-size:.86rem;font-weight:600;color:var(--mut);text-decoration:none}
+.tab.on{color:var(--ink);position:relative}
+.tab.on::after{content:"";position:absolute;left:12px;right:12px;bottom:2px;height:2px;background:var(--accent);border-radius:2px}
+.tab.soon{opacity:.72;pointer-events:none;cursor:default}.tab.soon::after{content:" · pronto";font-size:.7em;opacity:.85;font-weight:500}
+.tgtop{background:var(--accent);color:#fff;padding:9px 16px;border-radius:10px;font-weight:700;font-size:.85rem;text-decoration:none;white-space:nowrap}
+.tgtop.gold{color:#1a1400}
+/* hero */
+.hero{background:radial-gradient(1200px 400px at 80% -10%,color-mix(in srgb,var(--accent) 22%,transparent),transparent),linear-gradient(180deg,var(--bg2),var(--bg));border-bottom:1px solid var(--line)}
+.heroin{max-width:1200px;margin:0 auto;padding:34px 16px 26px;display:grid;grid-template-columns:1.1fr 1fr;gap:28px;align-items:center}
+.eyebrow{font-weight:800;letter-spacing:.14em;font-size:.8rem;color:var(--mut)}
+.eyebrow span{color:var(--accent)}
+h1.tag{font-size:2.5rem;line-height:1.05;font-weight:900;letter-spacing:-.02em;margin:8px 0 12px}
+h1.tag em{color:var(--accent);font-style:normal}
+.lead{color:var(--mut);font-size:.98rem;max-width:44ch;margin-bottom:18px}
+.hcta{display:flex;gap:10px;flex-wrap:wrap}
+.btn{padding:12px 20px;border-radius:11px;font-weight:800;font-size:.9rem;text-decoration:none;border:0;cursor:pointer}
+.btn.primary{background:var(--accent);color:#fff}
+.btn.ghost{background:transparent;border:1px solid var(--line);color:var(--ink)}
+.metabar{display:flex;flex-direction:column;gap:8px;align-items:flex-end;margin-bottom:12px;font-size:.78rem;color:var(--mut)}
+.metabar b{color:var(--ink)}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--line);padding:6px 11px;border-radius:99px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 12px}
+.stat .n{font-size:1.5rem;font-weight:900;line-height:1;color:var(--ink)}
+.stat .n.acc{color:var(--accent)}
+.stat .n.grn{color:var(--green)}
+.stat .l{font-size:.68rem;color:var(--mut);margin-top:6px;line-height:1.2}
+/* sections */
+main{max-width:1200px;margin:0 auto;padding:26px 16px 70px}
+.sec{margin-top:30px}
+.sechead{display:flex;align-items:center;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+.sechead h2{font-size:1.15rem;font-weight:800}
+.sechead .sub{color:var(--mut);font-size:.82rem}
+.spacer{flex:1}
+/* filters */
+.filters{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;margin-top:24px}
+.frow{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.frow input[type=search]{flex:1;min-width:200px;padding:10px 13px;border-radius:9px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font-size:.9rem}
+.qchips{display:flex;gap:7px;flex-wrap:wrap;margin-top:12px}
+.qchip{border:1px solid var(--line);background:var(--bg);color:var(--mut);border-radius:99px;padding:7px 13px;font-size:.8rem;font-weight:600;cursor:pointer}
+.qchip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.advtgl{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:9px;padding:9px 13px;font-size:.82rem;cursor:pointer;font-weight:600}
+.adv{display:none;gap:22px;flex-wrap:wrap;margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.adv.show{display:flex}
+.slider{flex:1;min-width:240px}
+.slider label{font-size:.78rem;color:var(--mut);display:block;margin-bottom:6px}
+.slider label b{color:var(--ink);font-weight:800}
+.slider input[type=range]{width:100%;accent-color:var(--accent);cursor:pointer}
+.sel{padding:9px 12px;border-radius:9px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font-size:.85rem}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 14px}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:99px;padding:5px 12px;font-size:.76rem;cursor:pointer;color:var(--mut)}
+.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.count{font-size:.8rem;color:var(--mut);margin-bottom:12px}
+/* grid + cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.card{background:var(--card);color:var(--txt);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 2px 10px rgba(0,0,0,.25);transition:transform .12s,box-shadow .12s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.35)}
+.imgbox{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:12px}.imgbox.ld{background:linear-gradient(100deg,#eef1f6 30%,#f7f9fc 50%,#eef1f6 70%);background-size:200% 100%;animation:sk 1.2s ease-in-out infinite}@keyframes sk{to{background-position:-200% 0}}
+.imgbox img{max-width:100%;max-height:100%;object-fit:contain}
+.badge-pct{position:absolute;top:11px;left:11px;background:var(--red);color:#fff;font-weight:900;font-size:.95rem;padding:5px 10px;border-radius:9px;box-shadow:0 3px 8px rgba(0,0,0,.3)}
+.tag2{position:absolute;top:11px;right:11px;font-weight:800;font-size:.66rem;padding:4px 9px;border-radius:7px;letter-spacing:.05em}
+.tag2.top{background:var(--accent2);color:#1a1400}
+.tag2.nueva{background:var(--green);color:#fff}
+.tag2.hot{background:#ff6a00;color:#fff}
+.cbody{padding:13px 15px 15px;display:flex;flex-direction:column;gap:6px;flex:1}
+.cat{font-size:.66rem;color:var(--gris);text-transform:uppercase;letter-spacing:.07em}
+.nm{font-size:.9rem;font-weight:650;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.35em}
+.prices{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.pnew{color:var(--red);font-size:1.28rem;font-weight:900}
+.pold{color:var(--gris);text-decoration:line-through;font-size:.85rem}
+.save{font-size:.76rem;color:var(--green);font-weight:800}
+.vig{font-size:.72rem;color:var(--gris)}
+.vig.soon{color:var(--red);font-weight:800}
+.go{margin-top:auto;display:block;text-align:center;background:var(--txt);color:#fff;text-decoration:none;font-weight:800;font-size:.82rem;padding:11px;border-radius:9px}
+.go:hover{filter:brightness(1.25)}
+.more{display:block;margin:24px auto 0;padding:13px 30px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);font-weight:800;font-size:.9rem;cursor:pointer}
+.empty{padding:56px 0;text-align:center;color:var(--mut)}
+/* telegram band */
+.tgband{margin-top:40px;background:linear-gradient(120deg,var(--panel),var(--bg2));border:1px solid var(--line);border-radius:18px;padding:26px;display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.tgband .tgi{width:56px;height:56px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;font-size:1.6rem}
+.tgband h3{font-size:1.15rem;font-weight:800}
+.tgband p{color:var(--mut);font-size:.86rem}
+.tgband .btn{margin-left:auto}
+footer{border-top:1px solid var(--line);margin-top:30px}
+.foot{max-width:1200px;margin:0 auto;padding:20px 16px;font-size:.72rem;color:var(--mut);display:flex;gap:16px;flex-wrap:wrap;justify-content:space-between}
+@media(max-width:760px){.navin{flex-wrap:wrap;gap:10px 12px}.brand{font-size:.95rem}.tgtop{margin-left:auto;padding:8px 12px;font-size:.8rem}.tabs{order:3;flex:0 0 100%;flex-wrap:nowrap;overflow-x:auto;gap:2px}.tab{padding:6px 10px;white-space:nowrap}.tab.soon{display:none}.heroin{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}h1.tag{font-size:2rem}.metabar{align-items:flex-start}.grid{grid-template-columns:repeat(2,1fr);gap:10px}.cbody{padding:10px 11px 12px}.pnew{font-size:1.12rem}.imgbox{padding:8px}}
+.skip{position:absolute;left:-999px;top:0;background:#111827;color:#fff;padding:8px 14px;z-index:99;border-radius:0 0 8px 0}.skip:focus{left:0}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}</style>
+</head>
+<body><a class="skip" href="#grid">Saltar al contenido</a>
+<nav class="nav">
+  <div class="navin">
+    <a class="brand" href="#top">RADAR <b>OFERTAS</b> MX</a>
+    <div class="tabs"><a class="tab" href="/">Inicio</a><a class="tab" href="/palacio/">Palacio</a><a class="tab" href="/costco/">Costco</a><a class="tab on" href="/coppel/">Coppel</a><a class="tab" href="/mercadolibre/">MeLi</a><span class="tab soon" title="Próximamente">Liverpool</span><span class="tab soon" title="Próximamente">Amazon</span><span class="tab soon" title="Próximamente">Sears</span></div>
+    <a class="tgtop " href="https://t.me/CostcoAhorros" target="_blank" rel="noopener">Unirme al Telegram</a>
+  </div>
+</nav>
+<div id="stalebar" role="alert" style="display:none;background:#7c2d12;color:#fff;text-align:center;padding:9px 16px;font-size:.85rem;font-weight:600;line-height:1.35">⚠️ Datos temporalmente retrasados — esta tienda no se actualizó en el último barrido. Verifica el precio final antes de comprar.</div>
+<header class="hero" id="top">
+  <div class="heroin">
+    <div>
+      <div class="eyebrow">RADAR <span>COPPEL</span></div>
+      <h1 class="tag">Descuentos de <em>Coppel</em> <br>cazados cada hora.</h1>
+      <p class="lead">Detectamos rebajas reales y te mostramos lo que vale la pena revisar antes de que cambie de precio.</p>
+      <div class="hcta">
+        <button class="btn primary" id="verTop">🔥 Ver imperdibles</button>
+        <a class="btn ghost" href="https://t.me/CostcoAhorros" target="_blank" rel="noopener">Unirme al Telegram</a>
+      </div>
+    </div>
+    <div>
+      <div class="metabar">
+        
+        <span class="pill">🕑 Actualizado <b id="upd">—</b></span>
+        <span class="pill">↻ Barrido automático cada hora</span>
+        <span class="pill">Página no oficial</span>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+  </div>
+</header>
+<main>
+  <section class="sec" id="topSec">
+    <div class="sechead"><h2>🔥 Imperdibles de hoy</h2>
+      <span class="sub">La mejor combinación de descuento, ahorro y precio.</span></div>
+    <div class="grid" id="topgrid"></div>
+  </section>
+
+  <div class="filters">
+    <div class="frow">
+      <input id="q" type="search" placeholder="Buscar producto…">
+      <button class="advtgl" id="advtgl" aria-expanded="true" aria-controls="adv">⚙ Filtros avanzados</button>
+    </div>
+    <div class="qchips" id="qchips"></div>
+    <div class="adv show" id="adv">
+      <div class="slider">
+        <label for="pct">Descuento mínimo: <b id="pctLbl">—</b></label>
+        <input id="pct" type="range" min="10" max="70" step="5" value="10">
+      </div>
+      <div class="slider">
+        <label for="amt">Ahorro mínimo: <b id="amtLbl">$0</b></label>
+        <input id="amt" type="range" min="0" max="100" step="1" value="0">
+      </div>
+    </div>
+  </div>
+
+  <section class="sec">
+    <div class="sechead"><h2>Todas las ofertas detectadas</h2><span class="spacer"></span>
+      <label class="sub">Ordenar:&nbsp;</label>
+      <select class="sel" id="sort">
+        <option value="score">Mejores primero</option>
+        <option value="pct">Mayor % de descuento</option>
+        <option value="amount">Mayor ahorro ($)</option>
+        <option value="new">Más recientes</option>
+        <option value="price">Menor precio</option>
+        <option value="ends">Por terminar</option>
+      </select>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="count" id="count" role="status" aria-live="polite"></div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" style="display:none">Sin resultados con esos filtros.</div>
+    <button class="more" id="more" style="display:none">Cargar más ofertas</button>
+  </section>
+
+  <section class="tgband">
+    <div class="tgi">✈️</div>
+    <div>
+      <h3>No estés revisando cada hora.</h3>
+      <p>Te avisamos cuando aparezca una oferta buena. Es gratis y te sales cuando quieras.</p>
+    </div>
+    <a class="btn primary" href="https://t.me/CostcoAhorros" target="_blank" rel="noopener">Unirme al canal</a>
+  </section>
+</main>
+<footer>
+  <div class="foot">
+    <span>Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Los precios y vigencias pueden cambiar sin previo aviso; verifica siempre el precio final en el sitio oficial antes de comprar.</span>
+    <span>Criterio: descuento ≥ <span id="thpct"></span>% o rebaja ≥ $<span id="tham"></span>.</span>
+  </div>
+</footer>
+<script>
+let DATA = /*__DATA__*/null;
+const $ = id => document.getElementById(id);
+const STEP = 240;
+const HAS_ENDS = true;
+function boot(){
+let deals = (DATA && DATA.deals) || [];
+(function(){ const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} deals=Array.from(seen.values()); })();
+const money = v => '$' + v.toLocaleString('es-MX', {minimumFractionDigits: Number.isInteger(v)?0:2, maximumFractionDigits: Number.isInteger(v)?0:2});
+const now = Date.now();
+const genAt = DATA ? DATA.generated_at*1000 : now;
+if(DATA && (now-genAt) > 3*3600e3){ var _sb=document.getElementById('stalebar'); if(_sb) _sb.style.display='block'; }
+const isNew = d => (genAt - d.first_seen*1000) < 864e5 || (now - d.first_seen*1000) < 864e5;
+const daysLeft = d => { if(!d.ends) return null; const ms = new Date(d.ends)-now; return Math.ceil(ms/864e5); };
+const score = d => d.pct * Math.log10(10 + d.amount);
+
+// meta + stats
+$('upd').textContent = DATA ? (function(){var m=Math.max(0,Math.round((now-genAt)/60000));return DATA.generated_at_str+' · '+(m<60?'hace '+m+' min':'hace '+Math.round(m/60)+' h');})() : '—';
+if (DATA){ $('thpct').textContent = DATA.thresholds.min_pct;
+  const t=$('tham'); if(t) t.textContent = (DATA.thresholds.min_amount||0).toLocaleString('es-MX'); }
+const maxPct = deals.length ? Math.max(...deals.map(d=>d.pct)) : 0;
+const maxAmt = deals.length ? Math.max(...deals.map(d=>d.amount)) : 0;
+const nuevas = deals.filter(isNew).length;
+const statData = [
+  {n: deals.length.toLocaleString('es-MX'), l:'Ofertas activas hoy', c:''},
+  {n: Math.round(maxPct)+'%', l:'Mayor % de descuento', c:'acc'},
+  {n: money(Math.round(maxAmt)), l:'Mayor ahorro en pesos', c:'grn'},
+  {n: nuevas.toLocaleString('es-MX'), l:'Nuevas ofertas hoy', c:'acc'},
+];
+$('stats').innerHTML = '';
+statData.forEach(s=>{ const d=document.createElement('div'); d.className='stat';
+  const n=document.createElement('div'); n.className='n '+s.c; n.textContent=s.n;
+  const l=document.createElement('div'); l.className='l'; l.textContent=s.l;
+  d.append(n,l); $('stats').appendChild(d); });
+
+// badges: top por score
+const topSet = new Set([...deals].sort((a,b)=>score(b)-score(a)).slice(0,8).map(d=>d.id));
+function badge(d){ if(isNew(d)) return ['nueva','NUEVA','Detectada en las últimas 24 horas']; if(topSet.has(d.id)) return ['top','TOP','Entre las mejores por combinación de descuento y ahorro']; if(d.pct>=40) return ['hot','HOT','Descuento de 40% o más']; return null; }
+
+// tarjeta (DOM, sin innerHTML con datos crudos -> evita XSS)
+function makeCard(d, eager){
+  const card=document.createElement('div'); card.className='card';
+  const ib=document.createElement('div'); ib.className='imgbox';
+  if(d.img){ const im=document.createElement('img'); im.loading=eager?'eager':'lazy'; if(eager)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
+  const bp=document.createElement('div'); bp.className='badge-pct'; bp.textContent='-'+Math.round(d.pct)+'%';
+  card.append(ib,bp);
+  const bd=badge(d); if(bd){ const t=document.createElement('div'); t.className='tag2 '+bd[0]; t.textContent=bd[1]; if(bd[2])t.title=bd[2]; card.appendChild(t); }
+  const body=document.createElement('div'); body.className='cbody';
+  const cat=document.createElement('div'); cat.className='cat'; cat.textContent=d.category;
+  const nm=document.createElement('div'); nm.className='nm'; nm.textContent=d.name;
+  const pr=document.createElement('div'); pr.className='prices';
+  const pn=document.createElement('span'); pn.className='pnew'; pn.textContent=money(d.price_new);
+  const po=document.createElement('span'); po.className='pold'; po.textContent=money(d.price_old);
+  pr.append(pn,po);
+  const sv=document.createElement('div'); sv.className='save'; sv.textContent='Ahorras '+money(d.amount);
+  body.append(cat,nm,pr,sv);
+  const dl=daysLeft(d);
+  if(dl!==null){ const v=document.createElement('div'); v.className='vig'+(dl<=2?' soon':'');
+    v.textContent = dl<=0?'Termina hoy': dl===1?'Termina mañana':'Vigente '+dl+' días más'; body.appendChild(v); }
+  const a=document.createElement('a'); a.className='go'; a.href=d.url; a.target='_blank'; a.rel='noopener nofollow'; a.setAttribute('aria-label','Ver oferta de '+d.name+' (abre en el sitio de la tienda, nueva pestaña)'); a.textContent='Ver oferta →';
+  body.appendChild(a); card.appendChild(body);
+  return card;
+}
+
+// imperdibles
+const topGrid=$('topgrid'); [...deals].sort((a,b)=>score(b)-score(a)).slice(0,8).forEach(d=>topGrid.appendChild(makeCard(d, true)));
+
+// categorias
+const cats=[...new Set(deals.map(d=>d.category))].sort();
+let activeCat=null,q='',sort='score',shown=STEP,minPct,minAmt,maxPrice=null,onlyNew=false,endingSoon=false;
+
+// sliders dinamicos
+const pcts=deals.map(d=>d.pct);
+const hiPct=pcts.length?Math.max(70,Math.ceil(Math.max(...pcts))):70;
+const loPct=pcts.length?Math.floor(Math.min(...pcts)):10;
+const amounts=deals.map(d=>d.amount);
+const hiAmt=amounts.length?Math.ceil(Math.max(...amounts)):100;
+const loAmt=amounts.length?Math.floor(Math.min(...amounts)):0;
+minPct=loPct; minAmt=loAmt;
+const pctEl=$('pct'), amtEl=$('amt');
+pctEl.min=loPct; pctEl.max=hiPct; pctEl.value=loPct; $('pctLbl').textContent=loPct+'%';
+amtEl.min=loAmt; amtEl.max=hiAmt; amtEl.value=loAmt; amtEl.step=Math.max(1,Math.round((hiAmt-loAmt)/200)); $('amtLbl').textContent=money(loAmt);
+
+const chipsEl=$('chips');
+const mkChip=(label,val)=>{ const b=document.createElement('button'); b.className='chip'; b.textContent=label;
+  b.onclick=()=>{ activeCat=(activeCat===val?null:val); shown=STEP; render(); }; b.dataset.val=val===null?'':val; return b; };
+chipsEl.appendChild(mkChip('Todas',null)); cats.forEach(c=>chipsEl.appendChild(mkChip(c,c)));
+
+// filtros rapidos
+const quick=[
+  {k:'todo',label:'Todo'},
+  {k:'p50',label:'50% o más'},
+  {k:'p70',label:'70% o más'},
+  {k:'a1000',label:'Ahorro $1,000+'},
+  {k:'lt500',label:'Menos de $500'},
+  {k:'new',label:'Recién detectadas'},
+];
+if(HAS_ENDS) quick.push({k:'soon',label:'Terminan pronto'});
+let activeQuick='todo';
+const qEl=$('qchips');
+function applyQuick(k){
+  activeQuick=k;
+  minPct=loPct; minAmt=loAmt; maxPrice=null; onlyNew=false; endingSoon=false;
+  if(k==='p50'){ minPct=Math.max(loPct,50); } else if(k==='p70'){ minPct=Math.max(loPct,70); }
+  else if(k==='a1000'){ minAmt=Math.max(loAmt,1000); } else if(k==='lt500'){ maxPrice=500; }
+  else if(k==='new'){ onlyNew=true; } else if(k==='soon'){ endingSoon=true; }
+  pctEl.value=minPct; $('pctLbl').textContent=(minPct>=hiPct?'≥ ':'')+minPct+'%';
+  amtEl.value=minAmt; $('amtLbl').textContent=(minAmt>=hiAmt?'≥ ':'')+money(minAmt);
+  shown=STEP; render();
+}
+quick.forEach(qq=>{ const b=document.createElement('button'); b.className='qchip'; b.textContent=qq.label;
+  b.dataset.k=qq.k; b.onclick=()=>applyQuick(qq.k); qEl.appendChild(b); });
+
+function render(){
+  document.querySelectorAll('.qchip').forEach(b=>{const on=b.dataset.k===activeQuick;b.classList.toggle('on',on);b.setAttribute('aria-pressed',on);});
+  document.querySelectorAll('.chip').forEach(b=>{const on=(b.dataset.val||null)===activeCat||(b.dataset.val===''&&activeCat===null);b.classList.toggle('on',on);b.setAttribute('aria-pressed',on);});
+  let list=deals.filter(d=>(!activeCat||d.category===activeCat)&&(!q||d.name.toLowerCase().includes(q))
+    && d.pct>=minPct && d.amount>=minAmt
+    && (maxPrice===null||d.price_new<=maxPrice)
+    && (!onlyNew||isNew(d))
+    && (!endingSoon||(daysLeft(d)!==null&&daysLeft(d)<=2)));
+  const cmp={ score:(a,b)=>score(b)-score(a), pct:(a,b)=>b.pct-a.pct||b.amount-a.amount,
+    amount:(a,b)=>b.amount-a.amount, new:(a,b)=>b.first_seen-a.first_seen,
+    price:(a,b)=>a.price_new-b.price_new, ends:(a,b)=>new Date(a.ends||'2099')-new Date(b.ends||'2099') }[sort];
+  list.sort(cmp);
+  $('count').textContent=list.length+' oferta'+(list.length===1?'':'s')+(list.length>shown?' (mostrando '+shown+')':'');
+  $('empty').style.display=list.length?'none':'block';
+  $('more').style.display=list.length>shown?'block':'none';
+  const frag=document.createDocumentFragment();
+  list.slice(0,shown).forEach(d=>frag.appendChild(makeCard(d)));
+  const g=$('grid'); g.innerHTML=''; g.appendChild(frag);
+}
+$('q').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();shown=STEP;render();});
+$('sort').addEventListener('change',e=>{sort=e.target.value;shown=STEP;render();});
+$('pct').addEventListener('input',e=>{minPct=+e.target.value;activeQuick='';document.querySelectorAll('.qchip').forEach(b=>b.classList.remove('on'));$('pctLbl').textContent=(minPct>=hiPct?'≥ ':'')+minPct+'%';shown=STEP;render();});
+$('amt').addEventListener('input',e=>{minAmt=+e.target.value;activeQuick='';document.querySelectorAll('.qchip').forEach(b=>b.class

@@ -1,6 +1,6 @@
 {
- "generated_at": 1783818570.0219412,
- "generated_at_str": "11/07/2026 19:09",
+ "generated_at": 1783822174.380261,
+ "generated_at_str": "11/07/2026 20:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9502,6 +9502,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "659200",
+   "name": "Smeg Estufa de gas 48\"",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Estufa-de-gas-48/p/659200",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h06/h26/365038769111070.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 124999.0,
+   "price_new": 98999.0,
+   "pct": 20.8,
+   "amount": 26000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "676247",
    "name": "Samsung Lavadora 22Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavadora-22Kg/p/676247",
@@ -10188,6 +10203,21 @@
    "amount": 5000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "659233",
+   "name": "Smeg Campana de isla 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Campana-de-isla-90cm/p/659233",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h07/28966085394462.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 25999.0,
+   "price_new": 20999.0,
+   "pct": 19.2,
+   "amount": 5000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -12048,21 +12078,6 @@
    "amount": 15000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "677233",
-   "name": "Smeg Estufa Portofino de gas con 4 quemadores 30\"",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Estufa-Portofino-de-gas-con-4-quemadores-30/p/677233",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/haa/hd0/365039135195166.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 39999.0,
-   "price_new": 33999.0,
-   "pct": 15.0,
-   "amount": 6000.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },

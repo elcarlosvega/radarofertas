@@ -1,6 +1,6 @@
 {
- "generated_at": 1783876166.2718515,
- "generated_at_str": "12/07/2026 11:09",
+ "generated_at": 1783879800.7673438,
+ "generated_at_str": "12/07/2026 12:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2392,6 +2392,21 @@
    "first_seen": 1783636130.0769348
   },
   {
+   "id": "690475",
+   "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Blanco Estelar",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Blanco-Estelar/p/690475",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5e/hb2/292367633547294.jpg",
+   "category": "Electronicos",
+   "price_old": 17799.0,
+   "price_new": 12899.0,
+   "pct": 27.5,
+   "amount": 4900.0,
+   "starts": "2026-07-09T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "690476",
    "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Morado",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Morado/p/690476",
@@ -2658,6 +2673,21 @@
    "amount": 7000.0,
    "starts": "2026-06-27T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "688896",
+   "name": "Samsung Lavadora 22kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavadora-22kg/p/688896",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb7/hec/452706642886686.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 15999.0,
+   "price_new": 11699.0,
+   "pct": 26.9,
+   "amount": 4300.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -8032,21 +8062,6 @@
    "first_seen": 1783710076.149035
   },
   {
-   "id": "592438",
-   "name": "Vino Tinto Casillero del Diablo Reserva 750ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Casillero-del-Diablo-Reserva-750ml/p/592438",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h25/h0a/121914402471966.jpg",
-   "category": "Vinos",
-   "price_old": 339.0,
-   "price_new": 254.25,
-   "pct": 25.0,
-   "amount": 84.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "612629",
    "name": "Kleenex Elegance Servilletas 3 paquetes de 100 pzas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kleenex-Elegance-Servilletas-3-paquetes-de-100-pzas/p/612629",
@@ -11522,21 +11537,6 @@
    "pct": 16.7,
    "amount": 1500.0,
    "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "677725",
-   "name": "Samsung Bespoke AI Refrigerador 28' Side by Side",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Bespoke-AI-Refrigerador-28-Side-by-Side/p/677725",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/he5/260887936794654.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 31999.0,
-   "price_new": 26699.0,
-   "pct": 16.6,
-   "amount": 5300.0,
-   "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572

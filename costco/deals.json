@@ -1,6 +1,6 @@
 {
- "generated_at": 1783879800.7673438,
- "generated_at_str": "12/07/2026 12:10",
+ "generated_at": 1783883365.8933506,
+ "generated_at_str": "12/07/2026 13:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -8060,6 +8060,21 @@
    "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783710076.149035
+  },
+  {
+   "id": "592438",
+   "name": "Vino Tinto Casillero del Diablo Reserva 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Casillero-del-Diablo-Reserva-750ml/p/592438",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h25/h0a/121914402471966.jpg",
+   "category": "Vinos",
+   "price_old": 339.0,
+   "price_new": 254.25,
+   "pct": 25.0,
+   "amount": 84.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "612629",

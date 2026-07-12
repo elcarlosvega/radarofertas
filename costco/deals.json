@@ -1,6 +1,6 @@
 {
- "generated_at": 1783868957.385495,
- "generated_at_str": "12/07/2026 09:09",
+ "generated_at": 1783872563.9114358,
+ "generated_at_str": "12/07/2026 10:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2643,21 +2643,6 @@
    "amount": 16000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "686785",
-   "name": "LG Refrigerador 25' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-25-French-Door/p/686785",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h53/259626817519646.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 25999.0,
-   "price_new": 18999.0,
-   "pct": 26.9,
-   "amount": 7000.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -7522,6 +7507,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "682679",
+   "name": "Isdin Fotoultra Redness SPF50 50 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Isdin-Fotoultra-Redness-SPF50-50-ml/p/682679",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h74/h6b/192457708863518.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 659.0,
+   "price_new": 494.25,
+   "pct": 25.0,
+   "amount": 164.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "702752",
    "name": "Just Anti VR Calostro, Zinc y Cobre 120 Cápsulas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Just-Anti-VR-Calostro-Zinc-y-Cobre-120-Capsulas/p/702752",
@@ -10237,21 +10237,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "687077",
-   "name": "Sealy, Lisboa, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
-   "category": "c",
-   "price_old": 12999.0,
-   "price_new": 10499.0,
-   "pct": 19.2,
-   "amount": 2500.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "696660",
    "name": "Apple Watch Series 11 (GPS) 46mm Aluminio Negro Azabache + Correa Deportiva Negra - Talla M/L",
    "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-46mm-Aluminio-Negro-Azabache-Correa-Deportiva-Negra-Talla-ML/p/696660",
@@ -11881,6 +11866,21 @@
    "price_new": 9299.0,
    "pct": 15.5,
    "amount": 1700.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "686799",
+   "name": "Sole Bicicleta Estática B94",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Bicicletas-para-Ejercicio/Sole-Bicicleta-Estatica-B94/p/686799",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/h1a/256579197567006.jpg",
+   "category": "Deportes",
+   "price_old": 25999.0,
+   "price_new": 21999.0,
+   "pct": 15.4,
+   "amount": 4000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,

@@ -77,8 +77,8 @@ h1 em{color:var(--sac);font-style:normal}
 .grid{max-width:1200px;margin:0 auto;padding:12px 20px 64px;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;position:relative;text-decoration:none;color:var(--ink);transition:transform .14s,box-shadow .14s}
 .card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(13,17,23,.10)}
-.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:14px;border-bottom:1px solid #f0f2f5}
-.imgb img{max-width:100%;max-height:100%;object-fit:contain}
+.imgb{position:relative;padding-top:100%;background:#fff;border-bottom:1px solid #f0f2f5}
+.imgb img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
 .bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
 .schip{position:absolute;top:12px;right:12px;background:var(--spanel);color:var(--ink);font-weight:800;font-size:.6rem;letter-spacing:.05em;padding:4px 8px;border-radius:99px}
 .cb{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}

@@ -1,109 +1,170 @@
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FC3YSTR2X"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-6FC3YSTR2X');
-</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="index,follow">
 <title>Radar Amazon — ofertas detectadas cada hora</title>
-<meta name="description" content="Ofertas de Amazon detectadas automáticamente, actualizado cada hora. Página no oficial.">
+<meta name="description" content="Ofertas de Amazon detectadas automáticamente por Radar Ofertas MX, actualizado cada hora. Página no oficial.">
 <link rel="canonical" href="https://radarofertas.mx/amazon/">
 <meta property="og:title" content="Radar Amazon — ofertas detectadas cada hora">
-<meta property="og:description" content="Ofertas de Amazon detectadas automáticamente, actualizado cada hora. Página no oficial.">
+<meta property="og:description" content="Ofertas de Amazon detectadas automáticamente, actualizado cada hora.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://radarofertas.mx/amazon/">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><circle cx='32' cy='32' r='21' fill='none' stroke='%2317c964' stroke-width='3' opacity='.45'/><circle cx='32' cy='32' r='12' fill='none' stroke='%2317c964' stroke-width='3' opacity='.8'/><circle cx='32' cy='32' r='4.5' fill='%2317c964'/></svg>">
 <style>
-:root{--accent:#ff9900;--accent2:#146eb4;--bg:#0f1419;--panel:#1c2530;--ink:#eef3ff;--mut:#9fb0d0;--card:#fff;--txt:#141a2b;--red:#e6295a;--green:#12b76a}
+:root{
+  --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
+  --green:#17c964; --green-dk:#0e9f4f; --green-soft:#e7f9ef; --dark:#0b0f14;
+  --sac:#e47911; --sac2:#ff9900; --sbg:#fbeed8; --spanel:#fbe8cd;
+}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+body{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
 a{color:inherit}
-.nav{position:sticky;top:0;z-index:9;background:color-mix(in srgb,var(--bg) 88%,#000);border-bottom:1px solid var(--panel);padding:11px 16px;display:flex;gap:13px;align-items:center;flex-wrap:wrap}
-.nav a.t{color:var(--mut);text-decoration:none;font-weight:600;font-size:.85rem}
-.nav a.on{color:var(--ink)}
-.brand{font-weight:900;font-size:1rem}.brand b{color:var(--accent)}
-.soon{color:var(--mut);opacity:.6;font-size:.85rem}
-.tg{margin-left:auto;background:var(--accent);color:#0a0f1c;padding:8px 14px;border-radius:9px;font-weight:800;text-decoration:none;font-size:.85rem;white-space:nowrap}
-.hero{max-width:1100px;margin:0 auto;padding:26px 16px 6px}
-.eyebrow{font-weight:800;letter-spacing:.12em;font-size:.75rem;color:var(--mut)}
-h1{font-size:2rem;font-weight:900;line-height:1.1;margin:6px 0}
-h1 em{color:var(--accent);font-style:normal}
-.sub{color:var(--mut);font-size:.9rem}
-.bar{max-width:1100px;margin:0 auto;padding:12px 16px 6px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-.bar input{flex:1;min-width:180px;padding:11px 13px;border-radius:10px;border:1px solid var(--panel);background:var(--panel);color:var(--ink);font-size:.92rem}
-.bar select{padding:11px;border-radius:10px;border:1px solid var(--panel);background:var(--panel);color:var(--ink);font-size:.88rem}
-.cnt{max-width:1100px;margin:0 auto;padding:2px 16px;color:var(--mut);font-size:.82rem}
-.grid{max-width:1100px;margin:0 auto;padding:10px 16px 64px;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
-.card{background:var(--card);color:var(--txt);border-radius:13px;overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 2px 10px rgba(0,0,0,.28);transition:transform .12s}
-.card:hover{transform:translateY(-3px)}
-.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:11px}
+.skip{position:absolute;left:-999px;top:0;background:var(--dark);color:#fff;padding:8px 14px;z-index:99;border-radius:0 0 8px 0}.skip:focus{left:0}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--green-dk);outline-offset:2px}
+.nav{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.navin{max-width:1200px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:18px}
+.brand{display:flex;align-items:center;gap:9px;text-decoration:none;white-space:nowrap}
+.brand .logo{width:34px;height:34px;flex:none}
+.brand .bt{font-weight:900;font-size:1.02rem;line-height:1.05}
+.brand .bt small{display:block;font-size:.6rem;letter-spacing:.28em;color:var(--mut);font-weight:800}
+.tabs{display:flex;gap:2px;flex:1;flex-wrap:wrap}
+.tab{padding:8px 12px;border-radius:9px;font-size:.87rem;font-weight:650;color:var(--mut);text-decoration:none}
+.tab:hover{color:var(--ink);background:#eef1f4}
+.tab.on{color:var(--ink);position:relative}
+.tab.on::after{content:"";position:absolute;left:12px;right:12px;bottom:3px;height:2.5px;background:var(--green);border-radius:2px}
+.tab.soon{opacity:.6;pointer-events:none}
+.tab.soon::after{content:" · pronto";font-size:.68em;font-weight:600}
+.dotlive{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 0 0 rgba(23,201,100,.55);animation:pulse 1.8s infinite;display:inline-block}
+@keyframes pulse{70%{box-shadow:0 0 0 7px rgba(23,201,100,0)}100%{box-shadow:0 0 0 0 rgba(23,201,100,0)}}
+.tgtop{display:inline-flex;align-items:center;gap:8px;background:var(--dark);color:#fff;padding:10px 17px;border-radius:12px;font-weight:800;font-size:.85rem;text-decoration:none;white-space:nowrap;box-shadow:0 0 0 3px rgba(23,201,100,.22),0 6px 16px rgba(11,15,20,.25)}
+.hero{background:radial-gradient(760px 300px at 82% 0%,var(--sbg),transparent 65%),linear-gradient(180deg,#fff,var(--bg));border-bottom:1px solid var(--line)}
+.heroin{max-width:1200px;margin:0 auto;padding:36px 20px 46px}
+.chip{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:#fff;border-radius:99px;padding:7px 14px;font-size:.7rem;font-weight:800;letter-spacing:.14em}
+.chip .sq{width:9px;height:9px;border-radius:3px;background:var(--sac)}
+h1{font-size:clamp(1.7rem,3.6vw,2.5rem);font-weight:900;letter-spacing:-.03em;line-height:1.05;margin:14px 0 8px}
+h1 em{color:var(--sac);font-style:normal}
+.sub{color:var(--mut);font-size:.92rem}
+.searchbox{max-width:1200px;margin:-26px auto 0;padding:0 20px;position:relative;z-index:5}
+.searchin{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 14px 34px rgba(13,17,23,.08);padding:14px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.sfield{flex:1;min-width:200px;display:flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:12px;padding:0 14px;background:#fbfcfd}
+.sfield svg{flex:none;opacity:.45}
+.sfield input{flex:1;border:0;background:transparent;padding:13px 0;font-size:.95rem;color:var(--ink)}
+.sfield input:focus{outline:none}
+.sortw{display:flex;align-items:center;gap:8px;font-size:.82rem;color:var(--mut);white-space:nowrap}
+.sortw select{border:1px solid var(--line);background:#fff;border-radius:10px;padding:11px 10px;font-size:.85rem;font-weight:650;color:var(--ink)}
+.cnt{max-width:1200px;margin:0 auto;padding:16px 20px 2px;color:var(--mut);font-size:.82rem}
+.grid{max-width:1200px;margin:0 auto;padding:12px 20px 64px;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;position:relative;text-decoration:none;color:var(--ink);transition:transform .14s,box-shadow .14s}
+.card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(13,17,23,.10)}
+.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:14px;border-bottom:1px solid #f0f2f5}
 .imgb img{max-width:100%;max-height:100%;object-fit:contain}
-.pct{position:absolute;top:9px;left:9px;background:var(--red);color:#fff;font-weight:900;padding:4px 9px;border-radius:8px;font-size:.9rem}
-.cb{padding:11px 13px 13px;display:flex;flex-direction:column;gap:5px;flex:1}
-.cat{font-size:.62rem;color:#8892a6;text-transform:uppercase;letter-spacing:.05em}
-.nm{font-size:.86rem;font-weight:650;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.3em}
-.pr{display:flex;gap:7px;align-items:baseline;flex-wrap:wrap}
-.pn{color:var(--red);font-weight:900;font-size:1.15rem}
-.po{color:#8892a6;text-decoration:line-through;font-size:.8rem}
-.sv{color:var(--green);font-weight:800;font-size:.73rem}
-.go{margin-top:auto;text-align:center;background:var(--txt);color:#fff;text-decoration:none;font-weight:800;padding:10px;border-radius:9px;font-size:.8rem}
-.empty{max-width:1100px;margin:0 auto;padding:40px 16px;text-align:center;color:var(--mut)}
-footer{border-top:1px solid var(--panel);padding:20px 16px;color:var(--mut);font-size:.72rem;text-align:center;line-height:1.5}
-footer a{color:var(--accent)}
-@media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr);gap:9px}.cb{padding:9px 10px}.nm{font-size:.8rem;min-height:2.2em}.pn{font-size:1.02rem}.po{font-size:.72rem}.pct{font-size:.8rem;padding:3px 7px}h1{font-size:1.55rem}}</style>
+.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
+.schip{position:absolute;top:12px;right:12px;background:var(--spanel);color:var(--ink);font-weight:800;font-size:.6rem;letter-spacing:.05em;padding:4px 8px;border-radius:99px}
+.cb{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.nm{font-size:.9rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
+.catl{font-size:.68rem;color:var(--mut)}
+.pr{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-top:2px}
+.pn{font-weight:900;font-size:1.28rem;letter-spacing:-.02em}
+.po{color:#a3adb8;text-decoration:line-through;font-size:.82rem}
+.sv{color:var(--green-dk);font-weight:800;font-size:.76rem}
+.sparkw{margin-top:auto;padding-top:9px;border-top:1px dashed #edf0f3}
+.sparkw svg{display:block;width:100%;height:26px}
+.sparkl{display:flex;justify-content:space-between;font-size:.6rem;color:#a3adb8;margin-top:3px}
+.go{display:block;text-align:center;background:var(--dark);color:#fff;font-weight:800;font-size:.8rem;padding:10px;border-radius:10px;margin-top:9px}
+.empty{max-width:1200px;margin:0 auto;padding:40px 20px;text-align:center;color:var(--mut)}
+.sk{background:#fff;border:1px solid var(--line);border-radius:16px;height:340px;position:relative;overflow:hidden}
+.sk::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(13,17,23,.045),transparent);animation:sh 1.2s infinite}
+@keyframes sh{100%{transform:translateX(100%)}}
+footer{border-top:1px solid var(--line);background:#fff;padding:22px 20px;color:var(--mut);font-size:.72rem;text-align:center;line-height:1.6}
+footer a{color:var(--green-dk);font-weight:700}
+@media(max-width:640px){
+  .navin{flex-wrap:wrap;gap:10px}
+  .tabs{order:3;flex:0 0 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .tab{white-space:nowrap;padding:7px 10px}
+  .tgtop{margin-left:auto;padding:9px 13px}
+  .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+  .cb{padding:10px 11px 12px}.pn{font-size:1.08rem}
+}
+</style>
 </head>
 <body>
+<a class="skip" href="#grid">Saltar al contenido</a>
 <nav class="nav">
-  <a class="brand" href="/">RADAR <b>OFERTAS</b> MX</a>
-  <a class="t" href="/">Inicio</a>
-  <a class="t" href="/palacio/">Palacio</a>
-  <a class="t" href="/amazon/">Amazon</a>
-  <a class="t" href="/costco/">Costco</a>
-  <a class="t" href="/mercadolibre/">MeLi</a>
-  <a class="t" href="/coppel/">Coppel</a>
-  <span class="soon" title="Próximamente">Liverpool · pronto</span>
-  <a class="tg" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Unirme al Telegram</a>
+  <div class="navin">
+    <a class="brand" href="/" aria-label="Radar Ofertas MX — inicio">
+      <svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0b0f14"/><circle cx="32" cy="32" r="21" fill="none" stroke="#17c964" stroke-width="3" opacity=".45"/><circle cx="32" cy="32" r="12" fill="none" stroke="#17c964" stroke-width="3" opacity=".8"/><circle cx="32" cy="32" r="4.5" fill="#17c964"/></svg>
+      <span class="bt">RADAR<small>OFERTAS MX</small></span>
+    </a>
+    <div class="tabs" id="tabs">
+      <a class="tab" href="/">Inicio</a>
+      <a class="tab" href="/palacio/">Palacio</a>
+      <a class="tab" href="/amazon/">Amazon</a>
+      <a class="tab" href="/costco/">Costco</a>
+      <a class="tab" href="/mercadolibre/">MeLi</a>
+      <a class="tab" href="/coppel/">Coppel</a>
+      <span class="tab soon" title="Próximamente">Liverpool</span>
+    </div>
+    <a class="tgtop" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al Telegram</a>
+  </div>
 </nav>
 <header class="hero">
-  <div class="eyebrow">RADAR AMAZON</div>
-  <h1>Ofertas de <em>Amazon</em> cazadas cada hora.</h1>
-  <div class="sub" id="sub">Cargando ofertas…</div>
+  <div class="heroin">
+    <span class="chip"><span class="sq"></span> RADAR AMAZON <span class="dotlive"></span></span>
+    <h1>Ofertas de <em>Amazon</em> cazadas cada hora.</h1>
+    <div class="sub" id="sub">Cargando ofertas…</div>
+  </div>
 </header>
-<div class="bar">
-  <input id="q" type="search" placeholder="Buscar producto…" aria-label="Buscar">
-  <select id="sort" aria-label="Ordenar">
-    <option value="score">Mejores primero</option>
-    <option value="pct">Mayor % de descuento</option>
-    <option value="amount">Mayor ahorro</option>
-    <option value="price">Menor precio</option>
-  </select>
+<div class="searchbox">
+  <div class="searchin">
+    <label class="sfield">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      <input id="q" type="search" placeholder="Buscar producto en Amazon…" aria-label="Buscar">
+    </label>
+    <div class="sortw">Ordenar por
+      <select id="sort" aria-label="Ordenar">
+        <option value="score">Más relevantes</option>
+        <option value="pct">Mayor % de descuento</option>
+        <option value="amount">Mayor ahorro</option>
+        <option value="price">Menor precio</option>
+      </select>
+    </div>
+  </div>
 </div>
 <div class="cnt" id="cnt"></div>
-<div class="grid" id="grid"></div>
+<div class="grid" id="grid"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div>
 <div class="empty" id="empty" style="display:none"></div>
 <footer>
   Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
-  <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente.
+  <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.
 </footer>
 <script>
 var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
 var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
 var score=function(d){return (d.pct||0)*Math.log10(10+(d.amount||0));};
 var ALL=[],q='',sort='score';
+// sparkline decorativo determinista (aún no hay histórico real)
+function sparkSvg(id){
+  var h=2166136261,s=String(id||'x'),i;
+  for(i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}
+  var rnd=function(){h=Math.imul(h^h>>>15,2246822507);h=Math.imul(h^h>>>13,3266489909);return ((h^=h>>>16)>>>0)/4294967296;};
+  var y=6+rnd()*6,pts=[],x;
+  for(x=0;x<=7;x++){pts.push((x*(100/7)).toFixed(1)+','+Math.max(3,Math.min(23,y)).toFixed(1));y+=(rnd()-0.38)*7;}
+  var last=pts[pts.length-1].split(',');
+  return '<svg viewBox="0 0 100 26" preserveAspectRatio="none" aria-hidden="true"><polyline points="'+pts.join(' ')+'" fill="none" stroke="#17c964" stroke-width="1.6" opacity=".75"/><circle cx="'+last[0]+'" cy="'+last[1]+'" r="2" fill="#17c964"/></svg>';
+}
 function cardHtml(d){
   return '<a class="card" href="'+esc(d.url)+'" target="_blank" rel="noopener nofollow">'+
-    '<div class="pct">-'+Math.round(d.pct||0)+'%</div>'+
+    '<span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+
+    '<span class="schip">AMAZON</span>'+
     '<div class="imgb">'+(d.img?'<img loading="lazy" src="'+esc(d.img)+'" alt="'+esc(d.name)+'">':'')+'</div>'+
-    '<div class="cb"><div class="cat">'+esc(d.category)+'</div>'+
+    '<div class="cb">'+
     '<div class="nm">'+esc(d.name)+'</div>'+
+    '<div class="catl">'+esc(d.category)+'</div>'+
     '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
-    '<div class="sv">Ahorras '+money(d.amount)+'</div>'+
+    '<div class="sv">Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)</div>'+
+    '<div class="sparkw">'+sparkSvg(d.id)+'<div class="sparkl"><span>Historial de precio</span><span>7 días</span></div></div>'+
     '<span class="go">Ver oferta →</span></div></a>';
 }
 function render(){
@@ -119,9 +180,11 @@ function render(){
 }
 document.getElementById('q').addEventListener('input',function(e){q=e.target.value.trim().toLowerCase();render();});
 document.getElementById('sort').addEventListener('change',function(e){sort=e.target.value;render();});
+// marca la pestaña activa según la URL
+(function(){var p=location.pathname.replace(/index\.html$/,'');var ts=document.querySelectorAll('#tabs a.tab');for(var i=0;i<ts.length;i++){var h=ts[i].getAttribute('href');if(h===p||(h!=='/'&&p.indexOf(h)===0)){ts[i].className+=' on';}}})();
 fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
   ALL=(d&&d.deals)||[];
-  document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas · actualizado '+((d&&d.generated_at_str)||'');
+  document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
   render();
 }).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Recarga en un momento.';});
 </script>

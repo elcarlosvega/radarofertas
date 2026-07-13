@@ -11,6 +11,8 @@ gtag('js', new Date());
 gtag('config', 'G-6FC3YSTR2X');
 </script>
 <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com; base-uri 'self'; form-action 'self'">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <title>Radar Ofertas MX — las mejores ofertas reales de México, cazadas automáticamente</title>
@@ -290,7 +292,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
         <div class="avs" aria-hidden="true">
           <span class="av" style="background:#5b8def">CV</span><span class="av" style="background:#17c964">MA</span><span class="av" style="background:#e6a23c">LR</span><span class="av" style="background:#9b6dee">JP</span><span class="av" style="background:#0b0f14">+</span>
         </div>
-        <p><b>+85,000 cazadores de ofertas</b> ya ahorrando en todo México 🇲🇽</p>
+        <p>De los creadores de <a href="https://x.com/MexicoMagico" target="_blank" rel="noopener" style="color:inherit"><b>México Mágico ✨</b></a>, una comunidad de <b>+870,000</b> mexicanos 🇲🇽</p>
       </div>
     </div>
     <div class="rwrap">
@@ -372,7 +374,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
     </div>
     <div class="tgright">
       <div class="minis" id="minis" aria-hidden="true"></div>
-      <a class="btn tgbig" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al canal<small>+85,000 cazadores ya dentro</small></a>
+      <a class="btn tgbig" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al canal<small>de los creadores de México Mágico ✨</small></a>
     </div>
   </div>
 </section>
@@ -416,6 +418,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
   </div>
   <div class="legal">
     <span>Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Los precios y vigencias pueden cambiar sin previo aviso; verifica siempre el precio final en el sitio oficial antes de comprar.</span>
+    <span><a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a></span>
     <span>© 2026 Radar Ofertas MX. Todos los derechos reservados.</span>
   </div>
 </footer>
@@ -431,6 +434,8 @@ const STORES = [
 const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel'];
 const PAGE_N = 12;
 const TAGS = ['Popular','Bajó hoy','Muy buscado'];
+var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx'];
+function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}
 const $ = id => document.getElementById(id);
 const money = v => { const n=Number(v)||0; const dec=Number.isInteger(n)?0:2; return '$' + n.toLocaleString('es-MX',{minimumFractionDigits:dec, maximumFractionDigits:dec}); };
 const score = d => (d.pct||0) * Math.log10(10 + (d.amount||0));
@@ -467,10 +472,10 @@ function tagFor(d,i){ return (d.pct>=50) ? 'Quedan pocas' : TAGS[i%TAGS.length];
 
 function makeCard(d, i){
   const store = STORES.find(s=>s.key===d._store) || {};
-  const card=document.createElement('a'); card.className='card'; card.href=d.url; card.target='_blank'; card.rel='noopener nofollow';
+  const card=document.createElement('a'); card.className='card'; card.href=safeUrl(d.url)||'/'; card.target='_blank'; card.rel='noopener nofollow';
   card.setAttribute('aria-label','Ver oferta de '+(d.name||'producto')+' en '+(store.name||'')+' (abre en nueva pestaña)');
   const ib=document.createElement('div'); ib.className='imgbox';
-  if(d.img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=d.img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
+  const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('span'); bp.className='bpct'; bp.textContent='-'+Math.round(d.pct||0)+'%';
   const bt=document.createElement('span'); bt.className='btag'; bt.textContent=tagFor(d,i);
   const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('aria-label','Guardar en favoritos');
@@ -552,7 +557,7 @@ function fillRadarCards(){
     el.querySelector('.fn').textContent=String(d.name||'').slice(0,38);
     el.querySelector('.fs').textContent=d._short;
     const fi=el.querySelector('.fimg'); fi.innerHTML='';
-    if(d.img){ const im=document.createElement('img'); im.src=d.img; im.alt=''; im.loading='lazy'; fi.appendChild(im); }
+    const _fi=safeUrl(d.img); if(_fi){ const im=document.createElement('img'); im.src=_fi; im.alt=''; im.loading='lazy'; fi.appendChild(im); }
     el.hidden=false;
   });
 }

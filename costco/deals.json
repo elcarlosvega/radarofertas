@@ -1,6 +1,6 @@
 {
- "generated_at": 1783940954.6681123,
- "generated_at_str": "13/07/2026 05:09",
+ "generated_at": 1783944548.5987687,
+ "generated_at_str": "13/07/2026 06:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1878,21 +1878,6 @@
    "amount": 3200.0,
    "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "696202",
-   "name": "GE Secadora de Gas 22kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Secadora-de-Gas-22kg/p/696202",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he0/h01/378352831725598.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 13599.0,
-   "price_new": 10099.0,
-   "pct": 25.7,
-   "amount": 3500.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },

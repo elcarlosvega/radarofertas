@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://radarofertas.mx/</loc></url>
-<url><loc>https://radarofertas.mx/palacio/</loc></url>
-<url><loc>https://radarofertas.mx/costco/</loc></url>
-<url><loc>https://radarofertas.mx/coppel/</loc></url>
-<url><loc>https://radarofertas.mx/mercadolibre/</loc></url>
+  <url><loc>https://radarofertas.mx/</loc><lastmod>2026-07-13</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://radarofertas.mx/palacio/</loc><lastmod>2026-07-13</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://radarofertas.mx/amazon/</loc><lastmod>2026-07-13</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://radarofertas.mx/costco/</loc><lastmod>2026-07-13</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://radarofertas.mx/mercadolibre/</loc><lastmod>2026-07-13</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://radarofertas.mx/coppel/</loc><lastmod>2026-07-13</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://radarofertas.mx/oferta/</loc><lastmod>2026-07-13</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
 </urlset>

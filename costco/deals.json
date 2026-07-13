@@ -1,6 +1,6 @@
 {
- "generated_at": 1783958954.9305682,
- "generated_at_str": "13/07/2026 10:09",
+ "generated_at": 1783962561.5700238,
+ "generated_at_str": "13/07/2026 11:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -617,9 +617,9 @@
    "pct": 30.7,
    "amount": 460.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783962561.5700238
   },
   {
    "id": "1326889",
@@ -1357,6 +1357,21 @@
    "first_seen": 1783789763.151063
   },
   {
+   "id": "665571",
+   "name": "Kleenex Cottonelle Violet Blossom Papel Higiénico 32 pzas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kleenex-Cottonelle-Violet-Blossom-Papel-Higienico-32-pzas/p/665571",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/hb9/360893454909470.jpg",
+   "category": "Grocery",
+   "price_old": 559.0,
+   "price_new": 391.3,
+   "pct": 30.0,
+   "amount": 167.7,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "701198",
    "name": "Sinuberase suspensión 2 Billones UFC 2 Cajas con 10 Ampolletas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Sinuberase-suspension-2-Billones-UFC-2-Cajas-con-10-Ampolletas/p/701198",
@@ -1972,6 +1987,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "628257",
+   "name": "Lacoste Blanc 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Lacoste-Blanc-100-ml/p/628257",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hff/h72/10754737766430.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1299.0,
+   "price_new": 922.29,
+   "pct": 29.0,
+   "amount": 376.71,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
+  },
+  {
    "id": "692975",
    "name": "Moschino Toy 2 Pearl 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Moschino-Toy-2-Pearl-100-ml/p/692975",
@@ -2066,21 +2096,6 @@
    "name": "Lacoste Rose Eau Fraiche 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Lacoste-Rose-Eau-Fraiche-100-ml/p/695804",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/h0a/367525833474078.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1099.0,
-   "price_new": 780.29,
-   "pct": 29.0,
-   "amount": 318.71,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "682972",
-   "name": "Montblanc Signature Absolue 90 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Montblanc-Signature-Absolue-90-ml/p/682972",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/haf/189581935837214.jpg",
    "category": "Salud y Belleza",
    "price_old": 1099.0,
    "price_new": 780.29,
@@ -3652,6 +3667,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "20691",
+   "name": "Canine Club Alimento para Perro 22.7 kg",
+   "url": "https://www.costco.com.mx/Mascotas/Alimentos-y-Premios/Canine-Club-Alimento-para-Perro-227-kg/p/20691",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0f/h80/12388705763358.jpg",
+   "category": "Mascotas",
+   "price_old": 1129.0,
+   "price_new": 829.0,
+   "pct": 26.6,
+   "amount": 300.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
+  },
+  {
    "id": "658580",
    "name": "KitchenAid Estufa eléctrica con 5 quemadores 30\"",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/KitchenAid-Estufa-electrica-con-5-quemadores-30/p/658580",
@@ -4232,9 +4262,9 @@
    "pct": 25.4,
    "amount": 330.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783962561.5700238
   },
   {
    "id": "1695585",
@@ -9817,6 +9847,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "686463",
+   "name": "GE Centro De Lavado De Gas 23kg / 23kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 22999.0,
+   "pct": 23.3,
+   "amount": 7000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "686134",
    "name": "GE Profile Refrigerador 27' French Door",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/GE-Profile-Refrigerador-27-French-Door/p/686134",
@@ -11722,6 +11767,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "694132",
+   "name": "Danby Congelador Vertical 6.64'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Danby-Congelador-Vertical-664/p/694132",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0f/haa/401637522866206.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 7499.0,
+   "price_new": 5999.0,
+   "pct": 20.0,
+   "amount": 1500.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783789763.151063
+  },
+  {
    "id": "702889",
    "name": "Smeg Campana 90cm Downdraft",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Campana-90cm-Downdraft/p/702889",
@@ -13057,6 +13117,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "590187",
+   "name": "Sauna Infrarrojo Dynamic Versailles Low EMF, 2 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Dynamic-Versailles-Low-EMF-2-Personas/p/590187",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h06/11038520475678.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 59999.0,
+   "price_new": 49999.0,
+   "pct": 16.7,
+   "amount": 10000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
+  },
+  {
    "id": "703976",
    "name": "Hisense Pantalla 75\" Hi-QLED 4K Canvas Google TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Hi-QLED-4K-Canvas-Google-TV/p/703976",
@@ -13597,6 +13672,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "542536",
+   "name": "Behringer, Batería Digital",
+   "url": "https://www.costco.com.mx/Electronicos/Instrumentos-Musicales/Instrumentos-de-Percusion/Behringer-Bateria-Digital/p/542536",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h10/hda/11023286337566.jpg",
+   "category": "Electronicos",
+   "price_old": 12999.0,
+   "price_new": 10999.0,
+   "pct": 15.4,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
+  },
+  {
    "id": "683665",
    "name": "América, Mystery, Colchón Queen Size",
    "url": "https://www.costco.com.mx/c/America-Mystery-Colchon-Queen-Size/p/683665",
@@ -13685,21 +13775,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "681577",
-   "name": "Teka Lavavajillas 60cm 13 Servicios Libre Instalación",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Teka-Lavavajillas-60cm-13-Servicios-Libre-Instalacion/p/681577",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/h87/173108791410718.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 10499.0,
-   "price_new": 8899.0,
-   "pct": 15.2,
-   "amount": 1600.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "677168",
@@ -14255,6 +14330,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "702844",
+   "name": "Samsung Pantalla 85\" Miniled 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-Miniled-4K-Smart-TV/p/702844",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/h41/452879651864606.jpg",
+   "category": "Electronicos",
+   "price_old": 27999.0,
+   "price_new": 23999.0,
+   "pct": 14.3,
+   "amount": 4000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
   },
   {
    "id": "690407",
@@ -14900,6 +14990,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "696215",
+   "name": "DELL 15 Laptop 15.6\" Full HD AMD Ryzen 7 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-Laptop-156-Full-HD-AMD-Ryzen-7-16GB-1TB-SSD/p/696215",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/hc3/438163993919518.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 16499.0,
+   "price_new": 14499.0,
+   "pct": 12.1,
+   "amount": 2000.0,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
   },
   {
    "id": "5948706",
@@ -15817,6 +15922,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "696411",
+   "name": "Apple iPhone 17 256GB Lavanda",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPhone/Apple-iPhone-17-256GB-Lavanda/p/696411",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he2/hd8/383380488781854.jpg",
+   "category": "Electronicos",
+   "price_old": 19899.0,
+   "price_new": 17999.0,
+   "pct": 9.5,
+   "amount": 1900.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
+  },
+  {
    "id": "696409",
    "name": "Apple iPhone 17 256GB Negro",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPhone/Apple-iPhone-17-256GB-Negro/p/696409",
@@ -16070,6 +16190,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783926561.2978158
+  },
+  {
+   "id": "702846",
+   "name": "Samsung Pantalla 85\" QLED The Frame 4K Smart TV + Marco",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-QLED-The-Frame-4K-Smart-TV-Marco/p/702846",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h21/452879657107486.jpg",
+   "category": "Electronicos",
+   "price_old": 36999.0,
+   "price_new": 34999.0,
+   "pct": 5.4,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783962561.5700238
   },
   {
    "id": "693640",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1783930155.5265849,
- "generated_at_str": "13/07/2026 02:09",
+ "generated_at": 1783937348.4757712,
+ "generated_at_str": "13/07/2026 04:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -123,6 +123,21 @@
    "amount": 1700.0,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783606843.9460945
+  },
+  {
+   "id": "702556",
+   "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD Intel Core 7 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-Intel-Core-7-16GB-512GB-SSD/p/702556",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h72/h21/450325706506270.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 33799.0,
+   "price_new": 23399.0,
+   "pct": 30.8,
+   "amount": 10400.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783606843.9460945
   },
@@ -487,6 +502,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "674604",
+   "name": "Whirlpool Lavadora carga superior 27Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-carga-superior-27Kg/p/674604",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7c/hc2/150711975608350.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 20899.0,
+   "pct": 30.3,
+   "amount": 9100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "694502",
    "name": "Hisense Pantalla 100\" ULED MiniLed Fire TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-100-ULED-MiniLed-Fire-TV/p/694502",
@@ -620,6 +650,21 @@
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783696732.869078
+  },
+  {
+   "id": "593655",
+   "name": "Champagne Dom Pérignon Blanc Vintage 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Espumoso-y-Champagne/Champagne-Dom-Perignon-Blanc-Vintage-750ml/p/593655",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h09/368805369217054.jpg",
+   "category": "Vinos",
+   "price_old": 5999.0,
+   "price_new": 4199.3,
+   "pct": 30.0,
+   "amount": 1799.7,
+   "starts": "2026-07-10T06:00:00.000Z",
+   "ends": "2026-07-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783613974.9457006
   },
   {
    "id": "1390051",
@@ -1372,6 +1417,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "696357",
+   "name": "DELL Alienware Gaming ACT 1250 Desktop Tower Intel Core Ultra 7 32GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Gaming-ACT-1250-Desktop-Tower-Intel-Core-Ultra-7-32GB-1TB-SSD/p/696357",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd1/hc7/486488842797086.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 54999.0,
+   "price_new": 39999.0,
+   "pct": 27.3,
+   "amount": 15000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783778939.4408414
+  },
+  {
    "id": "702697",
    "name": "LG Lavasecadora 16Kg/8Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-16Kg8Kg/p/702697",
@@ -1882,21 +1942,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "542025",
-   "name": "Whisky Buchanan's Deluxe 12 años Blended Scotch 1 L",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Buchanans-Deluxe-12-anos-Blended-Scotch-1-L/p/542025",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/hc1/277018918748190.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 1299.0,
-   "price_new": 969.0,
-   "pct": 25.4,
-   "amount": 330.0,
-   "starts": "2026-07-03T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "673355",
    "name": "Elica Campana de Isla 90cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Elica-Campana-de-Isla-90cm/p/673355",
@@ -1968,6 +2013,21 @@
    "amount": 14000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "674473",
+   "name": "LG Lavasecadora Eléctrica 22Kg/13Kg + Mini Lavadora 3.5Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-Mini-Lavadora-35Kg/p/674473",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf9/hd0/364727724736542.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 37999.0,
+   "price_new": 28499.0,
+   "pct": 25.0,
+   "amount": 9500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -2058,6 +2118,21 @@
    "amount": 3500.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "696286",
+   "name": "Samsung Galaxy Tab S10 Lite 128GB Gris",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Tablets/Tablets/Samsung-Galaxy-Tab-S10-Lite-128GB-Gris/p/696286",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h96/h70/438940988178462.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 7199.0,
+   "price_new": 5399.0,
+   "pct": 25.0,
+   "amount": 1800.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -4267,6 +4342,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "674542",
+   "name": "Fotoprotector Isdin Hydro Oil FPS 30+ 200ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Corporal/Fotoprotector-Isdin-Hydro-Oil-FPS-30-200ml/p/674542",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h85/h0d/119281332682782.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 699.0,
+   "price_new": 524.25,
+   "pct": 25.0,
+   "amount": 174.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "603081",
    "name": "Redustat Orlistat 90 cápsulas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Redustat-Orlistat-90-capsulas/p/603081",
@@ -5971,6 +6061,21 @@
    "price_new": 43499.0,
    "pct": 17.9,
    "amount": 9500.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "696349",
+   "name": "DELL Alienware Gaming NB Laptop 16\" WQXGA Intel Core i7 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-Alienware-Gaming-NB-Laptop-16-WQXGA-Intel-Core-i7-16GB-1TB-SSD/p/696349",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3b/h91/379428799152158.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 38999.0,
+   "price_new": 31999.0,
+   "pct": 17.9,
+   "amount": 7000.0,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,

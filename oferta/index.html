@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Oferta — Radar Ofertas MX</title>
+<meta name="description" content="Oferta detectada automáticamente por Radar Ofertas MX. Verifica el precio final en la tienda.">
+<meta property="og:title" content="Radar Ofertas MX — oferta destacada">
+<meta property="og:description" content="Detectamos las mejores rebajas de México, actualizadas cada hora.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://radarofertas.mx/oferta/">
+<link rel="canonical" href="https://radarofertas.mx/">
+<style>
+:root{--bg:#0b1020;--panel:#141d38;--line:#26304f;--accent:#22d3ee;--ink:#eaf1ff;--mut:#93a3c9;--card:#fff;--txt:#141a2b;--red:#e6295a;--green:#12b76a}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);min-height:100vh;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.nav{position:sticky;top:0;z-index:9;background:color-mix(in srgb,var(--bg) 90%,#000);border-bottom:1px solid var(--line);padding:11px 16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.brand{font-weight:900;font-size:1rem;text-decoration:none}.brand b{color:var(--accent)}
+.tg{margin-left:auto;background:var(--accent);color:#08121a;padding:7px 13px;border-radius:9px;font-weight:800;text-decoration:none;font-size:.82rem}
+.wrap{max-width:640px;margin:0 auto;padding:26px 16px 70px}
+.card{background:var(--card);color:var(--txt);border-radius:18px;overflow:hidden;box-shadow:0 10px 40px rgba(0,0,0,.4)}
+.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:22px;position:relative}
+.imgb img{max-width:100%;max-height:100%;object-fit:contain}
+.pct{position:absolute;top:14px;left:14px;background:var(--red);color:#fff;font-weight:900;padding:7px 13px;border-radius:11px;font-size:1.15rem}
+.chip{position:absolute;top:14px;right:14px;font-weight:800;font-size:.72rem;padding:6px 11px;border-radius:8px;color:#08121a}
+.body{padding:20px 22px 24px}
+h1{font-size:1.25rem;font-weight:800;line-height:1.3;margin-bottom:14px;color:var(--txt)}
+.prices{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.pn{color:var(--red);font-weight:900;font-size:2rem}
+.po{color:#8892a6;text-decoration:line-through;font-size:1.05rem}
+.sv{color:var(--green);font-weight:800;font-size:1rem;margin-top:4px}
+.cta{display:block;margin-top:20px;text-align:center;background:var(--txt);color:#fff;text-decoration:none;font-weight:800;padding:15px;border-radius:12px;font-size:1.05rem}
+.cta:hover{opacity:.92}
+.more{display:block;text-align:center;margin-top:12px;color:var(--txt);opacity:.7;text-decoration:none;font-weight:700;font-size:.85rem}
+.disc{color:var(--mut);font-size:.72rem;text-align:center;margin-top:18px;line-height:1.5}
+.state{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:40px 22px;text-align:center;color:var(--mut)}
+.state a{color:var(--accent);font-weight:700}
+.sk{background:var(--panel);border:1px solid var(--line);border-radius:18px;height:420px;animation:p 1.2s infinite}
+@keyframes p{0%,100%{opacity:.6}50%{opacity:1}}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <a class="brand" href="/">RADAR <b>OFERTAS</b> MX</a>
+  <a class="tg" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a>
+</nav>
+<div class="wrap"><div id="app"><div class="sk"></div></div></div>
+<script>
+var STORES={
+ palacio:{name:'Palacio de Hierro',accent:'#e3c765'},
+ costco:{name:'Costco',accent:'#e11d2a'},
+ coppel:{name:'Coppel',accent:'#2b7cf0'},
+ mercadolibre:{name:'Mercado Libre',accent:'#ffe600'},
+ amazon:{name:'Amazon',accent:'#ff9900'}
+};
+var qs=new URLSearchParams(location.search);
+var s=qs.get('s'), id=qs.get('id');
+var st=STORES[s]||{name:(s||'Tienda'),accent:'#22d3ee'};
+var app=document.getElementById('app');
+var esc=function(x){return String(x==null?'':x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
+var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
+function moreLink(){return '<a class="more" href="/'+esc(s||'')+'/">Ver más ofertas de '+esc(st.name)+' →</a>';}
+function state(msg,more){return '<div class="state">'+msg+(more?'<br><br>'+moreLink():'')+'</div>';}
+function render(d){
+  var img=d.img?'<img loading="eager" src="'+esc(d.img)+'" alt="'+esc(d.name)+'">':'';
+  return '<div class="card">'+
+    '<div class="imgb">'+img+
+      '<div class="pct">-'+Math.round(d.pct||0)+'%</div>'+
+      '<div class="chip" style="background:'+st.accent+'">'+esc(st.name.toUpperCase())+'</div>'+
+    '</div>'+
+    '<div class="body">'+
+      '<h1>'+esc(d.name)+'</h1>'+
+      '<div class="prices"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
+      '<div class="sv">Ahorras '+money(d.amount)+'</div>'+
+      '<a class="cta" href="'+esc(d.url)+'" target="_blank" rel="nofollow noopener">🛒 Ver oferta en '+esc(st.name)+' →</a>'+
+      moreLink()+
+      '<div class="disc">Radar Ofertas MX no es una tienda ni está afiliada oficialmente a la marca. Verifica el precio final en el sitio oficial antes de comprar.</div>'+
+    '</div>'+
+  '</div>';
+}
+if(!s||!id){app.innerHTML=state('No encontramos la oferta.',true);}
+else{
+  fetch('/'+encodeURIComponent(s)+'/deals.json?_='+Date.now(),{cache:'no-store'})
+    .then(function(r){return r.json();})
+    .then(function(data){
+      var d=(data.deals||[]).find(function(x){return String(x.id)===String(id);});
+      if(!d){app.innerHTML=state('Esta oferta ya expiró o cambió de precio.',true);return;}
+      document.title=d.name+' — Radar Ofertas MX';
+      app.innerHTML=render(d);
+    })
+    .catch(function(){app.innerHTML=state('No se pudo cargar la oferta ahora. Recarga en un momento.',true);});
+}
+</script>
+</body>
+</html>

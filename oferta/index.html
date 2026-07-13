@@ -1,143 +1,196 @@
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FC3YSTR2X"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-6FC3YSTR2X');
-</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="index,follow">
 <title>Oferta — Radar Ofertas MX</title>
 <meta name="description" content="Oferta detectada automáticamente por Radar Ofertas MX. Verifica el precio final en la tienda.">
+<link rel="canonical" href="https://radarofertas.mx/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Radar Ofertas MX">
 <meta property="og:title" content="Radar Ofertas MX — oferta destacada">
 <meta property="og:description" content="Detectamos las mejores rebajas de México, actualizadas cada hora.">
-<meta property="og:type" content="website">
 <meta property="og:url" content="https://radarofertas.mx/oferta/">
-<link rel="canonical" href="https://radarofertas.mx/">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><circle cx='32' cy='32' r='21' fill='none' stroke='%2317c964' stroke-width='3' opacity='.45'/><circle cx='32' cy='32' r='12' fill='none' stroke='%2317c964' stroke-width='3' opacity='.8'/><circle cx='32' cy='32' r='4.5' fill='%2317c964'/></svg>">
 <style>
-:root{--bg:#0b1020;--panel:#141d38;--line:#26304f;--accent:#22d3ee;--ink:#eaf1ff;--mut:#93a3c9;--card:#fff;--txt:#141a2b;--red:#e6295a;--green:#12b76a}
+:root{
+  --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
+  --green:#17c964; --green-dk:#0e9f4f; --green-soft:#e7f9ef; --dark:#0b0f14; --tg:#2aabee;
+}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);min-height:100vh;-webkit-font-smoothing:antialiased}
+body{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
 a{color:inherit}
-.nav{position:sticky;top:0;z-index:9;background:color-mix(in srgb,var(--bg) 90%,#000);border-bottom:1px solid var(--line);padding:11px 16px;display:flex;gap:13px;align-items:center;flex-wrap:wrap}
-.brand{font-weight:900;font-size:1rem;text-decoration:none}.brand b{color:var(--accent)}
-.nav a.t{color:var(--mut);text-decoration:none;font-weight:600;font-size:.85rem}
-.nav a.t:hover{color:var(--ink)}
-.soon{color:var(--mut);opacity:.55;font-size:.85rem}
-.tg{margin-left:auto;background:var(--accent);color:#08121a;padding:7px 13px;border-radius:9px;font-weight:800;text-decoration:none;font-size:.82rem;white-space:nowrap}
-.wrap{max-width:980px;margin:0 auto;padding:24px 16px 70px}
-.card{max-width:640px;margin:0 auto;background:var(--card);color:var(--txt);border-radius:18px;overflow:hidden;box-shadow:0 10px 40px rgba(0,0,0,.4)}
-.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:22px;position:relative}
+a:focus-visible,button:focus-visible{outline:2px solid var(--green-dk);outline-offset:2px}
+.nav{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.navin{max-width:1200px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:18px}
+.brand{display:flex;align-items:center;gap:9px;text-decoration:none;white-space:nowrap}
+.brand .logo{width:34px;height:34px;flex:none}
+.brand .bt{font-weight:900;font-size:1.02rem;line-height:1.05}
+.brand .bt small{display:block;font-size:.6rem;letter-spacing:.28em;color:var(--mut);font-weight:800}
+.tabs{display:flex;gap:2px;flex:1;flex-wrap:wrap}
+.tab{padding:8px 12px;border-radius:9px;font-size:.87rem;font-weight:650;color:var(--mut);text-decoration:none}
+.tab:hover{color:var(--ink);background:#eef1f4}
+.tab.soon{opacity:.6;pointer-events:none}
+.tab.soon::after{content:" · pronto";font-size:.68em;font-weight:600}
+.dotlive{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 0 0 rgba(23,201,100,.55);animation:pulse 1.8s infinite;display:inline-block}
+@keyframes pulse{70%{box-shadow:0 0 0 7px rgba(23,201,100,0)}100%{box-shadow:0 0 0 0 rgba(23,201,100,0)}}
+.tgtop{display:inline-flex;align-items:center;gap:8px;background:var(--dark);color:#fff;padding:10px 17px;border-radius:12px;font-weight:800;font-size:.85rem;text-decoration:none;white-space:nowrap;box-shadow:0 0 0 3px rgba(23,201,100,.22),0 6px 16px rgba(11,15,20,.25)}
+main{max-width:1200px;margin:0 auto;padding:26px 20px 70px}
+.crumb{font-size:.8rem;color:var(--mut);margin-bottom:16px}
+.crumb a{color:var(--green-dk);text-decoration:none;font-weight:700}
+.product{background:#fff;border:1px solid var(--line);border-radius:22px;display:grid;grid-template-columns:.9fr 1.1fr;gap:30px;padding:30px;align-items:center}
+.pimg{aspect-ratio:1;background:#fff;border:1px solid #f0f2f5;border-radius:16px;display:flex;align-items:center;justify-content:center;padding:24px;position:relative}
+.pimg img{max-width:100%;max-height:100%;object-fit:contain}
+.pimg .bpct{position:absolute;top:14px;left:14px;background:var(--green);color:#fff;font-weight:900;font-size:1rem;padding:7px 12px;border-radius:10px;box-shadow:0 4px 12px rgba(23,201,100,.4)}
+.stline{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;color:var(--mut);font-weight:700;border:1px solid var(--line);border-radius:99px;padding:6px 13px;margin-bottom:14px}
+.stline .sdot{width:9px;height:9px;border-radius:50%}
+h1.pn{font-size:clamp(1.3rem,2.6vw,1.9rem);font-weight:900;letter-spacing:-.02em;line-height:1.2;margin-bottom:6px}
+.pcat{font-size:.8rem;color:var(--mut);margin-bottom:16px}
+.prow{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.pnew{font-size:2.3rem;font-weight:900;letter-spacing:-.03em}
+.pold{color:#a3adb8;text-decoration:line-through;font-size:1.1rem}
+.save{display:inline-block;background:var(--green-soft);color:var(--green-dk);font-weight:800;font-size:.86rem;border-radius:99px;padding:7px 14px;margin:12px 0 20px}
+.pctas{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+.btn{display:inline-flex;align-items:center;gap:9px;border-radius:14px;padding:14px 24px;font-weight:800;font-size:.95rem;text-decoration:none;border:1px solid transparent;cursor:pointer}
+.btn.dark{background:var(--dark);color:#fff;box-shadow:0 0 0 3px rgba(23,201,100,.25),0 10px 22px rgba(11,15,20,.28)}
+.btn.ghost{background:#fff;color:var(--ink);border-color:var(--line)}
+.meta{font-size:.74rem;color:var(--mut);line-height:1.5;max-width:52ch}
+.sec{margin-top:40px}
+.sechead{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.sechead h2{font-size:1.2rem;font-weight:900;letter-spacing:-.02em}
+.sechead .all{margin-left:auto;color:var(--green-dk);font-weight:800;font-size:.84rem;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.card{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;position:relative;text-decoration:none;color:var(--ink);transition:transform .14s,box-shadow .14s}
+.card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(13,17,23,.10)}
+.imgb{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:12px;border-bottom:1px solid #f0f2f5}
 .imgb img{max-width:100%;max-height:100%;object-fit:contain}
-.pct{position:absolute;top:14px;left:14px;background:var(--red);color:#fff;font-weight:900;padding:7px 13px;border-radius:11px;font-size:1.15rem}
-.chip{position:absolute;top:14px;right:14px;font-weight:800;font-size:.72rem;padding:6px 11px;border-radius:8px;color:#08121a}
-.body{padding:20px 22px 24px}
-h1{font-size:1.25rem;font-weight:800;line-height:1.3;margin-bottom:14px;color:var(--txt)}
-.prices{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
-.pn{color:var(--red);font-weight:900;font-size:2rem}
-.po{color:#8892a6;text-decoration:line-through;font-size:1.05rem}
-.sv{color:var(--green);font-weight:800;font-size:1rem;margin-top:4px}
-.cta{display:block;margin-top:20px;text-align:center;background:var(--txt);color:#fff;text-decoration:none;font-weight:800;padding:15px;border-radius:12px;font-size:1.05rem}
-.cta:hover{opacity:.92}
-.disc{color:var(--mut);font-size:.72rem;text-align:center;margin-top:16px;line-height:1.5}
-.state{max-width:640px;margin:0 auto;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:40px 22px;text-align:center;color:var(--mut)}
-.state a{color:var(--accent);font-weight:700}
-.sk{max-width:640px;margin:0 auto;background:var(--panel);border:1px solid var(--line);border-radius:18px;height:420px;animation:p 1.2s infinite}
-@keyframes p{0%,100%{opacity:.6}50%{opacity:1}}
-.sec{margin:36px auto 0}
-.sech{font-size:1.15rem;font-weight:800;color:var(--ink);margin-bottom:14px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:12px}
-.mc{background:var(--card);color:var(--txt);border-radius:12px;overflow:hidden;text-decoration:none;display:flex;flex-direction:column;box-shadow:0 2px 10px rgba(0,0,0,.25);transition:transform .12s}
-.mc:hover{transform:translateY(-3px)}
-.mcimg{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:10px;position:relative}
-.mcimg img{max-width:100%;max-height:100%;object-fit:contain}
-.mcpct{position:absolute;top:8px;left:8px;background:var(--red);color:#fff;font-weight:900;font-size:.8rem;padding:3px 7px;border-radius:7px}
-.mcb{padding:9px 10px 11px}
-.mcn{font-size:.78rem;font-weight:650;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2em;color:var(--txt)}
-.mcp{color:var(--red);font-weight:900;font-size:.95rem;margin-top:5px}
-.mcp s{color:#8892a6;font-weight:400;font-size:.72rem;margin-left:3px}
-footer{border-top:1px solid var(--line);margin-top:44px;padding:20px 16px;color:var(--mut);font-size:.72rem;text-align:center}
-footer a{color:var(--accent)}
-@media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr);gap:9px}h1{font-size:1.1rem}.pn{font-size:1.7rem}}
+.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.8rem;padding:4px 8px;border-radius:8px}
+.cb{padding:11px 13px 13px;display:flex;flex-direction:column;gap:5px;flex:1}
+.nm{font-size:.85rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.3em}
+.pr{display:flex;gap:7px;align-items:baseline;flex-wrap:wrap}
+.pn2{font-weight:900;font-size:1.12rem}
+.po2{color:#a3adb8;text-decoration:line-through;font-size:.78rem}
+.sv2{color:var(--green-dk);font-weight:800;font-size:.72rem}
+.state{padding:60px 20px;text-align:center;color:var(--mut)}
+.state a{color:var(--green-dk);font-weight:800}
+footer{border-top:1px solid var(--line);background:#fff;padding:22px 20px;color:var(--mut);font-size:.72rem;text-align:center;line-height:1.6}
+footer a{color:var(--green-dk);font-weight:700}
+@media(max-width:860px){
+  .navin{flex-wrap:wrap;gap:10px}
+  .tabs{order:3;flex:0 0 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .tab{white-space:nowrap;padding:7px 10px}
+  .tgtop{margin-left:auto;padding:9px 13px}
+  .product{grid-template-columns:1fr;padding:18px;gap:18px}
+  .pnew{font-size:1.8rem}
+  .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+}
 </style>
 </head>
 <body>
 <nav class="nav">
-  <a class="brand" href="/">RADAR <b>OFERTAS</b> MX</a>
-  <a class="t" href="/">Inicio</a>
-  <a class="t" href="/palacio/">Palacio</a>
-  <a class="t" href="/amazon/">Amazon</a>
-  <a class="t" href="/costco/">Costco</a>
-  <a class="t" href="/mercadolibre/">MeLi</a>
-  <a class="t" href="/coppel/">Coppel</a>
-  <span class="soon" title="Próximamente">Liverpool · pronto</span>
-  <a class="tg" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Telegram</a>
+  <div class="navin">
+    <a class="brand" href="/" aria-label="Radar Ofertas MX — inicio">
+      <svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0b0f14"/><circle cx="32" cy="32" r="21" fill="none" stroke="#17c964" stroke-width="3" opacity=".45"/><circle cx="32" cy="32" r="12" fill="none" stroke="#17c964" stroke-width="3" opacity=".8"/><circle cx="32" cy="32" r="4.5" fill="#17c964"/></svg>
+      <span class="bt">RADAR<small>OFERTAS MX</small></span>
+    </a>
+    <div class="tabs">
+      <a class="tab" href="/">Inicio</a>
+      <a class="tab" href="/palacio/">Palacio</a>
+      <a class="tab" href="/amazon/">Amazon</a>
+      <a class="tab" href="/costco/">Costco</a>
+      <a class="tab" href="/mercadolibre/">MeLi</a>
+      <a class="tab" href="/coppel/">Coppel</a>
+      <span class="tab soon" title="Próximamente">Liverpool</span>
+    </div>
+    <a class="tgtop" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al Telegram</a>
+  </div>
 </nav>
-<div class="wrap">
-  <div id="app"><div class="sk"></div></div>
-  <div class="sec" id="sim" style="display:none"><h2 class="sech" id="simh">Descuentos similares</h2><div class="grid" id="simg"></div></div>
-  <div class="sec" id="best" style="display:none"><h2 class="sech">🔥 Mejores descuentos</h2><div class="grid" id="bestg"></div></div>
-</div>
+<main>
+  <div class="crumb" id="crumb"><a href="/">Inicio</a> / Oferta</div>
+  <div id="app"><div class="state">Cargando oferta… <span class="dotlive"></span></div></div>
+  <section class="sec" id="simsec" hidden>
+    <div class="sechead"><h2>Descuentos similares</h2></div>
+    <div class="grid" id="simgrid"></div>
+  </section>
+  <section class="sec" id="topsec" hidden>
+    <div class="sechead"><h2>🔥 Mejores descuentos</h2><a class="all" id="alllink" href="/">Ver todos →</a></div>
+    <div class="grid" id="topgrid"></div>
+  </section>
+</main>
 <footer>
   Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
   <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.
 </footer>
 <script>
 var STORES={
- palacio:{name:'Palacio de Hierro',accent:'#e3c765'},
- amazon:{name:'Amazon',accent:'#ff9900'},
- costco:{name:'Costco',accent:'#e11d2a'},
- mercadolibre:{name:'Mercado Libre',accent:'#ffe600'},
- coppel:{name:'Coppel',accent:'#2b7cf0'}
+  palacio:{name:'Palacio de Hierro',accent:'#b08d2f',path:'palacio'},
+  amazon:{name:'Amazon',accent:'#e47911',path:'amazon'},
+  costco:{name:'Costco',accent:'#e11d2a',path:'costco'},
+  mercadolibre:{name:'Mercado Libre',accent:'#2968c8',path:'mercadolibre'},
+  coppel:{name:'Coppel',accent:'#2b7cf0',path:'coppel'}
 };
-var ORDER=['palacio','amazon','costco','mercadolibre','coppel'];
-var qs=new URLSearchParams(location.search);
-var s=qs.get('s'), id=qs.get('id');
-var st=STORES[s]||{name:(s||'Tienda'),accent:'#22d3ee'};
-var app=document.getElementById('app');
-var esc=function(x){return String(x==null?'':x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
+var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
 var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
 var score=function(d){return (d.pct||0)*Math.log10(10+(d.amount||0));};
-function moreLink(){return '<a class="cta" style="background:var(--panel);color:var(--ink);margin-top:10px" href="/'+esc(s||'')+'/">Ver más ofertas de '+esc(st.name)+' →</a>';}
-function state(msg){return '<div class="state">'+msg+'<br><br><a href="/">← Volver al inicio</a></div>';}
-function render(d){
-  var img=d.img?'<img loading="eager" src="'+esc(d.img)+'" alt="'+esc(d.name)+'">':'';
-  return '<div class="card"><div class="imgb">'+img+
-    '<div class="pct">-'+Math.round(d.pct||0)+'%</div>'+
-    '<div class="chip" style="background:'+st.accent+'">'+esc(st.name.toUpperCase())+'</div></div>'+
-    '<div class="body"><h1>'+esc(d.name)+'</h1>'+
-    '<div class="prices"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
-    '<div class="sv">Ahorras '+money(d.amount)+'</div>'+
-    '<a class="cta" href="'+esc(d.url)+'" target="_blank" rel="nofollow noopener">🛒 Ver oferta en '+esc(st.name)+' →</a>'+
-    moreLink()+
-    '<div class="disc">Radar Ofertas MX no es una tienda ni está afiliada oficialmente a la marca. Verifica el precio final en el sitio oficial antes de comprar.</div>'+
+var qs=new URLSearchParams(location.search);
+var SKEY=(qs.get('s')||'').toLowerCase(), ID=qs.get('id'), ST=STORES[SKEY];
+function cardHtml(d){
+  return '<a class="card" href="/oferta/?s='+encodeURIComponent(SKEY)+'&id='+encodeURIComponent(d.id)+'">'+
+    '<span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+
+    '<div class="imgb">'+(d.img?'<img loading="lazy" src="'+esc(d.img)+'" alt="'+esc(d.name)+'">':'')+'</div>'+
+    '<div class="cb"><div class="nm">'+esc(d.name)+'</div>'+
+    '<div class="pr"><span class="pn2">'+money(d.price_new)+'</span><span class="po2">'+money(d.price_old)+'</span></div>'+
+    '<div class="sv2">Ahorras '+money(d.amount)+'</div></div></a>';
+}
+function renderProduct(d, when){
+  document.title=d.name+' — Radar Ofertas MX';
+  document.getElementById('crumb').innerHTML='<a href="/">Inicio</a> / <a href="/'+ST.path+'/">'+esc(ST.name)+'</a> / '+esc(String(d.name).slice(0,60));
+  var h='<div class="product">'+
+    '<div class="pimg"><span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+(d.img?'<img src="'+esc(d.img)+'" alt="'+esc(d.name)+'" fetchpriority="high">':'')+'</div>'+
+    '<div>'+
+    '<span class="stline"><span class="sdot" style="background:'+ST.accent+'"></span>'+esc(ST.name)+' · detectada por el radar</span>'+
+    '<h1 class="pn">'+esc(d.name)+'</h1>'+
+    '<div class="pcat">'+esc(d.category||'')+'</div>'+
+    '<div class="prow"><span class="pnew">'+money(d.price_new)+'</span><span class="pold">'+money(d.price_old)+'</span></div>'+
+    '<span class="save">Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'% de descuento)</span>'+
+    '<div class="pctas">'+
+    '<a class="btn dark" href="'+esc(d.url)+'" target="_blank" rel="noopener nofollow">Ver oferta en '+esc(ST.name)+' →</a>'+
+    '<a class="btn ghost" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Más ofertas en Telegram</a>'+
+    '</div>'+
+    '<p class="meta">Los precios y vigencias pueden cambiar sin previo aviso; verifica el precio final en la tienda.'+(when?' Última actualización del radar: '+esc(when)+'.':'')+'</p>'+
     '</div></div>';
+  document.getElementById('app').innerHTML=h;
 }
-function miniCard(d,sk){
-  return '<a class="mc" href="/oferta/?s='+encodeURIComponent(sk)+'&id='+encodeURIComponent(d.id)+'">'+
-    '<div class="mcimg">'+(d.img?'<img loading="lazy" src="'+esc(d.img)+'" alt="">':'')+'<span class="mcpct">-'+Math.round(d.pct||0)+'%</span></div>'+
-    '<div class="mcb"><div class="mcn">'+esc(d.name)+'</div><div class="mcp">'+money(d.price_new)+'<s>'+money(d.price_old)+'</s></div></div></a>';
+function renderLists(deals, current){
+  var top=deals.slice().sort(function(a,b){return score(b)-score(a);}).filter(function(d){return !current||String(d.id)!==String(current.id);});
+  var tg=document.getElementById('topgrid');
+  tg.innerHTML=top.slice(0,8).map(cardHtml).join('');
+  document.getElementById('topsec').hidden=!top.length;
+  document.getElementById('alllink').href='/'+ST.path+'/';
+  if(current){
+    var sim=deals.filter(function(d){return String(d.id)!==String(current.id)&&d.category&&current.category&&d.category===current.category;});
+    sim.sort(function(a,b){return score(b)-score(a);});
+    var sg=document.getElementById('simgrid');
+    sg.innerHTML=sim.slice(0,4).map(cardHtml).join('');
+    document.getElementById('simsec').hidden=!sim.length;
+  }
 }
-function fillGrid(elId,arr){document.getElementById(elId).innerHTML=arr.map(function(x){return miniCard(x.d,x.s);}).join('');}
-if(!s||!id){app.innerHTML=state('No encontramos la oferta.');}
+function fail(msg){
+  document.getElementById('app').innerHTML='<div class="state">'+msg+'<br><br><a href="/">← Volver al inicio</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Ver ofertas en Telegram</a></div>';
+}
+if(!ST){ fail('No encontramos esa tienda.'); }
 else{
-  fetch('/'+encodeURIComponent(s)+'/deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(data){
-    var deals=data.deals||[];
-    var d=deals.find(function(x){return String(x.id)===String(id);});
-    if(!d){app.innerHTML=state('Esta oferta ya expiró o cambió de precio.');}
-    else{document.title=d.name+' — Radar Ofertas MX';app.innerHTML=render(d);}
-    var sim=deals.filter(function(x){return String(x.id)!==String(id);}).sort(function(a,b){return score(b)-score(a);}).slice(0,10);
-    if(sim.length){document.getElementById('simh').textContent='Descuentos similares en '+st.name;fillGrid('simg',sim.map(function(x){return {d:x,s:s};}));document.getElementById('sim').style.display='block';}
-  }).catch(function(){app.innerHTML=state('No se pudo cargar la oferta.');});
-  Promise.all(ORDER.map(function(k){return fetch('/'+k+'/top.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null;}).then(function(j){return {k:k,deals:(j&&j.deals)||[]};}).catch(function(){return {k:k,deals:[]};});})).then(function(res){
-    var merged=[];res.forEach(function(r){r.deals.forEach(function(x){merged.push({d:x,s:r.k});});});
-    merged=merged.filter(function(x){return !(x.s===s&&String(x.d.id)===String(id));}).sort(function(a,b){return score(b.d)-score(a.d);}).slice(0,10);
-    if(merged.length){fillGrid('bestg',merged);document.getElementById('best').style.display='block';}
-  });
+  fetch('/'+ST.path+'/deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(data){
+    var deals=(data&&data.deals)||[];
+    var d=null;
+    for(var i=0;i<deals.length;i++){ if(String(deals[i].id)===String(ID)){ d=deals[i]; break; } }
+    if(d){ renderProduct(d, data.generated_at_str); renderLists(deals, d); }
+    else{
+      fail('Esta oferta ya expiró o salió del radar. 😕<br>Pero mira lo que sí está vivo ahora mismo:');
+      renderLists(deals, null);
+    }
+  }).catch(function(){ fail('No se pudo cargar la oferta ahora. Recarga en un momento.'); });
 }
 </script>
 </body>

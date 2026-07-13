@@ -100,10 +100,13 @@ h1.tag u{text-decoration:none;background:linear-gradient(0deg,rgba(23,201,100,.3
   background:conic-gradient(from 0deg,rgba(123,241,168,.42),rgba(123,241,168,.06) 62deg,transparent 80deg)}
 @keyframes spin{to{transform:rotate(360deg)}}
 .core{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:52px;height:52px;border-radius:50%;background:#0d1f14;border:1px solid rgba(123,241,168,.5);display:flex;align-items:center;justify-content:center;font-weight:900;color:var(--lime);font-size:1.15rem;box-shadow:0 0 22px rgba(23,201,100,.35)}
-.blip{position:absolute;width:8px;height:8px;border-radius:50%;background:var(--lime);box-shadow:0 0 10px rgba(123,241,168,.9);animation:blink 2.6s infinite}
-.blip.b2{animation-delay:.9s}.blip.b3{animation-delay:1.6s}.blip.b4{animation-delay:.4s}
-@keyframes blink{0%,100%{opacity:.25;transform:scale(.8)}45%{opacity:1;transform:scale(1.15)}}
+#blips{position:absolute;inset:0;border-radius:50%;overflow:hidden}
+.blip{position:absolute;border-radius:50%;animation:blink 2.6s infinite}
+@keyframes blink{0%,100%{opacity:var(--o0,.25)}45%{opacity:var(--o1,1)}}
 .fcard{position:absolute;background:#fff;border:1px solid var(--line);border-radius:13px;padding:9px 12px;display:flex;align-items:center;gap:9px;box-shadow:0 12px 26px rgba(13,17,23,.14);min-width:150px;max-width:200px;animation:float 5.5s ease-in-out infinite;z-index:3}
+.fcard .fimg{width:44px;height:44px;border-radius:10px;background:#fff;border:1px solid var(--line);flex:none;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.fcard .fimg img{max-width:100%;max-height:100%;object-fit:contain}
+.fcard .ftxt{display:flex;flex-direction:column;gap:1px;min-width:0}
 .fcard .fp{font-weight:900;color:var(--green-dk);font-size:.92rem;white-space:nowrap}
 .fcard .fn{font-size:.68rem;line-height:1.25;color:var(--ink);font-weight:650;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .fcard .fs{font-size:.6rem;color:var(--mut)}
@@ -295,15 +298,16 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
         <div class="rings"></div>
         <div class="cross"></div>
         <div class="sweep"></div>
-        <span class="blip" style="top:24%;left:60%"></span>
-        <span class="blip b2" style="top:63%;left:30%"></span>
-        <span class="blip b3" style="top:44%;left:76%"></span>
-        <span class="blip b4" style="top:72%;left:64%"></span>
+        <div id="blips" aria-hidden="true">
+          <span class="blip" style="top:24%;left:60%;width:8px;height:8px;background:#7bf1a8;box-shadow:0 0 10px #7bf1a8"></span>
+          <span class="blip" style="top:63%;left:30%;width:6px;height:6px;background:#7bf1a8;box-shadow:0 0 8px #7bf1a8;animation-delay:.9s"></span>
+          <span class="blip" style="top:44%;left:76%;width:7px;height:7px;background:#7bf1a8;box-shadow:0 0 9px #7bf1a8;animation-delay:1.6s"></span>
+        </div>
         <div class="core">R</div>
-        <div class="fcard f1" id="fc1" hidden><span class="fp"></span><span><span class="fn"></span><span class="fs"></span></span></div>
-        <div class="fcard f2" id="fc2" hidden><span class="fp"></span><span><span class="fn"></span><span class="fs"></span></span></div>
-        <div class="fcard f3" id="fc3" hidden><span class="fp"></span><span><span class="fn"></span><span class="fs"></span></span></div>
-        <div class="fcard f4" id="fc4" hidden><span class="fp"></span><span><span class="fn"></span><span class="fs"></span></span></div>
+        <div class="fcard f1" id="fc1" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
+        <div class="fcard f2" id="fc2" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
+        <div class="fcard f3" id="fc3" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
+        <div class="fcard f4" id="fc4" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
       </div>
       <div class="scanpill"><span class="dotlive"></span> Escaneando 24/7 <span class="sep">•</span> <span id="scanstat">cargando ofertas…</span></div>
     </div>
@@ -344,7 +348,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <div class="stat"><span class="sic">📋</span><span><span class="lb">Ofertas detectadas hoy</span><br><span class="vl" id="st-total">—</span><br><span class="xs" id="st-totalxs"></span></span></div>
       <div class="stat"><span class="sic">⏰</span><span><span class="lb">Mejor descuento hoy</span><br><span class="vl" id="st-best">—</span><br><span class="xs" id="st-bestxs"></span></span></div>
       <div class="stat"><span class="sic">🏬</span><span><span class="lb">Tiendas monitoreadas</span><br><span class="vl" id="st-stores">—</span><br><span class="xs">24/7 activas</span></span></div>
-      <div class="stat"><span class="sic">🚀</span><span><span class="lb">Descuentos de 50% o más</span><br><span class="vl" id="st-viral">—</span><br><span class="xs">entre lo más destacado</span></span></div>
+      <div class="stat"><span class="sic">🚀</span><span><span class="lb">Descuentos de 50% o más</span><br><span class="vl" id="st-viral">—</span><br><span class="xs" id="st-viralxs">entre lo más destacado</span></span></div>
       <button class="trend" id="trendbtn">Ver tendencias →</button>
     </aside>
   </div>
@@ -418,18 +422,33 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
 <script>
 // ====== Config de tiendas (agregar una tienda = agregar una línea) ======
 const STORES = [
-  {key:'palacio',      name:'Palacio de Hierro', short:'Palacio', path:'palacio',      accent:'#b08d2f'},
-  {key:'amazon',       name:'Amazon',            short:'Amazon',  path:'amazon',       accent:'#e47911'},
-  {key:'costco',       name:'Costco',            short:'Costco',  path:'costco',       accent:'#e11d2a'},
-  {key:'mercadolibre', name:'Mercado Libre',     short:'MeLi',    path:'mercadolibre', accent:'#e6c800'},
-  {key:'coppel',       name:'Coppel',            short:'Coppel',  path:'coppel',       accent:'#2b7cf0'},
+  {key:'palacio',      name:'Palacio de Hierro', short:'Palacio', path:'palacio',      accent:'#b08d2f', dot:'#e8c95e'},
+  {key:'amazon',       name:'Amazon',            short:'Amazon',  path:'amazon',       accent:'#e47911', dot:'#ff9900'},
+  {key:'costco',       name:'Costco',            short:'Costco',  path:'costco',       accent:'#e11d2a', dot:'#ff4d5e'},
+  {key:'mercadolibre', name:'Mercado Libre',     short:'MeLi',    path:'mercadolibre', accent:'#e6c800', dot:'#ffe600'},
+  {key:'coppel',       name:'Coppel',            short:'Coppel',  path:'coppel',       accent:'#2b7cf0', dot:'#4d94ff'},
 ];
+const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel'];
 const PAGE_N = 12;
 const TAGS = ['Popular','Bajó hoy','Muy buscado'];
 const $ = id => document.getElementById(id);
 const money = v => { const n=Number(v)||0; const dec=Number.isInteger(n)?0:2; return '$' + n.toLocaleString('es-MX',{minimumFractionDigits:dec, maximumFractionDigits:dec}); };
 const score = d => (d.pct||0) * Math.log10(10 + (d.amount||0));
 let ALL = [], RESULTS = [], FILTER = 'all', Q = '', SORT = 'score', SHOWN = PAGE_N;
+// base completa (deals.json) por tienda, cargada bajo demanda y en segundo plano
+const FULLK = {};
+function dedupe(deals){ const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} return Array.from(seen.values()); }
+function ensureFull(keys){
+  return Promise.all(keys.map(k=>{
+    if(FULLK[k]) return FULLK[k];
+    const store = STORES.find(s=>s.key===k); if(!store) return Promise.resolve();
+    FULLK[k] = fetch(store.path+'/deals.json?_='+Date.now(),{cache:'no-store'})
+      .then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(data=>{ const deals=dedupe(data.deals||[]); ALL=ALL.filter(d=>d._store!==k); deals.forEach(d=>ALL.push({...d,_store:k})); })
+      .catch(()=>{ delete FULLK[k]; });
+    return FULLK[k];
+  }));
+}
 
 // sparkline decorativo determinista (aún no hay histórico real de precios)
 function hashSeed(s){ let h=2166136261; s=String(s); for(let i=0;i<s.length;i++){ h^=s.charCodeAt(i); h=Math.imul(h,16777619); } return ()=>{ h=Math.imul(h^h>>>15,2246822507); h=Math.imul(h^h>>>13,3266489909); return ((h^=h>>>16)>>>0)/4294967296; }; }
@@ -500,7 +519,7 @@ function buildChips(){
     if(accent){ const d=document.createElement('span'); d.className='sdot'; d.style.background=accent; b.appendChild(d); }
     else { b.appendChild(document.createTextNode('◉ ')); }
     b.appendChild(document.createTextNode(label));
-    b.addEventListener('click',()=>{ FILTER=key; SHOWN=PAGE_N; buildChips(); render(); });
+    b.addEventListener('click',()=>{ FILTER=key; SHOWN=PAGE_N; buildChips(); render(); if(key!=='all') ensureFull([key]).then(render); });
     return b;
   };
   box.appendChild(mk('all','Todas las tiendas',null));
@@ -532,8 +551,27 @@ function fillRadarCards(){
     el.querySelector('.fp').textContent='-'+Math.round(d.pct||0)+'%';
     el.querySelector('.fn').textContent=String(d.name||'').slice(0,38);
     el.querySelector('.fs').textContent=d._short;
+    const fi=el.querySelector('.fimg'); fi.innerHTML='';
+    if(d.img){ const im=document.createElement('img'); im.src=d.img; im.alt=''; im.loading='lazy'; fi.appendChild(im); }
     el.hidden=false;
   });
+}
+// puntos del radar: uno por oferta, color de su tienda, tamaño por % de descuento
+function fillRadarBlips(){
+  const box=$('blips'); if(!box) return; box.innerHTML='';
+  const pool=ALL.slice(0,300), n=Math.min(52, pool.length);
+  for(let i=0;i<n;i++){
+    const d=pool[i], store=STORES.find(s=>s.key===d._store)||{};
+    const rnd=hashSeed(String(d.id||i)+'blip');
+    const ang=rnd()*Math.PI*2, rad=0.13+rnd()*0.34;
+    const x=50+Math.cos(ang)*rad*100, y=50+Math.sin(ang)*rad*100;
+    const sz=3.5+(d.pct||0)/14+rnd()*2.5, c=store.dot||'#7bf1a8';
+    const b=document.createElement('span'); b.className='blip';
+    b.style.cssText='left:'+x.toFixed(1)+'%;top:'+y.toFixed(1)+'%;width:'+sz.toFixed(1)+'px;height:'+sz.toFixed(1)+'px;background:'+c+';box-shadow:0 0 '+(4+sz*1.6).toFixed(0)+'px '+c+
+      ';--o0:'+(0.12+rnd()*0.3).toFixed(2)+';--o1:'+(0.65+rnd()*0.35).toFixed(2)+
+      ';animation-delay:'+(rnd()*2.6).toFixed(2)+'s;animation-duration:'+(2+rnd()*2.6).toFixed(2)+'s';
+    box.appendChild(b);
+  }
 }
 function fillMinis(){
   const box=$('minis'); box.innerHTML='';
@@ -566,11 +604,13 @@ buildChips();
 Promise.all(STORES.map(loadStore)).then(res=>{
   RESULTS=res;
   if(!res.some(Boolean)){ $('grid').innerHTML='<div class="err">No se pudieron cargar las ofertas ahora. <button onclick="location.reload()">Reintentar</button></div>'; $('scanstat').textContent='sin conexión con el radar'; return; }
-  render(); updateStats(); fillRadarCards(); fillMinis();
+  render(); updateStats(); fillRadarCards(); fillRadarBlips(); fillMinis();
+  // precarga de la base completa en segundo plano (búsqueda y "ver más" instantáneos)
+  setTimeout(()=>ensureFull(ALLKEYS).then(()=>{ render(); updateStats(); const x=$('st-viralxs'); if(x) x.textContent='en toda la base'; }), 2500);
 });
-$('q').addEventListener('input',e=>{ Q=e.target.value.trim().toLowerCase(); SHOWN=PAGE_N; render(); });
+$('q').addEventListener('input',e=>{ Q=e.target.value.trim().toLowerCase(); SHOWN=PAGE_N; render(); if(Q) ensureFull(ALLKEYS).then(render); });
 $('sort').addEventListener('change',e=>{ SORT=e.target.value; SHOWN=PAGE_N; render(); });
-$('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); });
+$('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); ensureFull(FILTER==='all'?ALLKEYS:[FILTER]).then(render); });
 $('trendbtn').addEventListener('click',()=>{ SORT='pct'; $('sort').value='pct'; SHOWN=PAGE_N; render(); document.getElementById('destacadas').scrollIntoView({behavior:'smooth'}); });
 $('nlform').addEventListener('submit',e=>{ e.preventDefault(); $('nlnote').innerHTML='¡Gracias! El boletín está en preparación; mientras tanto, las alertas llegan primero por <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener" style="color:var(--green-dk);font-weight:800">Telegram</a>.'; $('nlmail').value=''; });
 </script>

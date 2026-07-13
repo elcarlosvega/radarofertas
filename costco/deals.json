@@ -1,6 +1,6 @@
 {
- "generated_at": 1783966138.4089332,
- "generated_at_str": "13/07/2026 12:08",
+ "generated_at": 1783969762.3492548,
+ "generated_at_str": "13/07/2026 13:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -617,9 +617,9 @@
    "pct": 30.7,
    "amount": 460.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-21T05:59:59.999Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962567.55354
+   "first_seen": 1783955396.1879866
   },
   {
    "id": "1326889",
@@ -1657,21 +1657,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "702957",
-   "name": "HP 15-fd0263la Laptop 15.6\" Full HD Intel Core i5 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0263la-Laptop-156-Full-HD-Intel-Core-i5-16GB-1TB-SSD/p/702957",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/he2/450975497977886.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 16999.0,
-   "price_new": 11999.0,
-   "pct": 29.4,
-   "amount": 5000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
    "id": "696495",
    "name": "Sennheiser Ambeo Barra de Sonido Mini",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Sennheiser-Ambeo-Barra-de-Sonido-Mini/p/696495",
@@ -2107,6 +2092,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "682972",
+   "name": "Montblanc Signature Absolue 90 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Montblanc-Signature-Absolue-90-ml/p/682972",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/haf/189581935837214.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1099.0,
+   "price_new": 780.29,
+   "pct": 29.0,
+   "amount": 318.71,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "662796",
    "name": "Montblanc Explorer 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Montblanc-Explorer-100-ml/p/662796",
@@ -2135,6 +2135,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "628237",
+   "name": "Montblanc Legend 100ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Montblanc-Legend-100ml/p/628237",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h36/h8d/260775714652190.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 949.0,
+   "price_new": 673.79,
+   "pct": 29.0,
+   "amount": 275.21,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783969762.3492548
   },
   {
    "id": "643187",
@@ -4657,21 +4672,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "676247",
-   "name": "Samsung Lavadora 22Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavadora-22Kg/p/676247",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha3/hdc/452706635808798.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 11999.0,
-   "price_new": 8999.0,
-   "pct": 25.0,
-   "amount": 3000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
-  },
-  {
    "id": "680192",
    "name": "Luuna Cloud, Colchon Matrimonial, Memory Foam",
    "url": "https://www.costco.com.mx/c/Luuna-Cloud-Colchon-Matrimonial-Memory-Foam/p/680192",
@@ -4745,6 +4745,36 @@
    "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "694079",
+   "name": "Hugo Boss 1712 F SK Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1712-F-SK-Lentes-de-Sol/p/694079",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/had/hee/350710783410206.jpg",
+   "category": "Optica",
+   "price_old": 5499.0,
+   "price_new": 4124.25,
+   "pct": 25.0,
+   "amount": 1374.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694077",
+   "name": "Hugo Boss 1695 S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1695-S-Lentes-de-Sol/p/694077",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/had/h7c/350710775808030.jpg",
+   "category": "Optica",
+   "price_old": 5499.0,
+   "price_new": 4124.25,
+   "pct": 25.0,
+   "amount": 1374.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "694087",
@@ -5096,6 +5126,36 @@
    "name": "Hugo Boss 1722 G S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1722-G-S-Lentes-de-Sol/p/694080",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/hee/350710817095710.jpg",
+   "category": "Optica",
+   "price_old": 4999.0,
+   "price_new": 3749.25,
+   "pct": 25.0,
+   "amount": 1249.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694078",
+   "name": "Hugo Boss 1700 S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1700-S-Lentes-de-Sol/p/694078",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h03/350710780067870.jpg",
+   "category": "Optica",
+   "price_old": 4999.0,
+   "price_new": 3749.25,
+   "pct": 25.0,
+   "amount": 1249.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694076",
+   "name": "Hugo Boss 1694 S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1694-S-Lentes-de-Sol/p/694076",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/hed/350710772727838.jpg",
    "category": "Optica",
    "price_old": 4999.0,
    "price_new": 3749.25,
@@ -8257,21 +8317,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "694184",
-   "name": "Flash Suero Amplificador de Pestañas 2.5 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/Flash-Suero-Amplificador-de-Pestanas-25-ml/p/694184",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h52/402221496008734.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 949.0,
-   "price_new": 711.75,
-   "pct": 25.0,
-   "amount": 237.25,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "592720",
    "name": "Despamen-LBD 50/2.5 mg Jeringa",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Despamen-LBD-5025-mg-Jeringa/p/592720",
@@ -8536,21 +8581,6 @@
    "price_new": 554.25,
    "pct": 25.0,
    "amount": 184.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "662460",
-   "name": "Isdin Fotoprotector Fusion Water Urban FPS 30+ 50ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Isdin-Fotoprotector-Fusion-Water-Urban-FPS-30-50ml/p/662460",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h74/hf7/45650516967454.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 729.0,
-   "price_new": 546.75,
-   "pct": 25.0,
-   "amount": 182.25,
    "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
@@ -13762,21 +13792,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "693429",
-   "name": "Apple iPad Chip A16 256GB Plata",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-256GB-Plata/p/693429",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h51/332512873578526.jpg",
-   "category": "Electronicos",
-   "price_old": 10599.0,
-   "price_new": 8999.0,
-   "pct": 15.1,
-   "amount": 1600.0,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
    "id": "695855",
    "name": "Stepr Classic Escalera Sin Fin",
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/Stepr-Classic-Escalera-Sin-Fin/p/695855",
@@ -14367,6 +14382,21 @@
    "url": "https://www.costco.com.mx/Deportes/Ciclismo/Bicicletas-de-Montana/Bicicleta-de-Montana-R29-Benotto-Black-Widow/p/702947",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h31/449171741343774.jpg",
    "category": "Deportes",
+   "price_old": 13999.0,
+   "price_new": 11999.0,
+   "pct": 14.3,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "690472",
+   "name": "Apple iPad Mini Wi-Fi 256GB Morado",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-256GB-Morado/p/690472",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h38/279306438115358.jpg",
+   "category": "Electronicos",
    "price_old": 13999.0,
    "price_new": 11999.0,
    "pct": 14.3,

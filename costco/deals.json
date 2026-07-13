@@ -1,6 +1,6 @@
 {
- "generated_at": 1783912159.629202,
- "generated_at_str": "12/07/2026 21:09",
+ "generated_at": 1783915781.0455651,
+ "generated_at_str": "12/07/2026 22:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1250,21 +1250,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783789763.151063
-  },
-  {
-   "id": "665571",
-   "name": "Kleenex Cottonelle Violet Blossom Papel Higiénico 32 pzas",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kleenex-Cottonelle-Violet-Blossom-Papel-Higienico-32-pzas/p/665571",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/hb9/360893454909470.jpg",
-   "category": "Grocery",
-   "price_old": 559.0,
-   "price_new": 391.3,
-   "pct": 30.0,
-   "amount": 167.7,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "701198",
@@ -5621,6 +5606,21 @@
    "name": "Michael Kors 0MK4127 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Michael-Kors-0MK4127-Armazon-Oftalmico/p/750209",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h88/h97/448978908872734.jpg",
+   "category": "Optica",
+   "price_old": 2699.0,
+   "price_new": 2024.25,
+   "pct": 25.0,
+   "amount": 674.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "710036",
+   "name": "Michael Kors 0MK1160 Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Michael-Kors-0MK1160-Lentes-de-Sol/p/710036",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc0/h96/483839981256734.jpg",
    "category": "Optica",
    "price_old": 2699.0,
    "price_new": 2024.25,

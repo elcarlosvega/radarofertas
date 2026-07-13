@@ -1,6 +1,6 @@
 {
- "generated_at": 1783973342.5670187,
- "generated_at_str": "13/07/2026 14:09",
+ "generated_at": 1783976960.169329,
+ "generated_at_str": "13/07/2026 15:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -757,21 +757,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "681591",
-   "name": "Hisense Congelador 9'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-9/p/681591",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h87/239697306943518.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 10499.0,
-   "price_new": 7299.0,
-   "pct": 30.5,
-   "amount": 3200.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "684903",
    "name": "Hisense Refrigerador French Door 22'",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-French-Door-22/p/684903",
@@ -1008,21 +993,6 @@
    "amount": 12000.0,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "688896",
-   "name": "Samsung Lavadora 22kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavadora-22kg/p/688896",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb7/hec/452706642886686.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 15999.0,
-   "price_new": 11199.0,
-   "pct": 30.0,
-   "amount": 4800.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
   },
@@ -2257,6 +2227,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "682933",
+   "name": "DKNY Be Delicious Fresh Blossom 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/DKNY-Be-Delicious-Fresh-Blossom-100-ml/p/682933",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/h40/189581921419294.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 699.0,
+   "price_new": 496.29,
+   "pct": 29.0,
+   "amount": 202.71,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
+  },
+  {
    "id": "682346",
    "name": "Lattafa Hala 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Lattafa-Hala-100-ml/p/682346",
@@ -2537,9 +2522,9 @@
    "pct": 28.6,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "695385",
@@ -2552,9 +2537,9 @@
    "pct": 28.6,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "682770",
@@ -10292,9 +10277,9 @@
    "pct": 22.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-19T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "696658",
@@ -10307,9 +10292,9 @@
    "pct": 22.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-19T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "696657",
@@ -10322,9 +10307,9 @@
    "pct": 22.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-19T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "696656",
@@ -10337,9 +10322,9 @@
    "pct": 22.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-19T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "690382",
@@ -11177,9 +11162,9 @@
    "pct": 20.5,
    "amount": 2500.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "701330",
@@ -12587,9 +12572,9 @@
    "pct": 18.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "696245",
@@ -12602,9 +12587,9 @@
    "pct": 18.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "696244",
@@ -12617,9 +12602,9 @@
    "pct": 18.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1783976960.169329
   },
   {
    "id": "694704",
@@ -14889,7 +14874,7 @@
   {
    "id": "704472",
    "name": "Hisense Pantalla 85\" RGB Miniled 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/HISENSE-85-RGB-MINILED/p/704472",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-85-RGB-Miniled-4K-Smart-TV/p/704472",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hbc/h94/468803790110750.jpg",
    "category": "Electronicos",
    "price_old": 56999.0,

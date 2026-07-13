@@ -1,6 +1,6 @@
 {
- "generated_at": 1783962561.5700238,
- "generated_at_str": "13/07/2026 11:09",
+ "generated_at": 1783966138.4089332,
+ "generated_at_str": "13/07/2026 12:08",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -619,7 +619,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "1326889",
@@ -1999,7 +1999,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "692975",
@@ -3679,7 +3679,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "658580",
@@ -4264,7 +4264,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "1695585",
@@ -4747,36 +4747,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "694079",
-   "name": "Hugo Boss 1712 F SK Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1712-F-SK-Lentes-de-Sol/p/694079",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/had/hee/350710783410206.jpg",
-   "category": "Optica",
-   "price_old": 5499.0,
-   "price_new": 4124.25,
-   "pct": 25.0,
-   "amount": 1374.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "694077",
-   "name": "Hugo Boss 1695 S Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1695-S-Lentes-de-Sol/p/694077",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/had/h7c/350710775808030.jpg",
-   "category": "Optica",
-   "price_old": 5499.0,
-   "price_new": 4124.25,
-   "pct": 25.0,
-   "amount": 1374.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "694087",
    "name": "Hugo Boss 1716 F Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Hugo-Boss-1716-F-Armazon-Oftalmico/p/694087",
@@ -5126,36 +5096,6 @@
    "name": "Hugo Boss 1722 G S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1722-G-S-Lentes-de-Sol/p/694080",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/hee/350710817095710.jpg",
-   "category": "Optica",
-   "price_old": 4999.0,
-   "price_new": 3749.25,
-   "pct": 25.0,
-   "amount": 1249.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "694078",
-   "name": "Hugo Boss 1700 S Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1700-S-Lentes-de-Sol/p/694078",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h03/350710780067870.jpg",
-   "category": "Optica",
-   "price_old": 4999.0,
-   "price_new": 3749.25,
-   "pct": 25.0,
-   "amount": 1249.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "694076",
-   "name": "Hugo Boss 1694 S Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1694-S-Lentes-de-Sol/p/694076",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/hed/350710772727838.jpg",
    "category": "Optica",
    "price_old": 4999.0,
    "price_new": 3749.25,
@@ -13129,7 +13069,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "703976",
@@ -13684,7 +13624,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "683665",
@@ -14344,7 +14284,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "690407",
@@ -14427,21 +14367,6 @@
    "url": "https://www.costco.com.mx/Deportes/Ciclismo/Bicicletas-de-Montana/Bicicleta-de-Montana-R29-Benotto-Black-Widow/p/702947",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h31/449171741343774.jpg",
    "category": "Deportes",
-   "price_old": 13999.0,
-   "price_new": 11999.0,
-   "pct": 14.3,
-   "amount": 2000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "690472",
-   "name": "Apple iPad Mini Wi-Fi 256GB Morado",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-256GB-Morado/p/690472",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h38/279306438115358.jpg",
-   "category": "Electronicos",
    "price_old": 13999.0,
    "price_new": 11999.0,
    "pct": 14.3,
@@ -15004,7 +14929,7 @@
    "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "5948706",
@@ -15934,7 +15859,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "696409",
@@ -16204,7 +16129,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783962561.5700238
+   "first_seen": 1783962567.55354
   },
   {
    "id": "693640",

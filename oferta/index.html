@@ -11,6 +11,8 @@ gtag('js', new Date());
 gtag('config', 'G-6FC3YSTR2X');
 </script>
 <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com; base-uri 'self'; form-action 'self'">
+
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <title>Oferta — Radar Ofertas MX</title>
@@ -137,7 +139,8 @@ footer a{color:var(--green-dk);font-weight:700}
 </main>
 <footer>
   Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
-  <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.
+  <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.<br>
+  <a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a>
 </footer>
 <script>
 var STORES={
@@ -147,6 +150,8 @@ var STORES={
   mercadolibre:{name:'Mercado Libre',accent:'#2968c8',path:'mercadolibre'},
   coppel:{name:'Coppel',accent:'#2b7cf0',path:'coppel'}
 };
+var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx'];
+function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}
 var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});};
 var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
 var score=function(d){return (d.pct||0)*Math.log10(10+(d.amount||0));};
@@ -155,7 +160,7 @@ var SKEY=(qs.get('s')||'').toLowerCase(), ID=qs.get('id'), ST=STORES[SKEY];
 function cardHtml(d){
   return '<a class="card" href="/oferta/?s='+encodeURIComponent(SKEY)+'&id='+encodeURIComponent(d.id)+'">'+
     '<span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+
-    '<div class="imgb">'+(d.img?'<img loading="lazy" src="'+esc(d.img)+'" alt="'+esc(d.name)+'">':'')+'</div>'+
+    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
     '<div class="cb"><div class="nm">'+esc(d.name)+'</div>'+
     '<div class="pr"><span class="pn2">'+money(d.price_new)+'</span><span class="po2">'+money(d.price_old)+'</span></div>'+
     '<div class="sv2">Ahorras '+money(d.amount)+'</div></div></a>';
@@ -164,7 +169,7 @@ function renderProduct(d, when){
   document.title=d.name+' — Radar Ofertas MX';
   document.getElementById('crumb').innerHTML='<a href="/">Inicio</a> / <a href="/'+ST.path+'/">'+esc(ST.name)+'</a> / '+esc(String(d.name).slice(0,60));
   var h='<div class="product">'+
-    '<div class="pimg"><span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+(d.img?'<img src="'+esc(d.img)+'" alt="'+esc(d.name)+'" fetchpriority="high">':'')+'</div>'+
+    '<div class="pimg"><span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+(safeUrl(d.img)?'<img src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'" fetchpriority="high">':'')+'</div>'+
     '<div>'+
     '<span class="stline"><span class="sdot" style="background:'+ST.accent+'"></span>'+esc(ST.name)+' · detectada por el radar</span>'+
     '<h1 class="pn">'+esc(d.name)+'</h1>'+
@@ -172,7 +177,7 @@ function renderProduct(d, when){
     '<div class="prow"><span class="pnew">'+money(d.price_new)+'</span><span class="pold">'+money(d.price_old)+'</span></div>'+
     '<span class="save">Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'% de descuento)</span>'+
     '<div class="pctas">'+
-    '<a class="btn dark" href="'+esc(d.url)+'" target="_blank" rel="noopener nofollow">Ver oferta en '+esc(ST.name)+' →</a>'+
+    '<a class="btn dark" href="'+esc(safeUrl(d.url)||'/')+'" target="_blank" rel="noopener nofollow">Ver oferta en '+esc(ST.name)+' →</a>'+
     '<a class="btn ghost" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Más ofertas en Telegram</a>'+
     '</div>'+
     '<p class="meta">Los precios y vigencias pueden cambiar sin previo aviso; verifica el precio final en la tienda.'+(when?' Última actualización del radar: '+esc(when)+'.':'')+'</p>'+

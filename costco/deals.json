@@ -1,6 +1,6 @@
 {
- "generated_at": 1783904952.5784652,
- "generated_at_str": "12/07/2026 19:09",
+ "generated_at": 1783908586.721383,
+ "generated_at_str": "12/07/2026 20:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -11000,6 +11000,21 @@
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "702957",
+   "name": "HP 15-fd0263la Laptop 15.6\" Full HD Intel Core i5 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0263la-Laptop-156-Full-HD-Intel-Core-i5-16GB-1TB-SSD/p/702957",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/he2/450975497977886.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 16999.0,
+   "price_new": 13999.0,
+   "pct": 17.6,
+   "amount": 3000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783629083.4403863
   },
   {
    "id": "1934048",

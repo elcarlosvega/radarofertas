@@ -1,6 +1,6 @@
 {
- "generated_at": 1784066971.4591458,
- "generated_at_str": "14/07/2026 16:09",
+ "generated_at": 1784070782.5644248,
+ "generated_at_str": "14/07/2026 17:13",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -78,6 +78,21 @@
    "amount": 5200.0,
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-15T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041770.2267919
+  },
+  {
+   "id": "688010",
+   "name": "Samsung Bespoke AI Lavasecadora Eléctrica 26Kg/15Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-AI-Lavasecadora-Electrica-26Kg15Kg/p/688010",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h47/h2f/364485066457118.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 39799.0,
+   "price_new": 22999.0,
+   "pct": 42.2,
+   "amount": 16800.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784041770.2267919
   },
@@ -1235,6 +1250,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "696656",
+   "name": "Apple Watch Series 11 (GPS) 42mm Aluminio Negro Azabache + Correa Deportiva Negra - Talla S/M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-42mm-Aluminio-Negro-Azabache-Correa-Deportiva-Negra-Talla-SM/p/696656",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h80/h36/382853252448286.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6299.0,
+   "pct": 30.0,
+   "amount": 2700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041770.2267919
   },
   {
    "id": "696659",
@@ -2914,7 +2944,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784066971.4591458
+   "first_seen": 1784066977.6909778
   },
   {
    "id": "643188",
@@ -14652,21 +14682,6 @@
    "url": "https://www.costco.com.mx/Deportes/Ciclismo/Bicicletas-de-Montana/Bicicleta-de-Montana-R29-Benotto-Black-Widow/p/702947",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h31/449171741343774.jpg",
    "category": "Deportes",
-   "price_old": 13999.0,
-   "price_new": 11999.0,
-   "pct": 14.3,
-   "amount": 2000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "690472",
-   "name": "Apple iPad Mini Wi-Fi 256GB Morado",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-256GB-Morado/p/690472",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h38/279306438115358.jpg",
-   "category": "Electronicos",
    "price_old": 13999.0,
    "price_new": 11999.0,
    "pct": 14.3,

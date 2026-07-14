@@ -1,6 +1,6 @@
 {
- "generated_at": 1783984155.3055758,
- "generated_at_str": "13/07/2026 17:09",
+ "generated_at": 1783987750.3576581,
+ "generated_at_str": "13/07/2026 18:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -46,6 +46,21 @@
    "price_new": 8999.0,
    "pct": 50.0,
    "amount": 9000.0,
+   "starts": "2026-07-11T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783782558.4613187
+  },
+  {
+   "id": "1812505",
+   "name": "Universal Broadmoore, Bellevue, Mesa de Noche",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Buros/Universal-Broadmoore-Bellevue-Mesa-de-Noche/p/1812505",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/ha3/367525932630046.jpg",
+   "category": "Muebles",
+   "price_old": 7999.0,
+   "price_new": 3999.0,
+   "pct": 50.0,
+   "amount": 4000.0,
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
@@ -1024,7 +1039,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "696191",
@@ -2404,7 +2419,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "628230",
@@ -2434,7 +2449,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "643188",
@@ -2449,7 +2464,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "675849",
@@ -2872,6 +2887,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "686478",
+   "name": "GE Lavadora Top Load 22Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-Top-Load-22Kg/p/686478",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/h00/245743046197278.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 12999.0,
+   "price_new": 9299.0,
+   "pct": 28.5,
+   "amount": 3700.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783987750.3576581
+  },
+  {
    "id": "697416",
    "name": "LG Refrigerador 31' French Door",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-31-French-Door/p/697416",
@@ -3050,6 +3080,21 @@
    "ends": "2026-07-17T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "694112",
+   "name": "Hisense Pantalla 50\" QLED 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Hisense-Pantalla-50-QLED-4K-Fire-TV/p/694112",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h97/h39/435243953586206.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6499.0,
+   "pct": 27.8,
+   "amount": 2500.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783987750.3576581
   },
   {
    "id": "1861870",
@@ -3379,7 +3424,7 @@
    "starts": "2026-07-02T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "696962",
@@ -3484,7 +3529,7 @@
    "starts": "2026-07-02T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "686785",
@@ -3902,6 +3947,21 @@
    "pct": 26.1,
    "amount": 8600.0,
    "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "696712",
+   "name": "Hisense Congelador Horizontal 18'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-Horizontal-18/p/696712",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h8e/414733846839326.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17999.0,
+   "price_new": 13299.0,
+   "pct": 26.1,
+   "amount": 4700.0,
+   "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
@@ -4342,6 +4402,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "542025",
+   "name": "Whisky Buchanan's Deluxe 12 años Blended Scotch 1 L",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Buchanans-Deluxe-12-anos-Blended-Scotch-1-L/p/542025",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/hc1/277018918748190.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 1299.0,
+   "price_new": 969.0,
+   "pct": 25.4,
+   "amount": 330.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "1695585",
    "name": "Universal Broadmoore, Consola Decorativa",
    "url": "https://www.costco.com.mx/Muebles/Recamara/Consolas-para-TV/Universal-Broadmoore-Consola-Decorativa/p/1695585",
@@ -4744,7 +4819,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "1783253",
@@ -7822,21 +7897,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "695712",
-   "name": "Nourella Crema Revitalizante 50 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-Crema-Revitalizante-50-ml/p/695712",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h7b/382305852522526.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1549.0,
-   "price_new": 1161.75,
-   "pct": 25.0,
-   "amount": 387.25,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "695711",
    "name": "Nourella 60 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-60-Tabletas/p/695711",
@@ -8857,6 +8917,36 @@
    "first_seen": 1783951816.7088192
   },
   {
+   "id": "694280",
+   "name": "Just Colágeno Hidrolizado Frasco con 240 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Just-Colageno-Hidrolizado-Frasco-con-240-Tabletas/p/694280",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/ha3/366219907694622.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 449.25,
+   "pct": 25.0,
+   "amount": 149.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694187",
+   "name": "L'Oréal Big Deal Mascara de Pestañas a Prueba de Agua 2 pzas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/LOreal-Big-Deal-Mascara-de-Pestanas-a-Prueba-de-Agua-2-pzas/p/694187",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h2a/351077176606750.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 449.25,
+   "pct": 25.0,
+   "amount": 149.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "661925",
    "name": "L'Oréal Revitalift Kit de Cuidado Facial 2 pzas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/LOreal-Revitalift-Kit-de-Cuidado-Facial-2-pzas/p/661925",
@@ -9078,6 +9168,21 @@
    "amount": 99.75,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-07-23T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "542040",
+   "name": "Pepto Bismol Frasco de 473 ml",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Pepto-Bismol-Frasco-de-473-ml/p/542040",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h87/h22/382305504428062.jpg",
+   "category": "Grocery",
+   "price_old": 389.0,
+   "price_new": 291.75,
+   "pct": 25.0,
+   "amount": 97.25,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -11722,6 +11827,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "694132",
+   "name": "Danby Congelador Vertical 6.64'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Danby-Congelador-Vertical-664/p/694132",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0f/haa/401637522866206.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 7499.0,
+   "price_new": 5999.0,
+   "pct": 20.0,
+   "amount": 1500.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783789763.151063
+  },
+  {
    "id": "702889",
    "name": "Smeg Campana 90cm Downdraft",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Campana-90cm-Downdraft/p/702889",
@@ -12109,7 +12229,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "523901",
@@ -14062,6 +14182,21 @@
    "first_seen": 1783951816.7088192
   },
   {
+   "id": "690739",
+   "name": "Koblenz Estufa de Gas 6 Quemadores",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Koblenz-Estufa-de-Gas-6-Quemadores/p/690739",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/h36/363624467955742.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13299.0,
+   "price_new": 11299.0,
+   "pct": 15.0,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783987750.3576581
+  },
+  {
    "id": "704311",
    "name": "Montbrook Home, Venus, Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Venus-Reclinable/p/704311",
@@ -15919,7 +16054,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "703840",
@@ -16159,7 +16294,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783984155.3055758
+   "first_seen": 1783984161.4592483
   },
   {
    "id": "703972",

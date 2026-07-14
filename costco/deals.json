@@ -1,6 +1,6 @@
 {
- "generated_at": 1784048950.1046717,
- "generated_at_str": "14/07/2026 11:09",
+ "generated_at": 1784052599.9189732,
+ "generated_at_str": "14/07/2026 12:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1700,21 +1700,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783789763.151063
-  },
-  {
-   "id": "665571",
-   "name": "Kleenex Cottonelle Violet Blossom Papel Higiénico 32 pzas",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kleenex-Cottonelle-Violet-Blossom-Papel-Higienico-32-pzas/p/665571",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/hb9/360893454909470.jpg",
-   "category": "Grocery",
-   "price_old": 559.0,
-   "price_new": 391.3,
-   "pct": 30.0,
-   "amount": 167.7,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "701198",
@@ -11464,7 +11449,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784048950.1046717
+   "first_seen": 1784048956.6853962
   },
   {
    "id": "693793",
@@ -12800,6 +12785,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "697444",
+   "name": "NordicTrack Caminadora X16",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/NordicTrack-Caminadora-X16/p/697444",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h04/h66/399318115811358.jpg",
+   "category": "Deportes",
+   "price_old": 54999.0,
+   "price_new": 44999.0,
+   "pct": 18.2,
+   "amount": 10000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784052599.9189732
   },
   {
    "id": "677228",

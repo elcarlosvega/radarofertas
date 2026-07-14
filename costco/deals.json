@@ -1,6 +1,6 @@
 {
- "generated_at": 1784045335.8114803,
- "generated_at_str": "14/07/2026 10:08",
+ "generated_at": 1784048950.1046717,
+ "generated_at_str": "14/07/2026 11:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -230,21 +230,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784041770.2267919
-  },
-  {
-   "id": "8566771",
-   "name": "Over & Back 6 Platos Hondos de Cerámica",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Over-Back-6-Platos-Hondos-de-Ceramica/p/8566771",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h39/h74/421244082389022.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 449.0,
-   "price_new": 299.0,
-   "pct": 33.4,
-   "amount": 150.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
   },
   {
    "id": "1855701",
@@ -3592,6 +3577,21 @@
    "first_seen": 1783782558.4613187
   },
   {
+   "id": "676432",
+   "name": "Carrier, Aire Acondicionado Minisplit Inverter con Wi-Fi, 36,000 btus 220V, Enfriamiento y Calefacción, 17 SEER",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Calentadores/Carrier-Aire-Acondicionado-Minisplit-Inverter-con-Wi-Fi-36000-btus-220V-Enfriamiento-y-Calefaccion-17-SEER/p/676432",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/h91/136271031894046.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 28999.0,
+   "price_new": 20999.0,
+   "pct": 27.6,
+   "amount": 8000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
+  },
+  {
    "id": "683627",
    "name": "HP Victus Gaming 16-d0537la Laptop 16\" Full HD Intel Core i5 8GB 512GB SSD + Headset HyperX",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/HP-Victus-Gaming-16-d0537la-Laptop-16-Full-HD-Intel-Core-i5-8GB-512GB-SSD-Headset-HyperX/p/683627",
@@ -4310,6 +4310,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784041770.2267919
+  },
+  {
+   "id": "688059",
+   "name": "LG Refrigerador 29' French Door Instaview",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-29-French-Door-Instaview/p/688059",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h50/h72/273984274399262.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 31999.0,
+   "price_new": 23499.0,
+   "pct": 26.6,
+   "amount": 8500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "696496",
@@ -6007,6 +6022,36 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "700547",
+   "name": "Carrera 361 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-361-Armazon-Oftalmico/p/700547",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd9/h85/401637671501854.jpg",
+   "category": "Optica",
+   "price_old": 4499.0,
+   "price_new": 3374.25,
+   "pct": 25.0,
+   "amount": 1124.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700546",
+   "name": "Carrera 360 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-360-Armazon-Oftalmico/p/700546",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/hdd/401637672157214.jpg",
+   "category": "Optica",
+   "price_old": 4499.0,
+   "price_new": 3374.25,
+   "pct": 25.0,
+   "amount": 1124.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "700529",
    "name": "Carolina Herrera HER 0311 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carolina-Herrera-HER-0311-Armazon-Oftalmico/p/700529",
@@ -6371,6 +6416,36 @@
    "name": "Hugo HG 1350 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Hugo-HG-1350-Armazon-Oftalmico/p/700560",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h71/h67/401637690605598.jpg",
+   "category": "Optica",
+   "price_old": 3999.0,
+   "price_new": 2999.25,
+   "pct": 25.0,
+   "amount": 999.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700543",
+   "name": "Carrera 3037/S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carrera-3037S-Lentes-de-Sol/p/700543",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcf/h81/401637666979870.jpg",
+   "category": "Optica",
+   "price_old": 3999.0,
+   "price_new": 2999.25,
+   "pct": 25.0,
+   "amount": 999.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700541",
+   "name": "Carrera 3028/S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carrera-3028S-Lentes-de-Sol/p/700541",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hee/hdc/401637662851102.jpg",
    "category": "Optica",
    "price_old": 3999.0,
    "price_new": 2999.25,
@@ -10171,7 +10246,7 @@
    "price_new": 5199.0,
    "pct": 23.5,
    "amount": 1600.0,
-   "starts": "2026-07-13T06:00:00.000Z",
+   "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
@@ -11377,6 +11452,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "705079",
+   "name": "ASUS ExpertBook P1 Laptop 15.6\" FHD AMD Ryzen 5 150 8GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-ExpertBook-P1-Laptop-156-FHD-AMD-Ryzen-5-150-8GB-512GB-SSD/p/705079",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h45/484393996681246.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 14499.0,
+   "price_new": 11499.0,
+   "pct": 20.7,
+   "amount": 3000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784048950.1046717
+  },
+  {
    "id": "693793",
    "name": "Samsung Refrigerador 23' French Door",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-23-French-Door/p/693793",
@@ -12127,6 +12217,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "687077",
+   "name": "Sealy, Lisboa, Colchón Queen Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
+   "category": "c",
+   "price_old": 12999.0,
+   "price_new": 10499.0,
+   "pct": 19.2,
+   "amount": 2500.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "702848",
    "name": "Samsung Pantalla 65\" Crystal UHD Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-Crystal-UHD-Smart-TV/p/702848",
@@ -12739,7 +12844,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784045335.8114803
+   "first_seen": 1784045342.2613087
   },
   {
    "id": "687076",

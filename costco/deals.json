@@ -1,6 +1,6 @@
 {
- "generated_at": 1784038128.0131686,
- "generated_at_str": "14/07/2026 08:08",
+ "generated_at": 1784041764.2840068,
+ "generated_at_str": "14/07/2026 09:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -67,6 +67,51 @@
    "first_seen": 1783782558.4613187
   },
   {
+   "id": "701908",
+   "name": "HP 15-fc0265la Laptop 15.6\" Full HD AMD Ryzen 5 8GB 512GB SSD + 12 Meses M365 Personal",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fc0265la-Laptop-156-Full-HD-AMD-Ryzen-5-8GB-512GB-SSD-12-Meses-M365-Personal/p/701908",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h93/438164211695646.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 12199.0,
+   "price_new": 6999.0,
+   "pct": 42.6,
+   "amount": 5200.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-15T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "688010",
+   "name": "Samsung Bespoke AI Lavasecadora Eléctrica 26Kg/15Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-AI-Lavasecadora-Electrica-26Kg15Kg/p/688010",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h47/h2f/364485066457118.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 39799.0,
+   "price_new": 22999.0,
+   "pct": 42.2,
+   "amount": 16800.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "695045",
+   "name": "HP 15-fd0151la Laptop 15.6\" Full HD Táctil Intel Core i5 8GB 512GB SSD + 12 Meses M365 Personal",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0151la-Laptop-156-Full-HD-Tactil-Intel-Core-i5-8GB-512GB-SSD-12-Meses-M365-Personal/p/695045",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hcf/438163984220190.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 14999.0,
+   "price_new": 8999.0,
+   "pct": 40.0,
+   "amount": 6000.0,
+   "starts": "2026-06-16T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "682092",
    "name": "Crayola Set Inspiración de Arte 140 Piezas",
    "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Escritura-y-Pintura/Arte-y-Manualidades/Crayola-Set-Inspiracion-de-Arte-140-Piezas/p/682092",
@@ -112,19 +157,34 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "688010",
-   "name": "Samsung Bespoke AI Lavasecadora Eléctrica 26Kg/15Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-AI-Lavasecadora-Electrica-26Kg15Kg/p/688010",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h47/h2f/364485066457118.jpg",
+   "id": "661928",
+   "name": "LG Campana de Pared 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/LG-Campana-de-Pared-90cm/p/661928",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6c/h65/44922759086110.jpg",
    "category": "Linea Blanca y Cocina",
-   "price_old": 46799.0,
-   "price_new": 29999.0,
-   "pct": 35.9,
-   "amount": 16800.0,
+   "price_old": 6799.0,
+   "price_new": 4499.0,
+   "pct": 33.8,
+   "amount": 2300.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "674604",
+   "name": "Whirlpool Lavadora carga superior 27Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-carga-superior-27Kg/p/674604",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7c/hc2/150711975608350.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 27199.0,
+   "price_new": 18099.0,
+   "pct": 33.5,
+   "amount": 9100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "684484",
@@ -155,6 +215,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "671363",
+   "name": "PlayStation 5 - Horizon: Fobidden West",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Horizon-Fobidden-West/p/671363",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9d/h3c/97918038114334.jpg",
+   "category": "Electronicos",
+   "price_old": 899.0,
+   "price_new": 599.0,
+   "pct": 33.4,
+   "amount": 300.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "8566771",
@@ -247,21 +322,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "695045",
-   "name": "HP 15-fd0151la Laptop 15.6\" Full HD Táctil Intel Core i5 8GB 512GB SSD + 12 Meses M365 Personal",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0151la-Laptop-156-Full-HD-Tactil-Intel-Core-i5-8GB-512GB-SSD-12-Meses-M365-Personal/p/695045",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hcf/438163984220190.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 17999.0,
-   "price_new": 11999.0,
-   "pct": 33.3,
-   "amount": 6000.0,
-   "starts": "2026-06-16T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783606843.9460945
-  },
-  {
    "id": "696306",
    "name": "ASUS TUF Gaming A14 Laptop 14\" WQXGA AMD Ryzen 7 16GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-TUF-Gaming-A14-Laptop-14-WQXGA-AMD-Ryzen-7-16GB-512GB-SSD/p/696306",
@@ -289,7 +349,22 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
+  },
+  {
+   "id": "652706",
+   "name": "Whirlpool centro de lavado 20kg / 10Kg de gas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-centro-de-lavado-20kg-10Kg-de-gas/p/652706",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h76/363624458158110.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 28999.0,
+   "price_new": 19899.0,
+   "pct": 31.4,
+   "amount": 9100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "696193",
@@ -322,6 +397,21 @@
    "first_seen": 1783606843.9460945
   },
   {
+   "id": "696246",
+   "name": "Samsung Galaxy Watch Ultra 47mm Plata Titanio 2025",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-47mm-Plata-Titanio-2025/p/696246",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/he3/384763190902814.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 10999.0,
+   "price_new": 7599.0,
+   "pct": 30.9,
+   "amount": 3400.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "696245",
    "name": "Samsung Galaxy Watch Ultra 47mm Azul Titanio 2025",
    "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-47mm-Azul-Titanio-2025/p/696245",
@@ -334,7 +424,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "696244",
@@ -349,7 +439,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "680493",
@@ -395,6 +485,36 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783782558.4613187
+  },
+  {
+   "id": "695389",
+   "name": "Samsung Galaxy Watch 8 44mm Plata",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-8-44mm-Plata/p/695389",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6f/h9c/368805608488990.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 6499.0,
+   "price_new": 4499.0,
+   "pct": 30.8,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "695387",
+   "name": "Samsung Galaxy Watch 8 44mm Grafito",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-8-44mm-Grafito/p/695387",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h90/h4d/368805604425758.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 6499.0,
+   "price_new": 4499.0,
+   "pct": 30.8,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "689668",
@@ -532,6 +652,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "684903",
+   "name": "Hisense Refrigerador French Door 22'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-French-Door-22/p/684903",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h57/h30/256983851139102.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 22799.0,
+   "price_new": 15799.0,
+   "pct": 30.7,
+   "amount": 7000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "702821",
    "name": "Samsung Galaxy S26 256GB Negro",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-256GB-Negro/p/702821",
@@ -667,6 +802,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "656809",
+   "name": "Whirlpool Refrigerador 13' Bottom Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-13-Bottom-Mount/p/656809",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h78/15941876351006.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21899.0,
+   "price_new": 15199.0,
+   "pct": 30.6,
+   "amount": 6700.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "697097",
    "name": "Samsung Lavadora 25kg",
    "url": "https://www.costco.com.mx/c/Samsung-Lavadora-25kg/p/697097",
@@ -769,22 +919,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
-  },
-  {
-   "id": "656809",
-   "name": "Whirlpool Refrigerador 13' Bottom Mount",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-13-Bottom-Mount/p/656809",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h78/15941876351006.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 21999.0,
-   "price_new": 15299.0,
-   "pct": 30.5,
-   "amount": 6700.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "681591",
@@ -802,19 +937,64 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "684903",
-   "name": "Hisense Refrigerador French Door 22'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-French-Door-22/p/684903",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h57/h30/256983851139102.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 22999.0,
-   "price_new": 15999.0,
+   "id": "697191",
+   "name": "DELL 15 DC15255 Laptop 15.6\" Full HD AMD Ryzen 5 8GB 512GB SSD + DELL Headset Jack",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-DC15255-Laptop-156-Full-HD-AMD-Ryzen-5-8GB-512GB-SSD-DELL-Headset-Jack/p/697191",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7a/h7f/448974809595934.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 11499.0,
+   "price_new": 7999.0,
    "pct": 30.4,
-   "amount": 7000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "amount": 3500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "688589",
+   "name": "Apple AirPods Max Naranja",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Audio-Apple/Apple-AirPods-Max-Naranja/p/688589",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/hbb/275713232601118.jpg",
+   "category": "Electronicos",
+   "price_old": 11499.0,
+   "price_new": 7999.0,
+   "pct": 30.4,
+   "amount": 3500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "688588",
+   "name": "Apple AirPods Max Azul",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Audio-Apple/Apple-AirPods-Max-Azul/p/688588",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h38/hb7/275713231093790.jpg",
+   "category": "Electronicos",
+   "price_old": 11499.0,
+   "price_new": 7999.0,
+   "pct": 30.4,
+   "amount": 3500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "688587",
+   "name": "Apple AirPods Max Blanco Estelar",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Audio-Apple/Apple-AirPods-Max-Blanco-Estelar/p/688587",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb7/hd7/275713227685918.jpg",
+   "category": "Electronicos",
+   "price_old": 11499.0,
+   "price_new": 7999.0,
+   "pct": 30.4,
+   "amount": 3500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "671369",
@@ -845,36 +1025,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "652706",
-   "name": "Whirlpool centro de lavado 20kg / 10Kg de gas",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-centro-de-lavado-20kg-10Kg-de-gas/p/652706",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h76/363624458158110.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 20899.0,
-   "pct": 30.3,
-   "amount": 9100.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "674604",
-   "name": "Whirlpool Lavadora carga superior 27Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-carga-superior-27Kg/p/674604",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h7c/hc2/150711975608350.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 20899.0,
-   "pct": 30.3,
-   "amount": 9100.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "694502",
@@ -952,6 +1102,36 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "1751976",
+   "name": "Orbit Irrigation Products, Juego de Riego 3 Piezas",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Articulos-de-Jardineria/Mangueras-y-Carretes/Orbit-Irrigation-Products-Juego-de-Riego-3-Piezas/p/1751976",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1c/h3b/292367798632478.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 629.0,
+   "price_new": 439.0,
+   "pct": 30.2,
+   "amount": 190.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "684411",
+   "name": "Samsung Bespoke Centro de Lavado Blanco 22/24KG",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-Centro-de-Lavado-Blanco-2224KG/p/684411",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h4f/452706639675422.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 42799.0,
+   "price_new": 29899.0,
+   "pct": 30.1,
+   "amount": 12900.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "1325468",
    "name": "Juego de 8 Vasos Acrílicos de Colores, 651mL",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Juego-de-8-Vasos-Acrilicos-de-Colores-651mL/p/1325468",
@@ -991,21 +1171,6 @@
    "price_new": 55999.0,
    "pct": 30.0,
    "amount": 24000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "684411",
-   "name": "Samsung Bespoke Centro de Lavado Blanco 22/24KG",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-Centro-de-Lavado-Blanco-2224KG/p/684411",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h4f/452706639675422.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 42999.0,
-   "price_new": 30099.0,
-   "pct": 30.0,
-   "amount": 12900.0,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
@@ -1087,6 +1252,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "696658",
+   "name": "Apple Watch Series 11 (GPS) 42mm Aluminio Oro Rosa + Correa Deportiva Rubor Claro - Talla S/M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-42mm-Aluminio-Oro-Rosa-Correa-Deportiva-Rubor-Claro-Talla-SM/p/696658",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hba/h1f/382581181251614.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6299.0,
+   "pct": 30.0,
+   "amount": 2700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "669574",
    "name": "Luuna Colchón Original Memory Foam, Individual",
    "url": "https://www.costco.com.mx/c/Luuna-Colchon-Original-Memory-Foam-Individual/p/669574",
@@ -1100,6 +1280,51 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "696656",
+   "name": "Apple Watch Series 11 (GPS) 42mm Aluminio Negro Azabache + Correa Deportiva Negra - Talla S/M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-42mm-Aluminio-Negro-Azabache-Correa-Deportiva-Negra-Talla-SM/p/696656",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h80/h36/382853252448286.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6299.0,
+   "pct": 30.0,
+   "amount": 2700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "696659",
+   "name": "Apple Watch Series 11 (GPS) 42mm Aluminio Plata + Correa Deportiva Morado Niebla - Talla S/M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-42mm-Aluminio-Plata-Correa-Deportiva-Morado-Niebla-Talla-SM/p/696659",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h6b/382581186101278.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6299.0,
+   "pct": 30.0,
+   "amount": 2700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "696657",
+   "name": "Apple Watch Series 11 (GPS) 42mm Aluminio Gris Espacial + Correa Deportiva Negra - Talla S/M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-42mm-Aluminio-Gris-Espacial-Correa-Deportiva-Negra-Talla-SM/p/696657",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h06/h49/382581179088926.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6299.0,
+   "pct": 30.0,
+   "amount": 2700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "686855",
@@ -1174,7 +1399,22 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
+  },
+  {
+   "id": "695386",
+   "name": "Samsung Galaxy Watch 8 Classic 46mm Blanco",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-8-Classic-46mm-Blanco/p/695386",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h2b/368805604327454.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 6999.0,
+   "price_new": 4899.0,
+   "pct": 30.0,
+   "amount": 2100.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "697200",
@@ -1205,6 +1445,21 @@
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783613974.9457006
+  },
+  {
+   "id": "1713404",
+   "name": "SunVilla, Sombrilla Cabana Redonda de Rayas con Poste Recto de 3.3m, Color Rojo",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Sombrillas-para-Exterior/SunVilla-Sombrilla-Cabana-Redonda-de-Rayas-con-Poste-Recto-de-33m-Color-Rojo/p/1713404",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6a/hba/310702588755998.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 4999.0,
+   "price_new": 3499.0,
+   "pct": 30.0,
+   "amount": 1500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "1390051",
@@ -1265,6 +1520,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "702944",
+   "name": "Daysa, Arreglo de Flores Preservadas en Canasta Natural, Duración 18 meses",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Flores/Ramos-de-Temporada/Daysa-Arreglo-de-Flores-Preservadas-en-Canasta-Natural-Duracion-18-meses/p/702944",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbc/hba/452433197793310.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 999.0,
+   "price_new": 699.0,
+   "pct": 30.0,
+   "amount": 300.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "690400",
@@ -1342,6 +1612,51 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "663284",
+   "name": "Bioderma Photoderm Cover Touch Dorado FPS 50+",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/Bioderma-Photoderm-Cover-Touch-Dorado-FPS-50/p/663284",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h15/haf/65556717568030.jpg",
+   "category": "Grocery",
+   "price_old": 639.0,
+   "price_new": 447.3,
+   "pct": 30.0,
+   "amount": 191.7,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "647520",
+   "name": "Isdin Fotoprotector Fusion Water Color FPS50+ 50 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Corporal/Isdin-Fotoprotector-Fusion-Water-Color-FPS50-50-ml/p/647520",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd7/h8d/16226021965854.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 639.0,
+   "price_new": 447.3,
+   "pct": 30.0,
+   "amount": 191.7,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "531453",
+   "name": "Isdin FotoprotectorFPS50 + Gel Crema Pediátrico 250 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Isdin-FotoprotectorFPS50-Gel-Crema-Pediatrico-250-ml/p/531453",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h16/104091921023006.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 639.0,
+   "price_new": 447.31,
+   "pct": 30.0,
+   "amount": 191.69,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "694950",
    "name": "Elemental Performance Multi Carnitine 2 Frascos de 60 Cápsulas c/u",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Elemental-Performance-Multi-Carnitine-2-Frascos-de-60-Capsulas-cu/p/694950",
@@ -1355,6 +1670,36 @@
    "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "672284",
+   "name": "La Roche Posay Anthelios UV Mune 400 Fluido Invisible FPS50+ Sin Color 50ml",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/La-Roche-Posay-Anthelios-UV-Mune-400-Fluido-Invisible-FPS50-Sin-Color-50ml/p/672284",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/h41/102450480939038.jpg",
+   "category": "Grocery",
+   "price_old": 619.0,
+   "price_new": 433.31,
+   "pct": 30.0,
+   "amount": 185.69,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "672283",
+   "name": "La Roche Posay Anthelios UV Mune 400 Fluido Con Color FPS50+ 50ml",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/La-Roche-Posay-Anthelios-UV-Mune-400-Fluido-Con-Color-FPS50-50ml/p/672283",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1b/heb/102450479398942.jpg",
+   "category": "Grocery",
+   "price_old": 619.0,
+   "price_new": 433.31,
+   "pct": 30.0,
+   "amount": 185.69,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "2233444",
@@ -1462,6 +1807,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "651330",
+   "name": "Cerave Loción Hidratante 236 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Corporal/Cerave-Locion-Hidratante-236-ml/p/651330",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf5/h73/364379105853470.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 359.0,
+   "price_new": 251.3,
+   "pct": 30.0,
+   "amount": 107.7,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "516218",
    "name": "Colgate Cepillos de Dientes Total Whitening 8 pzas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Bucal/Colgate-Cepillos-de-Dientes-Total-Whitening-8-pzas/p/516218",
@@ -1504,7 +1864,22 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
+  },
+  {
+   "id": "685771",
+   "name": "Lenovo IdeaPad Slim 3 Laptop 15.6\" Full HD Intel Core i5 8GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/Lenovo-IdeaPad-Slim-3-Laptop-156-Full-HD-Intel-Core-i5-8GB-512GB-SSD/p/685771",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd2/438148993089566.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 16699.0,
+   "price_new": 11699.0,
+   "pct": 29.9,
+   "amount": 5000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "696281",
@@ -1519,7 +1894,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "551687",
@@ -1535,6 +1910,21 @@
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783613974.9457006
+  },
+  {
+   "id": "697416",
+   "name": "LG Refrigerador 31' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-31-French-Door/p/697416",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/h20/415615274287134.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 56999.0,
+   "price_new": 39999.0,
+   "pct": 29.8,
+   "amount": 17000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "687751",
@@ -1640,6 +2030,36 @@
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783696756.3774838
+  },
+  {
+   "id": "702802",
+   "name": "Samsung Galaxy A37 128GB Violeta",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-A37-128GB-Violeta/p/702802",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc1/hf1/453817256312862.jpg",
+   "category": "Electronicos",
+   "price_old": 8799.0,
+   "price_new": 6199.0,
+   "pct": 29.5,
+   "amount": 2600.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "702801",
+   "name": "Samsung Galaxy A37 128GB Verde Grisáceo",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-A37-128GB-Verde-Grisaceo/p/702801",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2a/h91/453817255329822.jpg",
+   "category": "Electronicos",
+   "price_old": 8799.0,
+   "price_new": 6199.0,
+   "pct": 29.5,
+   "amount": 2600.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "25347",
@@ -1852,6 +2272,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "1713613",
+   "name": "Pit Boss, Asador de Cerámica a Carbón",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Pit-Boss-Asador-de-Ceramica-a-Carbon/p/1713613",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h6f/326968852938782.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 23999.0,
+   "price_new": 16999.0,
+   "pct": 29.2,
+   "amount": 7000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "695990",
    "name": "JLAB Epic Sport ANC 3 Audífonos Inalámbricos",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/JLAB-Epic-Sport-ANC-3-Audifonos-Inalambricos/p/695990",
@@ -1865,21 +2300,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "661928",
-   "name": "LG Campana de Pared 90cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/LG-Campana-de-Pared-90cm/p/661928",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6c/h65/44922759086110.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 7899.0,
-   "price_new": 5599.0,
-   "pct": 29.1,
-   "amount": 2300.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-22T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
   },
   {
    "id": "2233446",
@@ -1910,6 +2330,36 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783782558.4613187
+  },
+  {
+   "id": "697590",
+   "name": "DELL 14 Laptop 14\" Full HD+ AMD Ryzen AI 5 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-14-Laptop-14-Full-HD-AMD-Ryzen-AI-5-16GB-512GB-SSD/p/697590",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/h97/438164201013278.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 19999.0,
+   "price_new": 14199.0,
+   "pct": 29.0,
+   "amount": 5800.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "680899",
+   "name": "DELL Inspiron 5620 Laptop 16\" Full HD+ Intel Core i5 8GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-Inspiron-5620-Laptop-16-Full-HD-Intel-Core-i5-8GB-512GB-SSD/p/680899",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5d/hcd/438148991615006.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 15499.0,
+   "price_new": 10999.0,
+   "pct": 29.0,
+   "amount": 4500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "676785",
@@ -2272,21 +2722,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "682933",
-   "name": "DKNY Be Delicious Fresh Blossom 100 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/DKNY-Be-Delicious-Fresh-Blossom-100-ml/p/682933",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/h40/189581921419294.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 699.0,
-   "price_new": 496.29,
-   "pct": 29.0,
-   "amount": 202.71,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
-  },
-  {
    "id": "682346",
    "name": "Lattafa Hala 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Lattafa-Hala-100-ml/p/682346",
@@ -2557,6 +2992,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "704612",
+   "name": "ASUS Vivobook 14 14\" Full HD Intel Core 7 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-14-Full-HD-Intel-Core-7-16GB-512GB-SSD/p/704612",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/h57/468632451186718.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 20999.0,
+   "price_new": 14999.0,
+   "pct": 28.6,
+   "amount": 6000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "1502096",
    "name": "Inspire Fitness Equipo para Entrenamiento de Fuerza",
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/Inspire-Fitness-Equipo-para-Entrenamiento-de-Fuerza/p/1502096",
@@ -2602,6 +3052,36 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "668466",
+   "name": "Apple iPad Mini 8.3\" Wi-Fi + Celular 64GB Rosa",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-83-Wi-Fi-Celular-64GB-Rosa/p/668466",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/hc9/291211382063134.jpg",
+   "category": "Electronicos",
+   "price_old": 13999.0,
+   "price_new": 9999.0,
+   "pct": 28.6,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "2004195",
+   "name": "SunVilla, Pared de Privacidad con Riel 2 Piezas",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/SunVilla-Pared-de-Privacidad-con-Riel-2-Piezas/p/2004195",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc6/h3d/452879958081566.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 13999.0,
+   "price_new": 9999.0,
+   "pct": 28.6,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "694440",
    "name": "Dyson, Purificador de Aire Hot + Cool HP11C",
    "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Purificadores-y-Deshumidificadores/Dyson-Purificador-de-Aire-Hot-Cool-HP11C/p/694440",
@@ -2615,6 +3095,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1768239",
+   "name": "Thirtieth Sense, Set Bistro de Madera de Eucalipto Plegable, 3 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Thirtieth-Sense-Set-Bistro-de-Madera-de-Eucalipto-Plegable-3-piezas/p/1768239",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h65/h1a/227621204557854.jpg",
+   "category": "Muebles",
+   "price_old": 6999.0,
+   "price_new": 4999.0,
+   "pct": 28.6,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "682770",
@@ -2645,6 +3140,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "688592",
+   "name": "Apple AirPods 4 Cancelación Activa de Ruido",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Audio-Apple/Apple-AirPods-4-Cancelacion-Activa-de-Ruido/p/688592",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h17/h3a/275426356264990.jpg",
+   "category": "Electronicos",
+   "price_old": 4199.0,
+   "price_new": 2999.0,
+   "pct": 28.6,
+   "amount": 1200.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "1740698",
@@ -2872,21 +3382,6 @@
    "first_seen": 1783987756.2914999
   },
   {
-   "id": "697416",
-   "name": "LG Refrigerador 31' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-31-French-Door/p/697416",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/h20/415615274287134.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 59999.0,
-   "price_new": 42999.0,
-   "pct": 28.3,
-   "amount": 17000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
    "id": "1321497",
    "name": "Wine Enthusiast Cava de Vinos y Enfriador de Bebidas",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-y-Enfriador-de-Bebidas/p/1321497",
@@ -2900,6 +3395,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "686785",
+   "name": "LG Refrigerador 25' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-25-French-Door/p/686785",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h53/259626817519646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24699.0,
+   "price_new": 17699.0,
+   "pct": 28.3,
+   "amount": 7000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "673812",
@@ -3004,7 +3514,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "1917018",
@@ -3050,21 +3560,6 @@
    "ends": "2026-07-17T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "694112",
-   "name": "Hisense Pantalla 50\" QLED 4K Fire TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Hisense-Pantalla-50-QLED-4K-Fire-TV/p/694112",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h97/h39/435243953586206.jpg",
-   "category": "Electronicos",
-   "price_old": 8999.0,
-   "price_new": 6499.0,
-   "pct": 27.8,
-   "amount": 2500.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783987756.2914999
   },
   {
    "id": "676293",
@@ -3337,6 +3832,36 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "688733",
+   "name": "Samsung Galaxy Buds 3 Plata",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Samsung-Galaxy-Buds-3-Plata/p/688733",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he3/ha7/279006697291806.jpg",
+   "category": "Electronicos",
+   "price_old": 2199.0,
+   "price_new": 1599.0,
+   "pct": 27.3,
+   "amount": 600.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "688734",
+   "name": "Samsung Galaxy Buds 3 Blanco",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Samsung-Galaxy-Buds-3-Blanco/p/688734",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hf0/279006700437534.jpg",
+   "category": "Electronicos",
+   "price_old": 2199.0,
+   "price_new": 1599.0,
+   "pct": 27.3,
+   "amount": 600.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "684776",
    "name": "Klipsch Austin Bocina Portátil Inalámbrica",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Bocinas/Klipsch-Austin-Bocina-Portatil-Inalambrica/p/684776",
@@ -3365,6 +3890,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "671565",
+   "name": "PlayStation 5 - Gran Turismo 7",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Gran-Turismo-7/p/671565",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf5/h94/99357706256414.jpg",
+   "category": "Electronicos",
+   "price_old": 1099.0,
+   "price_new": 799.0,
+   "pct": 27.3,
+   "amount": 300.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "702726",
@@ -3409,22 +3949,67 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
-   "id": "686785",
-   "name": "LG Refrigerador 25' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-25-French-Door/p/686785",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h53/259626817519646.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 25999.0,
-   "price_new": 18999.0,
-   "pct": 26.9,
-   "amount": 7000.0,
+   "id": "687099",
+   "name": "Samsung Galaxy S25 Ultra 256GB Negro Titanio",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Negro-Titanio/p/687099",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hf1/326968867061790.jpg",
+   "category": "Electronicos",
+   "price_old": 28099.0,
+   "price_new": 20499.0,
+   "pct": 27.0,
+   "amount": 7600.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "687104",
+   "name": "Samsung Galaxy S25 Ultra 256GB Gris Titanio",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Gris-Titanio/p/687104",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/h8d/326968876040222.jpg",
+   "category": "Electronicos",
+   "price_old": 28099.0,
+   "price_new": 20499.0,
+   "pct": 27.0,
+   "amount": 7600.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "690476",
+   "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Morado",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Morado/p/690476",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h59/h62/292367640363038.jpg",
+   "category": "Electronicos",
+   "price_old": 17799.0,
+   "price_new": 12999.0,
+   "pct": 27.0,
+   "amount": 4800.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "690474",
+   "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Azul",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Azul/p/690474",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/ha9/292367631908894.jpg",
+   "category": "Electronicos",
+   "price_old": 17799.0,
+   "price_new": 12999.0,
+   "pct": 27.0,
+   "amount": 4800.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "695261",
@@ -3455,6 +4040,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783984161.4592483
+  },
+  {
+   "id": "678459",
+   "name": "Lenovo IdeaPad Gaming 3 Laptop 15.6\" Intel Core i5-12450H 8GB 512SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/Lenovo-IdeaPad-Gaming-3-Laptop-156-Intel-Core-i5-12450H-8GB-512SSD/p/678459",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hee/ha8/438148991352862.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 25999.0,
+   "price_new": 18999.0,
+   "pct": 26.9,
+   "amount": 7000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "693672",
@@ -3532,6 +4132,36 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "1856726",
+   "name": "NordicTrack Caminadora T Series 7",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/NordicTrack-Caminadora-T-Series-7/p/1856726",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he2/h23/472881201578014.jpg",
+   "category": "Deportes",
+   "price_old": 14999.0,
+   "price_new": 10999.0,
+   "pct": 26.7,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "678301",
+   "name": "Whirlpool Lavadora 19Kg Top Load",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-19Kg-Top-Load/p/678301",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/had/h79/152955664760862.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13110.0,
+   "price_new": 9610.0,
+   "pct": 26.7,
+   "amount": 3500.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "694462",
    "name": "Canon Impresora Multifuncional Pixma G3170",
    "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Multifuncionales/Canon-Impresora-Multifuncional-Pixma-G3170/p/694462",
@@ -3560,6 +4190,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "1934200",
+   "name": "Nexgrill, Asador de Carbón de 22.5\"",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Nexgrill-Asador-de-Carbon-de-225/p/1934200",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdd/hbb/403573810135070.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 2999.0,
+   "price_new": 2199.0,
+   "pct": 26.7,
+   "amount": 800.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "694611",
@@ -3635,6 +4280,36 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "666717",
+   "name": "Hanie Design, Piso de Madera Vertical para Exterior, Color Natural",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Paredes-y-Pisos/Hanie-Design-Piso-de-Madera-Vertical-para-Exterior-Color-Natural/p/666717",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc5/h73/97025269137438.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 749.0,
+   "price_new": 549.0,
+   "pct": 26.7,
+   "amount": 200.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "666713",
+   "name": "Hanie Design, Piso de Madera para Exterior, Color Café",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Articulos-de-Jardineria/Decoracion-para-Exteriores-y-Jardin/Hanie-Design-Piso-de-Madera-para-Exterior-Color-Cafe/p/666713",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcd/hf4/174098555994142.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 749.0,
+   "price_new": 549.0,
+   "pct": 26.7,
+   "amount": 200.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "696496",
@@ -3727,36 +4402,6 @@
    "first_seen": 1783700236.6629386
   },
   {
-   "id": "687099",
-   "name": "Samsung Galaxy S25 Ultra 256GB Negro Titanio",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Negro-Titanio/p/687099",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hf1/326968867061790.jpg",
-   "category": "Electronicos",
-   "price_old": 28999.0,
-   "price_new": 21399.0,
-   "pct": 26.2,
-   "amount": 7600.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "687104",
-   "name": "Samsung Galaxy S25 Ultra 256GB Gris Titanio",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Gris-Titanio/p/687104",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/h8d/326968876040222.jpg",
-   "category": "Electronicos",
-   "price_old": 28999.0,
-   "price_new": 21399.0,
-   "pct": 26.2,
-   "amount": 7600.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "668728",
    "name": "Maytag Secadora Eléctrica 28Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-Electrica-28Kg/p/668728",
@@ -3830,6 +4475,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "1807136",
+   "name": "Agio, Luna Comedor para Exterior de 9 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/Agio-Luna-Comedor-para-Exterior-de-9-Piezas/p/1807136",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2c/h55/416801849475102.jpg",
+   "category": "Muebles",
+   "price_old": 49999.0,
+   "price_new": 36999.0,
+   "pct": 26.0,
+   "amount": 13000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "1901802",
@@ -3920,6 +4580,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "667509",
+   "name": "Beats Studio Buds Rojo Audífonos Inalámbricos con Cancelación de Ruido",
+   "url": "https://www.costco.com.mx/c/Beats-Studio-Buds-Rojo-Audifonos-Inalambricos-con-Cancelacion-de-Ruido/p/667509",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h96/hbe/79898708049950.webp",
+   "category": "c",
+   "price_old": 2699.0,
+   "price_new": 1999.0,
+   "pct": 25.9,
+   "amount": 700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "696511",
@@ -4087,6 +4762,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "693682",
+   "name": "Hisense Pantalla 65\" QLED 4K Canvas Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-65-QLED-4K-Canvas-Google-TV/p/693682",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4f/hcb/435243953455134.jpg",
+   "category": "Electronicos",
+   "price_old": 23499.0,
+   "price_new": 17499.0,
+   "pct": 25.5,
+   "amount": 6000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "679565",
    "name": "Whirlpool Campana de Pared 80cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Whirlpool-Campana-de-Pared-80cm/p/679565",
@@ -4189,7 +4879,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "1740878",
@@ -4250,6 +4940,36 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "1807250",
+   "name": "Agio, Trinity Sala Modular para Exterior 4 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/Agio-Trinity-Sala-Modular-para-Exterior-4-piezas/p/1807250",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/h24/314330076020766.jpg",
+   "category": "Muebles",
+   "price_old": 39999.0,
+   "price_new": 29999.0,
+   "pct": 25.0,
+   "amount": 10000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "1807228",
+   "name": "Yardistry, Cantina de Jardín de 2.33 m x 2.33 m",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Cantina-de-Jardin-de-233-m-x-233-m/p/1807228",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h12/h52/308527883812894.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 39999.0,
+   "price_new": 29999.0,
+   "pct": 25.0,
+   "amount": 10000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "674473",
@@ -4445,6 +5165,21 @@
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783984161.4592483
+  },
+  {
+   "id": "686578",
+   "name": "DELL Monitor Gaming Alienware 24.55\" Full HD AW2523HF",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Monitores/Monitores-para-Hogar-y-Oficina/DELL-Monitor-Gaming-Alienware-2455-Full-HD-AW2523HF/p/686578",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/heb/h73/448938525425694.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 7999.0,
+   "price_new": 5999.0,
+   "pct": 25.0,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "696286",
@@ -5554,7 +6289,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "700563",
@@ -5696,6 +6431,21 @@
    "name": "Carrera 3028/S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carrera-3028S-Lentes-de-Sol/p/700541",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hee/hdc/401637662851102.jpg",
+   "category": "Optica",
+   "price_old": 3999.0,
+   "price_new": 2999.25,
+   "pct": 25.0,
+   "amount": 999.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700540",
+   "name": "Carrera 353 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-353-Armazon-Oftalmico/p/700540",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/h51/401637663571998.jpg",
    "category": "Optica",
    "price_old": 3999.0,
    "price_new": 2999.25,
@@ -6382,6 +7132,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "700538",
+   "name": "Carrera 351 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-351-Armazon-Oftalmico/p/700538",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hac/401637658361886.jpg",
+   "category": "Optica",
+   "price_old": 3499.0,
+   "price_new": 2624.25,
+   "pct": 25.0,
+   "amount": 874.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "699846",
    "name": "Tous VTO.0C50V.01GQ.52 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Tous-VTO0C50V01GQ52-Armazon-Oftalmico/p/699846",
@@ -6701,6 +7466,21 @@
    "name": "Coach 0HC6256U Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC6256U-Armazon-Oftalmico/p/700711",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h23/h42/416168457437214.jpg",
+   "category": "Optica",
+   "price_old": 3299.0,
+   "price_new": 2474.25,
+   "pct": 25.0,
+   "amount": 824.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700537",
+   "name": "Carrera 351 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-351-Armazon-Oftalmico/p/700537",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h21/hf3/401637659377694.jpg",
    "category": "Optica",
    "price_old": 3299.0,
    "price_new": 2474.25,
@@ -7612,21 +8392,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "671363",
-   "name": "PlayStation 5 - Horizon: Fobidden West",
-   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Horizon-Fobidden-West/p/671363",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h9d/h3c/97918038114334.jpg",
-   "category": "Electronicos",
-   "price_old": 1199.0,
-   "price_new": 899.0,
-   "pct": 25.0,
-   "amount": 300.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
-  },
-  {
    "id": "652029",
    "name": "Dog Chow Alimento Para Perro Adulto Triple Proteína 18 kg",
    "url": "https://www.costco.com.mx/Mascotas/Alimentos-y-Premios/Dog-Chow-Alimento-Para-Perro-Adulto-Triple-Proteina-18-kg/p/652029",
@@ -7981,6 +8746,21 @@
    "price_new": 734.25,
    "pct": 25.0,
    "amount": 244.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694184",
+   "name": "Flash Suero Amplificador de Pestañas 2.5 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/Flash-Suero-Amplificador-de-Pestanas-25-ml/p/694184",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h52/402221496008734.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 949.0,
+   "price_new": 711.75,
+   "pct": 25.0,
+   "amount": 237.25,
    "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
@@ -9097,6 +9877,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "660426",
+   "name": "Maytag Lavadora 22Kg con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-con-Pedestal/p/660426",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcb/h86/189685709471774.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 32699.0,
+   "price_new": 24699.0,
+   "pct": 24.5,
+   "amount": 8000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "676144",
    "name": "LG Estufa de Gas 5 quemadores 76cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/LG-Estufa-de-Gas-5-quemadores-76cm/p/676144",
@@ -9110,6 +9905,36 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "702768",
+   "name": "TCL Pantalla 75\" QLED 4K NXTVISION Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-75-QLED-4K-NXTVISION-Google-TV/p/702768",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hf6/449171626393630.jpg",
+   "category": "Electronicos",
+   "price_old": 24499.0,
+   "price_new": 18499.0,
+   "pct": 24.5,
+   "amount": 6000.0,
+   "starts": "2026-07-02T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1690280",
+   "name": "Zhengte, Pérgola de Aluminio de 3m x 6m, Color Blanco",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Zhengte-Pergola-de-Aluminio-de-3m-x-6m-Color-Blanco/p/1690280",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/hbc/349268699349022.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 65999.0,
+   "price_new": 49999.0,
+   "pct": 24.2,
+   "amount": 16000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "1902471",
@@ -9139,7 +9964,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "669617",
@@ -9247,19 +10072,19 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "693682",
-   "name": "Hisense Pantalla 65\" QLED 4K Canvas Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-65-QLED-4K-Canvas-Google-TV/p/693682",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4f/hcb/435243953455134.jpg",
-   "category": "Electronicos",
-   "price_old": 24999.0,
-   "price_new": 18999.0,
-   "pct": 24.0,
-   "amount": 6000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "id": "1500084",
+   "name": "Yardistry Pérgola de Madera con Techo de Aluminio, Medidas 3.6m x 3.6m",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Pergola-de-Madera-con-Techo-de-Aluminio-Medidas-36m-x-36m/p/1500084",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1b/hf2/11033314459678.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 45999.0,
+   "price_new": 34999.0,
+   "pct": 23.9,
+   "amount": 11000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "694476",
@@ -9412,6 +10237,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "1807127",
+   "name": "Sunvilla, Dark Forest Comedor Expandible de 9 Piezas para Exterior",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/Sunvilla-Dark-Forest-Comedor-Expandible-de-9-Piezas-para-Exterior/p/1807127",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/heb/h91/351684303552542.jpg",
+   "category": "Muebles",
+   "price_old": 42999.0,
+   "price_new": 32999.0,
+   "pct": 23.3,
+   "amount": 10000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "686463",
    "name": "GE Centro De Lavado De Gas 23kg / 23kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
@@ -9454,7 +10294,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "666262",
@@ -9470,21 +10310,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
-  },
-  {
-   "id": "660426",
-   "name": "Maytag Lavadora 22Kg con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-con-Pedestal/p/660426",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hcb/h86/189685709471774.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 34499.0,
-   "price_new": 26499.0,
-   "pct": 23.2,
-   "amount": 8000.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "674919",
@@ -9592,6 +10417,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "669995",
+   "name": "LG Secadora de Gas 25 Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-25-Kg/p/669995",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc7/h23/364484858347550.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 15999.0,
+   "price_new": 12299.0,
+   "pct": 23.1,
+   "amount": 3700.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "697937",
    "name": "Nintendo Switch 2 Standard Edition",
    "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Standard-Edition/p/697937",
@@ -9637,6 +10477,36 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "692898",
+   "name": "Hisense Refrigerador 19' Top Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-19-Top-Mount/p/692898",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/haf/314760229191710.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 12999.0,
+   "price_new": 9999.0,
+   "pct": 23.1,
+   "amount": 3000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "692489",
+   "name": "Samsung Combo de Lavado de Gas 28/24 Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-2824-Kg/p/692489",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/h81/364485069078558.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 34999.0,
+   "price_new": 26999.0,
+   "pct": 22.9,
+   "amount": 8000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "695372",
    "name": "Samsung Galaxy S25 Edge 256GB Negro Titanio",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Edge-256GB-Negro-Titanio/p/695372",
@@ -9680,6 +10550,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "676905",
+   "name": "Apple Mac Mini Chip M2 Pro 512 GB",
+   "url": "https://www.costco.com.mx/c/Apple-Mac-Mini-Chip-M2-Pro-512-GB/p/676905",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8f/h8c/153711936471070.jpg",
+   "category": "c",
+   "price_old": 28499.0,
+   "price_new": 21999.0,
+   "pct": 22.8,
+   "amount": 6500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "692399",
@@ -9742,6 +10627,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "696198",
+   "name": "Sharp Pantalla 55\" UHD 4K Roku TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Sharp-Pantalla-55-UHD-4K-Roku-TV/p/696198",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/hec/437417262120990.jpg",
+   "category": "Electronicos",
+   "price_old": 6699.0,
+   "price_new": 5199.0,
+   "pct": 22.4,
+   "amount": 1500.0,
+   "starts": "2026-07-08T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "2002634",
    "name": "Sauna Infrarrojo Ultra Low EMF Dynamic Lugano, 3 Personas",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Ultra-Low-EMF-Dynamic-Lugano-3-Personas/p/2002634",
@@ -9757,34 +10657,34 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "692489",
-   "name": "Samsung Combo de Lavado de Gas 28/24 Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-2824-Kg/p/692489",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/h81/364485069078558.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 35999.0,
-   "price_new": 27999.0,
+   "id": "691123",
+   "name": "LG Pantalla 75\" QNED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/LG-Pantalla-75-QNED-4K-Smart-TV/p/691123",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h24/435247645917214.jpg",
+   "category": "Electronicos",
+   "price_old": 17999.0,
+   "price_new": 13999.0,
    "pct": 22.2,
-   "amount": 8000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "amount": 4000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784041764.2840068
   },
   {
-   "id": "702768",
-   "name": "TCL Pantalla 75\" QLED 4K NXTVISION Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-75-QLED-4K-NXTVISION-Google-TV/p/702768",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hf6/449171626393630.jpg",
-   "category": "Electronicos",
-   "price_old": 26999.0,
-   "price_new": 20999.0,
+   "id": "1807229",
+   "name": "SunVilla, Helio Sala para Exterior de 4 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/SunVilla-Helio-Sala-para-Exterior-de-4-Piezas/p/1807229",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h05/h7b/402216155906078.jpg",
+   "category": "Muebles",
+   "price_old": 17999.0,
+   "price_new": 13999.0,
    "pct": 22.2,
-   "amount": 6000.0,
-   "starts": "2026-07-02T06:00:00.000Z",
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "683653",
@@ -9800,6 +10700,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "688741",
+   "name": "Samsung Galaxy Watch Ultra 47mm Blanco Titanio",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-47mm-Blanco-Titanio/p/688741",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf1/he4/279006709579806.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "1819527",
@@ -9875,6 +10790,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "1807110",
+   "name": "SunVilla, Helio Set Bistro para Exteriores de 3 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/SunVilla-Helio-Set-Bistro-para-Exteriores-de-3-Piezas/p/1807110",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6f/h8d/399318144188446.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "677666",
@@ -9997,6 +10927,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "685982",
+   "name": "Apple iPad Air 13\" Wi-Fi + Cellular 256GB Morado",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Air-13-Wi-Fi-Cellular-256GB-Morado/p/685982",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/hb2/291211385798686.jpg",
+   "category": "Electronicos",
+   "price_old": 24299.0,
+   "price_new": 18999.0,
+   "pct": 21.8,
+   "amount": 5300.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "684611",
    "name": "Lavavajillas Smeg 60 cm Acero",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Lavavajillas-Smeg-60-cm-Acero/p/684611",
@@ -10112,6 +11057,21 @@
    "pct": 21.4,
    "amount": 6000.0,
    "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "695448",
+   "name": "PlayStation 5: Consola Slim Estándar de 1TB + 2 Videojuegos + Estación de Carga",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Consola-Slim-Estandar-de-1TB-2-Videojuegos-Estacion-de-Carga/p/695448",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/h35/382581101756446.jpg",
+   "category": "Electronicos",
+   "price_old": 13999.0,
+   "price_new": 10999.0,
+   "pct": 21.4,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
@@ -10267,6 +11227,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "687739",
+   "name": "Hisense Refrigerador Comercial 9'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 18899.0,
+   "price_new": 14899.0,
+   "pct": 21.2,
+   "amount": 4000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "676485",
    "name": "Bertazzoni Refrigerador 36' French Door",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Bertazzoni-Refrigerador-36-French-Door/p/676485",
@@ -10295,6 +11270,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "306070",
+   "name": "Lifetime, Cobertizo de 2.44m x 4.57 m",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cobertizos/Lifetime-Cobertizo-de-244m-x-457-m/p/306070",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4f/hdf/400175168389150.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 37999.0,
+   "price_new": 29999.0,
+   "pct": 21.1,
+   "amount": 8000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "671495",
@@ -10462,36 +11452,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "669995",
-   "name": "LG Secadora de Gas 25 Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-25-Kg/p/669995",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hc7/h23/364484858347550.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 14299.0,
-   "pct": 20.6,
-   "amount": 3700.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "678301",
-   "name": "Whirlpool Lavadora 19Kg Top Load",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-19Kg-Top-Load/p/678301",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/had/h79/152955664760862.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 16999.0,
-   "price_new": 13499.0,
-   "pct": 20.6,
-   "amount": 3500.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "5948728",
    "name": "Gabite, Sofá Trieste, Gris",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Gabite-Sofa-Trieste-Gris/p/5948728",
@@ -10624,7 +11584,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "693676",
@@ -10657,6 +11617,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "1872214",
+   "name": "Kidkraft Centro de Juegos Summit Vista",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Kidkraft-Centro-de-Juegos-Summit-Vista/p/1872214",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/h98/415826596855838.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 29999.0,
+   "price_new": 23999.0,
+   "pct": 20.0,
+   "amount": 6000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "665948",
    "name": "Samsung Lavasecadora Eléctrica 20Kg/12Kg con Pedestal",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-20Kg12Kg-con-Pedestal/p/665948",
@@ -10684,7 +11659,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "668321",
@@ -10747,21 +11722,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "687739",
-   "name": "Hisense Refrigerador Comercial 9'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 19999.0,
-   "price_new": 15999.0,
-   "pct": 20.0,
-   "amount": 4000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "669633",
    "name": "Luuna, Colchón One Memory Foam, Matrimonial",
    "url": "https://www.costco.com.mx/c/Luuna-Colchon-One-Memory-Foam-Matrimonial/p/669633",
@@ -10775,6 +11735,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "697588",
+   "name": "DELL 14 Laptop 14\" Full HD+ AMD Ryzen 7 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-14-Laptop-14-Full-HD-AMD-Ryzen-7-16GB-512GB-SSD/p/697588",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he4/h91/438164201209886.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "689899",
@@ -10972,19 +11947,19 @@
    "first_seen": 1783951816.7088192
   },
   {
-   "id": "688741",
-   "name": "Samsung Galaxy Watch Ultra 47mm Blanco Titanio",
-   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-47mm-Blanco-Titanio/p/688741",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf1/he4/279006709579806.jpg",
-   "category": "Joyeria y Relojes",
+   "id": "1713483",
+   "name": "SunVilla, Paquete de 2 Camastros con descansabrazos",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Camastros/SunVilla-Paquete-de-2-Camastros-con-descansabrazos/p/1713483",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h92/h65/208886900097054.jpg",
+   "category": "Muebles",
    "price_old": 9999.0,
    "price_new": 7999.0,
    "pct": 20.0,
    "amount": 2000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
+   "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "521814",
@@ -11000,6 +11975,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "1850920",
+   "name": "Mirador, Caja de Almacenamiento de Aluminio con Capacidad de 776L",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cajas-de-Almacenamiento/Mirador-Caja-de-Almacenamiento-de-Aluminio-con-Capacidad-de-776L/p/1850920",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/he4/413913927090206.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "683651",
@@ -11030,21 +12020,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783789763.151063
-  },
-  {
-   "id": "696198",
-   "name": "Sharp Pantalla 55\" UHD 4K Roku TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Sharp-Pantalla-55-UHD-4K-Roku-TV/p/696198",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/hec/437417262120990.jpg",
-   "category": "Electronicos",
-   "price_old": 7499.0,
-   "price_new": 5999.0,
-   "pct": 20.0,
-   "amount": 1500.0,
-   "starts": "2026-07-08T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "701868",
@@ -11137,6 +12112,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "659548",
+   "name": "LG Refrigerador 20' Top Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-20-Top-Mount/p/659548",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/hb3/47803077885982.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16499.0,
+   "price_new": 13299.0,
+   "pct": 19.4,
+   "amount": 3200.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "696990",
    "name": "Philips, 3300 Series Full Auto Cafetera Espresso Automática",
    "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Maquinas-de-Espresso/Philips-3300-Series-Full-Auto-Cafetera-Espresso-Automatica/p/696990",
@@ -11182,21 +12172,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "659548",
-   "name": "LG Refrigerador 20' Top Mount",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-20-Top-Mount/p/659548",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/hb3/47803077885982.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 16699.0,
-   "price_new": 13499.0,
-   "pct": 19.2,
-   "amount": 3200.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "701366",
    "name": "HP 15-fc0288la Laptop 15.6\" Full HD AMD Ryzen 7 16GB 512GB SSD + 12 Meses M365 Personal",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fc0288la-Laptop-156-Full-HD-AMD-Ryzen-7-16GB-512GB-SSD-12-Meses-M365-Personal/p/701366",
@@ -11206,21 +12181,6 @@
    "price_new": 11799.0,
    "pct": 19.2,
    "amount": 2800.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "687077",
-   "name": "Sealy, Lisboa, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
-   "category": "c",
-   "price_old": 12999.0,
-   "price_new": 10499.0,
-   "pct": 19.2,
-   "amount": 2500.0,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
@@ -11527,21 +12487,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "692898",
-   "name": "Hisense Refrigerador 19' Top Mount",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-19-Top-Mount/p/692898",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/haf/314760229191710.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 15999.0,
-   "price_new": 12999.0,
-   "pct": 18.8,
-   "amount": 3000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "688026",
    "name": "América, Bliss, Juego de Colchón y Box Queen Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Bliss-Juego-de-Colchon-y-Box-Queen-Size/p/688026",
@@ -11555,6 +12500,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "693670",
+   "name": "TCL Pantalla 50\" QLED 4K Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/TCL-Pantalla-50-QLED-4K-Google-TV/p/693670",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hca/hee/452864715948062.jpg",
+   "category": "Electronicos",
+   "price_old": 7999.0,
+   "price_new": 6499.0,
+   "pct": 18.8,
+   "amount": 1500.0,
+   "starts": "2026-07-02T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "689999",
@@ -11615,6 +12575,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "1807174",
+   "name": "NXR, Parrilla de Acero de 8 Quemadores Plegable",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/NXR-Parrilla-de-Acero-de-8-Quemadores-Plegable/p/1807174",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/hf6/472470519152670.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 13499.0,
+   "price_new": 10999.0,
+   "pct": 18.5,
+   "amount": 2500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "522646",
@@ -11812,21 +12787,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "691123",
-   "name": "LG Pantalla 75\" QNED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/LG-Pantalla-75-QNED-4K-Smart-TV/p/691123",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h24/435247645917214.jpg",
-   "category": "Electronicos",
-   "price_old": 21999.0,
-   "price_new": 17999.0,
-   "pct": 18.2,
-   "amount": 4000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-06T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783980555.1749094
-  },
-  {
    "id": "687076",
    "name": "Sealy, Lisboa, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Matrimonial/p/687076",
@@ -11962,21 +12922,6 @@
    "first_seen": 1783951816.7088192
   },
   {
-   "id": "693670",
-   "name": "TCL Pantalla 50\" QLED 4K Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/TCL-Pantalla-50-QLED-4K-Google-TV/p/693670",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hca/hee/452864715948062.jpg",
-   "category": "Electronicos",
-   "price_old": 8299.0,
-   "price_new": 6799.0,
-   "pct": 18.1,
-   "amount": 1500.0,
-   "starts": "2026-07-02T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "702955",
    "name": "HP 15-fr0174la Laptop 15.6\" Full HD Intel Core i7 16GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fr0174la-Laptop-156-Full-HD-Intel-Core-i7-16GB-512GB-SSD/p/702955",
@@ -12020,6 +12965,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1768507",
+   "name": "Centr Equipo de Entrenamiento Funcional SF3 con Banca",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/Centr-Equipo-de-Entrenamiento-Funcional-SF3-con-Banca/p/1768507",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfe/h8e/421705754116126.jpg",
+   "category": "Deportes",
+   "price_old": 38999.0,
+   "price_new": 31999.0,
+   "pct": 17.9,
+   "amount": 7000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "696349",
@@ -12094,7 +13054,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "702956",
@@ -12125,6 +13085,36 @@
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "688629",
+   "name": "Apple Watch Ultra 2 (GPS + Cellular) Caja de titanio negro 49mm con Correa Loop Trail Negro M/L",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Ultra-2-GPS-Cellular-Caja-de-titanio-negro-49mm-con-Correa-Loop-Trail-Negro-ML/p/688629",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc9/h5d/275713267335198.jpg",
+   "category": "Electronicos",
+   "price_old": 16999.0,
+   "price_new": 13999.0,
+   "pct": 17.6,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "688628",
+   "name": "Apple Watch Ultra 2 (GPS + Cellular) Caja de titanio negro 49mm con Correa Loop Alpine Verde M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Ultra-2-GPS-Cellular-Caja-de-titanio-negro-49mm-con-Correa-Loop-Alpine-Verde-M/p/688628",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/h7f/275713264123934.jpg",
+   "category": "Electronicos",
+   "price_old": 16999.0,
+   "price_new": 13999.0,
+   "pct": 17.6,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "688473",
@@ -12357,14 +13347,14 @@
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-21-cuatro-puertas/p/677230",
    "img": "https://www.costco.com.mx/medias/sys_master/products/ha1/hc9/150263333388318.jpg",
    "category": "Linea Blanca y Cocina",
-   "price_old": 23999.0,
-   "price_new": 19999.0,
+   "price_old": 23899.0,
+   "price_new": 19899.0,
    "pct": 16.7,
    "amount": 4000.0,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "694949",
@@ -12380,6 +13370,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "1872188",
+   "name": "Kidkraft Centro de Juegos Blue Ridge",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Kidkraft-Centro-de-Juegos-Blue-Ridge/p/1872188",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/hce/404262788366366.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 17999.0,
+   "price_new": 14999.0,
+   "pct": 16.7,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "685850",
@@ -12500,6 +13505,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "1807272",
+   "name": "Nexgrill, Asador de Gas Deluxe de 7 Quemadores",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Nexgrill-Asador-de-Gas-Deluxe-de-7-Quemadores/p/1807272",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2c/h89/280976527458334.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 11999.0,
+   "price_new": 9999.0,
+   "pct": 16.7,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "687075",
@@ -12817,6 +13837,21 @@
    "first_seen": 1783962567.55354
   },
   {
+   "id": "1807131",
+   "name": "Agio, Stockholm Set Bistro para Exterior de 3 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Agio-Stockholm-Set-Bistro-para-Exterior-de-3-piezas/p/1807131",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h32/hb3/486353480482846.jpg",
+   "category": "Muebles",
+   "price_old": 12999.0,
+   "price_new": 10999.0,
+   "pct": 15.4,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "683665",
    "name": "América, Mystery, Colchón Queen Size",
    "url": "https://www.costco.com.mx/c/America-Mystery-Colchon-Queen-Size/p/683665",
@@ -12905,6 +13940,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "674030",
+   "name": "Homelegance, Orion, Litera Individual y Matrimonial Color Gris",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Literas/Homelegance-Orion-Litera-Individual-y-Matrimonial-Color-Gris/p/674030",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hec/ha8/118843621113886.jpg",
+   "category": "Muebles",
+   "price_old": 20999.0,
+   "price_new": 17799.0,
+   "pct": 15.2,
+   "amount": 3200.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "677168",
@@ -13312,6 +14362,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "703038",
+   "name": "Apple iPhone 17e 512GB Blanco",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPhone/Apple-iPhone-17e-512GB-Blanco/p/703038",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8d/h5a/455026891718686.jpg",
+   "category": "Electronicos",
+   "price_old": 19899.0,
+   "price_new": 16999.0,
+   "pct": 14.6,
+   "amount": 2900.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "693435",
    "name": "Apple iPad Chip A16 512GB Amarillo",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-512GB-Amarillo/p/693435",
@@ -13385,6 +14450,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "685955",
+   "name": "Apple iPad Air 13\" Wi-Fi 512GB Gris Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Air-13-Wi-Fi-512GB-Gris-Espacial/p/685955",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h64/280144988078110.jpg",
+   "category": "Electronicos",
+   "price_old": 25699.0,
+   "price_new": 21999.0,
+   "pct": 14.4,
+   "amount": 3700.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "668516",
@@ -13549,7 +14629,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "687343",
@@ -13837,6 +14917,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "690465",
+   "name": "Apple iPad Mini Wi-Fi 128GB Gris Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-128GB-Gris-Espacial/p/690465",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0e/h67/279306425335838.jpg",
+   "category": "Electronicos",
+   "price_old": 13799.0,
+   "price_new": 11999.0,
+   "pct": 13.0,
+   "amount": 1800.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "690468",
    "name": "Apple iPad Mini Wi-Fi 128GB Morado",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-128GB-Morado/p/690468",
@@ -13879,7 +14974,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "696667",
@@ -13894,7 +14989,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "696665",
@@ -13909,7 +15004,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "696664",
@@ -13924,7 +15019,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784038128.0131686
+   "first_seen": 1784038134.3402815
   },
   {
    "id": "521160",
@@ -14317,6 +15412,81 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "696746",
+   "name": "ASUS ROG Xbox Ally X Consola Portátil 7\" Full HD AMD Ryzen AI Z2 Extreme 24GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-ROG-Xbox-Ally-X-Consola-Portatil-7-Full-HD-AMD-Ryzen-AI-Z2-Extreme-24GB-1TB-SSD/p/696746",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h7e/438164196687902.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 21999.0,
+   "price_new": 19499.0,
+   "pct": 11.4,
+   "amount": 2500.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "690475",
+   "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Blanco Estelar",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Blanco-Estelar/p/690475",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5e/hb2/292367633547294.jpg",
+   "category": "Electronicos",
+   "price_old": 17799.0,
+   "price_new": 15799.0,
+   "pct": 11.2,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "690473",
+   "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Gris Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Gris-Espacial/p/690473",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h37/h6d/292367627976734.jpg",
+   "category": "Electronicos",
+   "price_old": 17799.0,
+   "price_new": 15799.0,
+   "pct": 11.2,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "697128",
+   "name": "Apple iPad Pro 13\" M5 Wi-Fi 256GB Plata",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-13-M5-Wi-Fi-256GB-Plata/p/697128",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf3/hb8/386580176535582.jpg",
+   "category": "Electronicos",
+   "price_old": 35999.0,
+   "price_new": 31999.0,
+   "pct": 11.1,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "697127",
+   "name": "Apple iPad Pro 13\" M5 Wi-Fi 256GB Negro Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-13-M5-Wi-Fi-256GB-Negro-Espacial/p/697127",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcb/hcb/386580139835422.jpg",
+   "category": "Electronicos",
+   "price_old": 35999.0,
+   "price_new": 31999.0,
+   "pct": 11.1,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "686218",
    "name": "Muebles Liz, Parma, Sala Modular de 2 Piezas, Gris",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Muebles-Liz-Parma-Sala-Modular-de-2-Piezas-Gris/p/686218",
@@ -14375,6 +15545,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "702761",
+   "name": "Muebles Liz, Barlow, Sofá Cama Seccional",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Muebles-Liz-Barlow-Sofa-Cama-Seccional/p/702761",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he9/h36/453554896961566.jpg",
+   "category": "Muebles",
+   "price_old": 27999.0,
+   "price_new": 24999.0,
+   "pct": 10.7,
+   "amount": 3000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "2026996",
@@ -14572,6 +15757,36 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "679547",
+   "name": "Muebles Liz, Harvey, Sofá Color Café",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Muebles-Liz-Harvey-Sofa-Color-Cafe/p/679547",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1c/hf8/205621448343582.jpg",
+   "category": "Muebles",
+   "price_old": 18999.0,
+   "price_new": 16999.0,
+   "pct": 10.5,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "692066",
+   "name": "Apple iMac 24\" 256GB 4.5K Chip M4 Azul CPU de 10 Núcleos GPU de 10 Núcleos Memoria Unificada de 16GB.",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-iMac-24-256GB-45K-Chip-M4-Azul-CPU-de-10-Nucleos-GPU-de-10-Nucleos-Memoria-Unificada-de-16GB/p/692066",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9f/h1a/328784473489438.jpg",
+   "category": "Electronicos",
+   "price_old": 38499.0,
+   "price_new": 34499.0,
+   "pct": 10.4,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "1862011",
    "name": "Aiden & Ivy, Seccional Fijo de Tela de 2 Piezas",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Aiden-Ivy-Seccional-Fijo-de-Tela-de-2-Piezas/p/1862011",
@@ -14615,6 +15830,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "693508",
+   "name": "Apple MacBook Air 15\" Chip M4 256GB Azul Cielo CPU de 10 núcleos GPU de 10 núcleos Memoria unificada de 16GB",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-MacBook-Air-15-Chip-M4-256GB-Azul-Cielo-CPU-de-10-nucleos-GPU-de-10-nucleos-Memoria-unificada-de-16GB/p/693508",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he6/h9f/333137432805406.jpg",
+   "category": "Electronicos",
+   "price_old": 28999.0,
+   "price_new": 25999.0,
+   "pct": 10.3,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "693464",
@@ -14827,6 +16057,36 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "692474",
+   "name": "Muebles Liz, Figg, Seccional de 2 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Muebles-Liz-Figg-Seccional-de-2-Piezas/p/692474",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h92/312354144157726.jpg",
+   "category": "Muebles",
+   "price_old": 22999.0,
+   "price_new": 20699.0,
+   "pct": 10.0,
+   "amount": 2300.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "702766",
+   "name": "Muebles Liz, Varo, Sofá de 2 plazas",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Muebles-Liz-Varo-Sofa-de-2-plazas/p/702766",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/h31/468803789455390.jpg",
+   "category": "Muebles",
+   "price_old": 20999.0,
+   "price_new": 18899.0,
+   "pct": 10.0,
+   "amount": 2100.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "702323",
    "name": "Maxi Cosi Carriola Fame",
    "url": "https://www.costco.com.mx/Todo-para-el-Bebe/Carriolas-y-Sillas-para-Bebe/Carriolas/Maxi-Cosi-Carriola-Fame/p/702323",
@@ -14840,6 +16100,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "690477",
+   "name": "Apple iPad Mini (Wi-Fi + Cellular) 256GB Gris Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-256GB-Gris-Espacial/p/690477",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5e/h8c/292367743451166.jpg",
+   "category": "Electronicos",
+   "price_old": 19999.0,
+   "price_new": 17999.0,
+   "pct": 10.0,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "1987546",
@@ -14857,6 +16132,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "679546",
+   "name": "Muebles Liz, Harvey, Love seat Color Café",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Muebles-Liz-Harvey-Love-seat-Color-Cafe/p/679546",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h76/205621448474654.jpg",
+   "category": "Muebles",
+   "price_old": 15999.0,
+   "price_new": 14399.0,
+   "pct": 10.0,
+   "amount": 1600.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "702762",
    "name": "Muebles Liz, Volpi, Sillón Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Muebles-Liz-Volpi-Sillon-Reclinable/p/702762",
@@ -14870,6 +16160,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "697129",
+   "name": "Apple iPad Pro 13\" M5 Wi-Fi 512GB Negro Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-13-M5-Wi-Fi-512GB-Negro-Espacial/p/697129",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/ha3/386580180402206.jpg",
+   "category": "Electronicos",
+   "price_old": 40999.0,
+   "price_new": 36999.0,
+   "pct": 9.8,
+   "amount": 4000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "686796",
@@ -14915,6 +16220,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "685893",
+   "name": "Apple iPad Pro 13\" Wi-Fi 256GB Negro Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-13-Wi-Fi-256GB-Negro-Espacial/p/685893",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb4/h8c/291211389304862.jpg",
+   "category": "Electronicos",
+   "price_old": 30999.0,
+   "price_new": 27999.0,
+   "pct": 9.7,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "693463",
@@ -15022,6 +16342,36 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "693516",
+   "name": "Apple MacBook Air 13\" Chip M4 512GB Blanco Estelar Memoria unificada de 24GB",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-MacBook-Air-13-Chip-M4-512GB-Blanco-Estelar-Memoria-unificada-de-24GB/p/693516",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8f/hf3/344260460150814.jpg",
+   "category": "Electronicos",
+   "price_old": 33999.0,
+   "price_new": 30999.0,
+   "pct": 8.8,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
+   "id": "692164",
+   "name": "Apple iMac 24\" 256GB 4.5K Chip M4 Azul CPU de 8 núcleos GPU de 8 núcleos Memoria unificada de 16GB",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-iMac-24-256GB-45K-Chip-M4-Azul-CPU-de-8-nucleos-GPU-de-8-nucleos-Memoria-unificada-de-16GB/p/692164",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9d/h36/296952006508574.jpg",
+   "category": "Electronicos",
+   "price_old": 33999.0,
+   "price_new": 30999.0,
+   "pct": 8.8,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
+  },
+  {
    "id": "697126",
    "name": "Apple iPad Pro 11\" M5 Wi-Fi 512GB Negro Espacial",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-11-M5-Wi-Fi-512GB-Negro-Espacial/p/697126",
@@ -15050,6 +16400,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "685947",
+   "name": "Apple iPad Air 13\" Wi-Fi 128GB Gris Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Air-13-Wi-Fi-128GB-Gris-Espacial/p/685947",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h4f/291211628216350.jpg",
+   "category": "Electronicos",
+   "price_old": 18599.0,
+   "price_new": 16999.0,
+   "pct": 8.6,
+   "amount": 1600.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "653126",
@@ -15155,6 +16520,21 @@
    "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783700236.6629386
+  },
+  {
+   "id": "700993",
+   "name": "Samsung Pantalla 77\" OLED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-77-OLED-4K-Smart-TV/p/700993",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfb/h81/485231357624350.jpg",
+   "category": "Electronicos",
+   "price_old": 26999.0,
+   "price_new": 24999.0,
+   "pct": 7.4,
+   "amount": 2000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041764.2840068
   },
   {
    "id": "703749",

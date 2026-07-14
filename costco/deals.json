@@ -1,6 +1,6 @@
 {
- "generated_at": 1784056254.2198482,
- "generated_at_str": "14/07/2026 13:10",
+ "generated_at": 1784059822.8552272,
+ "generated_at_str": "14/07/2026 14:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3064,7 +3064,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784056254.2198482
+   "first_seen": 1784056264.1516132
   },
   {
    "id": "1768239",
@@ -12202,6 +12202,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "687077",
+   "name": "Sealy, Lisboa, Colchón Queen Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
+   "category": "c",
+   "price_old": 12999.0,
+   "price_new": 10499.0,
+   "pct": 19.2,
+   "amount": 2500.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "702848",
    "name": "Samsung Pantalla 65\" Crystal UHD Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-Crystal-UHD-Smart-TV/p/702848",
@@ -14002,21 +14017,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "674030",
-   "name": "Homelegance, Orion, Litera Individual y Matrimonial Color Gris",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Literas/Homelegance-Orion-Litera-Individual-y-Matrimonial-Color-Gris/p/674030",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hec/ha8/118843621113886.jpg",
-   "category": "Muebles",
-   "price_old": 20999.0,
-   "price_new": 17799.0,
-   "pct": 15.2,
-   "amount": 3200.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784041770.2267919
-  },
-  {
    "id": "677168",
    "name": "Montbrook Home, Ixtapa, Sillón Reclinable, Color Marrón",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Ixtapa-Sillon-Reclinable-Color-Marron/p/677168",
@@ -15438,21 +15438,6 @@
    "amount": 5000.0,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "696641",
-   "name": "Apple Watch Ultra 3 (GPS + Celular) 49mm Titanio Negro + Correa Milanese Negro - Talla M",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Ultra-3-GPS-Celular-49mm-Titanio-Negro-Correa-Milanese-Negro-Talla-M/p/696641",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h7f/h2e/382305640742942.jpg",
-   "category": "Electronicos",
-   "price_old": 21499.0,
-   "price_new": 18999.0,
-   "pct": 11.6,
-   "amount": 2500.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-19T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
   },

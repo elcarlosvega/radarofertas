@@ -1,6 +1,6 @@
 {
- "generated_at": 1784052599.9189732,
- "generated_at_str": "14/07/2026 12:09",
+ "generated_at": 1784056254.2198482,
+ "generated_at_str": "14/07/2026 13:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -22,10 +22,10 @@
    "first_seen": 1783778939.4408414
   },
   {
-   "id": "688034",
-   "name": "Universal Broadmoore, Bellevue, Cama Queen",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Bellevue-Cama-Queen/p/688034",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/hd3/367525542330398.jpg",
+   "id": "689330",
+   "name": "Universal Broadmoore, Cama Tamaño Queen Con Dosel",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-Queen-Con-Dosel/p/689330",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h45/367525552881694.jpg",
    "category": "Muebles",
    "price_old": 17999.0,
    "price_new": 8999.0,
@@ -37,10 +37,10 @@
    "first_seen": 1783782558.4613187
   },
   {
-   "id": "689330",
-   "name": "Universal Broadmoore, Cama Tamaño Queen Con Dosel",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-Queen-Con-Dosel/p/689330",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h45/367525552881694.jpg",
+   "id": "688034",
+   "name": "Universal Broadmoore, Bellevue, Cama Queen",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Bellevue-Cama-Queen/p/688034",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/hd3/367525542330398.jpg",
    "category": "Muebles",
    "price_old": 17999.0,
    "price_new": 8999.0,
@@ -301,21 +301,6 @@
    "price_new": 199.0,
    "pct": 33.4,
    "amount": 100.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "696306",
-   "name": "ASUS TUF Gaming A14 Laptop 14\" WQXGA AMD Ryzen 7 16GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-TUF-Gaming-A14-Laptop-14-WQXGA-AMD-Ryzen-7-16GB-512GB-SSD/p/696306",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h13/h89/438164196294686.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 29999.0,
-   "price_new": 20499.0,
-   "pct": 31.7,
-   "amount": 9500.0,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
@@ -3065,6 +3050,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "701962",
+   "name": "ProForm Bicicleta de Spinning Sport CX",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Bicicletas-para-Ejercicio/ProForm-Bicicleta-de-Spinning-Sport-CX/p/701962",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h61/h85/432127115427870.jpg",
+   "category": "Deportes",
+   "price_old": 6999.0,
+   "price_new": 4999.0,
+   "pct": 28.6,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784056254.2198482
   },
   {
    "id": "1768239",
@@ -12202,21 +12202,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "687077",
-   "name": "Sealy, Lisboa, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
-   "category": "c",
-   "price_old": 12999.0,
-   "price_new": 10499.0,
-   "pct": 19.2,
-   "amount": 2500.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
    "id": "702848",
    "name": "Samsung Pantalla 65\" Crystal UHD Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-Crystal-UHD-Smart-TV/p/702848",
@@ -12799,7 +12784,7 @@
    "starts": "2026-07-14T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784052599.9189732
+   "first_seen": 1784052608.013422
   },
   {
    "id": "677228",

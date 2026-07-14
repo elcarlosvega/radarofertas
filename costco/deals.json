@@ -1,6 +1,6 @@
 {
- "generated_at": 1783994955.5108356,
- "generated_at_str": "13/07/2026 20:09",
+ "generated_at": 1784004639.747333,
+ "generated_at_str": "13/07/2026 22:50",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -335,21 +335,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783606843.9460945
-  },
-  {
-   "id": "694764",
-   "name": "Samsung Pantalla 65\" Neo QLED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-Neo-QLED-4K-Smart-TV/p/694764",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h05/hc9/435775076597790.jpg",
-   "category": "Electronicos",
-   "price_old": 25999.0,
-   "price_new": 17999.0,
-   "pct": 30.8,
-   "amount": 8000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
   },
   {
    "id": "684491",
@@ -1055,21 +1040,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "694285",
-   "name": "LG Pantalla 55\" UHD 4K AI Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/LG-Pantalla-55-UHD-4K-AI-Smart-TV/p/694285",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h55/ha5/435247647424542.jpg",
-   "category": "Electronicos",
-   "price_old": 9999.0,
-   "price_new": 6999.0,
-   "pct": 30.0,
-   "amount": 3000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-06T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783980555.1749094
   },
   {
    "id": "1942257",
@@ -2377,6 +2347,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "686428",
+   "name": "Armaf Odyssey Tyrant 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Odyssey-Tyrant-100-ml/p/686428",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h63/245742995701790.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 425.29,
+   "pct": 29.0,
+   "amount": 173.71,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
+  },
+  {
    "id": "686427",
    "name": "Armaf Osyssey Aoud 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Osyssey-Aoud-100-ml/p/686427",
@@ -3127,21 +3112,6 @@
    "first_seen": 1783782558.4613187
   },
   {
-   "id": "676432",
-   "name": "Carrier, Aire Acondicionado Minisplit Inverter con Wi-Fi, 36,000 btus 220V, Enfriamiento y Calefacción, 17 SEER",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Calentadores/Carrier-Aire-Acondicionado-Minisplit-Inverter-con-Wi-Fi-36000-btus-220V-Enfriamiento-y-Calefaccion-17-SEER/p/676432",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/h91/136271031894046.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 28999.0,
-   "price_new": 20999.0,
-   "pct": 27.6,
-   "amount": 8000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
-  },
-  {
    "id": "702165",
    "name": "Hisense Lavasecadora Eléctrica 16Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Hisense-Lavasecadora-Electrica-16Kg/p/702165",
@@ -3590,21 +3560,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
-  },
-  {
-   "id": "674138",
-   "name": "LG Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/674138",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/haf/364485057708062.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 21999.0,
-   "pct": 26.7,
-   "amount": 8000.0,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "660422",
@@ -9502,21 +9457,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "509901",
-   "name": "LG, Sistema de Vapor para Prendas, Styler",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-del-Hogar/Planchas-y-Centrales-de-Vapor/LG-Sistema-de-Vapor-para-Prendas-Styler/p/509901",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h60/h89/12679536640030.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 25999.0,
-   "price_new": 19599.0,
-   "pct": 24.6,
-   "amount": 6400.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "695690",
    "name": "Maytag Secadora de Gas 25Kg PetPro",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-25Kg-PetPro/p/695690",
@@ -9549,9 +9489,9 @@
   {
    "id": "1293824",
    "name": "Yardistry Pérgola de Madera con Techo de Aluminio de 3.7m x 4.9m",
-   "url": "https://www.costco.com.mx/c/Yardistry-Pergola-de-Madera-con-Techo-de-Aluminio-de-37m-x-49m/p/1293824",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Pergola-de-Madera-con-Techo-de-Aluminio-de-37m-x-49m/p/1293824",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h26/h7b/45346765996062.jpg",
-   "category": "c",
+   "category": "Patio y Jardin",
    "price_old": 52999.0,
    "price_new": 39999.0,
    "pct": 24.5,
@@ -11315,21 +11255,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "695043",
-   "name": "LG Refrigerador 14' Top Mount",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-14-Top-Mount/p/695043",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf6/h8b/416801815527454.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 14899.0,
-   "price_new": 11899.0,
-   "pct": 20.1,
-   "amount": 3000.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "1303994",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1784128149.255766,
- "generated_at_str": "15/07/2026 09:09",
+ "generated_at": 1784131769.9461045,
+ "generated_at_str": "15/07/2026 10:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3229,7 +3229,7 @@
    "starts": "2026-07-15T06:00:00.000Z",
    "ends": "2026-07-23T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784128149.255766
+   "first_seen": 1784128155.0865207
   },
   {
    "id": "1942899",
@@ -4505,6 +4505,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "701222",
+   "name": "Nintendo Switch - Metroid Prime 4: Beyond",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-Metroid-Prime-4-Beyond/p/701222",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h14/he5/414733873971230.jpg",
+   "category": "Electronicos",
+   "price_old": 1299.0,
+   "price_new": 949.0,
+   "pct": 26.9,
+   "amount": 350.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784131769.9461045
   },
   {
    "id": "697372",
@@ -8707,6 +8722,51 @@
    "first_seen": 1784124625.517578
   },
   {
+   "id": "701223",
+   "name": "Nintendo Switch 2 - Kirby Air Riders",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Kirby-Air-Riders/p/701223",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h97/h2f/414733877706782.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 1199.0,
+   "pct": 25.0,
+   "amount": 400.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784131769.9461045
+  },
+  {
+   "id": "701220",
+   "name": "Nintendo Switch 2 - Metroid Prime 4: Beyond",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Metroid-Prime-4-Beyond/p/701220",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h45/414733873315870.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 1199.0,
+   "pct": 25.0,
+   "amount": 400.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784131769.9461045
+  },
+  {
+   "id": "701218",
+   "name": "Nintendo Switch 2 - Leyendas Pokémon Z-A",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Leyendas-Pokemon-Z-A/p/701218",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h00/hd1/414733866074142.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 1199.0,
+   "pct": 25.0,
+   "amount": 400.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784131769.9461045
+  },
+  {
    "id": "668834",
    "name": "Nourkrin Radiance 30 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-Radiance-30-Tabletas/p/668834",
@@ -8986,6 +9046,66 @@
    "price_new": 749.0,
    "pct": 25.0,
    "amount": 250.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "698878",
+   "name": "Sting VST530 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Sting-VST530-Armazon-Oftalmico/p/698878",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7b/h18/272722721603614.jpg",
+   "category": "Optica",
+   "price_old": 999.0,
+   "price_new": 749.25,
+   "pct": 25.0,
+   "amount": 249.75,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "698864",
+   "name": "Sting Junior VSJ741 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Sting-Junior-VSJ741-Armazon-Oftalmico/p/698864",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h96/ha1/272722691719198.jpg",
+   "category": "Optica",
+   "price_old": 999.0,
+   "price_new": 749.25,
+   "pct": 25.0,
+   "amount": 249.75,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "698863",
+   "name": "Sting Junior VSJ741 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Sting-Junior-VSJ741-Armazon-Oftalmico/p/698863",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h85/h87/272722689032222.jpg",
+   "category": "Optica",
+   "price_old": 999.0,
+   "price_new": 749.25,
+   "pct": 25.0,
+   "amount": 249.75,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "698862",
+   "name": "Sting Junior VSJ740 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Sting-Junior-VSJ740-Armazon-Oftalmico/p/698862",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0f/he9/272722686738462.jpg",
+   "category": "Optica",
+   "price_old": 999.0,
+   "price_new": 749.25,
+   "pct": 25.0,
+   "amount": 249.75,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
@@ -11375,21 +11495,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "685982",
-   "name": "Apple iPad Air 13\" Wi-Fi + Cellular 256GB Morado",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Air-13-Wi-Fi-Cellular-256GB-Morado/p/685982",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/hb2/291211385798686.jpg",
-   "category": "Electronicos",
-   "price_old": 24299.0,
-   "price_new": 18999.0,
-   "pct": 21.8,
-   "amount": 5300.0,
-   "starts": "2026-07-14T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784041770.2267919
   },
   {
    "id": "684611",

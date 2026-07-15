@@ -1,6 +1,6 @@
 {
- "generated_at": 1784081337.1062303,
- "generated_at_str": "14/07/2026 20:08",
+ "generated_at": 1784085077.7677948,
+ "generated_at_str": "14/07/2026 21:11",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3577,6 +3577,21 @@
    "first_seen": 1784038134.3402815
   },
   {
+   "id": "1917018",
+   "name": "LEGO Botanicals Bonsái de Arce Rojo Japonés",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juguetes/Lego/LEGO-Botanicals-Bonsai-de-Arce-Rojo-Japones/p/1917018",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4e/hfe/369400634277918.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 1249.0,
+   "price_new": 899.0,
+   "pct": 28.0,
+   "amount": 350.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "692985",
    "name": "Hunter, Ventilador 52\" Avia Negro Mate",
    "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Ventiladores/Hunter-Ventilador-52-Avia-Negro-Mate/p/692985",
@@ -6140,6 +6155,36 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "691143",
+   "name": "Carolina Herrera HER 0257 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carolina-Herrera-HER-0257-Armazon-Oftalmico/p/691143",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hce/h20/350710612951070.jpg",
+   "category": "Optica",
+   "price_old": 4499.0,
+   "price_new": 3374.25,
+   "pct": 25.0,
+   "amount": 1124.75,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "691142",
+   "name": "Carolina Herrera HER 0257 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carolina-Herrera-HER-0257-Armazon-Oftalmico/p/691142",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/hce/350710608396318.jpg",
+   "category": "Optica",
+   "price_old": 4499.0,
+   "price_new": 3374.25,
+   "pct": 25.0,
+   "amount": 1124.75,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
   },
   {
    "id": "750305",

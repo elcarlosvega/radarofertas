@@ -1,6 +1,6 @@
 {
- "generated_at": 1784113706.8549404,
- "generated_at_str": "15/07/2026 05:08",
+ "generated_at": 1784117683.67976,
+ "generated_at_str": "15/07/2026 06:14",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -200,6 +200,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "671363",
+   "name": "PlayStation 5 - Horizon: Fobidden West",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Horizon-Fobidden-West/p/671363",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9d/h3c/97918038114334.jpg",
+   "category": "Electronicos",
+   "price_old": 899.0,
+   "price_new": 599.0,
+   "pct": 33.4,
+   "amount": 300.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041770.2267919
   },
   {
    "id": "1855701",

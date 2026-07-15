@@ -1,6 +1,6 @@
 {
- "generated_at": 1784092091.5591657,
- "generated_at_str": "14/07/2026 23:08",
+ "generated_at": 1784095713.1703596,
+ "generated_at_str": "15/07/2026 00:08",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -65,21 +65,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783782558.4613187
-  },
-  {
-   "id": "701908",
-   "name": "HP 15-fc0265la Laptop 15.6\" Full HD AMD Ryzen 5 8GB 512GB SSD + 12 Meses M365 Personal",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fc0265la-Laptop-156-Full-HD-AMD-Ryzen-5-8GB-512GB-SSD-12-Meses-M365-Personal/p/701908",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h93/438164211695646.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 12199.0,
-   "price_new": 6999.0,
-   "pct": 42.6,
-   "amount": 5200.0,
-   "starts": "2026-07-14T06:00:00.000Z",
-   "ends": "2026-07-15T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784041770.2267919
   },
   {
    "id": "688010",
@@ -10207,21 +10192,6 @@
    "first_seen": 1783955396.1879866
   },
   {
-   "id": "682441",
-   "name": "Whirlpool Lavadora 24Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-24Kg/p/682441",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h82/h51/187790169571358.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 16999.0,
-   "price_new": 12999.0,
-   "pct": 23.5,
-   "amount": 4000.0,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "1713381",
    "name": "Agio, McKinnon Comedor Alto de 3 Piezas para Exterior",
    "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/Agio-McKinnon-Comedor-Alto-de-3-Piezas-para-Exterior/p/1713381",
@@ -10282,10 +10252,10 @@
    "first_seen": 1784041770.2267919
   },
   {
-   "id": "686463",
-   "name": "GE Centro De Lavado De Gas 23kg / 23kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
+   "id": "686134",
+   "name": "GE Profile Refrigerador 27' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/GE-Profile-Refrigerador-27-French-Door/p/686134",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h6a/314760053325854.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 29999.0,
    "price_new": 22999.0,
@@ -10297,10 +10267,10 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "686134",
-   "name": "GE Profile Refrigerador 27' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/GE-Profile-Refrigerador-27-French-Door/p/686134",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h6a/314760053325854.jpg",
+   "id": "686463",
+   "name": "GE Centro De Lavado De Gas 23kg / 23kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 29999.0,
    "price_new": 22999.0,
@@ -16207,6 +16177,21 @@
    "first_seen": 1784041770.2267919
   },
   {
+   "id": "685893",
+   "name": "Apple iPad Pro 13\" Wi-Fi 256GB Negro Espacial",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-13-Wi-Fi-256GB-Negro-Espacial/p/685893",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb4/h8c/291211389304862.jpg",
+   "category": "Electronicos",
+   "price_old": 30999.0,
+   "price_new": 27999.0,
+   "pct": 9.7,
+   "amount": 3000.0,
+   "starts": "2026-07-14T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041770.2267919
+  },
+  {
    "id": "686796",
    "name": "Sole Bicicleta Recumbente R92",
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Bicicletas-para-Ejercicio/Sole-Bicicleta-Recumbente-R92/p/686796",
@@ -16250,21 +16235,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "685893",
-   "name": "Apple iPad Pro 13\" Wi-Fi 256GB Negro Espacial",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Pro-13-Wi-Fi-256GB-Negro-Espacial/p/685893",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb4/h8c/291211389304862.jpg",
-   "category": "Electronicos",
-   "price_old": 30999.0,
-   "price_new": 27999.0,
-   "pct": 9.7,
-   "amount": 3000.0,
-   "starts": "2026-07-14T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784041770.2267919
   },
   {
    "id": "693463",

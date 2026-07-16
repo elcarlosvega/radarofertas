@@ -1,6 +1,6 @@
 {
- "generated_at": 1784236157.6519442,
- "generated_at_str": "16/07/2026 15:09",
+ "generated_at": 1784239759.3723357,
+ "generated_at_str": "16/07/2026 16:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -697,6 +697,21 @@
    "first_seen": 1783607326.826506
   },
   {
+   "id": "702823",
+   "name": "Samsung Galaxy S26 256GB Azul Cielo",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-256GB-Azul-Cielo/p/702823",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8f/h44/453817323847710.jpg",
+   "category": "Electronicos",
+   "price_old": 22499.0,
+   "price_new": 15599.0,
+   "pct": 30.7,
+   "amount": 6900.0,
+   "starts": "2026-07-08T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783606912.8708422
+  },
+  {
    "id": "701860",
    "name": "Samsung Galaxy S25 FE 128GB Azul Marino",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-FE-128GB-Azul-Marino/p/701860",
@@ -1082,9 +1097,9 @@
    "pct": 30.2,
    "amount": 16000.0,
    "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784239759.3723357
   },
   {
    "id": "684413",
@@ -3427,21 +3442,6 @@
    "first_seen": 1784056264.1516132
   },
   {
-   "id": "697932",
-   "name": "Nintendo Switch 1.1 Bundle Super Mario Bros. Wonder Digital + 3 Meses de Nintendo Online",
-   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-11-Bundle-Super-Mario-Bros-Wonder-Digital-3-Meses-de-Nintendo-Online/p/697932",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h3b/402216009793566.jpg",
-   "category": "Electronicos",
-   "price_old": 6999.0,
-   "price_new": 4999.0,
-   "pct": 28.6,
-   "amount": 2000.0,
-   "starts": "2026-07-15T06:00:00.000Z",
-   "ends": "2026-07-29T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784124625.517578
-  },
-  {
    "id": "682770",
    "name": "Delsey Set de Maletas St Tropez",
    "url": "https://www.costco.com.mx/Ropa-Calzado-y-Equipaje/Accesorios-de-Viaje/Maletas/Delsey-Set-de-Maletas-St-Tropez/p/682770",
@@ -3470,6 +3470,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784041770.2267919
+  },
+  {
+   "id": "697932",
+   "name": "Nintendo Switch 1.1 Bundle Super Mario Bros. Wonder Digital + 3 Meses de Nintendo Online",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-11-Bundle-Super-Mario-Bros-Wonder-Digital-3-Meses-de-Nintendo-Online/p/697932",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h3b/402216009793566.jpg",
+   "category": "Electronicos",
+   "price_old": 6999.0,
+   "price_new": 4999.0,
+   "pct": 28.6,
+   "amount": 2000.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784124625.517578
   },
   {
    "id": "688743",
@@ -8167,36 +8182,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "700343",
-   "name": "Tous STO.00C80.09MK.53 Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Tous-STO00C8009MK53-Lentes-de-Sol/p/700343",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h33/hbb/396587238621214.jpg",
-   "category": "Optica",
-   "price_old": 2999.0,
-   "price_new": 2249.25,
-   "pct": 25.0,
-   "amount": 749.75,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "700342",
-   "name": "TOUS STO.Tous STO.00C76.0714.51 Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/TOUS-STOTous-STO00C76071451-Lentes-de-Sol/p/700342",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb6/h6d/396587236327454.jpg",
-   "category": "Optica",
-   "price_old": 2999.0,
-   "price_new": 2249.25,
-   "pct": 25.0,
-   "amount": 749.75,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
    "id": "700341",
    "name": "Tous STO.00C38.0700.50 Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Tous-STO00C38070050-Lentes-de-Sol/p/700341",
@@ -12212,9 +12197,9 @@
    "pct": 20.2,
    "amount": 2000.0,
    "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "ends": "2026-07-17T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784239759.3723357
   },
   {
    "id": "695043",
@@ -14027,9 +14012,9 @@
    "pct": 16.7,
    "amount": 6000.0,
    "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784239759.3723357
   },
   {
    "id": "1847145",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1784156913.3376937,
- "generated_at_str": "15/07/2026 17:08",
+ "generated_at": 1784160529.8190172,
+ "generated_at_str": "15/07/2026 18:08",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -10369,7 +10369,7 @@
    "starts": "2026-07-15T06:00:00.000Z",
    "ends": "2026-07-31T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784156913.3376937
+   "first_seen": 1784156919.2036462
   },
   {
    "id": "676566",
@@ -12427,6 +12427,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "683654",
+   "name": "América, Whistler, Colchón King Size",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Whistler-Colchon-King-Size/p/683654",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/hd2/450977407631390.jpg",
+   "category": "Muebles",
+   "price_old": 10999.0,
+   "price_new": 8799.0,
+   "pct": 20.0,
+   "amount": 2200.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "653747",
    "name": "Generac, Generador Portátil Premium GP3600",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/Generac-Generador-Portatil-Premium-GP3600/p/653747",
@@ -13437,6 +13452,21 @@
    "url": "https://www.costco.com.mx/Electronicos/Audio/Tornamesas/ProJect-Tornamesa-A1/p/687780",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h31/he7/257152686161950.jpg",
    "category": "Electronicos",
+   "price_old": 10999.0,
+   "price_new": 8999.0,
+   "pct": 18.2,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "683656",
+   "name": "América, Class, Colchón Matrimonial",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Class-Colchon-Matrimonial/p/683656",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h7f/209659024572446.jpg",
+   "category": "Muebles",
    "price_old": 10999.0,
    "price_new": 8999.0,
    "pct": 18.2,

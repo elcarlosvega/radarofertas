@@ -1,6 +1,6 @@
 {
- "generated_at": 1784225374.047335,
- "generated_at_str": "16/07/2026 12:09",
+ "generated_at": 1784228970.743058,
+ "generated_at_str": "16/07/2026 13:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1822,21 +1822,6 @@
    "first_seen": 1783789763.151063
   },
   {
-   "id": "665571",
-   "name": "Kleenex Cottonelle Violet Blossom Papel Higiénico 32 pzas",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kleenex-Cottonelle-Violet-Blossom-Papel-Higienico-32-pzas/p/665571",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/hb9/360893454909470.jpg",
-   "category": "Grocery",
-   "price_old": 559.0,
-   "price_new": 391.3,
-   "pct": 30.0,
-   "amount": 167.7,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "701198",
    "name": "Sinuberase suspensión 2 Billones UFC 2 Cajas con 10 Ampolletas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Sinuberase-suspension-2-Billones-UFC-2-Cajas-con-10-Ampolletas/p/701198",
@@ -1924,7 +1909,7 @@
    "starts": "2026-07-16T06:00:00.000Z",
    "ends": "2026-07-31T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784225374.047335
+   "first_seen": 1784225381.0017505
   },
   {
    "id": "651330",
@@ -4775,6 +4760,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "701854",
+   "name": "AG Box, Set de 3 Cajas Organizadoras, 52L, 70L y 90L.",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Almacenaje-y-Organizacion/Cajas-Organizadoras/AG-Box-Set-de-3-Cajas-Organizadoras-52L-70L-y-90L/p/701854",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbc/h57/431152946872350.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 1499.0,
+   "price_new": 1099.0,
+   "pct": 26.7,
+   "amount": 400.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
   },
   {
    "id": "670697",
@@ -11927,21 +11927,6 @@
    "pct": 21.1,
    "amount": 20000.0,
    "starts": "2026-06-27T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "1861898",
-   "name": "Thomasville, Tavish, Seccional de Tela de 3 Piezas con Almacenamiento en los Asientos",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Tavish-Seccional-de-Tela-de-3-Piezas-con-Almacenamiento-en-los-Asientos/p/1861898",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf5/hcd/439315733282846.jpg",
-   "category": "Muebles",
-   "price_old": 37999.0,
-   "price_new": 29999.0,
-   "pct": 21.1,
-   "amount": 8000.0,
-   "starts": "2026-06-15T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572

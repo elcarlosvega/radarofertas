@@ -1,6 +1,6 @@
 {
- "generated_at": 1784218146.8078194,
- "generated_at_str": "16/07/2026 10:09",
+ "generated_at": 1784221750.0980654,
+ "generated_at_str": "16/07/2026 11:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -500,21 +500,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783782558.4613187
-  },
-  {
-   "id": "697937",
-   "name": "Nintendo Switch 2 Standard Edition",
-   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Standard-Edition/p/697937",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/h9f/413913582567454.jpg",
-   "category": "Electronicos",
-   "price_old": 12999.0,
-   "price_new": 8999.0,
-   "pct": 30.8,
-   "amount": 4000.0,
-   "starts": "2026-07-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784124625.517578
   },
   {
    "id": "684777",
@@ -9487,6 +9472,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "660699",
+   "name": "Ron Flor de Caña 12 años 750ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Ron/Ron-Flor-de-Cana-12-anos-750ml/p/660699",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h63/hba/32663037149214.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 899.0,
+   "price_new": 674.25,
+   "pct": 25.0,
+   "amount": 224.75,
+   "starts": "2026-07-10T06:00:00.000Z",
+   "ends": "2026-07-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784221750.0980654
+  },
+  {
    "id": "679489",
    "name": "KI-CAB 50 mg con 10 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Alivio-Estomacal/KI-CAB-50-mg-con-10-Tabletas/p/679489",
@@ -9950,21 +9950,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "697944",
-   "name": "Enteronorma B Vit 10 Ampolletas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Enteronorma-B-Vit-10-Ampolletas/p/697944",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/hec/431127071653918.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 539.0,
-   "price_new": 404.25,
-   "pct": 25.0,
-   "amount": 134.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "538322",

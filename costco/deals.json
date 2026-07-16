@@ -1,6 +1,6 @@
 {
- "generated_at": 1784192930.910619,
- "generated_at_str": "16/07/2026 03:08",
+ "generated_at": 1784196494.86014,
+ "generated_at_str": "16/07/2026 04:08",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2645,6 +2645,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "680685",
+   "name": "Lacoste Red 125 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Lacoste-Red-125-ml/p/680685",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/ha6/168570953072670.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1249.0,
+   "price_new": 886.79,
+   "pct": 29.0,
+   "amount": 362.21,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
   },
   {
    "id": "533311",
@@ -5465,6 +5480,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "680192",
+   "name": "Luuna Cloud, Colchon Matrimonial, Memory Foam",
+   "url": "https://www.costco.com.mx/c/Luuna-Cloud-Colchon-Matrimonial-Memory-Foam/p/680192",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2f/h9b/171715639574558.jpg",
+   "category": "c",
+   "price_old": 9999.0,
+   "price_new": 7499.0,
+   "pct": 25.0,
+   "amount": 2500.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
   },
   {
    "id": "696808",
@@ -12589,7 +12619,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-17T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784192930.910619
+   "first_seen": 1784192937.310646
   },
   {
    "id": "687077",
@@ -14502,6 +14532,21 @@
    "url": "https://www.costco.com.mx/c/Set-Tempur-One-Ease-Individual/p/687340",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/h35/228406183755806.jpg",
    "category": "c",
+   "price_old": 39999.0,
+   "price_new": 33999.0,
+   "pct": 15.0,
+   "amount": 6000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "684409",
+   "name": "Samsung Bespoke AI Refrigerador 32' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Bespoke-AI-Refrigerador-32-French-Door/p/684409",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h68/hf6/227111325138974.jpg",
+   "category": "Linea Blanca y Cocina",
    "price_old": 39999.0,
    "price_new": 33999.0,
    "pct": 15.0,

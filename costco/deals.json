@@ -1,6 +1,6 @@
 {
- "generated_at": 1784228970.743058,
- "generated_at_str": "16/07/2026 13:09",
+ "generated_at": 1784232548.020795,
+ "generated_at_str": "16/07/2026 14:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -50,21 +50,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783782558.4613187
-  },
-  {
-   "id": "688010",
-   "name": "Samsung Bespoke AI Lavasecadora Eléctrica 26Kg/15Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-AI-Lavasecadora-Electrica-26Kg15Kg/p/688010",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h47/h2f/364485066457118.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 39799.0,
-   "price_new": 22999.0,
-   "pct": 42.2,
-   "amount": 16800.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784041770.2267919
   },
   {
    "id": "695045",
@@ -11932,6 +11917,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "1861898",
+   "name": "Thomasville, Tavish, Seccional de Tela de 3 Piezas con Almacenamiento en los Asientos",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Tavish-Seccional-de-Tela-de-3-Piezas-con-Almacenamiento-en-los-Asientos/p/1861898",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf5/hcd/439315733282846.jpg",
+   "category": "Muebles",
+   "price_old": 37999.0,
+   "price_new": 29999.0,
+   "pct": 21.1,
+   "amount": 8000.0,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "306070",
    "name": "Lifetime, Cobertizo de 2.44m x 4.57 m",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cobertizos/Lifetime-Cobertizo-de-244m-x-457-m/p/306070",
@@ -14420,21 +14420,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
-  },
-  {
-   "id": "697969",
-   "name": "Vento Motocicleta Hipster 170cc Azul",
-   "url": "https://www.costco.com.mx/Deportes/Motociclismo/Motocicletas/Vento-Motocicleta-Hipster-170cc-Azul/p/697969",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h5d/403573716189214.jpg",
-   "category": "Deportes",
-   "price_old": 30999.0,
-   "price_new": 25999.0,
-   "pct": 16.1,
-   "amount": 5000.0,
-   "starts": "2026-07-02T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "703960",

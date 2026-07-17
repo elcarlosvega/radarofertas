@@ -126,6 +126,7 @@ footer a{color:var(--green-dk);font-weight:700}
     </a>
     <div class="tabs" id="tabs">
       <a class="tab" href="/">Inicio</a>
+      <a class="tab" href="/vuelos/">✈ Vuelos</a>
       <a class="tab" href="/palacio/">Palacio</a>
       <a class="tab" href="/amazon/">Amazon</a>
       <a class="tab" href="/costco/">Costco</a>
@@ -140,7 +141,7 @@ footer a{color:var(--green-dk);font-weight:700}
   <div class="heroin">
     <span class="chip"><span class="sq"></span> RADAR PALACIO <span class="dotlive"></span></span>
     <h1>Ofertas de <em>Palacio de Hierro</em> cazadas cada hora.</h1>
-    <div class="sub" id="sub">5,786 ofertas activas · actualizado 16/07/2026 17:14</div>
+    <div class="sub" id="sub">5,786 ofertas activas · actualizado 16/07/2026 18:13</div>
   </div>
 </header>
 <div class="searchbox">
@@ -216,7 +217,4 @@ fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.j
   ALL=(d&&d.deals)||[];
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
   render();
-}).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Recarga en un momento.';});
-</script>
-</body>
-</html>
+}).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Re

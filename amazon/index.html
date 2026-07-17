@@ -181,7 +181,7 @@ function cardHtml(d){
     '<div class="cb">'+
     '<div class="nm">'+esc(d.name)+'</div>'+
     '<div class="catl">'+esc(d.category)+'</div>'+
-    '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
+    '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po" title="Precio promedio de los últimos 90 días (datos de Keepa)">prom. 90 días: '+money(d.price_old)+'</span></div>'+
     '<div class="sv">'+Math.round(d.pct||0)+'% por debajo del promedio de 90 días</div>'+
     '<span class="go">Ver oferta →</span></div></a>';
 }

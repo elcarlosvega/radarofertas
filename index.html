@@ -151,9 +151,6 @@ main{max-width:1200px;margin:0 auto;padding:34px 20px 10px}
 @keyframes skg{to{background-position:-200% 0}}
 .imgbox img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
 .bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
-.btag{position:absolute;top:12px;left:64px;background:#fff;border:1px solid var(--line);color:var(--mut);font-weight:700;font-size:.64rem;padding:4px 8px;border-radius:99px}
-.heart{position:absolute;top:9px;right:9px;width:30px;height:30px;border-radius:50%;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;cursor:pointer;color:#b9c2cc;font-size:.85rem;z-index:2}
-.heart.onh{color:#e6295a;border-color:#f3c2d1}
 .cbody{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .nm{font-size:.9rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
 .catl{font-size:.68rem;color:var(--mut)}
@@ -163,9 +160,6 @@ main{max-width:1200px;margin:0 auto;padding:34px 20px 10px}
 .pnew{font-size:1.28rem;font-weight:900;letter-spacing:-.02em}
 .pold{color:#a3adb8;text-decoration:line-through;font-size:.82rem}
 .save{font-size:.76rem;color:var(--green-dk);font-weight:800}
-.sparkw{margin-top:auto;padding-top:9px;border-top:1px dashed #edf0f3}
-.sparkw svg{display:block;width:100%;height:26px}
-.sparkl{display:flex;justify-content:space-between;font-size:.6rem;color:#a3adb8;margin-top:3px}
 .sk{background:#fff;border:1px solid var(--line);border-radius:16px;height:320px;position:relative;overflow:hidden}
 .sk::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(13,17,23,.045),transparent);animation:sh 1.2s infinite}
 @keyframes sh{100%{transform:translateX(100%)}}
@@ -218,6 +212,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
 .nlrow input{flex:1;border:1px solid var(--line);border-radius:11px;padding:11px 13px;font-size:.85rem;background:#fbfcfd;color:var(--ink)}
 .nlrow button{background:var(--green);border:0;color:#fff;border-radius:11px;width:44px;font-size:1rem;font-weight:900;cursor:pointer}
 .nlnote{font-size:.74rem;color:var(--mut);margin-top:8px;line-height:1.45}
+.tgfoot{display:inline-flex;align-items:center;gap:7px;background:var(--dark);color:#fff;padding:9px 14px;border-radius:10px;font-weight:800;font-size:.8rem;text-decoration:none;margin-top:10px}
 .legal{max-width:1200px;margin:0 auto;padding:16px 20px 26px;border-top:1px solid #f0f2f5;font-size:.7rem;color:var(--mut);display:flex;gap:14px;flex-wrap:wrap;justify-content:space-between}
 /* ---------- RESPONSIVE ---------- */
 @media(max-width:1020px){
@@ -246,6 +241,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
   .fcard{min-width:120px;max-width:150px}
   .foot{grid-template-columns:1fr}
 }
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
@@ -320,7 +316,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
         <div class="fcard f3" id="fc3" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
         <div class="fcard f4" id="fc4" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
       </div>
-      <div class="scanpill"><span class="dotlive"></span> Escaneando 24/7 <span class="sep">•</span> <span id="scanstat">cargando ofertas…</span></div>
+      <div class="scanpill"><span class="dotlive"></span> Escaneando 24/7 <span class="sep">•</span> <span id="scanstat" aria-live="polite">cargando ofertas…</span></div>
     </div>
   </div>
 </header>
@@ -356,11 +352,11 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
     <div class="grid" id="grid"></div>
     <aside class="side" aria-label="Radar en vivo">
       <h3><span class="dotlive"></span> Radar en vivo</h3>
-      <div class="stat"><span class="sic">📋</span><span><span class="lb">Ofertas detectadas hoy</span><br><span class="vl" id="st-total">—</span><br><span class="xs" id="st-totalxs"></span></span></div>
-      <div class="stat"><span class="sic">⏰</span><span><span class="lb">Mejor descuento hoy</span><br><span class="vl" id="st-best">—</span><br><span class="xs" id="st-bestxs"></span></span></div>
-      <div class="stat"><span class="sic">🏬</span><span><span class="lb">Tiendas monitoreadas</span><br><span class="vl" id="st-stores">—</span><br><span class="xs">24/7 activas</span></span></div>
+      <div class="stat"><span class="sic">📋</span><span><span class="lb">Ofertas activas</span><br><span class="vl" id="st-total">—</span><br><span class="xs" id="st-totalxs"></span></span></div>
+      <div class="stat"><span class="sic">⏰</span><span><span class="lb">Mejor descuento activo</span><br><span class="vl" id="st-best">—</span><br><span class="xs" id="st-bestxs"></span></span></div>
+      <div class="stat"><span class="sic">🏬</span><span><span class="lb">Tiendas monitoreadas</span><br><span class="vl" id="st-stores">—</span><br><span class="xs">actualización cada hora</span></span></div>
       <div class="stat"><span class="sic">🚀</span><span><span class="lb">Descuentos de 50% o más</span><br><span class="vl" id="st-viral">—</span><br><span class="xs" id="st-viralxs">entre lo más destacado</span></span></div>
-      <button class="trend" id="trendbtn">Ver tendencias →</button>
+      <button class="trend" id="trendbtn">Ver mayores descuentos →</button>
     </aside>
   </div>
 </main>
@@ -415,14 +411,9 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <p class="mx">Hecho en México ❤️ 🇲🇽</p>
     </div>
     <div>
-      <h4>Newsletter</h4>
-      <form class="nl" id="nlform">
-        <div class="nlrow">
-          <input type="email" id="nlmail" placeholder="tu@email.com" aria-label="Tu correo electrónico" required>
-          <button type="submit" aria-label="Suscribirme">→</button>
-        </div>
-        <p class="nlnote" id="nlnote">Recibe lo mejor del radar en tu correo.</p>
-      </form>
+      <h4>Alertas</h4>
+      <p class="nlnote">Aún no tenemos boletín por correo. Las alertas llegan en tiempo real por nuestro canal de Telegram.</p>
+      <a class="tgfoot" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al Telegram</a>
     </div>
   </div>
   <div class="legal">
@@ -442,7 +433,6 @@ const STORES = [
 ];
 const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel'];
 const PAGE_N = 12;
-const TAGS = ['Popular','Bajó hoy','Muy buscado'];
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx'];
 function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}
 const $ = id => document.getElementById(id);
@@ -464,32 +454,17 @@ function ensureFull(keys){
   }));
 }
 
-// sparkline decorativo determinista (aún no hay histórico real de precios)
+// PRNG determinista: solo posiciona los blips decorativos del radar
 function hashSeed(s){ let h=2166136261; s=String(s); for(let i=0;i<s.length;i++){ h^=s.charCodeAt(i); h=Math.imul(h,16777619); } return ()=>{ h=Math.imul(h^h>>>15,2246822507); h=Math.imul(h^h>>>13,3266489909); return ((h^=h>>>16)>>>0)/4294967296; }; }
-function sparkSvg(id){
-  const rnd = hashSeed(id||'x'); const pts=[]; let y = 6 + rnd()*6;
-  for(let x=0; x<=7; x++){ pts.push([x*(100/7), Math.max(3,Math.min(23,y))]); y += (rnd()-0.38)*7; }
-  const line = pts.map(p=>p[0].toFixed(1)+','+p[1].toFixed(1)).join(' ');
-  const last = pts[pts.length-1];
-  const svgNS='http://www.w3.org/2000/svg';
-  const svg=document.createElementNS(svgNS,'svg'); svg.setAttribute('viewBox','0 0 100 26'); svg.setAttribute('preserveAspectRatio','none'); svg.setAttribute('aria-hidden','true');
-  const pl=document.createElementNS(svgNS,'polyline'); pl.setAttribute('points',line); pl.setAttribute('fill','none'); pl.setAttribute('stroke','#17c964'); pl.setAttribute('stroke-width','1.6'); pl.setAttribute('opacity','.75');
-  const c=document.createElementNS(svgNS,'circle'); c.setAttribute('cx',last[0].toFixed(1)); c.setAttribute('cy',last[1].toFixed(1)); c.setAttribute('r','2'); c.setAttribute('fill','#17c964');
-  svg.append(pl,c); return svg;
-}
-function tagFor(d,i){ return (d.pct>=50) ? 'Quedan pocas' : TAGS[i%TAGS.length]; }
 
 function makeCard(d, i){
   const store = STORES.find(s=>s.key===d._store) || {};
   const card=document.createElement('a'); card.className='card'; card.href=safeUrl(d.url)||'/'; card.target='_blank'; card.rel='noopener nofollow';
   card.setAttribute('aria-label','Ver oferta de '+(d.name||'producto')+' en '+(store.name||'')+' (abre en nueva pestaña)');
   const ib=document.createElement('div'); ib.className='imgbox';
-  const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
+  const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>{ib.classList.remove('ld');im.remove();}); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('span'); bp.className='bpct'; bp.textContent='-'+Math.round(d.pct||0)+'%';
-  const bt=document.createElement('span'); bt.className='btag'; bt.textContent=tagFor(d,i);
-  const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('aria-label','Guardar en favoritos');
-  hh.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();hh.classList.toggle('onh');});
-  card.append(ib,bp,bt,hh);
+  card.append(ib,bp);
   const body=document.createElement('div'); body.className='cbody';
   const nm=document.createElement('div'); nm.className='nm'; nm.textContent=d.name;
   const cat=document.createElement('div'); cat.className='catl'; cat.textContent=d.category||'';
@@ -501,9 +476,7 @@ function makeCard(d, i){
   const po=document.createElement('span'); po.className='pold'; po.textContent=money(d.price_old);
   pr.append(pn,po);
   const sv=document.createElement('div'); sv.className='save'; sv.textContent='Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)';
-  const sw=document.createElement('div'); sw.className='sparkw'; sw.appendChild(sparkSvg(d.id));
-  const sl=document.createElement('div'); sl.className='sparkl'; sl.innerHTML='<span>Historial de precio</span><span>7 días</span>'; sw.appendChild(sl);
-  body.append(nm,cat,st,pr,sv,sw); card.appendChild(body);
+  body.append(nm,cat,st,pr,sv); card.appendChild(body);
   return card;
 }
 
@@ -626,7 +599,6 @@ $('q').addEventListener('input',e=>{ Q=e.target.value.trim().toLowerCase(); SHOW
 $('sort').addEventListener('change',e=>{ SORT=e.target.value; SHOWN=PAGE_N; render(); });
 $('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); ensureFull(FILTER==='all'?ALLKEYS:[FILTER]).then(render); });
 $('trendbtn').addEventListener('click',()=>{ SORT='pct'; $('sort').value='pct'; SHOWN=PAGE_N; render(); document.getElementById('destacadas').scrollIntoView({behavior:'smooth'}); });
-$('nlform').addEventListener('submit',e=>{ e.preventDefault(); $('nlnote').innerHTML='¡Gracias! El boletín está en preparación; mientras tanto, las alertas llegan primero por <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener" style="color:var(--green-dk);font-weight:800">Telegram</a>.'; $('nlmail').value=''; });
 </script>
 </body>
 </html>

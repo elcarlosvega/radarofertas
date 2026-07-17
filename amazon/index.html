@@ -86,11 +86,8 @@ h1 em{color:var(--sac);font-style:normal}
 .catl{font-size:.68rem;color:var(--mut)}
 .pr{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-top:2px}
 .pn{font-weight:900;font-size:1.28rem;letter-spacing:-.02em}
-.po{color:#a3adb8;text-decoration:line-through;font-size:.82rem}
+.po{color:#a3adb8;font-size:.72rem}
 .sv{color:var(--green-dk);font-weight:800;font-size:.76rem}
-.sparkw{margin-top:auto;padding-top:9px;border-top:1px dashed #edf0f3}
-.sparkw svg{display:block;width:100%;height:26px}
-.sparkl{display:flex;justify-content:space-between;font-size:.6rem;color:#a3adb8;margin-top:3px}
 .go{display:block;text-align:center;background:var(--dark);color:#fff;font-weight:800;font-size:.8rem;padding:10px;border-radius:10px;margin-top:9px}
 .empty{max-width:1200px;margin:0 auto;padding:40px 20px;text-align:center;color:var(--mut)}
 .sk{background:#fff;border:1px solid var(--line);border-radius:16px;height:340px;position:relative;overflow:hidden}
@@ -106,6 +103,7 @@ footer a{color:var(--green-dk);font-weight:700}
   .grid{grid-template-columns:repeat(2,1fr);gap:10px}
   .cb{padding:10px 11px 12px}.pn{font-size:1.08rem}
 }
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
@@ -126,6 +124,7 @@ footer a{color:var(--green-dk);font-weight:700}
     </a>
     <div class="tabs" id="tabs">
       <a class="tab" href="/">Inicio</a>
+      <a class="tab" href="/vuelos/">✈ Vuelos</a>
       <a class="tab" href="/palacio/">Palacio</a>
       <a class="tab" href="/amazon/">Amazon</a>
       <a class="tab" href="/costco/">Costco</a>
@@ -159,11 +158,11 @@ footer a{color:var(--green-dk);font-weight:700}
     </div>
   </div>
 </div>
-<div class="cnt" id="cnt"></div>
+<div class="cnt" id="cnt" aria-live="polite"></div>
 <div class="grid" id="grid"><!--G1--><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><!--G2--></div>
 <div class="empty" id="empty" style="display:none"></div>
 <footer>
-  Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
+  Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. El «precio anterior» mostrado en esta página es el promedio de los últimos 90 días (datos de Keepa), no necesariamente el precio tachado que muestra Amazon. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
   <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.<br>
   <a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a>
 </footer>
@@ -174,27 +173,16 @@ var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){re
 var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
 var score=function(d){return (d.pct||0)*Math.log10(10+(d.amount||0));};
 var ALL=[],q='',sort='score';
-// sparkline decorativo determinista (aún no hay histórico real)
-function sparkSvg(id){
-  var h=2166136261,s=String(id||'x'),i;
-  for(i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}
-  var rnd=function(){h=Math.imul(h^h>>>15,2246822507);h=Math.imul(h^h>>>13,3266489909);return ((h^=h>>>16)>>>0)/4294967296;};
-  var y=6+rnd()*6,pts=[],x;
-  for(x=0;x<=7;x++){pts.push((x*(100/7)).toFixed(1)+','+Math.max(3,Math.min(23,y)).toFixed(1));y+=(rnd()-0.38)*7;}
-  var last=pts[pts.length-1].split(',');
-  return '<svg viewBox="0 0 100 26" preserveAspectRatio="none" aria-hidden="true"><polyline points="'+pts.join(' ')+'" fill="none" stroke="#17c964" stroke-width="1.6" opacity=".75"/><circle cx="'+last[0]+'" cy="'+last[1]+'" r="2" fill="#17c964"/></svg>';
-}
 function cardHtml(d){
   return '<a class="card" href="'+esc(safeUrl(d.url)||'/')+'" target="_blank" rel="noopener nofollow">'+
-    '<span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+
+    '<span class="bpct" title="vs promedio de 90 días">-'+Math.round(d.pct||0)+'%</span>'+
     '<span class="schip">AMAZON</span>'+
-    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
+    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" onerror="this.remove()" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
     '<div class="cb">'+
     '<div class="nm">'+esc(d.name)+'</div>'+
     '<div class="catl">'+esc(d.category)+'</div>'+
     '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
-    '<div class="sv">Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)</div>'+
-    '<div class="sparkw">'+sparkSvg(d.id)+'<div class="sparkl"><span>Historial de precio</span><span>7 días</span></div></div>'+
+    '<div class="sv">'+Math.round(d.pct||0)+'% por debajo del promedio de 90 días</div>'+
     '<span class="go">Ver oferta →</span></div></a>';
 }
 function render(){

@@ -1,6 +1,6 @@
 {
- "generated_at": 1784321173.1767087,
- "generated_at_str": "17/07/2026 14:46",
+ "generated_at": 1784322783.9812887,
+ "generated_at_str": "17/07/2026 15:13",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2539,7 +2539,7 @@
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784321173.1767087
+   "first_seen": 1784321179.3505273
   },
   {
    "id": "703474",
@@ -4687,21 +4687,6 @@
    "first_seen": 1784131775.625776
   },
   {
-   "id": "545326",
-   "name": "Cat Chow Alimento Húmedo para Gatos Sabor Pescado 24 pzas 85 g",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Mascotas/Cat-Chow-Alimento-Humedo-para-Gatos-Sabor-Pescado-24-pzas-85-g/p/545326",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h84/488144960880670.jpg",
-   "category": "Grocery",
-   "price_old": 299.0,
-   "price_new": 219.0,
-   "pct": 26.8,
-   "amount": 80.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
-  },
-  {
    "id": "697372",
    "name": "Logar Bolsas para Desecho de Mascota 20 Rollos de 15 Bolsas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Mascotas/Logar-Bolsas-para-Desecho-de-Mascota-20-Rollos-de-15-Bolsas/p/697372",
@@ -4722,6 +4707,21 @@
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Ballantines-700ml/p/548075",
    "img": "https://www.costco.com.mx/medias/sys_master/products/haa/h37/120702832377886.jpg",
    "category": "Licores y Gourmet",
+   "price_old": 299.0,
+   "price_new": 219.0,
+   "pct": 26.8,
+   "amount": 80.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
+  },
+  {
+   "id": "545326",
+   "name": "Cat Chow Alimento Húmedo para Gatos Sabor Pescado 24 pzas 85 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Mascotas/Cat-Chow-Alimento-Humedo-para-Gatos-Sabor-Pescado-24-pzas-85-g/p/545326",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h84/488144960880670.jpg",
+   "category": "Grocery",
    "price_old": 299.0,
    "price_new": 219.0,
    "pct": 26.8,
@@ -10105,7 +10105,7 @@
    "id": "2189436",
    "name": "Clorox Toallas Desinfectantes 5 pzas con 85 Toallitas cada una",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Productos-de-Limpieza/Limpieza/Clorox-Toallas-Desinfectantes-5-pzas-con-85-Toallitas-cada-una/p/2189436",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/hb0/487794659524638.jpg",
+   "img": "",
    "category": "Hogar y Bano",
    "price_old": 489.0,
    "price_new": 366.75,
@@ -12530,21 +12530,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783951816.7088192
-  },
-  {
-   "id": "702845",
-   "name": "Samsung Pantalla 75\" Miniled 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-75-Miniled-4K-Smart-TV/p/702845",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h14/452879656189982.jpg",
-   "category": "Electronicos",
-   "price_old": 19999.0,
-   "price_new": 15999.0,
-   "pct": 20.0,
-   "amount": 4000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
   },
   {
    "id": "669633",

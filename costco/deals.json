@@ -1,6 +1,6 @@
 {
- "generated_at": 1784301045.270306,
- "generated_at_str": "17/07/2026 09:10",
+ "generated_at": 1784304727.1623325,
+ "generated_at_str": "17/07/2026 10:12",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -64,7 +64,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "695045",
@@ -739,7 +739,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "694538",
@@ -3841,10 +3841,10 @@
    "price_new": 299.0,
    "pct": 28.6,
    "amount": 120.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "starts": "2026-07-17T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784304727.1623325
   },
   {
    "id": "686478",
@@ -4486,10 +4486,10 @@
    "price_new": 799.0,
    "pct": 27.3,
    "amount": 300.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "starts": "2026-07-17T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784304727.1623325
   },
   {
    "id": "671565",
@@ -4580,6 +4580,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784041770.2267919
+  },
+  {
+   "id": "616760",
+   "name": "Vino Tinto Pago de Carraovejas El Añejón 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Pago-de-Carraovejas-El-Anejon-750ml/p/616760",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1f/hbc/365921129889822.jpg",
+   "category": "Vinos",
+   "price_old": 3699.0,
+   "price_new": 2699.0,
+   "pct": 27.0,
+   "amount": 1000.0,
+   "starts": "2026-07-17T06:00:00.000Z",
+   "ends": "2026-07-23T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784304727.1623325
   },
   {
    "id": "695261",
@@ -5041,10 +5056,10 @@
    "price_new": 389.0,
    "pct": 26.5,
    "amount": 140.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
+   "starts": "2026-07-17T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783955396.1879866
+   "first_seen": 1784304727.1623325
   },
   {
    "id": "693621",
@@ -10069,7 +10084,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "527517",
@@ -10415,6 +10430,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "658648",
+   "name": "Gamesa Surtido de Galletas Peke Pakes 40 pzas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Galletas-y-Cereales/Gamesa-Surtido-de-Galletas-Peke-Pakes-40-pzas/p/658648",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc5/h5c/364742501892126.jpg",
+   "category": "Grocery",
+   "price_old": 239.0,
+   "price_new": 179.25,
+   "pct": 25.0,
+   "amount": 59.75,
+   "starts": "2026-07-09T06:00:00.000Z",
+   "ends": "2026-07-18T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784304727.1623325
   },
   {
    "id": "678200",
@@ -12559,7 +12589,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "669628",
@@ -13201,10 +13231,10 @@
    "price_new": 7299.0,
    "pct": 18.9,
    "amount": 1700.0,
-   "starts": "2026-07-09T06:00:00.000Z",
-   "ends": "2026-07-18T05:59:59.999Z",
+   "starts": "2026-07-17T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784012949.184262
+   "first_seen": 1783955396.1879866
   },
   {
    "id": "743629",
@@ -15394,7 +15424,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "2042631",
@@ -16084,7 +16114,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "5948706",
@@ -16234,7 +16264,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "2025128",
@@ -16399,7 +16429,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "690467",
@@ -16642,6 +16672,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "679547",
+   "name": "Muebles Liz, Harvey, Sofá Color Café",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Muebles-Liz-Harvey-Sofa-Color-Cafe/p/679547",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1c/hf8/205621448343582.jpg",
+   "category": "Muebles",
+   "price_old": 18999.0,
+   "price_new": 16999.0,
+   "pct": 10.5,
+   "amount": 2000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041770.2267919
+  },
+  {
    "id": "692066",
    "name": "Apple iMac 24\" 256GB 4.5K Chip M4 Azul CPU de 10 Núcleos GPU de 10 Núcleos Memoria Unificada de 16GB.",
    "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-iMac-24-256GB-45K-Chip-M4-Azul-CPU-de-10-Nucleos-GPU-de-10-Nucleos-Memoria-Unificada-de-16GB/p/692066",
@@ -16759,7 +16804,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "1414578",
@@ -17002,6 +17047,21 @@
    "first_seen": 1784041770.2267919
   },
   {
+   "id": "679546",
+   "name": "Muebles Liz, Harvey, Love seat Color Café",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Muebles-Liz-Harvey-Love-seat-Color-Cafe/p/679546",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h76/205621448474654.jpg",
+   "category": "Muebles",
+   "price_old": 15999.0,
+   "price_new": 14399.0,
+   "pct": 10.0,
+   "amount": 1600.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784041770.2267919
+  },
+  {
    "id": "702762",
    "name": "Muebles Liz, Volpi, Sillón Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Muebles-Liz-Volpi-Sillon-Reclinable/p/702762",
@@ -17164,7 +17224,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "703840",
@@ -17194,7 +17254,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "1994225",
@@ -17209,7 +17269,7 @@
    "starts": "2026-07-17T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784301045.270306
+   "first_seen": 1784301051.875811
   },
   {
    "id": "693516",

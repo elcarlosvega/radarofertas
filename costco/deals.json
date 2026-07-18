@@ -1,6 +1,6 @@
 {
- "generated_at": 1784347869.9017134,
- "generated_at_str": "17/07/2026 22:11",
+ "generated_at": 1784351973.339,
+ "generated_at_str": "17/07/2026 23:19",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -5735,6 +5735,21 @@
    "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784012949.184262
+  },
+  {
+   "id": "1713593",
+   "name": "Sunvilla, Nichols Set Bistro de 3 Piezas para exterior",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Sunvilla-Nichols-Set-Bistro-de-3-Piezas-para-exterior/p/1713593",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb4/hef/292829270769694.jpg",
+   "category": "Muebles",
+   "price_old": 15999.0,
+   "price_new": 11999.0,
+   "pct": 25.0,
+   "amount": 4000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
   },
   {
    "id": "702134",
@@ -12742,21 +12757,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "683209",
-   "name": "Carrier, Aire Acondicionado Minisplit, Enfriamiento y Calefacción, 12,000 BTU, 110V, Gas R32, con Wi-Fi",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Enfriamiento-y-Calefaccion-12000-BTU-110V-Gas-R32-con-Wi-Fi/p/683209",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h66/222290703122462.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 10999.0,
-   "price_new": 8799.0,
-   "pct": 20.0,
-   "amount": 2200.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
    "id": "683654",
    "name": "América, Whistler, Colchón King Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Whistler-Colchon-King-Size/p/683654",
@@ -15061,21 +15061,6 @@
    "price_new": 23799.0,
    "pct": 15.0,
    "amount": 4200.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "704304",
-   "name": "Bobkona, Eva, Sofá Cama Seccional Reversible",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Bobkona-Eva-Sofa-Cama-Seccional-Reversible/p/704304",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/h7c/435741550903326.jpg",
-   "category": "Muebles",
-   "price_old": 23999.0,
-   "price_new": 20399.0,
-   "pct": 15.0,
-   "amount": 3600.0,
    "starts": "2026-07-13T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,

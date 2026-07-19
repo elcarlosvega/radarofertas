@@ -1,6 +1,6 @@
 {
- "generated_at": 1784418396.7998912,
- "generated_at_str": "18/07/2026 17:46",
+ "generated_at": 1784420942.959486,
+ "generated_at_str": "18/07/2026 18:29",
  "origins": [
   "MEX",
   "GDL",
@@ -28,7 +28,7 @@
    "title": "Flight deals from Mexico City to Guadalajara"
   },
   {
-   "id": "6f487b90d9502387c06198f45e9639a6",
+   "id": "4d35c348c7d9f9f36a97e18208257d3d",
    "kind": "flight",
    "origin": "GDL",
    "origin_name": "Guadalajara",
@@ -37,12 +37,12 @@
    "airline": "AM",
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/200/200/AM.png",
-   "price": 9618.0,
+   "price": 9802.0,
    "currency": "MXN",
-   "departure_at": "2026-08-20T05:46:00-05:00",
+   "departure_at": "2026-08-19T05:46:00-05:00",
    "return_at": "",
    "duration": 759,
-   "link": "https://www.aviasales.com/search/GDL2008BUE1?t=AM17872047601787261100000759GDLMEXEZE_6f487b90d9502387c06198f45e9639a6_43015&search_date=17072026&expected_price_uuid=019f7020-a06a-8040-666b-d1529262e9af&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=6oDAEDyfKXgUxE4m5rOqdA&expected_price_source=share&expected_price_currency=mxn&expected_price=9618",
+   "link": "https://www.aviasales.com/search/GDL1908BUE1?t=AM17871183601787174700000759GDLMEXEZE_4d35c348c7d9f9f36a97e18208257d3d_43657&search_date=18072026&expected_price_uuid=019f769e-dad2-8040-29a1-b8d930d5d348&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=6oDAEDyfKXgUxE4m5rOqdA&expected_price_source=share&expected_price_currency=mxn&expected_price=9802",
    "title": "Flight deals from Guadalajara to Buenos Aires"
   },
   {

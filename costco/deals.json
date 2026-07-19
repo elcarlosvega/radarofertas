@@ -1,6 +1,6 @@
 {
- "generated_at": 1784423386.5777357,
- "generated_at_str": "18/07/2026 19:09",
+ "generated_at": 1784427979.6984372,
+ "generated_at_str": "18/07/2026 20:26",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -832,21 +832,6 @@
    "first_seen": 1783606912.8708422
   },
   {
-   "id": "702820",
-   "name": "Samsung Galaxy S26+ 512GB Azul Cielo",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-512GB-Azul-Cielo/p/702820",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/h37/453817281282078.jpg",
-   "category": "Electronicos",
-   "price_old": 27999.0,
-   "price_new": 19399.0,
-   "pct": 30.7,
-   "amount": 8600.0,
-   "starts": "2026-07-08T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783606912.8708422
-  },
-  {
    "id": "684903",
    "name": "Hisense Refrigerador French Door 22'",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-French-Door-22/p/684903",
@@ -920,6 +905,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "703976",
+   "name": "Hisense Pantalla 75\" Hi-QLED 4K Canvas Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Hi-QLED-4K-Canvas-Google-TV/p/703976",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h53/hb9/488166391676958.jpg",
+   "category": "Electronicos",
+   "price_old": 35999.0,
+   "price_new": 24999.0,
+   "pct": 30.6,
+   "amount": 11000.0,
+   "starts": "2026-07-18T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784385746.112762
   },
   {
    "id": "695137",
@@ -2030,21 +2030,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "701050",
-   "name": "Dove Desodorante Vitamin Care Pepino y Melon 3 pzas de 74 g",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Belleza-y-Cuidado-Personal/Dove-Desodorante-Vitamin-Care-Pepino-y-Melon-3-pzas-de-74-g/p/701050",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/h20/434355340247070.jpg",
-   "category": "Grocery",
-   "price_old": 369.0,
-   "price_new": 258.3,
-   "pct": 30.0,
-   "amount": 110.7,
-   "starts": "2026-07-16T06:00:00.000Z",
-   "ends": "2026-07-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784225381.0017505
   },
   {
    "id": "651330",
@@ -3305,21 +3290,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784297573.721548
-  },
-  {
-   "id": "675849",
-   "name": "Quaker State Anticongelante 5 Litros",
-   "url": "https://www.costco.com.mx/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Accesorios-para-Automovil/Quaker-State-Anticongelante-5-Litros/p/675849",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h62/171431184826398.jpg",
-   "category": "Ferreteria Llantas y Automotriz",
-   "price_old": 279.0,
-   "price_new": 199.0,
-   "pct": 28.7,
-   "amount": 80.0,
-   "starts": "2026-07-10T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783696784.84036
   },
   {
    "id": "678651",
@@ -8111,21 +8081,6 @@
    "name": "Coach 0HC5147 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC5147-Armazon-Oftalmico/p/704749",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h03/h0e/471761568137246.jpg",
-   "category": "Optica",
-   "price_old": 3299.0,
-   "price_new": 2474.25,
-   "pct": 25.0,
-   "amount": 824.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "700711",
-   "name": "Coach 0HC6256U Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC6256U-Armazon-Oftalmico/p/700711",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h23/h42/416168457437214.jpg",
    "category": "Optica",
    "price_old": 3299.0,
    "price_new": 2474.25,
@@ -14032,6 +13987,21 @@
    "first_seen": 1784124625.517578
   },
   {
+   "id": "702847",
+   "name": "Samsung Pantalla 55\" NEO QLED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-NEO-QLED-4K-Smart-TV/p/702847",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h6b/452879660253214.jpg",
+   "category": "Electronicos",
+   "price_old": 19999.0,
+   "price_new": 16499.0,
+   "pct": 17.5,
+   "amount": 3500.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
    "id": "675254",
    "name": "Whirlpool Horno eléctrico 60cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Whirlpool-Horno-electrico-60cm/p/675254",
@@ -14600,21 +14570,6 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "702844",
-   "name": "Samsung Pantalla 85\" Miniled 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-Miniled-4K-Smart-TV/p/702844",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/h41/452879651864606.jpg",
-   "category": "Electronicos",
-   "price_old": 25499.0,
-   "price_new": 21499.0,
-   "pct": 15.7,
-   "amount": 4000.0,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784214642.648324
   },
   {
    "id": "693810",

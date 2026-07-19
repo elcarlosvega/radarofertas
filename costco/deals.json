@@ -1,6 +1,6 @@
 {
- "generated_at": 1784427979.6984372,
- "generated_at_str": "18/07/2026 20:26",
+ "generated_at": 1784432554.8325872,
+ "generated_at_str": "18/07/2026 21:42",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -821,6 +821,21 @@
    "name": "Samsung Galaxy S26+ 512GB Violeta",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-512GB-Violeta/p/702818",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h5e/h44/453817277349918.jpg",
+   "category": "Electronicos",
+   "price_old": 27999.0,
+   "price_new": 19399.0,
+   "pct": 30.7,
+   "amount": 8600.0,
+   "starts": "2026-07-08T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783606912.8708422
+  },
+  {
+   "id": "702820",
+   "name": "Samsung Galaxy S26+ 512GB Azul Cielo",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-512GB-Azul-Cielo/p/702820",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/h37/453817281282078.jpg",
    "category": "Electronicos",
    "price_old": 27999.0,
    "price_new": 19399.0,
@@ -2030,6 +2045,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "701050",
+   "name": "Dove Desodorante Vitamin Care Pepino y Melon 3 pzas de 74 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Belleza-y-Cuidado-Personal/Dove-Desodorante-Vitamin-Care-Pepino-y-Melon-3-pzas-de-74-g/p/701050",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/h20/434355340247070.jpg",
+   "category": "Grocery",
+   "price_old": 369.0,
+   "price_new": 258.3,
+   "pct": 30.0,
+   "amount": 110.7,
+   "starts": "2026-07-16T06:00:00.000Z",
+   "ends": "2026-07-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784225381.0017505
   },
   {
    "id": "651330",
@@ -14570,6 +14600,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "702844",
+   "name": "Samsung Pantalla 85\" Miniled 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-Miniled-4K-Smart-TV/p/702844",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/h41/452879651864606.jpg",
+   "category": "Electronicos",
+   "price_old": 25499.0,
+   "price_new": 21499.0,
+   "pct": 15.7,
+   "amount": 4000.0,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784214642.648324
   },
   {
    "id": "693810",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1784643671.2985911,
- "generated_at_str": "21/07/2026 08:21",
+ "generated_at": 1784646545.976389,
+ "generated_at_str": "21/07/2026 09:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -94,7 +94,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "1802528",
@@ -154,7 +154,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "696246",
@@ -307,6 +307,21 @@
    "first_seen": 1784041770.2267919
   },
   {
+   "id": "542025",
+   "name": "Whisky Buchanan's Deluxe 12 años Blended Scotch 1 L",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Buchanans-Deluxe-12-anos-Blended-Scotch-1-L/p/542025",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/hc1/277018918748190.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 1299.0,
+   "price_new": 899.0,
+   "pct": 30.8,
+   "amount": 400.0,
+   "starts": "2026-07-21T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784646545.976389
+  },
+  {
    "id": "691187",
    "name": "Sony Audífonos TWS WF C510 Blanco",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Sony-Audifonos-TWS-WF-C510-Blanco/p/691187",
@@ -395,6 +410,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "542026",
+   "name": "Whisky Johnnie Walker Black Label Blended Scotch 1L",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Johnnie-Walker-Black-Label-Blended-Scotch-1L/p/542026",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbb/h69/277018918584350.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 1499.0,
+   "price_new": 1039.0,
+   "pct": 30.7,
+   "amount": 460.0,
+   "starts": "2026-07-21T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784646545.976389
   },
   {
    "id": "1326889",
@@ -589,7 +619,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "702817",
@@ -3139,7 +3169,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "697932",
@@ -3412,6 +3442,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "702768",
+   "name": "TCL Pantalla 75\" QLED 4K NXTVISION Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-75-QLED-4K-NXTVISION-Google-TV/p/702768",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hf6/449171626393630.jpg",
+   "category": "Electronicos",
+   "price_old": 25999.0,
+   "price_new": 18599.0,
+   "pct": 28.5,
+   "amount": 7400.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-22T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784646545.976389
+  },
+  {
    "id": "686478",
    "name": "GE Lavadora Top Load 22Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-Top-Load-22Kg/p/686478",
@@ -3484,7 +3529,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "688896",
@@ -3754,7 +3799,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "1806253",
@@ -3768,21 +3813,6 @@
    "amount": 220.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "702768",
-   "name": "TCL Pantalla 75\" QLED 4K NXTVISION Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-75-QLED-4K-NXTVISION-Google-TV/p/702768",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hf6/449171626393630.jpg",
-   "category": "Electronicos",
-   "price_old": 26999.0,
-   "price_new": 19599.0,
-   "pct": 27.4,
-   "amount": 7400.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
   },
@@ -4579,7 +4609,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "587592",
@@ -5127,21 +5157,6 @@
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-Laptop-14-Full-HD-Intel-Core-i5-16GB-512GB-SSD/p/692326",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h39/h4e/466278208864286.jpg",
    "category": "Computadoras y Tablets",
-   "price_old": 13999.0,
-   "price_new": 10499.0,
-   "pct": 25.0,
-   "amount": 3500.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "689123",
-   "name": "Sealy, Hybrid, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Hybrid-Colchon-Queen-Size/p/689123",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/had/245743110029342.jpg",
-   "category": "c",
    "price_old": 13999.0,
    "price_new": 10499.0,
    "pct": 25.0,
@@ -8992,21 +9007,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "689479",
-   "name": "Generac, Generador Inversor iQ3500",
-   "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/Generac-Generador-Inversor-iQ3500/p/689479",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf4/h31/344699904786462.jpg",
-   "category": "Hogar y Bano",
-   "price_old": 19999.0,
-   "price_new": 15999.0,
-   "pct": 20.0,
-   "amount": 4000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
    "id": "687739",
    "name": "Hisense Refrigerador Comercial 9'",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
@@ -9322,6 +9322,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "688741",
+   "name": "Samsung Galaxy Watch Ultra 47mm Blanco Titanio",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-47mm-Blanco-Titanio/p/688741",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf1/he4/279006709579806.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-07-21T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784646545.976389
+  },
+  {
    "id": "521814",
    "name": "Sealy, Denver, Colchón Individual",
    "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-Individual/p/521814",
@@ -9574,7 +9589,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "649824",
@@ -9754,7 +9769,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "674008",
@@ -10459,7 +10474,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "669995",
@@ -11869,7 +11884,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "701805",
@@ -12769,7 +12784,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "702843",
@@ -12829,7 +12844,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784643671.2985911
+   "first_seen": 1784643678.1808355
   },
   {
    "id": "693640",

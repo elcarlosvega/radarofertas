@@ -1,6 +1,6 @@
 {
- "generated_at": 1784621327.2459893,
- "generated_at_str": "21/07/2026 02:08",
+ "generated_at": 1784624965.5686128,
+ "generated_at_str": "21/07/2026 03:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4237,6 +4237,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "703077",
+   "name": "Orlane Paris Set de 5 pzas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Orlane-Paris-Set-de-5-pzas/p/703077",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc3/he9/457143062200350.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1499.0,
+   "price_new": 1099.0,
+   "pct": 26.7,
+   "amount": 400.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "670697",
    "name": "IPET, Cama para Mascota",
    "url": "https://www.costco.com.mx/Mascotas/Perros/Camas-para-Perro/IPET-Cama-para-Mascota/p/670697",
@@ -4805,21 +4820,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "542025",
-   "name": "Whisky Buchanan's Deluxe 12 años Blended Scotch 1 L",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Buchanans-Deluxe-12-anos-Blended-Scotch-1-L/p/542025",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/hc1/277018918748190.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 1299.0,
-   "price_new": 969.0,
-   "pct": 25.4,
-   "amount": 330.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783962567.55354
   },
   {
    "id": "697357",
@@ -11507,6 +11507,21 @@
    "pct": 13.8,
    "amount": 4000.0,
    "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "659788",
+   "name": "Teka Estufa de gas empotrable con 6 quemadores 76cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Estufa-de-gas-empotrable-con-6-quemadores-76cm/p/659788",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/hb2/364629072576542.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 14499.0,
+   "price_new": 12499.0,
+   "pct": 13.8,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572

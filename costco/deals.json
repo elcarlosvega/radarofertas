@@ -1,6 +1,6 @@
 {
- "generated_at": 1784646545.976389,
- "generated_at_str": "21/07/2026 09:09",
+ "generated_at": 1784650256.599225,
+ "generated_at_str": "21/07/2026 10:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -319,7 +319,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784646545.976389
+   "first_seen": 1784646553.0527506
   },
   {
    "id": "691187",
@@ -424,7 +424,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784646545.976389
+   "first_seen": 1784646553.0527506
   },
   {
    "id": "1326889",
@@ -3454,7 +3454,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784646545.976389
+   "first_seen": 1784646553.0527506
   },
   {
    "id": "686478",
@@ -5157,6 +5157,21 @@
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-Laptop-14-Full-HD-Intel-Core-i5-16GB-512GB-SSD/p/692326",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h39/h4e/466278208864286.jpg",
    "category": "Computadoras y Tablets",
+   "price_old": 13999.0,
+   "price_new": 10499.0,
+   "pct": 25.0,
+   "amount": 3500.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "689123",
+   "name": "Sealy, Hybrid, Colchón Queen Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Hybrid-Colchon-Queen-Size/p/689123",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/had/245743110029342.jpg",
+   "category": "c",
    "price_old": 13999.0,
    "price_new": 10499.0,
    "pct": 25.0,
@@ -9007,6 +9022,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "689479",
+   "name": "Generac, Generador Inversor iQ3500",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/Generac-Generador-Inversor-iQ3500/p/689479",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf4/h31/344699904786462.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "687739",
    "name": "Hisense Refrigerador Comercial 9'",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
@@ -9334,7 +9364,7 @@
    "starts": "2026-07-21T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784646545.976389
+   "first_seen": 1784646553.0527506
   },
   {
    "id": "521814",
@@ -10672,6 +10702,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "702772",
+   "name": "TCL Pantalla 98\" Miniled 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/TCL-Pantalla-98-Miniled-4K-Fire-TV/p/702772",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h58/hfa/449171634585630.jpg",
+   "category": "Electronicos",
+   "price_old": 42999.0,
+   "price_new": 35999.0,
+   "pct": 16.3,
+   "amount": 7000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-22T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784650256.599225
+  },
+  {
    "id": "696531",
    "name": "Vento Motocicleta Screamer 300cc Gris",
    "url": "https://www.costco.com.mx/Deportes/Motociclismo/Motocicletas/Vento-Motocicleta-Screamer-300cc-Gris/p/696531",
@@ -10685,21 +10730,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "521191",
-   "name": "Sealy, Monteleone, Colchón y Box Queen Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Monteleone-Colchon-y-Box-Queen-Size/p/521191",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8e/h36/346414582136862.jpg",
-   "category": "c",
-   "price_old": 36999.0,
-   "price_new": 30999.0,
-   "pct": 16.2,
-   "amount": 6000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
   },
   {
    "id": "697969",
@@ -10758,21 +10788,6 @@
    "amount": 3200.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "702772",
-   "name": "TCL Pantalla 98\" Miniled 4K Fire TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/TCL-Pantalla-98-Miniled-4K-Fire-TV/p/702772",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h58/hfa/449171634585630.jpg",
-   "category": "Electronicos",
-   "price_old": 43999.0,
-   "price_new": 36999.0,
-   "pct": 15.9,
-   "amount": 7000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-22T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
   },

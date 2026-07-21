@@ -1,6 +1,6 @@
 {
- "generated_at": 1784600726.6459455,
- "generated_at_str": "20/07/2026 20:25",
+ "generated_at": 1784603357.5717916,
+ "generated_at_str": "20/07/2026 21:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1156,21 +1156,6 @@
    "price_new": 986.31,
    "pct": 30.0,
    "amount": 422.69,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "628377",
-   "name": "Slender-Duet 90 cápsulas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Control-de-Peso/Slender-Duet-90-capsulas/p/628377",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h25/h7a/15500291244062.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1189.0,
-   "price_new": 832.3,
-   "pct": 30.0,
-   "amount": 356.7,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
@@ -8327,6 +8312,21 @@
    "pct": 21.6,
    "amount": 8000.0,
    "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694896",
+   "name": "Wine Enthusiast Cava de Vinos 145 Botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-145-Botellas/p/694896",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/hb5/421059779559454.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 36999.0,
+   "price_new": 28999.0,
+   "pct": 21.6,
+   "amount": 8000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572

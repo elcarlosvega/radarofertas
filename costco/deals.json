@@ -1,6 +1,6 @@
 {
- "generated_at": 1784752130.2082257,
- "generated_at_str": "22/07/2026 14:28",
+ "generated_at": 1784756132.3389602,
+ "generated_at_str": "22/07/2026 15:35",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1283,8 +1283,8 @@
   },
   {
    "id": "1934164",
-   "name": "SunVilla, Sombrilla de 3.3 m Con Borde Color Azul",
-   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Sombrillas-para-Exterior/SunVilla-Sombrilla-de-33-m-Con-Borde-Color-Azul/p/1934164",
+   "name": "SunVilla, Sombrilla Redonda de 3.3m con Borde Color Azul",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Sombrillas-para-Exterior/SunVilla-Sombrilla-Redonda-de-33m-con-Borde-Color-Azul/p/1934164",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h45/h11/417216901021726.jpg",
    "category": "Patio y Jardin",
    "price_old": 4999.0,
@@ -1298,7 +1298,7 @@
   },
   {
    "id": "1713404",
-   "name": "SunVilla, Sombrilla Cabana Redonda de Rayas con Poste Recto de 3.3m, Color Rojo",
+   "name": "SunVilla, Sombrilla Cabana de 3.3m con Rayas Color Rojo",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Sombrillas-para-Exterior/SunVilla-Sombrilla-Cabana-Redonda-de-Rayas-con-Poste-Recto-de-33m-Color-Rojo/p/1713404",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h6a/hba/310702588755998.jpg",
    "category": "Patio y Jardin",
@@ -2947,21 +2947,6 @@
    "first_seen": 1783951816.7088192
   },
   {
-   "id": "686428",
-   "name": "Armaf Odyssey Tyrant 100 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Odyssey-Tyrant-100-ml/p/686428",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h63/245742995701790.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 599.0,
-   "price_new": 425.29,
-   "pct": 29.0,
-   "amount": 173.71,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783951816.7088192
-  },
-  {
    "id": "684601",
    "name": "Lattafa Yara Moi 100 Ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Lattafa-Yara-Moi-100-Ml/p/684601",
@@ -3410,21 +3395,6 @@
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784643678.1808355
-  },
-  {
-   "id": "697932",
-   "name": "Nintendo Switch 1.1 Bundle Super Mario Bros. Wonder Digital + 3 Meses de Nintendo Online",
-   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-11-Bundle-Super-Mario-Bros-Wonder-Digital-3-Meses-de-Nintendo-Online/p/697932",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h3b/402216009793566.jpg",
-   "category": "Electronicos",
-   "price_old": 6999.0,
-   "price_new": 4999.0,
-   "pct": 28.6,
-   "amount": 2000.0,
-   "starts": "2026-07-15T06:00:00.000Z",
-   "ends": "2026-07-29T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784124625.517578
   },
   {
    "id": "1768239",
@@ -3877,6 +3847,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "653960",
+   "name": "Nintendo Switch - Super Smash Bros Ultimate",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-Super-Smash-Bros-Ultimate/p/653960",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha1/hab/80272995155998.webp",
+   "category": "Electronicos",
+   "price_old": 1249.0,
+   "price_new": 899.0,
+   "pct": 28.0,
+   "amount": 350.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
+  },
+  {
    "id": "687893",
    "name": "Kohler, Monomando de Cocina, Modelo Bevin",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Griferia/Grifos/Kohler-Monomando-de-Cocina-Modelo-Bevin/p/687893",
@@ -4217,9 +4202,9 @@
    "pct": 27.3,
    "amount": 15000.0,
    "starts": "2026-07-11T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "ends": "2026-07-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783778939.4408414
+   "first_seen": 1784756132.3389602
   },
   {
    "id": "1902471",
@@ -5105,21 +5090,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "685988",
-   "name": "Apple Magic Keyboard para el iPad Pro de 13\" (M4) - Español (América Latina) Negro",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/Accesorios-Apple/Apple-Magic-Keyboard-para-el-iPad-Pro-de-13-M4-Espanol-America-Latina-Negro/p/685988",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0e/h72/245742968930334.jpg",
-   "category": "Electronicos",
-   "price_old": 7799.0,
-   "price_new": 5799.0,
-   "pct": 25.6,
-   "amount": 2000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
   },
   {
    "id": "682496",
@@ -6712,6 +6682,21 @@
    "first_seen": 1784131775.625776
   },
   {
+   "id": "695405",
+   "name": "Nintendo Switch 2 Donkey Kong Bananza",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Donkey-Kong-Bananza/p/695405",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/heb/h55/365057634992158.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 1199.0,
+   "pct": 25.0,
+   "amount": 400.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
+  },
+  {
    "id": "707213",
    "name": "Aeropostale VAE.L29YL.0SLV.56 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Aeropostale-VAEL29YL0SLV56-Armazon-Oftalmico/p/707213",
@@ -8137,21 +8122,6 @@
    "first_seen": 1784738333.5903654
   },
   {
-   "id": "684411",
-   "name": "Samsung Bespoke Centro de Lavado Blanco 22/24KG",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-Centro-de-Lavado-Blanco-2224KG/p/684411",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h4f/452706639675422.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 42999.0,
-   "price_new": 32999.0,
-   "pct": 23.3,
-   "amount": 10000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784653768.514672
-  },
-  {
    "id": "1807127",
    "name": "Sunvilla, Dark Forest Comedor Expandible para Exterior de 9 Piezas",
    "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/Sunvilla-Dark-Forest-Comedor-Expandible-para-Exterior-de-9-Piezas/p/1807127",
@@ -8165,6 +8135,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "684411",
+   "name": "Samsung Bespoke Centro de Lavado Blanco 22/24KG",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Bespoke-Centro-de-Lavado-Blanco-2224KG/p/684411",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h4f/452706639675422.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 42999.0,
+   "price_new": 32999.0,
+   "pct": 23.3,
+   "amount": 10000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784653768.514672
   },
   {
    "id": "1934246",
@@ -8360,6 +8345,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "654584",
+   "name": "Whirlpool Refrigerador 20' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-20-French-Door/p/654584",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h82/27087774253086.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 33999.0,
+   "price_new": 26199.0,
+   "pct": 22.9,
+   "amount": 7800.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
   },
   {
    "id": "692399",
@@ -9577,6 +9577,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "656087",
+   "name": "KitchenAid Campana de pared de 30\"",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/KitchenAid-Campana-de-pared-de-30/p/656087",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha7/h1a/139698696749086.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 39999.0,
+   "price_new": 31999.0,
+   "pct": 20.0,
+   "amount": 8000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
+  },
+  {
    "id": "668321",
    "name": "Maytag Lavadora 29Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-29Kg-Carga-Superior/p/668321",
@@ -9635,21 +9650,6 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "687739",
-   "name": "Hisense Refrigerador Comercial 9'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 19999.0,
-   "price_new": 15999.0,
-   "pct": 20.0,
-   "amount": 4000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "669633",
@@ -11123,8 +11123,8 @@
   },
   {
    "id": "700727",
-   "name": "MoDe Living, Sanford Estate Colección de Patio Color Blanco, 15 piezas",
-   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Colecciones/MoDe-Living-Sanford-Estate-Coleccion-de-Patio-Color-Blanco-15-piezas/p/700727",
+   "name": "MoDe Living, Sanford Estate Colección Para Exterior de 15 piezas, Color Blanco",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Colecciones/MoDe-Living-Sanford-Estate-Coleccion-Para-Exterior-de-15-piezas-Color-Blanco/p/700727",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h20/hdf/449966407843870.jpg",
    "category": "Muebles",
    "price_old": 95999.0,
@@ -11407,21 +11407,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "687776",
-   "name": "Montbrook Home, Topeka, Sillón Reclinable",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Topeka-Sillon-Reclinable/p/687776",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h68/hea/261719128768542.jpg",
-   "category": "Muebles",
-   "price_old": 8999.0,
-   "price_new": 7499.0,
-   "pct": 16.7,
-   "amount": 1500.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
    "id": "704310",
    "name": "Montbrook Home, Shara, Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Shara-Reclinable/p/704310",
@@ -11510,6 +11495,36 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784732874.7473896
+  },
+  {
+   "id": "668825",
+   "name": "Samsung Lavasecadora 22Kg / 13Kg con pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-22Kg-13Kg-con-pedestal/p/668825",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h71/83282241814558.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 27999.0,
+   "price_new": 23399.0,
+   "pct": 16.4,
+   "amount": 4600.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
+  },
+  {
+   "id": "681963",
+   "name": "Samsung Combo de Lavado de Gas 22Kg / 24Kg con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-22Kg-24Kg-con-Pedestal/p/681963",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/hd7/364485061705758.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 48999.0,
+   "price_new": 40999.0,
+   "pct": 16.3,
+   "amount": 8000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
   },
   {
    "id": "702772",
@@ -11750,6 +11765,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "696053",
+   "name": "Samsung Lavavajillas 14 Servicios",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Samsung-Lavavajillas-14-Servicios/p/696053",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/he9/368805627887646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13499.0,
+   "price_new": 11399.0,
+   "pct": 15.6,
+   "amount": 2100.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
   },
   {
    "id": "702844",
@@ -12290,21 +12320,6 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "686888",
-   "name": "Jura Cafetera Automática J8 Twin",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Maquinas-de-Espresso/Jura-Cafetera-Automatica-J8-Twin/p/686888",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/haf/273984258670622.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 66999.0,
-   "price_new": 56999.0,
-   "pct": 14.9,
-   "amount": 10000.0,
-   "starts": "2026-07-22T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784732874.7473896
   },
   {
    "id": "521895",
@@ -13010,6 +13025,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784301051.875811
+  },
+  {
+   "id": "666558",
+   "name": "Secadora 24Kg Samsung",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Secadora-24Kg-Samsung/p/666558",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8e/h3c/66617113935902.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16999.0,
+   "price_new": 14999.0,
+   "pct": 11.8,
+   "amount": 2000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756132.3389602
   },
   {
    "id": "653125",

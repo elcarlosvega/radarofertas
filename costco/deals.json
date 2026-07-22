@@ -1,6 +1,6 @@
 {
- "generated_at": 1784756132.3389602,
- "generated_at_str": "22/07/2026 15:35",
+ "generated_at": 1784758154.4776516,
+ "generated_at_str": "22/07/2026 16:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1006,21 +1006,6 @@
    "price_new": 349.0,
    "pct": 30.1,
    "amount": 150.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "1193444",
-   "name": "Kirkland Signature Vasos Rojos de Plástico Extra Resistentes 240 pzas de 532 ml",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kirkland-Signature-Vasos-Rojos-de-Plastico-Extra-Resistentes-240-pzas-de-532-ml/p/1193444",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h51/13285635850270.jpg",
-   "category": "Grocery",
-   "price_old": 399.0,
-   "price_new": 279.0,
-   "pct": 30.1,
-   "amount": 120.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
@@ -2947,6 +2932,21 @@
    "first_seen": 1783951816.7088192
   },
   {
+   "id": "686428",
+   "name": "Armaf Odyssey Tyrant 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Odyssey-Tyrant-100-ml/p/686428",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h63/245742995701790.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 425.29,
+   "pct": 29.0,
+   "amount": 173.71,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783951816.7088192
+  },
+  {
    "id": "684601",
    "name": "Lattafa Yara Moi 100 Ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Lattafa-Yara-Moi-100-Ml/p/684601",
@@ -3395,6 +3395,21 @@
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784643678.1808355
+  },
+  {
+   "id": "697932",
+   "name": "Nintendo Switch 1.1 Bundle Super Mario Bros. Wonder Digital + 3 Meses de Nintendo Online",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-11-Bundle-Super-Mario-Bros-Wonder-Digital-3-Meses-de-Nintendo-Online/p/697932",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h3b/402216009793566.jpg",
+   "category": "Electronicos",
+   "price_old": 6999.0,
+   "price_new": 4999.0,
+   "pct": 28.6,
+   "amount": 2000.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784124625.517578
   },
   {
    "id": "1768239",
@@ -3859,7 +3874,7 @@
    "starts": "2026-07-15T06:00:00.000Z",
    "ends": "2026-07-29T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "687893",
@@ -4204,7 +4219,7 @@
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-07-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "1902471",
@@ -5090,6 +5105,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "685988",
+   "name": "Apple Magic Keyboard para el iPad Pro de 13\" (M4) - Español (América Latina) Negro",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Accesorios-Apple/Apple-Magic-Keyboard-para-el-iPad-Pro-de-13-M4-Espanol-America-Latina-Negro/p/685988",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0e/h72/245742968930334.jpg",
+   "category": "Electronicos",
+   "price_old": 7799.0,
+   "price_new": 5799.0,
+   "pct": 25.6,
+   "amount": 2000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
   },
   {
    "id": "682496",
@@ -6694,7 +6724,7 @@
    "starts": "2026-07-15T06:00:00.000Z",
    "ends": "2026-07-29T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "707213",
@@ -8359,7 +8389,7 @@
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "692399",
@@ -9589,7 +9619,7 @@
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "668321",
@@ -9650,6 +9680,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "687739",
+   "name": "Hisense Refrigerador Comercial 9'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "669633",
@@ -9907,21 +9952,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "683330",
-   "name": "Dyson, Purificador Hot + Cool HP10",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Purificadores-y-Deshumidificadores/Dyson-Purificador-Hot-Cool-HP10/p/683330",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h98/h66/186708602290206.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 10999.0,
-   "price_new": 8799.0,
-   "pct": 20.0,
-   "amount": 2200.0,
-   "starts": "2026-07-22T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784738333.5903654
-  },
-  {
    "id": "1812364",
    "name": "Aiden & Ivy Furniture, Paquete de 2 Taburetes de Tela para Mostrador",
    "url": "https://www.costco.com.mx/Muebles/Sillas/Sillas-y-Bancos-tipo-Bar/Aiden-Ivy-Furniture-Paquete-de-2-Taburetes-de-Tela-para-Mostrador/p/1812364",
@@ -9935,6 +9965,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "683330",
+   "name": "Dyson, Purificador Hot + Cool HP10",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Purificadores-y-Deshumidificadores/Dyson-Purificador-Hot-Cool-HP10/p/683330",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h98/h66/186708602290206.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 10999.0,
+   "price_new": 8799.0,
+   "pct": 20.0,
+   "amount": 2200.0,
+   "starts": "2026-07-22T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784738333.5903654
   },
   {
    "id": "1862160",
@@ -11407,6 +11452,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "687776",
+   "name": "Montbrook Home, Topeka, Sillón Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Topeka-Sillon-Reclinable/p/687776",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h68/hea/261719128768542.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 7499.0,
+   "pct": 16.7,
+   "amount": 1500.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "704310",
    "name": "Montbrook Home, Shara, Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Shara-Reclinable/p/704310",
@@ -11509,7 +11569,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "681963",
@@ -11524,7 +11584,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "702772",
@@ -11779,7 +11839,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "702844",
@@ -12320,6 +12380,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "686888",
+   "name": "Jura Cafetera Automática J8 Twin",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Maquinas-de-Espresso/Jura-Cafetera-Automatica-J8-Twin/p/686888",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/haf/273984258670622.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 66999.0,
+   "price_new": 56999.0,
+   "pct": 14.9,
+   "amount": 10000.0,
+   "starts": "2026-07-22T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784732874.7473896
   },
   {
    "id": "521895",
@@ -13039,7 +13114,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784756132.3389602
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "653125",

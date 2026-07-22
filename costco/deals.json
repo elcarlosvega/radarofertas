@@ -1,6 +1,6 @@
 {
- "generated_at": 1784758154.4776516,
- "generated_at_str": "22/07/2026 16:09",
+ "generated_at": 1784761756.8365495,
+ "generated_at_str": "22/07/2026 17:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1006,6 +1006,21 @@
    "price_new": 349.0,
    "pct": 30.1,
    "amount": 150.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "1193444",
+   "name": "Kirkland Signature Vasos Rojos de Plástico Extra Resistentes 240 pzas de 532 ml",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Kirkland-Signature-Vasos-Rojos-de-Plastico-Extra-Resistentes-240-pzas-de-532-ml/p/1193444",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h51/13285635850270.jpg",
+   "category": "Grocery",
+   "price_old": 399.0,
+   "price_new": 279.0,
+   "pct": 30.1,
+   "amount": 120.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
@@ -11397,21 +11412,6 @@
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Nexgrill-Asador-de-Gas-Deluxe-de-7-Quemadores/p/1807272",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2c/h89/280976527458334.jpg",
    "category": "Patio y Jardin",
-   "price_old": 11999.0,
-   "price_new": 9999.0,
-   "pct": 16.7,
-   "amount": 2000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "704306",
-   "name": "Poundex, Brisa, Sofá Cama Daybed",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Literas/Poundex-Brisa-Sofa-Cama-Daybed/p/704306",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/hc4/435741555359774.jpg",
-   "category": "Muebles",
    "price_old": 11999.0,
    "price_new": 9999.0,
    "pct": 16.7,

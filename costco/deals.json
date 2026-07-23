@@ -1,6 +1,6 @@
 {
- "generated_at": 1784819362.7178783,
- "generated_at_str": "23/07/2026 09:09",
+ "generated_at": 1784824605.547823,
+ "generated_at_str": "23/07/2026 10:36",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -49,7 +49,7 @@
    "starts": "2026-07-23T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784819362.7178783
+   "first_seen": 1784819369.5022838
   },
   {
    "id": "695045",
@@ -154,7 +154,7 @@
    "starts": "2026-07-23T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784819362.7178783
+   "first_seen": 1784819369.5022838
   },
   {
    "id": "662833",
@@ -845,6 +845,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "687995",
+   "name": "Maytag Lavadora 25Kg Sistema Pet Pro",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-25Kg-Sistema-Pet-Pro/p/687995",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h33/ha0/260181367291934.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 13899.0,
+   "pct": 30.5,
+   "amount": 6100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784824605.547823
   },
   {
    "id": "681591",
@@ -2696,21 +2711,6 @@
    "name": "Lacoste Rose Eau Intense 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Lacoste-Rose-Eau-Intense-100-ml/p/695806",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h58/367525837078558.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1099.0,
-   "price_new": 780.29,
-   "pct": 29.0,
-   "amount": 318.71,
-   "starts": "2026-07-13T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783955396.1879866
-  },
-  {
-   "id": "682972",
-   "name": "Montblanc Signature Absolue 90 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Montblanc-Signature-Absolue-90-ml/p/682972",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/haf/189581935837214.jpg",
    "category": "Salud y Belleza",
    "price_old": 1099.0,
    "price_new": 780.29,
@@ -5242,21 +5242,6 @@
    "first_seen": 1784732874.7473896
   },
   {
-   "id": "697357",
-   "name": "ASUS Vivobook 16 Laptop 16\" Snapdragon X 16GB 512 GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-16-Laptop-16-Snapdragon-X-16GB-512-GB-SSD/p/697357",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h29/h93/438149000364062.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 15799.0,
-   "price_new": 11799.0,
-   "pct": 25.3,
-   "amount": 4000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
    "id": "636335",
    "name": "Maytag Estufa de piso de 76cm de 5 quemadores de gas",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Maytag-Estufa-de-piso-de-76cm-de-5-quemadores-de-gas/p/636335",
@@ -5390,21 +5375,6 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "693676",
-   "name": "Samsung Refrigerador 27\" Side By Side",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-27-Side-By-Side/p/693676",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/heb/hc0/451108440309790.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 39999.0,
-   "price_new": 29999.0,
-   "pct": 25.0,
-   "amount": 10000.0,
-   "starts": "2026-07-22T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784738333.5903654
   },
   {
    "id": "1807321",
@@ -8122,21 +8092,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "522046",
-   "name": "Sealy, Denver, Colchón King Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-King-Size/p/522046",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hc8/69509800001566.jpg",
-   "category": "c",
-   "price_old": 16999.0,
-   "price_new": 12999.0,
-   "pct": 23.5,
-   "amount": 4000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
    "id": "702956",
    "name": "HP 15-fd0285la Laptop 15.6\" Full HD Intel Core i7 8GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0285la-Laptop-156-Full-HD-Intel-Core-i7-8GB-512GB-SSD/p/702956",
@@ -8195,21 +8150,6 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "702697",
-   "name": "LG Lavasecadora 16Kg/8Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-16Kg8Kg/p/702697",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/h45/452706858827806.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 20899.0,
-   "price_new": 15999.0,
-   "pct": 23.4,
-   "amount": 4900.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784738333.5903654
   },
   {
    "id": "1807127",

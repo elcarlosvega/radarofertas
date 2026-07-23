@@ -1,6 +1,6 @@
 {
- "generated_at": 1784845178.3597283,
- "generated_at_str": "23/07/2026 16:19",
+ "generated_at": 1784848474.7301526,
+ "generated_at_str": "23/07/2026 17:14",
  "origins": [
   "MEX",
   "GDL",
@@ -44,6 +44,24 @@
    "duration": 205,
    "link": "https://www.aviasales.com/search/MEX2912HAV1?t=Q417985243001798540200000205NLUHAV_a508068c1c410bd645f1460da0e3af46_24493&search_date=22072026&expected_price_uuid=019f8c24-7c81-8030-a830-18b3aa695fcf&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1SRb16rzLAWNOAKSTxLceg&expected_price_source=share&expected_price_currency=mxn&expected_price=5465",
    "title": "Flight deals from Mexico City to Havana"
+  },
+  {
+   "id": "21b68045910dd756f064fb08e9030ec7",
+   "kind": "flight",
+   "origin": "VER",
+   "origin_name": "Veracruz",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/200/200/VB.png",
+   "price": 7619.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-01T08:50:00-05:00",
+   "return_at": "",
+   "duration": 345,
+   "link": "https://www.aviasales.com/search/VER0108HOU1?t=VB17855742001785598500000345VERMTYIAH_21b68045910dd756f064fb08e9030ec7_34045&search_date=23072026&expected_price_uuid=019f901d-dea0-8030-65b6-e23205690867&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=4C3b2pSVT1oiCfkvclrHPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7619",
+   "title": "Flight deals from Veracruz to Houston"
   },
   {
    "id": "050d1e34d299890115bb3d630dfaaf6f",

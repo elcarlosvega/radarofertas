@@ -1,6 +1,6 @@
 {
- "generated_at": 1784841789.5377722,
- "generated_at_str": "23/07/2026 15:23",
+ "generated_at": 1784844976.8295312,
+ "generated_at_str": "23/07/2026 16:16",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -423,6 +423,21 @@
    "amount": 1700.0,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783606843.9460945
+  },
+  {
+   "id": "702556",
+   "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD Intel Core 7 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-Intel-Core-7-16GB-512GB-SSD/p/702556",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h72/h21/450325706506270.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 33799.0,
+   "price_new": 23399.0,
+   "pct": 30.8,
+   "amount": 10400.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783606843.9460945
   },
@@ -5404,7 +5419,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784841789.5377722
+   "first_seen": 1784841795.5675528
   },
   {
    "id": "665578",
@@ -6982,6 +6997,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "698294",
+   "name": "Arnette 0AN433928546Q57 Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Arnette-0AN433928546Q57-Lentes-de-Sol/p/698294",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hb3/259626894917662.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "696076",
    "name": "Bulova Matlacha Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Matlacha-Armazon-Oftalmico/p/696076",
@@ -7714,7 +7744,7 @@
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784841789.5377722
+   "first_seen": 1784841795.5675528
   },
   {
    "id": "680813",
@@ -8227,6 +8257,21 @@
    "first_seen": 1784738333.5903654
   },
   {
+   "id": "686134",
+   "name": "GE Profile Refrigerador 27' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/GE-Profile-Refrigerador-27-French-Door/p/686134",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h6a/314760053325854.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 22999.0,
+   "pct": 23.3,
+   "amount": 7000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "704948",
    "name": "ASUS Vivobook S16 Laptop 16\" FHD AMD Ryzen AI 5 330 16GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-S16-Laptop-16-FHD-AMD-Ryzen-AI-5-330-16GB-512GB-SSD/p/704948",
@@ -8554,7 +8599,7 @@
    "starts": "2026-07-23T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784841789.5377722
+   "first_seen": 1784841795.5675528
   },
   {
    "id": "683950",
@@ -9211,21 +9256,6 @@
    "price_new": 17399.0,
    "pct": 20.9,
    "amount": 4600.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "659200",
-   "name": "Smeg Estufa de gas 48\"",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Estufa-de-gas-48/p/659200",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h06/h26/365038769111070.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 124999.0,
-   "price_new": 98999.0,
-   "pct": 20.8,
-   "amount": 26000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
@@ -10369,7 +10399,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784841789.5377722
+   "first_seen": 1784841795.5675528
   },
   {
    "id": "702949",
@@ -10430,6 +10460,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "704148",
+   "name": "TCL Pantalla 65\" Miniled 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-65-Miniled-4K-Fire-TV/p/704148",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h10/ha4/488785925111838.jpg",
+   "category": "Electronicos",
+   "price_old": 15899.0,
+   "price_new": 12899.0,
+   "pct": 18.9,
+   "amount": 3000.0,
+   "starts": "2026-07-22T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784732874.7473896
   },
   {
    "id": "697602",
@@ -10757,9 +10802,9 @@
    "pct": 18.2,
    "amount": 20000.0,
    "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1784844976.8295312
   },
   {
    "id": "695999",
@@ -10820,6 +10865,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "703977",
+   "name": "Hisense Pantalla 50\" Miniled 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Hisense-Pantalla-50-Miniled-4K-Fire-TV/p/703977",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8f/hb6/487546256130078.jpg",
+   "category": "Electronicos",
+   "price_old": 10999.0,
+   "price_new": 8999.0,
+   "pct": 18.2,
+   "amount": 2000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "683656",
@@ -12320,6 +12380,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784833750.3822505
+  },
+  {
+   "id": "704311",
+   "name": "Montbrook Home, Venus, Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Venus-Reclinable/p/704311",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7b/h3d/435741568466974.jpg",
+   "category": "Muebles",
+   "price_old": 9999.0,
+   "price_new": 8499.0,
+   "pct": 15.0,
+   "amount": 1500.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
   },
   {
    "id": "687772",

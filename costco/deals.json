@@ -1,6 +1,6 @@
 {
- "generated_at": 1784824605.547823,
- "generated_at_str": "23/07/2026 10:36",
+ "generated_at": 1784826563.7783551,
+ "generated_at_str": "23/07/2026 11:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -859,7 +859,7 @@
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784824605.547823
+   "first_seen": 1784824611.845976
   },
   {
    "id": "681591",
@@ -2711,6 +2711,21 @@
    "name": "Lacoste Rose Eau Intense 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Lacoste-Rose-Eau-Intense-100-ml/p/695806",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h58/367525837078558.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1099.0,
+   "price_new": 780.29,
+   "pct": 29.0,
+   "amount": 318.71,
+   "starts": "2026-07-13T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783955396.1879866
+  },
+  {
+   "id": "682972",
+   "name": "Montblanc Signature Absolue 90 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Montblanc-Signature-Absolue-90-ml/p/682972",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/haf/189581935837214.jpg",
    "category": "Salud y Belleza",
    "price_old": 1099.0,
    "price_new": 780.29,
@@ -7897,21 +7912,6 @@
    "first_seen": 1783789763.151063
   },
   {
-   "id": "683259",
-   "name": "Generac, Generador Portátil Premium GP8000E",
-   "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/Generac-Generador-Portatil-Premium-GP8000E/p/683259",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1e/haf/203866997587998.jpg",
-   "category": "Hogar y Bano",
-   "price_old": 28999.0,
-   "price_new": 21999.0,
-   "pct": 24.1,
-   "amount": 7000.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
    "id": "669619",
    "name": "Luuna Colchón Original Memory Foam, King",
    "url": "https://www.costco.com.mx/c/Luuna-Colchon-Original-Memory-Foam-King/p/669619",
@@ -8081,6 +8081,21 @@
    "name": "Sealy, Hybrid, Colchón King Size",
    "url": "https://www.costco.com.mx/c/Sealy-Hybrid-Colchon-King-Size/p/689124",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h9a/h7c/256579000795166.jpg",
+   "category": "c",
+   "price_old": 16999.0,
+   "price_new": 12999.0,
+   "pct": 23.5,
+   "amount": 4000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "522046",
+   "name": "Sealy, Denver, Colchón King Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-King-Size/p/522046",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hc8/69509800001566.jpg",
    "category": "c",
    "price_old": 16999.0,
    "price_new": 12999.0,

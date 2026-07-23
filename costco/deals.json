@@ -1,6 +1,6 @@
 {
- "generated_at": 1784790554.7845888,
- "generated_at_str": "23/07/2026 01:09",
+ "generated_at": 1784794152.8375602,
+ "generated_at_str": "23/07/2026 02:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -198,6 +198,21 @@
    "amount": 4300.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784732874.7473896
+  },
+  {
+   "id": "701850",
+   "name": "Samsung Galaxy S25 FE 128GB Negro Azabache",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-FE-128GB-Negro-Azabache/p/701850",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2a/h70/433695292227614.jpg",
+   "category": "Electronicos",
+   "price_old": 13199.0,
+   "price_new": 8899.0,
+   "pct": 32.6,
+   "amount": 4300.0,
+   "starts": "2026-07-22T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784732874.7473896
   },
@@ -4222,6 +4237,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "701912",
+   "name": "Safety 1st Carriola Active Go Jogger",
+   "url": "https://www.costco.com.mx/Todo-para-el-Bebe/Carriolas-y-Sillas-para-Bebe/Carriolas/Safety-1st-Carriola-Active-Go-Jogger/p/701912",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/hd4/432127103827998.jpg",
+   "category": "Todo para el Bebe",
+   "price_old": 5499.0,
+   "price_new": 3999.0,
+   "pct": 27.3,
+   "amount": 1500.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "696962",
    "name": "JBL Tour Pro 3 Audífonos Inalámbricos",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/JBL-Tour-Pro-3-Audifonos-Inalambricos/p/696962",
@@ -8059,7 +8089,7 @@
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784790554.7845888
+   "first_seen": 1784790561.4107056
   },
   {
    "id": "1872108",
@@ -8660,6 +8690,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784732874.7473896
+  },
+  {
+   "id": "1288769",
+   "name": "Wine Enthusiast Cava de Vinos 150 Botellas Gris",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-150-Botellas-Gris/p/1288769",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h46/ha2/11570471600158.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 36999.0,
+   "price_new": 28999.0,
+   "pct": 21.6,
+   "amount": 8000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
   },
   {
    "id": "694896",
@@ -9334,7 +9379,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784790554.7845888
+   "first_seen": 1784790561.4107056
   },
   {
    "id": "1807136",
@@ -12727,6 +12772,21 @@
    "first_seen": 1784643678.1808355
   },
   {
+   "id": "701805",
+   "name": "OMO Motocicleta Eléctrica Athena X1 Pro Multicolor",
+   "url": "https://www.costco.com.mx/Deportes/Motociclismo/Motocicletas/OMO-Motocicleta-Electrica-Athena-X1-Pro-Multicolor/p/701805",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h63/h01/432129309311006.jpg",
+   "category": "Deportes",
+   "price_old": 32999.0,
+   "price_new": 28999.0,
+   "pct": 12.1,
+   "amount": 4000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "696215",
    "name": "DELL 15 Laptop 15.6\" Full HD AMD Ryzen 7 16GB 1TB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-Laptop-156-Full-HD-AMD-Ryzen-7-16GB-1TB-SSD/p/696215",
@@ -12845,6 +12905,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784301051.875811
+  },
+  {
+   "id": "666558",
+   "name": "Secadora 24Kg Samsung",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Secadora-24Kg-Samsung/p/666558",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8e/h3c/66617113935902.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16999.0,
+   "price_new": 14999.0,
+   "pct": 11.8,
+   "amount": 2000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756139.0294225
   },
   {
    "id": "653125",

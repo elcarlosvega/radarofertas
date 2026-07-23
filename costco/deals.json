@@ -1,6 +1,6 @@
 {
- "generated_at": 1784776181.0956693,
- "generated_at_str": "22/07/2026 21:09",
+ "generated_at": 1784779765.1613412,
+ "generated_at_str": "22/07/2026 22:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6601,6 +6601,21 @@
    "price_new": 1499.25,
    "pct": 25.0,
    "amount": 499.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "991081",
+   "name": "Guess GU00118@5120F Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Guess-GU001185120F-Lentes-de-Sol/p/991081",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hea/277151651594270.jpg",
+   "category": "Optica",
+   "price_old": 1899.0,
+   "price_new": 1424.25,
+   "pct": 25.0,
+   "amount": 474.75,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,

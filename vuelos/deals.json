@@ -1,6 +1,6 @@
 {
- "generated_at": 1784780041.5367074,
- "generated_at_str": "22/07/2026 22:14",
+ "generated_at": 1784783638.3560004,
+ "generated_at_str": "22/07/2026 23:13",
  "origins": [
   "MEX",
   "GDL",
@@ -98,6 +98,24 @@
    "duration": 955,
    "link": "https://www.aviasales.com/search/MEX0709IST1?t=AM17888199001788909600000955MEXAMSIST_fa7a6c32d6552849ee0ce066f989aced_86393&search_date=22072026&expected_price_uuid=019f8b9a-b571-8040-acb8-3cb3df3c7492&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=wnwoaXF2TpQgNcYqpnYB5A&expected_price_source=share&expected_price_currency=mxn&expected_price=19276",
    "title": "Flight deals from Mexico City to Istanbul"
+  },
+  {
+   "id": "7c729e5ed3aae75291b9bcf47220606e",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/200/200/TK.png",
+   "price": 23476.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-25T05:47:00-05:00",
+   "return_at": "",
+   "duration": 1173,
+   "link": "https://www.aviasales.com/search/MTY2508IST1?t=TK17876368201787739600001173MTYMEXIST_7c729e5ed3aae75291b9bcf47220606e_105222&search_date=22072026&expected_price_uuid=019f8c1d-dd32-8030-e982-9c596cd468bd&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ISpi1zc_i1cjfXIStA3s2w&expected_price_source=share&expected_price_currency=mxn&expected_price=23476",
+   "title": "Flight deals from Monterrey to Istanbul"
   }
  ]
 }

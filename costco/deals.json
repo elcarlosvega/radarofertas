@@ -1,6 +1,6 @@
 {
- "generated_at": 1784884165.7682495,
- "generated_at_str": "24/07/2026 03:09",
+ "generated_at": 1784887751.3210194,
+ "generated_at_str": "24/07/2026 04:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3011,6 +3011,21 @@
    "name": "Brasso Antigrasa MAX 4 l con Atomizador de 650 ml",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Brasso-Antigrasa-MAX-4-l-con-Atomizador-de-650-ml/p/508318",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h75/379938469019678.jpg",
+   "category": "Grocery",
+   "price_old": 279.0,
+   "price_new": 199.0,
+   "pct": 28.7,
+   "amount": 80.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "8252929",
+   "name": "Glad Contenedor Para Almacenar Alimentos 50 pzas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Higienicos-y-Desechables/Glad-Contenedor-Para-Almacenar-Alimentos-50-pzas/p/8252929",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h27/hee/239511415717918.jpg",
    "category": "Grocery",
    "price_old": 279.0,
    "price_new": 199.0,
@@ -12888,6 +12903,21 @@
    "amount": 1600.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "682318",
+   "name": "Carrier, Aire Acondicionado Minisplit, Enfriamiento y Calefacción, 18,000 BTU, 220V, Gas R32, con Wi-Fi",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Enfriamiento-y-Calefaccion-18000-BTU-220V-Gas-R32-con-Wi-Fi/p/682318",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb0/he0/192116214693918.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 14999.0,
+   "price_new": 13499.0,
+   "pct": 10.0,
+   "amount": 1500.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
   },

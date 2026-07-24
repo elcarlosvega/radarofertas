@@ -1,6 +1,6 @@
 {
- "generated_at": 1784920183.942403,
- "generated_at_str": "24/07/2026 13:09",
+ "generated_at": 1784923781.9320679,
+ "generated_at_str": "24/07/2026 14:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -5178,21 +5178,6 @@
    "amount": 2300.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "673524",
-   "name": "LG Lavadora 22Kg con pedestal carga frontal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-con-pedestal-carga-frontal/p/673524",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hc6/140652330385438.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 24999.0,
-   "price_new": 18499.0,
-   "pct": 26.0,
-   "amount": 6500.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
   },
@@ -10477,6 +10462,21 @@
    "first_seen": 1784905757.1411
   },
   {
+   "id": "696736",
+   "name": "LG Refrigerador French Door 23'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-French-Door-23/p/696736",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/h28/400665591480350.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 25999.0,
+   "price_new": 20999.0,
+   "pct": 19.2,
+   "amount": 5000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784732874.7473896
+  },
+  {
    "id": "679182",
    "name": "Samsung Refrigerador 25' French Door",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-25-French-Door/p/679182",
@@ -12232,6 +12232,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "677233",
+   "name": "Smeg Estufa Portofino de gas con 4 quemadores 30\"",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Estufa-Portofino-de-gas-con-4-quemadores-30/p/677233",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/haa/hd0/365039135195166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 39999.0,
+   "price_new": 33999.0,
+   "pct": 15.0,
+   "amount": 6000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "704308",
    "name": "Montbrook Home, Saturno, Set de Sala",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Montbrook-Home-Saturno-Set-de-Sala/p/704308",
@@ -12379,7 +12394,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784920183.942403
+   "first_seen": 1784920190.7513165
   },
   {
    "id": "702007",

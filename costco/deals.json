@@ -1,6 +1,6 @@
 {
- "generated_at": 1784905749.7764611,
- "generated_at_str": "24/07/2026 09:09",
+ "generated_at": 1784911883.6674962,
+ "generated_at_str": "24/07/2026 10:51",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -64,7 +64,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "696244",
@@ -79,7 +79,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "697495",
@@ -124,7 +124,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "701860",
@@ -229,7 +229,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "688281",
@@ -244,7 +244,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "688743",
@@ -259,7 +259,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "2047956",
@@ -289,7 +289,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "682703",
@@ -469,7 +469,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "701850",
@@ -1402,6 +1402,21 @@
    "first_seen": 1784902336.9797413
   },
   {
+   "id": "697590",
+   "name": "DELL 14 Laptop 14\" Full HD+ AMD Ryzen AI 5 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-14-Laptop-14-Full-HD-AMD-Ryzen-AI-5-16GB-512GB-SSD/p/697590",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/h97/438164201013278.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 19999.0,
+   "price_new": 13999.0,
+   "pct": 30.0,
+   "amount": 6000.0,
+   "starts": "2026-07-24T06:00:00.000Z",
+   "ends": "2026-07-25T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784911883.6674962
+  },
+  {
    "id": "682702",
    "name": "Maytag Secadora de Gas 26 Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-26-Kg/p/682702",
@@ -2314,7 +2329,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "694472",
@@ -4054,7 +4069,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "703469",
@@ -4396,10 +4411,10 @@
    "price_new": 159.0,
    "pct": 27.4,
    "amount": 60.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
+   "starts": "2026-07-24T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784586248.5749948
+   "first_seen": 1784911883.6674962
   },
   {
    "id": "686555",
@@ -6334,7 +6349,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "689870",
@@ -8647,6 +8662,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "688698",
+   "name": "Apple iPhone 16 Pro Max 512GB Titanio Blanco",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPhone/Apple-iPhone-16-Pro-Max-512GB-Titanio-Blanco/p/688698",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h63/h99/280175081488414.jpg",
+   "category": "Electronicos",
+   "price_old": 33499.0,
+   "price_new": 25999.0,
+   "pct": 22.4,
+   "amount": 7500.0,
+   "starts": "2026-07-24T06:00:00.000Z",
+   "ends": "2026-07-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784911883.6674962
+  },
+  {
    "id": "688697",
    "name": "Apple iPhone 16 Pro Max 512GB Titanio Natural",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPhone/Apple-iPhone-16-Pro-Max-512GB-Titanio-Natural/p/688697",
@@ -8659,7 +8689,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "696198",
@@ -8929,7 +8959,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "684611",
@@ -8989,7 +9019,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-08-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "686594",
@@ -10459,7 +10489,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "679182",
@@ -10474,7 +10504,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "659233",
@@ -10579,7 +10609,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "704148",
@@ -11344,7 +11374,7 @@
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "700727",
@@ -12514,7 +12544,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "686888",
@@ -12619,7 +12649,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "703949",
@@ -12784,7 +12814,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "685852",
@@ -14269,7 +14299,7 @@
    "starts": "2026-07-24T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1784905749.7764611
+   "first_seen": 1784905757.1411
   },
   {
    "id": "697128",

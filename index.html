@@ -11,7 +11,7 @@ gtag('js', new Date());
 gtag('config', 'G-6FC3YSTR2X');
 </script>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://emrldco.com https://*.emrldco.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://emrldco.com https://*.emrldco.com; base-uri 'self'; form-action 'self'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com; base-uri 'self'; form-action 'self'">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
@@ -35,7 +35,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <style>
 :root{
   --bg:#f5f6f8; --card:#ffffff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
-  --green:#17c964; --green-dk:#0e9f4f; --green-soft:#e7f9ef; --lime:#7bf1a8;
+  --green:#17c964; --green-dk:#0a7a3d; --green-soft:#e7f9ef; --lime:#7bf1a8;
   --dark:#0b0f14; --dark2:#101820; --tg:#2aabee;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -150,7 +150,10 @@ main{max-width:1200px;margin:0 auto;padding:34px 20px 10px}
 .imgbox.ld{background:linear-gradient(100deg,#eef1f6 30%,#f7f9fc 50%,#eef1f6 70%);background-size:200% 100%;animation:skg 1.2s ease-in-out infinite}
 @keyframes skg{to{background-position:-200% 0}}
 .imgbox img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
-.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
+.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#062812;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
+.btag{position:absolute;top:12px;left:64px;background:#fff;border:1px solid var(--line);color:var(--mut);font-weight:700;font-size:.64rem;padding:4px 8px;border-radius:99px}
+.heart{position:absolute;top:9px;right:9px;width:30px;height:30px;border-radius:50%;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;cursor:pointer;color:#b9c2cc;font-size:.85rem;z-index:2}
+.heart.onh{color:#e6295a;border-color:#f3c2d1}
 .cbody{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .nm{font-size:.9rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
 .catl{font-size:.68rem;color:var(--mut)}
@@ -160,11 +163,15 @@ main{max-width:1200px;margin:0 auto;padding:34px 20px 10px}
 .pnew{font-size:1.28rem;font-weight:900;letter-spacing:-.02em}
 .pold{color:#a3adb8;text-decoration:line-through;font-size:.82rem}
 .save{font-size:.76rem;color:var(--green-dk);font-weight:800}
+.vbadge{display:inline-block;background:#fff;border:1px solid var(--line);color:#3f4b58;font-size:.64rem;font-weight:700;padding:3px 8px;border-radius:99px;margin-top:6px}
+.sparkw{margin-top:auto;padding-top:9px;border-top:1px dashed #edf0f3}
+.sparkw svg{display:block;width:100%;height:26px}
+.sparkl{display:flex;justify-content:space-between;font-size:.6rem;color:#a3adb8;margin-top:3px}
 .sk{background:#fff;border:1px solid var(--line);border-radius:16px;height:320px;position:relative;overflow:hidden}
 .sk::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(13,17,23,.045),transparent);animation:sh 1.2s infinite}
 @keyframes sh{100%{transform:translateX(100%)}}
 .err{padding:16px;border:1px dashed var(--line);border-radius:12px;color:var(--mut);font-size:.86rem;grid-column:1/-1}
-.err button{margin-left:8px;background:var(--green);color:#fff;border:0;border-radius:8px;padding:7px 13px;font-weight:800;cursor:pointer}
+.err button{margin-left:8px;background:var(--green);color:#062812;border:0;border-radius:8px;padding:7px 13px;font-weight:800;cursor:pointer}
 /* ---------- SIDEBAR ---------- */
 .side{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;position:sticky;top:76px}
 .side h3{display:flex;align-items:center;gap:8px;font-size:.98rem;font-weight:900;margin-bottom:14px}
@@ -210,9 +217,8 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
 .mx{margin-top:14px;font-size:.8rem;color:var(--mut)}
 .nlrow{display:flex;gap:8px;margin-top:4px}
 .nlrow input{flex:1;border:1px solid var(--line);border-radius:11px;padding:11px 13px;font-size:.85rem;background:#fbfcfd;color:var(--ink)}
-.nlrow button{background:var(--green);border:0;color:#fff;border-radius:11px;width:44px;font-size:1rem;font-weight:900;cursor:pointer}
+.nlrow button{background:var(--green);border:0;color:#062812;border-radius:11px;width:44px;font-size:1rem;font-weight:900;cursor:pointer}
 .nlnote{font-size:.74rem;color:var(--mut);margin-top:8px;line-height:1.45}
-.tgfoot{display:inline-flex;align-items:center;gap:7px;background:var(--dark);color:#fff;padding:9px 14px;border-radius:10px;font-weight:800;font-size:.8rem;text-decoration:none;margin-top:10px}
 .legal{max-width:1200px;margin:0 auto;padding:16px 20px 26px;border-top:1px solid #f0f2f5;font-size:.7rem;color:var(--mut);display:flex;gap:14px;flex-wrap:wrap;justify-content:space-between}
 /* ---------- RESPONSIVE ---------- */
 @media(max-width:1020px){
@@ -241,21 +247,12 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
   .fcard{min-width:120px;max-width:150px}
   .foot{grid-template-columns:1fr}
 }
-@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
  {"@type":"WebSite","@id":"https://radarofertas.mx/#website","url":"https://radarofertas.mx/","name":"Radar Ofertas MX","description":"Las mejores ofertas reales de México, cazadas automáticamente. Descuentos de Palacio de Hierro, Amazon, Costco, Mercado Libre y Coppel actualizados cada hora.","inLanguage":"es-MX","publisher":{"@id":"https://radarofertas.mx/#org"}},
  {"@type":"Organization","@id":"https://radarofertas.mx/#org","name":"Radar Ofertas MX","url":"https://radarofertas.mx/","logo":{"@type":"ImageObject","url":"https://radarofertas.mx/assets/og.png"},"sameAs":["https://t.me/DescuentosPalacio","https://x.com/MexicoMagico"]}
 ]}
-</script>
-<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1">
-(function () {
-  var script = document.createElement("script");
-  script.async = 1;
-  script.src = 'https://emrldco.com/NTUxMzc2.js?t=551376';
-  document.head.appendChild(script);
-})();
 </script>
 </head>
 <body>
@@ -268,7 +265,6 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
     </a>
     <div class="tabs">
       <a class="tab on" href="/">Inicio</a>
-      <a class="tab" href="/vuelos/">✈ Vuelos</a>
       <a class="tab" href="/palacio/">Palacio</a>
       <a class="tab" href="/amazon/">Amazon</a>
       <a class="tab" href="/costco/">Costco</a>
@@ -316,7 +312,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
         <div class="fcard f3" id="fc3" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
         <div class="fcard f4" id="fc4" hidden><span class="fimg"></span><span class="ftxt"><span class="fp"></span><span class="fn"></span><span class="fs"></span></span></div>
       </div>
-      <div class="scanpill"><span class="dotlive"></span> Escaneando 24/7 <span class="sep">•</span> <span id="scanstat" aria-live="polite">cargando ofertas…</span></div>
+      <div class="scanpill"><span class="dotlive"></span> Escaneando 24/7 <span class="sep">•</span> <span id="scanstat">cargando ofertas…</span></div>
     </div>
   </div>
 </header>
@@ -352,11 +348,11 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
     <div class="grid" id="grid"></div>
     <aside class="side" aria-label="Radar en vivo">
       <h3><span class="dotlive"></span> Radar en vivo</h3>
-      <div class="stat"><span class="sic">📋</span><span><span class="lb">Ofertas activas</span><br><span class="vl" id="st-total">—</span><br><span class="xs" id="st-totalxs"></span></span></div>
-      <div class="stat"><span class="sic">⏰</span><span><span class="lb">Mejor descuento activo</span><br><span class="vl" id="st-best">—</span><br><span class="xs" id="st-bestxs"></span></span></div>
-      <div class="stat"><span class="sic">🏬</span><span><span class="lb">Tiendas monitoreadas</span><br><span class="vl" id="st-stores">—</span><br><span class="xs">actualización cada hora</span></span></div>
+      <div class="stat"><span class="sic">📋</span><span><span class="lb">Ofertas detectadas hoy</span><br><span class="vl" id="st-total">—</span><br><span class="xs" id="st-totalxs"></span></span></div>
+      <div class="stat"><span class="sic">⏰</span><span><span class="lb">Mejor descuento hoy</span><br><span class="vl" id="st-best">—</span><br><span class="xs" id="st-bestxs"></span></span></div>
+      <div class="stat"><span class="sic">🏬</span><span><span class="lb">Tiendas monitoreadas</span><br><span class="vl" id="st-stores">—</span><br><span class="xs">24/7 activas</span></span></div>
       <div class="stat"><span class="sic">🚀</span><span><span class="lb">Descuentos de 50% o más</span><br><span class="vl" id="st-viral">—</span><br><span class="xs" id="st-viralxs">entre lo más destacado</span></span></div>
-      <button class="trend" id="trendbtn">Ver mayores descuentos →</button>
+      <button class="trend" id="trendbtn">Ver tendencias →</button>
     </aside>
   </div>
 </main>
@@ -411,9 +407,14 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <p class="mx">Hecho en México ❤️ 🇲🇽</p>
     </div>
     <div>
-      <h4>Alertas</h4>
-      <p class="nlnote">Aún no tenemos boletín por correo. Las alertas llegan en tiempo real por nuestro canal de Telegram.</p>
-      <a class="tgfoot" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al Telegram</a>
+      <h4>Newsletter</h4>
+      <form class="nl" id="nlform">
+        <div class="nlrow">
+          <input type="email" id="nlmail" placeholder="tu@email.com" aria-label="Tu correo electrónico" required>
+          <button type="submit" aria-label="Suscribirme">→</button>
+        </div>
+        <p class="nlnote" id="nlnote">Recibe lo mejor del radar en tu correo.</p>
+      </form>
     </div>
   </div>
   <div class="legal">
@@ -433,16 +434,25 @@ const STORES = [
 ];
 const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel'];
 const PAGE_N = 12;
+const TAGS = ['Popular','Bajó hoy','Muy buscado'];
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx'];
 function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}
 const $ = id => document.getElementById(id);
 const money = v => { const n=Number(v)||0; const dec=Number.isInteger(n)?0:2; return '$' + n.toLocaleString('es-MX',{minimumFractionDigits:dec, maximumFractionDigits:dec}); };
 const score = d => (d.pct||0) * Math.log10(10 + (d.amount||0));
+// ====== Frescura: una tienda con datos > 6 h se considera "sin actualización"
+// y sus ofertas NO entran a portada. generated_at es epoch UTC en segundos;
+// Date.now() es UTC en ms -> comparación correcta sin problema de zona horaria.
+const STALE_MS = 6*3600*1000;
+function isStale(gen){ if(!gen) return true; return (Date.now() - gen*1000) > STALE_MS; }
+function timeAgo(gen){ if(!gen) return ''; var m=Math.max(0,Math.round((Date.now()-gen*1000)/60000)); return m<60 ? 'hace '+m+' min' : 'hace '+Math.round(m/60)+' h'; }
+const STORE_META = {};  // key -> {ts, when} solo de tiendas frescas
 let ALL = [], RESULTS = [], FILTER = 'all', Q = '', SORT = 'score', SHOWN = PAGE_N;
 // base completa (deals.json) por tienda, cargada bajo demanda y en segundo plano
 const FULLK = {};
 function dedupe(deals){ const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} return Array.from(seen.values()); }
 function ensureFull(keys){
+  keys = keys.filter(k=>STORE_META[k]);  // nunca precargar una tienda caída
   return Promise.all(keys.map(k=>{
     if(FULLK[k]) return FULLK[k];
     const store = STORES.find(s=>s.key===k); if(!store) return Promise.resolve();
@@ -454,29 +464,90 @@ function ensureFull(keys){
   }));
 }
 
-// PRNG determinista: solo posiciona los blips decorativos del radar
+// sparkline decorativo determinista (aún no hay histórico real de precios)
 function hashSeed(s){ let h=2166136261; s=String(s); for(let i=0;i<s.length;i++){ h^=s.charCodeAt(i); h=Math.imul(h,16777619); } return ()=>{ h=Math.imul(h^h>>>15,2246822507); h=Math.imul(h^h>>>13,3266489909); return ((h^=h>>>16)>>>0)/4294967296; }; }
+function sparkSvg(id){
+  const rnd = hashSeed(id||'x'); const pts=[]; let y = 6 + rnd()*6;
+  for(let x=0; x<=7; x++){ pts.push([x*(100/7), Math.max(3,Math.min(23,y))]); y += (rnd()-0.38)*7; }
+  const line = pts.map(p=>p[0].toFixed(1)+','+p[1].toFixed(1)).join(' ');
+  const last = pts[pts.length-1];
+  const svgNS='http://www.w3.org/2000/svg';
+  const svg=document.createElementNS(svgNS,'svg'); svg.setAttribute('viewBox','0 0 100 26'); svg.setAttribute('preserveAspectRatio','none'); svg.setAttribute('aria-hidden','true');
+  const pl=document.createElementNS(svgNS,'polyline'); pl.setAttribute('points',line); pl.setAttribute('fill','none'); pl.setAttribute('stroke','#17c964'); pl.setAttribute('stroke-width','1.6'); pl.setAttribute('opacity','.75');
+  const c=document.createElementNS(svgNS,'circle'); c.setAttribute('cx',last[0].toFixed(1)); c.setAttribute('cy',last[1].toFixed(1)); c.setAttribute('r','2'); c.setAttribute('fill','#17c964');
+  svg.append(pl,c); return svg;
+}
+function tagFor(d,i){ return (d.pct>=50) ? 'Quedan pocas' : TAGS[i%TAGS.length]; }
+
+// ====== Diversidad de portada (Fase 4) ======
+// Normalización ligera de categoría: minúsculas + sin acentos (NFD) + mapa
+// mínimo de sinónimos, para que "máx 2 por categoría" tenga sentido entre
+// tiendas con taxonomías distintas (Palacio sin acentos, ML con acentos,
+// Costco con la categoría basura "c").
+function normCat(c){
+  c=String(c||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/\s+/g,' ').trim();
+  if(c.length<3) return 'otros';   // mata "c" de Costco y ruido
+  var MAP={'ninos y bebes':'bebes','bebes':'bebes','moda mujer':'moda','moda hombre':'moda',
+    'linea blanca':'electrodomesticos','linea blanca y cocina':'electrodomesticos','electrodomesticos':'electrodomesticos',
+    'tv y video':'tv','televisiones':'tv','computo':'computo','computadoras':'computo','computadoras y tablets':'computo',
+    'hogar y muebles':'hogar','hogar y bano':'hogar','muebles':'hogar','salud y belleza':'belleza','belleza y cuidado':'belleza',
+    'otras ofertas':'otros','grocery':'despensa'};
+  return MAP[c]||c;
+}
+// Selección diversa: greedy por score (ahorro real) con topes por tienda y
+// categoría; pasadas de relleno si los topes dejan huecos (la vista siempre
+// llega a n si hay candidatos suficientes).
+function pickDiverse(cands, n, maxStore, maxCat){
+  var byScore=cands.slice().sort(function(a,b){return score(b)-score(a);});
+  var out=[], perStore={}, perCat={}, used=new Set();
+  for(var i=0;i<byScore.length&&out.length<n;i++){
+    var d=byScore[i], s=d._store, c=normCat(d.category);
+    if((perStore[s]||0)>=maxStore||(perCat[c]||0)>=maxCat) continue;
+    out.push(d); used.add(d); perStore[s]=(perStore[s]||0)+1; perCat[c]=(perCat[c]||0)+1;
+  }
+  // 1ª pasada de relleno: respeta tope de tienda, ignora el de categoría
+  for(var j=0;j<byScore.length&&out.length<n;j++){
+    var d2=byScore[j]; if(used.has(d2)) continue;
+    if((perStore[d2._store]||0)>=maxStore) continue;
+    out.push(d2); used.add(d2); perStore[d2._store]=(perStore[d2._store]||0)+1;
+  }
+  // 2ª pasada: ignora ambos topes (último recurso para llenar la rejilla)
+  for(var k=0;k<byScore.length&&out.length<n;k++){
+    var d3=byScore[k]; if(used.has(d3)) continue; out.push(d3); used.add(d3);
+  }
+  return out;
+}
+function isDefaultView(){ return FILTER==='all' && !Q && SORT==='score'; }
 
 function makeCard(d, i){
   const store = STORES.find(s=>s.key===d._store) || {};
   const card=document.createElement('a'); card.className='card'; card.href=safeUrl(d.url)||'/'; card.target='_blank'; card.rel='noopener nofollow';
   card.setAttribute('aria-label','Ver oferta de '+(d.name||'producto')+' en '+(store.name||'')+' (abre en nueva pestaña)');
   const ib=document.createElement('div'); ib.className='imgbox';
-  const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>{ib.classList.remove('ld');im.remove();}); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
+  const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('span'); bp.className='bpct'; bp.textContent='-'+Math.round(d.pct||0)+'%';
-  card.append(ib,bp);
+  const bt=document.createElement('span'); bt.className='btag'; bt.textContent=tagFor(d,i);
+  const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('aria-label','Guardar en favoritos');
+  hh.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();hh.classList.toggle('onh');});
+  card.append(ib,bp,bt,hh);
   const body=document.createElement('div'); body.className='cbody';
   const nm=document.createElement('div'); nm.className='nm'; nm.textContent=d.name;
   const cat=document.createElement('div'); cat.className='catl'; cat.textContent=d.category||'';
   const st=document.createElement('div'); st.className='stline';
   const sd=document.createElement('span'); sd.className='sdot'; sd.style.background=store.accent||'#999';
-  st.append(sd, document.createTextNode(store.name||''));
+  const meta=STORE_META[d._store];
+  const chk=meta ? ' · comprobado '+timeAgo(meta.ts) : '';
+  st.append(sd, document.createTextNode((store.name||'')+chk));
+  if(meta) st.title='Última verificación: '+meta.when;
   const pr=document.createElement('div'); pr.className='prices';
   const pn=document.createElement('span'); pn.className='pnew'; pn.textContent=money(d.price_new);
   const po=document.createElement('span'); po.className='pold'; po.textContent=money(d.price_old);
   pr.append(pn,po);
   const sv=document.createElement('div'); sv.className='save'; sv.textContent='Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)';
-  body.append(nm,cat,st,pr,sv); card.appendChild(body);
+  let vbadge=null; if(d.variants>1){ vbadge=document.createElement('div'); vbadge.className='vbadge'; vbadge.textContent=d.variants+' variantes'; }
+  const sw=document.createElement('div'); sw.className='sparkw'; sw.appendChild(sparkSvg(d.id));
+  const sl=document.createElement('div'); sl.className='sparkl'; sl.innerHTML='<span>Historial de precio</span><span>7 días</span>'; sw.appendChild(sl);
+  body.append(nm,cat,st,pr,sv); if(vbadge) body.appendChild(vbadge); body.append(sw); card.appendChild(body);
   return card;
 }
 
@@ -493,7 +564,17 @@ function visibleList(){
 }
 function render(){
   const grid=$('grid'); grid.innerHTML='';
-  const list=visibleList();
+  let list;
+  if(isDefaultView()){
+    // vista por defecto: las 12 destacadas con diversidad (máx 3/tienda,
+    // 2/categoría); el "ver más" añade el resto por ahorro real.
+    const curated=pickDiverse(ALL, PAGE_N, 3, 2);
+    const inCur=new Set(curated);
+    const rest=visibleList().filter(d=>!inCur.has(d));
+    list=curated.concat(rest);
+  } else {
+    list=visibleList();  // la intención del usuario (filtro/orden/búsqueda) manda
+  }
   if(!list.length){ const em=document.createElement('div'); em.className='err'; em.textContent = Q ? 'Sin resultados para "'+Q+'".' : 'Sin ofertas por ahora.'; grid.appendChild(em); $('morebtn').hidden=true; return; }
   list.slice(0,SHOWN).forEach((d,i)=>grid.appendChild(makeCard(d,i)));
   $('morebtn').hidden = list.length<=SHOWN;
@@ -510,7 +591,16 @@ function buildChips(){
     return b;
   };
   box.appendChild(mk('all','Todas las tiendas',null));
-  STORES.forEach(s=>box.appendChild(mk(s.key, s.short, s.accent)));
+  STORES.forEach(s=>{
+    const r = RESULTS.find(x=>x&&x.store&&x.store.key===s.key);
+    if(r && r.stale){
+      const b=document.createElement('span'); b.className='chipbtn soon';
+      b.innerHTML=(s.short)+'&nbsp;<small>SIN DATOS</small>';
+      b.title='Sin actualización reciente'; box.appendChild(b);
+    } else {
+      box.appendChild(mk(s.key, s.short, s.accent));
+    }
+  });
   const lv=document.createElement('span'); lv.className='chipbtn soon'; lv.innerHTML='Liverpool&nbsp;<small>PRONTO</small>'; box.appendChild(lv);
 }
 
@@ -519,20 +609,25 @@ async function loadStore(store){
     const r=await fetch(store.path+'/top.json?_='+Date.now(),{cache:'no-store'});
     if(!r.ok) throw new Error(r.status);
     const data=await r.json();
+    // Tienda con datos vencidos: se reporta stale y NO se muestran sus ofertas.
+    if(isStale(data.generated_at)){
+      return {store, stale:true, total:0, when:data.generated_at_str, ts:data.generated_at};
+    }
+    STORE_META[store.key] = {ts:data.generated_at, when:data.generated_at_str};
     let deals=(data.deals||[]);
     { const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} deals=Array.from(seen.values()); }
     deals.forEach(d=>ALL.push({...d,_store:store.key}));
-    return {store, total:data.total||deals.length, best:Math.max(0,...deals.map(d=>d.pct||0)), when:data.generated_at_str};
+    return {store, total:data.total||deals.length, best:Math.max(0,...deals.map(d=>d.pct||0)), when:data.generated_at_str, ts:data.generated_at};
   }catch(e){ return null; }
 }
 
 function fillRadarCards(){
   const picks=[];
   for(const s of STORES){
-    const best=ALL.filter(d=>d._store===s.key).sort((a,b)=>(b.pct||0)-(a.pct||0))[0];
+    const best=ALL.filter(d=>d._store===s.key).sort((a,b)=>score(b)-score(a))[0];
     if(best) picks.push({...best,_short:s.short});
   }
-  picks.sort((a,b)=>(b.pct||0)-(a.pct||0));
+  picks.sort((a,b)=>score(b)-score(a));
   picks.slice(0,4).forEach((d,i)=>{
     const el=$('fc'+(i+1)); if(!el) return;
     el.querySelector('.fp').textContent='-'+Math.round(d.pct||0)+'%';
@@ -570,19 +665,21 @@ function fillMinis(){
   });
 }
 function updateStats(){
-  const ok=RESULTS.filter(Boolean);
+  const responded=RESULTS.filter(Boolean);
+  const ok=responded.filter(r=>!r.stale);        // solo tiendas frescas cuentan
   const total=ok.reduce((a,r)=>a+(r.total||0),0);
   let bestDeal=null; for(const d of ALL){ if(!bestDeal||(d.pct||0)>(bestDeal.pct||0)) bestDeal=d; }
   const viral=ALL.filter(d=>(d.pct||0)>=50).length;
   $('st-total').textContent = total.toLocaleString('es-MX');
-  $('st-totalxs').textContent = ok.length ? 'en '+ok.length+' tiendas' : '';
+  $('st-totalxs').textContent = ok.length ? ('en '+ok.length+' de '+STORES.length+' tiendas') : '';
   $('st-best').textContent = bestDeal ? ('-'+Math.round(bestDeal.pct)+'%') : '—';
   $('st-bestxs').textContent = bestDeal ? ('en '+(bestDeal.category||'ofertas')) : '';
   $('st-stores').textContent = ok.length;
   $('st-viral').textContent = viral;
   $('scanstat').innerHTML = '<b>'+total.toLocaleString('es-MX')+'</b> ofertas activas';
-  const when = ok.map(r=>r.when).filter(Boolean)[0];
-  if(when) $('livelbl').textContent = 'Actualizadas: '+when;
+  // "actualizadas hace X" con el barrido más reciente entre las tiendas frescas
+  const newest = Math.max(0,...ok.map(r=>r.ts||0));
+  if(newest) $('livelbl').textContent = 'Actualizadas '+timeAgo(newest);
 }
 
 // init
@@ -591,7 +688,7 @@ buildChips();
 Promise.all(STORES.map(loadStore)).then(res=>{
   RESULTS=res;
   if(!res.some(Boolean)){ $('grid').innerHTML='<div class="err">No se pudieron cargar las ofertas ahora. <button onclick="location.reload()">Reintentar</button></div>'; $('scanstat').textContent='sin conexión con el radar'; return; }
-  render(); updateStats(); fillRadarCards(); fillRadarBlips(); fillMinis();
+  buildChips(); render(); updateStats(); fillRadarCards(); fillRadarBlips(); fillMinis();
   // precarga de la base completa en segundo plano (búsqueda y "ver más" instantáneos)
   setTimeout(()=>ensureFull(ALLKEYS).then(()=>{ render(); updateStats(); const x=$('st-viralxs'); if(x) x.textContent='en toda la base'; }), 2500);
 });
@@ -599,6 +696,7 @@ $('q').addEventListener('input',e=>{ Q=e.target.value.trim().toLowerCase(); SHOW
 $('sort').addEventListener('change',e=>{ SORT=e.target.value; SHOWN=PAGE_N; render(); });
 $('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); ensureFull(FILTER==='all'?ALLKEYS:[FILTER]).then(render); });
 $('trendbtn').addEventListener('click',()=>{ SORT='pct'; $('sort').value='pct'; SHOWN=PAGE_N; render(); document.getElementById('destacadas').scrollIntoView({behavior:'smooth'}); });
+$('nlform').addEventListener('submit',e=>{ e.preventDefault(); $('nlnote').innerHTML='¡Gracias! El boletín está en preparación; mientras tanto, las alertas llegan primero por <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener" style="color:var(--green-dk);font-weight:800">Telegram</a>.'; $('nlmail').value=''; });
 </script>
 </body>
 </html>

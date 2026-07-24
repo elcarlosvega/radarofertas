@@ -34,7 +34,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <style>
 :root{
   --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
-  --green:#17c964; --green-dk:#0e9f4f; --green-soft:#e7f9ef; --dark:#0b0f14;
+  --green:#17c964; --green-dk:#0a7a3d; --green-soft:#e7f9ef; --dark:#0b0f14;
   --sac:#e47911; --sac2:#ff9900; --sbg:#fbeed8; --spanel:#fbe8cd;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -65,6 +65,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 h1{font-size:clamp(1.7rem,3.6vw,2.5rem);font-weight:900;letter-spacing:-.03em;line-height:1.05;margin:14px 0 8px}
 h1 em{color:var(--sac);font-style:normal}
 .sub{color:var(--mut);font-size:.92rem}
+.stalebar{margin-top:14px;background:#fff7e6;border:1px solid #f0d9a8;color:#7a5a00;border-radius:12px;padding:12px 16px;font-size:.88rem;font-weight:650}
 .searchbox{max-width:1200px;margin:-26px auto 0;padding:0 20px;position:relative;z-index:5}
 .searchin{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 14px 34px rgba(13,17,23,.08);padding:14px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
 .sfield{flex:1;min-width:200px;display:flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:12px;padding:0 14px;background:#fbfcfd}
@@ -79,7 +80,7 @@ h1 em{color:var(--sac);font-style:normal}
 .card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(13,17,23,.10)}
 .imgb{position:relative;padding-top:100%;background:#fff;border-bottom:1px solid #f0f2f5}
 .imgb img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
-.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
+.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#062812;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
 .schip{position:absolute;top:12px;right:12px;background:var(--spanel);color:var(--ink);font-weight:800;font-size:.6rem;letter-spacing:.05em;padding:4px 8px;border-radius:99px}
 .cb{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .nm{font-size:.9rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
@@ -203,6 +204,7 @@ document.getElementById('sort').addEventListener('change',function(e){sort=e.tar
 fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
   ALL=(d&&d.deals)||[];
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
+  if(d&&d.generated_at&&(Date.now()-d.generated_at*1000)>216e5){var _sb=document.createElement('div');_sb.className='stalebar';_sb.setAttribute('role','status');_sb.innerHTML='\u26a0 <b>Temporalmente sin actualizaci\u00f3n.</b> \u00daltimo dato real: '+esc((d&&d.generated_at_str)||'desconocido')+'. Los precios pueden haber cambiado.';var _h=document.querySelector('.heroin');if(_h)_h.appendChild(_sb);}
   render();
 }).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Recarga en un momento.';});
 </script>

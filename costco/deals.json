@@ -1,6 +1,6 @@
 {
- "generated_at": 1784852053.611317,
- "generated_at_str": "23/07/2026 18:14",
+ "generated_at": 1784855380.569655,
+ "generated_at_str": "23/07/2026 19:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -5077,6 +5077,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "673524",
+   "name": "LG Lavadora 22Kg con pedestal carga frontal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-con-pedestal-carga-frontal/p/673524",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hc6/140652330385438.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 18499.0,
+   "pct": 26.0,
+   "amount": 6500.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "1901802",
    "name": "Denmark Juego de 4 Tazones de Porcelana",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Denmark-Juego-de-4-Tazones-de-Porcelana/p/1901802",
@@ -6217,21 +6232,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "689866",
-   "name": "Psycho Bunny PB 506-1 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Psycho-Bunny-PB-506-1-Armazon-Oftalmico/p/689866",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb3/hdb/313906236948510.jpg",
-   "category": "Optica",
-   "price_old": 2999.0,
-   "price_new": 2249.25,
-   "pct": 25.0,
-   "amount": 749.75,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
    "id": "689861",
    "name": "Psycho Bunny PB 130-2 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Psycho-Bunny-PB-130-2-Armazon-Oftalmico/p/689861",
@@ -6371,6 +6371,51 @@
    "name": "Perry Ellis PE 1318-2 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Perry-Ellis-PE-1318-2-Armazon-Oftalmico/p/704290",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h6d/h49/466270573756446.jpg",
+   "category": "Optica",
+   "price_old": 2499.0,
+   "price_new": 1874.25,
+   "pct": 25.0,
+   "amount": 624.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "699788",
+   "name": "Guess GU2977@55069 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Guess-GU297755069-Armazon-Oftalmico/p/699788",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/hb1/368462851145758.jpg",
+   "category": "Optica",
+   "price_old": 2499.0,
+   "price_new": 1874.25,
+   "pct": 25.0,
+   "amount": 624.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "699784",
+   "name": "Guess GU2957@53044 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Guess-GU295753044-Armazon-Oftalmico/p/699784",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h46/h40/333952475299870.jpg",
+   "category": "Optica",
+   "price_old": 2499.0,
+   "price_new": 1874.25,
+   "pct": 25.0,
+   "amount": 624.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "699781",
+   "name": "Guess GU2948-N@56089 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Guess-GU2948-N56089-Armazon-Oftalmico/p/699781",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h57/hbc/333952470188062.jpg",
    "category": "Optica",
    "price_old": 2499.0,
    "price_new": 1874.25,
@@ -6937,6 +6982,36 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "696076",
+   "name": "Bulova Matlacha Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Matlacha-Armazon-Oftalmico/p/696076",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3d/hdf/414733744799774.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "696075",
+   "name": "Bulova Encino Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Encino-Armazon-Oftalmico/p/696075",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/h0f/414733744013342.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "692627",
    "name": "Bulova Twist Titanium Pros",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Pros/p/692627",
@@ -7220,6 +7295,21 @@
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784732874.7473896
+  },
+  {
+   "id": "688310",
+   "name": "Sheffield Klara, Espejo Led con base de carga",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-del-Hogar/Cuidado-Personal/Sheffield-Klara-Espejo-Led-con-base-de-carga/p/688310",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h87/h98/280145198153758.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 999.0,
+   "price_new": 749.0,
+   "pct": 25.0,
+   "amount": 250.0,
+   "starts": "2026-07-23T06:00:00.000Z",
+   "ends": "2026-07-27T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784817265.0966704
   },
   {
    "id": "646707",

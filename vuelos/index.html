@@ -63,6 +63,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 h1{font-size:clamp(1.7rem,3.6vw,2.5rem);font-weight:900;letter-spacing:-.03em;line-height:1.05;margin:14px 0 8px}
 h1 em{color:var(--sky);font-style:normal}
 .sub{color:var(--mut);font-size:.92rem}
+.stalebar{margin-top:14px;background:#fff7e6;border:1px solid #f0d9a8;color:#7a5a00;border-radius:12px;padding:12px 16px;font-size:.88rem;font-weight:650}
 .searchbox{max-width:1200px;margin:-26px auto 0;padding:0 20px;position:relative;z-index:5}
 .searchin{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 14px 34px rgba(13,17,23,.08);padding:14px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
 .sfield{flex:1;min-width:200px;display:flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:12px;padding:0 14px;background:#fbfcfd}
@@ -135,7 +136,7 @@ footer a{color:var(--green-dk);font-weight:700}
   <div class="heroin">
     <span class="chip"><span class="sq"></span> RADAR VUELOS <span class="dotlive"></span></span>
     <h1>Vuelos con <em>precios anormalmente bajos</em>, cazados cada hora.</h1>
-    <div class="sub" id="sub">7 vuelos activos · actualizado 23/07/2026 18:12</div>
+    <div class="sub" id="sub">7 vuelos activos · actualizado 23/07/2026 19:15</div>
   </div>
 </header>
 <div class="searchbox">
@@ -198,6 +199,7 @@ document.getElementById('sort').addEventListener('change',function(e){sort=e.tar
 fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
   ALL=(d&&d.deals)||[];
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' vuelos activos · actualizado '+((d&&d.generated_at_str)||'');
+  if(d&&d.generated_at&&(Date.now()-d.generated_at*1000)>216e5){var _sb=document.createElement('div');_sb.className='stalebar';_sb.setAttribute('role','status');_sb.innerHTML='⚠ <b>Temporalmente sin actualización.</b> Último dato real: '+esc((d&&d.generated_at_str)||'desconocido')+'. Los precios pueden haber cambiado.';var _h=document.querySelector('.heroin');if(_h)_h.appendChild(_sb);}
   render();
 }).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar los vuelos ahora. Recarga en un momento.';});
 </script>

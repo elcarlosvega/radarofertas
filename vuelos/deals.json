@@ -1,6 +1,6 @@
 {
- "generated_at": 1785061046.598667,
- "generated_at_str": "26/07/2026 04:17",
+ "generated_at": 1785065123.6202333,
+ "generated_at_str": "26/07/2026 05:25",
  "origins": [
   "MEX",
   "GDL",
@@ -62,6 +62,24 @@
    "duration": 1044,
    "link": "https://www.aviasales.com/search/MEX0112BUE1?t=DM17961690601796242500001044NLUPUJEZE_55dcdb0a5f4fdefb59ce925d1de14450_26414&search_date=26072026&expected_price_uuid=019f9c8f-38c2-8040-25cc-da5666fa09eb&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=XhHDMF1pqSv66jdtqNdBmA&expected_price_source=share&expected_price_currency=mxn&expected_price=5945",
    "title": "Flight deals from Mexico City to Buenos Aires"
+  },
+  {
+   "id": "76b8eda9ec3f38d8813e1eb0f656528d",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/200/200/Y4.png",
+   "price": 6515.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-01T18:37:00-05:00",
+   "return_at": "",
+   "duration": 564,
+   "link": "https://www.aviasales.com/search/GDL0109LIM1?t=Y417882878201788325260000564GDLMEXLIM_76b8eda9ec3f38d8813e1eb0f656528d_29130&search_date=26072026&expected_price_uuid=019f9da8-cf51-8030-2076-ad9f5587b85a&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=cno3jVIBTpXcR0zo082v8Q&expected_price_source=share&expected_price_currency=mxn&expected_price=6515",
+   "title": "Flight deals from Guadalajara to Lima"
   },
   {
    "id": "21b68045910dd756f064fb08e9030ec7",

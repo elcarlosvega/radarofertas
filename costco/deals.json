@@ -1,6 +1,6 @@
 {
- "generated_at": 1785118194.2470744,
- "generated_at_str": "26/07/2026 20:09",
+ "generated_at": 1785121822.2337558,
+ "generated_at_str": "26/07/2026 21:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4803,21 +4803,6 @@
    "amount": 400.0,
    "starts": "2026-07-20T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "670697",
-   "name": "IPET, Cama para Mascota",
-   "url": "https://www.costco.com.mx/Mascotas/Perros/Camas-para-Perro/IPET-Cama-para-Mascota/p/670697",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h4d/99028798504990.jpg",
-   "category": "Mascotas",
-   "price_old": 1499.0,
-   "price_new": 1099.0,
-   "pct": 26.7,
-   "amount": 400.0,
-   "starts": "2026-07-20T06:00:00.000Z",
-   "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
   },

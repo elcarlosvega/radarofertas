@@ -1,6 +1,6 @@
 {
- "generated_at": 1785176026.9590461,
- "generated_at_str": "27/07/2026 12:13",
+ "generated_at": 1785179422.0274475,
+ "generated_at_str": "27/07/2026 13:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -79,7 +79,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "695045",
@@ -169,7 +169,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "694502",
@@ -289,7 +289,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "674473",
@@ -532,6 +532,21 @@
    "first_seen": 1784732874.7473896
   },
   {
+   "id": "696881",
+   "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD AMD Ryzen 7 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-AMD-Ryzen-7-16GB-1TB-SSD/p/696881",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hea/438164196360222.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 38499.0,
+   "price_new": 26599.0,
+   "pct": 30.9,
+   "amount": 11900.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
+  },
+  {
    "id": "682703",
    "name": "Maytag Secadora Eléctrica 26Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-Electrica-26Kg/p/682703",
@@ -740,21 +755,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
-  },
-  {
-   "id": "702243",
-   "name": "LG Torre de Lavado de Gas 22Kg/22Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Torre-de-Lavado-de-Gas-22Kg22Kg/p/702243",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/h46/436702494621726.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 48999.0,
-   "price_new": 33999.0,
-   "pct": 30.6,
-   "amount": 15000.0,
-   "starts": "2026-07-18T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784732874.7473896
   },
   {
    "id": "703976",
@@ -1009,7 +1009,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "703464",
+   "name": "Samsung Pantalla 43\" UHD 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/32-a-48-pulgadas/Samsung-Pantalla-43-UHD-4K-Smart-TV/p/703464",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc5/h7d/468998932889630.jpg",
+   "category": "Electronicos",
+   "price_old": 7899.0,
+   "price_new": 5499.0,
+   "pct": 30.4,
+   "amount": 2400.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "671369",
@@ -1219,7 +1234,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "701997",
@@ -1250,6 +1265,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "702943",
+   "name": "Daysa, Arreglo Floral Preservado de Rosas y Follajes, Duración 18 meses",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Flores/Ramos-de-Temporada/Daysa-Arreglo-Floral-Preservado-de-Rosas-y-Follajes-Duracion-18-meses/p/702943",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf2/h96/452433195925534.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 999.0,
+   "price_new": 699.0,
+   "pct": 30.0,
+   "amount": 300.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "671565",
@@ -1354,7 +1384,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "701050",
@@ -1414,7 +1444,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "702960",
@@ -1429,7 +1459,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "694472",
@@ -1789,7 +1819,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "1740698",
@@ -1850,6 +1880,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "1872221",
+   "name": "Timber Ridge Silla con Enfriamiento",
+   "url": "https://www.costco.com.mx/Deportes/Campismo/Accesorios/Timber-Ridge-Silla-con-Enfriamiento/p/1872221",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/h95/448979025461278.jpg",
+   "category": "Deportes",
+   "price_old": 2799.0,
+   "price_new": 1999.0,
+   "pct": 28.6,
+   "amount": 800.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "702573",
@@ -1969,7 +2014,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "653960",
@@ -2119,7 +2164,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "693542",
@@ -2164,7 +2209,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "696962",
@@ -2284,7 +2329,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "684220",
@@ -2329,7 +2374,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "701222",
@@ -2389,7 +2434,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "703077",
@@ -2614,7 +2659,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "521816",
@@ -2809,7 +2854,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "1740878",
+   "name": "Sauna de Vapor con Diseño de Barril Dynamic St Moritz, 2 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-de-Vapor-con-Diseno-de-Barril-Dynamic-St-Moritz-2-Personas/p/1740878",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h91/175849402204190.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 119999.0,
+   "price_new": 89999.0,
+   "pct": 25.0,
+   "amount": 30000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-07-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "693676",
@@ -2977,6 +3037,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "541523",
+   "name": "Omron, Monitor de Presión Arterial de Brazo EVOLV",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Monitores-de-Salud/Omron-Monitor-de-Presion-Arterial-de-Brazo-EVOLV/p/541523",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h0a/414310835453982.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 2799.0,
+   "price_new": 2099.25,
+   "pct": 25.0,
+   "amount": 699.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
+  },
+  {
    "id": "708820",
    "name": "Perry Ellis PE 1356-2 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Perry-Ellis-PE-1356-2-Armazon-Oftalmico/p/708820",
@@ -3064,7 +3139,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "598065",
@@ -3079,7 +3154,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "1740596",
@@ -3109,7 +3184,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "642507",
@@ -3124,7 +3199,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "679490",
@@ -3139,7 +3214,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "666703",
@@ -3154,7 +3229,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "666701",
@@ -3169,7 +3244,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "701220",
@@ -3259,7 +3334,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "695711",
@@ -3274,7 +3349,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671531",
@@ -3289,7 +3364,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "651868",
@@ -3304,7 +3379,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "6161149",
@@ -3334,7 +3409,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "562888",
@@ -3349,7 +3424,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671914",
@@ -3364,7 +3439,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "560049",
@@ -3379,7 +3454,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "668533",
@@ -3394,7 +3469,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "527971",
+   "name": "Colágeno Tipo II 90 Cápsulas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Colageno-y-Glucosamina/Colageno-Tipo-II-90-Capsulas/p/527971",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h05/h64/434737583882270.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 979.0,
+   "price_new": 734.25,
+   "pct": 25.0,
+   "amount": 244.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "560048",
@@ -3409,7 +3499,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671915",
@@ -3424,7 +3514,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "665789",
@@ -3469,7 +3559,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "627288",
@@ -3484,7 +3574,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "580450",
@@ -3499,7 +3589,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "657763",
@@ -3514,7 +3604,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671539",
@@ -3529,7 +3619,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "1176954",
@@ -3574,7 +3664,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "693974",
@@ -3604,7 +3694,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "688724",
@@ -3619,7 +3709,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "702839",
@@ -3634,7 +3724,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "538055",
@@ -3664,7 +3754,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "603081",
@@ -3694,7 +3784,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "697140",
@@ -3709,7 +3799,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "658796",
@@ -3724,7 +3814,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "1472893",
@@ -3754,7 +3844,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "647980",
@@ -3784,7 +3874,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "669160",
@@ -3799,7 +3889,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "546753",
@@ -3814,7 +3904,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "510260",
@@ -3919,7 +4009,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "697944",
@@ -3934,7 +4024,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "634692",
@@ -3949,7 +4039,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "538322",
@@ -3979,7 +4069,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "527517",
@@ -3994,7 +4084,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "997568",
@@ -4024,7 +4114,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "1951827",
@@ -4099,7 +4189,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "634951",
@@ -4129,7 +4219,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "702816",
@@ -4144,7 +4234,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "605693",
@@ -4174,7 +4264,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "518450",
@@ -4189,7 +4279,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "643338",
@@ -4204,7 +4294,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "514163",
+   "name": "Organic Side Maca 110 Cápsulas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Organic-Side-Maca-110-Capsulas/p/514163",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h25/h07/227621138038814.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 419.0,
+   "price_new": 314.25,
+   "pct": 25.0,
+   "amount": 104.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "664844",
@@ -4219,7 +4324,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "664681",
@@ -4234,7 +4339,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "650938",
@@ -4265,6 +4370,21 @@
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "609845",
+   "name": "Vanish Blanco Quitamanchas Líquido 9 l",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Detergentes/Vanish-Blanco-Quitamanchas-Liquido-9-l/p/609845",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6d/h68/81733914591262.jpg",
+   "category": "Grocery",
+   "price_old": 399.0,
+   "price_new": 299.25,
+   "pct": 25.0,
+   "amount": 99.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "1652990",
@@ -4324,7 +4444,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "586993",
@@ -4355,6 +4475,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "500806",
+   "name": "Alka Seltzer 100 Tabletas Efervescentes",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Alka-Seltzer-100-Tabletas-Efervescentes/p/500806",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/hf3/326558812930078.jpg",
+   "category": "Grocery",
+   "price_old": 359.0,
+   "price_new": 269.25,
+   "pct": 25.0,
+   "amount": 89.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "29017",
@@ -4402,6 +4537,21 @@
    "first_seen": 1785172190.5439014
   },
   {
+   "id": "689683",
+   "name": "Marinela Mix de Galletas 2.18kg",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Galletas-y-Cereales/Marinela-Mix-de-Galletas-218kg/p/689683",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1d/h64/309122120646686.jpg",
+   "category": "Grocery",
+   "price_old": 319.0,
+   "price_new": 239.25,
+   "pct": 25.0,
+   "amount": 79.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
+  },
+  {
    "id": "660954",
    "name": "Slim Pop Palomitas Surtidas 20 pzas de 18 g y 4 pzas de 25 g",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Nueces-y-Botanas/Slim-Pop-Palomitas-Surtidas-20-pzas-de-18-g-y-4-pzas-de-25-g/p/660954",
@@ -4414,7 +4564,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "545326",
+   "name": "Cat Chow Alimento Húmedo para Gatos Sabor Pescado 24 pzas 85 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Mascotas/Cat-Chow-Alimento-Humedo-para-Gatos-Sabor-Pescado-24-pzas-85-g/p/545326",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h84/488144960880670.jpg",
+   "category": "Grocery",
+   "price_old": 299.0,
+   "price_new": 224.25,
+   "pct": 25.0,
+   "amount": 74.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "1170783",
@@ -4430,6 +4595,21 @@
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "557885",
+   "name": "Kellogg's Barras de Arroz Inflado Rice Krispies 40 pzas de 22 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Snacks-y-Barras/Kelloggs-Barras-de-Arroz-Inflado-Rice-Krispies-40-pzas-de-22-g/p/557885",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h73/ha4/421243330232350.jpg",
+   "category": "Grocery",
+   "price_old": 279.0,
+   "price_new": 209.25,
+   "pct": 25.0,
+   "amount": 69.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "640120",
@@ -4475,6 +4655,21 @@
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "678533",
+   "name": "Pinol Limpiador Multiusos Aroma Fragancias Finas 5.1 l",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Pinol-Limpiador-Multiusos-Aroma-Fragancias-Finas-51-l/p/678533",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1e/hbb/153296346578974.jpg",
+   "category": "Grocery",
+   "price_old": 219.0,
+   "price_new": 164.25,
+   "pct": 25.0,
+   "amount": 54.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "646703",
@@ -4594,7 +4789,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "693682",
@@ -4744,7 +4939,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671584",
@@ -4999,7 +5194,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "1812517",
+   "name": "Bayside Furnishings, Juego de Comedor de 5 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Sillas/Sillas-de-Comedor/Bayside-Furnishings-Juego-de-Comedor-de-5-piezas/p/1812517",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he0/h67/326559121047582.jpg",
+   "category": "Muebles",
+   "price_old": 15999.0,
+   "price_new": 12399.0,
+   "pct": 22.5,
+   "amount": 3600.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "702949",
@@ -5014,7 +5224,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "6094012",
@@ -5089,7 +5299,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "683950",
@@ -5105,6 +5315,21 @@
    "ends": "2026-07-29T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784738333.5903654
+  },
+  {
+   "id": "1819527",
+   "name": "H2OGO! Parque Acuático Inflable para Niños",
+   "url": "https://www.costco.com.mx/Deportes/Acuaticos/Inflables/H2OGO-Parque-Acuatico-Inflable-para-Ninos/p/1819527",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6a/hcf/386580197900318.jpg",
+   "category": "Deportes",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "693793",
@@ -5149,7 +5374,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "684611",
@@ -5257,21 +5482,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "673695",
-   "name": "Teka Microcampana 76cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Microcampana-76cm/p/673695",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h0a/116624790126622.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 10699.0,
-   "price_new": 8399.0,
-   "pct": 21.5,
-   "amount": 2300.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784732874.7473896
-  },
-  {
    "id": "668825",
    "name": "Samsung Lavasecadora 22Kg / 13Kg con pedestal",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-22Kg-13Kg-con-pedestal/p/668825",
@@ -5284,7 +5494,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "702201",
@@ -5374,7 +5584,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671495",
@@ -5494,7 +5704,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "678130",
@@ -5584,7 +5794,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "687739",
@@ -5614,7 +5824,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "702787",
@@ -5674,7 +5884,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "671479",
@@ -5707,6 +5917,21 @@
    "first_seen": 1785172190.5439014
   },
   {
+   "id": "673695",
+   "name": "Teka Microcampana 76cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Microcampana-76cm/p/673695",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h0a/116624790126622.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 11499.0,
+   "price_new": 9199.0,
+   "pct": 20.0,
+   "amount": 2300.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "683209",
    "name": "Carrier, Aire Acondicionado Minisplit, Enfriamiento y Calefacción, 12,000 BTU, 110V, Gas R32, con Wi-Fi",
    "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Enfriamiento-y-Calefaccion-12000-BTU-110V-Gas-R32-con-Wi-Fi/p/683209",
@@ -5734,7 +5959,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "694132",
@@ -5872,6 +6097,21 @@
    "first_seen": 1784905757.1411
   },
   {
+   "id": "1646063",
+   "name": "Gilman Creek Furniture, Sillón Reclinable Eléctrico de Cuero",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Gilman-Creek-Furniture-Sillon-Reclinable-Electrico-de-Cuero/p/1646063",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h98/h7d/396587278073886.jpg",
+   "category": "Muebles",
+   "price_old": 12999.0,
+   "price_new": 10499.0,
+   "pct": 19.2,
+   "amount": 2500.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
+  },
+  {
    "id": "649824",
    "name": "Maytag Refrigerador 25' French Door",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Maytag-Refrigerador-25-French-Door/p/649824",
@@ -5929,7 +6169,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "692898",
@@ -6049,7 +6289,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "693436",
@@ -6229,7 +6469,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "686097",
@@ -6334,7 +6574,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "595333",
@@ -6484,7 +6724,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "681344",
@@ -6514,7 +6754,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "695913",
@@ -6679,7 +6919,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "654693",
@@ -6949,7 +7189,22 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "679546",
+   "name": "Muebles Liz, Harvey, Love seat Color Café",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Muebles-Liz-Harvey-Love-seat-Color-Cafe/p/679546",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h76/205621448474654.jpg",
+   "category": "Muebles",
+   "price_old": 15999.0,
+   "price_new": 13999.0,
+   "pct": 12.5,
+   "amount": 2000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179422.0274475
   },
   {
    "id": "702699",
@@ -6994,7 +7249,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "696215",
@@ -7069,7 +7324,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "677051",
@@ -7084,7 +7339,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "661183",
@@ -7099,7 +7354,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "661182",
@@ -7114,7 +7369,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "661185",
@@ -7129,7 +7384,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "661184",
@@ -7144,7 +7399,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "686641",
@@ -7264,7 +7519,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785176026.9590461
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "696409",

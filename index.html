@@ -519,10 +519,14 @@ function pickDiverse(cands, n, maxStore, maxCat){
 }
 function isDefaultView(){ return FILTER==='all' && !Q && SORT==='score'; }
 
+/* URL del micrositio de la oferta. Misma regla que micrositios.slugify()
+   en Python: si cambia alla, cambia aqui (los links quedarian en 404). */
+function ofertaSlug(s){s=String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');s=s.replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');if(s.length>70){s=s.slice(0,70);var i=s.lastIndexOf('-');if(i>=0)s=s.slice(0,i);}return s||'oferta';}
+function ofertaUrl(d,store){return '/oferta/'+(store||d._store||'palacio')+'/'+ofertaSlug(d.name)+'-'+d.id+'/';}
 function makeCard(d, i){
   const store = STORES.find(s=>s.key===d._store) || {};
-  const card=document.createElement('a'); card.className='card'; card.href=safeUrl(d.url)||'/'; card.target='_blank'; card.rel='noopener nofollow';
-  card.setAttribute('aria-label','Ver oferta de '+(d.name||'producto')+' en '+(store.name||'')+' (abre en nueva pestaña)');
+  const card=document.createElement('a'); card.className='card'; card.href=ofertaUrl(d, store.path||d._store);
+  card.setAttribute('aria-label','Ver detalle de '+(d.name||'producto')+' en oferta en '+(store.name||''));
   const ib=document.createElement('div'); ib.className='imgbox';
   const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('span'); bp.className='bpct'; bp.textContent='-'+Math.round(d.pct||0)+'%';

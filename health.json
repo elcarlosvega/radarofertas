@@ -25,7 +25,7 @@
    "host": "cloud"
   },
   "coppel": {
-   "last_attempt": 1785169328.0919244,
+   "last_attempt": 1785169459.5191925,
    "items": 0,
    "status": "down",
    "reason": "anti-bot: 1a categoria inaccesible (fetch fallo tras 3 intentos: TimeoutError('The read operation timed out'))",
@@ -48,5 +48,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1785169356.743994
+ "updated_at": 1785169461.1333203
 }

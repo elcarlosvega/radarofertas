@@ -1,7 +1,7 @@
 {
- "generated_at": 1785169351.0962515,
- "generated_at_str": "27/07/2026 10:22",
- "total": 309,
+ "generated_at": 1785172183.479921,
+ "generated_at_str": "27/07/2026 11:09",
+ "total": 392,
  "deals": [
   {
    "id": "685353",
@@ -24,6 +24,28 @@
    "pct": 50.0,
    "amount": 9000.0,
    "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-Queen-Con-Dosel/p/689330"
+  },
+  {
+   "id": "1812505",
+   "name": "Universal Broadmoore, Bellevue, Mesa de Noche",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/ha3/367525932630046.jpg",
+   "category": "Muebles",
+   "price_new": 3999.0,
+   "price_old": 7999.0,
+   "pct": 50.0,
+   "amount": 4000.0,
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Buros/Universal-Broadmoore-Bellevue-Mesa-de-Noche/p/1812505"
+  },
+  {
+   "id": "695045",
+   "name": "HP 15-fd0151la Laptop 15.6\" Full HD Táctil Intel Core i5 8GB 512GB SSD + 12 Meses M365 Personal",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hcf/438163984220190.jpg",
+   "category": "Computadoras y Tablets",
+   "price_new": 8899.0,
+   "price_old": 14999.0,
+   "pct": 40.7,
+   "amount": 6100.0,
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0151la-Laptop-156-Full-HD-Tactil-Intel-Core-i5-8GB-512GB-SSD-12-Meses-M365-Personal/p/695045"
   },
   {
    "id": "694502",
@@ -112,28 +134,6 @@
    "pct": 33.5,
    "amount": 9100.0,
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-carga-superior-27Kg/p/674604"
-  },
-  {
-   "id": "674601",
-   "name": "Whirlpool Refrigerador 13' Top Mount",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbc/h4a/153444905189406.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 8999.0,
-   "price_old": 13999.0,
-   "pct": 35.7,
-   "amount": 5000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-13-Top-Mount/p/674601"
-  },
-  {
-   "id": "701859",
-   "name": "Samsung Galaxy S25 FE 128GB Azul Hielo",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/hca/455780638425118.jpg",
-   "category": "Electronicos",
-   "price_new": 8999.0,
-   "price_old": 13999.0,
-   "pct": 35.7,
-   "amount": 5000.0,
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-FE-128GB-Azul-Hielo/p/701859"
   }
  ]
 }

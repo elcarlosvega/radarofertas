@@ -137,6 +137,42 @@ h1.tag u{text-decoration:none;background:linear-gradient(0deg,rgba(23,201,100,.3
 .chipbtn.soon small{font-size:.62rem;font-weight:800;letter-spacing:.06em;color:var(--mut)}
 /* ---------- MAIN / FEATURED ---------- */
 main{max-width:1200px;margin:0 auto;padding:34px 20px 10px}
+/* ---- Portada del dia: 3 bloques de 3, con el % como protagonista ---- */
+.portada{max-width:1200px;margin:0 auto;padding:26px 20px 0}
+.pblock{margin-bottom:30px}
+.phead{display:flex;align-items:baseline;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+.phead h2{font-size:1.35rem;font-weight:900;letter-spacing:-.02em}
+.phead .psub{font-size:.78rem;color:var(--mut);font-weight:700}
+.phead .pall{margin-left:auto;color:var(--green-dk);font-weight:800;font-size:.84rem;text-decoration:none}
+.p3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.pcard{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;position:relative;text-decoration:none;color:var(--ink);transition:transform .14s,box-shadow .14s}
+.pcard:hover{transform:translateY(-4px);box-shadow:0 16px 34px rgba(13,17,23,.12)}
+.pcard .pimgb{position:relative;padding-top:66%;background:#fff;border-bottom:1px solid var(--line)}
+.pcard .pimgb img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
+.pcard .pbig{position:absolute;top:-10px;left:-10px;z-index:3;background:linear-gradient(145deg,#1ee87a,#0fae55);color:#04220f;font-weight:900;line-height:.9;text-align:center;width:96px;height:96px;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:0 10px 26px rgba(15,174,85,.45);border:4px solid #fff;transform:rotate(-8deg)}
+.pcard .pbig b{font-size:1.9rem;letter-spacing:-.04em;display:block}
+.pcard .pbig i{font-size:.62rem;font-style:normal;letter-spacing:.16em;font-weight:900;opacity:.85}
+.pcard .pbody{padding:16px 16px 18px;display:flex;flex-direction:column;gap:7px;flex:1}
+.pcard .pnm{font-size:.95rem;font-weight:800;line-height:1.28;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.5em}
+.pcard .pst{font-size:.73rem;color:var(--mut);font-weight:700;display:flex;align-items:center;gap:6px}
+.pcard .pst .sd{width:8px;height:8px;border-radius:50%}
+.pcard .pprices{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;margin-top:2px}
+.pcard .ppn{font-size:1.5rem;font-weight:900;letter-spacing:-.03em}
+.pcard .ppo{color:#a3adb8;text-decoration:line-through;font-size:.85rem}
+.pcard .psv{color:var(--green-dk);font-weight:800;font-size:.8rem}
+.pflight .pimgb{padding-top:46%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#0b0f14,#14202b)}
+.pflight .pimgb img{position:static;width:auto;height:54px;max-width:70%;filter:brightness(0) invert(1);opacity:.92;top:auto;left:auto}
+.pflight .pbig{background:linear-gradient(145deg,#39c0ff,#1878d6);color:#04202f;width:auto;height:auto;border-radius:14px;padding:10px 14px;transform:none;top:-8px;left:-8px}
+.pflight .pbig b{font-size:1.35rem}
+.pruta{font-size:1.02rem;font-weight:900;letter-spacing:-.02em}
+@media(max-width:860px){
+  .portada{padding:18px 14px 0}
+  .p3{grid-template-columns:1fr;gap:12px}
+  .phead h2{font-size:1.15rem}
+  .pcard .pbig{width:80px;height:80px}
+  .pcard .pbig b{font-size:1.6rem}
+}
+
 .sechead{display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
 .sechead h2{font-size:1.35rem;font-weight:900;letter-spacing:-.02em}
 .sechead .live{display:inline-flex;align-items:center;gap:6px;font-size:.74rem;color:var(--mut)}
@@ -338,6 +374,26 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
 </div>
 
 <noscript><p style="max-width:1200px;margin:20px auto;padding:0 20px">Radar Ofertas MX reúne las mejores ofertas de México, actualizadas cada hora: <a href="/palacio/">ofertas de Palacio de Hierro</a>, <a href="/amazon/">ofertas de Amazon México</a>, <a href="/costco/">ofertas de Costco</a>, <a href="/mercadolibre/">ofertas de Mercado Libre</a> y <a href="/coppel/">ofertas de Coppel</a>. Activa JavaScript para ver las ofertas en vivo.</p></noscript>
+<section class="portada" id="portada" hidden>
+  <div class="pblock" id="pb-dest" hidden>
+    <div class="phead"><h2>Ofertas destacadas</h2>
+      <span class="psub" id="pdest-sub"></span>
+      <a class="pall" href="#destacadas">Ver todas las ofertas →</a></div>
+    <div class="p3" id="p-dest"></div>
+  </div>
+  <div class="pblock" id="pb-vuelos" hidden>
+    <div class="phead"><h2>Vuelos destacados</h2>
+      <span class="psub">los 3 más baratos que detectó el radar</span>
+      <a class="pall" href="/vuelos/">Ver todos los vuelos →</a></div>
+    <div class="p3" id="p-vuelos"></div>
+  </div>
+  <div class="pblock" id="pb-parati" hidden>
+    <div class="phead"><h2>Ofertas para ti</h2>
+      <span class="psub">selección del día</span></div>
+    <div class="p3" id="p-parati"></div>
+  </div>
+</section>
+
 <main id="destacadas">
   <div class="sechead">
     <h2>Ofertas destacadas</h2>
@@ -689,6 +745,52 @@ function updateStats(){
 // init
 $('grid').innerHTML='<div class="sk"></div>'.repeat(8);
 buildChips();
+
+/* ---------- Portada del dia (home.json) ----------------------------------
+   Los tres bloques los elige portada.py una vez al dia a las 23:59. Aqui solo
+   se pintan. El % va grande porque es lo que frena el scroll. */
+function esc(t){return String(t==null?'':t).replace(/[&<>"]/g,function(c){
+  return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function pcardHtml(d){
+  const store = STORES.find(s=>s.key===d._store) || {};
+  const pct = Math.round(d.pct||0);
+  const img = safeUrl(d.img);
+  return '<a class="pcard" href="'+esc(ofertaUrl(d, store.path||d._store))+'">'+
+    '<div class="pimgb"><span class="pbig"><b>-'+pct+'%</b><i>OFF</i></span>'+
+    (img?'<img loading="lazy" src="'+esc(img)+'" alt="'+esc(d.name)+'">':'')+'</div>'+
+    '<div class="pbody">'+
+      '<div class="pnm">'+esc(d.name)+'</div>'+
+      '<div class="pst"><span class="sd" style="background:'+(store.accent||'#999')+'"></span>'+
+        esc(store.name||'')+(d.category?' · '+esc(d.category):'')+'</div>'+
+      '<div class="pprices"><span class="ppn">'+money(d.price_new)+'</span>'+
+        '<span class="ppo">'+money(d.price_old)+'</span></div>'+
+      '<div class="psv">Ahorras '+money(d.amount)+'</div>'+
+    '</div></a>';
+}
+function vuelocardHtml(v){
+  const ruta = (v.origin_name||v.origin||'')+' → '+(v.destination_name||v.destination||'');
+  const cuando = (v.departure_at||'').slice(0,10).split('-').reverse().join('/');
+  return '<a class="pcard pflight" href="'+esc(safeUrl(v.link)||'/vuelos/')+'" target="_blank" rel="noopener nofollow">'+
+    '<div class="pimgb"><span class="pbig"><b>'+money(v.price)+'</b></span>'+
+    (v.logo?'<img loading="lazy" src="'+esc(v.logo)+'" alt="'+esc(v.airline_title||'')+'">':'')+'</div>'+
+    '<div class="pbody">'+
+      '<div class="pruta">'+esc(ruta)+'</div>'+
+      '<div class="pst">'+esc(v.airline_title||v.airline||'')+(cuando?' · sale '+cuando:'')+'</div>'+
+      '<div class="psv">'+(v.return_at?'viaje redondo':'vuelo sencillo')+' desde '+money(v.price)+'</div>'+
+    '</div></a>';
+}
+function pintarPortada(h){
+  if(!h) return;
+  const dest=(h.destacadas||[]), vue=(h.vuelos||[]), pt=(h.para_ti||[]);
+  if(dest.length){ $('p-dest').innerHTML=dest.map(pcardHtml).join(''); $('pb-dest').hidden=false;
+    $('pdest-sub').textContent='los 3 mayores descuentos de hoy'; }
+  if(vue.length){ $('p-vuelos').innerHTML=vue.map(vuelocardHtml).join(''); $('pb-vuelos').hidden=false; }
+  if(pt.length){ $('p-parati').innerHTML=pt.map(pcardHtml).join(''); $('pb-parati').hidden=false; }
+  if(dest.length||vue.length||pt.length) $('portada').hidden=false;
+}
+fetch('/home.json?_='+Date.now(),{cache:'no-store'})
+  .then(r=>r.ok?r.json():null).then(pintarPortada).catch(()=>{});
+
 Promise.all(STORES.map(loadStore)).then(res=>{
   RESULTS=res;
   if(!res.some(Boolean)){ $('grid').innerHTML='<div class="err">No se pudieron cargar las ofertas ahora. <button onclick="location.reload()">Reintentar</button></div>'; $('scanstat').textContent='sin conexión con el radar'; return; }

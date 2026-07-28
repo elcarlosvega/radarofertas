@@ -34,7 +34,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <style>
 :root{
   --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
-  --green:#17c964; --green-dk:#0a7a3d; --green-soft:#e7f9ef; --dark:#0b0f14;
+  --green:#17c964; --green-dk:#0e9f4f; --green-soft:#e7f9ef; --dark:#0b0f14;
   --sac:#e47911; --sac2:#ff9900; --sbg:#fbeed8; --spanel:#fbe8cd;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -65,7 +65,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 h1{font-size:clamp(1.7rem,3.6vw,2.5rem);font-weight:900;letter-spacing:-.03em;line-height:1.05;margin:14px 0 8px}
 h1 em{color:var(--sac);font-style:normal}
 .sub{color:var(--mut);font-size:.92rem}
-.stalebar{margin-top:14px;background:#fff7e6;border:1px solid #f0d9a8;color:#7a5a00;border-radius:12px;padding:12px 16px;font-size:.88rem;font-weight:650}
 .searchbox{max-width:1200px;margin:-26px auto 0;padding:0 20px;position:relative;z-index:5}
 .searchin{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 14px 34px rgba(13,17,23,.08);padding:14px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
 .sfield{flex:1;min-width:200px;display:flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:12px;padding:0 14px;background:#fbfcfd}
@@ -80,15 +79,18 @@ h1 em{color:var(--sac);font-style:normal}
 .card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(13,17,23,.10)}
 .imgb{position:relative;padding-top:100%;background:#fff;border-bottom:1px solid #f0f2f5}
 .imgb img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
-.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#062812;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
+.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
 .schip{position:absolute;top:12px;right:12px;background:var(--spanel);color:var(--ink);font-weight:800;font-size:.6rem;letter-spacing:.05em;padding:4px 8px;border-radius:99px}
 .cb{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .nm{font-size:.9rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
 .catl{font-size:.68rem;color:var(--mut)}
 .pr{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-top:2px}
 .pn{font-weight:900;font-size:1.28rem;letter-spacing:-.02em}
-.po{color:#a3adb8;font-size:.72rem}
+.po{color:#a3adb8;text-decoration:line-through;font-size:.82rem}
 .sv{color:var(--green-dk);font-weight:800;font-size:.76rem}
+.sparkw{margin-top:auto;padding-top:9px;border-top:1px dashed #edf0f3}
+.sparkw svg{display:block;width:100%;height:26px}
+.sparkl{display:flex;justify-content:space-between;font-size:.6rem;color:#a3adb8;margin-top:3px}
 .go{display:block;text-align:center;background:var(--dark);color:#fff;font-weight:800;font-size:.8rem;padding:10px;border-radius:10px;margin-top:9px}
 .empty{max-width:1200px;margin:0 auto;padding:40px 20px;text-align:center;color:var(--mut)}
 .sk{background:#fff;border:1px solid var(--line);border-radius:16px;height:340px;position:relative;overflow:hidden}
@@ -104,7 +106,6 @@ footer a{color:var(--green-dk);font-weight:700}
   .grid{grid-template-columns:repeat(2,1fr);gap:10px}
   .cb{padding:10px 11px 12px}.pn{font-size:1.08rem}
 }
-@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
@@ -125,7 +126,6 @@ footer a{color:var(--green-dk);font-weight:700}
     </a>
     <div class="tabs" id="tabs">
       <a class="tab" href="/">Inicio</a>
-      <a class="tab" href="/vuelos/">✈ Vuelos</a>
       <a class="tab" href="/palacio/">Palacio</a>
       <a class="tab" href="/amazon/">Amazon</a>
       <a class="tab" href="/costco/">Costco</a>
@@ -159,11 +159,11 @@ footer a{color:var(--green-dk);font-weight:700}
     </div>
   </div>
 </div>
-<div class="cnt" id="cnt" aria-live="polite"></div>
+<div class="cnt" id="cnt"></div>
 <div class="grid" id="grid"><!--G1--><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><!--G2--></div>
 <div class="empty" id="empty" style="display:none"></div>
 <footer>
-  Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. El «precio anterior» mostrado en esta página es el promedio de los últimos 90 días (datos de Keepa), no necesariamente el precio tachado que muestra Amazon. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
+  Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
   <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.<br>
   <a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a>
 </footer>
@@ -174,16 +174,32 @@ var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){re
 var money=function(v){v=Number(v||0);var dec=Number.isInteger(v)?0:2;return '$'+v.toLocaleString('es-MX',{minimumFractionDigits:dec,maximumFractionDigits:dec});};
 var score=function(d){return (d.pct||0)*Math.log10(10+(d.amount||0));};
 var ALL=[],q='',sort='score';
+// sparkline decorativo determinista (aún no hay histórico real)
+function sparkSvg(id){
+  var h=2166136261,s=String(id||'x'),i;
+  for(i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}
+  var rnd=function(){h=Math.imul(h^h>>>15,2246822507);h=Math.imul(h^h>>>13,3266489909);return ((h^=h>>>16)>>>0)/4294967296;};
+  var y=6+rnd()*6,pts=[],x;
+  for(x=0;x<=7;x++){pts.push((x*(100/7)).toFixed(1)+','+Math.max(3,Math.min(23,y)).toFixed(1));y+=(rnd()-0.38)*7;}
+  var last=pts[pts.length-1].split(',');
+  return '<svg viewBox="0 0 100 26" preserveAspectRatio="none" aria-hidden="true"><polyline points="'+pts.join(' ')+'" fill="none" stroke="#17c964" stroke-width="1.6" opacity=".75"/><circle cx="'+last[0]+'" cy="'+last[1]+'" r="2" fill="#17c964"/></svg>';
+}
+var OFERTA_STORE='amazon';
+/* URL del micrositio de la oferta. Misma regla que micrositios.slugify()
+   en Python: si cambia alla, cambia aqui (los links quedarian en 404). */
+function ofertaSlug(s){s=String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');s=s.replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');if(s.length>70){s=s.slice(0,70);var i=s.lastIndexOf('-');if(i>=0)s=s.slice(0,i);}return s||'oferta';}
+function ofertaUrl(d,store){return '/oferta/'+(store||d._store||OFERTA_STORE)+'/'+ofertaSlug(d.name)+'-'+d.id+'/';}
 function cardHtml(d){
-  return '<a class="card" href="'+esc(safeUrl(d.url)||'/')+'" target="_blank" rel="noopener nofollow">'+
-    '<span class="bpct" title="vs promedio de 90 días">-'+Math.round(d.pct||0)+'%</span>'+
+  return '<a class="card" href="'+esc(ofertaUrl(d))+'">'+
+    '<span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+
     '<span class="schip">AMAZON</span>'+
-    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" onerror="this.remove()" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
+    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
     '<div class="cb">'+
     '<div class="nm">'+esc(d.name)+'</div>'+
     '<div class="catl">'+esc(d.category)+'</div>'+
-    '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po" title="Precio promedio de los últimos 90 días (datos de Keepa)">prom. 90 días: '+money(d.price_old)+'</span></div>'+
-    '<div class="sv">'+Math.round(d.pct||0)+'% por debajo del promedio de 90 días</div>'+
+    '<div class="pr"><span class="pn">'+money(d.price_new)+'</span><span class="po">'+money(d.price_old)+'</span></div>'+
+    '<div class="sv">Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)</div>'+
+    '<div class="sparkw">'+sparkSvg(d.id)+'<div class="sparkl"><span>Historial de precio</span><span>7 días</span></div></div>'+
     '<span class="go">Ver oferta →</span></div></a>';
 }
 function render(){
@@ -204,7 +220,6 @@ document.getElementById('sort').addEventListener('change',function(e){sort=e.tar
 fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
   ALL=(d&&d.deals)||[];
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
-  if(d&&d.generated_at&&(Date.now()-d.generated_at*1000)>216e5){var _sb=document.createElement('div');_sb.className='stalebar';_sb.setAttribute('role','status');_sb.innerHTML='\u26a0 <b>Temporalmente sin actualizaci\u00f3n.</b> \u00daltimo dato real: '+esc((d&&d.generated_at_str)||'desconocido')+'. Los precios pueden haber cambiado.';var _h=document.querySelector('.heroin');if(_h)_h.appendChild(_sb);}
   render();
 }).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Recarga en un momento.';});
 </script>

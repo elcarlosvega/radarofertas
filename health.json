@@ -10,12 +10,13 @@
    "micro_pages": 2
   },
   "palacio": {
-   "last_attempt": 1785212146.8699417,
-   "last_complete_sweep": 1785212146.8699417,
-   "items": 5541,
+   "last_attempt": 1785216092.15394,
+   "last_complete_sweep": 1785216092.15394,
+   "items": 5532,
    "status": "ok",
    "reason": "",
-   "host": "cloud"
+   "host": "cloud",
+   "micro_pages": 9
   },
   "vuelos": {
    "last_attempt": 1785212290.9148593,
@@ -51,5 +52,5 @@
    "micro_pages": 90
   }
  },
- "updated_at": 1785215866.4443793
+ "updated_at": 1785216099.6098902
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785261301.793349,
- "generated_at_str": "28/07/2026 12:05",
+ "generated_at": 1785264901.7926373,
+ "generated_at_str": "28/07/2026 13:04",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -455,20 +455,6 @@
    "in_stock": true
   },
   {
-   "id": "1301871367",
-   "name": "CPU Dell 3060 SFF Core i3-8a 8GB RAM 256GB SSD REACONDICIONADO",
-   "url": "https://www.elektra.mx/cpu-dell-3060-sff-core-i3-8a-8gb-ram-256gb-ssd-reacondicionado-1301871367/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/29147451/3060-2.jpeg.jpg?v=639155212101030000",
-   "category": "Cómputo",
-   "price_old": 8799.0,
-   "price_new": 2699.0,
-   "pct": 69.3,
-   "amount": 6100.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
    "id": "1301882959",
    "name": "MacBook Air 15, M3 8GB 512GB SPACE GRAY Reacondicionado",
    "url": "https://www.elektra.mx/macbook-air-15-m3-8gb-512gb-space-gray-reacondicionado-1301882959/p",
@@ -917,6 +903,20 @@
    "in_stock": true
   },
   {
+   "id": "1301061753",
+   "name": "Colchon King Size Restonic Roll Negro+ Box+ Almohada One+ Protector Ultra+ Sabanas Softy+ Edredon Homy RGH",
+   "url": "https://www.elektra.mx/colchon-king-size-restonic-roll-negro-box-almohada-one-protector-ultra-sabanas-softy-edredon-homy-rgh-1301061753/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641813/Dicasa-Roll-Box-Ks-One-Protector-Softy-Homy-Gris.jpg?v=639033452000330000",
+   "category": "Colchones y Boxes",
+   "price_old": 35700.0,
+   "price_new": 15399.0,
+   "pct": 56.9,
+   "amount": 20301.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301063402",
    "name": "Colchon King Size Restonic Roll Negro+ Box+ Almohada Royal Twin+ Sabanas Royal RGH",
    "url": "https://www.elektra.mx/colchon-king-size-restonic-roll-negro-box-almohada-royal-twin-sabanas-royal-rgh-1301063402/p",
@@ -1026,6 +1026,20 @@
    "amount": 18008.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061752",
+   "name": "Colchon King Size Restonic DicasaInaBox Negro+ Box+ Protector Ultra+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-king-size-restonic-dicasainabox-negro-box-protector-ultra-sabanas-softy-rgh-1301061752/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641800/Dicasa-Dicasa-Inabox-Box-Belucci-Black-KS-Ultra-Softy.jpg?v=639033451956200000",
+   "category": "Colchones y Boxes",
+   "price_old": 33250.0,
+   "price_new": 14349.0,
+   "pct": 56.8,
+   "amount": 18901.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -1208,6 +1222,34 @@
    "amount": 4299.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061758",
+   "name": "Colchon King Size Restonic Roll Negro+ Box+ Almohada 2Pack RGH",
+   "url": "https://www.elektra.mx/colchon-king-size-restonic-roll-negro-box-almohada-2pack-rgh-1301061758/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641830/Roll-Box-2-Pack-Ks.jpg?v=639033452122970000",
+   "category": "Colchones y Boxes",
+   "price_old": 31500.0,
+   "price_new": 13699.0,
+   "pct": 56.5,
+   "amount": 17801.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
+   "id": "1301061749",
+   "name": "Colchon King Size Restonic DicasaInaBox Negro+ Box+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-king-size-restonic-dicasainabox-negro-box-sabanas-softy-rgh-1301061749/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641780/Dicasa-Dicasa-Inabox-Box-Belucci-Black-KS-Softy.jpg?v=639033451887300000",
+   "category": "Colchones y Boxes",
+   "price_old": 31850.0,
+   "price_new": 13899.0,
+   "pct": 56.4,
+   "amount": 17951.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -1519,6 +1561,20 @@
    "in_stock": true
   },
   {
+   "id": "1301061711",
+   "name": "Colchon Queen Size Restonic Roll Negro+ Box+ Almohada One+ Protector Ultra+ Sabanas Softy+ Edredon Homy RGH",
+   "url": "https://www.elektra.mx/colchon-queen-size-restonic-roll-negro-box-almohada-one-protector-ultra-sabanas-softy-edredon-homy-rgh-1301061711/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641585/Dicasa-Roll-Box-One-Protector-Softy-Homy-Gris.jpg?v=639033415849930000",
+   "category": "Colchones y Boxes",
+   "price_old": 26250.0,
+   "price_new": 11399.0,
+   "pct": 56.6,
+   "amount": 14851.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301945345",
    "name": "Colchón Queen Size Spring Air Phantom + Almohada Osos + Protector Ultra TRY",
    "url": "https://www.elektra.mx/colchon-queen-size-spring-air-phantom-almohada-osos-protector-ultra-try-1301945345/p",
@@ -1740,6 +1796,20 @@
    "amount": 14201.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061642",
+   "name": "Colchon Queen Size Restonic Roll Negro+ Box+ Almohada One+ Protector Ultra+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-queen-size-restonic-roll-negro-box-almohada-one-protector-ultra-sabanas-softy-rgh-1301061642/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641330/ROLL-BOX-BLACK-ONE-SOFTY-PROTECTOR.jpg?v=639033415093170000",
+   "category": "Colchones y Boxes",
+   "price_old": 25200.0,
+   "price_new": 10999.0,
+   "pct": 56.4,
+   "amount": 14201.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -2107,6 +2177,20 @@
    "in_stock": true
   },
   {
+   "id": "1301061716",
+   "name": "Colchon Queen Size Restonic DicasaInaBox Negro+ Box+ Protector Ultra+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-queen-size-restonic-dicasainabox-negro-box-protector-ultra-sabanas-softy-rgh-1301061716/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641615/Dicasa-Dicasa-Inabox-Box-Belucci-Black-Ultra-Softy.jpg?v=639033415918200000",
+   "category": "Colchones y Boxes",
+   "price_old": 23800.0,
+   "price_new": 10449.0,
+   "pct": 56.1,
+   "amount": 13351.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301748407",
    "name": "Colchon Restonic Trini Gris King Size+ Box+ Almohada 2Pack+ Edredon Homy CZD",
    "url": "https://www.elektra.mx/colchon-restonic-trini-gris-king-size-box-almohada-2pack-edredon-homy-czd-1301748407/p",
@@ -2261,6 +2345,20 @@
    "in_stock": true
   },
   {
+   "id": "1301061690",
+   "name": "Colchon Matrimonial Restonic Roll Negro+ Box+ Almohada One+ Protector Ultra+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-matrimonial-restonic-roll-negro-box-almohada-one-protector-ultra-sabanas-softy-rgh-1301061690/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641492/ROLL-BOX-BLACK-ONE-SOFTY-PROTECTOR.jpg?v=639033415623630000",
+   "category": "Colchones y Boxes",
+   "price_old": 23100.0,
+   "price_new": 10149.0,
+   "pct": 56.1,
+   "amount": 12951.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301470243",
    "name": "Colchon Nautilus Restonic King Size+ Box+ Protector Ultra RGH",
    "url": "https://www.elektra.mx/colchon-nautilus-restonic-king-size-box-protector-ultra-rgh-1301470243/p",
@@ -2272,6 +2370,20 @@
    "amount": 14001.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061697",
+   "name": "Colchon Matrimonial Restonic Roll Negro+ Box+ Almohada One+ Protector Ultra+ Sabanas Softy+ Edredon Homy RGH",
+   "url": "https://www.elektra.mx/colchon-matrimonial-restonic-roll-negro-box-almohada-one-protector-ultra-sabanas-softy-edredon-homy-rgh-1301061697/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641533/Dicasa-Roll-Box-One-Protector-Softy-Homy-Gris.jpg?v=639033415714430000",
+   "category": "Colchones y Boxes",
+   "price_old": 23800.0,
+   "price_new": 10499.0,
+   "pct": 55.9,
+   "amount": 13301.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -2737,6 +2849,20 @@
    "in_stock": true
   },
   {
+   "id": "1301061670",
+   "name": "Colchon QueenSize Restonic DicasaInaBox Negro+ Box+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-queensize-restonic-dicasainabox-negro-box-sabanas-softy-rgh-1301061670/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641412/Dicasa-Dicasa-Inabox-Box-Belucci-Black-Softy.jpg?v=639033415385700000",
+   "category": "Colchones y Boxes",
+   "price_old": 22750.0,
+   "price_new": 10099.0,
+   "pct": 55.6,
+   "amount": 12651.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301951943",
    "name": "Colchon Matrimonial Spring Air Omega Negro+ Protector Ultra TRY",
    "url": "https://www.elektra.mx/colchon-matrimonial-spring-air-omega-negro-protector-ultra-try-1301951943/p",
@@ -2776,6 +2902,20 @@
    "amount": 9251.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061659",
+   "name": "Colchon Matrimonial Restonic DicasaInaBox Negro+ Box+ Protector Ultra+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-matrimonial-restonic-dicasainabox-negro-box-protector-ultra-sabanas-softy-rgh-1301061659/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641385/Dicasa-Dicasa-Inabox-Box-Belucci-Black-Ultra-Softy.jpg?v=639033415275270000",
+   "category": "Colchones y Boxes",
+   "price_old": 21700.0,
+   "price_new": 9599.0,
+   "pct": 55.8,
+   "amount": 12101.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -2916,6 +3056,20 @@
    "amount": 12401.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061744",
+   "name": "Colchon Queen Size Restonic Roll Negro+ Box+ Almohada 2Pack RGH",
+   "url": "https://www.elektra.mx/colchon-queen-size-restonic-roll-negro-box-almohada-2pack-rgh-1301061744/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641738/Roll-Box-2-Pack.jpg?v=639033416243370000",
+   "category": "Colchones y Boxes",
+   "price_old": 22400.0,
+   "price_new": 9999.0,
+   "pct": 55.4,
+   "amount": 12401.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -3493,6 +3647,20 @@
    "in_stock": true
   },
   {
+   "id": "1301061689",
+   "name": "Colchon Matrimonial Restonic DicasaInaBox Negro+ Box+ Sabanas Softy RGH",
+   "url": "https://www.elektra.mx/colchon-matrimonial-restonic-dicasainabox-negro-box-sabanas-softy-rgh-1301061689/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641482/Dicasa-Dicasa-Inabox-Box-Belucci-Black-Softy.jpg?v=639033415605330000",
+   "category": "Colchones y Boxes",
+   "price_old": 20650.0,
+   "price_new": 9249.0,
+   "pct": 55.2,
+   "amount": 11401.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301936168",
    "name": "Colchon Spring Air Mónaco Queen Size Azul+ Almohada Oso+ Protector Ultra+ Sabanas Basic TRY",
    "url": "https://www.elektra.mx/colchon-spring-air-monaco-queen-size-azul-almohada-oso-protector-ultra-sabanas-basic-try-1301936168/p",
@@ -3840,6 +4008,20 @@
    "amount": 11151.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1301061612",
+   "name": "Colchon Matrimonial Restonic Roll Negro+ Box+ Almohada 2Pack RGH",
+   "url": "https://www.elektra.mx/colchon-matrimonial-restonic-roll-negro-box-almohada-2pack-rgh-1301061612/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/21641229/Roll-Box-2-Pack.jpg?v=639033414791800000",
+   "category": "Colchones y Boxes",
+   "price_old": 20300.0,
+   "price_new": 9149.0,
+   "pct": 54.9,
+   "amount": 11151.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -7567,6 +7749,20 @@
    "in_stock": true
   },
   {
+   "id": "1301849333",
+   "name": "Cpu Hp EliteDesk 705 g3, AMD PRO A10, 4gb de ram, 500gb de almacenamiento HDD, Equipo Reacondicionado.",
+   "url": "https://www.elektra.mx/cpu-hp-elitedesk-705-g3-amd-pro-a10-4gb-de-ram-500gb-de-almacenamiento-hdd-equipo-reacondicionado-1301849333/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/28733851/1.jpg?v=639148393245700000",
+   "category": "Cómputo",
+   "price_old": 2699.0,
+   "price_new": 999.0,
+   "pct": 63.0,
+   "amount": 1700.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1301945331",
    "name": "Colchón Matrimonial Spring Air Premier TRY",
    "url": "https://www.elektra.mx/colchon-matrimonial-spring-air-premier-try-1301945331/p",
@@ -8010,6 +8206,20 @@
    "price_new": 8059.0,
    "pct": 51.2,
    "amount": 8441.0,
+   "ends": "",
+   "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1300447886",
+   "name": "Caminadora Multifuncional con Escalador SPARTA WALK2in1",
+   "url": "https://www.elektra.mx/caminadora-multifuncional-con-escalador-sparta-walk2in1-1300447886/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/30426705/APUSPA0004_CAMINADORA_2en1_17_q5aot6jpeg.jpg?v=639186265934100000",
+   "category": "Deportes",
+   "price_old": 8800.0,
+   "price_new": 3999.0,
+   "pct": 54.6,
+   "amount": 4801.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
    "in_stock": true
@@ -10759,17 +10969,17 @@
    "in_stock": true
   },
   {
-   "id": "1301871354",
-   "name": "CPU Lenovo M720 TINY Core i3-8a 16GB-256GB+500GB HDD Reacondicionado",
-   "url": "https://www.elektra.mx/cpu-lenovo-m720-tiny-core-i3-8a-16gb-256gb500gb-hdd-reacondicionado-1301871354/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/29147395/M720-1.jpeg.jpg?v=639155211940870000",
-   "category": "Cómputo",
-   "price_old": 6399.0,
-   "price_new": 2999.0,
-   "pct": 53.1,
-   "amount": 3400.0,
+   "id": "1301950858",
+   "name": "INFINIX HOT 70 (4+4) GB 256 GB 4G",
+   "url": "https://www.elektra.mx/infinix-hot-70-4-4-gb-256-gb-4g-1301950858/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/30416730/4894947121760.jpg?v=639185537502930000",
+   "category": "Telefonía",
+   "price_old": 10118.0,
+   "price_new": 4999.0,
+   "pct": 50.6,
+   "amount": 5119.0,
    "ends": "",
-   "first_seen": 1785261301.793349,
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -10908,20 +11118,6 @@
    "price_new": 13199.0,
    "pct": 46.1,
    "amount": 11301.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
-   "id": "1300447886",
-   "name": "Caminadora Multifuncional con Escalador SPARTA WALK2in1",
-   "url": "https://www.elektra.mx/caminadora-multifuncional-con-escalador-sparta-walk2in1-1300447886/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/30426705/APUSPA0004_CAMINADORA_2en1_17_q5aot6jpeg.jpg?v=639186265934100000",
-   "category": "Deportes",
-   "price_old": 8800.0,
-   "price_new": 4299.0,
-   "pct": 51.1,
-   "amount": 4501.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
    "in_stock": true
@@ -11258,20 +11454,6 @@
    "price_new": 4999.0,
    "pct": 50.0,
    "amount": 5000.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
-   "id": "1300033092",
-   "name": "Parrilla de gas 3 quemadores vidrio templado 60 cm Premium AVERA VT3",
-   "url": "https://www.elektra.mx/parrilla-a-gas-3-quemadores-vidrio-templado-avera-vt3-1300033092/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/29263656/7500836007660.jpg?v=639160312897570000",
-   "category": "Línea blanca",
-   "price_old": 3919.0,
-   "price_new": 1749.0,
-   "pct": 55.4,
-   "amount": 2170.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
    "in_stock": true
@@ -13251,6 +13433,20 @@
    "in_stock": true
   },
   {
+   "id": "1301860195",
+   "name": "PC HP 600 G4 SFF, Intel Core i5-8a, 16GB RAM, 256GB SSD, MONITOR 22\"",
+   "url": "https://www.elektra.mx/pc-hp-600-g4-sff-intel-core-i5-8a-16gb-ram-256gb-ssd-monitor-22-1301860195/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/28896791/PCHP-600G4.jpeg.jpg?v=639152620450630000",
+   "category": "Cómputo",
+   "price_old": 8799.0,
+   "price_new": 4499.0,
+   "pct": 48.9,
+   "amount": 4300.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
    "id": "1300451612",
    "name": "Colchón Hotelero Individual Dormez Ortopédic Antiácaros Hipoalergenico",
    "url": "https://www.elektra.mx/colchon-hotelero-individual-dormez-ortopedic-antiacaros-hipoalergenico-1300451612/p",
@@ -14592,6 +14788,34 @@
    "amount": 4301.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1300800272",
+   "name": "Motorola Moto Edge 60 Pro 512GB Libre Cobalto",
+   "url": "https://www.elektra.mx/motorola-moto-edge-60-pro-512gb-libre-cobalto-31062549/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/28795646/31062549.jpg?v=639149142415070000",
+   "category": "Telefonía",
+   "price_old": 14999.0,
+   "price_new": 8199.0,
+   "pct": 45.3,
+   "amount": 6800.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
+   "in_stock": true
+  },
+  {
+   "id": "1300800271",
+   "name": "Motorola Moto Edge 60 Pro 512GB Libre Gris",
+   "url": "https://www.elektra.mx/motorola-moto-edge-60-pro-512gb-libre-gris-31062547/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/28795637/31062547.jpg?v=639149142379900000",
+   "category": "Telefonía",
+   "price_old": 14999.0,
+   "price_new": 8199.0,
+   "pct": 45.3,
+   "amount": 6800.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -16144,20 +16368,6 @@
    "price_new": 5399.0,
    "pct": 46.0,
    "amount": 4600.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
-   "id": "1301871366",
-   "name": "CPU Dell 3060 SFF Core i3-8a 16GB RAM 512GB SSD REACONDICIONADO",
-   "url": "https://www.elektra.mx/cpu-dell-3060-sff-core-i3-8a-16gb-ram-512gb-ssd-reacondicionado-1301871366/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/29147446/3060-2.jpeg.jpg?v=639155212090030000",
-   "category": "Cómputo",
-   "price_old": 8799.0,
-   "price_new": 4699.0,
-   "pct": 46.6,
-   "amount": 4100.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
    "in_stock": true
@@ -23723,20 +23933,6 @@
    "in_stock": true
   },
   {
-   "id": "1300721049",
-   "name": "FERRAGAMO SIGNORINA MISTERIOSA 100ML EDP SPRAY",
-   "url": "https://www.elektra.mx/ferragamo-signorina-misteriosa-100ml-edp-spray-1300721049/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/28900494/JFE41114_1.jpeg.jpg?v=639152751021570000",
-   "category": "Belleza y Cuidado Personal",
-   "price_old": 1165.0,
-   "price_new": 544.0,
-   "pct": 53.3,
-   "amount": 621.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
    "id": "1301793542",
    "name": "Colchón Matrimonial América Palmer",
    "url": "https://www.elektra.mx/colchon-matrimonial-america-palmer-14004822/p",
@@ -24717,20 +24913,6 @@
    "in_stock": true
   },
   {
-   "id": "1301860138",
-   "name": "PC HP 280 G5 SFF Intel Core i5-10a 16GB RAM 1TB SSD Monitor 19\"",
-   "url": "https://www.elektra.mx/pc-hp-280-g5-sff-intel-core-i5-10a-16gb-ram-1tb-ssd-monitor-19-1301860138/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/28896616/PCHP-600G4.jpeg.jpg?v=639152619823270000",
-   "category": "Cómputo",
-   "price_old": 9299.0,
-   "price_new": 5499.0,
-   "pct": 40.9,
-   "amount": 3800.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
    "id": "1300355057",
    "name": "Licuadora Ninja Profesional Plus Blender Auto-iq 2.1 L Bn700 REACONDICIONADO",
    "url": "https://www.elektra.mx/licuadora-ninja-profesional-plus-blender-auto-iq-21-l-bn700-reacondicionado-1300355057/p",
@@ -25442,6 +25624,20 @@
    "amount": 1420.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
+   "in_stock": true
+  },
+  {
+   "id": "1300387572",
+   "name": "iPhone 13 128GB Reacondicionado",
+   "url": "https://www.elektra.mx/iphone-13-128gb-reacondicionado-1300387572/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/28914063/732131474039.jpg?v=639152876898500000",
+   "category": "Telefonía",
+   "price_old": 9499.0,
+   "price_new": 5699.0,
+   "pct": 40.0,
+   "amount": 3800.0,
+   "ends": "",
+   "first_seen": 1785264901.7926373,
    "in_stock": true
   },
   {
@@ -26266,20 +26462,6 @@
    "price_new": 1429.0,
    "pct": 45.0,
    "amount": 1170.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true
-  },
-  {
-   "id": "1301185843",
-   "name": "212 MEN 200ML EDT SPRAY",
-   "url": "https://www.elektra.mx/212-men-200ml-edt-spray-1301185843/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/22917751/65068761_1.jpg?v=639064220858100000",
-   "category": "Belleza y Cuidado Personal",
-   "price_old": 3339.0,
-   "price_new": 1884.0,
-   "pct": 43.6,
-   "amount": 1455.0,
    "ends": "",
    "first_seen": 1785254101.7380245,
    "in_stock": true

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785211902.1132605,
- "generated_at_str": "27/07/2026 22:11",
+ "generated_at": 1785215862.1876307,
+ "generated_at_str": "27/07/2026 23:17",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -31,21 +31,6 @@
    "price_new": 8999.0,
    "pct": 50.0,
    "amount": 9000.0,
-   "starts": "2026-07-11T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783782558.4613187
-  },
-  {
-   "id": "1812505",
-   "name": "Universal Broadmoore, Bellevue, Mesa de Noche",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Buros/Universal-Broadmoore-Bellevue-Mesa-de-Noche/p/1812505",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/ha3/367525932630046.jpg",
-   "category": "Muebles",
-   "price_old": 7999.0,
-   "price_new": 3999.0,
-   "pct": 50.0,
-   "amount": 4000.0,
    "starts": "2026-07-11T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
@@ -9755,6 +9740,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785186691.5852609
+  },
+  {
+   "id": "1307979",
+   "name": "Portofino, Motion Estate Colección Para Exterior de 19 piezas, Color Azul",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Colecciones/Portofino-Motion-Estate-Coleccion-Para-Exterior-de-19-piezas-Color-Azul/p/1307979",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/h40/12669957242910.jpg",
+   "category": "Muebles",
+   "price_old": 142999.0,
+   "price_new": 112999.0,
+   "pct": 21.0,
+   "amount": 30000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785190620.981251
   },
   {
    "id": "656847",

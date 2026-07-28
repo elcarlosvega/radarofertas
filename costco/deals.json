@@ -1,6 +1,6 @@
 {
- "generated_at": 1785262220.8674812,
- "generated_at_str": "28/07/2026 12:10",
+ "generated_at": 1785266694.2261117,
+ "generated_at_str": "28/07/2026 13:24",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2480,21 +2480,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
-  },
-  {
-   "id": "306070",
-   "name": "Lifetime, Cobertizo de 2.44m x 4.57 m",
-   "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cobertizos/Lifetime-Cobertizo-de-244m-x-457-m/p/306070",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4f/hdf/400175168389150.jpg",
-   "category": "Patio y Jardin",
-   "price_old": 39999.0,
-   "price_new": 28999.0,
-   "pct": 27.5,
-   "amount": 11000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
   },
   {
    "id": "697931",
@@ -6547,6 +6532,21 @@
    "first_seen": 1784124625.517578
   },
   {
+   "id": "695405",
+   "name": "Nintendo Switch 2 Donkey Kong Bananza",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Donkey-Kong-Bananza/p/695405",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/heb/h55/365057634992158.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 1199.0,
+   "pct": 25.0,
+   "amount": 400.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-07-29T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784756139.0294225
+  },
+  {
    "id": "703871",
    "name": "Nintendo Switch 2 Yoshi & The Mysterious Book",
    "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Yoshi-The-Mysterious-Book/p/703871",
@@ -6911,6 +6911,21 @@
    "name": "Bulova Twist Titanium Cafferty Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Cafferty-Armazon-Oftalmico/p/701529",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/hd3/414734031650846.jpg",
+   "category": "Optica",
+   "price_old": 1299.0,
+   "price_new": 974.25,
+   "pct": 25.0,
+   "amount": 324.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
+   "id": "678668",
+   "name": "Bulova Twist Titanium Quintili Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Quintili-Armazon-Oftalmico/p/678668",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/h1b/414733731397662.jpg",
    "category": "Optica",
    "price_old": 1299.0,
    "price_new": 974.25,
@@ -14671,21 +14686,6 @@
    "price_new": 22999.0,
    "pct": 11.5,
    "amount": 3000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
-   "id": "686220",
-   "name": "Muebles Liz, Rodius, Sala Modular De 3 Piezas Gris",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Muebles-Liz-Rodius-Sala-Modular-De-3-Piezas-Gris/p/686220",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/hc9/257676554633246.jpg",
-   "category": "Muebles",
-   "price_old": 34999.0,
-   "price_new": 30999.0,
-   "pct": 11.4,
-   "amount": 4000.0,
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,

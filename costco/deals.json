@@ -1,6 +1,6 @@
 {
- "generated_at": 1785251445.6161966,
- "generated_at_str": "28/07/2026 09:10",
+ "generated_at": 1785255052.091579,
+ "generated_at_str": "28/07/2026 10:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -304,7 +304,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "684491",
@@ -919,7 +919,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-07-29T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "1325468",
@@ -1534,7 +1534,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-07-29T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "691125",
@@ -1822,21 +1822,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "662833",
-   "name": "Whirlpool Lavadora 20Kg top load",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-20Kg-top-load/p/662833",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h57/46729402908702.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 15999.0,
-   "price_new": 11399.0,
-   "pct": 28.8,
-   "amount": 4600.0,
-   "starts": "2026-07-17T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784297573.721548
-  },
-  {
    "id": "2127023",
    "name": "Shandong, Pérgola Semicircular Iris de 6.5m x 2.3m",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Shandong-Pergola-Semicircular-Iris-de-65m-x-23m/p/2127023",
@@ -1954,7 +1939,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-17T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "697932",
@@ -3391,7 +3376,7 @@
    "price_new": 399.0,
    "pct": 26.0,
    "amount": 140.0,
-   "starts": "2026-07-27T06:00:00.000Z",
+   "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
@@ -3695,6 +3680,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785248198.8853054
+  },
+  {
+   "id": "1740877",
+   "name": "Sauna Infrarrojo Full Spectrum Cercano a Cero Dynamic Lugano, 3 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Full-Spectrum-Cercano-a-Cero-Dynamic-Lugano-3-Personas/p/1740877",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/h61/185276731162654.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 99999.0,
+   "price_new": 74999.0,
+   "pct": 25.0,
+   "amount": 25000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
   },
   {
    "id": "637523",
@@ -4009,7 +4009,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "683651",
@@ -4925,6 +4925,21 @@
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785186691.5852609
+  },
+  {
+   "id": "548697",
+   "name": "Vino Tinto Don Melchor Cabernet Sauvignon 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Don-Melchor-Cabernet-Sauvignon-750ml/p/548697",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd2/h55/422175219744798.jpg",
+   "category": "Vinos",
+   "price_old": 3699.0,
+   "price_new": 2774.25,
+   "pct": 25.0,
+   "amount": 924.75,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785255052.091579
   },
   {
    "id": "750292",
@@ -6319,7 +6334,37 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
+  },
+  {
+   "id": "540557",
+   "name": "Whisky Chivas Regal 18 Años 750ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Chivas-Regal-18-Anos-750ml/p/540557",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc6/hbf/349639583531038.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 2299.0,
+   "price_new": 1724.25,
+   "pct": 25.0,
+   "amount": 574.75,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785255052.091579
+  },
+  {
+   "id": "634607",
+   "name": "Whisky Japonés Hibiki Suntory 750 ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Japones-Hibiki-Suntory-750-ml/p/634607",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h58/h01/12698113409054.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 2199.0,
+   "price_new": 1649.25,
+   "pct": 25.0,
+   "amount": 549.75,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785255052.091579
   },
   {
    "id": "598065",
@@ -6455,6 +6500,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785248198.8853054
+  },
+  {
+   "id": "600077",
+   "name": "Vino Tinto The Prisoner Red Blend 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-The-Prisoner-Red-Blend-750ml/p/600077",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hea/h3d/151491221913630.jpg",
+   "category": "Vinos",
+   "price_old": 1799.0,
+   "price_new": 1349.25,
+   "pct": 25.0,
+   "amount": 449.75,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785255052.091579
   },
   {
    "id": "666701",
@@ -7144,7 +7204,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "663986",
@@ -7654,7 +7714,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "519239",
@@ -7897,6 +7957,21 @@
    "first_seen": 1785248198.8853054
   },
   {
+   "id": "521982",
+   "name": "Brandy Torres 10 1L",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Brandy-y-Cognac/Brandy-Torres-10-1L/p/521982",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/h8c/473436206989342.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 669.0,
+   "price_new": 501.75,
+   "pct": 25.0,
+   "amount": 167.25,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785255052.091579
+  },
+  {
    "id": "647980",
    "name": "Vaseline Bálsamo para Labios 8 Mini Tarros de 7g c/u",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/Vaseline-Balsamo-para-Labios-8-Mini-Tarros-de-7g-cu/p/647980",
@@ -7972,6 +8047,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "528678",
+   "name": "Vino Tinto Cune Reserva 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Cune-Reserva-750ml/p/528678",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h64/h14/332204068732958.png",
+   "category": "Vinos",
+   "price_old": 629.0,
+   "price_new": 471.75,
+   "pct": 25.0,
+   "amount": 157.25,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785255052.091579
+  },
+  {
    "id": "669160",
    "name": "Quadriderm NF Crema 30g",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Corporal/Quadriderm-NF-Crema-30g/p/669160",
@@ -8044,7 +8134,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "654732",
@@ -8299,7 +8389,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "1920495",
@@ -9710,6 +9800,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785172190.5439014
+  },
+  {
+   "id": "686579",
+   "name": "Teka Combo Campana de Pared 75 cm y Parrilla de Gas 5 Quemadores 75 cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Combo-Campana-de-Pared-75-cm-y-Parrilla-de-Gas-5-Quemadores-75-cm/p/686579",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he5/h7a/365808519675934.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 7999.0,
+   "price_new": 6199.0,
+   "pct": 22.5,
+   "amount": 1800.0,
+   "starts": "2026-07-22T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784929463.10339
   },
   {
    "id": "676404",
@@ -11317,6 +11422,21 @@
    "first_seen": 1785176034.0557995
   },
   {
+   "id": "675199",
+   "name": "Coaster, Sachin, Consola de Entretenimiento con Puertas de Vidrio",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Consolas-para-TV/Coaster-Sachin-Consola-de-Entretenimiento-con-Puertas-de-Vidrio/p/675199",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdb/hc7/122304331087902.jpg",
+   "category": "Muebles",
+   "price_old": 14999.0,
+   "price_new": 11999.0,
+   "pct": 20.0,
+   "amount": 3000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "1782965",
    "name": "Pike & Main, Point Reyes, Gabinete para Vinos",
    "url": "https://www.costco.com.mx/Muebles/Bar/Gabinetes/Pike-Main-Point-Reyes-Gabinete-para-Vinos/p/1782965",
@@ -12787,6 +12907,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "1740603",
+   "name": "Gorilla Centro de Juegos Skyline Lookout",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Gorilla-Centro-de-Juegos-Skyline-Lookout/p/1740603",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h95/hf6/400673778303006.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 41999.0,
+   "price_new": 34999.0,
+   "pct": 16.7,
+   "amount": 7000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785172190.5439014
+  },
+  {
    "id": "703972",
    "name": "Hisense Pantalla 85\" Miniled 4K Google TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-85-Miniled-4K-Google-TV/p/703972",
@@ -12919,7 +13054,7 @@
    "starts": "2026-07-28T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785251445.6161966
+   "first_seen": 1785251455.104801
   },
   {
    "id": "1872188",
@@ -13807,6 +13942,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "1740710",
+   "name": "Kettler Mesa de Futbolito Tournament",
+   "url": "https://www.costco.com.mx/Deportes/Salon-de-Juegos/Mesas-de-Juegos/Kettler-Mesa-de-Futbolito-Tournament/p/1740710",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h13/h01/262858142842910.jpg",
+   "category": "Deportes",
+   "price_old": 13999.0,
+   "price_new": 11999.0,
+   "pct": 14.3,
+   "amount": 2000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "687101",
    "name": "Samsung Galaxy S25 Ultra 256GB Azul Titanio",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Azul-Titanio/p/687101",
@@ -14015,6 +14165,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784586248.5749948
+  },
+  {
+   "id": "1740872",
+   "name": "Sauna Infrarrojo FAR Full Spectrum Dynamic Santiago, 2 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-FAR-Full-Spectrum-Dynamic-Santiago-2-Personas/p/1740872",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h06/204640877117470.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 74999.0,
+   "price_new": 64999.0,
+   "pct": 13.3,
+   "amount": 10000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
   },
   {
    "id": "687343",

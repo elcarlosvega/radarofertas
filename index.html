@@ -15,7 +15,7 @@ gtag('config', 'G-6FC3YSTR2X');
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
-<title>Radar Ofertas MX — las mejores ofertas reales de México, cazadas automáticamente</title>
+<title>Ofertas del día en México: Palacio, Amazon, Costco y más | Radar Ofertas MX</title>
 <meta name="description" content="Rastreamos descuentos fuertes de Palacio de Hierro, Amazon, Costco, Mercado Libre y Coppel, 24/7, y te mostramos solo lo que vale la pena. Actualizado cada hora.">
 <link rel="canonical" href="https://radarofertas.mx/">
 <meta property="og:type" content="website">
@@ -286,8 +286,8 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
- {"@type":"WebSite","@id":"https://radarofertas.mx/#website","url":"https://radarofertas.mx/","name":"Radar Ofertas MX","description":"Las mejores ofertas reales de México, cazadas automáticamente. Descuentos de Palacio de Hierro, Amazon, Costco, Mercado Libre y Coppel actualizados cada hora.","inLanguage":"es-MX","publisher":{"@id":"https://radarofertas.mx/#org"}},
- {"@type":"Organization","@id":"https://radarofertas.mx/#org","name":"Radar Ofertas MX","url":"https://radarofertas.mx/","logo":{"@type":"ImageObject","url":"https://radarofertas.mx/assets/og.png"},"sameAs":["https://t.me/DescuentosPalacio","https://x.com/MexicoMagico"]}
+ {"@type":"WebSite","@id":"https://radarofertas.mx/#website","url":"https://radarofertas.mx/","name":"Radar Ofertas MX","description":"Las mejores ofertas reales de México, cazadas automáticamente. Descuentos de Palacio de Hierro, Amazon, Costco, Mercado Libre y Coppel actualizados cada hora.","inLanguage":"es-MX","publisher":{"@id":"https://radarofertas.mx/#org"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://radarofertas.mx/?q={search_term_string}"},"query-input":"required name=search_term_string"}},
+ {"@type":"Organization","@id":"https://radarofertas.mx/#org","name":"Radar Ofertas MX","url":"https://radarofertas.mx/","logo":{"@type":"ImageObject","url":"https://radarofertas.mx/assets/og.png","sameAs":["https://t.me/DescuentosPalacio","https://x.com/MexicoMagico"]},"sameAs":["https://t.me/DescuentosPalacio","https://x.com/MexicoMagico"]}
 ]}
 </script>
 </head>
@@ -305,7 +305,8 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <a class="tab" href="/amazon/">Amazon</a>
       <a class="tab" href="/costco/">Costco</a>
       <a class="tab" href="/mercadolibre/">MeLi</a>
-      <a class="tab" href="/coppel/">Coppel</a>
+      <span class="tab soon" title="Monitor en pausa">Coppel · pausado</span>
+      <a class="tab" href="/elektra/">Elektra</a>
       <span class="tab soon" title="Próximamente">Liverpool</span>
     </div>
     <span class="upd"><span class="dotlive"></span> Actualizado cada hora</span>
@@ -487,8 +488,9 @@ const STORES = [
   {key:'costco',       name:'Costco',            short:'Costco',  path:'costco',       accent:'#e11d2a', dot:'#ff4d5e'},
   {key:'mercadolibre', name:'Mercado Libre',     short:'MeLi',    path:'mercadolibre', accent:'#e6c800', dot:'#ffe600'},
   {key:'coppel',       name:'Coppel',            short:'Coppel',  path:'coppel',       accent:'#2b7cf0', dot:'#4d94ff'},
+  {key:'elektra',      name:'Elektra',           short:'Elektra', path:'elektra',      accent:'#e4002b', dot:'#ff4d5e'},
 ];
-const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel'];
+const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel','elektra'];
 const PAGE_N = 12;
 const TAGS = ['Popular','Bajó hoy','Muy buscado'];
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx'];
@@ -504,6 +506,9 @@ function isStale(gen){ if(!gen) return true; return (Date.now() - gen*1000) > ST
 function timeAgo(gen){ if(!gen) return ''; var m=Math.max(0,Math.round((Date.now()-gen*1000)/60000)); return m<60 ? 'hace '+m+' min' : 'hace '+Math.round(m/60)+' h'; }
 const STORE_META = {};  // key -> {ts, when} solo de tiendas frescas
 let ALL = [], RESULTS = [], FILTER = 'all', Q = '', SORT = 'score', SHOWN = PAGE_N;
+/* ?q= en la URL precarga la busqueda (lo usa el SearchAction del schema) */
+try{ const _q0=new URLSearchParams(location.search).get('q');
+  if(_q0){ Q=_q0.trim().toLowerCase(); const _qi=document.getElementById('q'); if(_qi) _qi.value=_q0; } }catch(e){}
 // base completa (deals.json) por tienda, cargada bajo demanda y en segundo plano
 const FULLK = {};
 function dedupe(deals){ const seen=new Map(); for(const d of deals){ const k=((d.name||'').trim().toLowerCase().replace(/\s+/g,' '))+'|'+(d.price_new||0); const p=seen.get(k); if(!p||(d.pct||0)>(p.pct||0)) seen.set(k,d);} return Array.from(seen.values()); }

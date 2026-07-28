@@ -3,8 +3,10 @@
      con las ofertas vivas e indexables de su tienda en cada barrido. -->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap><loc>https://radarofertas.mx/sitemap-paginas.xml</loc></sitemap>
+  <sitemap><loc>https://radarofertas.mx/sitemap-categorias.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-palacio.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-amazon.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-costco.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-mercadolibre.xml</loc></sitemap>
+  <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-elektra.xml</loc></sitemap>
 </sitemapindex>

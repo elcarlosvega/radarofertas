@@ -50,7 +50,14 @@
    "reason": "",
    "host": "pc",
    "micro_pages": 123
+  },
+  "elektra": {
+   "last_attempt": 1785250499.528474,
+   "items": 0,
+   "status": "down",
+   "reason": "HTTP Error 500: Internal Server Error",
+   "host": "pc"
   }
  },
- "updated_at": 1785248951.5023563
+ "updated_at": 1785250550.8948658
 }

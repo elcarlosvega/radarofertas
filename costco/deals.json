@@ -1,26 +1,11 @@
 {
- "generated_at": 1785356597.5311809,
- "generated_at_str": "29/07/2026 14:23",
+ "generated_at": 1785359126.1166925,
+ "generated_at_str": "29/07/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
  },
  "deals": [
-  {
-   "id": "685353",
-   "name": "Universal Broadmoore, Cama Tamaño King Con Dosel",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-King-Con-Dosel/p/685353",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/h33/367525539807262.jpg",
-   "category": "Muebles",
-   "price_old": 19999.0,
-   "price_new": 9999.0,
-   "pct": 50.0,
-   "amount": 10000.0,
-   "starts": "2026-07-11T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783778939.4408414
-  },
   {
    "id": "689330",
    "name": "Universal Broadmoore, Cama Tamaño Queen Con Dosel",
@@ -202,6 +187,21 @@
    "first_seen": 1785172190.5439014
   },
   {
+   "id": "671363",
+   "name": "PlayStation 5 - Horizon: Fobidden West",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Horizon-Fobidden-West/p/671363",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9d/h3c/97918038114334.jpg",
+   "category": "Electronicos",
+   "price_old": 899.0,
+   "price_new": 599.0,
+   "pct": 33.4,
+   "amount": 300.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "686463",
    "name": "GE Centro De Lavado De Gas 23kg / 23kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
@@ -287,6 +287,21 @@
    "pct": 32.6,
    "amount": 4300.0,
    "starts": "2026-07-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785337796.276144
+  },
+  {
+   "id": "680493",
+   "name": "Sony Teatro en Casa de 5.1 canales con barra de sonido + Subwoofer",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Sony-Teatro-en-Casa-de-51-canales-con-barra-de-sonido-Subwoofer/p/680493",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb0/h6e/172759378821150.jpg",
+   "category": "Electronicos",
+   "price_old": 5299.0,
+   "price_new": 3599.0,
+   "pct": 32.1,
+   "amount": 1700.0,
+   "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785337796.276144
@@ -380,21 +395,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783606843.9460945
-  },
-  {
-   "id": "702787",
-   "name": "Samsung Galaxy Tab S11 256GB Plata",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Tablets/Tablets/Samsung-Galaxy-Tab-S11-256GB-Plata/p/702787",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h50/h2e/453817209487390.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 18499.0,
-   "price_new": 12799.0,
-   "pct": 30.8,
-   "amount": 5700.0,
-   "starts": "2026-07-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785337796.276144
   },
   {
    "id": "702786",
@@ -592,19 +592,19 @@
    "first_seen": 1784385746.112762
   },
   {
-   "id": "681426",
-   "name": "Whirlpool Estufa de gas con 6 quemadores de 76cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Whirlpool-Estufa-de-gas-con-6-quemadores-de-76cm/p/681426",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3f/hc5/364497144774686.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 15999.0,
-   "price_new": 11099.0,
+   "id": "695137",
+   "name": "HP Victus Gaming 15-fa2018la Laptop 15\" Full HD Intel Core i5 8GB 512GB SSD + 12 Meses de M365 Personal",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-Victus-Gaming-15-fa2018la-Laptop-15-Full-HD-Intel-Core-i5-8GB-512GB-SSD-12-Meses-de-M365-Personal/p/695137",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hc6/438163989037086.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 24499.0,
+   "price_new": 16999.0,
    "pct": 30.6,
-   "amount": 4900.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
+   "amount": 7500.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1785359126.1166925
   },
   {
    "id": "697635",
@@ -862,6 +862,21 @@
    "first_seen": 1785179433.2310922
   },
   {
+   "id": "671369",
+   "name": "HP Multifuncional Smart Tank 750",
+   "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Impresoras-y-Rotuladores/HP-Multifuncional-Smart-Tank-750/p/671369",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h69/h48/397964557254686.jpg",
+   "category": "Papeleria y Negocio",
+   "price_old": 7899.0,
+   "price_new": 5499.0,
+   "pct": 30.4,
+   "amount": 2400.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "2127011",
    "name": "Zhengte, Pérgola de Aluminio de 3m x 6m, Color Negro",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Zhengte-Pergola-de-Aluminio-de-3m-x-6m-Color-Negro/p/2127011",
@@ -890,21 +905,6 @@
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785334270.0395963
-  },
-  {
-   "id": "652706",
-   "name": "Whirlpool centro de lavado 20kg / 10Kg de gas",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-centro-de-lavado-20kg-10Kg-de-gas/p/652706",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h76/363624458158110.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 20899.0,
-   "pct": 30.3,
-   "amount": 9100.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "674604",
@@ -1627,21 +1627,6 @@
    "first_seen": 1785337796.276144
   },
   {
-   "id": "1575376",
-   "name": "Dream Plush, Juego de 2 Almohadas de Espuma de Memoria con Fundas Frescas al Tacto",
-   "url": "https://www.costco.com.mx/Hogar-y-Bano/Blancos-del-Hogar/Almohadas-y-Cojines/Dream-Plush-Juego-de-2-Almohadas-de-Espuma-de-Memoria-con-Fundas-Frescas-al-Tacto/p/1575376",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h51/h5a/136834998763550.jpg",
-   "category": "Hogar y Bano",
-   "price_old": 669.0,
-   "price_new": 469.0,
-   "pct": 29.9,
-   "amount": 200.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785172190.5439014
-  },
-  {
    "id": "696496",
    "name": "Sennheiser Ambeo Plus Barra de Sonido",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Sennheiser-Ambeo-Plus-Barra-de-Sonido/p/696496",
@@ -2242,11 +2227,11 @@
    "first_seen": 1785337796.276144
   },
   {
-   "id": "683650",
-   "name": "América, Whistler, Colchón Individual",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Individual/America-Whistler-Colchon-Individual/p/683650",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/hff/450977411301406.jpg",
-   "category": "Muebles",
+   "id": "1934082",
+   "name": "Nexgrill, Asador de Gas de 3 Quemadores",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Nexgrill-Asador-de-Gas-de-3-Quemadores/p/1934082",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h0d/414734148108318.jpg",
+   "category": "Patio y Jardin",
    "price_old": 6999.0,
    "price_new": 4999.0,
    "pct": 28.6,
@@ -2254,7 +2239,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785186691.5852609
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "682770",
@@ -3046,21 +3031,6 @@
    "price_new": 15999.0,
    "pct": 27.3,
    "amount": 6000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
-   "id": "683654",
-   "name": "América, Whistler, Colchón King Size",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Whistler-Colchon-King-Size/p/683654",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/hd2/450977407631390.jpg",
-   "category": "Muebles",
-   "price_old": 10999.0,
-   "price_new": 7999.0,
-   "pct": 27.3,
-   "amount": 3000.0,
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
@@ -4402,21 +4372,6 @@
    "first_seen": 1785172190.5439014
   },
   {
-   "id": "659256",
-   "name": "Smeg Campana de Pared 90cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Campana-de-Pared-90cm/p/659256",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h36/h9a/28665965019166.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 13999.0,
-   "price_new": 10499.0,
-   "pct": 25.0,
-   "amount": 3500.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "678301",
    "name": "Whirlpool Lavadora 19Kg Top Load",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-19Kg-Top-Load/p/678301",
@@ -4477,21 +4432,6 @@
    "first_seen": 1785186691.5852609
   },
   {
-   "id": "521815",
-   "name": "Sealy, Denver, Colchón Matrimonial",
-   "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-Matrimonial/p/521815",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/haa/hbc/69509797675038.jpg",
-   "category": "c",
-   "price_old": 11999.0,
-   "price_new": 8999.0,
-   "pct": 25.0,
-   "amount": 3000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
    "id": "681857",
    "name": "Samsung Proyector Portátil The Freestyle",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/Proyectores-de-Video/Samsung-Proyector-Portatil-The-Freestyle/p/681857",
@@ -4520,21 +4460,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785251455.104801
-  },
-  {
-   "id": "683651",
-   "name": "América, Whistler, Colchón Matrimonial",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Whistler-Colchon-Matrimonial/p/683651",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h46/h2a/193396621180958.jpg",
-   "category": "Muebles",
-   "price_old": 7999.0,
-   "price_new": 5999.0,
-   "pct": 25.0,
-   "amount": 2000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
   },
   {
    "id": "696808",
@@ -7342,21 +7267,6 @@
    "first_seen": 1785176034.0557995
   },
   {
-   "id": "1998531",
-   "name": "Shark, ChillPill Sistema de Enfriamiento 2 en 1",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Ventiladores/Shark-ChillPill-Sistema-de-Enfriamiento-2-en-1/p/1998531",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/h8c/484405827403806.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 1999.0,
-   "price_new": 1499.0,
-   "pct": 25.0,
-   "amount": 500.0,
-   "starts": "2026-07-29T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785334270.0395963
-  },
-  {
    "id": "1740596",
    "name": "Medal Sports Tablero de Dardos con Iluminación LED",
    "url": "https://www.costco.com.mx/Deportes/Salon-de-Juegos/Juegos-de-Dardos/Medal-Sports-Tablero-de-Dardos-con-Iluminacion-LED/p/1740596",
@@ -8977,21 +8887,6 @@
    "first_seen": 1785186691.5852609
   },
   {
-   "id": "682679",
-   "name": "Isdin Fotoultra Redness SPF50 50 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Isdin-Fotoultra-Redness-SPF50-50-ml/p/682679",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h74/h6b/192457708863518.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 659.0,
-   "price_new": 494.25,
-   "pct": 25.0,
-   "amount": 164.75,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785176034.0557995
-  },
-  {
    "id": "593405",
    "name": "Dagla 50mg 30 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Dagla-50mg-30-Tabletas/p/593405",
@@ -10042,6 +9937,21 @@
    "first_seen": 1784586248.5749948
   },
   {
+   "id": "696201",
+   "name": "GE Lavadora Top Load 24Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-Top-Load-24Kg/p/696201",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h60/hd8/378352831987742.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13599.0,
+   "price_new": 10299.0,
+   "pct": 24.3,
+   "amount": 3300.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785359126.1166925
+  },
+  {
    "id": "1690280",
    "name": "Zhengte, Pérgola de Aluminio de 3m x 6m, Color Blanco",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Zhengte-Pergola-de-Aluminio-de-3m-x-6m-Color-Blanco/p/1690280",
@@ -10672,6 +10582,21 @@
    "first_seen": 1785337796.276144
   },
   {
+   "id": "704859",
+   "name": "Hisense Estufa de Gas 6 Quemadores",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Hisense-Estufa-de-Gas-6-Quemadores/p/704859",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc1/h8f/470239167578142.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 19299.0,
+   "pct": 22.8,
+   "amount": 5700.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785359126.1166925
+  },
+  {
    "id": "692399",
    "name": "Smeg Parrilla Eléctrica",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Parrilla-Electrica/p/692399",
@@ -10730,21 +10655,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785337796.276144
-  },
-  {
-   "id": "545989",
-   "name": "Whirlpool Refrigerador 18' y Congelador 18' Sidekicks",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-18-y-Congelador-18-Sidekicks/p/545989",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd4/hb7/82001636884510.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 109999.0,
-   "price_new": 84999.0,
-   "pct": 22.7,
-   "amount": 25000.0,
-   "starts": "2026-07-24T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784902336.9797413
   },
   {
    "id": "669641",
@@ -10961,21 +10871,6 @@
    "name": "Pike & Main, Juego de 3 Mesas Ocasionales",
    "url": "https://www.costco.com.mx/Muebles/Mesas-y-Escritorios/Mesas-Laterales/Pike-Main-Juego-de-3-Mesas-Ocasionales/p/1782935",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h1a/384372872871966.jpg",
-   "category": "Muebles",
-   "price_old": 8999.0,
-   "price_new": 6999.0,
-   "pct": 22.2,
-   "amount": 2000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
-   "id": "683653",
-   "name": "América, Whistler, Colchón Queen",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Whistler-Colchon-Queen/p/683653",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/h49/193396623736862.jpg",
    "category": "Muebles",
    "price_old": 8999.0,
    "price_new": 6999.0,
@@ -11270,6 +11165,51 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784732874.7473896
+  },
+  {
+   "id": "1288769",
+   "name": "Wine Enthusiast Cava de Vinos 150 Botellas Gris",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-150-Botellas-Gris/p/1288769",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h46/ha2/11570471600158.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 36999.0,
+   "price_new": 28999.0,
+   "pct": 21.6,
+   "amount": 8000.0,
+   "starts": "2026-07-20T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "694896",
+   "name": "Wine Enthusiast Cava de Vinos 145 Botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-145-Botellas/p/694896",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/hb5/421059779559454.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 36999.0,
+   "price_new": 28999.0,
+   "pct": 21.6,
+   "amount": 8000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "668825",
+   "name": "Samsung Lavasecadora 22Kg / 13Kg con pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-22Kg-13Kg-con-pedestal/p/668825",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h71/83282241814558.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 27999.0,
+   "price_new": 21999.0,
+   "pct": 21.4,
+   "amount": 6000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "702201",
@@ -11737,6 +11677,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "669642",
+   "name": "Luuna, Colchón One Memory Foam, King",
+   "url": "https://www.costco.com.mx/c/Luuna-Colchon-One-Memory-Foam-King/p/669642",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcc/he1/190476233867294.jpg",
+   "category": "c",
+   "price_old": 28999.0,
+   "price_new": 22999.0,
+   "pct": 20.7,
+   "amount": 6000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "683071",
    "name": "Canon, Cámara EOS R50 RF-S 18-45mm F4.5-6.3 IS STM + RF-S 55-210mm F5-7.1 IS STM",
    "url": "https://www.costco.com.mx/Electronicos/Fotografia/Camaras-Digitales/Canon-Camara-EOS-R50-RF-S-18-45mm-F45-63-IS-STM-RF-S-55-210mm-F5-71-IS-STM/p/683071",
@@ -11872,21 +11827,6 @@
    "first_seen": 1785190620.981251
   },
   {
-   "id": "700870",
-   "name": "ASUS Zenbook 14 Laptop 14\" WUXGA Intel Core Ultra 5 16GB 1TB",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Zenbook-14-Laptop-14-WUXGA-Intel-Core-Ultra-5-16GB-1TB/p/700870",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hce/h1a/473757086777374.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 26999.0,
-   "price_new": 21499.0,
-   "pct": 20.4,
-   "amount": 5500.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
    "id": "678130",
    "name": "Whirlpool Refrigerador 25' Side by Side",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/678130",
@@ -11900,6 +11840,21 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783991375.4518766
+  },
+  {
+   "id": "700870",
+   "name": "ASUS Zenbook 14 Laptop 14\" WUXGA Intel Core Ultra 5 16GB 1TB",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Zenbook-14-Laptop-14-WUXGA-Intel-Core-Ultra-5-16GB-1TB/p/700870",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hce/h1a/473757086777374.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 26999.0,
+   "price_new": 21499.0,
+   "pct": 20.4,
+   "amount": 5500.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
   },
   {
    "id": "688020",
@@ -12277,6 +12232,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "669633",
+   "name": "Luuna, Colchón One Memory Foam, Matrimonial",
+   "url": "https://www.costco.com.mx/c/Luuna-Colchon-One-Memory-Foam-Matrimonial/p/669633",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h70/h42/190476233605150.jpg",
+   "category": "c",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "1987546",
    "name": "Northridge Home, Aurora Falls, Juego de Comedor de 5 Piezas",
    "url": "https://www.costco.com.mx/Muebles/Mesas-y-Escritorios/Mesas-de-Comedor/Northridge-Home-Aurora-Falls-Juego-de-Comedor-de-5-Piezas/p/1987546",
@@ -12417,21 +12387,6 @@
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Synergy-Home-Furnishings-Sillon-Reclinable-de-Piel-con-Sistema-Electrico/p/1782769",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hd7/h5f/275742284218398.jpg",
    "category": "Muebles",
-   "price_old": 14999.0,
-   "price_new": 11999.0,
-   "pct": 20.0,
-   "amount": 3000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
-   "id": "683658",
-   "name": "América, Class, Colchón King Size",
-   "url": "https://www.costco.com.mx/c/America-Class-Colchon-King-Size/p/683658",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h57/209659148238878.jpg",
-   "category": "c",
    "price_old": 14999.0,
    "price_new": 11999.0,
    "pct": 20.0,
@@ -12592,21 +12547,6 @@
    "first_seen": 1784586248.5749948
   },
   {
-   "id": "683656",
-   "name": "América, Class, Colchón Matrimonial",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Class-Colchon-Matrimonial/p/683656",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h7f/209659024572446.jpg",
-   "category": "Muebles",
-   "price_old": 10999.0,
-   "price_new": 8799.0,
-   "pct": 20.0,
-   "amount": 2200.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
    "id": "704311",
    "name": "Montbrook Home, Venus, Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Venus-Reclinable/p/704311",
@@ -12627,21 +12567,6 @@
    "url": "https://www.costco.com.mx/Deportes/Salon-de-Juegos/Mesa-de-Ping-Pong/Kettler-Mesa-De-Ping-Pong-Para-Exteriores-Convertible-Versa/p/2041227",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h1c/h4b/455027084460062.jpg",
    "category": "Deportes",
-   "price_old": 9999.0,
-   "price_new": 7999.0,
-   "pct": 20.0,
-   "amount": 2000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
-   "id": "682273",
-   "name": "Montbrook Home, Lucan, Reclinable con Portavasos Extraíble, Color Gris",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Lucan-Reclinable-con-Portavasos-Extraible-Color-Gris/p/682273",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h49/hcf/186102259875870.jpg",
-   "category": "Muebles",
    "price_old": 9999.0,
    "price_new": 7999.0,
    "pct": 20.0,
@@ -13040,21 +12965,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784905757.1411
-  },
-  {
-   "id": "683665",
-   "name": "América, Mystery, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/c/America-Mystery-Colchon-Queen-Size/p/683665",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/h03/209659154595870.jpg",
-   "category": "c",
-   "price_old": 18999.0,
-   "price_new": 15399.0,
-   "pct": 18.9,
-   "amount": 3600.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
   },
   {
    "id": "704148",
@@ -15307,21 +15217,6 @@
    "first_seen": 1785190620.981251
   },
   {
-   "id": "521199",
-   "name": "Sealy, Monteleone, Colchón y Box King Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Monteleone-Colchon-y-Box-King-Size/p/521199",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1e/hc3/346414582071326.jpg",
-   "category": "c",
-   "price_old": 39999.0,
-   "price_new": 34899.0,
-   "pct": 12.8,
-   "amount": 5100.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
-  },
-  {
    "id": "695999",
    "name": "Peak Cama de Pilates Reformer",
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Pilates/Peak-Cama-de-Pilates-Reformer/p/695999",
@@ -16325,21 +16220,6 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "521260",
-   "name": "Sealy, Winnipeg, Colchón y Box King Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Winnipeg-Colchon-y-Box-King-Size/p/521260",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h87/h6f/69509805211678.jpg",
-   "category": "c",
-   "price_old": 20999.0,
-   "price_new": 19499.0,
-   "pct": 7.1,
-   "amount": 1500.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
   },
   {
    "id": "703426",

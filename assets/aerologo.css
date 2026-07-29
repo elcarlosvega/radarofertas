@@ -1,0 +1,18 @@
+/* Estandar compartido de logo de aerolinea en tarjetas de vuelo.
+   Lo usan la portada ("Vuelos destacados") y /vuelos/; esta es la unica
+   fuente del estandar — no lo dupliques inline en las paginas.
+   - caja de proporcion fija (16/9 por defecto; parametrizable con
+     --alogo-ratio) y fondo oscuro (--alogo-bg);
+   - logo SIEMPRE monocromo blanco (knockout), centrado opticamente;
+   - alto proporcional a la caja: 46% wordmark / 64% lockup (un lockup
+     apilado se lee mas chico que un wordmark a la misma altura);
+   - si el logo no carga, el nombre de la aerolinea (.aname) toma su lugar.
+   Requiere logos PNG con fondo transparente (pics.avs.io cumple); un PNG
+   con fondo blanco solido se veria como rectangulo blanco por el filtro.
+   Sin border-radius ni overflow propios: ambas tarjetas ya recortan con
+   overflow:hidden en .card/.pcard (y asi el badge de precio de la portada,
+   que sobresale de la caja, no se corta). */
+.aerologo{position:relative;display:flex;align-items:center;justify-content:center;aspect-ratio:var(--alogo-ratio,16/9);padding:0 16%;background:var(--alogo-bg,#0b1220)}
+.aerologo img{width:auto;height:auto;max-width:100%;max-height:46%;object-fit:contain;filter:brightness(0) invert(1);opacity:.95}
+.aerologo img[data-tipo="lockup"]{max-height:64%}
+.aerologo .aname{color:#fff;font-weight:900;font-size:1.35rem;letter-spacing:-.02em;text-align:center;opacity:.95}

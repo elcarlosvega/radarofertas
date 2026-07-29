@@ -797,7 +797,9 @@ function vuelocardHtml(v){
     ? '<img loading="lazy" src="'+esc(lg)+'"'+(v.logo_tipo==='lockup'?' data-tipo="lockup"':'')+' alt="'+nombre+'" '+
       'onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'">'
     : '')+'<span class="aname"'+(lg?' style="display:none"':'')+'>'+nombre+'</span>';
-  return '<a class="pcard pflight" href="'+esc(safeUrl(v.link)||'/vuelos/')+'" target="_blank" rel="noopener nofollow">'+
+  /* la tarjeta lleva al micrositio del vuelo si el feed ya lo trae */
+  const hrefV=(typeof v.micro==='string'&&/^\/oferta\/[a-z0-9\-\/]+$/.test(v.micro))?v.micro:(safeUrl(v.link)||'/vuelos/');
+  return '<a class="pcard pflight" href="'+esc(hrefV)+'" target="_blank" rel="noopener nofollow">'+
     '<div class="aerologo"><span class="pbig"><b>'+money(v.price)+'</b></span>'+marca+'</div>'+
     '<div class="pbody">'+
       '<div class="pruta">'+esc(ruta)+'</div>'+

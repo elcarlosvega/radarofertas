@@ -11,7 +11,7 @@ gtag('js', new Date());
 gtag('config', 'G-6FC3YSTR2X');
 </script>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com; base-uri 'self'; form-action 'self'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://*.supabase.co wss://*.supabase.co; base-uri 'self'; form-action 'self'">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
@@ -280,6 +280,8 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
   .tabs{order:3;flex:0 0 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}
   .tab{white-space:nowrap;padding:7px 10px}
   .upd{display:none}
+  /* el contador de ahorradores si se queda en movil (prueba social) */
+  #enlinea:not([hidden]){display:inline-flex}
   .tgtop{margin-left:auto;padding:9px 13px}
   .srow{flex-wrap:wrap}
   .sortw{width:100%;justify-content:flex-end}
@@ -316,6 +318,9 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <span class="tab soon" title="Monitor en pausa">Coppel · pausado</span>
       <span class="tab soon" title="Próximamente">Liverpool</span>
     </div>
+    <!-- visitantes activos REALES (Supabase Presence); oculto hasta que haya
+         conexion y conteo: nunca muestra un numero inventado -->
+    <span class="upd" id="enlinea" hidden><span class="dotlive"></span> <b>0</b>&nbsp;ahorradores en línea</span>
     <span class="upd"><span class="dotlive"></span> Actualizado cada hora</span>
     <a class="tgtop" href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">✈ Unirme al Telegram</a>
   </div>
@@ -832,5 +837,9 @@ $('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); ensureFull(
 $('trendbtn').addEventListener('click',()=>{ SORT='pct'; $('sort').value='pct'; SHOWN=PAGE_N; render(); document.getElementById('destacadas').scrollIntoView({behavior:'smooth'}); });
 $('nlform').addEventListener('submit',e=>{ e.preventDefault(); $('nlnote').innerHTML='¡Gracias! El boletín está en preparación; mientras tanto, las alertas llegan primero por <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener" style="color:var(--green-dk);font-weight:800">Telegram</a>.'; $('nlmail').value=''; });
 </script>
+<!-- contador de "ahorradores en línea" (visitantes activos reales, Supabase
+     Presence); sin config valida en presencia_config.js no aparece nada -->
+<script src="/assets/presencia_config.js" defer></script>
+<script src="/assets/presencia.js" defer></script>
 </body>
 </html>

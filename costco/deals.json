@@ -1,6 +1,6 @@
 {
- "generated_at": 1785312511.012903,
- "generated_at_str": "29/07/2026 02:08",
+ "generated_at": 1785316185.3883991,
+ "generated_at_str": "29/07/2026 03:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2167,6 +2167,21 @@
    "first_seen": 1783955396.1879866
   },
   {
+   "id": "639188",
+   "name": "Whirlpool Refrigerador 18' Top Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-18-Top-Mount/p/639188",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h24/haa/27087778971678.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17699.0,
+   "price_new": 12699.0,
+   "pct": 28.3,
+   "amount": 5000.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784586248.5749948
+  },
+  {
    "id": "679789",
    "name": "HP Multifuncional Smart Tank 670",
    "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Impresoras-y-Rotuladores/HP-Multifuncional-Smart-Tank-670/p/679789",
@@ -3052,6 +3067,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "704612",
+   "name": "ASUS Vivobook 14 14\" Full HD Intel Core 7 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-14-Full-HD-Intel-Core-7-16GB-512GB-SSD/p/704612",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h71/h57/468632451186718.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 20999.0,
+   "price_new": 15499.0,
+   "pct": 26.2,
+   "amount": 5500.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "1394201",
    "name": "Kirkland Signature Agua de Coco Orgánica 12/330 ml",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Leches-y-Bebidas/Kirkland-Signature-Agua-de-Coco-Organica-12330-ml/p/1394201",
@@ -3410,6 +3440,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785248198.8853054
+  },
+  {
+   "id": "1740877",
+   "name": "Sauna Infrarrojo Full Spectrum Cercano a Cero Dynamic Lugano, 3 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Full-Spectrum-Cercano-a-Cero-Dynamic-Lugano-3-Personas/p/1740877",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/h61/185276731162654.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 99999.0,
+   "price_new": 74999.0,
+   "pct": 25.0,
+   "amount": 25000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
   },
   {
    "id": "637523",
@@ -6652,10 +6697,10 @@
    "first_seen": 1785186691.5852609
   },
   {
-   "id": "569831",
-   "name": "Vino Tinto Termes 750ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Termes-750ml/p/569831",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h15/ha6/151730507382814.jpg",
+   "id": "549580",
+   "name": "Vino Tinto Matarromera Crianza 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Matarromera-Crianza-750ml/p/549580",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h81/308006436372510.jpg",
    "category": "Vinos",
    "price_old": 1199.0,
    "price_new": 899.25,
@@ -6667,10 +6712,10 @@
    "first_seen": 1785248198.8853054
   },
   {
-   "id": "549580",
-   "name": "Vino Tinto Matarromera Crianza 750ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Matarromera-Crianza-750ml/p/549580",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h81/308006436372510.jpg",
+   "id": "569831",
+   "name": "Vino Tinto Termes 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Termes-750ml/p/569831",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h15/ha6/151730507382814.jpg",
    "category": "Vinos",
    "price_old": 1199.0,
    "price_new": 899.25,
@@ -7606,6 +7651,21 @@
    "price_new": 494.25,
    "pct": 25.0,
    "amount": 164.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "593405",
+   "name": "Dagla 50mg 30 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Dagla-50mg-30-Tabletas/p/593405",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h9c/67174096044062.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 649.0,
+   "price_new": 486.75,
+   "pct": 25.0,
+   "amount": 162.25,
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
@@ -9562,6 +9622,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "1861870",
+   "name": "Henredon, Sillón Giratorio de Tela",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Henredon-Sillon-Giratorio-de-Tela/p/1861870",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd9/he6/386080544292894.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "704312",
    "name": "Montbrook Home, Shara, Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Shara-Reclinable/p/704312",
@@ -10429,7 +10504,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-07-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785312511.012903
+   "first_seen": 1785312520.5816731
   },
   {
    "id": "700870",
@@ -10745,6 +10820,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785248198.8853054
+  },
+  {
+   "id": "697620",
+   "name": "Kingsmith Caminadora Plegable MX16",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/Kingsmith-Caminadora-Plegable-MX16/p/697620",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h2f/401637532925982.jpg",
+   "category": "Deportes",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995
   },
   {
    "id": "687739",
@@ -14446,6 +14536,21 @@
    "price_new": 32399.0,
    "pct": 10.0,
    "amount": 3600.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995
+  },
+  {
+   "id": "661185",
+   "name": "Cover Home, Pallet de Impermeabilizante Acrílico Terracota, 36 piezas",
+   "url": "https://www.costco.com.mx/Ferreteria-Llantas-y-Automotriz/Mantenimiento-del-Hogar/Pinturas-e-Impermeabilizantes/Cover-Home-Pallet-de-Impermeabilizante-Acrilico-Terracota-36-piezas/p/661185",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc3/h2d/99028570243102.jpg",
+   "category": "Ferreteria Llantas y Automotriz",
+   "price_old": 34999.0,
+   "price_new": 31499.0,
+   "pct": 10.0,
+   "amount": 3500.0,
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,

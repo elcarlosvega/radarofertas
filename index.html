@@ -16,7 +16,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <title>Ofertas del día en México: Palacio, Amazon, Costco y más | Radar Ofertas MX</title>
-<meta name="description" content="Rastreamos descuentos fuertes de Palacio de Hierro, Amazon, Costco, Mercado Libre y Coppel, 24/7, y te mostramos solo lo que vale la pena. Actualizado cada hora.">
+<meta name="description" content="Rastreamos descuentos fuertes de Palacio de Hierro, Amazon, Costco, Mercado Libre y Elektra, 24/7, y te mostramos solo lo que vale la pena. Actualizado cada hora.">
 <link rel="canonical" href="https://radarofertas.mx/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Radar Ofertas MX">
@@ -401,7 +401,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
 <noscript><p style="max-width:1200px;margin:20px auto;padding:0 20px">Radar Ofertas MX reúne las mejores ofertas de México, actualizadas cada hora: <a href="/palacio/">ofertas de Palacio de Hierro</a>, <a href="/amazon/">ofertas de Amazon México</a>, <a href="/costco/">ofertas de Costco</a>, <a href="/mercadolibre/">ofertas de Mercado Libre</a> y <a href="/coppel/">ofertas de Coppel</a>. Activa JavaScript para ver las ofertas en vivo.</p></noscript>
 <section class="portada" id="portada" hidden>
   <div class="pblock" id="pb-dest" hidden>
-    <div class="phead"><h2>Ofertas destacadas</h2>
+    <div class="phead"><h2>Lo mejor de hoy</h2>
       <span class="psub" id="pdest-sub"></span>
       <a class="pall" href="#destacadas">Ver todas las ofertas →</a></div>
     <div class="p3" id="p-dest"></div>
@@ -827,7 +827,7 @@ function pintarPortada(h){
   if(!h) return;
   const dest=(h.destacadas||[]), vue=(h.vuelos||[]), pt=(h.para_ti||[]);
   if(dest.length){ $('p-dest').innerHTML=dest.map(pcardHtml).join(''); $('pb-dest').hidden=false;
-    $('pdest-sub').textContent='los 3 mayores descuentos de hoy'; }
+    $('pdest-sub').textContent='tres de los mayores descuentos de hoy'; }
   if(vue.length){ $('p-vuelos').innerHTML=vue.map(vuelocardHtml).join(''); $('pb-vuelos').hidden=false; }
   if(pt.length){ $('p-parati').innerHTML=pt.map(pcardHtml).join(''); $('pb-parati').hidden=false; }
   if(dest.length||vue.length||pt.length) $('portada').hidden=false;

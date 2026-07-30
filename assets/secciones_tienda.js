@@ -63,7 +63,7 @@
     total = (o.deals || []).length;
     (o.deals || []).forEach(function (d) {
       var c = String(d.category || '').trim();
-      if (!c || GENERICAS[norm(c)]) return;
+      if (!c || c.length < 3 || GENERICAS[norm(c)]) return;   // "c" de Costco y ruido
       (porcat[c] = porcat[c] || []).push(d);
     });
     secciones = []; nCat = {};

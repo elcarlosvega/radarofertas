@@ -32,6 +32,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <link rel="preconnect" href="https://www.googletagmanager.com">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><circle cx='32' cy='32' r='21' fill='none' stroke='%2317c964' stroke-width='3' opacity='.45'/><circle cx='32' cy='32' r='12' fill='none' stroke='%2317c964' stroke-width='3' opacity='.8'/><circle cx='32' cy='32' r='4.5' fill='%2317c964'/></svg>">
 <link rel="stylesheet" href="/assets/aerologo.css">
+<script src="/assets/busqueda.js" defer></script>
 <style>
 :root{
   --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
@@ -136,7 +137,7 @@ footer a{color:var(--green-dk);font-weight:700}
   <div class="heroin">
     <span class="chip"><span class="sq"></span> RADAR VUELOS <span class="dotlive"></span></span>
     <h1>Vuelos con <em>precios anormalmente bajos</em>, cazados cada hora.</h1>
-    <div class="sub" id="sub">10 vuelos activos · actualizado 29/07/2026 21:04</div>
+    <div class="sub" id="sub">10 vuelos activos · actualizado 29/07/2026 21:13</div>
   </div>
 </header>
 <div class="searchbox">
@@ -189,7 +190,10 @@ function cardHtml(d){
     '<span class="go">Ver vuelo →</span></div></a>';
 }
 function render(){
-  var list=ALL.filter(function(d){return !q||String(d.destination_name||'').toLowerCase().indexOf(q)>=0||String(d.origin_name||'').toLowerCase().indexOf(q)>=0;});
+  var list=ALL.filter(function(d){if(!q)return true;
+    var n=window.RadarBusqueda?RadarBusqueda.normaliza:function(s){return String(s||'').toLowerCase();};
+    var qq=n(q);   // "cancun" encuentra Cancún
+    return n(d.destination_name).indexOf(qq)>=0||n(d.origin_name).indexOf(qq)>=0;});
   var cmp={price:function(a,b){return (a.price||0)-(b.price||0);},soon:function(a,b){return new Date(a.departure_at||0)-new Date(b.departure_at||0);}}[sort];
   list.sort(cmp);
   document.getElementById('cnt').textContent=list.length+' vuelo'+(list.length===1?'':'s');

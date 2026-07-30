@@ -1,6 +1,6 @@
 {
- "generated_at": 1785381191.0742824,
- "generated_at_str": "29/07/2026 21:13",
+ "generated_at": 1785384244.0074303,
+ "generated_at_str": "29/07/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX2608HOU1?t=Y417877606001787772300000135MEXIAH_eaf7b2d273ef723a8eacee33e53f919d_11879&search_date=29072026&expected_price_uuid=019fb012-1955-8030-61b2-b3a92c130764&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2596",
    "title": "Flight deals from Mexico City to Houston",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260826-eaf7b2d2/"
+  },
+  {
+   "id": "70e35168c017588f77504f953818fac7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3398.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-06T06:30:00-05:00",
+   "return_at": "",
+   "duration": 700,
+   "link": "https://www.aviasales.com/search/MEX0609DFW1?t=Y417886762001788721800000700NLUGDLDFW_70e35168c017588f77504f953818fac7_15552&search_date=29072026&expected_price_uuid=019fb036-eb3c-8030-a313-d4224c3cf8e5&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Sz5PNKSg4G42LL0yEExfSQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3398",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260906-70e35168/"
   },
   {
    "id": "339162969810ef37e49e92b937b2ae2d",
@@ -150,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-francfort-20270531-1bbf5fce/"
   },
   {
-   "id": "e9769599a7ff7158996dbdda51649cd8",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CAN",
-   "destination_name": "Guangzhou",
-   "airline": "AC",
-   "airline_title": "Air Canada",
-   "logo": "https://pics.avs.io/600/78/AC.png",
-   "logo_tipo": "",
-   "price": 10438.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-26T07:00:00-05:00",
-   "return_at": "",
-   "duration": 1640,
-   "link": "https://www.aviasales.com/search/MEX2609CAN1?t=AC17904060001790554800001640MEXYVRPEKCAN_e9769599a7ff7158996dbdda51649cd8_47791&search_date=29072026&expected_price_uuid=019fafc7-4ec1-8040-262c-c7b4c15e14a6&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=HREjtG2zC6jKyZinr6ezwA&expected_price_source=share&expected_price_currency=mxn&expected_price=10438",
-   "title": "Flight deals from Mexico City to Guangzhou",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guangzhou-20260926-e9769599/"
-  },
-  {
    "id": "c2f5d0d0aca7d4a216e9438bda47ee03",
    "kind": "flight",
    "origin": "MEX",
@@ -180,12 +180,12 @@
    "airline_title": "Cathay Pacific",
    "logo": "https://pics.avs.io/600/150/CX.png",
    "logo_tipo": "",
-   "price": 11026.0,
+   "price": 11020.0,
    "currency": "MXN",
    "departure_at": "2026-08-17T17:15:00-05:00",
    "return_at": "",
    "duration": 3155,
-   "link": "https://www.aviasales.com/search/MEX1708HKT1?t=CX17869869001787223000003155NLUGDLLAXHKGHKT_c2f5d0d0aca7d4a216e9438bda47ee03_50464&search_date=30072026&expected_price_uuid=019fb092-34f3-8050-23d2-ee80493f6e21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1hS48smMLBVWofHtB4yk9g&expected_price_source=share&expected_price_currency=mxn&expected_price=11026",
+   "link": "https://www.aviasales.com/search/MEX1708HKT1?t=CX17869869001787223000003155NLUGDLLAXHKGHKT_c2f5d0d0aca7d4a216e9438bda47ee03_50464&search_date=30072026&expected_price_uuid=019fb092-34f3-8050-23d2-ee80493f6e21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1hS48smMLBVWofHtB4yk9g&expected_price_source=share&expected_price_currency=mxn&expected_price=11020",
    "title": "Flight deals from Mexico City to Phuket",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20260817-c2f5d0d0/"
   },

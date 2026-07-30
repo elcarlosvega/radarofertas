@@ -1,6 +1,6 @@
 {
- "generated_at": 1785373509.64492,
- "generated_at_str": "29/07/2026 19:05",
+ "generated_at": 1785377129.0959628,
+ "generated_at_str": "29/07/2026 20:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -260,21 +260,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784905757.1411
-  },
-  {
-   "id": "684491",
-   "name": "Samsung Galaxy S24 Ultra 256GB Gris Titanio",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S24-Ultra-256GB-Gris-Titanio/p/684491",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h01/227231424380958.jpg",
-   "category": "Electronicos",
-   "price_old": 22199.0,
-   "price_new": 14799.0,
-   "pct": 33.3,
-   "amount": 7400.0,
-   "starts": "2026-07-11T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785337796.276144
   },
   {
    "id": "694361",
@@ -4777,6 +4762,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "750302",
+   "name": "Carolina Herrera Her 0326 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carolina-Herrera-Her-0326-Armazon-Oftalmico/p/750302",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/h5a/449966751580190.jpg",
+   "category": "Optica",
+   "price_old": 4999.0,
+   "price_new": 3749.25,
+   "pct": 25.0,
+   "amount": 1249.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "750301",
    "name": "Carolina Herrera Her 0325 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carolina-Herrera-Her-0325-Armazon-Oftalmico/p/750301",
@@ -6800,21 +6800,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785248198.8853054
-  },
-  {
-   "id": "684183",
-   "name": "Tous STO.00B40.09SJ.54 Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Tous-STO00B4009SJ54-Lentes-de-Sol/p/684183",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5e/h67/207590328336414.jpg",
-   "category": "Optica",
-   "price_old": 2999.0,
-   "price_new": 2249.25,
-   "pct": 25.0,
-   "amount": 749.75,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609
   },
   {
    "id": "684172",

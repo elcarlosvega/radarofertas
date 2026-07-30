@@ -61,7 +61,15 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 .tab.on::after{content:"";position:absolute;left:12px;right:12px;bottom:3px;height:2.5px;background:var(--green);border-radius:2px}
 .tab.soon{opacity:.6;pointer-events:none}
 .tab.soon::after{content:" · pronto";font-size:.68em;font-weight:600}
+/* [hidden] pierde contra cualquier regla de clase con display (la del navegador
+   es hoja de agente de usuario). Sin esta linea, .upd/.chip con hidden se
+   seguian pintando: por eso el contador de ahorradores mostraba su "0" de
+   plantilla aunque el script nunca lo hubiera encendido. */
+[hidden]{display:none!important}
 .upd{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--card);border-radius:99px;padding:8px 13px;font-size:.76rem;color:var(--mut);white-space:nowrap}
+.upd b{color:var(--ink)}
+.upd.ahorro{border-color:rgba(23,201,100,.45);background:rgba(23,201,100,.07)}
+.upd.ahorro b{color:var(--green-dk)}
 .dotlive{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 0 0 rgba(23,201,100,.55);animation:pulse 1.8s infinite}
 @keyframes pulse{70%{box-shadow:0 0 0 7px rgba(23,201,100,0)}100%{box-shadow:0 0 0 0 rgba(23,201,100,0)}}
 .tgtop{display:inline-flex;align-items:center;gap:8px;background:var(--dark);color:#fff;padding:10px 17px;border-radius:12px;font-weight:800;font-size:.85rem;text-decoration:none;white-space:nowrap;border:1px solid #1d2733;box-shadow:0 0 0 3px rgba(23,201,100,.22),0 6px 16px rgba(11,15,20,.25)}
@@ -318,6 +326,11 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <span class="tab soon" title="Monitor en pausa">Coppel · pausado</span>
       <span class="tab soon" title="Próximamente">Liverpool</span>
     </div>
+    <!-- Descuento detectado en los ultimos 7 dias. Sale de home.json ->
+         metricas.ahorro_semana, que portada.py suma del 'amount' real de las
+         ofertas vivas detectadas esta semana. Es un PISO (no cuenta las que ya
+         murieron) y va oculto hasta tener el dato: cero numeros inventados. -->
+    <span class="upd ahorro" id="ahorrosem" hidden><span class="dotlive"></span> <b></b>&nbsp;en descuentos detectados esta semana</span>
     <!-- visitantes activos REALES (Supabase Presence); oculto hasta que haya
          conexion y conteo: nunca muestra un numero inventado -->
     <span class="upd" id="enlinea" hidden><span class="dotlive"></span> <b>0</b>&nbsp;ahorradores en línea</span>
@@ -821,8 +834,26 @@ function pintarPortada(h){
   if(pt.length){ $('p-parati').innerHTML=pt.map(pcardHtml).join(''); $('pb-parati').hidden=false; }
   if(dest.length||vue.length||pt.length) $('portada').hidden=false;
 }
+/* Chip de "descuentos detectados esta semana".
+   El dato lo calcula portada.py sobre los deals.json reales y viaja en
+   home.json -> metricas.ahorro_semana. Si no viene, o viene en cero, el chip
+   se queda oculto: preferimos no decir nada a decir un numero inflado. */
+function pintarAhorroSemana(doc){
+  var el=document.getElementById('ahorrosem'); if(!el) return;
+  var m=(doc&&doc.metricas)||{}, v=Number(m.ahorro_semana||0);
+  if(!(v>0)){ el.hidden=true; return; }
+  var txt = v>=1e6 ? '$'+(v/1e6).toFixed(1).replace(/\.0$/,'')+' millones'
+                   : '$'+Math.round(v).toLocaleString('es-MX');
+  el.querySelector('b').textContent=txt;
+  el.title=(m.ofertas_semana||0).toLocaleString('es-MX')+
+           ' ofertas detectadas en los últimos 7 días que siguen vigentes. '+
+           'Suma del descuento real de cada una; no incluye las que ya expiraron.';
+  el.hidden=false;
+}
 fetch('/home.json?_='+Date.now(),{cache:'no-store'})
-  .then(r=>r.ok?r.json():null).then(pintarPortada).catch(()=>{});
+  .then(r=>r.ok?r.json():null)
+  .then(function(doc){ pintarPortada(doc); pintarAhorroSemana(doc); })
+  .catch(()=>{});
 
 Promise.all(STORES.map(loadStore)).then(res=>{
   RESULTS=res;

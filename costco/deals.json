@@ -1,6 +1,6 @@
 {
- "generated_at": 1785438327.5156043,
- "generated_at_str": "30/07/2026 13:05",
+ "generated_at": 1785441921.5540745,
+ "generated_at_str": "30/07/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9264,10 +9264,10 @@
    "price_new": 1349.25,
    "pct": 25.0,
    "amount": 449.75,
-   "starts": "2026-07-28T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
+   "starts": "2026-07-30T06:00:00.000Z",
+   "ends": "2026-08-04T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785255060.352239,
+   "first_seen": 1785441921.5540745,
    "h_dias": 2,
    "h_min": 1349.25,
    "h_ayer": 1349.25
@@ -9723,6 +9723,24 @@
    "h_ayer": 974.25
   },
   {
+   "id": "678668",
+   "name": "Bulova Twist Titanium Quintili Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Quintili-Armazon-Oftalmico/p/678668",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/h1b/414733731397662.jpg",
+   "category": "Optica",
+   "price_old": 1299.0,
+   "price_new": 974.25,
+   "pct": 25.0,
+   "amount": 324.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609,
+   "h_dias": 2,
+   "h_min": 974.25,
+   "h_ayer": 974.25
+  },
+  {
    "id": "701528",
    "name": "Bulova Kirby Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Kirby-Armazon-Oftalmico/p/701528",
@@ -9754,6 +9772,24 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785190620.981251,
+   "h_dias": 2,
+   "h_min": 974.25,
+   "h_ayer": 974.25
+  },
+  {
+   "id": "581568",
+   "name": "Vino Tinto Malabrigo 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Malabrigo-750ml/p/581568",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6f/h10/439294603624478.jpg",
+   "category": "Vinos",
+   "price_old": 1299.0,
+   "price_new": 974.25,
+   "pct": 25.0,
+   "amount": 324.75,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785248198.8853054,
    "h_dias": 2,
    "h_min": 974.25,
    "h_ayer": 974.25
@@ -13264,6 +13300,24 @@
    "h_dias": 2,
    "h_min": 6899.0,
    "h_ayer": 6899.0
+  },
+  {
+   "id": "676404",
+   "name": "Teka Refrigerador 19' Duplex",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Teka-Refrigerador-19-Duplex/p/676404",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hec/hcb/172166240927774.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 48999.0,
+   "price_new": 37999.0,
+   "pct": 22.4,
+   "amount": 11000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572,
+   "h_dias": 2,
+   "h_min": 37999.0,
+   "h_ayer": 37999.0
   },
   {
    "id": "704948",

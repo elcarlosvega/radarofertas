@@ -1,6 +1,6 @@
 {
- "generated_at": 1785380533.0799067,
- "generated_at_str": "29/07/2026 21:02",
+ "generated_at": 1785380712.4435525,
+ "generated_at_str": "29/07/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2960,6 +2960,21 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785337796.276144
+  },
+  {
+   "id": "593501",
+   "name": "Maytag Lavadora 20Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-20Kg/p/593501",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h72/14411389403166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 14899.0,
+   "price_new": 10799.0,
+   "pct": 27.5,
+   "amount": 4100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784738333.5903654
   },
   {
    "id": "697931",

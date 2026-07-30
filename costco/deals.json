@@ -1,6 +1,6 @@
 {
- "generated_at": 1785366617.4058096,
- "generated_at_str": "29/07/2026 17:10",
+ "generated_at": 1785369928.2005663,
+ "generated_at_str": "29/07/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2917,6 +2917,21 @@
    "first_seen": 1785337796.276144
   },
   {
+   "id": "593501",
+   "name": "Maytag Lavadora 20Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-20Kg/p/593501",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h72/14411389403166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 14899.0,
+   "price_new": 10799.0,
+   "pct": 27.5,
+   "amount": 4100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784738333.5903654
+  },
+  {
    "id": "697931",
    "name": "Nintendo Switch Oled Bundle Super Mario Bros. Wonder Digital + 3 Meses de Nintendo Online",
    "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-Oled-Bundle-Super-Mario-Bros-Wonder-Digital-3-Meses-de-Nintendo-Online/p/697931",
@@ -3572,21 +3587,6 @@
    "pct": 26.6,
    "amount": 3000.0,
    "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "658580",
-   "name": "KitchenAid Estufa eléctrica con 5 quemadores 30\"",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/KitchenAid-Estufa-electrica-con-5-quemadores-30/p/658580",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/h01/365808516268062.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 82999.0,
-   "price_new": 60999.0,
-   "pct": 26.5,
-   "amount": 22000.0,
-   "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
@@ -5077,6 +5077,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "750305",
+   "name": "Carolina Herrera Her 0344/S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carolina-Herrera-Her-0344S-Lentes-de-Sol/p/750305",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h12/h2f/449966762328094.jpg",
+   "category": "Optica",
+   "price_old": 4399.0,
+   "price_new": 3299.25,
+   "pct": 25.0,
+   "amount": 1099.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "671982",
    "name": "Rybelsus 14mg 30 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Cuidado-para-Diabeticos/Rybelsus-14mg-30-Tabletas/p/671982",
@@ -5330,6 +5345,36 @@
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "750304",
+   "name": "Carolina Herrera Her 0340/S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carolina-Herrera-Her-0340S-Lentes-de-Sol/p/750304",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h76/he4/449966759116830.jpg",
+   "category": "Optica",
+   "price_old": 3899.0,
+   "price_new": 2924.25,
+   "pct": 25.0,
+   "amount": 974.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
+   "id": "750303",
+   "name": "Carolina Herrera Her 0339/S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carolina-Herrera-Her-0339S-Lentes-de-Sol/p/750303",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h82/hf0/449966756757534.jpg",
+   "category": "Optica",
+   "price_old": 3899.0,
+   "price_new": 2924.25,
+   "pct": 25.0,
+   "amount": 974.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
   },
   {
    "id": "750281",
@@ -10042,6 +10087,21 @@
    "first_seen": 1783789763.151063
   },
   {
+   "id": "1713485",
+   "name": "SunVilla, Clifton Set Bistro de 3 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/SunVilla-Clifton-Set-Bistro-de-3-piezas/p/1713485",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h61/h9f/351685468684318.jpg",
+   "category": "Muebles",
+   "price_old": 28999.0,
+   "price_new": 21999.0,
+   "pct": 24.1,
+   "amount": 7000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "669619",
    "name": "Luuna Colchón Original Memory Foam, King",
    "url": "https://www.costco.com.mx/c/Luuna-Colchon-Original-Memory-Foam-King/p/669619",
@@ -10271,6 +10331,21 @@
    "name": "Gabite, Sofá Trieste, Gris",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Gabite-Sofa-Trieste-Gris/p/5948728",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/hd9/367936845217822.jpg",
+   "category": "Muebles",
+   "price_old": 16999.0,
+   "price_new": 12999.0,
+   "pct": 23.5,
+   "amount": 4000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
+   "id": "1713381",
+   "name": "Agio, McKinnon Comedor Alto de 3 Piezas para Exterior",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/Agio-McKinnon-Comedor-Alto-de-3-Piezas-para-Exterior/p/1713381",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h96/ha8/189699636232222.jpg",
    "category": "Muebles",
    "price_old": 16999.0,
    "price_new": 12999.0,
@@ -12532,6 +12607,21 @@
    "first_seen": 1785186691.5852609
   },
   {
+   "id": "1713577",
+   "name": "Yardistry, Invernadero",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Articulos-de-Jardineria/Huertos-y-Composteras/Yardistry-Invernadero/p/1713577",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/h5e/204641147453470.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 14999.0,
+   "price_new": 11999.0,
+   "pct": 20.0,
+   "amount": 3000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609
+  },
+  {
    "id": "683657",
    "name": "América, Class, Colchón Queen Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Class-Colchon-Queen-Size/p/683657",
@@ -13852,21 +13942,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "1179960",
-   "name": "Sauna Infrarrojo Bergamo Dynamic Low EMF, 4 Personas",
-   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Bergamo-Dynamic-Low-EMF-4-Personas/p/1179960",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1c/ha1/11535717367838.jpg",
-   "category": "Hogar y Bano",
-   "price_old": 89999.0,
-   "price_new": 74999.0,
-   "pct": 16.7,
-   "amount": 15000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785190620.981251
-  },
-  {
    "id": "2002633",
    "name": "Sauna Infrarrojo FAR Ultra Low EMF Dynamic Santiago Elite, 2 Personas",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-FAR-Ultra-Low-EMF-Dynamic-Santiago-Elite-2-Personas/p/2002633",
@@ -14315,21 +14390,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785186691.5852609
-  },
-  {
-   "id": "681344",
-   "name": "Samsung Refrigerador 32' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-32-French-Door/p/681344",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h50/452706636890142.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 34999.0,
-   "price_new": 29499.0,
-   "pct": 15.7,
-   "amount": 5500.0,
-   "starts": "2026-07-22T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784738333.5903654
   },
   {
    "id": "683661",

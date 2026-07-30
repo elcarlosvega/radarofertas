@@ -630,7 +630,9 @@ function makeCard(d, i){
 
 function visibleList(){
   let list = ALL.filter(d => FILTER==='all' || d._store===FILTER);
-  if(Q) list = list.filter(d => String(d.name||'').toLowerCase().includes(Q));
+  if(Q) list = list.filter(d => window.RadarBusqueda
+    ? RadarBusqueda.coincide(d._tokens||(d._tokens=RadarBusqueda.tokensDe(d,d._store)), Q)
+    : String(d.name||'').toLowerCase().includes(Q.toLowerCase()));
   const cmp = {
     score:(a,b)=>score(b)-score(a),
     pct:(a,b)=>(b.pct||0)-(a.pct||0),
@@ -652,6 +654,7 @@ function render(){
   } else {
     list=visibleList();  // la intención del usuario (filtro/orden/búsqueda) manda
   }
+  const _ll=$('livelbl'); if(_ll) _ll.textContent = Q ? (list.length+' resultado'+(list.length===1?'':'s')+' para “'+Q+'”') : 'Actualizadas ahora';
   if(!list.length){ const em=document.createElement('div'); em.className='err'; em.textContent = Q ? 'Sin resultados para "'+Q+'".' : 'Sin ofertas por ahora.'; grid.appendChild(em); $('morebtn').hidden=true; return; }
   list.slice(0,SHOWN).forEach((d,i)=>grid.appendChild(makeCard(d,i)));
   $('morebtn').hidden = list.length<=SHOWN;
@@ -826,7 +829,7 @@ function pintarPortada(h){
     $('pdest-sub').textContent='tres de los mayores descuentos de hoy'; }
   if(vue.length){ $('p-vuelos').innerHTML=vue.map(vuelocardHtml).join(''); $('pb-vuelos').hidden=false; }
   if(pt.length){ $('p-parati').innerHTML=pt.map(pcardHtml).join(''); $('pb-parati').hidden=false; }
-  if(dest.length||vue.length||pt.length) $('portada').hidden=false;
+  if(dest.length||vue.length||pt.length){ const _p=$('portada'); _p.hidden=false; _p.dataset.ok='1'; }
 }
 /* Chip de "descuentos detectados esta semana".
    El dato lo calcula portada.py sobre los deals.json reales y viaja en
@@ -859,13 +862,16 @@ Promise.all(STORES.map(loadStore)).then(res=>{
   $('q').addEventListener('focus',_precarga,{once:true});
   $('morebtn').addEventListener('click',_precarga,{once:true});
 });
-$('q').addEventListener('input',e=>{ Q=e.target.value.trim().toLowerCase(); SHOWN=PAGE_N; render(); if(Q) ensureFull(ALLKEYS).then(render); });
+$('q').addEventListener('input',e=>{ Q=e.target.value.trim(); SHOWN=PAGE_N;
+  const _po=$('portada'); if(_po&&_po.dataset.ok) _po.hidden=!!Q;
+  render(); if(Q) ensureFull(ALLKEYS).then(render); });
 $('sort').addEventListener('change',e=>{ SORT=e.target.value; SHOWN=PAGE_N; render(); });
 $('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); ensureFull(FILTER==='all'?ALLKEYS:[FILTER]).then(render); });
 $('trendbtn').addEventListener('click',()=>{ SORT='pct'; $('sort').value='pct'; SHOWN=PAGE_N; render(); document.getElementById('destacadas').scrollIntoView({behavior:'smooth'}); });
 </script>
 <!-- contador de "ahorradores en línea" (visitantes activos reales, Supabase
      Presence); sin config valida en presencia_config.js no aparece nada -->
+<script src="/assets/busqueda.js"></script>
 <script src="/assets/presencia_config.js" defer></script>
 <script src="/assets/presencia.js" defer></script>
 </body>

@@ -26,3 +26,6 @@
   .catnav a{white-space:nowrap}
   .sec,.gridhd{padding-left:14px;padding-right:14px}
 }
+/* paginado: "Ver mas ofertas (N restantes)" bajo la parrilla */
+.masbtn{display:block;margin:18px auto 8px;background:var(--dark);color:#fff;border:0;border-radius:12px;padding:13px 26px;font-weight:800;font-size:.9rem;cursor:pointer}
+.masbtn:hover{opacity:.92}

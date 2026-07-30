@@ -162,6 +162,7 @@ footer a{color:var(--green-dk);font-weight:700}
 </div>
 <div class="cnt" id="cnt"></div>
 <div class="grid" id="grid"><!--G1--><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><!--G2--></div>
+<button class="masbtn" id="masbtn" hidden type="button">Ver más ofertas</button>
 <div class="empty" id="empty" style="display:none"></div>
 <footer>
   Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Verifica siempre el precio final en el sitio oficial antes de comprar.<br>
@@ -169,6 +170,7 @@ footer a{color:var(--green-dk);font-weight:700}
   <a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a>
 </footer>
 <link rel="stylesheet" href="/assets/secciones.css">
+<script src="/assets/busqueda.js"></script>
 <script src="/assets/secciones_tienda.js"></script>
 <script>
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx','vteximg.com.br','vtexassets.com','elektra.mx'];
@@ -194,26 +196,31 @@ function cardHtml(d){
     '<div class="sv">Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)</div>'+
     '<span class="go">Ver oferta →</span></div></a>';
 }
+var PAGINA=36, MOSTRAR=PAGINA;  // primero filtrar/ordenar TODO; despues paginar
 function render(){
   var fil=(window.RadarSecciones&&RadarSecciones.filtro)||'';
-  var list=ALL.filter(function(d){return (!q||String(d.name||'').toLowerCase().indexOf(q)>=0)&&(!fil||String(d.category||'').trim()===fil);});
+  var list=ALL.filter(function(d){return (!q||(window.RadarBusqueda?RadarBusqueda.coincide(d._tokens||[],q):String(d.name||'').toLowerCase().indexOf(q.toLowerCase())>=0))&&(!fil||String(d.category||'').trim()===fil);});
   var cmp={score:function(a,b){return score(b)-score(a);},pct:function(a,b){return (b.pct||0)-(a.pct||0);},amount:function(a,b){return (b.amount||0)-(a.amount||0);},price:function(a,b){return (a.price_new||0)-(b.price_new||0);}}[sort];
   list.sort(cmp);
-  document.getElementById('cnt').textContent=list.length+' oferta'+(list.length===1?'':'s');
+  document.getElementById('cnt').textContent=q?(list.length+' resultado'+(list.length===1?'':'s')+' para “'+q+'”'):(list.length+' oferta'+(list.length===1?'':'s'));
   var g=document.getElementById('grid');
   var em=document.getElementById('empty');
-  if(!list.length){g.innerHTML='';em.style.display='block';em.textContent='Sin resultados.';return;}
+  if(!list.length){g.innerHTML='';em.style.display='block';em.textContent='Sin resultados.';var mb0=document.getElementById('masbtn');if(mb0)mb0.hidden=true;if(window.RadarSecciones)RadarSecciones.actualizar(!!q,sort);return;}
   em.style.display='none';
-  g.innerHTML=list.slice(0,800).map(cardHtml).join('');
+  g.innerHTML=list.slice(0,MOSTRAR).map(cardHtml).join('');
+  var mb=document.getElementById('masbtn');
+  if(mb){var resto=list.length-MOSTRAR;mb.hidden=resto<=0;if(resto>0)mb.textContent='Ver más ofertas ('+resto.toLocaleString('es-MX')+' restantes)';}
   if(window.RadarSecciones)RadarSecciones.actualizar(!!q,sort);
 }
-document.getElementById('q').addEventListener('input',function(e){q=e.target.value.trim().toLowerCase();render();});
+document.getElementById('q').addEventListener('input',function(e){q=e.target.value.trim();MOSTRAR=PAGINA;render();});
 document.getElementById('sort').addEventListener('change',function(e){sort=e.target.value;render();});
+document.getElementById('masbtn').addEventListener('click',function(){MOSTRAR+=PAGINA;render();});
 // marca la pestaña activa según la URL
 (function(){var p=location.pathname.replace(/index\.html$/,'');var ts=document.querySelectorAll('#tabs a.tab');for(var i=0;i<ts.length;i++){var h=ts[i].getAttribute('href');if(h===p||(h!=='/'&&p.indexOf(h)===0)){ts[i].className+=' on';}}})();
 fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
   ALL=(d&&d.deals)||[];
-  if(window.RadarSecciones)RadarSecciones.montar({deals:ALL,cardHtml:cardHtml,score:score,esc:esc,alFiltrar:render});
+  if(window.RadarBusqueda)ALL.forEach(function(x){x._tokens=RadarBusqueda.tokensDe(x,OFERTA_STORE);});
+  if(window.RadarSecciones)RadarSecciones.montar({deals:ALL,cardHtml:cardHtml,score:score,esc:esc,alFiltrar:function(){MOSTRAR=PAGINA;render();}});
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
   if(d&&d.generated_at&&(Date.now()-d.generated_at*1000)>216e5){var _sb=document.createElement('div');_sb.className='stalebar';_sb.setAttribute('role','status');_sb.innerHTML='⚠ <b>Temporalmente sin actualización.</b> Último dato real: '+esc((d&&d.generated_at_str)||'desconocido')+'. Los precios pueden haber cambiado.';var _h=document.querySelector('.heroin');if(_h)_h.appendChild(_sb);}
   render();

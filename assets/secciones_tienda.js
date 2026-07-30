@@ -6,7 +6,9 @@
    las ofertas en memoria, asi que no hay nada que publicar aparte.
 
    Reglas (identicas a secciones.py):
-   - seccion = categoria con MAS de minDeals (150) ofertas vivas;
+   - la vista por categorias se activa si la TIENDA pasa de 150 productos
+     (regla de Carlos, 29-jul); una categoria entra con al menos 6 ofertas
+     (menos no llena una fila digna) y el tope es 12 secciones por jale;
    - top 5 por score con tope de 2 por familia (tipo de producto, primer
      sustantivo del nombre): sin el, "Colchones y Boxes" son 5 colchones;
    - categorias de mas jale arriba (jale = score promedio de lo MOSTRADO);
@@ -21,7 +23,7 @@
    y el render() de la pagina filtra su lista con RadarSecciones.filtro. */
 (function () {
   'use strict';
-  var MIN_DEALS = 150, TOP_N = 5, MAX_FAMILIA = 2, MAX_SECCIONES = 12;
+  var MIN_TIENDA = 150, MIN_CAT = 6, TOP_N = 5, MAX_FAMILIA = 2, MAX_SECCIONES = 12;
   var GENERICAS = { 'otras ofertas': 1, 'otros': 1, 'otras': 1, 'varios': 1,
                     'general': 1, 'sin categoria': 1 };
   var GEN = { de: 1, del: 1, la: 1, el: 1, los: 1, las: 1, un: 1, una: 1,
@@ -65,10 +67,11 @@
       (porcat[c] = porcat[c] || []).push(d);
     });
     secciones = []; nCat = {};
+    if (total <= MIN_TIENDA) return;   // tienda chica: pagina como siempre
     Object.keys(porcat).forEach(function (c) {
       var ds = porcat[c];
       nCat[c] = ds.length;
-      if (ds.length <= MIN_DEALS) return;
+      if (ds.length < MIN_CAT) return;
       ds = ds.slice().sort(function (a, b) { return o.score(b) - o.score(a); });
       var top = [], fam = {};
       for (var i = 0; i < ds.length && top.length < TOP_N; i++) {

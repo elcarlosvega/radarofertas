@@ -1,0 +1,28 @@
+/* Estandar compartido del "top por categoria" en paginas de tienda.
+   Fuente unica del formato (lo estreno Palacio; lo usan todas las tiendas
+   con categorias de mas de 150 productos). Reusa las clases .grid/.card de
+   cada pagina; aqui solo chips de salto, encabezados de seccion y el
+   encabezado de la parrilla completa. */
+.catnav{max-width:1200px;margin:0 auto;padding:14px 20px 0;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.catnav .cnlb{font-size:.78rem;color:var(--mut);font-weight:700;margin-right:2px}
+.catnav a{font-size:.82rem;font-weight:700;text-decoration:none;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:99px;padding:7px 13px}
+.catnav a:hover{border-color:var(--mut)}
+.catnav a.on{background:var(--dark);border-color:var(--dark);color:#fff}
+.catnav a.on small{color:rgba(255,255,255,.65)}
+.catnav a small{color:var(--mut);font-weight:700;margin-left:5px}
+.sec{max-width:1200px;margin:0 auto;padding:10px 20px 0;scroll-margin-top:64px}
+.sec .sechd{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:16px 0 2px}
+.sec .sechd h2{font-size:1.18rem;font-weight:900;letter-spacing:-.02em}
+.sec .sechd .of{font-size:.8rem;color:var(--mut);font-weight:700}
+.sec .sechd .all{margin-left:auto;font-size:.83rem;font-weight:800;color:var(--green-dk);text-decoration:none}
+.sec .grid{padding:12px 0 4px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+.gridhd{max-width:1200px;margin:0 auto;padding:30px 20px 0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.gridhd h2{font-size:1.18rem;font-weight:900;letter-spacing:-.02em;scroll-margin-top:64px}
+.gridhd .of{font-size:.8rem;color:var(--mut);font-weight:700}
+.gridhd .clr{font-size:.82rem;font-weight:800;color:var(--green-dk);background:none;border:0;cursor:pointer;padding:0}
+@media(max-width:640px){
+  .sec .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+  .catnav{padding:12px 14px 0;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .catnav a{white-space:nowrap}
+  .sec,.gridhd{padding-left:14px;padding-right:14px}
+}

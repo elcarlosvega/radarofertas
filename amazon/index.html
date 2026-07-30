@@ -167,6 +167,8 @@ footer a{color:var(--green-dk);font-weight:700}
   <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Únete al Telegram</a> · actualizado automáticamente cada hora.<br>
   <a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a>
 </footer>
+<link rel="stylesheet" href="/assets/secciones.css">
+<script src="/assets/secciones_tienda.js"></script>
 <script>
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx'];
 function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}
@@ -203,7 +205,8 @@ function cardHtml(d){
     '<span class="go">Ver oferta →</span></div></a>';
 }
 function render(){
-  var list=ALL.filter(function(d){return !q||String(d.name||'').toLowerCase().indexOf(q)>=0;});
+  var fil=(window.RadarSecciones&&RadarSecciones.filtro)||'';
+  var list=ALL.filter(function(d){return (!q||String(d.name||'').toLowerCase().indexOf(q)>=0)&&(!fil||String(d.category||'').trim()===fil);});
   var cmp={score:function(a,b){return score(b)-score(a);},pct:function(a,b){return (b.pct||0)-(a.pct||0);},amount:function(a,b){return (b.amount||0)-(a.amount||0);},price:function(a,b){return (a.price_new||0)-(b.price_new||0);}}[sort];
   list.sort(cmp);
   document.getElementById('cnt').textContent=list.length+' oferta'+(list.length===1?'':'s');
@@ -212,6 +215,7 @@ function render(){
   if(!list.length){g.innerHTML='';em.style.display='block';em.textContent='Sin resultados.';return;}
   em.style.display='none';
   g.innerHTML=list.slice(0,800).map(cardHtml).join('');
+  if(window.RadarSecciones)RadarSecciones.actualizar(!!q,sort);
 }
 document.getElementById('q').addEventListener('input',function(e){q=e.target.value.trim().toLowerCase();render();});
 document.getElementById('sort').addEventListener('change',function(e){sort=e.target.value;render();});
@@ -219,6 +223,7 @@ document.getElementById('sort').addEventListener('change',function(e){sort=e.tar
 (function(){var p=location.pathname.replace(/index\.html$/,'');var ts=document.querySelectorAll('#tabs a.tab');for(var i=0;i<ts.length;i++){var h=ts[i].getAttribute('href');if(h===p||(h!=='/'&&p.indexOf(h)===0)){ts[i].className+=' on';}}})();
 fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
   ALL=(d&&d.deals)||[];
+  if(window.RadarSecciones)RadarSecciones.montar({deals:ALL,cardHtml:cardHtml,score:score,esc:esc,alFiltrar:render});
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
   render();
 }).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Recarga en un momento.';});

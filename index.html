@@ -611,12 +611,13 @@ function makeCard(d, i){
   const ib=document.createElement('div'); ib.className='imgbox';
   const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('span'); bp.className='bpct'; bp.textContent='-'+Math.round(d.pct||0)+'%';
-  const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('tabindex','0'); hh.setAttribute('aria-label','Guardar en favoritos');
+  const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('tabindex','0'); hh.setAttribute('aria-label', FAVS.has(favKey(d))?'Quitar de favoritos':'Guardar en favoritos');
   const hk=favKey(d);
   if(FAVS.has(hk)){hh.classList.add('onh');}
   hh.setAttribute('aria-pressed',FAVS.has(hk)?'true':'false');
   const _tog=e=>{e.preventDefault();e.stopPropagation();FAVS.has(hk)?FAVS.delete(hk):FAVS.add(hk);favSave();
-    hh.classList.toggle('onh',FAVS.has(hk));hh.setAttribute('aria-pressed',FAVS.has(hk)?'true':'false');};
+    hh.classList.toggle('onh',FAVS.has(hk));hh.setAttribute('aria-pressed',FAVS.has(hk)?'true':'false');
+    hh.setAttribute('aria-label',FAVS.has(hk)?'Quitar de favoritos':'Guardar en favoritos');};
   hh.addEventListener('click',_tog);
   hh.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')_tog(e);});
   card.append(ib,bp,hh);
@@ -672,6 +673,7 @@ function buildChips(){
   const box=$('chips'); box.innerHTML='';
   const mk=(key,label,accent)=>{
     const b=document.createElement('button'); b.type='button'; b.className='chipbtn'+(FILTER===key?' on':'');
+    b.setAttribute('aria-pressed', FILTER===key?'true':'false');
     if(accent){ const d=document.createElement('span'); d.className='sdot'; d.style.background=accent; b.appendChild(d); }
     else { b.appendChild(document.createTextNode('◉ ')); }
     b.appendChild(document.createTextNode(label));

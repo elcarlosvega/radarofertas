@@ -32,6 +32,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <link rel="preconnect" href="https://www.googletagmanager.com">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230b0f14'/><circle cx='32' cy='32' r='21' fill='none' stroke='%2317c964' stroke-width='3' opacity='.45'/><circle cx='32' cy='32' r='12' fill='none' stroke='%2317c964' stroke-width='3' opacity='.8'/><circle cx='32' cy='32' r='4.5' fill='%2317c964'/></svg>">
 <link rel="stylesheet" href="/assets/secciones.css">
+<script src="/assets/busqueda.js" defer></script>
 <style>
 :root{
   --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
@@ -144,7 +145,7 @@ footer a{color:var(--green-dk);font-weight:700}
   <div class="heroin">
     <span class="chip"><span class="sq"></span> RADAR PALACIO <span class="dotlive"></span></span>
     <h1>Ofertas de <em>Palacio de Hierro</em> cazadas cada hora.</h1>
-    <div class="sub" id="sub">5,680 ofertas activas · actualizado 29/07/2026 21:06</div>
+    <div class="sub" id="sub">5,681 ofertas activas · actualizado 29/07/2026 21:15</div>
   </div>
 </header>
 <div class="searchbox">
@@ -349,7 +350,13 @@ function runSearch(){
   var g=document.getElementById('grid');
   document.getElementById('cnt').textContent='Buscando en todo el catálogo…';
   ensureIdx().then(function(items){
-    var hits=[]; for(var i=0;i<items.length&&hits.length<80;i++){ if(String(items[i][2]||'').toLowerCase().indexOf(q)>=0) hits.push(items[i]); }
+    var hits=[]; for(var i=0;i<items.length&&hits.length<80;i++){
+      var it=items[i];
+      var pega=window.RadarBusqueda
+        ? RadarBusqueda.coincide(it._tk||(it._tk=RadarBusqueda.tokensDe({name:it[2],category:it[5]},'palacio')), q)
+        : String(it[2]||'').toLowerCase().indexOf(q.toLowerCase())>=0;
+      if(pega) hits.push(it);
+    }
     var pages={}; hits.forEach(function(h){ pages[h[0]]=1; });
     var need=Object.keys(pages).map(Number).filter(function(p){return p>0;});
     return Promise.all(need.map(function(p){ return fetch('deals/page-'+pad3(p)+'.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(pg){return pg.deals||[];}); }))
@@ -358,14 +365,14 @@ function runSearch(){
         // incluir también lo ya cargado por scroll
         loaded.forEach(function(d){pool.push(d);});
         var seen={}, uniq=[]; pool.forEach(function(d){ if(!seen[d.id]){seen[d.id]=1;uniq.push(d);} });
-        var res=uniq.filter(function(d){return String(d.name||'').toLowerCase().indexOf(q)>=0;});
+        var res=uniq.filter(function(d){return window.RadarBusqueda?RadarBusqueda.coincide(d._tokens||(d._tokens=RadarBusqueda.tokensDe(d,'palacio')),q):String(d.name||'').toLowerCase().indexOf(q.toLowerCase())>=0;});
         paint(res, res.length+' resultado'+(res.length===1?'':'s')+' para “'+esc(q)+'”');
         var btn=document.getElementById('morebtn'); if(btn) btn.style.display='none';
       });
   });
 }
 document.getElementById('q').addEventListener('input',function(e){
-  q=e.target.value.trim().toLowerCase();
+  q=e.target.value.trim();
   if(q){ searchMode=true; catFilter=''; renderSecciones(); runSearch(); }
   else { searchMode=false; renderSecciones(); renderLoaded(); }
 });

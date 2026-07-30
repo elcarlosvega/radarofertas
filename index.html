@@ -200,7 +200,6 @@ main{max-width:1200px;margin:0 auto;padding:34px 20px 10px}
 @keyframes skg{to{background-position:-200% 0}}
 .imgbox img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
 .bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#062812;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
-.btag{position:absolute;top:12px;left:64px;background:#fff;border:1px solid var(--line);color:var(--mut);font-weight:700;font-size:.64rem;padding:4px 8px;border-radius:99px}
 .heart{position:absolute;top:9px;right:9px;width:30px;height:30px;border-radius:50%;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;cursor:pointer;color:#b9c2cc;font-size:.85rem;z-index:2}
 .heart.onh{color:#e6295a;border-color:#f3c2d1}
 .cbody{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
@@ -490,17 +489,11 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
     </div>
     <div>
       <h4>Newsletter</h4>
-      <form class="nl" id="nlform">
-        <div class="nlrow">
-          <input type="email" id="nlmail" placeholder="tu@email.com" aria-label="Tu correo electrónico" required>
-          <button type="submit" aria-label="Suscribirme">→</button>
-        </div>
-        <p class="nlnote" id="nlnote">Recibe lo mejor del radar en tu correo.</p>
-      </form>
+      <p class="nlnote">El boletín por correo está en construcción; todavía no guardamos direcciones. Mientras tanto, las alertas llegan primero por <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener" style="color:var(--green-dk);font-weight:800">Telegram</a>.</p>
     </div>
   </div>
   <div class="legal">
-    <span>Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Los precios y vigencias pueden cambiar sin previo aviso; verifica siempre el precio final en el sitio oficial antes de comprar.</span>
+    <span>Radar Ofertas MX no es una tienda ni está afiliada oficialmente a las marcas referidas. Los precios y vigencias pueden cambiar sin previo aviso; verifica siempre el precio final en el sitio oficial antes de comprar. Como Afiliado de Amazon, percibo dinero con las compras elegibles. Nuestro canal de Telegram conserva su nombre original, Descuentos Palacio: ahí nació el radar y hoy cubre todas las tiendas del sitio.</span>
     <span><a href="/como-funciona/">Cómo funciona</a> · <a href="/privacidad/">Privacidad</a> · <a href="/terminos/">Términos</a> · <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener">Reportar una oferta</a></span>
     <span>© 2026 Radar Ofertas MX. Todos los derechos reservados.</span>
   </div>
@@ -517,12 +510,15 @@ const STORES = [
 ];
 const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel','elektra'];
 const PAGE_N = 12;
-const TAGS = ['Popular','Bajó hoy','Muy buscado'];
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx','pics.avs.io','vteximg.com.br','vtexassets.com','elektra.mx'];
 function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}
 const $ = id => document.getElementById(id);
 const money = v => { const n=Number(v)||0; const dec=Number.isInteger(n)?0:2; return '$' + n.toLocaleString('es-MX',{minimumFractionDigits:dec, maximumFractionDigits:dec}); };
 const score = d => (d.pct||0) * Math.log10(10 + (d.amount||0));
+/* favoritos: persisten en localStorage (por navegador); una llave tienda|id */
+const FAVS=(()=>{try{return new Set(JSON.parse(localStorage.getItem('radar_favs')||'[]'))}catch(e){return new Set()}})();
+function favKey(d){return (d._store||'')+'|'+d.id;}
+function favSave(){try{localStorage.setItem('radar_favs',JSON.stringify([...FAVS]))}catch(e){}}
 // ====== Frescura: una tienda con datos > 6 h se considera "sin actualización"
 // y sus ofertas NO entran a portada. generated_at es epoch UTC en segundos;
 // Date.now() es UTC en ms -> comparación correcta sin problema de zona horaria.
@@ -563,7 +559,6 @@ function sparkSvg(id){
   const c=document.createElementNS(svgNS,'circle'); c.setAttribute('cx',last[0].toFixed(1)); c.setAttribute('cy',last[1].toFixed(1)); c.setAttribute('r','2'); c.setAttribute('fill','#17c964');
   svg.append(pl,c); return svg;
 }
-function tagFor(d,i){ return (d.pct>=50) ? 'Quedan pocas' : TAGS[i%TAGS.length]; }
 
 // ====== Diversidad de portada (Fase 4) ======
 // Normalización ligera de categoría: minúsculas + sin acentos (NFD) + mapa
@@ -616,10 +611,15 @@ function makeCard(d, i){
   const ib=document.createElement('div'); ib.className='imgbox';
   const _img=safeUrl(d.img); if(_img){ const im=document.createElement('img'); im.loading=i<4?'eager':'lazy'; if(i<4)im.setAttribute('fetchpriority','high'); ib.classList.add('ld'); im.addEventListener('load',()=>ib.classList.remove('ld')); im.addEventListener('error',()=>ib.classList.remove('ld')); im.src=_img; im.alt=d.name||'Producto en oferta'; ib.appendChild(im); }
   const bp=document.createElement('span'); bp.className='bpct'; bp.textContent='-'+Math.round(d.pct||0)+'%';
-  const bt=document.createElement('span'); bt.className='btag'; bt.textContent=tagFor(d,i);
-  const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('aria-label','Guardar en favoritos');
-  hh.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();hh.classList.toggle('onh');});
-  card.append(ib,bp,bt,hh);
+  const hh=document.createElement('span'); hh.className='heart'; hh.textContent='♥'; hh.setAttribute('role','button'); hh.setAttribute('tabindex','0'); hh.setAttribute('aria-label','Guardar en favoritos');
+  const hk=favKey(d);
+  if(FAVS.has(hk)){hh.classList.add('onh');}
+  hh.setAttribute('aria-pressed',FAVS.has(hk)?'true':'false');
+  const _tog=e=>{e.preventDefault();e.stopPropagation();FAVS.has(hk)?FAVS.delete(hk):FAVS.add(hk);favSave();
+    hh.classList.toggle('onh',FAVS.has(hk));hh.setAttribute('aria-pressed',FAVS.has(hk)?'true':'false');};
+  hh.addEventListener('click',_tog);
+  hh.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')_tog(e);});
+  card.append(ib,bp,hh);
   const body=document.createElement('div'); body.className='cbody';
   const nm=document.createElement('div'); nm.className='nm'; nm.textContent=d.name;
   const cat=document.createElement('div'); cat.className='catl'; cat.textContent=d.category||'';
@@ -635,9 +635,7 @@ function makeCard(d, i){
   pr.append(pn,po);
   const sv=document.createElement('div'); sv.className='save'; sv.textContent='Ahorras '+money(d.amount)+' ('+Math.round(d.pct||0)+'%)';
   let vbadge=null; if(d.variants>1){ vbadge=document.createElement('div'); vbadge.className='vbadge'; vbadge.textContent=d.variants+' variantes'; }
-  const sw=document.createElement('div'); sw.className='sparkw'; sw.appendChild(sparkSvg(d.id));
-  const sl=document.createElement('div'); sl.className='sparkl'; sl.innerHTML='<span>Historial de precio</span><span>7 días</span>'; sw.appendChild(sl);
-  body.append(nm,cat,st,pr,sv); if(vbadge) body.appendChild(vbadge); body.append(sw); card.appendChild(body);
+  body.append(nm,cat,st,pr,sv); if(vbadge) body.appendChild(vbadge); card.appendChild(body);
   return card;
 }
 
@@ -866,7 +864,6 @@ $('q').addEventListener('input',e=>{ Q=e.target.value.trim().toLowerCase(); SHOW
 $('sort').addEventListener('change',e=>{ SORT=e.target.value; SHOWN=PAGE_N; render(); });
 $('morebtn').addEventListener('click',()=>{ SHOWN+=PAGE_N; render(); ensureFull(FILTER==='all'?ALLKEYS:[FILTER]).then(render); });
 $('trendbtn').addEventListener('click',()=>{ SORT='pct'; $('sort').value='pct'; SHOWN=PAGE_N; render(); document.getElementById('destacadas').scrollIntoView({behavior:'smooth'}); });
-$('nlform').addEventListener('submit',e=>{ e.preventDefault(); $('nlnote').innerHTML='¡Gracias! El boletín está en preparación; mientras tanto, las alertas llegan primero por <a href="https://t.me/DescuentosPalacio" target="_blank" rel="noopener" style="color:var(--green-dk);font-weight:800">Telegram</a>.'; $('nlmail').value=''; });
 </script>
 <!-- contador de "ahorradores en línea" (visitantes activos reales, Supabase
      Presence); sin config valida en presencia_config.js no aparece nada -->

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785463547.9567466,
- "generated_at_str": "30/07/2026 20:05",
+ "generated_at": 1785467147.2663205,
+ "generated_at_str": "30/07/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6269,6 +6269,23 @@
    "name": "Hugo Boss 1700 S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1700-S-Lentes-de-Sol/p/694078",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h03/350710780067870.jpg",
+   "category": "Optica",
+   "price_old": 4999.0,
+   "price_new": 3749.25,
+   "pct": 25.0,
+   "amount": 1249.75,
+   "starts": "2026-07-30T06:00:00.000Z",
+   "ends": "2026-07-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785423940.658824,
+   "h_dias": 1,
+   "h_min": 3749.25
+  },
+  {
+   "id": "694076",
+   "name": "Hugo Boss 1694 S Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Hugo-Boss-1694-S-Lentes-de-Sol/p/694076",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/hed/350710772727838.jpg",
    "category": "Optica",
    "price_old": 4999.0,
    "price_new": 3749.25,
@@ -16570,6 +16587,24 @@
    "h_dias": 2,
    "h_min": 8999.0,
    "h_ayer": 8999.0
+  },
+  {
+   "id": "693670",
+   "name": "TCL Pantalla 50\" QLED 4K Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/TCL-Pantalla-50-QLED-4K-Google-TV/p/693670",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h4f/488517752684574.jpg",
+   "category": "Electronicos",
+   "price_old": 8299.0,
+   "price_new": 6799.0,
+   "pct": 18.1,
+   "amount": 1500.0,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785248198.8853054,
+   "h_dias": 2,
+   "h_min": 6799.0,
+   "h_ayer": 6799.0
   },
   {
    "id": "1768507",

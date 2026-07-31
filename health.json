@@ -27,10 +27,10 @@
    "host": "pc"
   },
   "coppel": {
-   "last_attempt": 1785510500.1204581,
+   "last_attempt": 1785513949.8900704,
    "items": 0,
    "status": "down",
-   "reason": "anti-bot: 1a categoria inaccesible (fetch fallo tras 3 intentos: TimeoutError('The read operation timed out'))",
+   "reason": "anti-bot: 1a categoria inaccesible (fetch fallo tras 3 intentos: RemoteDisconnected('Remote end closed connection without response'))",
    "host": "pc"
   },
   "ml": {
@@ -61,5 +61,5 @@
    "micro_pages": 91
   }
  },
- "updated_at": 1785513949.7712717
+ "updated_at": 1785513955.3009863
 }

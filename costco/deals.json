@@ -1,6 +1,6 @@
 {
- "generated_at": 1785452743.9525301,
- "generated_at_str": "30/07/2026 17:05",
+ "generated_at": 1785456331.0890708,
+ "generated_at_str": "30/07/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -221,6 +221,24 @@
    "h_dias": 2,
    "h_min": 8899.0,
    "h_ayer": 8899.0
+  },
+  {
+   "id": "677162",
+   "name": "KitchenAid Cava de Vinos 14 botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/KitchenAid-Cava-de-Vinos-14-botellas/p/677162",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hca/hb1/187264440631326.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 59399.0,
+   "price_new": 39399.0,
+   "pct": 33.7,
+   "amount": 20000.0,
+   "starts": "2026-07-15T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1784124625.517578,
+   "h_dias": 2,
+   "h_min": 39399.0,
+   "h_ayer": 39399.0
   },
   {
    "id": "674605",
@@ -1159,6 +1177,24 @@
    "name": "Whirlpool centro de lavado 20kg / 10Kg de gas",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-centro-de-lavado-20kg-10Kg-de-gas/p/652706",
    "img": "https://www.costco.com.mx/medias/sys_master/products/he8/h76/363624458158110.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 20899.0,
+   "pct": 30.3,
+   "amount": 9100.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572,
+   "h_dias": 2,
+   "h_min": 20899.0,
+   "h_ayer": 20899.0
+  },
+  {
+   "id": "674604",
+   "name": "Whirlpool Lavadora carga superior 27Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-carga-superior-27Kg/p/674604",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7c/hc2/150711975608350.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 29999.0,
    "price_new": 20899.0,
@@ -4315,24 +4351,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1784902336.9797413,
-   "h_dias": 2,
-   "h_min": 21999.0,
-   "h_ayer": 21999.0
-  },
-  {
-   "id": "660422",
-   "name": "Maytag Secadora de Gas 22Kg con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-22Kg-con-Pedestal/p/660422",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h7a/h80/488517754257438.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 21999.0,
-   "pct": 26.7,
-   "amount": 8000.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572,
    "h_dias": 2,
    "h_min": 21999.0,
    "h_ayer": 21999.0

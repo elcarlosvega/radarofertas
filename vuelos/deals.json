@@ -1,6 +1,6 @@
 {
- "generated_at": 1785506643.7996461,
- "generated_at_str": "31/07/2026 08:04",
+ "generated_at": 1785510243.798817,
+ "generated_at_str": "31/07/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270523-ec5822ac/"
   },
   {
-   "id": "a08d87e54a0521368fe7713ee657a553",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CAI",
-   "destination_name": "El Cairo",
-   "airline": "N0",
-   "airline_title": "Norse Atlantic Airways",
-   "logo": "https://pics.avs.io/600/150/N0.png",
-   "logo_tipo": "",
-   "price": 10132.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-29T10:30:00-05:00",
-   "return_at": "",
-   "duration": 3140,
-   "link": "https://www.aviasales.com/search/MEX2909CAI1?t=N017906778001790898600003140NLUMTYJFKATHCAI_a08d87e54a0521368fe7713ee657a553_46234&search_date=31072026&expected_price_uuid=019fb726-58e6-8050-e19a-6f55c2d7f59b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dpZveiANq1hywWAlmTvwOg&expected_price_source=share&expected_price_currency=mxn&expected_price=10132",
-   "title": "Flight deals from Mexico City to Cairo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-el-cairo-20260929-a08d87e5/"
-  },
-  {
    "id": "92004af2c672d4d7149228d0a6854354",
    "kind": "flight",
    "origin": "MEX",
@@ -108,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX2908HKG1?t=ZG17880237001788263700003160NLUGDLLAXNRTHKG_92004af2c672d4d7149228d0a6854354_47546&search_date=31072026&expected_price_uuid=019fb804-c293-8030-23fa-126aeb8e5600&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EHizYLDptCmYej8UtSS0Kw&expected_price_source=share&expected_price_currency=mxn&expected_price=10386",
    "title": "Flight deals from Mexico City to Hong Kong",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20260829-92004af2/"
+  },
+  {
+   "id": "995f5aa2cccb0a660d57eda039e502fa",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CAN",
+   "destination_name": "Guangzhou",
+   "airline": "MU",
+   "airline_title": "China Eastern",
+   "logo": "https://pics.avs.io/600/150/MU.png",
+   "logo_tipo": "",
+   "price": 11155.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-09T06:30:00-05:00",
+   "return_at": "",
+   "duration": 3060,
+   "link": "https://www.aviasales.com/search/MEX0909CAN1?t=MU17889354001789169400003060NLUGDLLAXPVGCAN_995f5aa2cccb0a660d57eda039e502fa_50938&search_date=31072026&expected_price_uuid=019fb893-d92f-8051-2141-0b4a5460dcc1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qssPZVdfgO2fRF2amwJMoQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11155",
+   "title": "Flight deals from Mexico City to Guangzhou",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guangzhou-20260909-995f5aa2/"
   },
   {
    "id": "36bfaa192c335d463e192db02866e5c5",

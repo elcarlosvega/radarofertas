@@ -1,7 +1,7 @@
 {
- "generated_at": 1785506728.683663,
- "generated_at_str": "31/07/2026 08:05",
- "total": 1036,
+ "generated_at": 1785510324.1555378,
+ "generated_at_str": "31/07/2026 09:05",
+ "total": 1080,
  "deals": [
   {
    "id": "685353",
@@ -37,13 +37,35 @@
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-16-af1053la-Omnibook-5-AI-Laptop-16-2K-OLED-Intel-Core-Ultra-5-225U-16GB-512GB-SSD-12-Meses-M365-Personal/p/697495"
   },
   {
+   "id": "694502",
+   "name": "Hisense Pantalla 100\" ULED MiniLed Fire TV",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h76/h1a/488166387023902.jpg",
+   "category": "Electronicos",
+   "price_new": 33999.0,
+   "price_old": 52999.0,
+   "pct": 35.8,
+   "amount": 19000.0,
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-100-ULED-MiniLed-Fire-TV/p/694502"
+  },
+  {
+   "id": "677162",
+   "name": "KitchenAid Cava de Vinos 14 botellas",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hca/hb1/187264440631326.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 39399.0,
+   "price_old": 59399.0,
+   "pct": 33.7,
+   "amount": 20000.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/KitchenAid-Cava-de-Vinos-14-botellas/p/677162"
+  },
+  {
    "id": "695045",
    "name": "HP 15-fd0151la Laptop 15.6\" Full HD Táctil Intel Core i5 8GB 512GB SSD + 12 Meses M365 Personal",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h66/hcf/438163984220190.jpg",
    "category": "Computadoras y Tablets",
-   "price_new": 8899.0,
-   "price_old": 14999.0,
-   "pct": 40.7,
+   "price_new": 9899.0,
+   "price_old": 15999.0,
+   "pct": 38.1,
    "amount": 6100.0,
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0151la-Laptop-156-Full-HD-Tactil-Intel-Core-i5-8GB-512GB-SSD-12-Meses-M365-Personal/p/695045"
   },
@@ -112,28 +134,6 @@
    "pct": 30.0,
    "amount": 24000.0,
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Bertazzoni-Parrilla-de-Gas-48-6-Quemadores-y-Plancha/p/690361"
-  },
-  {
-   "id": "694538",
-   "name": "Hisense Refrigerador 20' French Door",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/hd3/366045327327262.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 40199.0,
-   "price_old": 57999.0,
-   "pct": 30.7,
-   "amount": 17800.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-20-French-Door/p/694538"
-  },
-  {
-   "id": "1274071",
-   "name": "Wine Enthusiast Cava de Vinos 36 Botellas",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h14/h9a/380664148099102.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 4999.0,
-   "price_old": 7999.0,
-   "pct": 37.5,
-   "amount": 3000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-36-Botellas/p/1274071"
   }
  ]
 }

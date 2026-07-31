@@ -1,6 +1,6 @@
 {
- "generated_at": 1785513945.667613,
- "generated_at_str": "31/07/2026 10:05",
+ "generated_at": 1785517530.5901835,
+ "generated_at_str": "31/07/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4103,7 +4103,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 1,
    "h_min": 799.0
   },
@@ -4389,7 +4389,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 1,
    "h_min": 21999.0
   },
@@ -5377,7 +5377,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-04T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 3,
    "h_min": 239.0,
    "h_ayer": 239.0
@@ -5503,7 +5503,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 1,
    "h_min": 29999.0
   },
@@ -9605,7 +9605,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 3,
    "h_min": 749.0,
    "h_ayer": 749.0
@@ -9677,7 +9677,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-04T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 3,
    "h_min": 749.25,
    "h_ayer": 749.25
@@ -10557,7 +10557,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-04T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 3,
    "h_min": 501.75,
    "h_ayer": 501.75
@@ -11024,7 +11024,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 1,
    "h_min": 374.25
   },
@@ -17357,7 +17357,7 @@
    "starts": "2026-07-29T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785513945.667613,
+   "first_seen": 1785513953.4904163,
    "h_dias": 3,
    "h_min": 28199.0,
    "h_ayer": 28999.0
@@ -18281,6 +18281,24 @@
    "h_ayer": 34799.0
   },
   {
+   "id": "692474",
+   "name": "Muebles Liz, Figg, Seccional de 2 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Muebles-Liz-Figg-Seccional-de-2-Piezas/p/692474",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h92/312354144157726.jpg",
+   "category": "Muebles",
+   "price_old": 22999.0,
+   "price_new": 19999.0,
+   "pct": 13.0,
+   "amount": 3000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609,
+   "h_dias": 3,
+   "h_min": 19999.0,
+   "h_ayer": 19999.0
+  },
+  {
    "id": "693972",
    "name": "Samsung Refrigerador 19' Top Mount",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-19-Top-Mount/p/693972",
@@ -18780,24 +18798,6 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785190620.981251,
-   "h_dias": 3,
-   "h_min": 22999.0,
-   "h_ayer": 22999.0
-  },
-  {
-   "id": "693644",
-   "name": "América, Larson, Colchón Matrimonial",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Larson-Colchon-Matrimonial/p/693644",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h29/hed/381406679007262.jpg",
-   "category": "Muebles",
-   "price_old": 25999.0,
-   "price_new": 22999.0,
-   "pct": 11.5,
-   "amount": 3000.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609,
    "h_dias": 3,
    "h_min": 22999.0,
    "h_ayer": 22999.0

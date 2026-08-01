@@ -1,6 +1,6 @@
 {
- "generated_at": 1785553443.420098,
- "generated_at_str": "31/07/2026 21:04",
+ "generated_at": 1785557044.4184191,
+ "generated_at_str": "31/07/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "92272e7e68cc0eb65605f76b98c4d587",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 711.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-25T17:15:00-05:00",
-   "return_at": "",
-   "duration": 74,
-   "link": "https://www.aviasales.com/search/MEX2508GDL1?t=Y417876781001787682540000074NLUGDL_92272e7e68cc0eb65605f76b98c4d587_3250&search_date=31072026&expected_price_uuid=019fba07-c12d-8030-a5b2-ae8dc8cb0ebc&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=pmvJMQum3puJuZ1zSXeRpg&expected_price_source=share&expected_price_currency=mxn&expected_price=711",
-   "title": "Flight deals from Mexico City to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260825-92272e7e/"
-  },
   {
    "id": "042b251492c510979af5b9fd318eb5dd",
    "kind": "flight",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785539045.5881002,
- "generated_at_str": "31/07/2026 17:04",
+ "generated_at": 1785542643.8628714,
+ "generated_at_str": "31/07/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX2809CUN1?t=Y417905934401790605620000143TLCCUN_e1617f474f8b677b966c4237d633feed_3409&search_date=31072026&expected_price_uuid=019fba5d-02be-8030-a7b0-47296e39dea0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6_JXTKkXuv3zUzDCxIixQg&expected_price_source=share&expected_price_currency=mxn&expected_price=746",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20260928-e1617f47/"
+  },
+  {
+   "id": "74fbd6f3a1d4906a4aec9b6e754c8903",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "CHI",
+   "destination_name": "Chicago",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2983.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-29T23:35:00-05:00",
+   "return_at": "",
+   "duration": 246,
+   "link": "https://www.aviasales.com/search/GDL2908CHI1?t=Y417880465001788064860000246GDLORD_74fbd6f3a1d4906a4aec9b6e754c8903_13634&search_date=31072026&expected_price_uuid=019fba7d-f130-8040-6bdf-d6337c54231f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Qzz8WL2whHv3I6mKlrhUGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2983",
+   "title": "Flight deals from Guadalajara to Chicago",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20260829-74fbd6f3/"
   },
   {
    "id": "3a909154666dbd862c98f18baac93d34",
@@ -110,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nha-trang-20261001-f3e16e09/"
   },
   {
+   "id": "336e2644cbd377ee891e33a3ee0a3605",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CMN",
+   "destination_name": "Casablanca",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 13346.0,
+   "currency": "MXN",
+   "departure_at": "2027-05-10T19:15:00-05:00",
+   "return_at": "",
+   "duration": 845,
+   "link": "https://www.aviasales.com/search/MEX1005CMN1?t=AF18099765001810052400000845MEXCDGCMN_336e2644cbd377ee891e33a3ee0a3605_60992&search_date=31072026&expected_price_uuid=019fba7c-77a9-8030-25fe-885d8a21a2d8&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=gy4MktS7FI07fRJ8pqJOmA&expected_price_source=share&expected_price_currency=mxn&expected_price=13346",
+   "title": "Flight deals from Mexico City to Casablanca",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-casablanca-20270510-336e2644/"
+  },
+  {
    "id": "7bd638c63e079c22c45f2553c5a3c8f7",
    "kind": "flight",
    "origin": "MEX",
@@ -130,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260802-7bd638c6/"
   },
   {
-   "id": "c39022a3008e031cddfc23985c5b0124",
+   "id": "65aa4624a2dd11645c9d676889e0c8c0",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "NH",
-   "airline_title": "All Nippon Airways",
-   "logo": "https://pics.avs.io/600/150/NH.png",
+   "destination": "HKT",
+   "destination_name": "Phuket",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
    "logo_tipo": "",
-   "price": 17811.0,
+   "price": 19704.0,
    "currency": "MXN",
-   "departure_at": "2026-08-17T06:05:00-05:00",
+   "departure_at": "2026-12-25T04:55:00-06:00",
    "return_at": "",
-   "duration": 855,
-   "link": "https://www.aviasales.com/search/MEX1708TYO1?t=NH17869467001787052000000855MEXNRT_c39022a3008e031cddfc23985c5b0124_81383&search_date=31072026&expected_price_uuid=019fb93a-d100-8050-668f-98682afb8a70&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=5Mi33ziDp_dfy7kcGVaPqw&expected_price_source=share&expected_price_currency=mxn&expected_price=17811",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260817-c39022a3/"
+   "duration": 1595,
+   "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_65aa4624a2dd11645c9d676889e0c8c0_90045&search_date=31072026&expected_price_uuid=019fba7b-1712-8030-e491-8be72a420a7b&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=7rXy9r61Ia04omtLRwAuWA&expected_price_source=share&expected_price_currency=mxn&expected_price=19704",
+   "title": "Flight deals from Mexico City to Phuket",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261225-65aa4624/"
   },
   {
    "id": "5c499b8e0e963e652f07d622e110ac86",
@@ -188,26 +228,6 @@
    "link": "https://www.aviasales.com/search/GDL0408IST1?t=TK17858233201785925500001163GDLMEXIST_32bbb20e65079c9b7e770f58686260d5_121025&search_date=31072026&expected_price_uuid=019fba47-24ab-8040-6c34-e8a57858d914&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=CsrWaAKj2FLsxwpOoCUK3Q&expected_price_source=share&expected_price_currency=mxn&expected_price=26489",
    "title": "Flight deals from Guadalajara to Istanbul",
    "micro": "/oferta/vuelos/vuelo-guadalajara-estambul-20260804-32bbb20e/"
-  },
-  {
-   "id": "69321c40b16602fe3b5ec645ae96c6c3",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MSQ",
-   "destination_name": "Minsk",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 32988.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-15T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1485,
-   "link": "https://www.aviasales.com/search/MEX1510MSQ1?t=TK17920548001792176300001485MEXISTMSQ_69321c40b16602fe3b5ec645ae96c6c3_150729&search_date=31072026&expected_price_uuid=019fb951-a75e-8040-60f2-2da9448e5bf1&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=eAtzSdCNkdqVDGVBr7c9LA&expected_price_source=share&expected_price_currency=mxn&expected_price=32988",
-   "title": "Flight deals from Mexico City to Minsk",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261015-69321c40/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785546341.8108382,
- "generated_at_str": "31/07/2026 19:05",
+ "generated_at": 1785549948.86648,
+ "generated_at_str": "31/07/2026 20:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4713,24 +4713,6 @@
    "h_dias": 3,
    "h_min": 15499.0,
    "h_ayer": 15499.0
-  },
-  {
-   "id": "1394201",
-   "name": "Kirkland Signature Agua de Coco Orgánica 12/330 ml",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Leches-y-Bebidas/Kirkland-Signature-Agua-de-Coco-Organica-12330-ml/p/1394201",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h7b/h93/473756909502494.jpg",
-   "category": "Grocery",
-   "price_old": 229.0,
-   "price_new": 169.0,
-   "pct": 26.2,
-   "amount": 60.0,
-   "starts": "2026-07-28T06:00:00.000Z",
-   "ends": "2026-08-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785248198.8853054,
-   "h_dias": 3,
-   "h_min": 169.0,
-   "h_ayer": 169.0
   },
   {
    "id": "1500084",
@@ -9481,6 +9463,24 @@
    "h_ayer": 899.25
   },
   {
+   "id": "655034",
+   "name": "Vino Tinto Arzuaga Crianza 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Arzuaga-Crianza-750ml/p/655034",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha8/h55/12530575835166.jpg",
+   "category": "Vinos",
+   "price_old": 1179.0,
+   "price_new": 884.25,
+   "pct": 25.0,
+   "amount": 294.75,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785248198.8853054,
+   "h_dias": 3,
+   "h_min": 884.25,
+   "h_ayer": 884.25
+  },
+  {
    "id": "701917",
    "name": "Tena Pants Mediano 72 pzas",
    "url": "https://www.costco.com.mx/Farmacia-y-Salud/Incontinencia/Tena-Pants-Mediano-72-pzas/p/701917",
@@ -10751,6 +10751,24 @@
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785251455.104801,
+   "h_dias": 3,
+   "h_min": 449.0,
+   "h_ayer": 449.0
+  },
+  {
+   "id": "654732",
+   "name": "Tony Moly, Kit de cuidado facial Nocturno, 2 piezas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Tony-Moly-Kit-de-cuidado-facial-Nocturno-2-piezas/p/654732",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h34/h25/413711149596702.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 449.0,
+   "pct": 25.0,
+   "amount": 150.0,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785248198.8853054,
    "h_dias": 3,
    "h_min": 449.0,
    "h_ayer": 449.0

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785564244.0129077,
- "generated_at_str": "01/08/2026 00:04",
+ "generated_at": 1785567843.408569,
+ "generated_at_str": "01/08/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX1512NYC1?t=VB17973471001797380400000495TLCMTYJFK_7ee9106e74a0ef4e26301d08489cad74_11442&search_date=01082026&expected_price_uuid=019fbb07-2a42-8030-6acb-6161396ac7ac&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7ALFOm4SBIOyWhoXUIiW2Q&expected_price_source=share&expected_price_currency=mxn&expected_price=2504",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261215-7ee9106e/"
-  },
-  {
-   "id": "b28153f8b4a2b472f9e51e226d6b2644",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ASU",
-   "destination_name": "Asunción",
-   "airline": "AV",
-   "airline_title": "avianca airlines",
-   "logo": "https://pics.avs.io/600/150/AV.png",
-   "logo_tipo": "",
-   "price": 5630.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-26T14:00:00-05:00",
-   "return_at": "",
-   "duration": 700,
-   "link": "https://www.aviasales.com/search/MEX2609ASU1?t=AV17904312001790484000000700MEXBOGASU_b28153f8b4a2b472f9e51e226d6b2644_25722&search_date=01082026&expected_price_uuid=019fbaaa-d252-8050-235a-2e3bbdb19405&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1zhmDnp3hfTkc8EwD09ncA&expected_price_source=share&expected_price_currency=mxn&expected_price=5630",
-   "title": "Flight deals from Mexico City to Asuncion",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-asuncion-20260926-b28153f8/"
   },
   {
    "id": "71ad465cda745f2ef4aab8d67de928be",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/GDL0203TYO1?t=NH18040131001804138200001185GDLLAXHND_4fca4063db3ffc04058e167c9aedb12b_59765&search_date=01082026&expected_price_uuid=019fbb12-9ce7-8030-6004-7bd5a0712b07&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=29-vopd4Y1WwLMJyovbJ7Q&expected_price_source=share&expected_price_currency=mxn&expected_price=13080",
    "title": "Flight deals from Guadalajara to Tokyo",
    "micro": "/oferta/vuelos/vuelo-guadalajara-tokio-20270302-4fca4063/"
+  },
+  {
+   "id": "b2a96c453a43ffaa98cc23b00a5b0f93",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubai",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 13916.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-25T23:05:00-06:00",
+   "return_at": "",
+   "duration": 1165,
+   "link": "https://www.aviasales.com/search/MEX2511DXB1?t=AF17956479001795753800001165MEXCDGDXB_b2a96c453a43ffaa98cc23b00a5b0f93_63584&search_date=01082026&expected_price_uuid=019fbc0f-b4ea-8050-6664-424f9deef50b&static_fare_key=TY%7CP1%7CH0%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=13916",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261125-b2a96c45/"
   },
   {
    "id": "5379ef721a745c3e58de349cfc0387c7",

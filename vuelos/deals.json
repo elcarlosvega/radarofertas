@@ -1,6 +1,6 @@
 {
- "generated_at": 1785546243.9596305,
- "generated_at_str": "31/07/2026 19:04",
+ "generated_at": 1785549843.3837314,
+ "generated_at_str": "31/07/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260825-92272e7e/"
   },
   {
-   "id": "e1617f474f8b677b966c4237d633feed",
+   "id": "042b251492c510979af5b9fd318eb5dd",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -42,12 +42,32 @@
    "logo_tipo": "",
    "price": 746.0,
    "currency": "MXN",
-   "departure_at": "2026-09-28T11:04:00-05:00",
+   "departure_at": "2026-10-10T11:04:00-05:00",
    "return_at": "",
    "duration": 143,
-   "link": "https://www.aviasales.com/search/MEX2809CUN1?t=Y417905934401790605620000143TLCCUN_e1617f474f8b677b966c4237d633feed_3409&search_date=31072026&expected_price_uuid=019fba5d-02be-8030-a7b0-47296e39dea0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6_JXTKkXuv3zUzDCxIixQg&expected_price_source=share&expected_price_currency=mxn&expected_price=746",
+   "link": "https://www.aviasales.com/search/MEX1010CUN1?t=Y417916302401791642420000143TLCCUN_042b251492c510979af5b9fd318eb5dd_3409&search_date=01082026&expected_price_uuid=019fbb01-486c-8040-a523-ff4c9abb8726&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6_JXTKkXuv3zUzDCxIixQg&expected_price_source=share&expected_price_currency=mxn&expected_price=746",
    "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20260928-e1617f47/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261010-042b2514/"
+  },
+  {
+   "id": "7ee9106e74a0ef4e26301d08489cad74",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2504.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-15T15:05:00-06:00",
+   "return_at": "",
+   "duration": 495,
+   "link": "https://www.aviasales.com/search/MEX1512NYC1?t=VB17973471001797380400000495TLCMTYJFK_7ee9106e74a0ef4e26301d08489cad74_11442&search_date=01082026&expected_price_uuid=019fbb07-2a42-8030-6acb-6161396ac7ac&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7ALFOm4SBIOyWhoXUIiW2Q&expected_price_source=share&expected_price_currency=mxn&expected_price=2504",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261215-7ee9106e/"
   },
   {
    "id": "74fbd6f3a1d4906a4aec9b6e754c8903",
@@ -110,24 +130,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-rio-de-janeiro-20261020-3a909154/"
   },
   {
-   "id": "f3e16e0905f36a4a17335dc55eac7d03",
+   "id": "422f4443bcb76403442faaff2e02de91",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "NHA",
-   "destination_name": "Nha Trang",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
+   "destination": "AUH",
+   "destination_name": "Abu Dhabi",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 13207.0,
+   "price": 12091.0,
    "currency": "MXN",
-   "departure_at": "2026-10-01T00:30:00-05:00",
+   "departure_at": "2026-08-08T10:00:00-05:00",
    "return_at": "",
-   "duration": 2555,
-   "link": "https://www.aviasales.com/search/MEX0110NHA1?t=WS17908146001791014700002555MEXYVRYYCICNSGNCXR_f3e16e0905f36a4a17335dc55eac7d03_60341&search_date=31072026&expected_price_uuid=019fba21-1eab-8030-ad9f-1ca9a8bcd4ae&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Et1rK8AOpJrGapftUUnAyQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13207",
-   "title": "Flight deals from Mexico City to Nha Trang",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nha-trang-20261001-f3e16e09/"
+   "duration": 1890,
+   "link": "https://www.aviasales.com/search/MEX0808AUH1?t=AM17861832001786332600001890MEXMADSAWAUH_422f4443bcb76403442faaff2e02de91_55245&search_date=01082026&expected_price_uuid=019fbaf5-dcf7-8040-a0ea-9157827d766c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L02dCX_ALo_XStsBm-b_FA&expected_price_source=share&expected_price_currency=mxn&expected_price=12091",
+   "title": "Flight deals from Mexico City to Abu Dhabi",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-abu-dhabi-20260808-422f4443/"
   },
   {
    "id": "336e2644cbd377ee891e33a3ee0a3605",

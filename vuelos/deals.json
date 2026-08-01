@@ -1,6 +1,6 @@
 {
- "generated_at": 1785549843.3837314,
- "generated_at_str": "31/07/2026 20:04",
+ "generated_at": 1785553443.420098,
+ "generated_at_str": "31/07/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -148,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX0808AUH1?t=AM17861832001786332600001890MEXMADSAWAUH_422f4443bcb76403442faaff2e02de91_55245&search_date=01082026&expected_price_uuid=019fbaf5-dcf7-8040-a0ea-9157827d766c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L02dCX_ALo_XStsBm-b_FA&expected_price_source=share&expected_price_currency=mxn&expected_price=12091",
    "title": "Flight deals from Mexico City to Abu Dhabi",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-abu-dhabi-20260808-422f4443/"
+  },
+  {
+   "id": "4fca4063db3ffc04058e167c9aedb12b",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "NH",
+   "airline_title": "All Nippon Airways",
+   "logo": "https://pics.avs.io/600/150/NH.png",
+   "logo_tipo": "",
+   "price": 13080.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-02T18:45:00-06:00",
+   "return_at": "",
+   "duration": 1185,
+   "link": "https://www.aviasales.com/search/GDL0203TYO1?t=NH18040131001804138200001185GDLLAXHND_4fca4063db3ffc04058e167c9aedb12b_59765&search_date=01082026&expected_price_uuid=019fbb12-9ce7-8030-6004-7bd5a0712b07&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=29-vopd4Y1WwLMJyovbJ7Q&expected_price_source=share&expected_price_currency=mxn&expected_price=13080",
+   "title": "Flight deals from Guadalajara to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-tokio-20270302-4fca4063/"
   },
   {
    "id": "336e2644cbd377ee891e33a3ee0a3605",

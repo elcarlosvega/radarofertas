@@ -1,6 +1,6 @@
 {
- "generated_at": 1785683144.3350358,
- "generated_at_str": "02/08/2026 09:05",
+ "generated_at": 1785686715.6547735,
+ "generated_at_str": "02/08/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1243,7 +1243,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 13999.0,
    "h_ayer": 15499.0
@@ -1765,7 +1765,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 17999.0,
    "h_ayer": 17999.0
@@ -1891,7 +1891,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 11899.0,
    "h_ayer": 11899.0
@@ -2071,7 +2071,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 78999.0,
    "h_ayer": 78999.0
@@ -2269,7 +2269,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 4,
    "h_min": 519.0,
    "h_ayer": 519.0
@@ -2863,7 +2863,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 5499.0,
    "h_ayer": 5499.0
@@ -3031,6 +3031,42 @@
    "h_ayer": 179.0
   },
   {
+   "id": "695251",
+   "name": "Thor Kitchen Congelador 3.36\"",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Thor-Kitchen-Congelador-336/p/695251",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/hef/363894899474462.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 49999.0,
+   "price_new": 35999.0,
+   "pct": 28.0,
+   "amount": 14000.0,
+   "starts": "2026-07-30T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785423940.658824,
+   "h_dias": 4,
+   "h_min": 35999.0,
+   "h_ayer": 35999.0
+  },
+  {
+   "id": "695246",
+   "name": "Thor Kitchen Cajón Caliente",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Hornos-Electricos-y-Microondas/Thor-Kitchen-Cajon-Caliente/p/695246",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/h2e/363894897475614.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 24999.0,
+   "price_new": 17999.0,
+   "pct": 28.0,
+   "amount": 7000.0,
+   "starts": "2026-07-30T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785423940.658824,
+   "h_dias": 4,
+   "h_min": 17999.0,
+   "h_ayer": 17999.0
+  },
+  {
    "id": "693083",
    "name": "Empire Lighting, Lámpara Colgante Melrose Acabado Níquel",
    "url": "https://www.costco.com.mx/Sistemas-de-Seguridad/Iluminacion/Lamparas/Empire-Lighting-Lampara-Colgante-Melrose-Acabado-Niquel/p/693083",
@@ -3079,7 +3115,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 4,
    "h_min": 829.0,
    "h_ayer": 829.0
@@ -3151,7 +3187,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 1299.0
   },
@@ -3870,7 +3906,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 8199.0,
    "h_ayer": 8199.0
@@ -4194,7 +4230,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 8499.0,
    "h_ayer": 8999.0
@@ -4356,7 +4392,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 829.0
   },
@@ -4391,7 +4427,7 @@
    "starts": "2026-07-31T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 11499.0,
    "h_ayer": 12299.0
@@ -4445,7 +4481,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 2899.0,
    "h_ayer": 2999.0
@@ -4859,7 +4895,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 21999.0,
    "h_ayer": 21999.0
@@ -4931,7 +4967,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 11999.0
   },
@@ -5092,7 +5128,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 8999.0
   },
@@ -7629,7 +7665,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 1874.25
   },
@@ -7646,7 +7682,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 1874.25
   },
@@ -7663,7 +7699,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 1874.25
   },
@@ -11616,7 +11652,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 32999.0
   },
@@ -11723,7 +11759,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 17499.0,
    "h_ayer": 17499.0
@@ -11939,7 +11975,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 14499.0,
    "h_ayer": 14499.0
@@ -12083,7 +12119,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 27899.0,
    "h_ayer": 27899.0
@@ -12251,6 +12287,24 @@
    "h_ayer": 6999.0
   },
   {
+   "id": "687777",
+   "name": "Montbrook Home, Topeka, Sillón Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Topeka-Sillon-Reclinable/p/687777",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdb/haa/261719130800158.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785186691.5852609,
+   "h_dias": 5,
+   "h_min": 6999.0,
+   "h_ayer": 6999.0
+  },
+  {
    "id": "687775",
    "name": "Montbrook Home, Carson, Sillón Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Carson-Sillon-Reclinable/p/687775",
@@ -12371,7 +12425,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 12399.0,
    "h_ayer": 12399.0
@@ -12983,7 +13037,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 8299.0,
    "h_ayer": 8299.0
@@ -13181,7 +13235,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 6499.0,
    "h_ayer": 6499.0
@@ -13199,7 +13253,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 6499.0,
    "h_ayer": 6499.0
@@ -13757,7 +13811,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 13999.0,
    "h_ayer": 15899.0
@@ -13775,7 +13829,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 13999.0,
    "h_ayer": 14699.0
@@ -15341,7 +15395,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 29899.0,
    "h_ayer": 29899.0
@@ -15359,7 +15413,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 2,
    "h_min": 27499.0,
    "h_ayer": 27499.0
@@ -15473,6 +15527,24 @@
    "h_ayer": 19999.0
   },
   {
+   "id": "695035",
+   "name": "PlaySeat Asiento Instinct Edición F1 + Volante Hori DLX",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Accesorios-para-Videojuegos/PlaySeat-Asiento-Instinct-Edicion-F1-Volante-Hori-DLX/p/695035",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd4/h6e/366967327981598.jpg",
+   "category": "Electronicos",
+   "price_old": 23999.0,
+   "price_new": 19999.0,
+   "pct": 16.7,
+   "amount": 4000.0,
+   "starts": "2026-07-28T06:00:00.000Z",
+   "ends": "2026-08-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785251455.104801,
+   "h_dias": 5,
+   "h_min": 19999.0,
+   "h_ayer": 19999.0
+  },
+  {
    "id": "694476",
    "name": "Sony Pantalla 75\" BRAVIA II UHD 4K Google TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Sony-Pantalla-75-BRAVIA-II-UHD-4K-Google-TV/p/694476",
@@ -15521,7 +15593,7 @@
    "starts": "2026-08-02T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 1,
    "h_min": 14999.0
   },
@@ -16078,7 +16150,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 20499.0,
    "h_ayer": 20499.0
@@ -16204,7 +16276,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 10499.0,
    "h_ayer": 10499.0
@@ -16420,7 +16492,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 35999.0,
    "h_ayer": 35999.0
@@ -16780,7 +16852,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785683144.3350358,
+   "first_seen": 1785683152.7686298,
    "h_dias": 5,
    "h_min": 69899.0,
    "h_ayer": 69899.0

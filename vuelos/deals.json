@@ -1,6 +1,6 @@
 {
- "generated_at": 1785629044.5496724,
- "generated_at_str": "01/08/2026 18:04",
+ "generated_at": 1785632644.594353,
+ "generated_at_str": "01/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1902TQO1?t=VB18030435001803054300000120NLUTQO_16da46728ee1c56d308a80c3234ba4e4_7059&search_date=01082026&expected_price_uuid=019fbf6d-72ed-8050-a8b5-8938a463695a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=zrfwiav-ObWj3s06BgHHqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1545",
    "title": "Flight deals from Mexico City to Tulum",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tulum-20270219-16da4672/"
+  },
+  {
+   "id": "09dd3a91b573cea57d8e32918cf5c117",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2523.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-06T06:01:00-05:00",
+   "return_at": "",
+   "duration": 444,
+   "link": "https://www.aviasales.com/search/MEX0609DFW1?t=VB17886744601788704700000444TLCMTYDFW_09dd3a91b573cea57d8e32918cf5c117_11530&search_date=01082026&expected_price_uuid=019fbfc3-7be7-8030-a0b7-f87bdfb1df73&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NOMBcAE06DK5XWaV9zY_7g&expected_price_source=share&expected_price_currency=mxn&expected_price=2523",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260906-09dd3a91/"
   },
   {
    "id": "b414d41b03574b00e3e27f5ab7fb4611",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX0103IST1?t=EI18038607001804016100002050MEXJFKDUBLHRSTNSAW_2d37f91f8828882d141007fc6997a976_35845&search_date=01082026&expected_price_uuid=019fbef0-a5bb-8040-22f4-411cf80ae55b&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=gnllBYd59dBZFm5E08r3PQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7845",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270301-2d37f91f/"
-  },
-  {
-   "id": "e05cbf45323961ee6a85d53d852e2973",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "EVN",
-   "destination_name": "Ereván",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 8275.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-06T21:45:00-05:00",
-   "return_at": "",
-   "duration": 2440,
-   "link": "https://www.aviasales.com/search/MEX0610EVN1?t=AM17913231001791505500002440MEXMADMXPOTPEVN_e05cbf45323961ee6a85d53d852e2973_37809&search_date=01082026&expected_price_uuid=019fbe9a-3d78-8030-23a9-9916298829a3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Smg68S0NFBzzf14-vjuLzA&expected_price_source=share&expected_price_currency=mxn&expected_price=8275",
-   "title": "Flight deals from Mexico City to Yerevan",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261006-e05cbf45/"
   },
   {
    "id": "3b08839c58be9e63ba3bda73950ebb77",

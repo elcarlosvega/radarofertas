@@ -1,6 +1,6 @@
 {
- "generated_at": 1785693844.4485395,
- "generated_at_str": "02/08/2026 12:04",
+ "generated_at": 1785697445.2614427,
+ "generated_at_str": "02/08/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0808HAV1?t=VB17861697001786186500000160NLUHAV_a598fe83979b1c7ede61970af61588c7_33177&search_date=02082026&expected_price_uuid=019fc2e8-006e-8040-af94-8feeb3d3944f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=S1okEUlfV7jvWJ7hVIbDZQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7256",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-havana-20260808-a598fe83/"
+  },
+  {
+   "id": "57cee53c58c094ae5e858c2d576c7d7e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "FRA",
+   "destination_name": "Francfort",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 9781.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-15T17:45:00-05:00",
+   "return_at": "",
+   "duration": 970,
+   "link": "https://www.aviasales.com/search/MEX1509FRA1?t=AM17894943001789581300000970MEXMADFRA_57cee53c58c094ae5e858c2d576c7d7e_44720&search_date=02082026&expected_price_uuid=019fc3a6-720e-8050-6aae-b0a1a28559b3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=k45b6K-yhx9IYhP87wpmlg&expected_price_source=share&expected_price_currency=mxn&expected_price=9781",
+   "title": "Flight deals from Mexico City to Frankfurt",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-francfort-20260915-57cee53c/"
   },
   {
    "id": "7bc481d104338876599ffd57d2473b90",

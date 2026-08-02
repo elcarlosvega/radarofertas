@@ -1,6 +1,6 @@
 {
- "generated_at": 1785701044.5597985,
- "generated_at_str": "02/08/2026 14:04",
+ "generated_at": 1785704643.8330705,
+ "generated_at_str": "02/08/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270208-0aa088ed/"
   },
   {
-   "id": "a598fe83979b1c7ede61970af61588c7",
+   "id": "ecd662560d5e138033d24635edea4d0d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -40,14 +40,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 7256.0,
+   "price": 6259.0,
    "currency": "MXN",
-   "departure_at": "2026-08-08T06:15:00-05:00",
+   "departure_at": "2026-08-29T10:35:00-05:00",
    "return_at": "",
-   "duration": 160,
-   "link": "https://www.aviasales.com/search/MEX0808HAV1?t=VB17861697001786186500000160NLUHAV_a598fe83979b1c7ede61970af61588c7_33177&search_date=02082026&expected_price_uuid=019fc2e8-006e-8040-af94-8feeb3d3944f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=S1okEUlfV7jvWJ7hVIbDZQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7256",
+   "duration": 470,
+   "link": "https://www.aviasales.com/search/MEX2908HAV1?t=VB17879997001788035100000470NLUMTYHAV_ecd662560d5e138033d24635edea4d0d_28616&search_date=02082026&expected_price_uuid=019fc35d-a601-8050-e3b4-9b51e857ae3d&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=dFyoh6R9ZSQ67zcFbAnCJg&expected_price_source=share&expected_price_currency=mxn&expected_price=6259",
    "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-havana-20260808-a598fe83/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-havana-20260829-ecd66256/"
   },
   {
    "id": "e344ca5c0730868753ca9dcb0ea8aaac",
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-francfort-20260915-57cee53c/"
   },
   {
-   "id": "7bc481d104338876599ffd57d2473b90",
+   "id": "373c9ae95c4bd76884118ca7ecef5aec",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "destination": "DXB",
+   "destination_name": "Dubai",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 14865.0,
+   "price": 11163.0,
    "currency": "MXN",
-   "departure_at": "2026-08-05T20:40:00-05:00",
+   "departure_at": "2026-09-04T06:20:00-05:00",
    "return_at": "",
-   "duration": 1100,
-   "link": "https://www.aviasales.com/search/MEX0508SEL1?t=AM17859624001786082400001100MEXICN_7bc481d104338876599ffd57d2473b90_67963&search_date=02082026&expected_price_uuid=019fc2c9-9b53-8030-64c3-b3fc4d2bc71c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=14865",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260805-7bc481d1/"
+   "duration": 1745,
+   "link": "https://www.aviasales.com/search/MEX0409DXB1?t=QR17885028001788643500001745MEXIAHDOHDXB_373c9ae95c4bd76884118ca7ecef5aec_50985&search_date=02082026&expected_price_uuid=019fc431-8ed4-8050-660f-81cf446dc15d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=P3uwovQGKtWVuRffQ3IyjQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11163",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260904-373c9ae9/"
   }
  ]
 }

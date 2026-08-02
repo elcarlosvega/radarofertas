@@ -1,6 +1,6 @@
 {
- "generated_at": 1785650643.8879058,
- "generated_at_str": "02/08/2026 00:04",
+ "generated_at": 1785654244.2819207,
+ "generated_at_str": "02/08/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1308OAX1?t=VB17866350001786638900000065NLUOAX_977d1f83f30ba94f05c1d23635fa5851_5729&search_date=02082026&expected_price_uuid=019fc02c-c241-8040-a0d2-b6da4f2eaee4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=RY0c4GicSQXBaRuzBAnc5w&expected_price_source=share&expected_price_currency=mxn&expected_price=1254",
    "title": "Flight deals from Mexico City to Oaxaca",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-20260813-977d1f83/"
+  },
+  {
+   "id": "aaefb8e5b1e9110c629d95a42d0bc71a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GUA",
+   "destination_name": "Guatemala",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2720.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-14T18:55:00-05:00",
+   "return_at": "",
+   "duration": 116,
+   "link": "https://www.aviasales.com/search/MEX1408GUA1?t=Y417867337001786740660000116MEXGUA_aaefb8e5b1e9110c629d95a42d0bc71a_12427&search_date=02082026&expected_price_uuid=019fc12f-c81f-8050-6601-9996b69bcedd&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=MVgvMVmWEvMKtwuTNnDsUQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2720",
+   "title": "Flight deals from Mexico City to Guatemala City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20260814-aaefb8e5/"
   },
   {
    "id": "b8bb185e9c93ec29ab2281a39bc21036",

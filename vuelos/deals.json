@@ -1,6 +1,6 @@
 {
- "generated_at": 1785686644.5412352,
- "generated_at_str": "02/08/2026 10:04",
+ "generated_at": 1785690243.573275,
+ "generated_at_str": "02/08/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "0aa088ed83a00f83d86f4b3d086c8d79",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1034.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-08T06:22:00-06:00",
+   "return_at": "",
+   "duration": 133,
+   "link": "https://www.aviasales.com/search/MEX0802CUN1?t=VB18020677201802079300000133TLCCUN_0aa088ed83a00f83d86f4b3d086c8d79_4727&search_date=02082026&expected_price_uuid=019fc33a-2d90-8050-e998-b69b9b50683f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kbLfTZvdKE5cwUIDTuK4nA&expected_price_source=share&expected_price_currency=mxn&expected_price=1034",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270208-0aa088ed/"
+  },
   {
    "id": "a598fe83979b1c7ede61970af61588c7",
    "kind": "flight",
@@ -30,46 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-havana-20260808-a598fe83/"
   },
   {
-   "id": "a81d833e09d6158f79a406256f712824",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "EI",
-   "airline_title": "Aer Lingus",
-   "logo": "https://pics.avs.io/600/113/EI.png",
-   "logo_tipo": "",
-   "price": 10593.0,
-   "currency": "MXN",
-   "departure_at": "2027-04-04T00:25:00-06:00",
-   "return_at": "",
-   "duration": 1885,
-   "link": "https://www.aviasales.com/search/MEX0404IST1?t=EI18067983001806943800001885MEXJFKDUBLHRLGWIST_a81d833e09d6158f79a406256f712824_48435&search_date=02082026&expected_price_uuid=019fc200-3b56-8030-638d-aa6f6dafa70d&static_fare_key=TY%7CP1%7CH0%7CL1_1_5%7CCH0%7CR0%7CTBC1&itinerary_key=c3Vqbf5mEG9-8ys0PhKUlw&expected_price_source=share&expected_price_currency=mxn&expected_price=10593",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270404-a81d833e/"
-  },
-  {
-   "id": "eb373c2d6d1d3528f1a742bbea6d67f5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PAR",
-   "destination_name": "París",
-   "airline": "TX",
-   "airline_title": "Air Caraibes",
-   "logo": "https://pics.avs.io/600/150/TX.png",
-   "logo_tipo": "",
-   "price": 12945.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-03T11:45:00-05:00",
-   "return_at": "",
-   "duration": 905,
-   "link": "https://www.aviasales.com/search/MEX0308PAR1?t=TX17857575001785840600000905NLUCUNORY_eb373c2d6d1d3528f1a742bbea6d67f5_59185&search_date=02082026&expected_price_uuid=019fc1e5-20b8-8030-aa9e-35c0a70557f4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WsvSE8aQt8wr0cJ92pa9iQ&expected_price_source=share&expected_price_currency=mxn&expected_price=12945",
-   "title": "Flight deals from Mexico City to Paris",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20260803-eb373c2d/"
-  },
-  {
    "id": "7bc481d104338876599ffd57d2473b90",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0508SEL1?t=AM17859624001786082400001100MEXICN_7bc481d104338876599ffd57d2473b90_67963&search_date=02082026&expected_price_uuid=019fc2c9-9b53-8030-64c3-b3fc4d2bc71c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=14865",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260805-7bc481d1/"
+  },
+  {
+   "id": "acfc4b3e40d22941fabd4dbec473d23b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 22971.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-25T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2508IST1?t=TK17876484001787739600000980MEXIST_acfc4b3e40d22941fabd4dbec473d23b_105025&search_date=02082026&expected_price_uuid=019fc361-c084-8030-2602-cfb39e131085&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=22971",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260825-acfc4b3e/"
   }
  ]
 }

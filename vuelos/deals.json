@@ -1,6 +1,6 @@
 {
- "generated_at": 1785654244.2819207,
- "generated_at_str": "02/08/2026 01:04",
+ "generated_at": 1785657844.05436,
+ "generated_at_str": "02/08/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20260814-aaefb8e5/"
   },
   {
-   "id": "b8bb185e9c93ec29ab2281a39bc21036",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4125.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-16T19:15:00-05:00",
-   "return_at": "",
-   "duration": 1625,
-   "link": "https://www.aviasales.com/search/MEX1610NYC1?t=VB17921781001792282800001625NLUMTYJFK_b8bb185e9c93ec29ab2281a39bc21036_18847&search_date=02082026&expected_price_uuid=019fc018-5f08-8040-6778-eeb2eebe2da0&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=n-hOgEOOOtDI8NjziiQteA&expected_price_source=share&expected_price_currency=mxn&expected_price=4125",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261016-b8bb185e/"
-  },
-  {
    "id": "26ff4b6972cf9ee5b8fcd9eba944d291",
    "kind": "flight",
    "origin": "MEX",
@@ -120,34 +100,14 @@
    "airline_title": "Hainan Airlines",
    "logo": "https://pics.avs.io/600/150/HU.png",
    "logo_tipo": "",
-   "price": 19808.0,
+   "price": 19807.0,
    "currency": "MXN",
    "departure_at": "2026-12-25T04:55:00-06:00",
    "return_at": "",
    "duration": 1595,
-   "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_65aa4624a2dd11645c9d676889e0c8c0_90504&search_date=02082026&expected_price_uuid=019fc10f-d5cb-8030-afb2-fa7505ea31ef&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=7rXy9r61Ia04omtLRwAuWA&expected_price_source=share&expected_price_currency=mxn&expected_price=19808",
+   "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_65aa4624a2dd11645c9d676889e0c8c0_90504&search_date=02082026&expected_price_uuid=019fc10f-d5cb-8030-afb2-fa7505ea31ef&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=7rXy9r61Ia04omtLRwAuWA&expected_price_source=share&expected_price_currency=mxn&expected_price=19807",
    "title": "Flight deals from Mexico City to Phuket",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261225-65aa4624/"
-  },
-  {
-   "id": "7c729e5ed3aae75291b9bcf47220606e",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 23811.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-25T05:47:00-05:00",
-   "return_at": "",
-   "duration": 1173,
-   "link": "https://www.aviasales.com/search/MTY2508IST1?t=TK17876368201787739600001173MTYMEXIST_7c729e5ed3aae75291b9bcf47220606e_108798&search_date=02082026&expected_price_uuid=019fc00d-77ea-8051-2efe-9e406d9dda10&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ISpi1zc_i1cjfXIStA3s2w&expected_price_source=share&expected_price_currency=mxn&expected_price=23811",
-   "title": "Flight deals from Monterrey to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-monterrey-estambul-20260825-7c729e5e/"
   }
  ]
 }

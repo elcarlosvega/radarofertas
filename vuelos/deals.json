@@ -1,6 +1,6 @@
 {
- "generated_at": 1785679443.9597478,
- "generated_at_str": "02/08/2026 08:04",
+ "generated_at": 1785683044.8090389,
+ "generated_at_str": "02/08/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "22b8536becbfdd883c96329bfa7278bf",
+   "id": "a598fe83979b1c7ede61970af61588c7",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "SCL",
-   "destination_name": "Santiago",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5815.0,
+   "destination": "HAV",
+   "destination_name": "Havana",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 7256.0,
    "currency": "MXN",
-   "departure_at": "2026-09-17T22:00:00-05:00",
+   "departure_at": "2026-08-08T06:15:00-05:00",
    "return_at": "",
-   "duration": 815,
-   "link": "https://www.aviasales.com/search/MEX1709SCL1?t=Y417896824001789742100000815MEXLIMSCL_22b8536becbfdd883c96329bfa7278bf_26588&search_date=02082026&expected_price_uuid=019fc1b6-9fb4-8030-ac25-ee62e854cf5a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pRzCGfX3b3KoyJIbIY1Ezg&expected_price_source=share&expected_price_currency=mxn&expected_price=5815",
-   "title": "Flight deals from Mexico City to Santiago",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-20260917-22b8536b/"
+   "duration": 160,
+   "link": "https://www.aviasales.com/search/MEX0808HAV1?t=VB17861697001786186500000160NLUHAV_a598fe83979b1c7ede61970af61588c7_33177&search_date=02082026&expected_price_uuid=019fc2e8-006e-8040-af94-8feeb3d3944f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=S1okEUlfV7jvWJ7hVIbDZQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7256",
+   "title": "Flight deals from Mexico City to Havana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-havana-20260808-a598fe83/"
   },
   {
    "id": "a81d833e09d6158f79a406256f712824",
@@ -70,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20260803-eb373c2d/"
   },
   {
-   "id": "a893f9646522e255d153d964888e08f1",
+   "id": "7bc481d104338876599ffd57d2473b90",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
+   "destination": "SEL",
+   "destination_name": "Seúl",
    "airline": "AM",
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 15632.0,
+   "price": 14865.0,
    "currency": "MXN",
-   "departure_at": "2027-01-02T22:15:00-06:00",
+   "departure_at": "2026-08-05T20:40:00-05:00",
    "return_at": "",
-   "duration": 1035,
-   "link": "https://www.aviasales.com/search/MEX0201TYO1?t=AM17989281001799044200001035MEXNRT_a893f9646522e255d153d964888e08f1_71473&search_date=02082026&expected_price_uuid=019fc1b0-278e-8051-2e48-5cb907c5ef5e&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=A7wr6QBrD_noyDQqqjjonw&expected_price_source=share&expected_price_currency=mxn&expected_price=15632",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270102-a893f964/"
+   "duration": 1100,
+   "link": "https://www.aviasales.com/search/MEX0508SEL1?t=AM17859624001786082400001100MEXICN_7bc481d104338876599ffd57d2473b90_67963&search_date=02082026&expected_price_uuid=019fc2c9-9b53-8030-64c3-b3fc4d2bc71c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=14865",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260805-7bc481d1/"
   }
  ]
 }

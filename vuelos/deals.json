@@ -1,6 +1,6 @@
 {
- "generated_at": 1785665044.7321887,
- "generated_at_str": "02/08/2026 04:04",
+ "generated_at": 1785668643.760705,
+ "generated_at_str": "02/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "c1cdbbccc7d585c39b3dc3fe2617617e",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 677.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-08T19:17:00-05:00",
-   "return_at": "",
-   "duration": 93,
-   "link": "https://www.aviasales.com/search/MTY0810MEX1?t=Y417914870201791492600000093MTYMEX_c1cdbbccc7d585c39b3dc3fe2617617e_3092&search_date=02082026&expected_price_uuid=019fc0a9-0d40-8040-28bb-249ea2d69762&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=maXnYo-AEIGoE955Yj6oKw&expected_price_source=share&expected_price_currency=mxn&expected_price=677",
-   "title": "Flight deals from Monterrey to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20261008-c1cdbbcc/"
-  },
   {
    "id": "aaefb8e5b1e9110c629d95a42d0bc71a",
    "kind": "flight",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1709SCL1?t=Y417896824001789742100000815MEXLIMSCL_22b8536becbfdd883c96329bfa7278bf_26588&search_date=02082026&expected_price_uuid=019fc1b6-9fb4-8030-ac25-ee62e854cf5a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pRzCGfX3b3KoyJIbIY1Ezg&expected_price_source=share&expected_price_currency=mxn&expected_price=5815",
    "title": "Flight deals from Mexico City to Santiago",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-20260917-22b8536b/"
+  },
+  {
+   "id": "a81d833e09d6158f79a406256f712824",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "EI",
+   "airline_title": "Aer Lingus",
+   "logo": "https://pics.avs.io/600/113/EI.png",
+   "logo_tipo": "",
+   "price": 10593.0,
+   "currency": "MXN",
+   "departure_at": "2027-04-04T00:25:00-06:00",
+   "return_at": "",
+   "duration": 1885,
+   "link": "https://www.aviasales.com/search/MEX0404IST1?t=EI18067983001806943800001885MEXJFKDUBLHRLGWIST_a81d833e09d6158f79a406256f712824_48435&search_date=02082026&expected_price_uuid=019fc200-3b56-8030-638d-aa6f6dafa70d&static_fare_key=TY%7CP1%7CH0%7CL1_1_5%7CCH0%7CR0%7CTBC1&itinerary_key=c3Vqbf5mEG9-8ys0PhKUlw&expected_price_source=share&expected_price_currency=mxn&expected_price=10593",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270404-a81d833e/"
   },
   {
    "id": "eb373c2d6d1d3528f1a742bbea6d67f5",

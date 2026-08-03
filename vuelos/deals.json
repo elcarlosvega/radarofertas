@@ -1,6 +1,6 @@
 {
- "generated_at": 1785711843.3964765,
- "generated_at_str": "02/08/2026 17:04",
+ "generated_at": 1785715444.0625792,
+ "generated_at_str": "02/08/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1708GUA1?t=Y417869929001786999860000116MEXGUA_55e97aa349876d5ae47ba53bc6f05420_12427&search_date=02082026&expected_price_uuid=019fc495-5371-8050-ef0d-593a540d81ea&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=MVgvMVmWEvMKtwuTNnDsUQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2720",
    "title": "Flight deals from Mexico City to Guatemala City",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20260817-55e97aa3/"
+  },
+  {
+   "id": "9fb21143e102f760ba4c4e4e616ea567",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SAO",
+   "destination_name": "São Paulo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 6422.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-20T10:06:00-05:00",
+   "return_at": "",
+   "duration": 824,
+   "link": "https://www.aviasales.com/search/MEX2008SAO1?t=DM17872203601787280600000824NLUPUJGRU_9fb21143e102f760ba4c4e4e616ea567_29339&search_date=02082026&expected_price_uuid=019fc4cf-a503-8030-efd9-e4898f994c75&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=p0b1CiDkprQbYkYsg_3ygA&expected_price_source=share&expected_price_currency=mxn&expected_price=6422",
+   "title": "Flight deals from Mexico City to Sao Paulo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20260820-9fb21143/"
   },
   {
    "id": "e344ca5c0730868753ca9dcb0ea8aaac",
@@ -108,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX0409DXB1?t=QR17885028001788643500001745MEXIAHDOHDXB_373c9ae95c4bd76884118ca7ecef5aec_50985&search_date=02082026&expected_price_uuid=019fc431-8ed4-8050-660f-81cf446dc15d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=P3uwovQGKtWVuRffQ3IyjQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11158",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260904-373c9ae9/"
+  },
+  {
+   "id": "286b6fa7a42cadf8ad367fd62bdf6c0a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 11404.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-05T19:00:00-06:00",
+   "return_at": "",
+   "duration": 1210,
+   "link": "https://www.aviasales.com/search/MEX0511SEL1?t=AM17939052001794031800001210MEXMTYICN_286b6fa7a42cadf8ad367fd62bdf6c0a_52109&search_date=02082026&expected_price_uuid=019fc4d6-966d-8040-62a0-31377cb16082&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=spOWiNpvXUIlwvFVKIFUEA&expected_price_source=share&expected_price_currency=mxn&expected_price=11404",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261105-286b6fa7/"
   },
   {
    "id": "b0e9cb9ffe90d09474a91814a1a714f1",

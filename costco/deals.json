@@ -1,6 +1,6 @@
 {
- "generated_at": 1785783945.8703625,
- "generated_at_str": "03/08/2026 13:05",
+ "generated_at": 1785787530.0941005,
+ "generated_at_str": "03/08/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1626,23 +1626,6 @@
    "name": "Smeg Horno eléctrico 60cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Horno-electrico-60cm/p/656847",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h7f/h50/365038764621854.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 19999.0,
-   "price_new": 13999.0,
-   "pct": 30.0,
-   "amount": 6000.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785765949.4169288,
-   "h_dias": 5,
-   "h_min": 13999.0
-  },
-  {
-   "id": "687739",
-   "name": "Hisense Refrigerador Comercial 9'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 19999.0,
    "price_new": 13999.0,
@@ -7263,6 +7246,23 @@
    "h_dias": 6,
    "h_min": 2624.25,
    "h_ayer": 2624.25
+  },
+  {
+   "id": "699844",
+   "name": "Tous VTO.00C59.594Y.53 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Tous-VTO00C59594Y53-Armazon-Oftalmico/p/699844",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h86/h70/347089541464094.jpg",
+   "category": "Optica",
+   "price_old": 3499.0,
+   "price_new": 2624.25,
+   "pct": 25.0,
+   "amount": 874.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785190620.981251,
+   "h_dias": 1,
+   "h_min": 2624.25
   },
   {
    "id": "696461",
@@ -19402,7 +19402,7 @@
    "starts": "2026-08-03T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785783945.8703625,
+   "first_seen": 1785783953.6469796,
    "h_dias": 1,
    "h_min": 15999.0
   },

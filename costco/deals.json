@@ -1,6 +1,6 @@
 {
- "generated_at": 1785798326.5877345,
- "generated_at_str": "03/08/2026 17:05",
+ "generated_at": 1785801926.113752,
+ "generated_at_str": "03/08/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1656,6 +1656,23 @@
    "h_min": 13999.0
   },
   {
+   "id": "687739",
+   "name": "Hisense Refrigerador Comercial 9'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 13999.0,
+   "pct": 30.0,
+   "amount": 6000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 5,
+   "h_min": 13999.0
+  },
+  {
    "id": "657690",
    "name": "Whirlpool Secadora de Gas 21Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Secadora-de-Gas-21Kg/p/657690",
@@ -2985,6 +3002,23 @@
    "h_dias": 6,
    "h_min": 7499.0,
    "h_ayer": 7499.0
+  },
+  {
+   "id": "681591",
+   "name": "Hisense Congelador 9'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-9/p/681591",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h87/239697306943518.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 10499.0,
+   "price_new": 7499.0,
+   "pct": 28.6,
+   "amount": 3000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785799628.1633296,
+   "h_dias": 1,
+   "h_min": 7499.0
   },
   {
    "id": "682770",
@@ -13207,6 +13241,23 @@
    "h_min": 19999.0
   },
   {
+   "id": "662833",
+   "name": "Whirlpool Lavadora 20Kg top load",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-20Kg-top-load/p/662833",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h57/46729402908702.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 15999.0,
+   "price_new": 12299.0,
+   "pct": 23.1,
+   "amount": 3700.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785801926.113752,
+   "h_dias": 4,
+   "h_min": 8899.0
+  },
+  {
    "id": "689122",
    "name": "Sealy, Hybrid, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/c/Sealy-Hybrid-Colchon-Matrimonial/p/689122",
@@ -13579,6 +13630,23 @@
    "h_dias": 6,
    "h_min": 6999.0,
    "h_ayer": 6999.0
+  },
+  {
+   "id": "690577",
+   "name": "Koblenz Horno de 60cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Koblenz-Horno-de-60cm/p/690577",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbc/ha2/363624466874398.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785801926.113752,
+   "h_dias": 1,
+   "h_min": 6999.0
   },
   {
    "id": "687777",
@@ -14265,7 +14333,7 @@
    "starts": "2026-08-03T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785798326.5877345,
+   "first_seen": 1785798336.0118604,
    "h_dias": 1,
    "h_min": 11299.0
   },
@@ -20066,7 +20134,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785798326.5877345,
+   "first_seen": 1785798336.0118604,
    "h_dias": 4,
    "h_min": 25999.0
   },

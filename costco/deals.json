@@ -1,6 +1,6 @@
 {
- "generated_at": 1785866739.6911132,
- "generated_at_str": "04/08/2026 12:05",
+ "generated_at": 1785870340.39518,
+ "generated_at_str": "04/08/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1163,25 +1163,6 @@
    "h_min": 45999.0,
    "h_ayer": 45999.0,
    "h_min7": 45999.0
-  },
-  {
-   "id": "674473",
-   "name": "LG Lavasecadora Eléctrica 22Kg/13Kg + Mini Lavadora 3.5Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-Mini-Lavadora-35Kg/p/674473",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf9/hd0/364727724736542.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 37999.0,
-   "price_new": 26499.0,
-   "pct": 30.3,
-   "amount": 11500.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785765949.4169288,
-   "h_dias": 7,
-   "h_min": 24999.0,
-   "h_ayer": 24999.0,
-   "h_min7": 24999.0
   },
   {
    "id": "694474",
@@ -11346,6 +11327,23 @@
    "h_min": 1056.76,
    "h_ayer": 1056.76,
    "h_min7": 1056.76
+  },
+  {
+   "id": "6161149",
+   "name": "Philips Recortador Todo en Uno, para Cara, Cabello y Cuerpo, 24 piezas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Rasurado-y-Depilacion/Rasuradoras/Philips-Recortador-Todo-en-Uno-para-Cara-Cabello-y-Cuerpo-24-piezas/p/6161149",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1c/ha8/434387867959326.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1399.0,
+   "price_new": 1049.0,
+   "pct": 25.0,
+   "amount": 350.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785172190.5439014,
+   "h_dias": 3,
+   "h_min": 1049.0
   },
   {
    "id": "699208",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785798244.623848,
- "generated_at_str": "03/08/2026 17:04",
+ "generated_at": 1785801844.9196713,
+ "generated_at_str": "03/08/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,7 +50,27 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260905-9dff6d11/"
   },
   {
-   "id": "d9427d7ac7f49cee03716352f75e5d47",
+   "id": "d5ee761d6fff104eec248933d68470d4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SCL",
+   "destination_name": "Santiago",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 5364.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-07T10:21:00-06:00",
+   "return_at": "",
+   "duration": 934,
+   "link": "https://www.aviasales.com/search/MEX0703SCL1?t=DM18044148601804481700000934NLUPUJSCL_d5ee761d6fff104eec248933d68470d4_24878&search_date=03082026&expected_price_uuid=019fc9f0-b714-8030-61e1-c5d7046d06de&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zkM6sGDSPbdUNeHivZMo1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=5364",
+   "title": "Flight deals from Mexico City to Santiago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-20270307-d5ee761d/"
+  },
+  {
+   "id": "e87ba1caf2441ba597e869a71d5d31c4",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +80,14 @@
    "airline_title": "Aer Lingus",
    "logo": "https://pics.avs.io/600/113/EI.png",
    "logo_tipo": "",
-   "price": 7985.0,
+   "price": 7878.0,
    "currency": "MXN",
-   "departure_at": "2026-11-21T00:45:00-06:00",
+   "departure_at": "2026-11-19T00:45:00-06:00",
    "return_at": "",
    "duration": 2010,
-   "link": "https://www.aviasales.com/search/MEX2111IST1?t=EI17952219001795374900002010MEXJFKDUBLHRSTNSAW_d9427d7ac7f49cee03716352f75e5d47_37047&search_date=03082026&expected_price_uuid=019fc907-6d60-8030-6488-b9f209e016ec&static_fare_key=TY%7CP1%7CH0%7CL1_1_12%7CCH0%7CR0%7CTBC1&itinerary_key=t8JDHjcneEDHL3dfF6eO7g&expected_price_source=share&expected_price_currency=mxn&expected_price=7985",
+   "link": "https://www.aviasales.com/search/MEX1911IST1?t=EI17950491001795202100002010MEXJFKDUBLHRSTNSAW_e87ba1caf2441ba597e869a71d5d31c4_36541&search_date=03082026&expected_price_uuid=019fc9ed-fc4d-8030-2525-4d564e6f44b6&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=hxLhsyycoL18gCfmlWVCVw&expected_price_source=share&expected_price_currency=mxn&expected_price=7878",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261121-d9427d7a/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261119-e87ba1ca/"
   },
   {
    "id": "f07691d17fd94cf0e3d814fdc667a426",
@@ -148,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX2709BER1?t=AM17905479001790633400000945MEXAMSBER_028315eac2b9d4e557989a2d2644547d_48655&search_date=03082026&expected_price_uuid=019fc9b0-fbb6-8030-aeaa-b2bfa23301fa&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=JppAYzZyb3CjDG2qDyXiHg&expected_price_source=share&expected_price_currency=mxn&expected_price=10487",
    "title": "Flight deals from Mexico City to Berlin",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20260927-028315ea/"
+  },
+  {
+   "id": "286b6fa7a42cadf8ad367fd62bdf6c0a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 11163.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-05T19:00:00-06:00",
+   "return_at": "",
+   "duration": 1210,
+   "link": "https://www.aviasales.com/search/MEX0511SEL1?t=AM17939052001794031800001210MEXMTYICN_286b6fa7a42cadf8ad367fd62bdf6c0a_51778&search_date=03082026&expected_price_uuid=019fc9ed-9b31-8030-600b-7b878019b952&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=spOWiNpvXUIlwvFVKIFUEA&expected_price_source=share&expected_price_currency=mxn&expected_price=11163",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261105-286b6fa7/"
   }
  ]
 }

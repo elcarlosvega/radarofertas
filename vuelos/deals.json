@@ -1,6 +1,6 @@
 {
- "generated_at": 1785812645.6946776,
- "generated_at_str": "03/08/2026 21:04",
+ "generated_at": 1785816245.2373679,
+ "generated_at_str": "03/08/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "c837705991232aa851cad67857266956",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2788.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-30T19:22:00-06:00",
+   "return_at": "",
+   "duration": 278,
+   "link": "https://www.aviasales.com/search/MEX3010BOG1?t=VB17933881201793408400000278NLUBOG_c837705991232aa851cad67857266956_12949&search_date=04082026&expected_price_uuid=019fcadb-cc60-8040-24ea-fa10a5b7228f&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=FZDJdx-TfESuWuvWem5uAA&expected_price_source=share&expected_price_currency=mxn&expected_price=2788",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261030-c8377059/"
+  },
   {
    "id": "d5ee761d6fff104eec248933d68470d4",
    "kind": "flight",

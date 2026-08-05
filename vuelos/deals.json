@@ -1,6 +1,6 @@
 {
- "generated_at": 1785888243.9540274,
- "generated_at_str": "04/08/2026 18:04",
+ "generated_at": 1785891844.0757787,
+ "generated_at_str": "04/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260813-71ad465c/"
   },
   {
+   "id": "9b98dba50460359068e5e3e82e70229c",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "AMS",
+   "destination_name": "Ámsterdam",
+   "airline": "EI",
+   "airline_title": "Aer Lingus",
+   "logo": "https://pics.avs.io/600/113/EI.png",
+   "logo_tipo": "",
+   "price": 8529.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-01T00:25:00-06:00",
+   "return_at": "",
+   "duration": 1840,
+   "link": "https://www.aviasales.com/search/MEX0103AMS1?t=EI18038607001803996300001840MEXJFKDUBLHRAMS_9b98dba50460359068e5e3e82e70229c_39839&search_date=04082026&expected_price_uuid=019fcf31-5423-8030-a7a6-628bf8e15f4a&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=kVYAnKdXb99RNVPMHMuuYA&expected_price_source=share&expected_price_currency=mxn&expected_price=8529",
+   "title": "Flight deals from Mexico City to Amsterdam",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20270301-9b98dba5/"
+  },
+  {
    "id": "49084c6550f7a34f1a4e1b516e242eee",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876016001787724000001140MEXMTYICN_5957d885550cbc0453e1b3185b535708_52442&search_date=04082026&expected_price_uuid=019fcf13-e57f-8030-eccf-ca04e543a992&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=riyA20YRInXaYbQaRuLtyg&expected_price_source=share&expected_price_currency=mxn&expected_price=11227",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260824-5957d885/"
-  },
-  {
-   "id": "1a4730c1f7113035bf27531770794972",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
-   "logo_tipo": "",
-   "price": 12605.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-31T06:30:00-05:00",
-   "return_at": "",
-   "duration": 2560,
-   "link": "https://www.aviasales.com/search/MEX3108BJS1?t=HU17881578001788361800002560NLUGDLLAXSEAPEK_1a4730c1f7113035bf27531770794972_58882&search_date=04082026&expected_price_uuid=019fce49-65e1-8050-66d4-f329f595fb72&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=MBUrnBjab4qG20BZi2dOww&expected_price_source=share&expected_price_currency=mxn&expected_price=12605",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260831-1a4730c1/"
   },
   {
    "id": "65aa4624a2dd11645c9d676889e0c8c0",

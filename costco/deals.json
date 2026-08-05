@@ -1,6 +1,6 @@
 {
- "generated_at": 1785891927.752713,
- "generated_at_str": "04/08/2026 19:05",
+ "generated_at": 1785895512.1468651,
+ "generated_at_str": "04/08/2026 20:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9620,6 +9620,24 @@
    "in_stock": true,
    "first_seen": 1785765949.4169288,
    "h_dias": 4,
+   "h_min": 2024.25,
+   "h_ayer": 2024.25
+  },
+  {
+   "id": "750209",
+   "name": "Michael Kors 0MK4127 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Michael-Kors-0MK4127-Armazon-Oftalmico/p/750209",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/h97/448978908872734.jpg",
+   "category": "Optica",
+   "price_old": 2699.0,
+   "price_new": 2024.25,
+   "pct": 25.0,
+   "amount": 674.75,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 2,
    "h_min": 2024.25,
    "h_ayer": 2024.25
   },

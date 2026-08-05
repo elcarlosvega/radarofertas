@@ -1,6 +1,6 @@
 {
- "generated_at": 1785895512.1468651,
- "generated_at_str": "04/08/2026 20:05",
+ "generated_at": 1785899130.851263,
+ "generated_at_str": "04/08/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -16684,6 +16684,23 @@
    "h_min": 8999.0,
    "h_ayer": 8999.0,
    "h_min7": 8999.0
+  },
+  {
+   "id": "696736",
+   "name": "LG Refrigerador French Door 23'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-French-Door-23/p/696736",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/h28/400665591480350.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 27999.0,
+   "price_new": 22999.0,
+   "pct": 17.9,
+   "amount": 5000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785899130.851263,
+   "h_dias": 4,
+   "h_min": 21899.0
   },
   {
    "id": "687768",

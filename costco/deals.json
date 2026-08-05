@@ -1,6 +1,6 @@
 {
- "generated_at": 1785884731.8803763,
- "generated_at_str": "04/08/2026 17:05",
+ "generated_at": 1785888329.2087564,
+ "generated_at_str": "04/08/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3371,23 +3371,6 @@
    "h_ayer": 999.0
   },
   {
-   "id": "686258",
-   "name": "Beats Solo Buds Arctic Purple",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/Audio-Apple/Beats-Solo-Buds-Arctic-Purple/p/686258",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h5a/241498577174558.jpg",
-   "category": "Electronicos",
-   "price_old": 1399.0,
-   "price_new": 999.0,
-   "pct": 28.6,
-   "amount": 400.0,
-   "starts": "2026-08-04T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785855967.2127938,
-   "h_dias": 1,
-   "h_min": 999.0
-  },
-  {
    "id": "1784128",
    "name": "Ricardo Beverly Hills Set de Organizadores para Viaje",
    "url": "https://www.costco.com.mx/Ropa-Calzado-y-Equipaje/Accesorios-de-Viaje/Maletas/Ricardo-Beverly-Hills-Set-de-Organizadores-para-Viaje/p/1784128",
@@ -3607,6 +3590,24 @@
    "h_dias": 6,
    "h_min": 2299.0,
    "h_ayer": 2299.0
+  },
+  {
+   "id": "1566448",
+   "name": "Kirkland Signature Jabón Antibacterial para Trastes 2.6 l",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Kirkland-Signature-Jabon-Antibacterial-para-Trastes-26-l/p/1566448",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf2/h01/184995809394718.jpg",
+   "category": "Grocery",
+   "price_old": 249.0,
+   "price_new": 179.0,
+   "pct": 28.1,
+   "amount": 70.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 2,
+   "h_min": 179.0,
+   "h_ayer": 179.0
   },
   {
    "id": "673524",
@@ -5711,7 +5712,7 @@
    "starts": "2026-08-03T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785884731.8803763,
+   "first_seen": 1785884739.3677104,
    "h_dias": 3,
    "h_min": 19999.0
   },
@@ -19337,7 +19338,7 @@
    "starts": "2026-08-03T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1785884731.8803763,
+   "first_seen": 1785884739.3677104,
    "h_dias": 1,
    "h_min": 28499.0
   },

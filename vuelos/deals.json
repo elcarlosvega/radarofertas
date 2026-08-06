@@ -1,6 +1,6 @@
 {
- "generated_at": 1785974644.39303,
- "generated_at_str": "05/08/2026 18:04",
+ "generated_at": 1785978243.974657,
+ "generated_at_str": "05/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20260917-1d5b7a71/"
   },
   {
+   "id": "c1cdacac47f6e16a4bf9c2a1d3b503b4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJO",
+   "destination_name": "San José",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1909.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-27T06:00:00-05:00",
+   "return_at": "",
+   "duration": 380,
+   "link": "https://www.aviasales.com/search/MEX2708SJO1?t=VB17878104001787833200000380NLUMTYSJO_c1cdacac47f6e16a4bf9c2a1d3b503b4_8968&search_date=06082026&expected_price_uuid=019fd465-aa61-8050-2bbb-fd80cd198173&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ldGyAO4TND6m2PIgR-AvqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1909",
+   "title": "Flight deals from Mexico City to San Jose",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20260827-c1cdacac/"
+  },
+  {
    "id": "dddc1ad8668972d93a1aeb9a536e678f",
    "kind": "flight",
    "origin": "GDL",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX0210IST1?t=Z017909391001791123300002530MEXMCOLGWSTNSAW_260674f63d1866f8fbc3ba4344f01e2d_35351&search_date=05082026&expected_price_uuid=019fd3e2-8938-8030-e216-aef783e5d306&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9ea0w5TCNxy_hJGBrbAEyA&expected_price_source=share&expected_price_currency=mxn&expected_price=7525",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261002-260674f6/"
-  },
-  {
-   "id": "1fea3fdb102c828d621fe31772d8acb4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "NHA",
-   "destination_name": "Nha Trang",
-   "airline": "MU",
-   "airline_title": "China Eastern",
-   "logo": "https://pics.avs.io/600/150/MU.png",
-   "logo_tipo": "",
-   "price": 11808.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-20T19:55:00-05:00",
-   "return_at": "",
-   "duration": 3565,
-   "link": "https://www.aviasales.com/search/MEX2008NHA1?t=MU17872557001787516400003565MEXLAXPVGSGNCXR_1fea3fdb102c828d621fe31772d8acb4_55472&search_date=05082026&expected_price_uuid=019fd31b-22de-8040-6b9e-cd7264f28a68&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gfW4FreEZEWmvasFQ8SwCg&expected_price_source=share&expected_price_currency=mxn&expected_price=11808",
-   "title": "Flight deals from Mexico City to Nha Trang",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nha-trang-20260820-1fea3fdb/"
   },
   {
    "id": "265597d9d813fa05647e84ba3a4d4cca",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1785978243.974657,
- "generated_at_str": "05/08/2026 19:04",
+ "generated_at": 1785981843.7282681,
+ "generated_at_str": "05/08/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "be1ffc4183332a9831b94b43465c4268",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 330.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-16T12:27:00-05:00",
-   "return_at": "",
-   "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX1609PVR1?t=Y417895616201789566540000082TLCPVR_be1ffc4183332a9831b94b43465c4268_1550&search_date=05082026&expected_price_uuid=019fd354-9e92-8030-a0d9-8855552f62d2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=330",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260916-be1ffc41/"
-  },
   {
    "id": "229685a3b750915d81bed5799a27742d",
    "kind": "flight",
@@ -48,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0209MTY1?t=VB17883288001788334200000090NLUMTY_229685a3b750915d81bed5799a27742d_2006&search_date=05082026&expected_price_uuid=019fd3eb-fecb-8050-a778-be24fc76e4d3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HsHct1wo5VmWQPZlWyET8g&expected_price_source=share&expected_price_currency=mxn&expected_price=427",
    "title": "Flight deals from Mexico City to Monterrey",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260902-229685a3/"
+  },
+  {
+   "id": "c5cbc9f0e517d8d43e902fd0f04f555a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ZIH",
+   "destination_name": "Ixtapa",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 896.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-13T09:10:00-05:00",
+   "return_at": "",
+   "duration": 60,
+   "link": "https://www.aviasales.com/search/MEX1308ZIH1?t=VB17866122001786615800000060NLUZIH_c5cbc9f0e517d8d43e902fd0f04f555a_4211&search_date=06082026&expected_price_uuid=019fd49d-323b-8040-6fa4-6e23ea9874bb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NPv3ieeNLsSlA5Jt7Z7fZA&expected_price_source=share&expected_price_currency=mxn&expected_price=896",
+   "title": "Flight deals from Mexico City to Ixtapa",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ixtapa-20260813-c5cbc9f0/"
   },
   {
    "id": "c64310f16c56ec78c97e2b251cf21de8",
@@ -108,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX2708SJO1?t=VB17878104001787833200000380NLUMTYSJO_c1cdacac47f6e16a4bf9c2a1d3b503b4_8968&search_date=06082026&expected_price_uuid=019fd465-aa61-8050-2bbb-fd80cd198173&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ldGyAO4TND6m2PIgR-AvqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1909",
    "title": "Flight deals from Mexico City to San Jose",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20260827-c1cdacac/"
+  },
+  {
+   "id": "eaf7b2d273ef723a8eacee33e53f919d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2667.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-26T16:10:00-05:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX2608HOU1?t=Y417877606001787772300000135MEXIAH_eaf7b2d273ef723a8eacee33e53f919d_12527&search_date=05082026&expected_price_uuid=019fd3d9-7b31-8040-2d9e-67cdacd774c7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2667",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260826-eaf7b2d2/"
   },
   {
    "id": "dddc1ad8668972d93a1aeb9a536e678f",
@@ -188,26 +208,6 @@
    "link": "https://www.aviasales.com/search/MEX2609LON1?t=AM17904612001790524800000640MEXLHR_265597d9d813fa05647e84ba3a4d4cca_58290&search_date=05082026&expected_price_uuid=019fd41b-8d4c-8040-29d3-462b9f0a643f&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=r7pAsIB6EdYzZiyVfMMFtA&expected_price_source=share&expected_price_currency=mxn&expected_price=12411",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20260926-265597d9/"
-  },
-  {
-   "id": "e474d4b6005a220a72bcf2507a84c393",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "NH",
-   "airline_title": "All Nippon Airways",
-   "logo": "https://pics.avs.io/600/150/NH.png",
-   "logo_tipo": "",
-   "price": 19416.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-07T06:05:00-05:00",
-   "return_at": "",
-   "duration": 855,
-   "link": "https://www.aviasales.com/search/MEX0708TYO1?t=NH17860827001786188000000855MEXNRT_e474d4b6005a220a72bcf2507a84c393_91209&search_date=05082026&expected_price_uuid=019fd35f-bcba-8050-ee6e-11d00d1937bf&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=5Mi33ziDp_dfy7kcGVaPqw&expected_price_source=share&expected_price_currency=mxn&expected_price=19416",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260807-e474d4b6/"
   }
  ]
 }

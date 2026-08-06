@@ -1,6 +1,6 @@
 {
- "generated_at": 1785985444.0080793,
- "generated_at_str": "05/08/2026 21:04",
+ "generated_at": 1785989043.8699112,
+ "generated_at_str": "05/08/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20260827-c1cdacac/"
   },
   {
-   "id": "eaf7b2d273ef723a8eacee33e53f919d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HOU",
-   "destination_name": "Houston",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2667.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-26T16:10:00-05:00",
-   "return_at": "",
-   "duration": 135,
-   "link": "https://www.aviasales.com/search/MEX2608HOU1?t=Y417877606001787772300000135MEXIAH_eaf7b2d273ef723a8eacee33e53f919d_12527&search_date=05082026&expected_price_uuid=019fd3d9-7b31-8040-2d9e-67cdacd774c7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2667",
-   "title": "Flight deals from Mexico City to Houston",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260826-eaf7b2d2/"
-  },
-  {
    "id": "1c86797b476a0c34be769c95b0a1c9b6",
    "kind": "flight",
    "origin": "MEX",
@@ -150,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20260917-1c86797b/"
   },
   {
-   "id": "260674f63d1866f8fbc3ba4344f01e2d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "Z0",
-   "airline_title": "Norse Atlantic UK",
-   "logo": "https://pics.avs.io/600/150/Z0.png",
-   "logo_tipo": "",
-   "price": 7526.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-02T11:05:00-05:00",
-   "return_at": "",
-   "duration": 2530,
-   "link": "https://www.aviasales.com/search/MEX0210IST1?t=Z017909391001791123300002530MEXMCOLGWSTNSAW_260674f63d1866f8fbc3ba4344f01e2d_35351&search_date=05082026&expected_price_uuid=019fd3e2-8938-8030-e216-aef783e5d306&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9ea0w5TCNxy_hJGBrbAEyA&expected_price_source=share&expected_price_currency=mxn&expected_price=7525",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261002-260674f6/"
-  },
-  {
    "id": "265597d9d813fa05647e84ba3a4d4cca",
    "kind": "flight",
    "origin": "MEX",
@@ -188,6 +148,46 @@
    "link": "https://www.aviasales.com/search/MEX2609LON1?t=AM17904612001790524800000640MEXLHR_265597d9d813fa05647e84ba3a4d4cca_58290&search_date=05082026&expected_price_uuid=019fd41b-8d4c-8040-29d3-462b9f0a643f&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=r7pAsIB6EdYzZiyVfMMFtA&expected_price_source=share&expected_price_currency=mxn&expected_price=12411",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20260926-265597d9/"
+  },
+  {
+   "id": "ba8cc431ffa09b0c68af82db7844189e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CAI",
+   "destination_name": "El Cairo",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 12816.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-18T23:05:00-06:00",
+   "return_at": "",
+   "duration": 1025,
+   "link": "https://www.aviasales.com/search/MEX1801CAI1?t=AF18003135001800403800001025MEXCDGCAI_ba8cc431ffa09b0c68af82db7844189e_60200&search_date=06082026&expected_price_uuid=019fd498-3e5b-8051-2efe-f53922396030&static_fare_key=TY%7CP1%7CH0%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=CyAKGrOaERCe8SKjjvekrg&expected_price_source=share&expected_price_currency=mxn&expected_price=12816",
+   "title": "Flight deals from Mexico City to Cairo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-el-cairo-20270118-ba8cc431/"
+  },
+  {
+   "id": "acfc4b3e40d22941fabd4dbec473d23b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 22560.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-25T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2508IST1?t=TK17876484001787739600000980MEXIST_acfc4b3e40d22941fabd4dbec473d23b_105952&search_date=05082026&expected_price_uuid=019fd438-c81d-8050-6926-04ec5be329da&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=22560",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260825-acfc4b3e/"
   }
  ]
 }

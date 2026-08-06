@@ -1,28 +1,11 @@
 {
- "generated_at": 1786036506.7400582,
- "generated_at_str": "06/08/2026 11:15",
+ "generated_at": 1786039992.0267258,
+ "generated_at_str": "06/08/2026 12:13",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
  },
  "deals": [
-  {
-   "id": "220788",
-   "name": "Audífonos In-Ear Skullcandy con Micrófono INK D+ S2IMY-M448",
-   "url": "https://www.coppel.com/pdp/audifonos-in-ear-skullcandy-con-microfono-ink-d-s2imy-m448-pm-2207883",
-   "img": "https://cdn5.coppel.com/pm/2207883-1.jpg",
-   "category": "Audifonos",
-   "price_old": 419.0,
-   "price_new": 39.0,
-   "pct": 90.7,
-   "amount": 380.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786025478.738347,
-   "h_dias": 1,
-   "h_min": 39.0
-  },
   {
    "id": "290774",
    "name": "Audífonos In-Ear Sennheiser con Manos Libres 508594",
@@ -40,6 +23,24 @@
    "h_dias": 2,
    "h_min": 139.0,
    "h_ayer": 139.0
+  },
+  {
+   "id": "231702",
+   "name": "Audífonos True Wireless Perfect Choice Manos Libres PC-116844",
+   "url": "https://www.coppel.com/pdp/audifonos-true-wireless-perfect-choice-manos-libres-pc-116844-pm-2317023",
+   "img": "https://cdn5.coppel.com/pm/2317023-1.jpg",
+   "category": "Audifonos",
+   "price_old": 599.0,
+   "price_new": 59.0,
+   "pct": 90.2,
+   "amount": 540.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786025478.738347,
+   "h_dias": 2,
+   "h_min": 59.0,
+   "h_ayer": 299.0
   },
   {
    "id": "283148",
@@ -75,6 +76,24 @@
    "h_dias": 2,
    "h_min": 129.0,
    "h_ayer": 129.0
+  },
+  {
+   "id": "204411",
+   "name": "Bocina Bluetooth Klipsch Heritage Grove 20 W Portátil",
+   "url": "https://www.coppel.com/pdp/bocina-bluetooth-klipsch-heritage-grove-20-w-portatil-pm-2044113",
+   "img": "https://cdn5.coppel.com/pm/2044113-1.jpg",
+   "category": "Bocinas",
+   "price_old": 3999.0,
+   "price_new": 399.0,
+   "pct": 90.0,
+   "amount": 3600.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 2,
+   "h_min": 399.0,
+   "h_ayer": 399.0
   },
   {
    "id": "265542",
@@ -3982,6 +4001,23 @@
    "h_min": 789.0
   },
   {
+   "id": "749120937",
+   "name": "Bocina Portatil Fol Fs-384bt Negro",
+   "url": "https://www.coppel.com/pdp/bocina-portatil-fol-fs-384bt-negro-mkp-749120937",
+   "img": "https://cdn5.coppel.com/mkp/749120937-1.jpg",
+   "category": "Bocinas",
+   "price_old": 799.0,
+   "price_new": 371.0,
+   "pct": 53.6,
+   "amount": 428.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786039992.0267258,
+   "h_dias": 1,
+   "h_min": 371.0
+  },
+  {
    "id": "749063395",
    "name": "Samsung Galaxy Buds Core Negro",
    "url": "https://www.coppel.com/pdp/samsung-galaxy-buds-core-negro-mkp-749063395",
@@ -7064,7 +7100,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 1,
    "h_min": 349.0
   },
@@ -15233,24 +15269,6 @@
    "name": "Correa para Apple watch Lacoste 2050035 Multicolor Silicón Compatible con 38/40/41mm",
    "url": "https://www.coppel.com/pdp/correa-para-apple-watch-lacoste-2050035-multicolor-silicon-compatible-con-38/40/41mm-mkp-747387941",
    "img": "https://cdn5.coppel.com/mkp/747387941-1.jpg",
-   "category": "Smartwatches",
-   "price_old": 1799.0,
-   "price_new": 900.0,
-   "pct": 50.0,
-   "amount": 899.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 900.0,
-   "h_ayer": 900.0
-  },
-  {
-   "id": "747387919",
-   "name": "Correa para Apple watch Lacoste 2050047 Multicolor Silicón Compatible con 38/40/41mm",
-   "url": "https://www.coppel.com/pdp/correa-para-apple-watch-lacoste-2050047-multicolor-silicon-compatible-con-38/40/41mm-mkp-747387919",
-   "img": "https://cdn5.coppel.com/mkp/747387919-1.jpg",
    "category": "Smartwatches",
    "price_old": 1799.0,
    "price_new": 900.0,
@@ -24728,24 +24746,6 @@
    "h_ayer": 1374.0
   },
   {
-   "id": "747806023",
-   "name": "Kit Havit Audifonos Inalámbricos Anc Y Altavoz Portátil Waterproof",
-   "url": "https://www.coppel.com/pdp/kit-havit-audifonos-inalambricos-anc-y-altavoz-portatil-waterproof-mkp-747806023",
-   "img": "https://cdn5.coppel.com/mkp/747806023-1.jpg",
-   "category": "Bocinas",
-   "price_old": 2397.0,
-   "price_new": 1319.0,
-   "pct": 45.0,
-   "amount": 1078.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 1319.0,
-   "h_ayer": 1319.0
-  },
-  {
    "id": "115047",
    "name": "Procesador de Alimentos Koblenz BKM 800 Mix & Go 1000 W",
    "url": "https://www.coppel.com/pdp/procesador-de-alimentos-koblenz-bkm-800-mix-go-1000-w-pm-1150473",
@@ -27544,24 +27544,6 @@
    "h_ayer": 24999.0
   },
   {
-   "id": "748507987",
-   "name": "Pc De Escritorio Getttech Gpa-vi56gtb-01m Amd Ryzen 5 5600gt  16gb Ddr4 3200mhz  1tb Ssd  A520  550w  Wifi",
-   "url": "https://www.coppel.com/pdp/pc-de-escritorio-getttech-gpa-vi56gtb-01m-amd-ryzen-5-5600gt-16gb-ddr4-3200mhz-1tb-ssd-a520-550w-wifi-mkp-748507987",
-   "img": "https://cdn5.coppel.com/mkp/748507987-1.jpg",
-   "category": "Computadoras",
-   "price_old": 18999.0,
-   "price_new": 10799.0,
-   "pct": 43.2,
-   "amount": 8200.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 10799.0,
-   "h_ayer": 10799.0
-  },
-  {
    "id": "78911762",
    "name": "Sillón Dicasa Aston Color Chocolate 1 Plaza",
    "url": "https://www.coppel.com/pdp/sillon-dicasa-aston-color-chocolate-1-plaza-mkp-78911762",
@@ -30057,6 +30039,24 @@
    "h_ayer": 20900.0
   },
   {
+   "id": "292101",
+   "name": "Pantalla Smart TV Samsung LED 85 Pulgadas 4K UN85U8000FFXZX",
+   "url": "https://www.coppel.com/pdp/pantalla-smart-tv-samsung-led-85-pulgadas-4k-un85u8000ffxzx-pm-2921013",
+   "img": "https://cdn5.coppel.com/pm/2921013-1.jpg",
+   "category": "Pantallas",
+   "price_old": 31999.0,
+   "price_new": 18599.0,
+   "pct": 41.9,
+   "amount": 13400.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 2,
+   "h_min": 18599.0,
+   "h_ayer": 18599.0
+  },
+  {
    "id": "78911856",
    "name": "Love Seat Dicasa Monza Azul Soho 2 Plazas",
    "url": "https://www.coppel.com/pdp/love-seat-dicasa-monza-azul-soho-2-plazas-mkp-78911856",
@@ -30882,24 +30882,6 @@
    "h_dias": 2,
    "h_min": 7049.0,
    "h_ayer": 7049.0
-  },
-  {
-   "id": "73491010",
-   "name": "Impresora Laser Hp Monocromatica Pro 4003dw 42ppm Usb Wifi Ethernet2z610a",
-   "url": "https://www.coppel.com/pdp/impresora-laser-hp-monocromatica-pro-4003dw-42ppm-usb-wifi-ethernet2z610a-mkp-73491010",
-   "img": "https://cdn5.coppel.com/mkp/73491010-1.jpg",
-   "category": "Impresoras",
-   "price_old": 9120.0,
-   "price_new": 5356.0,
-   "pct": 41.3,
-   "amount": 3764.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 5356.0,
-   "h_ayer": 5356.0
   },
   {
    "id": "662755",
@@ -41172,24 +41154,6 @@
    "h_ayer": 3799.0
   },
   {
-   "id": "748073026",
-   "name": "Celular Tecno Spark 50 4g Liberado 256gb 4gb Morado",
-   "url": "https://www.coppel.com/pdp/celular-tecno-spark-50-4g-liberado-256gb-4gb-morado-mkp-748073026",
-   "img": "https://cdn5.coppel.com/mkp/748073026-1.jpg",
-   "category": "Celulares",
-   "price_old": 5999.0,
-   "price_new": 3799.0,
-   "pct": 36.7,
-   "amount": 2200.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 3799.0,
-   "h_ayer": 3799.0
-  },
-  {
    "id": "748076036",
    "name": "Celular Tecno Spark 50 4g Liberado 256gb 4gb Gris",
    "url": "https://www.coppel.com/pdp/celular-tecno-spark-50-4g-liberado-256gb-4gb-gris-mkp-748076036",
@@ -41637,24 +41601,6 @@
    "h_dias": 2,
    "h_min": 444.0,
    "h_ayer": 444.0
-  },
-  {
-   "id": "663271",
-   "name": "Refrigerador Teka Top Mount 14 Pies Acero RTF 34700 SS",
-   "url": "https://www.coppel.com/pdp/refrigerador-teka-top-mount-14-pies-acero-rtf-34700-ss-pm-6632713",
-   "img": "https://cdn5.coppel.com/pm/6632713-1.jpg",
-   "category": "Refrigeradores",
-   "price_old": 19199.0,
-   "price_new": 12199.0,
-   "pct": 36.5,
-   "amount": 7000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 12199.0,
-   "h_ayer": 12199.0
   },
   {
    "id": "227514",
@@ -50758,7 +50704,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 2,
    "h_min": 5219.0,
    "h_ayer": 5629.0
@@ -55410,7 +55356,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 2,
    "h_min": 6119.0,
    "h_ayer": 6489.0
@@ -56176,7 +56122,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 2,
    "h_min": 5979.0,
    "h_ayer": 6319.0
@@ -56300,7 +56246,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 1,
    "h_min": 8799.0
   },
@@ -62681,10 +62627,10 @@
    "h_min": 208.0
   },
   {
-   "id": "279032",
-   "name": "Celular Samsung Galaxy S25 Ultra Liberado 256 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-ultra-liberado-256-gb-azul-pm-2790323",
-   "img": "https://cdn5.coppel.com/pm/2790323-1.jpg",
+   "id": "279065",
+   "name": "Celular Samsung Galaxy S25 Ultra Liberado 256 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-ultra-liberado-256-gb-negro-pm-2790653",
+   "img": "https://cdn5.coppel.com/pm/2790653-1.jpg",
    "category": "Celulares",
    "price_old": 32999.0,
    "price_new": 22999.0,
@@ -62693,7 +62639,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785975360.6899061,
+   "first_seen": 1785964414.7510617,
    "h_dias": 2,
    "h_min": 22999.0,
    "h_ayer": 22999.0
@@ -62841,24 +62787,6 @@
    "h_dias": 2,
    "h_min": 11499.0,
    "h_ayer": 11499.0
-  },
-  {
-   "id": "747729302",
-   "name": "Celular Infinix Note Edge 5G Liberado 256 GB Verde",
-   "url": "https://www.coppel.com/pdp/celular-infinix-note-edge-5g-liberado-256-gb-verde-mkp-747729302",
-   "img": "https://cdn5.coppel.com/mkp/747729302-1.jpg",
-   "category": "Celulares",
-   "price_old": 9000.0,
-   "price_new": 6276.0,
-   "pct": 30.3,
-   "amount": 2724.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 6276.0,
-   "h_ayer": 6276.0
   },
   {
    "id": "662501",
@@ -63153,6 +63081,24 @@
    "url": "https://www.coppel.com/pdp/audifonos-true-wireless-sony-linkbuds-clip-con-cancelacion-de-ruido-pm-2261513",
    "img": "https://cdn5.coppel.com/pm/2261513-1.jpg",
    "category": "Audifonos",
+   "price_old": 4299.0,
+   "price_new": 2999.0,
+   "pct": 30.2,
+   "amount": 1300.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 2,
+   "h_min": 2999.0,
+   "h_ayer": 2999.0
+  },
+  {
+   "id": "278212",
+   "name": "Celular Samsung A16 Liberado 128 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-samsung-a16-liberado-128-gb-negro-pm-2782123",
+   "img": "https://cdn5.coppel.com/pm/2782123-1.jpg",
+   "category": "Celulares",
    "price_old": 4299.0,
    "price_new": 2999.0,
    "pct": 30.2,
@@ -63795,6 +63741,24 @@
    "h_ayer": 30529.0
   },
   {
+   "id": "747449756",
+   "name": "Smartphone Apple iPhone 17 Pro Max 12Gb 256Gb Naranja Esim Nuevo",
+   "url": "https://www.coppel.com/pdp/smartphone-apple-iphone-17-pro-max-12gb-256gb-naranja-esim-nuevo-mkp-747449756",
+   "img": "https://cdn5.coppel.com/mkp/747449756-1.jpg",
+   "category": "Celulares",
+   "price_old": 39999.0,
+   "price_new": 27999.0,
+   "pct": 30.0,
+   "amount": 12000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 2,
+   "h_min": 27999.0,
+   "h_ayer": 27999.0
+  },
+  {
    "id": "749050745",
    "name": "Laptop Gamer Hp Victus 15.6 Fhd 144hz Intel Core I7-13620h 32gb Ram 2tb Ssd Rtx 3050 6gb Windows 11 Home - Español",
    "url": "https://www.coppel.com/pdp/laptop-gamer-hp-victus-156-fhd-144hz-intel-core-i7-13620h-32gb-ram-2tb-ssd-rtx-3050-6gb-windows-11-home-espanol-mkp-749050745",
@@ -64098,6 +64062,24 @@
    "h_dias": 2,
    "h_min": 15889.0,
    "h_ayer": 15889.0
+  },
+  {
+   "id": "202783",
+   "name": "Celular Google Pixel 10 Liberado 256 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-google-pixel-10-liberado-256-gb-negro-pm-2027833",
+   "img": "https://cdn5.coppel.com/pm/2027833-1.jpg",
+   "category": "Celulares",
+   "price_old": 22499.0,
+   "price_new": 15749.0,
+   "pct": 30.0,
+   "amount": 6750.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 2,
+   "h_min": 15749.0,
+   "h_ayer": 15749.0
   },
   {
    "id": "749059791",
@@ -68107,24 +68089,6 @@
    "h_ayer": 629.0
   },
   {
-   "id": "36401369",
-   "name": "Gadgets And Fun Bocina y Lámpara Proyector de Estrellas",
-   "url": "https://www.coppel.com/pdp/bocina-y-lampara-proyector-de-estrellas-mkp-36401369",
-   "img": "https://cdn5.coppel.com/mkp/36401369-1.jpg",
-   "category": "Bocinas",
-   "price_old": 899.0,
-   "price_new": 629.0,
-   "pct": 30.0,
-   "amount": 270.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 629.0,
-   "h_ayer": 629.0
-  },
-  {
    "id": "37671224",
    "name": "Auriculares Para Juegos Fifine Ampligame H6 Con Micrófono 7.1 Usb Pc - Venta Internacional.",
    "url": "https://www.coppel.com/pdp/auriculares-para-juegos-fifine-ampligame-h6-con-microfono-71-usb-pc-venta-internacional-mkp-37671224",
@@ -70115,7 +70079,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 2,
    "h_min": 2169.0,
    "h_ayer": 2169.0
@@ -70585,10 +70549,10 @@
    "h_ayer": 11900.0
   },
   {
-   "id": "208552",
-   "name": "Celular Samsung Galaxy S25 FE Liberado 128 GB Azul Navy",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-fe-liberado-128-gb-azul-navy-pm-2085523",
-   "img": "https://cdn5.coppel.com/pm/2085523-1.jpg",
+   "id": "208569",
+   "name": "Celular Samsung Galaxy S25 FE Liberado 128 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-fe-liberado-128-gb-negro-pm-2085693",
+   "img": "https://cdn5.coppel.com/pm/2085693-1.jpg",
    "category": "Celulares",
    "price_old": 15499.0,
    "price_new": 10999.0,
@@ -70597,7 +70561,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785982551.7994368,
+   "first_seen": 1785967950.847778,
    "h_dias": 2,
    "h_min": 10999.0,
    "h_ayer": 10999.0
@@ -72515,6 +72479,23 @@
    "h_dias": 2,
    "h_min": 13509.0,
    "h_ayer": 13509.0
+  },
+  {
+   "id": "86201054",
+   "name": "Estufa De Gas Empotre Acros Abr7140g De 80 Cm (31'') Color Tittanio",
+   "url": "https://www.coppel.com/pdp/estufa-de-gas-empotre-acros-abr7140g-de-80-cm-31-color-tittanio-mkp-86201054",
+   "img": "https://cdn5.coppel.com/mkp/86201054-1.jpg",
+   "category": "Estufas",
+   "price_old": 17029.0,
+   "price_new": 12159.0,
+   "pct": 28.6,
+   "amount": 4870.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786039992.0267258,
+   "h_dias": 1,
+   "h_min": 12159.0
   },
   {
    "id": "747402311",
@@ -74861,24 +74842,6 @@
    "first_seen": 1786007501.4683013,
    "h_dias": 1,
    "h_min": 2399.0
-  },
-  {
-   "id": "5841107",
-   "name": "Audífonos In-Ear Shure SE215CL Transparente",
-   "url": "https://www.coppel.com/pdp/audifonos-in-ear-shure-se215cl-transparente-mkp-5841107",
-   "img": "https://cdn5.coppel.com/mkp/5841107-1.jpg",
-   "category": "Audifonos",
-   "price_old": 3059.0,
-   "price_new": 2190.0,
-   "pct": 28.4,
-   "amount": 869.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 2190.0,
-   "h_ayer": 2190.0
   },
   {
    "id": "74141005",
@@ -78383,10 +78346,10 @@
    "h_ayer": 7999.0
   },
   {
-   "id": "229711",
-   "name": "Celular Liberado Motorola Edge 70 Fusion 256 GB Verde + Audífonos",
-   "url": "https://www.coppel.com/pdp/celular-liberado-motorola-edge-70-fusion-256-gb-verde-audifonos-pm-2297113",
-   "img": "https://cdn5.coppel.com/pm/2297113-1.jpg",
+   "id": "229728",
+   "name": "Celular Motorola Edge 70 Fusion Liberado 256 GB Azul + Audífonos",
+   "url": "https://www.coppel.com/pdp/celular-motorola-edge-70-fusion-liberado-256-gb-azul-audifonos-pm-2297283",
+   "img": "https://cdn5.coppel.com/pm/2297283-1.jpg",
    "category": "Celulares",
    "price_old": 10999.0,
    "price_new": 7999.0,
@@ -78395,7 +78358,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785996924.9688005,
+   "first_seen": 1786003725.6476743,
    "h_dias": 1,
    "h_min": 7999.0
   },
@@ -90520,7 +90483,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
+   "first_seen": 1786036520.4182937,
    "h_dias": 2,
    "h_min": 252.0,
    "h_ayer": 252.0
@@ -93250,24 +93213,6 @@
    "h_ayer": 12749.0
   },
   {
-   "id": "74451433",
-   "name": "Lavadora Whirlpool Carga Superior 19 Kg  Blanca 7mwtw1904lm",
-   "url": "https://www.coppel.com/pdp/lavadora-whirlpool-carga-superior-19-kg-blanca-7mwtw1904lm-mkp-74451433",
-   "img": "https://cdn5.coppel.com/mkp/74451433-1.jpg",
-   "category": "Lavadoras",
-   "price_old": 15999.0,
-   "price_new": 11999.0,
-   "pct": 25.0,
-   "amount": 4000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 11999.0,
-   "h_ayer": 11999.0
-  },
-  {
    "id": "94851583",
    "name": "Laptop HP 255 G9 AMD Ryzen 5 5625U 12GB RAM 512GB SSD PCIe NVMe. M.2 15.6'' Windows 11 Home",
    "url": "https://www.coppel.com/pdp/laptop-hp-255-g9-amd-ryzen-5-5625u-12gb-ram-512gb-ssd-pcie-nvme-m2-156-windows-11-home-mkp-94851583",
@@ -93412,10 +93357,10 @@
    "h_ayer": 7499.0
   },
   {
-   "id": "229116",
-   "name": "Celular Samsung Galaxy A37 5G Liberado 256 GB Negro",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a37-5g-liberado-256-gb-negro-pm-2291163",
-   "img": "https://cdn5.coppel.com/pm/2291163-1.jpg",
+   "id": "229124",
+   "name": "Celular Samsung Galaxy A37 5G Liberado 256 GB Gris",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a37-5g-liberado-256-gb-gris-pm-2291243",
+   "img": "https://cdn5.coppel.com/pm/2291243-1.jpg",
    "category": "Celulares",
    "price_old": 9999.0,
    "price_new": 7499.0,
@@ -93424,7 +93369,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785982551.7994368,
+   "first_seen": 1785964414.7510617,
    "h_dias": 2,
    "h_min": 7499.0,
    "h_ayer": 7499.0
@@ -93988,24 +93933,6 @@
    "h_ayer": 2999.0
   },
   {
-   "id": "74622610",
-   "name": "Celular Compaq Q6 8 / 256 Gb + Buds de Regalo Desbloqueado Rojo",
-   "url": "https://www.coppel.com/pdp/celular-compaq-q6-8-/-256-gb-buds-de-regalo-desbloqueado-rojo-mkp-74622610",
-   "img": "https://cdn5.coppel.com/mkp/74622610-1.jpg",
-   "category": "Celulares",
-   "price_old": 3999.0,
-   "price_new": 2999.0,
-   "pct": 25.0,
-   "amount": 1000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 2,
-   "h_min": 2999.0,
-   "h_ayer": 2999.0
-  },
-  {
    "id": "74622614",
    "name": "Celular Compaq Q6 8 / 256 Gb + Buds de Regalo Desbloqueado Negro",
    "url": "https://www.coppel.com/pdp/celular-compaq-q6-8-/-256-gb-buds-de-regalo-desbloqueado-negro-mkp-74622614",
@@ -94383,10 +94310,10 @@
    "h_ayer": 1499.0
   },
   {
-   "id": "275851",
-   "name": "Celular Zuum Magno P4 Liberado 64 GB Morado",
-   "url": "https://www.coppel.com/pdp/celular-zuum-magno-p4-liberado-64-gb-morado-pm-2758513",
-   "img": "https://cdn5.coppel.com/pm/2758513-1.jpg",
+   "id": "278883",
+   "name": "Celular Zuum Magno P4 Liberado 64 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-zuum-magno-p4-liberado-64-gb-azul-pm-2788833",
+   "img": "https://cdn5.coppel.com/pm/2788833-1.jpg",
    "category": "Celulares",
    "price_old": 1999.0,
    "price_new": 1499.0,
@@ -94395,9 +94322,10 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786036506.7400582,
-   "h_dias": 1,
-   "h_min": 1499.0
+   "first_seen": 1785964414.7510617,
+   "h_dias": 2,
+   "h_min": 1499.0,
+   "h_ayer": 1499.0
   },
   {
    "id": "74621570",

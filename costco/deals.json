@@ -1,6 +1,6 @@
 {
- "generated_at": 1786035929.994598,
- "generated_at_str": "06/08/2026 11:05",
+ "generated_at": 1786039534.739484,
+ "generated_at_str": "06/08/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4701,25 +4701,6 @@
    "h_min7": 8199.0
   },
   {
-   "id": "688554",
-   "name": "Moorefield, Gabinete de Medicinas con Espejo LED, Modelo Luna",
-   "url": "https://www.costco.com.mx/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Espejos/Moorefield-Gabinete-de-Medicinas-con-Espejo-LED-Modelo-Luna/p/688554",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hcf/h0a/292829173448734.jpg",
-   "category": "Hogar y Bano",
-   "price_old": 8499.0,
-   "price_new": 6199.0,
-   "pct": 27.1,
-   "amount": 2300.0,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785176034.0557995,
-   "h_dias": 9,
-   "h_min": 6199.0,
-   "h_ayer": 6199.0,
-   "h_min7": 6199.0
-  },
-  {
    "id": "676656",
    "name": "HP Multifuncional Smart Tank 790",
    "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Impresoras-y-Rotuladores/HP-Multifuncional-Smart-Tank-790/p/676656",
@@ -6015,6 +5996,24 @@
    "h_min": 29999.0,
    "h_ayer": 29999.0,
    "h_min7": 29999.0
+  },
+  {
+   "id": "686463",
+   "name": "GE Centro De Lavado De Gas 23kg / 23kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 27999.0,
+   "price_new": 20999.0,
+   "pct": 25.0,
+   "amount": 7000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785884739.3677104,
+   "h_dias": 5,
+   "h_min": 19999.0,
+   "h_ayer": 20999.0
   },
   {
    "id": "702201",
@@ -11901,25 +11900,6 @@
    "h_min": 861.75,
    "h_ayer": 861.75,
    "h_min7": 861.75
-  },
-  {
-   "id": "562888",
-   "name": "Concor 2.5 mg 30 Tabletas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Concor-25-mg-30-Tabletas/p/562888",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h29/385219895722014.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1109.0,
-   "price_new": 831.75,
-   "pct": 25.0,
-   "amount": 277.25,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785176034.0557995,
-   "h_dias": 9,
-   "h_min": 831.75,
-   "h_ayer": 831.75,
-   "h_min7": 831.75
   },
   {
    "id": "671914",
@@ -22139,6 +22119,25 @@
    "h_dias": 4,
    "h_min": 18999.0,
    "h_ayer": 18999.0
+  },
+  {
+   "id": "697972",
+   "name": "Sealy, Embody Soft Red, Colchón y Box Queen Size",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/Sealy-Embody-Soft-Red-Colchon-y-Box-Queen-Size/p/697972",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h17/he1/432126982881310.jpg",
+   "category": "Muebles",
+   "price_old": 20999.0,
+   "price_new": 18999.0,
+   "pct": 9.5,
+   "amount": 2000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 9,
+   "h_min": 18999.0,
+   "h_ayer": 18999.0,
+   "h_min7": 18999.0
   },
   {
    "id": "703426",

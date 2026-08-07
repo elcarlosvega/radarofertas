@@ -1,6 +1,6 @@
 {
- "generated_at": 1786093517.05496,
- "generated_at_str": "07/08/2026 03:05",
+ "generated_at": 1786097116.8373427,
+ "generated_at_str": "07/08/2026 04:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -12367,6 +12367,25 @@
    "h_min7": 569.25
   },
   {
+   "id": "518909",
+   "name": "Eutirox 100 mcg. 50 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Analgesicos/Eutirox-100-mcg-50-Tabletas/p/518909",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h05/h19/224300591120414.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 759.0,
+   "price_new": 569.25,
+   "pct": 25.0,
+   "amount": 189.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995,
+   "h_dias": 10,
+   "h_min": 569.25,
+   "h_ayer": 569.25,
+   "h_min7": 569.25
+  },
+  {
    "id": "688724",
    "name": "ISDIN FotoUltra 100 Spot Prevent Color Protector Solar FPS 50+ 50 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/ISDIN-FotoUltra-100-Spot-Prevent-Color-Protector-Solar-FPS-50-50-ml/p/688724",
@@ -18164,6 +18183,24 @@
    "h_min": 9499.0,
    "h_ayer": 9999.0,
    "h_min7": 9499.0
+  },
+  {
+   "id": "692532",
+   "name": "Echelon Set de Mancuernas de Peso Ajustable con Soporte",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Accesorios/Echelon-Set-de-Mancuernas-de-Peso-Ajustable-con-Soporte/p/692532",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h7b/363738037321758.jpg",
+   "category": "Deportes",
+   "price_old": 11999.0,
+   "price_new": 9999.0,
+   "pct": 16.7,
+   "amount": 2000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785773151.0946755,
+   "h_dias": 5,
+   "h_min": 9999.0,
+   "h_ayer": 9999.0
   },
   {
    "id": "688024",

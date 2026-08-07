@@ -1,6 +1,6 @@
 {
- "generated_at": 1786057525.7317128,
- "generated_at_str": "06/08/2026 17:05",
+ "generated_at": 1786061130.0959527,
+ "generated_at_str": "06/08/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -484,7 +484,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786057525.7317128,
+   "first_seen": 1786057533.0074072,
    "h_dias": 1,
    "h_min": 3799.0
   },
@@ -558,7 +558,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-08-10T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786057525.7317128,
+   "first_seen": 1786057533.0074072,
    "h_dias": 1,
    "h_min": 17999.0
   },
@@ -4194,6 +4194,24 @@
    "h_min": 2099.0,
    "h_ayer": 2099.0,
    "h_min7": 2099.0
+  },
+  {
+   "id": "702123",
+   "name": "Scrub Daddy Set de Limpieza 6 pzas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Scrub-Daddy-Set-de-Limpieza-6-pzas/p/702123",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hed/hb0/434901562720286.jpg",
+   "category": "Grocery",
+   "price_old": 399.0,
+   "price_new": 289.0,
+   "pct": 27.6,
+   "amount": 110.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 4,
+   "h_min": 289.0,
+   "h_ayer": 289.0
   },
   {
    "id": "350086",

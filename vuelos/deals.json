@@ -1,6 +1,6 @@
 {
- "generated_at": 1786179843.921242,
- "generated_at_str": "08/08/2026 03:04",
+ "generated_at": 1786183443.615298,
+ "generated_at_str": "08/08/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "a6577217721a7e5c888f42825b4205dd",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 355.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-01T19:52:00-05:00",
+   "return_at": "",
+   "duration": 69,
+   "link": "https://www.aviasales.com/search/MEX0109GDL1?t=Y417882923201788296460000069TLCGDL_a6577217721a7e5c888f42825b4205dd_1702&search_date=08082026&expected_price_uuid=019fe0a3-5d2b-8030-a9aa-6f1eb75ebc8f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaMWokBvOE0EMF_kdOTOEg&expected_price_source=share&expected_price_currency=mxn&expected_price=355",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260901-a6577217/"
+  },
   {
    "id": "5340b4aa6ddd0999a348663c11861736",
    "kind": "flight",
@@ -60,12 +80,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 5802.0,
+   "price": 5803.0,
    "currency": "MXN",
    "departure_at": "2026-10-14T12:00:00-05:00",
    "return_at": "",
    "duration": 539,
-   "link": "https://www.aviasales.com/search/MEX1410SEA1?t=Y417919792001792007940000539MEXGDLSEA_77fa54999909b58029b588a67401aa35_27856&search_date=08082026&expected_price_uuid=019fe064-8893-8030-65e7-ce10cb721432&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=HHIIV63y12elrfIn4ETxmQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5802",
+   "link": "https://www.aviasales.com/search/MEX1410SEA1?t=Y417919792001792007940000539MEXGDLSEA_77fa54999909b58029b588a67401aa35_27856&search_date=08082026&expected_price_uuid=019fe064-8893-8030-65e7-ce10cb721432&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=HHIIV63y12elrfIn4ETxmQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5803",
    "title": "Flight deals from Mexico City to Seattle",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seattle-20261014-77fa5499/"
   },
@@ -100,7 +120,7 @@
    "airline_title": "Norse Atlantic UK",
    "logo": "https://pics.avs.io/600/150/Z0.png",
    "logo_tipo": "",
-   "price": 8977.0,
+   "price": 8978.0,
    "currency": "MXN",
    "departure_at": "2026-10-02T07:00:00-05:00",
    "return_at": "",
@@ -108,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX0210AYT1?t=Z017909244001791059400001710MEXJFKLGWBUDAYT_95bbc380233a6afb3fe26d4611c9f7bc_43098&search_date=08082026&expected_price_uuid=019fdfa5-a46e-8030-2cbf-e14e36b7ce6e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=o-MCpl9Rm5CIuCN6UUSyQw&expected_price_source=share&expected_price_currency=mxn&expected_price=8977",
    "title": "Flight deals from Mexico City to Antalya",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-antalya-20261002-95bbc380/"
-  },
-  {
-   "id": "f83026fcb46fd9af8cec9091822a934a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "ZG",
-   "airline_title": "ZIPAIR",
-   "logo": "https://pics.avs.io/600/150/ZG.png",
-   "logo_tipo": "",
-   "price": 12446.0,
-   "currency": "MXN",
-   "departure_at": "2027-03-08T05:50:00-06:00",
-   "return_at": "",
-   "duration": 1055,
-   "link": "https://www.aviasales.com/search/MEX0803TYO1?t=ZG18044850001804602300001055MEXLAXNRT_f83026fcb46fd9af8cec9091822a934a_59750&search_date=08082026&expected_price_uuid=019fdf59-8689-8040-236f-01bb84837e25&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gd-qzhxZVEF1CQcmqsFgjw&expected_price_source=share&expected_price_currency=mxn&expected_price=12446",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270308-f83026fc/"
   },
   {
    "id": "286976458a57a3d84493957526d37b2c",

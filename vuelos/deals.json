@@ -1,6 +1,6 @@
 {
- "generated_at": 1786183443.615298,
- "generated_at_str": "08/08/2026 04:04",
+ "generated_at": 1786187044.4924235,
+ "generated_at_str": "08/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "822d7b41ce22af1f5ca1b648577415ef",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 347.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-06T12:27:00-05:00",
+   "return_at": "",
+   "duration": 82,
+   "link": "https://www.aviasales.com/search/MEX0609PVR1?t=Y417886976201788702540000082TLCPVR_822d7b41ce22af1f5ca1b648577415ef_1665&search_date=08082026&expected_price_uuid=019fe102-d845-8051-2ffc-04ec4c3a56e2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=347",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260906-822d7b41/"
+  },
   {
    "id": "a6577217721a7e5c888f42825b4205dd",
    "kind": "flight",
@@ -28,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0109GDL1?t=Y417882923201788296460000069TLCGDL_a6577217721a7e5c888f42825b4205dd_1702&search_date=08082026&expected_price_uuid=019fe0a3-5d2b-8030-a9aa-6f1eb75ebc8f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaMWokBvOE0EMF_kdOTOEg&expected_price_source=share&expected_price_currency=mxn&expected_price=355",
    "title": "Flight deals from Mexico City to Guadalajara",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260901-a6577217/"
+  },
+  {
+   "id": "1025e2a48395b039d0093b46709fe52a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "VSA",
+   "destination_name": "Villahermosa",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1112.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-13T06:10:00-05:00",
+   "return_at": "",
+   "duration": 86,
+   "link": "https://www.aviasales.com/search/MEX1309VSA1?t=Y417892798001789284960000086MEXVSA_1025e2a48395b039d0093b46709fe52a_5338&search_date=08082026&expected_price_uuid=019fe0fa-c905-8050-a3bf-775813213e11&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=EEqjSE2nCo-g5AGMtvzC7w&expected_price_source=share&expected_price_currency=mxn&expected_price=1112",
+   "title": "Flight deals from Mexico City to Villahermosa",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20260913-1025e2a4/"
   },
   {
    "id": "5340b4aa6ddd0999a348663c11861736",
@@ -108,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX2001IST1?t=EI18004047001800560100002050MEXJFKDUBLHRSTNSAW_2f9bdee5aa54ab358f4429f4af88d7bf_36090&search_date=08082026&expected_price_uuid=019fe004-e1b2-8030-69c4-d99ecc4d1570&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=gnllBYd59dBZFm5E08r3PQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7518",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270120-2f9bdee5/"
-  },
-  {
-   "id": "95bbc380233a6afb3fe26d4611c9f7bc",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "AYT",
-   "destination_name": "Antalya",
-   "airline": "Z0",
-   "airline_title": "Norse Atlantic UK",
-   "logo": "https://pics.avs.io/600/150/Z0.png",
-   "logo_tipo": "",
-   "price": 8978.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-02T07:00:00-05:00",
-   "return_at": "",
-   "duration": 1710,
-   "link": "https://www.aviasales.com/search/MEX0210AYT1?t=Z017909244001791059400001710MEXJFKLGWBUDAYT_95bbc380233a6afb3fe26d4611c9f7bc_43098&search_date=08082026&expected_price_uuid=019fdfa5-a46e-8030-2cbf-e14e36b7ce6e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=o-MCpl9Rm5CIuCN6UUSyQw&expected_price_source=share&expected_price_currency=mxn&expected_price=8977",
-   "title": "Flight deals from Mexico City to Antalya",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-antalya-20261002-95bbc380/"
   },
   {
    "id": "286976458a57a3d84493957526d37b2c",

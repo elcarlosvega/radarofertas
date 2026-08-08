@@ -1,6 +1,6 @@
 {
- "generated_at": 1786151794.0669034,
- "generated_at_str": "07/08/2026 19:16",
+ "generated_at": 1786155005.557449,
+ "generated_at_str": "07/08/2026 20:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1800,7 +1800,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 4999.0
   },
@@ -38669,7 +38669,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 10599.0
   },
@@ -43143,24 +43143,6 @@
    "url": "https://www.coppel.com/pdp/refrigerador-aspix-una-puerta-7-pies-gris-rsds7pa-pm-6706773",
    "img": "https://cdn5.coppel.com/pm/6706773-1.jpg",
    "category": "Refrigeradores",
-   "price_old": 6999.0,
-   "price_new": 4499.0,
-   "pct": 35.7,
-   "amount": 2500.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 3,
-   "h_min": 4499.0,
-   "h_ayer": 4499.0
-  },
-  {
-   "id": "666394",
-   "name": "Estufa Aspix de Piso 20 Pulgadas con 4 Quemadores de Gas EG20PS-CC",
-   "url": "https://www.coppel.com/pdp/estufa-aspix-de-piso-20-pulgadas-con-4-quemadores-de-gas-eg20ps-cc-pm-6663943",
-   "img": "https://cdn5.coppel.com/pm/6663943-1.jpg",
-   "category": "Estufas",
    "price_old": 6999.0,
    "price_new": 4499.0,
    "pct": 35.7,
@@ -48279,6 +48261,24 @@
    "h_dias": 2,
    "h_min": 261.0,
    "h_ayer": 261.0
+  },
+  {
+   "id": "650935",
+   "name": "Lavasecadora LG Automática WD16SG2S6 16kg Plata",
+   "url": "https://www.coppel.com/pdp/lavasecadora-lg-automatica-wd16sg2s6-16kg-plata-pm-6509353",
+   "img": "https://cdn5.coppel.com/pm/6509353-1.jpg",
+   "category": "Lavasecadoras",
+   "price_old": 21999.0,
+   "price_new": 14399.0,
+   "pct": 34.5,
+   "amount": 7600.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 3,
+   "h_min": 14399.0,
+   "h_ayer": 14399.0
   },
   {
    "id": "222618",
@@ -54391,7 +54391,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 10399.0
   },
@@ -55870,6 +55870,24 @@
    "h_dias": 3,
    "h_min": 9799.0,
    "h_ayer": 9799.0
+  },
+  {
+   "id": "86231065",
+   "name": "Estufa de Gas Acros Afr2000b Negra de 30\"",
+   "url": "https://www.coppel.com/pdp/estufa-de-gas-acros-afr2000b-negra-de-30-mkp-86231065",
+   "img": "https://cdn5.coppel.com/mkp/86231065-1.jpg",
+   "category": "Estufas",
+   "price_old": 8849.0,
+   "price_new": 5979.0,
+   "pct": 32.4,
+   "amount": 2870.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786036520.4182937,
+   "h_dias": 3,
+   "h_min": 5979.0,
+   "h_ayer": 5979.0
   },
   {
    "id": "36403980",
@@ -60496,24 +60514,6 @@
    "h_ayer": 4699.0
   },
   {
-   "id": "665721",
-   "name": "Aire Acondicionado de Ventana Midea 3/4 Toneladas 110 V Solo Frío MAW08C1OUKC",
-   "url": "https://www.coppel.com/pdp/aire-acondicionado-de-ventana-midea-3/4-toneladas-110-v-solo-frio-maw08c1oukc-pm-6657213",
-   "img": "https://cdn5.coppel.com/pm/6657213-1.jpg",
-   "category": "Aires acond.",
-   "price_old": 5499.0,
-   "price_new": 3799.0,
-   "pct": 30.9,
-   "amount": 1700.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 3,
-   "h_min": 3799.0,
-   "h_ayer": 3799.0
-  },
-  {
    "id": "73901075",
    "name": "Procesador de Alimentos Kitchenaid Kfc0516cu de 5 Tazas color Plata",
    "url": "https://www.coppel.com/pdp/procesador-de-alimentos-kitchenaid-kfc0516cu-de-5-tazas-color-plata-mkp-73901075",
@@ -63625,23 +63625,6 @@
    "h_ayer": 20099.0
   },
   {
-   "id": "202864",
-   "name": "Celular Google Pixel 10 Pro Liberado 256 GB Negro",
-   "url": "https://www.coppel.com/pdp/celular-google-pixel-10-pro-liberado-256-gb-negro-pm-2028643",
-   "img": "https://cdn5.coppel.com/pm/2028643-1.jpg",
-   "category": "Celulares",
-   "price_old": 28499.0,
-   "price_new": 19949.0,
-   "pct": 30.0,
-   "amount": 8550.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786130108.0345998,
-   "h_dias": 1,
-   "h_min": 19949.0
-  },
-  {
    "id": "74281006",
    "name": "Máquina para Smoothies Gutstark 30 L",
    "url": "https://www.coppel.com/pdp/maquina-para-smoothies-gutstark-30-l-mkp-74281006",
@@ -64575,24 +64558,6 @@
    "h_dias": 3,
    "h_min": 6299.0,
    "h_ayer": 6299.0
-  },
-  {
-   "id": "244989",
-   "name": "Celular Samsung A55 5G Liberado 128 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-samsung-a55-5g-liberado-128-gb-azul-pm-2449893",
-   "img": "https://cdn5.coppel.com/pm/2449893-1.jpg",
-   "category": "Celulares",
-   "price_old": 8999.0,
-   "price_new": 6299.0,
-   "pct": 30.0,
-   "amount": 2700.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786104881.1405985,
-   "h_dias": 3,
-   "h_min": 6299.0,
-   "h_ayer": 6499.0
   },
   {
    "id": "203397",
@@ -66765,7 +66730,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 1400.0
   },
@@ -70976,6 +70941,24 @@
    "h_ayer": 1129.0
   },
   {
+   "id": "73981256",
+   "name": "Cafetera Coffemaker Panel Táctil 12 Tazas 2196292 Oster Plateado",
+   "url": "https://www.coppel.com/pdp/cafetera-coffemaker-panel-tactil-12-tazas-2196292-oster-plateado-mkp-73981256",
+   "img": "https://cdn5.coppel.com/mkp/73981256-1.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 1559.0,
+   "price_new": 1109.0,
+   "pct": 28.9,
+   "amount": 450.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 3,
+   "h_min": 1109.0,
+   "h_ayer": 1109.0
+  },
+  {
    "id": "73891004",
    "name": "Licuadora Oster Lite Soho 1.5 Litros Perilla Blanco VV",
    "url": "https://www.coppel.com/pdp/licuadora-oster-lite-soho-15-litros-perilla-blanco-vv-mkp-73891004",
@@ -73584,24 +73567,6 @@
    "h_ayer": 1499.0
   },
   {
-   "id": "73981256",
-   "name": "Cafetera Coffemaker Panel Táctil 12 Tazas 2196292 Oster Plateado",
-   "url": "https://www.coppel.com/pdp/cafetera-coffemaker-panel-tactil-12-tazas-2196292-oster-plateado-mkp-73981256",
-   "img": "https://cdn5.coppel.com/mkp/73981256-1.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 1553.0,
-   "price_new": 1109.0,
-   "pct": 28.6,
-   "amount": 444.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 3,
-   "h_min": 1109.0,
-   "h_ayer": 1109.0
-  },
-  {
    "id": "36403342",
    "name": "Bocina Bluetooth Recargable Daewoo Dw-222",
    "url": "https://www.coppel.com/pdp/bocina-bluetooth-recargable-daewoo-dw-222-mkp-36403342",
@@ -75417,23 +75382,6 @@
    "h_dias": 3,
    "h_min": 8999.0,
    "h_ayer": 8999.0
-  },
-  {
-   "id": "665932",
-   "name": "Minisplit Hisense Inverter 1 Tonelada 110 V Solo Frío ART121KA",
-   "url": "https://www.coppel.com/pdp/minisplit-hisense-inverter-1-tonelada-110-v-solo-frio-art121ka-pm-6659323",
-   "img": "https://cdn5.coppel.com/pm/6659323-1.jpg",
-   "category": "Aires acond.",
-   "price_old": 9299.0,
-   "price_new": 6699.0,
-   "pct": 28.0,
-   "amount": 2600.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786144554.4352684,
-   "h_dias": 1,
-   "h_min": 6699.0
   },
   {
    "id": "63151317",
@@ -78865,7 +78813,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 2899.0
   },
@@ -85266,7 +85214,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 3,
    "h_min": 42849.0,
    "h_ayer": 55289.0
@@ -85392,7 +85340,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 3,
    "h_min": 35299.0,
    "h_ayer": 47739.0
@@ -85464,7 +85412,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 3,
    "h_min": 32189.0,
    "h_ayer": 44629.0
@@ -85518,7 +85466,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 30829.0
   },
@@ -85535,7 +85483,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 30829.0
   },
@@ -85714,7 +85662,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 1,
    "h_min": 27089.0
   },
@@ -86127,7 +86075,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786151794.0669034,
+   "first_seen": 1786151805.9843369,
    "h_dias": 3,
    "h_min": 20619.0,
    "h_ayer": 20769.0
@@ -91817,24 +91765,6 @@
    "h_ayer": 609.0
   },
   {
-   "id": "36381350",
-   "name": "Audífonos Bluetooth Diadema Cancelación Ruido Belug  Negro",
-   "url": "https://www.coppel.com/pdp/audifonos-bluetooth-diadema-cancelacion-ruido-belug-negro-mkp-36381350",
-   "img": "https://cdn5.coppel.com/mkp/36381350-1.jpg",
-   "category": "Audifonos",
-   "price_old": 819.0,
-   "price_new": 609.0,
-   "pct": 25.6,
-   "amount": 210.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786018486.9799972,
-   "h_dias": 2,
-   "h_min": 609.0,
-   "h_ayer": 609.0
-  },
-  {
    "id": "36381349",
    "name": "Audífonos Bluetooth Diadema Cancelación Ruido Lab.g  Negro",
    "url": "https://www.coppel.com/pdp/audifonos-bluetooth-diadema-cancelacion-ruido-labg-negro-mkp-36381349",
@@ -92299,23 +92229,6 @@
    "h_dias": 2,
    "h_min": 7839.0,
    "h_ayer": 7839.0
-  },
-  {
-   "id": "670839",
-   "name": "Minisplit Midea PrimeGuard 1 Tonelada 220 V Frío y Calor MAS12H2EFRC",
-   "url": "https://www.coppel.com/pdp/minisplit-midea-primeguard-1-tonelada-220-v-frio-y-calor-mas12h2efrc-pm-6708393",
-   "img": "https://cdn5.coppel.com/pm/6708393-1.jpg",
-   "category": "Aires acond.",
-   "price_old": 7399.0,
-   "price_new": 5529.0,
-   "pct": 25.3,
-   "amount": 1870.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786097618.5047665,
-   "h_dias": 1,
-   "h_min": 5529.0
   },
   {
    "id": "748882997",
@@ -93591,10 +93504,10 @@
    "h_ayer": 8999.0
   },
   {
-   "id": "201157",
-   "name": "Celular Google Pixel 9a Liberado 128 GB Negro",
-   "url": "https://www.coppel.com/pdp/celular-google-pixel-9a-liberado-128-gb-negro-pm-2011573",
-   "img": "https://cdn5.coppel.com/pm/2011573-1.jpg",
+   "id": "201149",
+   "name": "Celular Google Pixel 9a Liberado 128 GB Lila",
+   "url": "https://www.coppel.com/pdp/celular-google-pixel-9a-liberado-128-gb-lila-pm-2011493",
+   "img": "https://cdn5.coppel.com/pm/2011493-1.jpg",
    "category": "Celulares",
    "price_old": 11999.0,
    "price_new": 8999.0,
@@ -93603,8 +93516,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786061708.1420915,
-   "h_dias": 2,
+   "first_seen": 1785967950.847778,
+   "h_dias": 3,
    "h_min": 8999.0,
    "h_ayer": 8999.0
   },
@@ -94110,24 +94023,6 @@
    "h_dias": 3,
    "h_min": 2999.0,
    "h_ayer": 2999.0
-  },
-  {
-   "id": "288935",
-   "name": "Pantalla Smart TV Hisense LED 32 Pulgadas HD 32A4NV",
-   "url": "https://www.coppel.com/pdp/pantalla-smart-tv-hisense-led-32-pulgadas-hd-32a4nv-pm-2889353",
-   "img": "https://cdn5.coppel.com/pm/2889353-1.jpg",
-   "category": "Pantallas",
-   "price_old": 3999.0,
-   "price_new": 2999.0,
-   "pct": 25.0,
-   "amount": 1000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786151794.0669034,
-   "h_dias": 3,
-   "h_min": 2799.0,
-   "h_ayer": 2799.0
   },
   {
    "id": "36404340",
@@ -94720,10 +94615,10 @@
    "h_min": 1499.0
   },
   {
-   "id": "278883",
-   "name": "Celular Zuum Magno P4 Liberado 64 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-zuum-magno-p4-liberado-64-gb-azul-pm-2788833",
-   "img": "https://cdn5.coppel.com/pm/2788833-1.jpg",
+   "id": "275851",
+   "name": "Celular Zuum Magno P4 Liberado 64 GB Morado",
+   "url": "https://www.coppel.com/pdp/celular-zuum-magno-p4-liberado-64-gb-morado-pm-2758513",
+   "img": "https://cdn5.coppel.com/pm/2758513-1.jpg",
    "category": "Celulares",
    "price_old": 1999.0,
    "price_new": 1499.0,
@@ -94732,8 +94627,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 3,
+   "first_seen": 1786036520.4182937,
+   "h_dias": 2,
    "h_min": 1499.0,
    "h_ayer": 1499.0
   },

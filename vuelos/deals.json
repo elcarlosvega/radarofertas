@@ -1,6 +1,6 @@
 {
- "generated_at": 1786158244.7210972,
- "generated_at_str": "07/08/2026 21:04",
+ "generated_at": 1786161844.0961428,
+ "generated_at_str": "07/08/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-francisco-20260915-e80174c9/"
   },
   {
-   "id": "b414d41b03574b00e3e27f5ab7fb4611",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 5664.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-17T23:51:00-06:00",
-   "return_at": "",
-   "duration": 1044,
-   "link": "https://www.aviasales.com/search/MEX1711BUE1?t=DM17949594601795032900001044NLUPUJEZE_b414d41b03574b00e3e27f5ab7fb4611_27189&search_date=07082026&expected_price_uuid=019fde93-4377-8030-640a-313c5bb7d43a&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=XhHDMF1pqSv66jdtqNdBmA&expected_price_source=share&expected_price_currency=mxn&expected_price=5664",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261117-b414d41b/"
-  },
-  {
    "id": "0e72151c857acdd2a6771a430649690e",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876016001787724000001140MEXMTYICN_5957d885550cbc0453e1b3185b535708_53101&search_date=07082026&expected_price_uuid=019fde84-c7e2-8030-2f59-2ebc7c1f03ec&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=riyA20YRInXaYbQaRuLtyg&expected_price_source=share&expected_price_currency=mxn&expected_price=11061",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260824-5957d885/"
+  },
+  {
+   "id": "f83026fcb46fd9af8cec9091822a934a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "ZG",
+   "airline_title": "ZIPAIR",
+   "logo": "https://pics.avs.io/600/150/ZG.png",
+   "logo_tipo": "",
+   "price": 12446.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-08T05:50:00-06:00",
+   "return_at": "",
+   "duration": 1055,
+   "link": "https://www.aviasales.com/search/MEX0803TYO1?t=ZG18044850001804602300001055MEXLAXNRT_f83026fcb46fd9af8cec9091822a934a_59750&search_date=08082026&expected_price_uuid=019fdf59-8689-8040-236f-01bb84837e25&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gd-qzhxZVEF1CQcmqsFgjw&expected_price_source=share&expected_price_currency=mxn&expected_price=12446",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270308-f83026fc/"
   },
   {
    "id": "65aa4624a2dd11645c9d676889e0c8c0",

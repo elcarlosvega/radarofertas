@@ -1,6 +1,6 @@
 {
- "generated_at": 1786190643.8746839,
- "generated_at_str": "08/08/2026 06:04",
+ "generated_at": 1786194244.1887503,
+ "generated_at_str": "08/08/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,24 +130,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seattle-20261014-77fa5499/"
   },
   {
-   "id": "2f9bdee5aa54ab358f4429f4af88d7bf",
+   "id": "ecc06f369ff96ae667d3b7afc58234d6",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
+   "destination": "BCN",
+   "destination_name": "Barcelona",
    "airline": "EI",
    "airline_title": "Aer Lingus",
    "logo": "https://pics.avs.io/600/113/EI.png",
    "logo_tipo": "",
-   "price": 7518.0,
+   "price": 7823.0,
    "currency": "MXN",
-   "departure_at": "2027-01-20T00:25:00-06:00",
+   "departure_at": "2026-11-06T00:45:00-06:00",
    "return_at": "",
-   "duration": 2050,
-   "link": "https://www.aviasales.com/search/MEX2001IST1?t=EI18004047001800560100002050MEXJFKDUBLHRSTNSAW_2f9bdee5aa54ab358f4429f4af88d7bf_36090&search_date=08082026&expected_price_uuid=019fe004-e1b2-8030-69c4-d99ecc4d1570&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=gnllBYd59dBZFm5E08r3PQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7518",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270120-2f9bdee5/"
+   "duration": 1940,
+   "link": "https://www.aviasales.com/search/MEX0611BCN1?t=EI17939259001794067500001940MEXJFKSNNLHRLGWBCN_ecc06f369ff96ae667d3b7afc58234d6_37557&search_date=08082026&expected_price_uuid=019fe13a-d5c6-8030-6d61-ba3d74ac1fb0&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ppZ2AeZhW4DCAY_eC1t5fQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7823",
+   "title": "Flight deals from Mexico City to Barcelona",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261106-ecc06f36/"
   },
   {
    "id": "309798e2eed9245ddb9d9fcba5c5f518",
@@ -168,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MTY1408MAD1?t=AM17867046001786770000000610MTYMAD_309798e2eed9245ddb9d9fcba5c5f518_42592&search_date=08082026&expected_price_uuid=019fe10c-98fd-8050-a171-cb3137568c2e&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=OdFOLg5zWgNMwCklV3IM9w&expected_price_source=share&expected_price_currency=mxn&expected_price=8872",
    "title": "Flight deals from Monterrey to Madrid",
    "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-madrid-20260814-309798e2/"
-  },
-  {
-   "id": "286976458a57a3d84493957526d37b2c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
-   "logo_tipo": "",
-   "price": 19816.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-06T04:55:00-06:00",
-   "return_at": "",
-   "duration": 1080,
-   "link": "https://www.aviasales.com/search/MEX0601BJS1?t=HU17992113001799326500001080MEXPEK_286976458a57a3d84493957526d37b2c_95129&search_date=08082026&expected_price_uuid=019fe005-9304-8030-2209-26aa2b739782&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=aLAJspuOL216dymyb6FwKA&expected_price_source=share&expected_price_currency=mxn&expected_price=19816",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20270106-28697645/"
   }
  ]
 }

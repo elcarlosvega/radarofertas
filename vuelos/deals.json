@@ -1,6 +1,6 @@
 {
- "generated_at": 1786187044.4924235,
- "generated_at_str": "08/08/2026 05:04",
+ "generated_at": 1786190643.8746839,
+ "generated_at_str": "08/08/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -20,12 +20,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 347.0,
+   "price": 340.0,
    "currency": "MXN",
    "departure_at": "2026-09-06T12:27:00-05:00",
    "return_at": "",
    "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX0609PVR1?t=Y417886976201788702540000082TLCPVR_822d7b41ce22af1f5ca1b648577415ef_1665&search_date=08082026&expected_price_uuid=019fe102-d845-8051-2ffc-04ec4c3a56e2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=347",
+   "link": "https://www.aviasales.com/search/MEX0609PVR1?t=Y417886976201788702540000082TLCPVR_822d7b41ce22af1f5ca1b648577415ef_1633&search_date=08082026&expected_price_uuid=019fe112-bc20-8030-6d81-437a78649e8f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=340",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260906-822d7b41/"
   },
@@ -148,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX2001IST1?t=EI18004047001800560100002050MEXJFKDUBLHRSTNSAW_2f9bdee5aa54ab358f4429f4af88d7bf_36090&search_date=08082026&expected_price_uuid=019fe004-e1b2-8030-69c4-d99ecc4d1570&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=gnllBYd59dBZFm5E08r3PQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7518",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270120-2f9bdee5/"
+  },
+  {
+   "id": "309798e2eed9245ddb9d9fcba5c5f518",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 8872.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-14T10:50:00-05:00",
+   "return_at": "",
+   "duration": 610,
+   "link": "https://www.aviasales.com/search/MTY1408MAD1?t=AM17867046001786770000000610MTYMAD_309798e2eed9245ddb9d9fcba5c5f518_42592&search_date=08082026&expected_price_uuid=019fe10c-98fd-8050-a171-cb3137568c2e&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=OdFOLg5zWgNMwCklV3IM9w&expected_price_source=share&expected_price_currency=mxn&expected_price=8872",
+   "title": "Flight deals from Monterrey to Madrid",
+   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-madrid-20260814-309798e2/"
   },
   {
    "id": "286976458a57a3d84493957526d37b2c",

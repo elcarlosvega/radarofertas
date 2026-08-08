@@ -1,6 +1,6 @@
 {
- "generated_at": 1786151044.7485206,
- "generated_at_str": "07/08/2026 19:04",
+ "generated_at": 1786154644.145244,
+ "generated_at_str": "07/08/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261229-0e72151c/"
   },
   {
-   "id": "661f05575be18e09535444dd1ca8fa92",
+   "id": "6233def3ef9e2eea51a00d1847d7c40f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "MU",
-   "airline_title": "China Eastern",
-   "logo": "https://pics.avs.io/600/150/MU.png",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 10134.0,
+   "price": 9930.0,
    "currency": "MXN",
-   "departure_at": "2026-09-16T19:45:00-05:00",
+   "departure_at": "2026-09-03T06:20:00-05:00",
    "return_at": "",
-   "duration": 2325,
-   "link": "https://www.aviasales.com/search/MEX1609BJS1?t=MU17895879001789777800002325MEXLAXPVGPKX_661f05575be18e09535444dd1ca8fa92_48655&search_date=07082026&expected_price_uuid=019fde20-f9ae-8030-28a3-996e8d9a1c59&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JszdSGBrZ7JMSwhCc89iDA&expected_price_source=share&expected_price_currency=mxn&expected_price=10134",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260916-661f0557/"
+   "duration": 1745,
+   "link": "https://www.aviasales.com/search/MEX0309DXB1?t=QR17884164001788557100001745MEXIAHDOHDXB_6233def3ef9e2eea51a00d1847d7c40f_47669&search_date=08082026&expected_price_uuid=019fdee9-715e-8040-645c-c490717eb814&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=P3uwovQGKtWVuRffQ3IyjQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9930",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260903-6233def3/"
   },
   {
    "id": "5957d885550cbc0453e1b3185b535708",

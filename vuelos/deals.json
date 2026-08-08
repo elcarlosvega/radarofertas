@@ -1,6 +1,6 @@
 {
- "generated_at": 1786219444.4301672,
- "generated_at_str": "08/08/2026 14:04",
+ "generated_at": 1786223044.9751492,
+ "generated_at_str": "08/08/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261101-3055276b/"
   },
   {
+   "id": "35dbda19d3b4c411d214e291101118f6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PTY",
+   "destination_name": "Ciudad de Panamá",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 4280.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-13T09:05:00-05:00",
+   "return_at": "",
+   "duration": 240,
+   "link": "https://www.aviasales.com/search/MEX1308PTY1?t=AM17866119001786629900000240MEXPTY_35dbda19d3b4c411d214e291101118f6_20546&search_date=08082026&expected_price_uuid=019fe323-97e3-8050-6cae-bc52e65da4f4&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=96xFaVwOHFh8vnKkGNAPLw&expected_price_source=share&expected_price_currency=mxn&expected_price=4280",
+   "title": "Flight deals from Mexico City to Panama City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-panama-20260813-35dbda19/"
+  },
+  {
    "id": "6d6145c281eaee450aaa32e776f5a94f",
    "kind": "flight",
    "origin": "MEX",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX1710PAR1?t=WS17921997001792324800001605MEXYYCCDG_6d6145c281eaee450aaa32e776f5a94f_28350&search_date=08082026&expected_price_uuid=019fe1de-55f4-8050-2236-c1f4078f7b8e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wiQZskZnGQ8RsonigMAgIg&expected_price_source=share&expected_price_currency=mxn&expected_price=5905",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261017-6d6145c2/"
-  },
-  {
-   "id": "551e87d05dceceefc47fa73838a13189",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAO",
-   "destination_name": "São Paulo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 5961.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-24T10:06:00-06:00",
-   "return_at": "",
-   "duration": 816,
-   "link": "https://www.aviasales.com/search/MEX2412SAO1?t=DM17981067601798166520000816NLUPUJGRU_551e87d05dceceefc47fa73838a13189_28616&search_date=08082026&expected_price_uuid=019fe1af-0d88-8050-aeb2-f77bbf294ab1&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=7-mV9rR2DhLcFQTuU6Yczw&expected_price_source=share&expected_price_currency=mxn&expected_price=5961",
-   "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261224-551e87d0/"
   },
   {
    "id": "0ea9be37bd89265f80210f6faf499e06",

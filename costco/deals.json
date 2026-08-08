@@ -1,6 +1,6 @@
 {
- "generated_at": 1786197919.6036544,
- "generated_at_str": "08/08/2026 08:05",
+ "generated_at": 1786201527.406102,
+ "generated_at_str": "08/08/2026 09:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1054,25 +1054,6 @@
    "h_dias": 6,
    "h_min": 159.0,
    "h_ayer": 159.0
-  },
-  {
-   "id": "703474",
-   "name": "Samsung Pantalla 100\" Neo QLED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-100-Neo-QLED-4K-Smart-TV/p/703474",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h40/h54/452879727624222.jpg",
-   "category": "Electronicos",
-   "price_old": 114899.0,
-   "price_new": 79899.0,
-   "pct": 30.5,
-   "amount": 35000.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785855967.2127938,
-   "h_dias": 11,
-   "h_min": 78999.0,
-   "h_ayer": 79899.0,
-   "h_min7": 78999.0
   },
   {
    "id": "685135",
@@ -2944,7 +2925,7 @@
    "starts": "2026-08-08T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786197919.6036544,
+   "first_seen": 1786197926.7340262,
    "h_dias": 11,
    "h_min": 5999.0,
    "h_ayer": 6499.0,
@@ -4603,7 +4584,7 @@
    "starts": "2026-08-08T06:00:00.000Z",
    "ends": "2026-09-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786197919.6036544,
+   "first_seen": 1786197926.7340262,
    "h_dias": 9,
    "h_min": 6399.0,
    "h_ayer": 6399.0,
@@ -9685,6 +9666,25 @@
    "h_min7": 2249.25
   },
   {
+   "id": "699440",
+   "name": "Emporio Armani EA4233U61808053 Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Emporio-Armani-EA4233U61808053-Lentes-de-Sol/p/699440",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h13/hd8/333970082496542.jpg",
+   "category": "Optica",
+   "price_old": 2999.0,
+   "price_new": 2249.25,
+   "pct": 25.0,
+   "amount": 749.75,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 8,
+   "h_min": 2249.25,
+   "h_ayer": 2249.25,
+   "h_min7": 2249.25
+  },
+  {
    "id": "699439",
    "name": "Emporio Armani 0EA4223U50018756 Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Emporio-Armani-0EA4223U50018756-Lentes-de-Sol/p/699439",
@@ -14673,7 +14673,7 @@
    "starts": "2026-08-08T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786197919.6036544,
+   "first_seen": 1786197926.7340262,
    "h_dias": 11,
    "h_min": 8499.0,
    "h_ayer": 8999.0,
@@ -15724,7 +15724,7 @@
    "starts": "2026-08-08T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786197919.6036544,
+   "first_seen": 1786197926.7340262,
    "h_dias": 1,
    "h_min": 14999.0
   },
@@ -18340,6 +18340,24 @@
    "h_min7": 14999.0
   },
   {
+   "id": "704300",
+   "name": "Homelegance, Driggs, Sofá Cama Ajustable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Homelegance-Driggs-Sofa-Cama-Ajustable/p/704300",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/he2/435741541531678.jpg",
+   "category": "Muebles",
+   "price_old": 17999.0,
+   "price_new": 14999.0,
+   "pct": 16.7,
+   "amount": 3000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 6,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0
+  },
+  {
    "id": "688037",
    "name": "Universal Broadmoore, Cama Tamaño Queen Con Dosel",
    "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Universal-Broadmoore-Cama-Tamano-Queen-Con-Dosel/p/688037",
@@ -19710,6 +19728,25 @@
    "h_min": 17999.0,
    "h_ayer": 19549.15,
    "h_min7": 19549.15
+  },
+  {
+   "id": "1987546",
+   "name": "Northridge Home, Aurora Falls, Juego de Comedor de 5 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Mesas-y-Escritorios/Mesas-de-Comedor/Northridge-Home-Aurora-Falls-Juego-de-Comedor-de-5-Piezas/p/1987546",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h12/h44/433695677972510.jpg",
+   "category": "Muebles",
+   "price_old": 19999.0,
+   "price_new": 16999.0,
+   "pct": 15.0,
+   "amount": 3000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785767644.2723773,
+   "h_dias": 11,
+   "h_min": 15999.0,
+   "h_ayer": 16999.0,
+   "h_min7": 15999.0
   },
   {
    "id": "1356714",
@@ -22176,24 +22213,6 @@
    "h_min": 24899.0,
    "h_ayer": 25999.0,
    "h_min7": 24899.0
-  },
-  {
-   "id": "694441",
-   "name": "Violanti, Sofá Cama de 3 Plazas Beige",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama-de-3-Plazas-Beige/p/694441",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h01/he4/436931142418462.jpg",
-   "category": "Muebles",
-   "price_old": 29999.0,
-   "price_new": 26999.0,
-   "pct": 10.0,
-   "amount": 3000.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785765949.4169288,
-   "h_dias": 3,
-   "h_min": 26999.0,
-   "h_ayer": 26999.0
   },
   {
    "id": "702818",

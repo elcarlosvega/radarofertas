@@ -1,6 +1,6 @@
 {
- "generated_at": 1786194244.1887503,
- "generated_at_str": "08/08/2026 07:04",
+ "generated_at": 1786197844.3545825,
+ "generated_at_str": "08/08/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -168,6 +168,46 @@
    "link": "https://www.aviasales.com/search/MTY1408MAD1?t=AM17867046001786770000000610MTYMAD_309798e2eed9245ddb9d9fcba5c5f518_42592&search_date=08082026&expected_price_uuid=019fe10c-98fd-8050-a171-cb3137568c2e&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=OdFOLg5zWgNMwCklV3IM9w&expected_price_source=share&expected_price_currency=mxn&expected_price=8872",
    "title": "Flight deals from Monterrey to Madrid",
    "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-madrid-20260814-309798e2/"
+  },
+  {
+   "id": "bf1b9db9845c8dfc3a43dc4a2d5acfb4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "MU",
+   "airline_title": "China Eastern",
+   "logo": "https://pics.avs.io/600/150/MU.png",
+   "logo_tipo": "",
+   "price": 10700.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-10T17:15:00-05:00",
+   "return_at": "",
+   "duration": 2475,
+   "link": "https://www.aviasales.com/search/MEX1009BJS1?t=MU17890605001789259400002475NLUGDLLAXPVGPKX_bf1b9db9845c8dfc3a43dc4a2d5acfb4_51367&search_date=08082026&expected_price_uuid=019fe18b-f80f-8050-a560-334a413c0b48&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7bRpR0jiPTiqPfJO6i78Rg&expected_price_source=share&expected_price_currency=mxn&expected_price=10700",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260910-bf1b9db9/"
+  },
+  {
+   "id": "922ae15379335e5c0adbf07daff63972",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SHA",
+   "destination_name": "Shanghái",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 21842.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-10T04:50:00-05:00",
+   "return_at": "",
+   "duration": 1450,
+   "link": "https://www.aviasales.com/search/MEX1008SHA1?t=HU17863374001786474800001450MEXPEKSHA_922ae15379335e5c0adbf07daff63972_104857&search_date=08082026&expected_price_uuid=019fe187-c8ec-8050-6b40-d6a571829a6e&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=UHPT3CQNY50Sm6oXsaR2ZA&expected_price_source=share&expected_price_currency=mxn&expected_price=21842",
+   "title": "Flight deals from Mexico City to Shanghai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260810-922ae153/"
   }
  ]
 }

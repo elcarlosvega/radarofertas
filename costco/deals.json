@@ -1,6 +1,6 @@
 {
- "generated_at": 1786233921.8485172,
- "generated_at_str": "08/08/2026 18:05",
+ "generated_at": 1786237523.268468,
+ "generated_at_str": "08/08/2026 19:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -229,25 +229,6 @@
    "h_min": 14499.0,
    "h_ayer": 14499.0,
    "h_min7": 14499.0
-  },
-  {
-   "id": "696053",
-   "name": "Samsung Lavavajillas 14 Servicios",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Samsung-Lavavajillas-14-Servicios/p/696053",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/he9/368805627887646.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 12499.0,
-   "price_new": 8399.0,
-   "pct": 32.8,
-   "amount": 4100.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785942357.5107403,
-   "h_dias": 8,
-   "h_min": 8399.0,
-   "h_ayer": 8399.0,
-   "h_min7": 8399.0
   },
   {
    "id": "694361",
@@ -887,6 +868,24 @@
    "h_min": 16999.0,
    "h_ayer": 16999.0,
    "h_min7": 16999.0
+  },
+  {
+   "id": "677711",
+   "name": "Samsung Lavavajillas Bespoke AI 15 Servicios Blanco",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Samsung-Lavavajillas-Bespoke-AI-15-Servicios-Blanco/p/677711",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h80/h82/154358771089438.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17999.0,
+   "price_new": 12499.0,
+   "pct": 30.6,
+   "amount": 5500.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785791154.601712,
+   "h_dias": 6,
+   "h_min": 12499.0,
+   "h_ayer": 12499.0
   },
   {
    "id": "703478",
@@ -11603,6 +11602,24 @@
    "h_ayer": 1124.25
   },
   {
+   "id": "700975",
+   "name": "Enrico Coveri ECV188 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Enrico-Coveri-ECV188-Armazon-Oftalmico/p/700975",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h87/h5b/485803730862110.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 6,
+   "h_min": 1124.25,
+   "h_ayer": 1124.25
+  },
+  {
    "id": "700971",
    "name": "Enrico Coveri ECV185 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Enrico-Coveri-ECV185-Armazon-Oftalmico/p/700971",
@@ -20031,6 +20048,25 @@
    "h_min": 26999.0,
    "h_ayer": 28999.0,
    "h_min7": 26999.0
+  },
+  {
+   "id": "1695585",
+   "name": "Universal Broadmoore, Consola Decorativa",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Consolas-para-TV/Universal-Broadmoore-Consola-Decorativa/p/1695585",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/hf1/350710924115998.jpg",
+   "category": "Muebles",
+   "price_old": 16999.0,
+   "price_new": 14499.0,
+   "pct": 14.7,
+   "amount": 2500.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785773151.0946755,
+   "h_dias": 11,
+   "h_min": 13599.0,
+   "h_ayer": 14499.0,
+   "h_min7": 13599.0
   },
   {
    "id": "1812618",

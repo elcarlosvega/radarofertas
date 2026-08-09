@@ -1,6 +1,6 @@
 {
- "generated_at": 1786298644.4145236,
- "generated_at_str": "09/08/2026 12:04",
+ "generated_at": 1786302243.402622,
+ "generated_at_str": "09/08/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,7 +50,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260916-dde91942/"
   },
   {
-   "id": "df4132028b463a8a067f7b18565e4fb2",
+   "id": "3f3c6332756f61292be3ad002dd2eaa5",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +60,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 3036.0,
+   "price": 2872.0,
    "currency": "MXN",
-   "departure_at": "2027-01-15T06:33:00-06:00",
+   "departure_at": "2026-12-09T08:25:00-06:00",
    "return_at": "",
-   "duration": 454,
-   "link": "https://www.aviasales.com/search/MEX1501GUA1?t=Y417999947801800022020000454NLUGDLGUA_df4132028b463a8a067f7b18565e4fb2_14254&search_date=09082026&expected_price_uuid=019fe686-2f66-8051-2d1d-bcb26630a02e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=UeYBPbZK07cNc2BmmtZIZw&expected_price_source=share&expected_price_currency=mxn&expected_price=3036",
+   "duration": 317,
+   "link": "https://www.aviasales.com/search/MEX0912GUA1?t=Y417968047001796823720000317TLCCUNGUA_3f3c6332756f61292be3ad002dd2eaa5_13484&search_date=09082026&expected_price_uuid=019fe797-e957-8050-ef57-d28976188061&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=h1rg3lhyqV7LL_cISX1Zog&expected_price_source=share&expected_price_currency=mxn&expected_price=2872",
    "title": "Flight deals from Mexico City to Guatemala City",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20270115-df413202/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20261209-3f3c6332/"
   },
   {
    "id": "374ca0e5efcaf5f3b30639142b44db3d",

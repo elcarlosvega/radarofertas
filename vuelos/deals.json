@@ -1,6 +1,6 @@
 {
- "generated_at": 1786248244.0064714,
- "generated_at_str": "08/08/2026 22:04",
+ "generated_at": 1786251843.7002356,
+ "generated_at_str": "08/08/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX2008SAO1?t=DM17872203601787280600000824NLUPUJGRU_9fb21143e102f760ba4c4e4e616ea567_30277&search_date=08082026&expected_price_uuid=019fe3b9-6a7e-8040-689f-e5bcb744c01d&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=p0b1CiDkprQbYkYsg_3ygA&expected_price_source=share&expected_price_currency=mxn&expected_price=6307",
    "title": "Flight deals from Mexico City to Sao Paulo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20260820-9fb21143/"
-  },
-  {
-   "id": "560283113a65d50d9bfd906500459d9f",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 6313.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-15T10:35:00-05:00",
-   "return_at": "",
-   "duration": 470,
-   "link": "https://www.aviasales.com/search/MEX1508HAV1?t=VB17867901001786825500000470NLUMTYHAV_560283113a65d50d9bfd906500459d9f_30309&search_date=08082026&expected_price_uuid=019fe380-f3a8-8050-a280-46fe2b02d012&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=dFyoh6R9ZSQ67zcFbAnCJg&expected_price_source=share&expected_price_currency=mxn&expected_price=6313",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260815-56028311/"
   },
   {
    "id": "286b6fa7a42cadf8ad367fd62bdf6c0a",
@@ -168,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX2008IST1?t=TK17872164001787307600000980MEXIST_5c499b8e0e963e652f07d622e110ac86_107872&search_date=08082026&expected_price_uuid=019fe3ba-bfab-8051-2413-cfe9f9bfba99&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=22470",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260820-5c499b8e/"
-  },
-  {
-   "id": "7c729e5ed3aae75291b9bcf47220606e",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 22726.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-25T05:47:00-05:00",
-   "return_at": "",
-   "duration": 1173,
-   "link": "https://www.aviasales.com/search/MTY2508IST1?t=TK17876368201787739600001173MTYMEXIST_7c729e5ed3aae75291b9bcf47220606e_109098&search_date=08082026&expected_price_uuid=019fe371-fcc5-8050-ed7f-4308db6a5f1d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ISpi1zc_i1cjfXIStA3s2w&expected_price_source=share&expected_price_currency=mxn&expected_price=22726",
-   "title": "Flight deals from Monterrey to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-monterrey-estambul-20260825-7c729e5e/"
   }
  ]
 }

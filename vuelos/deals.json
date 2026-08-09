@@ -1,6 +1,6 @@
 {
- "generated_at": 1786241044.0169475,
- "generated_at_str": "08/08/2026 20:04",
+ "generated_at": 1786244644.8555162,
+ "generated_at_str": "08/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1609LIM1?t=Y417895960001789621260000361MEXLIM_c186f2cd240c569fe1400fe08bf1807b_14100&search_date=09082026&expected_price_uuid=019fe3f5-7723-8040-204d-10b91d4eb6d9&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FrV8QeGc0AJmB7JQ370aXA&expected_price_source=share&expected_price_currency=mxn&expected_price=2937",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260916-c186f2cd/"
-  },
-  {
-   "id": "35dbda19d3b4c411d214e291101118f6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PTY",
-   "destination_name": "Ciudad de Panamá",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 4280.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-13T09:05:00-05:00",
-   "return_at": "",
-   "duration": 240,
-   "link": "https://www.aviasales.com/search/MEX1308PTY1?t=AM17866119001786629900000240MEXPTY_35dbda19d3b4c411d214e291101118f6_20546&search_date=08082026&expected_price_uuid=019fe323-97e3-8050-6cae-bc52e65da4f4&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=96xFaVwOHFh8vnKkGNAPLw&expected_price_source=share&expected_price_currency=mxn&expected_price=4280",
-   "title": "Flight deals from Mexico City to Panama City",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-panama-20260813-35dbda19/"
   },
   {
    "id": "9fb21143e102f760ba4c4e4e616ea567",
@@ -168,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX0201TYO1?t=NH17988696001798977300000895MEXNRT_2f8ff73e4e96472fe7fb35cedf445904_74045&search_date=08082026&expected_price_uuid=019fe3b7-4a4e-8030-6283-47833ffa3bf3&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=fD_Slw-kyVXUod74B1fWKw&expected_price_source=share&expected_price_currency=mxn&expected_price=15424",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270102-2f8ff73e/"
+  },
+  {
+   "id": "4d19500cfd6c0116c17467c25258e8e0",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUD",
+   "destination_name": "Buda",
+   "airline": "IB",
+   "airline_title": "Iberia",
+   "logo": "https://pics.avs.io/600/150/IB.png",
+   "logo_tipo": "",
+   "price": 15560.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-11T19:00:00-05:00",
+   "return_at": "",
+   "duration": 960,
+   "link": "https://www.aviasales.com/search/MEX1108BUD1?t=IB17864748001786561200000960MEXMADBUD_4d19500cfd6c0116c17467c25258e8e0_74698&search_date=09082026&expected_price_uuid=019fe424-dbfb-8030-a877-b29b9fb672ee&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=oYnhdrwOme0c7TUfwqLTZA&expected_price_source=share&expected_price_currency=mxn&expected_price=15560",
+   "title": "Flight deals from Mexico City to Budapest",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buda-20260811-4d19500c/"
   },
   {
    "id": "5c499b8e0e963e652f07d622e110ac86",

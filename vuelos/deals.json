@@ -1,6 +1,6 @@
 {
- "generated_at": 1786233844.999627,
- "generated_at_str": "08/08/2026 18:04",
+ "generated_at": 1786237443.895633,
+ "generated_at_str": "08/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "c186f2cd240c569fe1400fe08bf1807b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2937.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T22:00:00-05:00",
+   "return_at": "",
+   "duration": 361,
+   "link": "https://www.aviasales.com/search/MEX1609LIM1?t=Y417895960001789621260000361MEXLIM_c186f2cd240c569fe1400fe08bf1807b_14100&search_date=09082026&expected_price_uuid=019fe3f5-7723-8040-204d-10b91d4eb6d9&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FrV8QeGc0AJmB7JQ370aXA&expected_price_source=share&expected_price_currency=mxn&expected_price=2937",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260916-c186f2cd/"
+  },
   {
    "id": "35dbda19d3b4c411d214e291101118f6",
    "kind": "flight",
@@ -50,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20260820-9fb21143/"
   },
   {
-   "id": "0ea9be37bd89265f80210f6faf499e06",
+   "id": "560283113a65d50d9bfd906500459d9f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +80,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 6370.0,
+   "price": 6313.0,
    "currency": "MXN",
-   "departure_at": "2027-01-21T10:30:00-06:00",
+   "departure_at": "2026-08-15T10:35:00-05:00",
    "return_at": "",
-   "duration": 1222,
-   "link": "https://www.aviasales.com/search/MEX2101HAV1?t=VB18005274001800604320001222MEXCUNHAV_0ea9be37bd89265f80210f6faf499e06_30579&search_date=08082026&expected_price_uuid=019fe2b1-dbb5-8051-246f-7beebcde3bcf&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=XNyuCvS870wRGAxNjv1dYQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6370",
+   "duration": 470,
+   "link": "https://www.aviasales.com/search/MEX1508HAV1?t=VB17867901001786825500000470NLUMTYHAV_560283113a65d50d9bfd906500459d9f_30309&search_date=08082026&expected_price_uuid=019fe380-f3a8-8050-a280-46fe2b02d012&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=dFyoh6R9ZSQ67zcFbAnCJg&expected_price_source=share&expected_price_currency=mxn&expected_price=6313",
    "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20270121-0ea9be37/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260815-56028311/"
   },
   {
    "id": "42c2762107808a22cb6ef9a5743bbf1a",
@@ -90,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261107-42c27621/"
   },
   {
-   "id": "ad7c45135cc67753ef10e200c66392ea",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
-   "logo_tipo": "",
-   "price": 10603.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-24T06:30:00-05:00",
-   "return_at": "",
-   "duration": 2560,
-   "link": "https://www.aviasales.com/search/MEX2408BJS1?t=HU17875530001787757000002560NLUGDLLAXSEAPEK_ad7c45135cc67753ef10e200c66392ea_50903&search_date=08082026&expected_price_uuid=019fe2ab-8b0e-8050-a224-ce3ab36bb3aa&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=RgfmBtv4b0l-t3BUXpjpBw&expected_price_source=share&expected_price_currency=mxn&expected_price=10603",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260824-ad7c4513/"
-  },
-  {
    "id": "286b6fa7a42cadf8ad367fd62bdf6c0a",
    "kind": "flight",
    "origin": "MEX",
@@ -130,24 +130,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261105-286b6fa7/"
   },
   {
-   "id": "aadb91e2ed99dbbf263a7b409775ef30",
+   "id": "3e4e0462660322f3185d128d73b93623",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BKK",
-   "destination_name": "Bangkok",
-   "airline": "UA",
-   "airline_title": "United Airlines",
-   "logo": "https://pics.avs.io/600/150/UA.png",
+   "destination": "BEG",
+   "destination_name": "Belgrado",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 11853.0,
+   "price": 11390.0,
    "currency": "MXN",
-   "departure_at": "2026-08-24T06:30:00-05:00",
+   "departure_at": "2026-09-27T19:25:00-05:00",
    "return_at": "",
-   "duration": 2285,
-   "link": "https://www.aviasales.com/search/MEX2408BKK1?t=UA17875530001787736900002285NLUGDLLAXSFOHKGBKK_aadb91e2ed99dbbf263a7b409775ef30_56900&search_date=08082026&expected_price_uuid=019fe2a2-f531-8051-24ea-6a8b31d3b81f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=aOQ785GWdXm3f14YgORHug&expected_price_source=share&expected_price_currency=mxn&expected_price=11853",
-   "title": "Flight deals from Mexico City to Bangkok",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20260824-aadb91e2/"
+   "duration": 2745,
+   "link": "https://www.aviasales.com/search/MEX2709BEG1?t=AM17905371001790730600002745MEXFCOLINBGYBEG_3e4e0462660322f3185d128d73b93623_54678&search_date=09082026&expected_price_uuid=019fe3d8-a351-8050-65b6-e731beaa2549&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=4KTi9W5RfSGUcyI098YTMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11390",
+   "title": "Flight deals from Mexico City to Belgrade",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20260927-3e4e0462/"
   },
   {
    "id": "2f8ff73e4e96472fe7fb35cedf445904",

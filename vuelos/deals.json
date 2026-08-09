@@ -1,6 +1,6 @@
 {
- "generated_at": 1786262643.8042035,
- "generated_at_str": "09/08/2026 02:04",
+ "generated_at": 1786266244.1280475,
+ "generated_at_str": "09/08/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "22f89e1a8f4e3440c0b144b2f6548d07",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 12935.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-20T23:05:00-06:00",
+   "return_at": "",
+   "duration": 1165,
+   "link": "https://www.aviasales.com/search/MEX2001DXB1?t=AF18004863001800592200001165MEXCDGDXB_22f89e1a8f4e3440c0b144b2f6548d07_62094&search_date=09082026&expected_price_uuid=019fe594-b078-8030-af1f-ec62e546c6c1&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=12935",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270120-22f89e1a/"
+  },
   {
    "id": "ba05dc89f1a85af51e6b3cb72373e734",
    "kind": "flight",
@@ -60,12 +80,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 30620.0,
+   "price": 31236.0,
    "currency": "MXN",
    "departure_at": "2026-08-11T09:00:00-05:00",
    "return_at": "",
    "duration": 1410,
-   "link": "https://www.aviasales.com/search/MEX1108ALA1?t=TK17864388001786563000001410MEXISTALA_4f276e32d4237e051d56bf2ce92a80f2_146994&search_date=09082026&expected_price_uuid=019fe577-be47-8040-aeef-1c42a6a4c0fb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GToTPkPIsHkxnoqL2mAMMw&expected_price_source=share&expected_price_currency=mxn&expected_price=30620",
+   "link": "https://www.aviasales.com/search/MEX1108ALA1?t=TK17864388001786563000001410MEXISTALA_4f276e32d4237e051d56bf2ce92a80f2_149953&search_date=09082026&expected_price_uuid=019fe57d-6a2c-8040-6d2c-a6ce27e14662&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GToTPkPIsHkxnoqL2mAMMw&expected_price_source=share&expected_price_currency=mxn&expected_price=31236",
    "title": "Flight deals from Mexico City to Almaty",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20260811-4f276e32/"
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1786280644.2445304,
- "generated_at_str": "09/08/2026 07:04",
+ "generated_at": 1786284243.4299686,
+ "generated_at_str": "09/08/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -150,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270120-22f89e1a/"
   },
   {
-   "id": "2f8ff73e4e96472fe7fb35cedf445904",
+   "id": "8bc5aaf2ce11f032a0dd22d4a00ae9bd",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "TYO",
    "destination_name": "Tokio",
-   "airline": "NH",
-   "airline_title": "All Nippon Airways",
-   "logo": "https://pics.avs.io/600/150/NH.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 15424.0,
+   "price": 17467.0,
    "currency": "MXN",
-   "departure_at": "2027-01-02T06:00:00-06:00",
+   "departure_at": "2027-01-26T20:05:00-06:00",
    "return_at": "",
-   "duration": 895,
-   "link": "https://www.aviasales.com/search/MEX0201TYO1?t=NH17988696001798977300000895MEXNRT_2f8ff73e4e96472fe7fb35cedf445904_74045&search_date=09082026&expected_price_uuid=019fe56e-437e-8051-2550-baba03b3ff73&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=fD_Slw-kyVXUod74B1fWKw&expected_price_source=share&expected_price_currency=mxn&expected_price=15424",
+   "duration": 1520,
+   "link": "https://www.aviasales.com/search/MEX2601TYO1?t=AM18009939001801139100001520MEXICNNRT_8bc5aaf2ce11f032a0dd22d4a00ae9bd_83171&search_date=09082026&expected_price_uuid=019fe64a-c3b1-8030-efdc-8697899268bf&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=XRB3MzkN1poknGBU59Kf5w&expected_price_source=share&expected_price_currency=mxn&expected_price=17467",
    "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270102-2f8ff73e/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270126-8bc5aaf2/"
   },
   {
    "id": "9e55fcb6ad9f3b93d5118754c721385f",
@@ -188,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX1401BJS1?t=HU17999025001800017700001080MEXPEK_9e55fcb6ad9f3b93d5118754c721385f_91515&search_date=09082026&expected_price_uuid=019fe647-9c31-8030-afbe-9bd4d1b27aaa&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=aLAJspuOL216dymyb6FwKA&expected_price_source=share&expected_price_currency=mxn&expected_price=19219",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20270114-9e55fcb6/"
-  },
-  {
-   "id": "4f276e32d4237e051d56bf2ce92a80f2",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ALA",
-   "destination_name": "Alma Ata",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 31236.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-11T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1410,
-   "link": "https://www.aviasales.com/search/MEX1108ALA1?t=TK17864388001786563000001410MEXISTALA_4f276e32d4237e051d56bf2ce92a80f2_149953&search_date=09082026&expected_price_uuid=019fe57d-6a2c-8040-6d2c-a6ce27e14662&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GToTPkPIsHkxnoqL2mAMMw&expected_price_source=share&expected_price_currency=mxn&expected_price=31236",
-   "title": "Flight deals from Mexico City to Almaty",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20260811-4f276e32/"
   }
  ]
 }

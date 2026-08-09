@@ -1,6 +1,6 @@
 {
- "generated_at": 1786305843.507006,
- "generated_at_str": "09/08/2026 14:04",
+ "generated_at": 1786309444.9775891,
+ "generated_at_str": "09/08/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1609MID1?t=Y417895804001789586820000107NLUMID_dde919425e4aa5793b15df75a12d3d2f_2375&search_date=09082026&expected_price_uuid=019fe737-d937-8030-2ce6-105b5d820046&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSpAB1q94DjIO_XahoeDpg&expected_price_source=share&expected_price_currency=mxn&expected_price=506",
    "title": "Flight deals from Mexico City to Merida",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260916-dde91942/"
+  },
+  {
+   "id": "1c1ea0ebd6be97dead5e069819c30582",
+   "kind": "flight",
+   "origin": "VER",
+   "origin_name": "Veracruz",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 713.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-22T08:30:00-05:00",
+   "return_at": "",
+   "duration": 70,
+   "link": "https://www.aviasales.com/search/VER2208MEX1?t=AM17873874001787391600000070VERNLU_1c1ea0ebd6be97dead5e069819c30582_3347&search_date=09082026&expected_price_uuid=019fe841-117a-8040-a411-f40968cc00d0&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aKGL6kgBdH8DFZD08Ol8vg&expected_price_source=share&expected_price_currency=mxn&expected_price=713",
+   "title": "Flight deals from Veracruz to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-veracruz-ciudad-de-mexico-20260822-1c1ea0eb/"
   },
   {
    "id": "c9d491cb1614fbba891b689af3af5ee8",
@@ -130,26 +150,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261017-6d6145c2/"
   },
   {
-   "id": "2977c7776c69b4fafe7df6e9105a986b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11310.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-23T20:00:00-05:00",
-   "return_at": "",
-   "duration": 1140,
-   "link": "https://www.aviasales.com/search/MEX2308SEL1?t=AM17875152001787637600001140MEXMTYICN_2977c7776c69b4fafe7df6e9105a986b_53101&search_date=09082026&expected_price_uuid=019fe6db-20b9-8050-e742-6e03a41eef0d&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=riyA20YRInXaYbQaRuLtyg&expected_price_source=share&expected_price_currency=mxn&expected_price=11310",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260823-2977c777/"
-  },
-  {
    "id": "9050df34bdbeb05867ff0faef154c46d",
    "kind": "flight",
    "origin": "MEX",
@@ -205,7 +205,7 @@
    "departure_at": "2026-08-25T05:47:00-05:00",
    "return_at": "",
    "duration": 1173,
-   "link": "https://www.aviasales.com/search/MTY2508IST1?t=TK17876368201787739600001173MTYMEXIST_7c729e5ed3aae75291b9bcf47220606e_109680&search_date=09082026&expected_price_uuid=019fe76a-1126-8051-2da9-c0167692c061&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ISpi1zc_i1cjfXIStA3s2w&expected_price_source=share&expected_price_currency=mxn&expected_price=23361",
+   "link": "https://www.aviasales.com/search/MTY2508IST1?t=TK17876368201787739600001173MTYMEXIST_7c729e5ed3aae75291b9bcf47220606e_109680&search_date=09082026&expected_price_uuid=019fe820-c805-8050-a8c2-cac78dbe90b4&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ISpi1zc_i1cjfXIStA3s2w&expected_price_source=share&expected_price_currency=mxn&expected_price=23361",
    "title": "Flight deals from Monterrey to Istanbul",
    "micro": "/oferta/vuelos/vuelo-monterrey-estambul-20260825-7c729e5e/"
   }

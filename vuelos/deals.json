@@ -1,6 +1,6 @@
 {
- "generated_at": 1786327444.249582,
- "generated_at_str": "09/08/2026 20:04",
+ "generated_at": 1786331044.6279922,
+ "generated_at_str": "09/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "1c1ea0ebd6be97dead5e069819c30582",
-   "kind": "flight",
-   "origin": "VER",
-   "origin_name": "Veracruz",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 703.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-22T08:30:00-05:00",
-   "return_at": "",
-   "duration": 70,
-   "link": "https://www.aviasales.com/search/VER2208MEX1?t=AM17873874001787391600000070VERNLU_1c1ea0ebd6be97dead5e069819c30582_3347&search_date=09082026&expected_price_uuid=019fe841-117a-8040-a411-f40968cc00d0&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aKGL6kgBdH8DFZD08Ol8vg&expected_price_source=share&expected_price_currency=mxn&expected_price=703",
-   "title": "Flight deals from Veracruz to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-veracruz-ciudad-de-mexico-20260822-1c1ea0eb/"
-  },
   {
    "id": "9165cccd74b5b111e6ef44473f1fc440",
    "kind": "flight",
@@ -48,46 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0110CUN1?t=VB17908766401790888400000136TLCCUN_9165cccd74b5b111e6ef44473f1fc440_3754&search_date=09082026&expected_price_uuid=019fe8ba-2185-8040-6c97-a19ba5cc4f2b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=788",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261001-9165cccd/"
-  },
-  {
-   "id": "21d56962e46c3fba2d7d36aed3b604df",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4092.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-07T23:34:00-05:00",
-   "return_at": "",
-   "duration": 526,
-   "link": "https://www.aviasales.com/search/MEX0709MDE1?t=DM17888240401788859200000526NLUSDQMDE_21d56962e46c3fba2d7d36aed3b604df_19489&search_date=09082026&expected_price_uuid=019fe855-debf-8050-e145-d2cc6baf2b6d&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=6qcf9JfwJFWraqcI8zABaA&expected_price_source=share&expected_price_currency=mxn&expected_price=4092",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20260907-21d56962/"
-  },
-  {
-   "id": "16f9878ed9fe2b96797d8cd174111ec6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LIM",
-   "destination_name": "Lima",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 4228.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-07T22:00:00-05:00",
-   "return_at": "",
-   "duration": 361,
-   "link": "https://www.aviasales.com/search/MEX0709LIM1?t=Y417888184001788843660000361MEXLIM_16f9878ed9fe2b96797d8cd174111ec6_20135&search_date=09082026&expected_price_uuid=019fe852-2df1-8050-61b5-a95a0a27e81a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=FrV8QeGc0AJmB7JQ370aXA&expected_price_source=share&expected_price_currency=mxn&expected_price=4228",
-   "title": "Flight deals from Mexico City to Lima",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260907-16f9878e/"
   },
   {
    "id": "560283113a65d50d9bfd906500459d9f",

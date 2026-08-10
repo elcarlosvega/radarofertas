@@ -54,14 +54,14 @@
    "micro_pages": 88
   },
   "elektra": {
-   "last_attempt": 1786385042.7455273,
-   "items": 1690,
-   "status": "ok",
-   "reason": "",
+   "last_attempt": 1786388642.6789775,
+   "items": 0,
+   "status": "down",
+   "reason": "The read operation timed out",
    "host": "pc",
    "last_complete_sweep": 1786385042.7455273,
    "micro_pages": 25
   }
  },
- "updated_at": 1786388837.8634925
+ "updated_at": 1786388888.1056826
 }

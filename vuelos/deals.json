@@ -1,6 +1,6 @@
 {
- "generated_at": 1786323844.2902248,
- "generated_at_str": "09/08/2026 19:04",
+ "generated_at": 1786327444.249582,
+ "generated_at_str": "09/08/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "049e7115cbcfff87ead40a3a6dd32dcb",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 335.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-17T12:27:00-05:00",
-   "return_at": "",
-   "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX1709PVR1?t=Y417896480201789652940000082TLCPVR_049e7115cbcfff87ead40a3a6dd32dcb_1596&search_date=09082026&expected_price_uuid=019fe80e-9980-8040-2e70-2ec9d1a49998&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=335",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260917-049e7115/"
-  },
   {
    "id": "1c1ea0ebd6be97dead5e069819c30582",
    "kind": "flight",
@@ -68,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0110CUN1?t=VB17908766401790888400000136TLCCUN_9165cccd74b5b111e6ef44473f1fc440_3754&search_date=09082026&expected_price_uuid=019fe8ba-2185-8040-6c97-a19ba5cc4f2b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=788",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261001-9165cccd/"
-  },
-  {
-   "id": "c9d491cb1614fbba891b689af3af5ee8",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LAP",
-   "destination_name": "La Paz",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 808.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-17T15:45:00-05:00",
-   "return_at": "",
-   "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX1710LAP1?t=VB17922519001792256520000137NLULAP_c9d491cb1614fbba891b689af3af5ee8_3846&search_date=09082026&expected_price_uuid=019fe7fb-8b0e-8030-6be0-78e4cd64e28a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sj-7u32ocC57TrELlEnoRg&expected_price_source=share&expected_price_currency=mxn&expected_price=808",
-   "title": "Flight deals from Mexico City to La Paz",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20261017-c9d491cb/"
   },
   {
    "id": "21d56962e46c3fba2d7d36aed3b604df",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1786382148.843371,
- "generated_at_str": "10/08/2026 11:15",
+ "generated_at": 1786385430.695844,
+ "generated_at_str": "10/08/2026 12:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -887,6 +887,24 @@
    "h_dias": 5,
    "h_min": 150.0,
    "h_ayer": 150.0
+  },
+  {
+   "id": "747693479",
+   "name": "Laptop Dell Latitude 7300 13.3'' Intel Core I5-8365u 16gb Ram 256gb Ssd Windows 11 Pro Negro Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-7300-133-intel-core-i5-8365u-16gb-ram-256gb-ssd-windows-11-pro-negro-reacondicionado-mkp-747693479",
+   "img": "https://cdn5.coppel.com/mkp/747693479-1.jpg",
+   "category": "Laptops",
+   "price_old": 12999.0,
+   "price_new": 4899.0,
+   "pct": 62.3,
+   "amount": 8100.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786385430.695844,
+   "h_dias": 6,
+   "h_min": 4899.0,
+   "h_ayer": 6999.0
   },
   {
    "id": "747911443",
@@ -4345,24 +4363,6 @@
    "h_ayer": 329.0
   },
   {
-   "id": "746312719",
-   "name": "Genérica Combo Kids Smartwach Con Audifonos Bluetooth Diseño De Kuromi X Cinnanmorroll",
-   "url": "https://www.coppel.com/pdp/combo-kids-smartwach-con-audifonos-bluetooth-diseno-de-kuromi-x-cinnanmorroll-mkp-746312719",
-   "img": "https://cdn5.coppel.com/mkp/746312719-1.jpg",
-   "category": "Smartwatches",
-   "price_old": 550.0,
-   "price_new": 259.0,
-   "pct": 52.9,
-   "amount": 291.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 259.0,
-   "h_ayer": 259.0
-  },
-  {
    "id": "299958",
    "name": "Audífonos de Diadema Inalámbricos EVL BH-611",
    "url": "https://www.coppel.com/pdp/audifonos-de-diadema-inalambricos-evl-bh-611-pm-2999583",
@@ -7183,7 +7183,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786382148.843371,
+   "first_seen": 1786382161.742944,
    "h_dias": 1,
    "h_min": 32770.0
   },
@@ -18366,6 +18366,23 @@
    "h_ayer": 2099.0
   },
   {
+   "id": "749234526",
+   "name": "Honor Play 10 3+64gb Midnight Black / Negro Medianoche",
+   "url": "https://www.coppel.com/pdp/honor-play-10-364gb-midnight-black-/-negro-medianoche-mkp-749234526",
+   "img": "https://cdn5.coppel.com/mkp/749234526-1.jpg",
+   "category": "Celulares",
+   "price_old": 3999.0,
+   "price_new": 2099.0,
+   "pct": 47.5,
+   "amount": 1900.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786382161.742944,
+   "h_dias": 1,
+   "h_min": 2099.0
+  },
+  {
    "id": "749234525",
    "name": "Honor Play 10 3+64gb Ocean Cyan/azul Cian",
    "url": "https://www.coppel.com/pdp/honor-play-10-364gb-ocean-cyan/azul-cian-mkp-749234525",
@@ -18379,23 +18396,6 @@
    "ends": "",
    "in_stock": true,
    "first_seen": 1786378444.2879024,
-   "h_dias": 1,
-   "h_min": 2099.0
-  },
-  {
-   "id": "749234526",
-   "name": "Honor Play 10 3+64gb Midnight Black / Negro Medianoche",
-   "url": "https://www.coppel.com/pdp/honor-play-10-364gb-midnight-black-/-negro-medianoche-mkp-749234526",
-   "img": "https://cdn5.coppel.com/mkp/749234526-1.jpg",
-   "category": "Celulares",
-   "price_old": 3999.0,
-   "price_new": 2099.0,
-   "pct": 47.5,
-   "amount": 1900.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786382148.843371,
    "h_dias": 1,
    "h_min": 2099.0
   },
@@ -21549,24 +21549,6 @@
    "h_ayer": 6999.0
   },
   {
-   "id": "747693479",
-   "name": "Laptop Dell Latitude 7300 13.3'' Intel Core I5-8365u 16gb Ram 256gb Ssd Windows 11 Pro Negro Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-7300-133-intel-core-i5-8365u-16gb-ram-256gb-ssd-windows-11-pro-negro-reacondicionado-mkp-747693479",
-   "img": "https://cdn5.coppel.com/mkp/747693479-1.jpg",
-   "category": "Laptops",
-   "price_old": 12999.0,
-   "price_new": 6999.0,
-   "pct": 46.2,
-   "amount": 6000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 4999.0,
-   "h_ayer": 6999.0
-  },
-  {
    "id": "74623970",
    "name": "Motorola Edge 50 Fusión 256gb 8gb Ram Verde Azulado",
    "url": "https://www.coppel.com/pdp/motorola-edge-50-fusion-256gb-8gb-ram-verde-azulado-mkp-74623970",
@@ -22881,24 +22863,6 @@
    "h_ayer": 5999.0
   },
   {
-   "id": "47172209",
-   "name": "Laptop Dell Latitude 5410- 14'' Intel Core I5-10a Gen 8 GB RAM 500 GB HDD Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5410-14-intel-core-i5-10a-gen-8-gb-ram-500-gb-hdd-reacondicionado-mkp-47172209",
-   "img": "https://cdn5.coppel.com/mkp/47172209-1.jpg",
-   "category": "Laptops",
-   "price_old": 10999.0,
-   "price_new": 5999.0,
-   "pct": 45.5,
-   "amount": 5000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 5999.0,
-   "h_ayer": 5999.0
-  },
-  {
    "id": "73892570",
    "name": "Licuadora Ninja Touchscreen Ct610 color Negro",
    "url": "https://www.coppel.com/pdp/licuadora-ninja-touchscreen-ct610-color-negro-mkp-73892570",
@@ -22929,7 +22893,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786382148.843371,
+   "first_seen": 1786382161.742944,
    "h_dias": 6,
    "h_min": 839.0,
    "h_ayer": 839.0
@@ -23547,6 +23511,24 @@
    "h_ayer": 599.0
   },
   {
+   "id": "747381241",
+   "name": "Laptop Apple Macbook Air 2020 De 13.3'' Chip Apple M1 8gb Ram 128gb Ssd Gris Espacial Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-apple-macbook-air-2020-de-133-chip-apple-m1-8gb-ram-128gb-ssd-gris-espacial-reacondicionado-mkp-747381241",
+   "img": "https://cdn5.coppel.com/mkp/747381241-1.jpg",
+   "category": "Laptops",
+   "price_old": 14999.0,
+   "price_new": 8199.0,
+   "pct": 45.3,
+   "amount": 6800.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786385430.695844,
+   "h_dias": 5,
+   "h_min": 8199.0,
+   "h_ayer": 9999.0
+  },
+  {
    "id": "670537",
    "name": "Lavadora TCL Automática TTL20G 20 kg Negra",
    "url": "https://www.coppel.com/pdp/lavadora-tcl-automatica-ttl20g-20-kg-negra-pm-6705373",
@@ -23923,6 +23905,42 @@
    "h_dias": 6,
    "h_min": 5499.0,
    "h_ayer": 5499.0
+  },
+  {
+   "id": "747914195",
+   "name": "Laptop Hp Elitebook 645 G9 14'' Ryzen 5 Pro 5675u 16gb Ram 256gb Ssd Win 11 Pro Plata Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-645-g9-14-ryzen-5-pro-5675u-16gb-ram-256gb-ssd-win-11-pro-plata-reacondicionado-mkp-747914195",
+   "img": "https://cdn5.coppel.com/mkp/747914195-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 5499.0,
+   "pct": 45.0,
+   "amount": 4500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786385430.695844,
+   "h_dias": 6,
+   "h_min": 5499.0,
+   "h_ayer": 6999.0
+  },
+  {
+   "id": "747711135",
+   "name": "Laptop Dell Latitude 5420 14'' Táctil Intel Core I5-1145G7 16 GB RAM 256 GB SSD Windows 11 Pro Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5420-14-tactil-intel-core-i5-1145g7-16-gb-ram-256-gb-ssd-windows-11-pro-reacondicionado-mkp-747711135",
+   "img": "https://cdn5.coppel.com/mkp/747711135-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 5499.0,
+   "pct": 45.0,
+   "amount": 4500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 6,
+   "h_min": 5499.0,
+   "h_ayer": 6999.0
   },
   {
    "id": "748097266",
@@ -25255,23 +25273,6 @@
    "h_dias": 6,
    "h_min": 15999.0,
    "h_ayer": 15999.0
-  },
-  {
-   "id": "749225995",
-   "name": "Laptop Hp 14' Hd Intel Celeron N150 4gb Ram 128gb Ufs Color Rosa",
-   "url": "https://www.coppel.com/pdp/laptop-hp-14-hd-intel-celeron-n150-4gb-ram-128gb-ufs-color-rosa-mkp-749225995",
-   "img": "https://cdn5.coppel.com/mkp/749225995-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 5569.0,
-   "pct": 44.3,
-   "amount": 4430.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786382148.843371,
-   "h_dias": 1,
-   "h_min": 5569.0
   },
   {
    "id": "207602",
@@ -26911,6 +26912,23 @@
    "h_ayer": 8499.0
   },
   {
+   "id": "749225995",
+   "name": "Laptop Hp 14' Hd Intel Celeron N150 4gb Ram 128gb Ufs Color Rosa",
+   "url": "https://www.coppel.com/pdp/laptop-hp-14-hd-intel-celeron-n150-4gb-ram-128gb-ufs-color-rosa-mkp-749225995",
+   "img": "https://cdn5.coppel.com/mkp/749225995-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 5669.0,
+   "pct": 43.3,
+   "amount": 4330.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786385430.695844,
+   "h_dias": 1,
+   "h_min": 5569.0
+  },
+  {
    "id": "36402169",
    "name": "Bocina 8 Recagable Kaiser Msa-7530mx color Gris Luz Multicolor",
    "url": "https://www.coppel.com/pdp/bocina-8-recagable-kaiser-msa-7530mx-color-gris-luz-multicolor-mkp-36402169",
@@ -27556,23 +27574,6 @@
    "h_dias": 6,
    "h_min": 7999.0,
    "h_ayer": 7999.0
-  },
-  {
-   "id": "749226000",
-   "name": "Laptop Hp 14 Dq6104dx 4gb Ram 128gb Ufs Intel N150 W11home Morado",
-   "url": "https://www.coppel.com/pdp/laptop-hp-14-dq6104dx-4gb-ram-128gb-ufs-intel-n150-w11home-morado-mkp-749226000",
-   "img": "https://cdn5.coppel.com/mkp/749226000-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 5709.0,
-   "pct": 42.9,
-   "amount": 4290.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786382148.843371,
-   "h_dias": 1,
-   "h_min": 5709.0
   },
   {
    "id": "36403201",
@@ -29535,6 +29536,23 @@
    "h_dias": 6,
    "h_min": 7549.0,
    "h_ayer": 7549.0
+  },
+  {
+   "id": "749226000",
+   "name": "Laptop Hp 14 Dq6104dx 4gb Ram 128gb Ufs Intel N150 W11home Morado",
+   "url": "https://www.coppel.com/pdp/laptop-hp-14-dq6104dx-4gb-ram-128gb-ufs-intel-n150-w11home-morado-mkp-749226000",
+   "img": "https://cdn5.coppel.com/mkp/749226000-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 5809.0,
+   "pct": 41.9,
+   "amount": 4190.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786385430.695844,
+   "h_dias": 1,
+   "h_min": 5709.0
   },
   {
    "id": "747680533",
@@ -33370,24 +33388,6 @@
    "h_ayer": 2063.0
   },
   {
-   "id": "283036",
-   "name": "Bocina Bluetooth JBL CHARGE Essential 2 30 W Resistente al Agua",
-   "url": "https://www.coppel.com/pdp/bocina-bluetooth-jbl-charge-essential-2-30-w-resistente-al-agua-pm-2830363",
-   "img": "https://cdn5.coppel.com/pm/2830363-1.jpg",
-   "category": "Bocinas",
-   "price_old": 3299.0,
-   "price_new": 1979.0,
-   "pct": 40.0,
-   "amount": 1320.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 1979.0,
-   "h_ayer": 1979.0
-  },
-  {
    "id": "747651667",
    "name": "Cuory Monitor Curvo 24 Pulgadas Hdmi Full Hd Pantalla 100 Hz Negro",
    "url": "https://www.coppel.com/pdp/monitor-curvo-24-pulgadas-hdmi-full-hd-pantalla-100-hz-negro-mkp-747651667",
@@ -36224,7 +36224,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786382148.843371,
+   "first_seen": 1786382161.742944,
    "h_dias": 1,
    "h_min": 820.0
   },
@@ -39397,24 +39397,6 @@
    "h_ayer": 11299.0
   },
   {
-   "id": "278204",
-   "name": "Celular Samsung A16 Liberado 128 GB Gris",
-   "url": "https://www.coppel.com/pdp/celular-samsung-a16-liberado-128-gb-gris-pm-2782043",
-   "img": "https://cdn5.coppel.com/pm/2782043-1.jpg",
-   "category": "Celulares",
-   "price_old": 4299.0,
-   "price_new": 2699.0,
-   "pct": 37.2,
-   "amount": 1600.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786346109.6502774,
-   "h_dias": 3,
-   "h_min": 2699.0,
-   "h_ayer": 2999.0
-  },
-  {
    "id": "278192",
    "name": "Celular Samsung A16 Liberado 128 GB Verde",
    "url": "https://www.coppel.com/pdp/celular-samsung-a16-liberado-128-gb-verde-pm-2781923",
@@ -41250,10 +41232,10 @@
    "h_ayer": 349.0
   },
   {
-   "id": "279032",
-   "name": "Celular Samsung Galaxy S25 Ultra Liberado 256 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-ultra-liberado-256-gb-azul-pm-2790323",
-   "img": "https://cdn5.coppel.com/pm/2790323-1.jpg",
+   "id": "279065",
+   "name": "Celular Samsung Galaxy S25 Ultra Liberado 256 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-ultra-liberado-256-gb-negro-pm-2790653",
+   "img": "https://cdn5.coppel.com/pm/2790653-1.jpg",
    "category": "Celulares",
    "price_old": 32999.0,
    "price_new": 20999.0,
@@ -41262,7 +41244,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786169383.119597,
+   "first_seen": 1786176594.9597435,
    "h_dias": 6,
    "h_min": 20999.0,
    "h_ayer": 20999.0
@@ -43102,10 +43084,10 @@
    "h_ayer": 17999.0
   },
   {
-   "id": "240659",
-   "name": "Celular Motorola Moto G67 Liberado 256 GB Gris",
-   "url": "https://www.coppel.com/pdp/celular-motorola-moto-g67-liberado-256-gb-gris-pm-2406593",
-   "img": "https://cdn5.coppel.com/pm/2406593-1.jpg",
+   "id": "240642",
+   "name": "Celular Motorola Moto G67 Liberado 256 GB Lima",
+   "url": "https://www.coppel.com/pdp/celular-motorola-moto-g67-liberado-256-gb-lima-pm-2406423",
+   "img": "https://cdn5.coppel.com/pm/2406423-1.jpg",
    "category": "Celulares",
    "price_old": 6999.0,
    "price_new": 4499.0,
@@ -43114,7 +43096,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786169383.119597,
+   "first_seen": 1786176594.9597435,
    "h_dias": 5,
    "h_min": 4499.0,
    "h_ayer": 4499.0
@@ -45748,24 +45730,6 @@
    "h_ayer": 2599.0
   },
   {
-   "id": "37251202",
-   "name": "Lab.G Proyector Profesional Vegoos Android Wifi Led 1080p 6000 Lm Color Blanco",
-   "url": "https://www.coppel.com/pdp/proyector-profesional-vegoos-android-wifi-led-1080p-6000-lm-color-blanco-mkp-37251202",
-   "img": "https://cdn5.coppel.com/mkp/37251202-1.jpg",
-   "category": "Proyectores",
-   "price_old": 3465.0,
-   "price_new": 2252.0,
-   "pct": 35.0,
-   "amount": 1213.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 2252.0,
-   "h_ayer": 2252.0
-  },
-  {
    "id": "140051",
    "name": "Procesador de Alimentos Oster ActiFit+ 2 Velocidades 3 Accesorios",
    "url": "https://www.coppel.com/pdp/procesador-de-alimentos-oster-actifit-2-velocidades-3-accesorios-pm-1400513",
@@ -47564,23 +47528,6 @@
    "h_dias": 6,
    "h_min": 715.0,
    "h_ayer": 715.0
-  },
-  {
-   "id": "749226232",
-   "name": "Laptop Asus Vivobook 15.6' Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
-   "url": "https://www.coppel.com/pdp/laptop-asus-vivobook-156-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra-mkp-749226232",
-   "img": "https://cdn5.coppel.com/mkp/749226232-1.jpg",
-   "category": "Laptops",
-   "price_old": 14999.0,
-   "price_new": 9779.0,
-   "pct": 34.8,
-   "amount": 5220.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786378444.2879024,
-   "h_dias": 1,
-   "h_min": 9779.0
   },
   {
    "id": "285162",
@@ -49580,10 +49527,10 @@
    "h_ayer": 6599.0
   },
   {
-   "id": "749161718",
-   "name": "Apple Ipad Mini 7.9 Wifi 64gb Plata Reacondicionado",
-   "url": "https://www.coppel.com/pdp/apple-ipad-mini-79-wifi-64gb-plata-reacondicionado-mkp-749161718",
-   "img": "https://cdn5.coppel.com/mkp/749161718-1.jpg",
+   "id": "749161719",
+   "name": "Apple Ipad Mini 7.9 5 Gen Wifi 64gb Gris Reacondicionado",
+   "url": "https://www.coppel.com/pdp/apple-ipad-mini-79-5-gen-wifi-64gb-gris-reacondicionado-mkp-749161719",
+   "img": "https://cdn5.coppel.com/mkp/749161719-1.jpg",
    "category": "Tablets",
    "price_old": 9399.0,
    "price_new": 6199.0,
@@ -49598,10 +49545,10 @@
    "h_ayer": 6199.0
   },
   {
-   "id": "749161719",
-   "name": "Apple Ipad Mini 7.9 5 Gen Wifi 64gb Gris Reacondicionado",
-   "url": "https://www.coppel.com/pdp/apple-ipad-mini-79-5-gen-wifi-64gb-gris-reacondicionado-mkp-749161719",
-   "img": "https://cdn5.coppel.com/mkp/749161719-1.jpg",
+   "id": "749161718",
+   "name": "Apple Ipad Mini 7.9 Wifi 64gb Plata Reacondicionado",
+   "url": "https://www.coppel.com/pdp/apple-ipad-mini-79-wifi-64gb-plata-reacondicionado-mkp-749161718",
+   "img": "https://cdn5.coppel.com/mkp/749161718-1.jpg",
    "category": "Tablets",
    "price_old": 9399.0,
    "price_new": 6199.0,
@@ -52529,24 +52476,6 @@
    "h_dias": 6,
    "h_min": 11999.0,
    "h_ayer": 11999.0
-  },
-  {
-   "id": "747381241",
-   "name": "Laptop Apple Macbook Air 2020 De 13.3'' Chip Apple M1 8gb Ram 128gb Ssd Gris Espacial Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-apple-macbook-air-2020-de-133-chip-apple-m1-8gb-ram-128gb-ssd-gris-espacial-reacondicionado-mkp-747381241",
-   "img": "https://cdn5.coppel.com/mkp/747381241-1.jpg",
-   "category": "Laptops",
-   "price_old": 14999.0,
-   "price_new": 9999.0,
-   "pct": 33.3,
-   "amount": 5000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786054712.876249,
-   "h_dias": 5,
-   "h_min": 9999.0,
-   "h_ayer": 9999.0
   },
   {
    "id": "73542699",
@@ -56031,7 +55960,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786382148.843371,
+   "first_seen": 1786382161.742944,
    "h_dias": 6,
    "h_min": 3999.0,
    "h_ayer": 4299.0
@@ -57297,10 +57226,10 @@
    "h_ayer": 7499.0
   },
   {
-   "id": "229736",
+   "id": "229728",
    "name": "Celular Motorola Edge 70 Fusion Liberado 256 GB Azul + Audífonos",
-   "url": "https://www.coppel.com/pdp/celular-motorola-edge-70-fusion-liberado-256-gb-azul-audifonos-pm-2297363",
-   "img": "https://cdn5.coppel.com/pm/2297363-1.jpg",
+   "url": "https://www.coppel.com/pdp/celular-motorola-edge-70-fusion-liberado-256-gb-azul-audifonos-pm-2297283",
+   "img": "https://cdn5.coppel.com/pm/2297283-1.jpg",
    "category": "Celulares",
    "price_old": 10999.0,
    "price_new": 7499.0,
@@ -57309,7 +57238,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786176594.9597435,
+   "first_seen": 1786202119.0035107,
    "h_dias": 5,
    "h_min": 7499.0,
    "h_ayer": 7499.0
@@ -58051,23 +57980,6 @@
    "h_dias": 6,
    "h_min": 12199.0,
    "h_ayer": 12199.0
-  },
-  {
-   "id": "749226231",
-   "name": "Laptop Lenovo V14 G4 14' Fhd Intel Core I7-13620h 8gb Ram 256gb Ssd",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-v14-g4-14-fhd-intel-core-i7-13620h-8gb-ram-256gb-ssd-mkp-749226231",
-   "img": "https://cdn5.coppel.com/mkp/749226231-1.jpg",
-   "category": "Laptops",
-   "price_old": 15999.0,
-   "price_new": 10959.0,
-   "pct": 31.5,
-   "amount": 5040.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786378444.2879024,
-   "h_dias": 1,
-   "h_min": 10959.0
   },
   {
    "id": "74211466",
@@ -59922,23 +59834,6 @@
    "h_dias": 6,
    "h_min": 6899.0,
    "h_ayer": 6899.0
-  },
-  {
-   "id": "749225998",
-   "name": "Laptop Hp 14.0' Hd Led Intel Celeron N150 4 Gb Ram 128 Gb Ufs Rosa",
-   "url": "https://www.coppel.com/pdp/laptop-hp-140-hd-led-intel-celeron-n150-4-gb-ram-128-gb-ufs-rosa-mkp-749225998",
-   "img": "https://cdn5.coppel.com/mkp/749225998-1.jpg",
-   "category": "Laptops",
-   "price_old": 6999.0,
-   "price_new": 4829.0,
-   "pct": 31.0,
-   "amount": 2170.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786382148.843371,
-   "h_dias": 1,
-   "h_min": 4829.0
   },
   {
    "id": "747544943",
@@ -63898,10 +63793,10 @@
    "h_ayer": 6999.0
   },
   {
-   "id": "747914195",
-   "name": "Laptop Hp Elitebook 645 G9 14'' Ryzen 5 Pro 5675u 16gb Ram 256gb Ssd Win 11 Pro Plata Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-645-g9-14-ryzen-5-pro-5675u-16gb-ram-256gb-ssd-win-11-pro-plata-reacondicionado-mkp-747914195",
-   "img": "https://cdn5.coppel.com/mkp/747914195-1.jpg",
+   "id": "226095",
+   "name": "Laptop Asus L1404FA-NK286W 14 Pulgadas Windows 11 AMD Ryzen 3 8 GB RAM 512 GB SSD Negra",
+   "url": "https://www.coppel.com/pdp/laptop-asus-l1404fa-nk286w-14-pulgadas-windows-11-amd-ryzen-3-8-gb-ram-512-gb-ssd-negra-pm-2260953",
+   "img": "https://cdn5.coppel.com/pm/2260953-1.jpg",
    "category": "Laptops",
    "price_old": 9999.0,
    "price_new": 6999.0,
@@ -63911,27 +63806,8 @@
    "ends": "",
    "in_stock": true,
    "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 6999.0,
-   "h_ayer": 6999.0
-  },
-  {
-   "id": "747711135",
-   "name": "Laptop Dell Latitude 5420 14'' Táctil Intel Core I5-1145G7 16 GB RAM 256 GB SSD Windows 11 Pro Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5420-14-tactil-intel-core-i5-1145g7-16-gb-ram-256-gb-ssd-windows-11-pro-reacondicionado-mkp-747711135",
-   "img": "https://cdn5.coppel.com/mkp/747711135-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 6999.0,
-   "pct": 30.0,
-   "amount": 3000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786050914.3841865,
-   "h_dias": 6,
-   "h_min": 5499.0,
-   "h_ayer": 6999.0
+   "h_dias": 5,
+   "h_min": 6999.0
   },
   {
    "id": "260976",
@@ -68414,24 +68290,6 @@
    "h_dias": 5,
    "h_min": 9732.0,
    "h_ayer": 9732.0
-  },
-  {
-   "id": "747910865",
-   "name": "TechPad Laptop Tech Pad Notebook Cosmos 13 Pro + Audífonos Inalámbricos",
-   "url": "https://www.coppel.com/pdp/laptop-tech-pad-notebook-cosmos-13-pro-audifonos-inalambricos-mkp-747910865",
-   "img": "https://cdn5.coppel.com/mkp/747910865-1.jpg",
-   "category": "Laptops",
-   "price_old": 6380.0,
-   "price_new": 4499.0,
-   "pct": 29.5,
-   "amount": 1881.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786137306.3790543,
-   "h_dias": 4,
-   "h_min": 4499.0,
-   "h_ayer": 4499.0
   },
   {
    "id": "299803",
@@ -72986,10 +72844,10 @@
    "h_ayer": 1999.0
   },
   {
-   "id": "275469",
-   "name": "Celular Zuum Aura Z3 Liberado 128 GB Gris",
-   "url": "https://www.coppel.com/pdp/celular-zuum-aura-z3-liberado-128-gb-gris-pm-2754693",
-   "img": "https://cdn5.coppel.com/pm/2754693-1.jpg",
+   "id": "275452",
+   "name": "Celular Zuum Aura Z3 Liberado 128 GB Dorado",
+   "url": "https://www.coppel.com/pdp/celular-zuum-aura-z3-liberado-128-gb-dorado-pm-2754523",
+   "img": "https://cdn5.coppel.com/pm/2754523-1.jpg",
    "category": "Celulares",
    "price_old": 2799.0,
    "price_new": 1999.0,
@@ -72998,7 +72856,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785964414.7510617,
+   "first_seen": 1785967950.847778,
    "h_dias": 6,
    "h_min": 1999.0,
    "h_ayer": 1999.0
@@ -74028,23 +73886,6 @@
    "h_dias": 6,
    "h_min": 429.0,
    "h_ayer": 429.0
-  },
-  {
-   "id": "749225895",
-   "name": "Laptop Acer Helios Neo 16 Oled Intel Core Ultra 9 Nvidia Rtx 5070 32gb Ram 1tb Ssd Negra",
-   "url": "https://www.coppel.com/pdp/laptop-acer-helios-neo-16-oled-intel-core-ultra-9-nvidia-rtx-5070-32gb-ram-1tb-ssd-negra-mkp-749225895",
-   "img": "https://cdn5.coppel.com/mkp/749225895-1.jpg",
-   "category": "Laptops",
-   "price_old": 70999.0,
-   "price_new": 50869.0,
-   "pct": 28.4,
-   "amount": 20130.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786378444.2879024,
-   "h_dias": 1,
-   "h_min": 50869.0
   },
   {
    "id": "227504",
@@ -81561,26 +81402,9 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786382148.843371,
+   "first_seen": 1786382161.742944,
    "h_dias": 1,
    "h_min": 19199.0
-  },
-  {
-   "id": "749226225",
-   "name": "Laptop Lenovo Ideapad Slim 3 15.3' Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-ideapad-slim-3-153-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris-mkp-749226225",
-   "img": "https://cdn5.coppel.com/mkp/749226225-1.jpg",
-   "category": "Laptops",
-   "price_old": 19999.0,
-   "price_new": 14769.0,
-   "pct": 26.2,
-   "amount": 5230.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786382148.843371,
-   "h_dias": 1,
-   "h_min": 14769.0
   },
   {
    "id": "669172",
@@ -87265,7 +87089,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786382148.843371,
+   "first_seen": 1786382161.742944,
    "h_dias": 1,
    "h_min": 3999.0
   },
@@ -93331,24 +93155,6 @@
    "h_ayer": 2849.0
   },
   {
-   "id": "36349813",
-   "name": "Apple Airpods 4 (mxp63ll/a) Nuevo",
-   "url": "https://www.coppel.com/pdp/apple-airpods-4-mxp63ll/a-nuevo-mkp-36349813",
-   "img": "https://cdn5.coppel.com/mkp/36349813-1.jpg",
-   "category": "Audifonos",
-   "price_old": 4000.0,
-   "price_new": 2999.0,
-   "pct": 25.0,
-   "amount": 1001.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786137306.3790543,
-   "h_dias": 4,
-   "h_min": 2999.0,
-   "h_ayer": 2999.0
-  },
-  {
    "id": "40161149",
    "name": "Teclado Gamer Logitech G915 Tkl Mec color Blanco",
    "url": "https://www.coppel.com/pdp/teclado-gamer-logitech-g915-tkl-mec-color-blanco-mkp-40161149",
@@ -93979,10 +93785,10 @@
    "h_ayer": 1499.0
   },
   {
-   "id": "278883",
-   "name": "Celular Zuum Magno P4 Liberado 64 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-zuum-magno-p4-liberado-64-gb-azul-pm-2788833",
-   "img": "https://cdn5.coppel.com/pm/2788833-1.jpg",
+   "id": "275851",
+   "name": "Celular Zuum Magno P4 Liberado 64 GB Morado",
+   "url": "https://www.coppel.com/pdp/celular-zuum-magno-p4-liberado-64-gb-morado-pm-2758513",
+   "img": "https://cdn5.coppel.com/pm/2758513-1.jpg",
    "category": "Celulares",
    "price_old": 1999.0,
    "price_new": 1499.0,
@@ -93991,8 +93797,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
+   "first_seen": 1786036520.4182937,
+   "h_dias": 5,
    "h_min": 1499.0,
    "h_ayer": 1499.0
   },

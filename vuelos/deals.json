@@ -1,6 +1,6 @@
 {
- "generated_at": 1786331044.6279922,
- "generated_at_str": "09/08/2026 21:04",
+ "generated_at": 1786334644.396501,
+ "generated_at_str": "09/08/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,6 +30,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261001-9165cccd/"
   },
   {
+   "id": "f423e599849f8abeee81efdfae1672ec",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3515.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-28T08:26:00-05:00",
+   "return_at": "",
+   "duration": 359,
+   "link": "https://www.aviasales.com/search/MEX2808LAX1?t=Y417879055601787923500000359TLCGDLLAX_f423e599849f8abeee81efdfae1672ec_16743&search_date=10082026&expected_price_uuid=019fe9ba-f857-8040-ac75-f16efdf5ac0f&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=EAMmqpCFmibMMmFfzlM1gw&expected_price_source=share&expected_price_currency=mxn&expected_price=3515",
+   "title": "Flight deals from Mexico City to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20260828-f423e599/"
+  },
+  {
    "id": "560283113a65d50d9bfd906500459d9f",
    "kind": "flight",
    "origin": "MEX",
@@ -50,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260815-56028311/"
   },
   {
-   "id": "d055c9a51535afa55f782228b96e1d87",
+   "id": "e87ba1caf2441ba597e869a71d5d31c4",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,34 +80,14 @@
    "airline_title": "Aer Lingus",
    "logo": "https://pics.avs.io/600/113/EI.png",
    "logo_tipo": "",
-   "price": 7583.0,
+   "price": 7765.0,
    "currency": "MXN",
-   "departure_at": "2026-11-08T00:45:00-06:00",
+   "departure_at": "2026-11-19T00:45:00-06:00",
    "return_at": "",
-   "duration": 2030,
-   "link": "https://www.aviasales.com/search/MEX0811IST1?t=EI17940987001794252900002030MEXJFKSNNLHRSTNSAW_d055c9a51535afa55f782228b96e1d87_36097&search_date=09082026&expected_price_uuid=019fe88a-703f-8040-2633-7e838750d6ff&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=blpTaLg27oc999sxySAwdA&expected_price_source=share&expected_price_currency=mxn&expected_price=7583",
+   "duration": 2010,
+   "link": "https://www.aviasales.com/search/MEX1911IST1?t=EI17950491001795202100002010MEXJFKDUBLHRSTNSAW_e87ba1caf2441ba597e869a71d5d31c4_36971&search_date=09082026&expected_price_uuid=019fe8d6-bd4d-8030-ad7f-36b6ff38781e&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=hxLhsyycoL18gCfmlWVCVw&expected_price_source=share&expected_price_currency=mxn&expected_price=7765",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261108-d055c9a5/"
-  },
-  {
-   "id": "065564f2f3516d5e8ef5d8fae0cd0923",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BEG",
-   "destination_name": "Belgrado",
-   "airline": "N0",
-   "airline_title": "Norse Atlantic Airways",
-   "logo": "https://pics.avs.io/600/150/N0.png",
-   "logo_tipo": "",
-   "price": 8523.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-26T12:50:00-05:00",
-   "return_at": "",
-   "duration": 2985,
-   "link": "https://www.aviasales.com/search/MEX2609BEG1?t=N017904270001790634900002985NLUMTYJFKFCOBEG_065564f2f3516d5e8ef5d8fae0cd0923_40571&search_date=09082026&expected_price_uuid=019fe87c-b9e1-8051-23cb-a0a595efdbcf&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=y2a77CStAEyYz1eHS_pzDQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8523",
-   "title": "Flight deals from Mexico City to Belgrade",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20260926-065564f2/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261119-e87ba1ca/"
   },
   {
    "id": "0ccbc012b6cc7f28223c2a749d7dfd7a",

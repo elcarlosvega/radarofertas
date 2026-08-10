@@ -1,6 +1,6 @@
 {
- "generated_at": 1786381525.6687427,
- "generated_at_str": "10/08/2026 11:05",
+ "generated_at": 1786385128.1002343,
+ "generated_at_str": "10/08/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1748,7 +1748,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 1,
    "h_min": 664.3
   },
@@ -1782,7 +1782,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 1,
    "h_min": 629.3
   },
@@ -1989,7 +1989,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 1,
    "h_min": 454.3
   },
@@ -3372,7 +3372,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 1,
    "h_min": 499.0
   },
@@ -4191,6 +4191,25 @@
    "h_ayer": 17999.0
   },
   {
+   "id": "686785",
+   "name": "LG Refrigerador 25' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-25-French-Door/p/686785",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h53/259626817519646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24199.0,
+   "price_new": 17699.0,
+   "pct": 26.9,
+   "amount": 6500.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785334270.0395963,
+   "h_dias": 13,
+   "h_min": 17699.0,
+   "h_ayer": 17699.0,
+   "h_min7": 17699.0
+  },
+  {
    "id": "693672",
    "name": "TCL Pantalla 65\" QLED 4K Google TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-65-QLED-4K-Google-TV/p/693672",
@@ -4987,7 +5006,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-17T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 9,
    "h_min": 10799.0,
    "h_min7": 11499.0
@@ -5743,25 +5762,6 @@
    "first_seen": 1786370734.8538985,
    "h_dias": 1,
    "h_min": 3674.25
-  },
-  {
-   "id": "750284",
-   "name": "Carrera 362/S Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carrera-362S-Lentes-de-Sol/p/750284",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h63/h55/449966594654238.jpg",
-   "category": "Optica",
-   "price_old": 4699.0,
-   "price_new": 3524.25,
-   "pct": 25.0,
-   "amount": 1174.75,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785186691.5852609,
-   "h_dias": 13,
-   "h_min": 3524.25,
-   "h_ayer": 3524.25,
-   "h_min7": 3524.25
   },
   {
    "id": "750330",
@@ -15021,7 +15021,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-17T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 10,
    "h_min": 18999.0,
    "h_ayer": 18999.0,
@@ -15469,23 +15469,6 @@
    "amount": 2000.0,
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-10-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786370734.8538985,
-   "h_dias": 1,
-   "h_min": 7999.0
-  },
-  {
-   "id": "681883",
-   "name": "ASUS Vivobook Go Laptop 15.6\" Full HD AMD Ryzen 5 8GB 512GB SSD + Mouse + Mochila",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-Go-Laptop-156-Full-HD-AMD-Ryzen-5-8GB-512GB-SSD-Mouse-Mochila/p/681883",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/he4/438163977109534.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 9999.0,
-   "price_new": 7999.0,
-   "pct": 20.0,
-   "amount": 2000.0,
-   "starts": "2026-08-10T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1786370734.8538985,
    "h_dias": 1,
@@ -17333,7 +17316,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-17T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786381525.6687427,
+   "first_seen": 1786381535.2327948,
    "h_dias": 1,
    "h_min": 19999.0
   },
@@ -20413,6 +20396,24 @@
    "h_min": 47999.0,
    "h_ayer": 49999.0,
    "h_min7": 47999.0
+  },
+  {
+   "id": "693972",
+   "name": "Samsung Refrigerador 19' Top Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-19-Top-Mount/p/693972",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/h1c/452706846310430.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 18299.0,
+   "price_new": 15999.0,
+   "pct": 12.6,
+   "amount": 2300.0,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-08-17T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786385128.1002343,
+   "h_dias": 12,
+   "h_min": 13199.0,
+   "h_min7": 13199.0
   },
   {
    "id": "703473",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1786323934.386464,
- "generated_at_str": "09/08/2026 19:05",
+ "generated_at": 1786327526.8335717,
+ "generated_at_str": "09/08/2026 20:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -740,25 +740,6 @@
    "h_min": 7899.0,
    "h_ayer": 7899.0,
    "h_min7": 7899.0
-  },
-  {
-   "id": "542026",
-   "name": "Whisky Johnnie Walker Black Label Blended Scotch 1L",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Johnnie-Walker-Black-Label-Blended-Scotch-1L/p/542026",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbb/h69/277018918584350.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 1499.0,
-   "price_new": 1039.0,
-   "pct": 30.7,
-   "amount": 460.0,
-   "starts": "2026-08-04T06:00:00.000Z",
-   "ends": "2026-09-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785834334.8371043,
-   "h_dias": 12,
-   "h_min": 1039.0,
-   "h_ayer": 1039.0,
-   "h_min7": 1039.0
   },
   {
    "id": "681963",
@@ -3524,6 +3505,25 @@
    "h_min": 3999.0,
    "h_ayer": 3999.0,
    "h_min7": 3999.0
+  },
+  {
+   "id": "1740698",
+   "name": "Core Set para Campismo",
+   "url": "https://www.costco.com.mx/Deportes/Campismo/Casas-de-Campana/Core-Set-para-Campismo/p/1740698",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h97/296509231562782.jpg",
+   "category": "Deportes",
+   "price_old": 4199.0,
+   "price_new": 2999.0,
+   "pct": 28.6,
+   "amount": 1200.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 12,
+   "h_min": 2999.0,
+   "h_ayer": 2999.0,
+   "h_min7": 2999.0
   },
   {
    "id": "696504",
@@ -8179,25 +8179,6 @@
    "name": "All Saints VAS.03019.0478.56 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/All-Saints-VAS03019047856-Armazon-Oftalmico/p/704519",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h02/hb0/469420185092126.jpg",
-   "category": "Optica",
-   "price_old": 3499.0,
-   "price_new": 2624.25,
-   "pct": 25.0,
-   "amount": 874.75,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785190620.981251,
-   "h_dias": 12,
-   "h_min": 2624.25,
-   "h_ayer": 2624.25,
-   "h_min7": 2624.25
-  },
-  {
-   "id": "701668",
-   "name": "Tous VTO.00475.0301.55 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Tous-VTO00475030155-Armazon-Oftalmico/p/701668",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h82/415826457624606.jpg",
    "category": "Optica",
    "price_old": 3499.0,
    "price_new": 2624.25,
@@ -20624,6 +20605,25 @@
    "h_min7": 11999.0
   },
   {
+   "id": "1653310",
+   "name": "Sealy, Sillón Extragrande de Tela",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Sealy-Sillon-Extragrande-de-Tela/p/1653310",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h25/hd4/402216063729694.jpg",
+   "category": "Muebles",
+   "price_old": 13999.0,
+   "price_new": 11999.0,
+   "pct": 14.3,
+   "amount": 2000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 12,
+   "h_min": 10999.0,
+   "h_ayer": 11999.0,
+   "h_min7": 10999.0
+  },
+  {
    "id": "1812550",
    "name": "Simon Li Furniture, Sillón de Piel",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Simon-Li-Furniture-Sillon-de-Piel/p/1812550",
@@ -22119,24 +22119,6 @@
    "h_min7": 15999.0
   },
   {
-   "id": "648091",
-   "name": "ASUS ROG Zephyrus Duo 16\" OLED GeForce RTX 5070 Ti Intel Core Ultra 9 386H 32GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-ROG-Zephyrus-Duo-16-OLED-GeForce-RTX-5070-Ti-Intel-Core-Ultra-9-386H-32GB-1TB-SSD/p/648091",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/hb9/490070450831390.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 96999.0,
-   "price_new": 86999.0,
-   "pct": 10.3,
-   "amount": 10000.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786140331.7281263,
-   "h_dias": 3,
-   "h_min": 86999.0,
-   "h_ayer": 86999.0
-  },
-  {
    "id": "693867",
    "name": "AiPower, Generador 11300 W",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/AiPower-Generador-11300-W/p/693867",
@@ -22570,25 +22552,6 @@
    "h_min": 17999.0,
    "h_ayer": 18199.0,
    "h_min7": 17999.0
-  },
-  {
-   "id": "648074",
-   "name": "LG Pantalla 115\" QNED Miniled 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/LG-Pantalla-115-QNED-Miniled-4K-Smart-TV/p/648074",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h10/h4c/489216785809438.jpg",
-   "category": "Electronicos",
-   "price_old": 169999.0,
-   "price_new": 154999.0,
-   "pct": 8.8,
-   "amount": 15000.0,
-   "starts": "2026-08-06T06:00:00.000Z",
-   "ends": "2026-08-17T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786025132.7790556,
-   "h_dias": 9,
-   "h_min": 154999.0,
-   "h_ayer": 154999.0,
-   "h_min7": 154999.0
   },
   {
    "id": "648095",

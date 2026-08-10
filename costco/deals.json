@@ -1,6 +1,6 @@
 {
- "generated_at": 1786334721.447957,
- "generated_at_str": "09/08/2026 22:05",
+ "generated_at": 1786338319.9548275,
+ "generated_at_str": "09/08/2026 23:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -288,25 +288,6 @@
    "h_dias": 6,
    "h_min": 23999.0,
    "h_ayer": 23999.0
-  },
-  {
-   "id": "684903",
-   "name": "Hisense Refrigerador French Door 22'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-French-Door-22/p/684903",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h57/h30/256983851139102.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 22199.0,
-   "price_new": 15199.0,
-   "pct": 31.5,
-   "amount": 7000.0,
-   "starts": "2026-08-03T06:00:00.000Z",
-   "ends": "2026-08-10T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785942357.5107403,
-   "h_dias": 11,
-   "h_min": 15199.0,
-   "h_ayer": 15199.0,
-   "h_min7": 15199.0
   },
   {
    "id": "703476",
@@ -22211,6 +22192,25 @@
    "h_min": 25999.0,
    "h_ayer": 25999.0,
    "h_min7": 25999.0
+  },
+  {
+   "id": "687104",
+   "name": "Samsung Galaxy S25 Ultra 256GB Gris Titanio",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Gris-Titanio/p/687104",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/h8d/326968876040222.jpg",
+   "category": "Electronicos",
+   "price_old": 28999.0,
+   "price_new": 25999.0,
+   "pct": 10.3,
+   "amount": 3000.0,
+   "starts": "2026-08-03T06:00:00.000Z",
+   "ends": "2026-08-10T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785765949.4169288,
+   "h_dias": 12,
+   "h_min": 24899.0,
+   "h_ayer": 25999.0,
+   "h_min7": 24899.0
   },
   {
    "id": "687099",

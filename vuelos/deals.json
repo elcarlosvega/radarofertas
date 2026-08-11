@@ -1,6 +1,6 @@
 {
- "generated_at": 1786406645.7210765,
- "generated_at_str": "10/08/2026 18:04",
+ "generated_at": 1786410245.7965994,
+ "generated_at_str": "10/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-montevideo-20261004-18717b76/"
   },
   {
+   "id": "c89aa55961e57c87a5be09071148f2c3",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "EI",
+   "airline_title": "Aer Lingus",
+   "logo": "https://pics.avs.io/600/113/EI.png",
+   "logo_tipo": "",
+   "price": 7759.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-06T00:45:00-06:00",
+   "return_at": "",
+   "duration": 2000,
+   "link": "https://www.aviasales.com/search/MEX0612IST1?t=EI17965179001796670300002000MEXJFKSNNLHRLGWSAW_c89aa55961e57c87a5be09071148f2c3_37357&search_date=11082026&expected_price_uuid=019fee30-caca-8050-286b-54887d415642&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=B2CAnGBuj9gT4i9LL32saA&expected_price_source=share&expected_price_currency=mxn&expected_price=7759",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261206-c89aa559/"
+  },
+  {
    "id": "065564f2f3516d5e8ef5d8fae0cd0923",
    "kind": "flight",
    "origin": "MEX",
@@ -120,12 +140,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 11157.0,
+   "price": 11111.0,
    "currency": "MXN",
    "departure_at": "2026-08-24T20:00:00-05:00",
    "return_at": "",
    "duration": 1140,
-   "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876016001787724000001140MEXMTYICN_5957d885550cbc0453e1b3185b535708_53700&search_date=10082026&expected_price_uuid=019fee04-b326-8030-e1b5-34553df4be76&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=riyA20YRInXaYbQaRuLtyg&expected_price_source=share&expected_price_currency=mxn&expected_price=11157",
+   "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876016001787724000001140MEXMTYICN_5957d885550cbc0453e1b3185b535708_53480&search_date=10082026&expected_price_uuid=019fee1c-0c06-8050-6c11-d71705cebfe9&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=riyA20YRInXaYbQaRuLtyg&expected_price_source=share&expected_price_currency=mxn&expected_price=11111",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260824-5957d885/"
   },
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_65aa4624a2dd11645c9d676889e0c8c0_93552&search_date=10082026&expected_price_uuid=019fee07-b17e-8030-ea19-c93f1caf3def&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=7rXy9r61Ia04omtLRwAuWA&expected_price_source=share&expected_price_currency=mxn&expected_price=19437",
    "title": "Flight deals from Mexico City to Phuket",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261225-65aa4624/"
-  },
-  {
-   "id": "c0e924576ff06832b283f9e4c4bcabf3",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 22513.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-17T09:00:00-05:00",
-   "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1708IST1?t=TK17869572001787048400000980MEXIST_c0e924576ff06832b283f9e4c4bcabf3_108361&search_date=10082026&expected_price_uuid=019fede4-2799-8050-2499-7530974de498&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=22513",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260817-c0e92457/"
   }
  ]
 }

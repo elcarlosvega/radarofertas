@@ -1,6 +1,6 @@
 {
- "generated_at": 1786414336.5783913,
- "generated_at_str": "10/08/2026 20:12",
+ "generated_at": 1786418443.388147,
+ "generated_at_str": "10/08/2026 21:20",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -276,10 +276,10 @@
    "h_ayer": 1159.0
   },
   {
-   "id": "634141",
-   "name": "Minisplit LG Inverter 1 Tonelada 220V Solo Frío VM122C9",
-   "url": "https://www.coppel.com/pdp/minisplit-lg-inverter-1-tonelada-220v-solo-frio-vm122c9-pm-6341413",
-   "img": "https://cdn5.coppel.com/pm/6341413-1.jpg",
+   "id": "634131",
+   "name": "Minisplit LG Inverter 1 Tonelada 110V Solo Frío VM121C9",
+   "url": "https://www.coppel.com/pdp/minisplit-lg-inverter-1-tonelada-110v-solo-frio-vm121c9-pm-6341313",
+   "img": "https://cdn5.coppel.com/pm/6341313-1.jpg",
    "category": "Aires acond.",
    "price_old": 15499.0,
    "price_new": 4999.0,
@@ -288,8 +288,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786205469.090853,
-   "h_dias": 3,
+   "first_seen": 1786273772.3417926,
+   "h_dias": 2,
    "h_min": 4999.0,
    "h_ayer": 4999.0
   },
@@ -472,6 +472,23 @@
    "h_dias": 6,
    "h_min": 233.0,
    "h_ayer": 233.0
+  },
+  {
+   "id": "633721",
+   "name": "Minisplit Mabe Inverter 1 Tonelada 220V Solo Frío MMI12CDBWCA6MC8",
+   "url": "https://www.coppel.com/pdp/minisplit-mabe-inverter-1-tonelada-220v-solo-frio-mmi12cdbwca6mc8-pm-6337213",
+   "img": "https://cdn5.coppel.com/pm/6337213-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 14699.0,
+   "price_new": 4999.0,
+   "pct": 66.0,
+   "amount": 9700.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786407492.486637,
+   "h_dias": 1,
+   "h_min": 4999.0
   },
   {
    "id": "747282601",
@@ -1964,6 +1981,24 @@
    "h_dias": 5,
    "h_min": 13999.0,
    "h_ayer": 13999.0
+  },
+  {
+   "id": "665886",
+   "name": "Minisplit Mabe Inverter 1 Tonelada 220 V Solo Frío MMI12HDMCAM10",
+   "url": "https://www.coppel.com/pdp/minisplit-mabe-inverter-1-tonelada-220-v-solo-frio-mmi12hdmcam10-pm-6658863",
+   "img": "https://cdn5.coppel.com/pm/6658863-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 14199.0,
+   "price_new": 5999.0,
+   "pct": 57.8,
+   "amount": 8200.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786205469.090853,
+   "h_dias": 3,
+   "h_min": 5999.0,
+   "h_ayer": 5999.0
   },
   {
    "id": "74121912",
@@ -4267,6 +4302,23 @@
    "h_dias": 6,
    "h_min": 32199.0,
    "h_ayer": 32199.0
+  },
+  {
+   "id": "664146",
+   "name": "Minisplit Mabe Inverter 1 Tonelada 220 V Solo Frío MMI12CDBWCAX32M1",
+   "url": "https://www.coppel.com/pdp/minisplit-mabe-inverter-1-tonelada-220-v-solo-frio-mmi12cdbwcax32m1-pm-6641463",
+   "img": "https://cdn5.coppel.com/pm/6641463-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 10699.0,
+   "price_new": 4999.0,
+   "pct": 53.3,
+   "amount": 5700.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786407492.486637,
+   "h_dias": 1,
+   "h_min": 4999.0
   },
   {
    "id": "74881100",
@@ -23991,24 +24043,6 @@
    "h_ayer": 6999.0
   },
   {
-   "id": "748033540",
-   "name": "Laptop Lenovo  E495   14''  8gb Ram  512gb Ssd  Amd Ryzen 5  Equipo Clase A  Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-e495-14-8gb-ram-512gb-ssd-amd-ryzen-5-equipo-clase-a-reacondicionado-mkp-748033540",
-   "img": "https://cdn5.coppel.com/mkp/748033540-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 5499.0,
-   "pct": 45.0,
-   "amount": 4500.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 5499.0,
-   "h_ayer": 5499.0
-  },
-  {
    "id": "747823812",
    "name": "Laptop Lenovo Thinkpad L480 14\" Intel Core I5-8250u 8gb Ram 256gb Ssd Windows 11 Pro Negro Reacondicionado",
    "url": "https://www.coppel.com/pdp/laptop-lenovo-thinkpad-l480-14-intel-core-i5-8250u-8gb-ram-256gb-ssd-windows-11-pro-negro-reacondicionado-mkp-747823812",
@@ -24025,6 +24059,24 @@
    "h_dias": 6,
    "h_min": 4999.0,
    "h_ayer": 4999.0
+  },
+  {
+   "id": "748033540",
+   "name": "Laptop Lenovo  E495   14''  8gb Ram  512gb Ssd  Amd Ryzen 5  Equipo Clase A  Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-lenovo-e495-14-8gb-ram-512gb-ssd-amd-ryzen-5-equipo-clase-a-reacondicionado-mkp-748033540",
+   "img": "https://cdn5.coppel.com/mkp/748033540-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 5499.0,
+   "pct": 45.0,
+   "amount": 4500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 6,
+   "h_min": 5499.0,
+   "h_ayer": 5499.0
   },
   {
    "id": "748097266",
@@ -26148,10 +26200,10 @@
    "h_ayer": 7999.0
   },
   {
-   "id": "748050465",
-   "name": "Laptop Lenovo Thinkpad T14s G1  14'  Intel Core I5-10a  16gb Ram  256gb Ssd  Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-thinkpad-t14s-g1-14-intel-core-i5-10a-16gb-ram-256gb-ssd-reacondicionado-mkp-748050465",
-   "img": "https://cdn5.coppel.com/mkp/748050465-1.jpg",
+   "id": "47172211",
+   "name": "Laptop Dell Latitude 5410- 14'' Intel Core I5-10a Gen 16 GB RAM 1 TB SSD Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5410-14-intel-core-i5-10a-gen-16-gb-ram-1-tb-ssd-reacondicionado-mkp-47172211",
+   "img": "https://cdn5.coppel.com/mkp/47172211-1.jpg",
    "category": "Laptops",
    "price_old": 12999.0,
    "price_new": 7299.0,
@@ -26166,10 +26218,10 @@
    "h_ayer": 7299.0
   },
   {
-   "id": "47172211",
-   "name": "Laptop Dell Latitude 5410- 14'' Intel Core I5-10a Gen 16 GB RAM 1 TB SSD Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5410-14-intel-core-i5-10a-gen-16-gb-ram-1-tb-ssd-reacondicionado-mkp-47172211",
-   "img": "https://cdn5.coppel.com/mkp/47172211-1.jpg",
+   "id": "748050465",
+   "name": "Laptop Lenovo Thinkpad T14s G1  14'  Intel Core I5-10a  16gb Ram  256gb Ssd  Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-lenovo-thinkpad-t14s-g1-14-intel-core-i5-10a-16gb-ram-256gb-ssd-reacondicionado-mkp-748050465",
+   "img": "https://cdn5.coppel.com/mkp/748050465-1.jpg",
    "category": "Laptops",
    "price_old": 12999.0,
    "price_new": 7299.0,
@@ -27675,23 +27727,6 @@
    "h_dias": 6,
    "h_min": 7999.0,
    "h_ayer": 7999.0
-  },
-  {
-   "id": "749226000",
-   "name": "Laptop Hp 14 Dq6104dx 4gb Ram 128gb Ufs Intel N150 W11home Morado",
-   "url": "https://www.coppel.com/pdp/laptop-hp-14-dq6104dx-4gb-ram-128gb-ufs-intel-n150-w11home-morado-mkp-749226000",
-   "img": "https://cdn5.coppel.com/mkp/749226000-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 5709.0,
-   "pct": 42.9,
-   "amount": 4290.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786382161.742944,
-   "h_dias": 1,
-   "h_min": 5709.0
   },
   {
    "id": "229084",
@@ -32985,6 +33020,24 @@
    "h_ayer": 5999.0
   },
   {
+   "id": "47171989",
+   "name": "Laptop Dell Latitude 5400 14'' Full HD Intel Core i5-8a 8 GB RAM 256 GB SSD Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5400-14-full-hd-intel-core-i5-8a-8-gb-ram-256-gb-ssd-reacondicionado-mkp-47171989",
+   "img": "https://cdn5.coppel.com/mkp/47171989-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 5999.0,
+   "pct": 40.0,
+   "amount": 4000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 6,
+   "h_min": 5999.0,
+   "h_ayer": 5999.0
+  },
+  {
    "id": "748097138",
    "name": "Laptop Hp Elitebook 645 G9 14\" Ryzen 5 Pro 5675u 16gb Ram 256gb Ssd Win 11 Pro Plata Reacondicionado",
    "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-645-g9-14-ryzen-5-pro-5675u-16gb-ram-256gb-ssd-win-11-pro-plata-reacondicionado-mkp-748097138",
@@ -33007,24 +33060,6 @@
    "name": "Laptop Dell Latitude 5300 13.3'' Full H, Intel Core I5-8a 16gb Ram 256gb Ssd Reacondicionado",
    "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5300-133-full-h-intel-core-i5-8a-16gb-ram-256gb-ssd-reacondicionado-mkp-47171991",
    "img": "https://cdn5.coppel.com/mkp/47171991-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 5999.0,
-   "pct": 40.0,
-   "amount": 4000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 6,
-   "h_min": 5999.0,
-   "h_ayer": 5999.0
-  },
-  {
-   "id": "47171989",
-   "name": "Laptop Dell Latitude 5400 14'' Full HD Intel Core i5-8a 8 GB RAM 256 GB SSD Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5400-14-full-hd-intel-core-i5-8a-8-gb-ram-256-gb-ssd-reacondicionado-mkp-47171989",
-   "img": "https://cdn5.coppel.com/mkp/47171989-1.jpg",
    "category": "Laptops",
    "price_old": 9999.0,
    "price_new": 5999.0,
@@ -41237,10 +41272,10 @@
    "h_ayer": 349.0
   },
   {
-   "id": "279065",
-   "name": "Celular Samsung Galaxy S25 Ultra Liberado 256 GB Negro",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-ultra-liberado-256-gb-negro-pm-2790653",
-   "img": "https://cdn5.coppel.com/pm/2790653-1.jpg",
+   "id": "279032",
+   "name": "Celular Samsung Galaxy S25 Ultra Liberado 256 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-ultra-liberado-256-gb-azul-pm-2790323",
+   "img": "https://cdn5.coppel.com/pm/2790323-1.jpg",
    "category": "Celulares",
    "price_old": 32999.0,
    "price_new": 20999.0,
@@ -41249,7 +41284,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1786176594.9597435,
+   "first_seen": 1786169383.119597,
    "h_dias": 6,
    "h_min": 20999.0,
    "h_ayer": 20999.0
@@ -50297,6 +50332,24 @@
    "h_ayer": 1059.0
   },
   {
+   "id": "73841290",
+   "name": "Batidora De Inmersión 7 En 1 400w Hukën Masterchef",
+   "url": "https://www.coppel.com/pdp/batidora-de-inmersion-7-en-1-400w-hukn-masterchef-mkp-73841290",
+   "img": "https://cdn5.coppel.com/mkp/73841290-1.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 1599.0,
+   "price_new": 1059.0,
+   "pct": 33.8,
+   "amount": 540.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786093953.8777568,
+   "h_dias": 4,
+   "h_min": 1059.0,
+   "h_ayer": 1059.0
+  },
+  {
    "id": "36351930",
    "name": "Genérica Audífonos Bluetooth HTC Ne32 Con Pantalla & IA Traductor En Tiempo Real.",
    "url": "https://www.coppel.com/pdp/audifonos-bluetooth-htc-ne32-con-pantalla-ia-traductor-en-tiempo-real-mkp-36351930",
@@ -50583,6 +50636,23 @@
    "h_dias": 6,
    "h_min": 7297.0,
    "h_ayer": 7297.0
+  },
+  {
+   "id": "665665",
+   "name": "Minisplit LG Inverter 1 Tonelada 230 V Solo Frío V0122C1",
+   "url": "https://www.coppel.com/pdp/minisplit-lg-inverter-1-tonelada-230-v-solo-frio-v0122c1-pm-6656653",
+   "img": "https://cdn5.coppel.com/pm/6656653-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 9799.0,
+   "price_new": 6499.0,
+   "pct": 33.7,
+   "amount": 3300.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786407492.486637,
+   "h_dias": 1,
+   "h_min": 6499.0
   },
   {
    "id": "748465035",
@@ -58424,10 +58494,10 @@
    "h_ayer": 5499.0
   },
   {
-   "id": "47171800",
-   "name": "Laptop Lenovo Thinkpad T470 Core I5-6300u 256 Gb Ssd 8 Gb Ram Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-thinkpad-t470-core-i5-6300u-256-gb-ssd-8-gb-ram-reacondicionado-mkp-47171800",
-   "img": "https://cdn5.coppel.com/mkp/47171800-1.jpg",
+   "id": "47171093",
+   "name": "Laptop Lenovo T470 Reacondicionada",
+   "url": "https://www.coppel.com/pdp/laptop-lenovo-t470-reacondicionada-mkp-47171093",
+   "img": "https://cdn5.coppel.com/mkp/47171093-1.jpg",
    "category": "Laptops",
    "price_old": 7999.0,
    "price_new": 5499.0,
@@ -58442,10 +58512,10 @@
    "h_ayer": 5499.0
   },
   {
-   "id": "47171093",
-   "name": "Laptop Lenovo T470 Reacondicionada",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-t470-reacondicionada-mkp-47171093",
-   "img": "https://cdn5.coppel.com/mkp/47171093-1.jpg",
+   "id": "47171800",
+   "name": "Laptop Lenovo Thinkpad T470 Core I5-6300u 256 Gb Ssd 8 Gb Ram Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-lenovo-thinkpad-t470-core-i5-6300u-256-gb-ssd-8-gb-ram-reacondicionado-mkp-47171800",
+   "img": "https://cdn5.coppel.com/mkp/47171800-1.jpg",
    "category": "Laptops",
    "price_old": 7999.0,
    "price_new": 5499.0,
@@ -69968,10 +70038,10 @@
    "h_ayer": 21999.0
   },
   {
-   "id": "208552",
-   "name": "Celular Samsung Galaxy S25 FE Liberado 128 GB Azul Navy",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-fe-liberado-128-gb-azul-navy-pm-2085523",
-   "img": "https://cdn5.coppel.com/pm/2085523-1.jpg",
+   "id": "208544",
+   "name": "Celular Samsung Galaxy S25 FE Liberado 128 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s25-fe-liberado-128-gb-azul-pm-2085443",
+   "img": "https://cdn5.coppel.com/pm/2085443-1.jpg",
    "category": "Celulares",
    "price_old": 15499.0,
    "price_new": 10999.0,
@@ -69980,7 +70050,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785982551.7994368,
+   "first_seen": 1785964414.7510617,
    "h_dias": 6,
    "h_min": 10999.0,
    "h_ayer": 10999.0
@@ -70128,24 +70198,6 @@
    "h_dias": 4,
    "h_min": 1569.0,
    "h_ayer": 1569.0
-  },
-  {
-   "id": "55071203",
-   "name": "Gutstark Bomba Refrigerador Dispensador Agua Garrafón Máquina Hielos Despachador Eléctrico Lavable 3.8L por Minuto",
-   "url": "https://www.coppel.com/pdp/bomba-refrigerador-dispensador-agua-garrafon-maquina-hielos-despachador-electrico-lavable-38l-por-minuto-mkp-55071203",
-   "img": "https://cdn5.coppel.com/mkp/55071203-1.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 1899.0,
-   "price_new": 1349.0,
-   "pct": 29.0,
-   "amount": 550.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785971526.6900122,
-   "h_dias": 6,
-   "h_min": 1349.0,
-   "h_ayer": 1349.0
   },
   {
    "id": "73851191",
@@ -78529,10 +78581,10 @@
    "h_ayer": 8499.0
   },
   {
-   "id": "747416780",
-   "name": "Laptop Hp Elitebook 645 G10 14'' Amd Ryzen 5 Pro 7530u 16gb Ram 256gb Ssd Windows 11 Pro Reacondicionado Plata",
-   "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-645-g10-14-amd-ryzen-5-pro-7530u-16gb-ram-256gb-ssd-windows-11-pro-reacondicionado-plata-mkp-747416780",
-   "img": "https://cdn5.coppel.com/mkp/747416780-1.jpg",
+   "id": "47173011",
+   "name": "Laptop Dell Latitude 7300 13.3'' Full Hd Intel Core I7-8a, 16 GB RAM 256 GB SSD Reacondicionado",
+   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-7300-133-full-hd-intel-core-i7-8a-16-gb-ram-256-gb-ssd-reacondicionado-mkp-47173011",
+   "img": "https://cdn5.coppel.com/mkp/47173011-1.jpg",
    "category": "Laptops",
    "price_old": 9999.0,
    "price_new": 7299.0,
@@ -78547,10 +78599,10 @@
    "h_ayer": 7299.0
   },
   {
-   "id": "47173011",
-   "name": "Laptop Dell Latitude 7300 13.3'' Full Hd Intel Core I7-8a, 16 GB RAM 256 GB SSD Reacondicionado",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-7300-133-full-hd-intel-core-i7-8a-16-gb-ram-256-gb-ssd-reacondicionado-mkp-47173011",
-   "img": "https://cdn5.coppel.com/mkp/47173011-1.jpg",
+   "id": "747416780",
+   "name": "Laptop Hp Elitebook 645 G10 14'' Amd Ryzen 5 Pro 7530u 16gb Ram 256gb Ssd Windows 11 Pro Reacondicionado Plata",
+   "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-645-g10-14-amd-ryzen-5-pro-7530u-16gb-ram-256gb-ssd-windows-11-pro-reacondicionado-plata-mkp-747416780",
+   "img": "https://cdn5.coppel.com/mkp/747416780-1.jpg",
    "category": "Laptops",
    "price_old": 9999.0,
    "price_new": 7299.0,
@@ -90499,23 +90551,6 @@
    "h_ayer": 22299.0
   },
   {
-   "id": "749226225",
-   "name": "Laptop Lenovo Ideapad Slim 3 15.3' Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
-   "url": "https://www.coppel.com/pdp/laptop-lenovo-ideapad-slim-3-153-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris-mkp-749226225",
-   "img": "https://cdn5.coppel.com/mkp/749226225-1.jpg",
-   "category": "Laptops",
-   "price_old": 19999.0,
-   "price_new": 14869.0,
-   "pct": 25.7,
-   "amount": 5130.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1786396252.5958822,
-   "h_dias": 1,
-   "h_min": 14769.0
-  },
-  {
    "id": "36441489",
    "name": "Subwoofer Profesional 18'' Audiobahn Immortal197",
    "url": "https://www.coppel.com/pdp/subwoofer-profesional-18-audiobahn-immortal197-mkp-36441489",
@@ -92719,10 +92754,10 @@
    "h_ayer": 8999.0
   },
   {
-   "id": "201132",
-   "name": "Celular Google Pixel 9a Liberado 128 GB Blanco",
-   "url": "https://www.coppel.com/pdp/celular-google-pixel-9a-liberado-128-gb-blanco-pm-2011323",
-   "img": "https://cdn5.coppel.com/pm/2011323-1.jpg",
+   "id": "201157",
+   "name": "Celular Google Pixel 9a Liberado 128 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-google-pixel-9a-liberado-128-gb-negro-pm-2011573",
+   "img": "https://cdn5.coppel.com/pm/2011573-1.jpg",
    "category": "Celulares",
    "price_old": 11999.0,
    "price_new": 8999.0,
@@ -92731,8 +92766,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1785986168.0851622,
-   "h_dias": 6,
+   "first_seen": 1786061708.1420915,
+   "h_dias": 5,
    "h_min": 8999.0,
    "h_ayer": 8999.0
   },
@@ -95102,6 +95137,24 @@
    "h_dias": 6,
    "h_min": 6599.0,
    "h_ayer": 6599.0
+  },
+  {
+   "id": "670863",
+   "name": "Minisplit Midea Inverter 1 Tonelada 110 V Solo Frío MAS12C1EIRC",
+   "url": "https://www.coppel.com/pdp/minisplit-midea-inverter-1-tonelada-110-v-solo-frio-mas12c1eirc-pm-6708633",
+   "img": "https://cdn5.coppel.com/pm/6708633-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 6699.0,
+   "price_new": 5199.0,
+   "pct": 22.4,
+   "amount": 1500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 6,
+   "h_min": 5199.0,
+   "h_ayer": 5199.0
   },
   {
    "id": "665746",

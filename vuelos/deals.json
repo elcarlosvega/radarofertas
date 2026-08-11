@@ -1,6 +1,6 @@
 {
- "generated_at": 1786410245.7965994,
- "generated_at_str": "10/08/2026 19:04",
+ "generated_at": 1786413853.4194946,
+ "generated_at_str": "10/08/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX2209VSA1?t=Y417900574001790062560000086MEXVSA_b541fca03a9ac0e0bd6345cd47b25c0a_5378&search_date=10082026&expected_price_uuid=019fedfe-e2c0-8030-ec58-871b08d7f821&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=EEqjSE2nCo-g5AGMtvzC7w&expected_price_source=share&expected_price_currency=mxn&expected_price=1117",
    "title": "Flight deals from Mexico City to Villahermosa",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20260922-b541fca0/"
+  },
+  {
+   "id": "dc7d28c976427de77e92d3b51c26cf70",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2571.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-21T07:59:00-05:00",
+   "return_at": "",
+   "duration": 196,
+   "link": "https://www.aviasales.com/search/GDL2108LAX1?t=Y417872991401787307300000196GDLLAX_dc7d28c976427de77e92d3b51c26cf70_12375&search_date=11082026&expected_price_uuid=019fee6c-7919-8030-a6df-1080223311fa&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bQRztaMP8SvSAp3FZwF3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2570",
+   "title": "Flight deals from Guadalajara to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20260821-dc7d28c9/"
   },
   {
    "id": "b414d41b03574b00e3e27f5ab7fb4611",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1786413853.4194946,
- "generated_at_str": "10/08/2026 20:04",
+ "generated_at": 1786417479.943089,
+ "generated_at_str": "10/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,6 +30,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20260922-b541fca0/"
   },
   {
+   "id": "942a67dac125863df0708992eaf4ea44",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MXL",
+   "destination_name": "Mexicali",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1199.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-11T06:08:00-05:00",
+   "return_at": "",
+   "duration": 615,
+   "link": "https://www.aviasales.com/search/GDL1109MXL1?t=VB17891068801789140180000615GDLMTYMXL_942a67dac125863df0708992eaf4ea44_5775&search_date=11082026&expected_price_uuid=019feea9-1eb2-8040-2faa-0e7fa8ef2774&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HWmOv1kyCeF1MkQB5hG_2g&expected_price_source=share&expected_price_currency=mxn&expected_price=1199",
+   "title": "Flight deals from Guadalajara to Mexicali",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-mexicali-20260911-942a67da/"
+  },
+  {
    "id": "dc7d28c976427de77e92d3b51c26cf70",
    "kind": "flight",
    "origin": "GDL",
@@ -40,7 +60,7 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2571.0,
+   "price": 2570.0,
    "currency": "MXN",
    "departure_at": "2026-08-21T07:59:00-05:00",
    "return_at": "",

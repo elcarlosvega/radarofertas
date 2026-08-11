@@ -1,6 +1,6 @@
 {
- "generated_at": 1786475148.801042,
- "generated_at_str": "11/08/2026 13:05",
+ "generated_at": 1786478722.6797397,
+ "generated_at_str": "11/08/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -21249,7 +21249,7 @@
    "starts": "2026-08-10T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786475148.801042,
+   "first_seen": 1786475156.7437215,
    "h_dias": 1,
    "h_min": 35999.0
   },
@@ -21496,6 +21496,25 @@
    "h_min": 67999.0,
    "h_ayer": 67999.0,
    "h_min7": 67999.0
+  },
+  {
+   "id": "692068",
+   "name": "Apple iMac 24\" 256GB 4.5K Chip M4 Rosa CPU de 10 Núcleos GPU de 10 Núcleos Memoria Unificada de 16GB.",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-iMac-24-256GB-45K-Chip-M4-Rosa-CPU-de-10-Nucleos-GPU-de-10-Nucleos-Memoria-Unificada-de-16GB/p/692068",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/h76/328784476667934.jpg",
+   "category": "Electronicos",
+   "price_old": 38499.0,
+   "price_new": 33999.0,
+   "pct": 11.7,
+   "amount": 4500.0,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-08-17T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786374355.9897757,
+   "h_dias": 8,
+   "h_min": 31999.0,
+   "h_ayer": 31999.0,
+   "h_min7": 31999.0
   },
   {
    "id": "692066",

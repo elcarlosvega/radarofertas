@@ -1,6 +1,6 @@
 {
- "generated_at": 1786550720.8284986,
- "generated_at_str": "12/08/2026 10:05",
+ "generated_at": 1786554325.5509598,
+ "generated_at_str": "12/08/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4357,6 +4357,24 @@
    "h_min7": 399.0
   },
   {
+   "id": "697927",
+   "name": "Lindt Excellence Barras de Chocolate Amargo Suizo 4 pzas de 100 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Lindt-Excellence-Barras-de-Chocolate-Amargo-Suizo-4-pzas-de-100-g/p/697927",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8d/hb9/413477710561310.jpg",
+   "category": "Grocery",
+   "price_old": 549.0,
+   "price_new": 399.0,
+   "pct": 27.3,
+   "amount": 150.0,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-08-17T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786370734.8538985,
+   "h_dias": 3,
+   "h_min": 399.0,
+   "h_ayer": 399.0
+  },
+  {
    "id": "702018",
    "name": "Tocobo Lip Oil Set. 2 pzas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/Tocobo-Lip-Oil-Set-2-pzas/p/702018",
@@ -5423,6 +5441,25 @@
    "h_dias": 2,
    "h_min": 119.0,
    "h_ayer": 119.0
+  },
+  {
+   "id": "689567",
+   "name": "Sanissimo Galletas de Arroz y Quinoa 30 pzas de 14 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Galletas-y-Cereales/Sanissimo-Galletas-de-Arroz-y-Quinoa-30-pzas-de-14-g/p/689567",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/hbb/278294999236638.jpg",
+   "category": "Grocery",
+   "price_old": 159.0,
+   "price_new": 119.0,
+   "pct": 25.2,
+   "amount": 40.0,
+   "starts": "2026-08-11T06:00:00.000Z",
+   "ends": "2026-08-17T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786460745.0553684,
+   "h_dias": 8,
+   "h_min": 119.0,
+   "h_ayer": 119.0,
+   "h_min7": 119.0
   },
   {
    "id": "557385",
@@ -10405,6 +10442,25 @@
    "h_min7": 1161.75
   },
   {
+   "id": "695712",
+   "name": "Nourella Crema Revitalizante 50 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-Crema-Revitalizante-50-ml/p/695712",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h7b/382305852522526.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1549.0,
+   "price_new": 1161.75,
+   "pct": 25.0,
+   "amount": 387.25,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785190620.981251,
+   "h_dias": 15,
+   "h_min": 1161.75,
+   "h_ayer": 1161.75,
+   "h_min7": 1161.75
+  },
+  {
    "id": "707211",
    "name": "Aeropostale VAE.L21YL.0BLK.57 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Aeropostale-VAEL21YL0BLK57-Armazon-Oftalmico/p/707211",
@@ -11671,7 +11727,7 @@
    "starts": "2026-08-12T06:00:00.000Z",
    "ends": "2026-08-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786550720.8284986,
+   "first_seen": 1786550728.727634,
    "h_dias": 9,
    "h_min": 599.0,
    "h_ayer": 599.0,

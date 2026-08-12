@@ -1,6 +1,6 @@
 {
- "generated_at": 1786493044.1701796,
- "generated_at_str": "11/08/2026 18:04",
+ "generated_at": 1786496644.2717752,
+ "generated_at_str": "11/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX2910BOG1?t=VB17933017201793322000000278NLUBOG_8487daecdc55dc9485e0ff1777ad6f8c_10972&search_date=11082026&expected_price_uuid=019ff2ac-1126-8040-26d1-cc3333d65f9b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FZDJdx-TfESuWuvWem5uAA&expected_price_source=share&expected_price_currency=mxn&expected_price=2273",
    "title": "Flight deals from Mexico City to Bogota",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261029-8487daec/"
+  },
+  {
+   "id": "630acd22d8edbefeeee89f20ca7f2de4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PUJ",
+   "destination_name": "Punta Cana",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3497.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-09T16:51:00-05:00",
+   "return_at": "",
+   "duration": 279,
+   "link": "https://www.aviasales.com/search/MEX0909PUJ1?t=DM17889726601788996600000279NLUPUJ_630acd22d8edbefeeee89f20ca7f2de4_16876&search_date=11082026&expected_price_uuid=019ff244-c55e-8030-e6ff-94cab804fab8&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=XDXmrLVba9NmPCwRl4UGig&expected_price_source=share&expected_price_currency=mxn&expected_price=3497",
+   "title": "Flight deals from Mexico City to Punta Cana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20260909-630acd22/"
   },
   {
    "id": "aec856ad07252f9db690cf49276728a1",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX0201TYO1?t=NH17988696001798977300000895MEXNRT_2f8ff73e4e96472fe7fb35cedf445904_73990&search_date=11082026&expected_price_uuid=019ff32a-0536-8030-6cca-d4e354a9b6b9&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=fD_Slw-kyVXUod74B1fWKw&expected_price_source=share&expected_price_currency=mxn&expected_price=15332",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270102-2f8ff73e/"
-  },
-  {
-   "id": "650dc6fd89483f372a9980da354ab871",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HKG",
-   "destination_name": "Hong Kong",
-   "airline": "NH",
-   "airline_title": "All Nippon Airways",
-   "logo": "https://pics.avs.io/600/150/NH.png",
-   "logo_tipo": "",
-   "price": 18314.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-31T06:05:00-05:00",
-   "return_at": "",
-   "duration": 1365,
-   "link": "https://www.aviasales.com/search/MEX3108HKG1?t=NH17881563001788288600001365MEXNRTHKG_650dc6fd89483f372a9980da354ab871_88386&search_date=11082026&expected_price_uuid=019ff20d-6d8f-8030-ad93-430a3553c76c&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wX9Spw7u9BbuIiVz6PQPJA&expected_price_source=share&expected_price_currency=mxn&expected_price=18314",
-   "title": "Flight deals from Mexico City to Hong Kong",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20260831-650dc6fd/"
   },
   {
    "id": "1a51cb04266135a990bdc4a1d2579ba7",

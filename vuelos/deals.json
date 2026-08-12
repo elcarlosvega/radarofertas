@@ -1,6 +1,6 @@
 {
- "generated_at": 1786500244.0073133,
- "generated_at_str": "11/08/2026 20:04",
+ "generated_at": 1786503846.2321966,
+ "generated_at_str": "11/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-salt-lake-city-20261007-aec856ad/"
   },
   {
-   "id": "2b787a19b888b7f7010bf6765080eb28",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BEG",
-   "destination_name": "Belgrado",
-   "airline": "EI",
-   "airline_title": "Aer Lingus",
-   "logo": "https://pics.avs.io/600/113/EI.png",
-   "logo_tipo": "",
-   "price": 9393.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-18T00:45:00-06:00",
-   "return_at": "",
-   "duration": 2000,
-   "link": "https://www.aviasales.com/search/MEX1811BEG1?t=EI17949627001795107900002000MEXJFKSNNLHRBEG_2b787a19b888b7f7010bf6765080eb28_45333&search_date=11082026&expected_price_uuid=019ff286-779d-8050-62fa-cfcfc5eb9ac0&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=GSDcs_EnJDOUIqlJV-CW-A&expected_price_source=share&expected_price_currency=mxn&expected_price=9393",
-   "title": "Flight deals from Mexico City to Belgrade",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20261118-2b787a19/"
-  },
-  {
    "id": "fe69a9dd31209df1a37cde99f6f1dff3",
    "kind": "flight",
    "origin": "MEX",
@@ -80,12 +60,12 @@
    "airline_title": "Aer Lingus",
    "logo": "https://pics.avs.io/600/113/EI.png",
    "logo_tipo": "",
-   "price": 9494.0,
+   "price": 9492.0,
    "currency": "MXN",
    "departure_at": "2027-04-16T13:10:00-05:00",
    "return_at": "",
    "duration": 1770,
-   "link": "https://www.aviasales.com/search/MEX1604IST1?t=EI18078810001808019600001770MEXORDDUBLHRCPHIST_fe69a9dd31209df1a37cde99f6f1dff3_45845&search_date=12082026&expected_price_uuid=019ff363-ee29-8040-6f81-51133c233c69&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=m8___Yt7HXPQaX_JKRyieQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9494",
+   "link": "https://www.aviasales.com/search/MEX1604IST1?t=EI18078810001808019600001770MEXORDDUBLHRCPHIST_fe69a9dd31209df1a37cde99f6f1dff3_45845&search_date=12082026&expected_price_uuid=019ff363-ee29-8040-6f81-51133c233c69&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=m8___Yt7HXPQaX_JKRyieQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9492",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270416-fe69a9dd/"
   },
@@ -128,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX0511SEL1?t=AM17939052001794031800001210MEXMTYICN_2a5d653a554dd182caf43add8e6164bf_54027&search_date=11082026&expected_price_uuid=019ff327-b82f-8030-6011-67b806062dd0&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=UXp17yqUhXazdxShMDKHDA&expected_price_source=share&expected_price_currency=mxn&expected_price=11196",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261105-2a5d653a/"
+  },
+  {
+   "id": "781eff39b527b49a86070a2e4ed45353",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DAD",
+   "destination_name": "Đà Nẵng",
+   "airline": "CI",
+   "airline_title": "China Airlines",
+   "logo": "https://pics.avs.io/600/150/CI.png",
+   "logo_tipo": "",
+   "price": 12161.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-18T17:15:00-05:00",
+   "return_at": "",
+   "duration": 1605,
+   "link": "https://www.aviasales.com/search/MEX1808DAD1?t=CI17870733001787216400001605MEXSFOTPEDAD_781eff39b527b49a86070a2e4ed45353_58734&search_date=12082026&expected_price_uuid=019ff3cc-dc96-8040-aca4-1374e81e5517&static_fare_key=TY%7CP1%7CH0%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=HCpql37tnsHvEzYfl29dPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=12161",
+   "title": "Flight deals from Mexico City to Da Nang",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-a-nang-20260818-781eff39/"
   },
   {
    "id": "2f8ff73e4e96472fe7fb35cedf445904",

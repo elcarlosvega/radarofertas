@@ -1,6 +1,6 @@
 {
- "generated_at": 1786680244.3306973,
- "generated_at_str": "13/08/2026 22:04",
+ "generated_at": 1786683844.2598345,
+ "generated_at_str": "13/08/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "91ab3accfc658571ca9a5cc3ca0c4bb1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MTY",
-   "destination_name": "Monterrey",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 429.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-26T18:00:00-05:00",
-   "return_at": "",
-   "duration": 98,
-   "link": "https://www.aviasales.com/search/MEX2608MTY1?t=Y417877672001787773080000098TLCMTY_91ab3accfc658571ca9a5cc3ca0c4bb1_2095&search_date=13082026&expected_price_uuid=019ffd3e-17d8-8051-24a5-92427ceda256&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=429",
-   "title": "Flight deals from Mexico City to Monterrey",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260826-91ab3acc/"
-  },
   {
    "id": "6c5609c9864397592a52376b7e1ea11e",
    "kind": "flight",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1409TIJ1?t=Y417894037001789412040000199TLCTIJ_652aaa9698942ad8b083084d9f7c185a_3656&search_date=14082026&expected_price_uuid=019ffe47-a7ab-8040-6f88-9c9a14bc554d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DfllE1xfFTmzXpGgnoUUiA&expected_price_source=share&expected_price_currency=mxn&expected_price=750",
    "title": "Flight deals from Mexico City to Tijuana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20260914-652aaa96/"
+  },
+  {
+   "id": "c0336c94c158c398027e0502ef62e11c",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MTY",
+   "destination_name": "Monterrey",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 815.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-27T06:30:00-05:00",
+   "return_at": "",
+   "duration": 98,
+   "link": "https://www.aviasales.com/search/MEX2708MTY1?t=Y417878122001787818080000098TLCMTY_c0336c94c158c398027e0502ef62e11c_3976&search_date=13082026&expected_price_uuid=019ffd60-6990-8050-6f4a-df1ea12f3768&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Ratl4V_u8BHLtZ7YdhkoDw&expected_price_source=share&expected_price_currency=mxn&expected_price=815",
+   "title": "Flight deals from Mexico City to Monterrey",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260827-c0336c94/"
   },
   {
    "id": "8dbc9454c4e5b2958c0b26c4ca079e66",
@@ -180,12 +180,12 @@
    "airline_title": "Air France",
    "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 28647.0,
+   "price": 28643.0,
    "currency": "MXN",
    "departure_at": "2026-09-14T17:05:00-05:00",
    "return_at": "",
    "duration": 1475,
-   "link": "https://www.aviasales.com/search/MEX1409HAN1?t=AF17894055001789540800001475MEXCDGHAN_1d088726787c83bf235c8187151de755_139685&search_date=14082026&expected_price_uuid=019ffe57-750e-8030-6e02-0d02b3b6f376&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH1%7CR0%7CTBC1&itinerary_key=uZv1ivqmfadCC2latemyaA&expected_price_source=share&expected_price_currency=mxn&expected_price=28647",
+   "link": "https://www.aviasales.com/search/MEX1409HAN1?t=AF17894055001789540800001475MEXCDGHAN_1d088726787c83bf235c8187151de755_139685&search_date=14082026&expected_price_uuid=019ffe57-750e-8030-6e02-0d02b3b6f376&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH1%7CR0%7CTBC1&itinerary_key=uZv1ivqmfadCC2latemyaA&expected_price_source=share&expected_price_currency=mxn&expected_price=28643",
    "title": "Flight deals from Mexico City to Hanoi",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hanoi-20260914-1d088726/"
   }

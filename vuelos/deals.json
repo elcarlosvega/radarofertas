@@ -1,6 +1,6 @@
 {
- "generated_at": 1786662243.2735784,
- "generated_at_str": "13/08/2026 17:04",
+ "generated_at": 1786665843.7763257,
+ "generated_at_str": "13/08/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,46 @@
    "link": "https://www.aviasales.com/search/MEX2608MTY1?t=Y417877672001787773080000098TLCMTY_91ab3accfc658571ca9a5cc3ca0c4bb1_2095&search_date=13082026&expected_price_uuid=019ffd3e-17d8-8051-24a5-92427ceda256&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=429",
    "title": "Flight deals from Mexico City to Monterrey",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260826-91ab3acc/"
+  },
+  {
+   "id": "6c5609c9864397592a52376b7e1ea11e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 431.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-26T20:55:00-05:00",
+   "return_at": "",
+   "duration": 75,
+   "link": "https://www.aviasales.com/search/MEX2608GDL1?t=VB17877777001787782200000075NLUGDL_6c5609c9864397592a52376b7e1ea11e_2103&search_date=13082026&expected_price_uuid=019ffd75-a782-8030-2940-2b99dfa78fa0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=y967zK_o79G_GAqiXW4nWA&expected_price_source=share&expected_price_currency=mxn&expected_price=431",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260826-6c5609c9/"
+  },
+  {
+   "id": "8dbc9454c4e5b2958c0b26c4ca079e66",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CTG",
+   "destination_name": "Cartagena de Indias",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1863.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-29T19:25:00-05:00",
+   "return_at": "",
+   "duration": 240,
+   "link": "https://www.aviasales.com/search/MEX2908CTG1?t=VB17880315001788049500000240NLUCTG_8dbc9454c4e5b2958c0b26c4ca079e66_9087&search_date=13082026&expected_price_uuid=019ffd77-0e6b-8030-a5a1-3e3b7966ab6e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NYlMcU-KITMFJ2WP_KYyDA&expected_price_source=share&expected_price_currency=mxn&expected_price=1863",
+   "title": "Flight deals from Mexico City to Cartagena",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cartagena-de-indias-20260829-8dbc9454/"
   },
   {
    "id": "3230b2da9b87dd0c7123fc71395887f7",
@@ -90,7 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260825-ae00d4be/"
   },
   {
-   "id": "dc64b156c2e72c42febc688b2cf6eb7d",
+   "id": "7074972854f44b530267b03156003cad",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -100,14 +140,14 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 13134.0,
+   "price": 11337.0,
    "currency": "MXN",
-   "departure_at": "2027-01-07T20:05:00-06:00",
+   "departure_at": "2026-08-24T20:40:00-05:00",
    "return_at": "",
-   "duration": 1145,
-   "link": "https://www.aviasales.com/search/MEX0701SEL1?t=AM17993523001799475000001145MEXICN_dc64b156c2e72c42febc688b2cf6eb7d_64079&search_date=13082026&expected_price_uuid=019ffcf6-eac3-8040-2263-5ba0cd94447e&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=3ylSEfNKyOlF26jsHh6iug&expected_price_source=share&expected_price_currency=mxn&expected_price=13134",
+   "duration": 1100,
+   "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876040001787724000001100MEXICN_7074972854f44b530267b03156003cad_55304&search_date=13082026&expected_price_uuid=019ffd66-9e03-8030-efdc-6f49f9be733e&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=11337",
    "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270107-dc64b156/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260824-70749728/"
   },
   {
    "id": "e70d5afbf2be26efd6279faba3201008",

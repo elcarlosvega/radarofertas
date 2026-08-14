@@ -1,6 +1,6 @@
 {
- "generated_at": 1786727046.117204,
- "generated_at_str": "14/08/2026 11:04",
+ "generated_at": 1786730647.079807,
+ "generated_at_str": "14/08/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20261116-123d6210/"
   },
   {
-   "id": "cae426302a038c3d718569417e08c02b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "NHA",
-   "destination_name": "Nha Trang",
-   "airline": "PR",
-   "airline_title": "Philippine Airlines",
-   "logo": "https://pics.avs.io/600/150/PR.png",
-   "logo_tipo": "",
-   "price": 12553.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-17T11:35:00-05:00",
-   "return_at": "",
-   "duration": 2340,
-   "link": "https://www.aviasales.com/search/MEX1708NHA1?t=PR17869665001787153700002340MEXIAHYVRMNLSGNCXR_cae426302a038c3d718569417e08c02b_61916&search_date=14082026&expected_price_uuid=019ffff6-7f46-8030-2783-78a6fdbea851&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2B8H4ZTKfVPKCltq5LJ6fw&expected_price_source=share&expected_price_currency=mxn&expected_price=12553",
-   "title": "Flight deals from Mexico City to Nha Trang",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nha-trang-20260817-cae42630/"
-  },
-  {
    "id": "272bc2f34b5022094767f4c111ea000d",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1408TYO1?t=AM17867454001786861800001040MEXNRT_272bc2f34b5022094767f4c111ea000d_91905&search_date=14082026&expected_price_uuid=01a000ac-e23e-8050-a2f3-68671f379708&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=N7pVhFezru0eVi5nbm8Q5Q&expected_price_source=share&expected_price_currency=mxn&expected_price=18582",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260814-272bc2f3/"
+  },
+  {
+   "id": "f0396f2edd89826d3e115c7c91c39c09",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 22029.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-14T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX1409IST1?t=TK17893764001789467600000980MEXIST_f0396f2edd89826d3e115c7c91c39c09_109174&search_date=14082026&expected_price_uuid=01a00168-4503-8050-632f-191911e294de&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=22029",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260914-f0396f2e/"
   },
   {
    "id": "1d088726787c83bf235c8187151de755",

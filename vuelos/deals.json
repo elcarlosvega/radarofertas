@@ -1,6 +1,6 @@
 {
- "generated_at": 1786701843.9304528,
- "generated_at_str": "14/08/2026 04:04",
+ "generated_at": 1786705443.9233758,
+ "generated_at_str": "14/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "f1699a221b7b5c8c46813eb7ad98f322",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CZM",
+   "destination_name": "Municipio de Cozumel",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1117.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-27T12:10:00-06:00",
+   "return_at": "",
+   "duration": 124,
+   "link": "https://www.aviasales.com/search/MEX2701CZM1?t=Y418010518001801062840000124MEXCZM_f1699a221b7b5c8c46813eb7ad98f322_5498&search_date=14082026&expected_price_uuid=019fffc2-a93f-8040-65f0-aad8855986fa&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9DRsXfD92QWNn2c0nhlbhQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1117",
+   "title": "Flight deals from Mexico City to Cozumel",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-cozumel-20270127-f1699a22/"
+  },
   {
    "id": "1372c8bb4b58199faead2493cd817096",
    "kind": "flight",
@@ -20,12 +40,12 @@
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 3972.0,
+   "price": 4051.0,
    "currency": "MXN",
    "departure_at": "2026-08-30T10:21:00-05:00",
    "return_at": "",
    "duration": 769,
-   "link": "https://www.aviasales.com/search/MEX3008LIM1?t=DM17880852601788135000000769NLUPUJLIM_1372c8bb4b58199faead2493cd817096_19546&search_date=14082026&expected_price_uuid=019fffb0-07a1-8030-6e17-c35d5e7d4ca4&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=fiQCTHp5eKj-ePZA3nCfcg&expected_price_source=share&expected_price_currency=mxn&expected_price=3972",
+   "link": "https://www.aviasales.com/search/MEX3008LIM1?t=DM17880852601788135000000769NLUPUJLIM_1372c8bb4b58199faead2493cd817096_19937&search_date=14082026&expected_price_uuid=019fffbb-9468-8030-6661-61d10a5861ff&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=fiQCTHp5eKj-ePZA3nCfcg&expected_price_source=share&expected_price_currency=mxn&expected_price=4051",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260830-1372c8bb/"
   },
@@ -45,7 +65,7 @@
    "departure_at": "2026-08-19T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1908IST1?t=TK17871300001787221200000980MEXIST_7da3abd4edb2c75da81efac2a9b47a8a_102443&search_date=14082026&expected_price_uuid=019ffec6-8998-8040-abfc-afd0e0268ed3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=20990",
+   "link": "https://www.aviasales.com/search/MEX1908IST1?t=TK17871300001787221200000980MEXIST_7da3abd4edb2c75da81efac2a9b47a8a_102443&search_date=14082026&expected_price_uuid=019ffec6-8998-8040-abfc-afd0e0268ed3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=20989",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260819-7da3abd4/"
   }

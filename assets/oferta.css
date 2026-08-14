@@ -80,6 +80,19 @@ table.ficha td:last-child{font-weight:700;text-align:right}
 .pn2{font-weight:900;font-size:1.1rem}
 .po2{color:#a3adb8;text-decoration:line-through;font-size:.77rem}
 .sv2{color:var(--green-dk);font-weight:800;font-size:.72rem}
+.hist{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px 20px}
+.hhead{display:flex;align-items:center;gap:9px;font-weight:900;font-size:.98rem;letter-spacing:-.01em}
+.hbars{margin-top:14px;display:grid;gap:10px}
+.hrow{display:grid;grid-template-columns:150px 1fr auto;align-items:center;gap:12px;font-size:.78rem;color:var(--mut);font-weight:700}
+.hrow .htr{height:10px;background:#eceff3;border-radius:99px;overflow:hidden}
+.hrow .htr i{display:block;height:100%;background:#c9d1da;border-radius:99px}
+.hrow .hvl{font-weight:800;color:var(--ink);font-size:.84rem;white-space:nowrap}
+.hrow.mine .hlb,.hrow.mine .hvl{color:var(--green-dk)}
+.hrow.mine .htr i{background:var(--green)}
+.hfoot{margin-top:13px;font-size:.76rem;color:var(--mut);line-height:1.6}
+.hchip{display:inline-block;margin-top:10px;background:var(--green-soft);color:var(--green-dk);font-weight:900;font-size:.78rem;padding:7px 12px;border-radius:9px}
+.xst{align-self:flex-start;font-size:.66rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase;color:var(--a,var(--mut));border:1px solid currentColor;border-radius:6px;padding:2px 6px;opacity:.9}
+.xnote{font-size:.78rem;color:var(--mut);margin:-6px 0 12px;line-height:1.6}
 .tgband{margin-top:38px;background:var(--dark);color:#fff;border-radius:20px;padding:26px 28px;display:flex;align-items:center;gap:20px;flex-wrap:wrap}
 .tgband h3{font-size:1.05rem;font-weight:900}
 .tgband p{font-size:.85rem;opacity:.75;margin-top:4px}
@@ -88,6 +101,8 @@ footer{border-top:1px solid var(--line);background:#fff;padding:24px 20px;color:
 footer a{color:var(--green-dk);font-weight:700}
 .sticky{display:none}
 @media(max-width:860px){
+  .hrow{grid-template-columns:1fr auto;gap:4px 10px}
+  .hrow .htr{grid-column:1/-1;order:3}
   .navin{flex-wrap:wrap;gap:10px}
   .tabs{order:3;flex:0 0 100%;flex-wrap:nowrap;overflow-x:auto}
   .tab{white-space:nowrap;padding:7px 10px}

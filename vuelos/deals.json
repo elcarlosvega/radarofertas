@@ -1,6 +1,6 @@
 {
- "generated_at": 1786777444.7916453,
- "generated_at_str": "15/08/2026 01:04",
+ "generated_at": 1786781044.1413662,
+ "generated_at_str": "15/08/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "9e87c623443377e040d397c8c728acfd",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1486.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-16T06:00:00-05:00",
-   "return_at": "",
-   "duration": 75,
-   "link": "https://www.aviasales.com/search/GDL1608MEX1?t=VB17868600001786864500000075GDLNLU_9e87c623443377e040d397c8c728acfd_7348&search_date=15082026&expected_price_uuid=01a002ff-2243-8040-2e5a-2aa5904a9b53&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Gqr-PKFUoiZdS4VIismcZw&expected_price_source=share&expected_price_currency=mxn&expected_price=1486",
-   "title": "Flight deals from Guadalajara to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260816-9e87c623/"
-  },
   {
    "id": "e3599e57152bdd554d080979ab2243ca",
    "kind": "flight",
@@ -80,12 +60,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 20944.0,
+   "price": 20991.0,
    "currency": "MXN",
    "departure_at": "2026-08-18T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1808IST1?t=TK17870436001787134800000980MEXIST_f4d3150b1f506c19f3a42ab5455dee06_103571&search_date=15082026&expected_price_uuid=01a00366-46f6-8050-67da-cd9af354608b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=20944",
+   "link": "https://www.aviasales.com/search/MEX1808IST1?t=TK17870436001787134800000980MEXIST_f4d3150b1f506c19f3a42ab5455dee06_103571&search_date=15082026&expected_price_uuid=01a0044d-a8c6-8050-ab8d-1654e68b75ad&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=20991",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260818-f4d3150b/"
   }

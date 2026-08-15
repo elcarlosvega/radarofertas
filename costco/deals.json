@@ -1,6 +1,6 @@
 {
- "generated_at": 1786817360.9836469,
- "generated_at_str": "15/08/2026 12:09",
+ "generated_at": 1786821245.5426776,
+ "generated_at_str": "15/08/2026 13:14",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -5877,24 +5877,6 @@
    "h_min": 6999.0,
    "h_ayer": 7499.0,
    "h_min7": 7499.0
-  },
-  {
-   "id": "703800",
-   "name": "Dyson Aspiradora Inalámbrica V9 Moto Bar",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-del-Hogar/Aspiradoras/Dyson-Aspiradora-Inalambrica-V9-Moto-Bar/p/703800",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/hdb/453817324863518.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 7999.0,
-   "price_new": 5999.0,
-   "pct": 25.0,
-   "amount": 2000.0,
-   "starts": "2026-08-10T06:00:00.000Z",
-   "ends": "2026-08-17T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786370734.8538985,
-   "h_dias": 6,
-   "h_min": 5999.0,
-   "h_ayer": 5999.0
   },
   {
    "id": "686579",
@@ -12741,7 +12723,7 @@
    "starts": "2026-08-15T06:00:00.000Z",
    "ends": "2026-08-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1786817360.9836469,
+   "first_seen": 1786817371.0368576,
    "h_dias": 3,
    "h_min": 374.25,
    "h_ayer": 374.25
@@ -14504,6 +14486,25 @@
    "first_seen": 1786284323.613157,
    "h_dias": 9,
    "h_min": 6699.0,
+   "h_ayer": 6999.0,
+   "h_min7": 6999.0
+  },
+  {
+   "id": "696656",
+   "name": "Apple Watch Series 11 (GPS) 42mm Aluminio Negro Azabache + Correa Deportiva Negra - Talla S/M",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-42mm-Aluminio-Negro-Azabache-Correa-Deportiva-Negra-Talla-SM/p/696656",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h80/h36/382853252448286.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-08-09T06:00:00.000Z",
+   "ends": "2026-08-16T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786284323.613157,
+   "h_dias": 7,
+   "h_min": 6999.0,
    "h_ayer": 6999.0,
    "h_min7": 6999.0
   },

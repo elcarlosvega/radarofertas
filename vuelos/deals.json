@@ -1,6 +1,6 @@
 {
- "generated_at": 1786788244.8734407,
- "generated_at_str": "15/08/2026 04:04",
+ "generated_at": 1786791843.8972752,
+ "generated_at_str": "15/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/GDL2009MEX1?t=Y417898930001789897500000075GDLNLU_505cce325d191744133311378395fa1d_5712&search_date=15082026&expected_price_uuid=01a00487-e329-8050-e089-ed1fc390bc3d&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Z3C3p-13FaVY2XD9CYMp0g&expected_price_source=share&expected_price_currency=mxn&expected_price=1158",
    "title": "Flight deals from Guadalajara to Mexico City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260920-505cce32/"
+  },
+  {
+   "id": "c56054a626497c303a25f0bfd702445b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CCS",
+   "destination_name": "Caracas",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
+   "logo_tipo": "",
+   "price": 6163.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T05:36:00-05:00",
+   "return_at": "",
+   "duration": 2092,
+   "link": "https://www.aviasales.com/search/MEX1609CCS1?t=CM17895369601789669680002092NLUGDLPTYBOGCCS_c56054a626497c303a25f0bfd702445b_30407&search_date=15082026&expected_price_uuid=01a004e1-5290-8040-6d5d-8f614d5a8e5b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GTsfBQGjXtwhiusC25agAw&expected_price_source=share&expected_price_currency=mxn&expected_price=6163",
+   "title": "Flight deals from Mexico City to Caracas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-caracas-20260916-c56054a6/"
   },
   {
    "id": "1efe5dc995975a7fc5cc1996ac5423c4",

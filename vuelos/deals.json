@@ -1,6 +1,6 @@
 {
- "generated_at": 1786809844.527173,
- "generated_at_str": "15/08/2026 10:04",
+ "generated_at": 1786813444.7923884,
+ "generated_at_str": "15/08/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,46 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "27effe4247b10cd9fd5f83921ea7e2bf",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LAP",
+   "destination_name": "La Paz",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 992.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-11T13:53:00-05:00",
+   "return_at": "",
+   "duration": 99,
+   "link": "https://www.aviasales.com/search/GDL1110LAP1?t=VB17917267801791729120000099GDLLAP_27effe4247b10cd9fd5f83921ea7e2bf_4906&search_date=15082026&expected_price_uuid=01a00639-a84d-8030-6a73-83706bdea847&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jmnAPU7SGiPced2h2tnZ9A&expected_price_source=share&expected_price_currency=mxn&expected_price=992",
+   "title": "Flight deals from Guadalajara to La Paz",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-la-paz-20261011-27effe42/"
+  },
+  {
+   "id": "7b2b2c2ddb0d5bcaaf57be946ebcd2a6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "FLL",
+   "destination_name": "Fort Lauderdale",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2962.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-21T11:05:00-05:00",
+   "return_at": "",
+   "duration": 366,
+   "link": "https://www.aviasales.com/search/MEX2109FLL1?t=Y417899887001790017860000366MEXMCOFLL_7b2b2c2ddb0d5bcaaf57be946ebcd2a6_14648&search_date=15082026&expected_price_uuid=01a0062e-e1ee-8040-237e-7cc1d68cadf7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4VaCEj_RNun5UgJbUAvnMg&expected_price_source=share&expected_price_currency=mxn&expected_price=2962",
+   "title": "Flight deals from Mexico City to Fort Lauderdale",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-fort-lauderdale-20260921-7b2b2c2d/"
+  },
   {
    "id": "10b73c62bb58eecf0283f7054987aca4",
    "kind": "flight",
@@ -28,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX2910SAO1?t=DM17932683601793328120000816NLUPUJGRU_10b73c62bb58eecf0283f7054987aca4_24140&search_date=15082026&expected_price_uuid=01a005c4-f612-8050-6c0f-00cd1666b667&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SJPLJWgDpodqCRqKt7CI4w&expected_price_source=share&expected_price_currency=mxn&expected_price=4882",
    "title": "Flight deals from Mexico City to Sao Paulo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261029-10b73c62/"
-  },
-  {
-   "id": "c56054a626497c303a25f0bfd702445b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CCS",
-   "destination_name": "Caracas",
-   "airline": "CM",
-   "airline_title": "Copa Airlines",
-   "logo": "https://pics.avs.io/600/150/CM.png",
-   "logo_tipo": "",
-   "price": 6163.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-16T05:36:00-05:00",
-   "return_at": "",
-   "duration": 2092,
-   "link": "https://www.aviasales.com/search/MEX1609CCS1?t=CM17895369601789669680002092NLUGDLPTYBOGCCS_c56054a626497c303a25f0bfd702445b_30407&search_date=15082026&expected_price_uuid=01a004e1-5290-8040-6d5d-8f614d5a8e5b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GTsfBQGjXtwhiusC25agAw&expected_price_source=share&expected_price_currency=mxn&expected_price=6163",
-   "title": "Flight deals from Mexico City to Caracas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-caracas-20260916-c56054a6/"
   },
   {
    "id": "f8e9bb26b0433d4660a4af0fc8a0ddb9",

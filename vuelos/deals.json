@@ -1,6 +1,6 @@
 {
- "generated_at": 1786824244.2726388,
- "generated_at_str": "15/08/2026 14:04",
+ "generated_at": 1786827845.4815114,
+ "generated_at_str": "15/08/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,6 +70,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260826-eaf7b2d2/"
   },
   {
+   "id": "cac1e27c2822dc57b864860e6f9e2702",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3592.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-12T06:00:00-05:00",
+   "return_at": "",
+   "duration": 445,
+   "link": "https://www.aviasales.com/search/MEX1209DFW1?t=VB17891928001789223100000445NLUMTYDFW_cac1e27c2822dc57b864860e6f9e2702_17763&search_date=15082026&expected_price_uuid=01a00707-91a8-8040-20d1-02b90bf303e4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7V0GQC-7aHg9gX9qibbNGw&expected_price_source=share&expected_price_currency=mxn&expected_price=3592",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260912-cac1e27c/"
+  },
+  {
    "id": "e459d1d04e2ea62408826b550bee8c37",
    "kind": "flight",
    "origin": "MEX",
@@ -88,26 +108,6 @@
    "link": "https://www.aviasales.com/search/MEX2409BUE1?t=DM17902443601790305200000834NLUPUJEZE_e459d1d04e2ea62408826b550bee8c37_22799&search_date=15082026&expected_price_uuid=01a006d8-1eb3-8030-6f5c-06c44237a7eb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i02S781PSCO3bCoW1Qu3xQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4610",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260924-e459d1d0/"
-  },
-  {
-   "id": "10b73c62bb58eecf0283f7054987aca4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAO",
-   "destination_name": "São Paulo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4882.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-29T10:06:00-06:00",
-   "return_at": "",
-   "duration": 816,
-   "link": "https://www.aviasales.com/search/MEX2910SAO1?t=DM17932683601793328120000816NLUPUJGRU_10b73c62bb58eecf0283f7054987aca4_24140&search_date=15082026&expected_price_uuid=01a005c4-f612-8050-6c0f-00cd1666b667&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SJPLJWgDpodqCRqKt7CI4w&expected_price_source=share&expected_price_currency=mxn&expected_price=4882",
-   "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261029-10b73c62/"
   },
   {
    "id": "579e59c77bb2995558db520fc2ded0ee",

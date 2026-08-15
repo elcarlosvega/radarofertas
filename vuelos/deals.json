@@ -1,6 +1,6 @@
 {
- "generated_at": 1786781044.1413662,
- "generated_at_str": "15/08/2026 02:04",
+ "generated_at": 1786784644.8332531,
+ "generated_at_str": "15/08/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "e3599e57152bdd554d080979ab2243ca",
+   "id": "505cce325d191744133311378395fa1d",
    "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAL",
-   "destination_name": "San Salvador",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 3016.0,
+   "price": 1158.0,
    "currency": "MXN",
-   "departure_at": "2026-12-31T11:35:00-06:00",
+   "departure_at": "2026-09-20T08:30:00-05:00",
    "return_at": "",
-   "duration": 144,
-   "link": "https://www.aviasales.com/search/MEX3112SAL1?t=AM17987169001798725540000144MEXSAL_e3599e57152bdd554d080979ab2243ca_14915&search_date=15082026&expected_price_uuid=01a00351-c46b-8040-6d2d-ce3ee0222e1f&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=iAZUwdZQ6IUY6GmOWYkY_A&expected_price_source=share&expected_price_currency=mxn&expected_price=3016",
-   "title": "Flight deals from Mexico City to San Salvador",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-salvador-20261231-e3599e57/"
+   "duration": 75,
+   "link": "https://www.aviasales.com/search/GDL2009MEX1?t=Y417898930001789897500000075GDLNLU_505cce325d191744133311378395fa1d_5712&search_date=15082026&expected_price_uuid=01a00487-e329-8050-e089-ed1fc390bc3d&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Z3C3p-13FaVY2XD9CYMp0g&expected_price_source=share&expected_price_currency=mxn&expected_price=1158",
+   "title": "Flight deals from Guadalajara to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260920-505cce32/"
   },
   {
    "id": "1efe5dc995975a7fc5cc1996ac5423c4",

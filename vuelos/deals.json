@@ -1,6 +1,6 @@
 {
- "generated_at": 1786831444.4836085,
- "generated_at_str": "15/08/2026 16:04",
+ "generated_at": 1786835044.1791103,
+ "generated_at_str": "15/08/2026 17:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "27effe4247b10cd9fd5f83921ea7e2bf",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "LAP",
-   "destination_name": "La Paz",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 992.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-11T13:53:00-05:00",
-   "return_at": "",
-   "duration": 99,
-   "link": "https://www.aviasales.com/search/GDL1110LAP1?t=VB17917267801791729120000099GDLLAP_27effe4247b10cd9fd5f83921ea7e2bf_4906&search_date=15082026&expected_price_uuid=01a00639-a84d-8030-6a73-83706bdea847&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jmnAPU7SGiPced2h2tnZ9A&expected_price_source=share&expected_price_currency=mxn&expected_price=992",
-   "title": "Flight deals from Guadalajara to La Paz",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-la-paz-20261011-27effe42/"
-  },
   {
    "id": "c186f2cd240c569fe1400fe08bf1807b",
    "kind": "flight",
@@ -48,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1609LIM1?t=Y417895960001789621260000361MEXLIM_c186f2cd240c569fe1400fe08bf1807b_14440&search_date=15082026&expected_price_uuid=01a0076b-0b9c-8040-67e0-e96edf4c45e8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FrV8QeGc0AJmB7JQ370aXA&expected_price_source=share&expected_price_currency=mxn&expected_price=2920",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260916-c186f2cd/"
-  },
-  {
-   "id": "7b2b2c2ddb0d5bcaaf57be946ebcd2a6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "FLL",
-   "destination_name": "Fort Lauderdale",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2962.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-21T11:05:00-05:00",
-   "return_at": "",
-   "duration": 366,
-   "link": "https://www.aviasales.com/search/MEX2109FLL1?t=Y417899887001790017860000366MEXMCOFLL_7b2b2c2ddb0d5bcaaf57be946ebcd2a6_14648&search_date=15082026&expected_price_uuid=01a0062e-e1ee-8040-237e-7cc1d68cadf7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4VaCEj_RNun5UgJbUAvnMg&expected_price_source=share&expected_price_currency=mxn&expected_price=2962",
-   "title": "Flight deals from Mexico City to Fort Lauderdale",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-fort-lauderdale-20260921-7b2b2c2d/"
   },
   {
    "id": "0f9ee0f646b7081c7fe02a573ef7a9a4",
@@ -148,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX1411IST1?t=EI17946171001794770700002020MEXJFKSNNLHRSTNSAW_1dd4ca78d51c998bbf96b40193921d27_37465&search_date=15082026&expected_price_uuid=01a006c6-4ab8-8030-618e-5c4c35c407ff&static_fare_key=TY%7CP0%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=y3wmE4ajP0Ji6wuDq8_92A&expected_price_source=share&expected_price_currency=mxn&expected_price=7576",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261114-1dd4ca78/"
+  },
+  {
+   "id": "e33332fddaba28d2704f1975148e8238",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "AMS",
+   "destination_name": "Ámsterdam",
+   "airline": "IB",
+   "airline_title": "Iberia",
+   "logo": "https://pics.avs.io/600/150/IB.png",
+   "logo_tipo": "",
+   "price": 9822.0,
+   "currency": "MXN",
+   "departure_at": "2027-07-20T23:55:00-05:00",
+   "return_at": "",
+   "duration": 865,
+   "link": "https://www.aviasales.com/search/MEX2007AMS1?t=IB18161277001816208400000865MEXMADAMS_e33332fddaba28d2704f1975148e8238_48572&search_date=15082026&expected_price_uuid=01a0079b-e176-8040-2d4b-20c1da008db6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Yy-QJqlteJ-ghqCreo5XxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9822",
+   "title": "Flight deals from Mexico City to Amsterdam",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20270720-e33332fd/"
   },
   {
    "id": "37561fc9f107637040cd74c72f0627e7",

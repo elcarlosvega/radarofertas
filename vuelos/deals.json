@@ -1,6 +1,6 @@
 {
- "generated_at": 1786752244.546656,
- "generated_at_str": "14/08/2026 18:04",
+ "generated_at": 1786755844.322338,
+ "generated_at_str": "14/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261203-10a12ea5/"
   },
   {
-   "id": "f10127eab810537eaf6b1d47289c8e71",
+   "id": "b622cf00a93bd289bb253e09185d1d00",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "SEL",
    "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "airline": "PR",
+   "airline_title": "Philippine Airlines",
+   "logo": "https://pics.avs.io/600/150/PR.png",
    "logo_tipo": "",
-   "price": 11177.0,
+   "price": 9119.0,
    "currency": "MXN",
-   "departure_at": "2026-08-26T20:40:00-05:00",
+   "departure_at": "2027-01-23T12:25:00-06:00",
    "return_at": "",
-   "duration": 1100,
-   "link": "https://www.aviasales.com/search/MEX2608SEL1?t=AM17877768001787896800001100MEXICN_f10127eab810537eaf6b1d47289c8e71_55318&search_date=14082026&expected_price_uuid=01a00180-141f-8050-ec4a-cd9b6428d6c2&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=11177",
+   "duration": 2385,
+   "link": "https://www.aviasales.com/search/MEX2301SEL1?t=PR18007071001800904200002385MEXIAHYYZMNLICN_b622cf00a93bd289bb253e09185d1d00_45095&search_date=14082026&expected_price_uuid=01a002a6-2a7a-8030-6403-dfc40e5a856c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MzmdjrjP98SjbDTy7Yq5rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9119",
    "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260826-f10127ea/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270123-b622cf00/"
   },
   {
    "id": "2c51828db2ad9a713828012b93f888ed",

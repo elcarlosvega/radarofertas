@@ -1,6 +1,6 @@
 {
- "generated_at": 1786773844.802697,
- "generated_at_str": "15/08/2026 00:04",
+ "generated_at": 1786777444.7916453,
+ "generated_at_str": "15/08/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX3112SAL1?t=AM17987169001798725540000144MEXSAL_e3599e57152bdd554d080979ab2243ca_14915&search_date=15082026&expected_price_uuid=01a00351-c46b-8040-6d2d-ce3ee0222e1f&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=iAZUwdZQ6IUY6GmOWYkY_A&expected_price_source=share&expected_price_currency=mxn&expected_price=3016",
    "title": "Flight deals from Mexico City to San Salvador",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-salvador-20261231-e3599e57/"
+  },
+  {
+   "id": "1efe5dc995975a7fc5cc1996ac5423c4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BEG",
+   "destination_name": "Belgrado",
+   "airline": "EI",
+   "airline_title": "Aer Lingus",
+   "logo": "https://pics.avs.io/600/113/EI.png",
+   "logo_tipo": "",
+   "price": 9810.0,
+   "currency": "MXN",
+   "departure_at": "2027-05-25T13:07:00-05:00",
+   "return_at": "",
+   "duration": 2413,
+   "link": "https://www.aviasales.com/search/MEX2505BEG1?t=EI18112504201811424000002413MEXORDDUBLHRWAWBEG_1efe5dc995975a7fc5cc1996ac5423c4_48402&search_date=15082026&expected_price_uuid=01a0042a-1c70-8050-6a7e-5d21340d60fc&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=JIjySpPb7BrVKinCxyxodQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9810",
+   "title": "Flight deals from Mexico City to Belgrade",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270525-1efe5dc9/"
   },
   {
    "id": "f4d3150b1f506c19f3a42ab5455dee06",

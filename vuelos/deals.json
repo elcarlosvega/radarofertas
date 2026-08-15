@@ -1,6 +1,6 @@
 {
- "generated_at": 1786813444.7923884,
- "generated_at_str": "15/08/2026 11:04",
+ "generated_at": 1786817044.994131,
+ "generated_at_str": "15/08/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-fort-lauderdale-20260921-7b2b2c2d/"
   },
   {
+   "id": "eaf7b2d273ef723a8eacee33e53f919d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3524.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-26T16:10:00-05:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX2608HOU1?t=Y417877606001787772300000135MEXIAH_eaf7b2d273ef723a8eacee33e53f919d_17426&search_date=15082026&expected_price_uuid=01a0068e-5aaa-8040-aec1-a7d51c757175&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3524",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260826-eaf7b2d2/"
+  },
+  {
    "id": "10b73c62bb58eecf0283f7054987aca4",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +108,46 @@
    "link": "https://www.aviasales.com/search/MEX3009IST1?t=AM17907480601790890800001839MEXMTYMADBRUSAW_f8e9bb26b0433d4660a4af0fc8a0ddb9_48792&search_date=15082026&expected_price_uuid=01a00567-d098-8050-2bcd-769fc8f6f089&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=F2NX9gTC6_j4BA4EI8mLNA&expected_price_source=share&expected_price_currency=mxn&expected_price=9867",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260930-f8e9bb26/"
+  },
+  {
+   "id": "37561fc9f107637040cd74c72f0627e7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SSH",
+   "destination_name": "Sharm el-Sheij",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 10095.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-09T06:50:00-06:00",
+   "return_at": "",
+   "duration": 1975,
+   "link": "https://www.aviasales.com/search/MEX0911SSH1?t=AM17942070001794354300001975MEXMTYMADBRUSAWSSH_37561fc9f107637040cd74c72f0627e7_49922&search_date=15082026&expected_price_uuid=01a00679-5ff5-8040-aafc-f00b49d2e617&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=8oPJLqHoS3CiwhMxzeFnPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10095",
+   "title": "Flight deals from Mexico City to Sharm el Sheikh",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sharm-el-sheij-20261109-37561fc9/"
+  },
+  {
+   "id": "0a1a2080f352a1e5609be538cb4332a2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Alma Ata",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 28002.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-16T09:00:00-05:00",
+   "return_at": "",
+   "duration": 1410,
+   "link": "https://www.aviasales.com/search/MEX1608ALA1?t=TK17868708001786995000001410MEXISTALA_0a1a2080f352a1e5609be538cb4332a2_138474&search_date=15082026&expected_price_uuid=01a00689-bb7f-8040-2eba-5f82ede5616e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MYwP2W3owhVE6h7Lie8tXQ&expected_price_source=share&expected_price_currency=mxn&expected_price=28002",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20260816-0a1a2080/"
   }
  ]
 }

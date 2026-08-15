@@ -1,6 +1,6 @@
 {
- "generated_at": 1786795444.6550515,
- "generated_at_str": "15/08/2026 06:04",
+ "generated_at": 1786799045.1962159,
+ "generated_at_str": "15/08/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,44 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-caracas-20260916-c56054a6/"
   },
   {
-   "id": "1efe5dc995975a7fc5cc1996ac5423c4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BEG",
-   "destination_name": "Belgrado",
-   "airline": "EI",
-   "airline_title": "Aer Lingus",
-   "logo": "https://pics.avs.io/600/113/EI.png",
-   "logo_tipo": "",
-   "price": 9810.0,
-   "currency": "MXN",
-   "departure_at": "2027-05-25T13:07:00-05:00",
-   "return_at": "",
-   "duration": 2413,
-   "link": "https://www.aviasales.com/search/MEX2505BEG1?t=EI18112504201811424000002413MEXORDDUBLHRWAWBEG_1efe5dc995975a7fc5cc1996ac5423c4_48402&search_date=15082026&expected_price_uuid=01a0042a-1c70-8050-6a7e-5d21340d60fc&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=JIjySpPb7BrVKinCxyxodQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9810",
-   "title": "Flight deals from Mexico City to Belgrade",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270525-1efe5dc9/"
-  },
-  {
-   "id": "f4d3150b1f506c19f3a42ab5455dee06",
+   "id": "f8e9bb26b0433d4660a4af0fc8a0ddb9",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "IST",
    "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 20991.0,
+   "price": 9867.0,
    "currency": "MXN",
-   "departure_at": "2026-08-18T09:00:00-05:00",
+   "departure_at": "2026-09-30T06:01:00-05:00",
    "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1808IST1?t=TK17870436001787134800000980MEXIST_f4d3150b1f506c19f3a42ab5455dee06_103571&search_date=15082026&expected_price_uuid=01a0044d-a8c6-8050-ab8d-1654e68b75ad&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=20991",
+   "duration": 1839,
+   "link": "https://www.aviasales.com/search/MEX3009IST1?t=AM17907480601790890800001839MEXMTYMADBRUSAW_f8e9bb26b0433d4660a4af0fc8a0ddb9_48792&search_date=15082026&expected_price_uuid=01a00567-d098-8050-2bcd-769fc8f6f089&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=F2NX9gTC6_j4BA4EI8mLNA&expected_price_source=share&expected_price_currency=mxn&expected_price=9867",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260818-f4d3150b/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260930-f8e9bb26/"
   }
  ]
 }

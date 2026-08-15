@@ -1,6 +1,6 @@
 {
- "generated_at": 1786759444.860981,
- "generated_at_str": "14/08/2026 20:04",
+ "generated_at": 1786763044.4896603,
+ "generated_at_str": "14/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,6 +30,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260816-9e87c623/"
   },
   {
+   "id": "e3599e57152bdd554d080979ab2243ca",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SAL",
+   "destination_name": "San Salvador",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 3016.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-31T11:35:00-06:00",
+   "return_at": "",
+   "duration": 144,
+   "link": "https://www.aviasales.com/search/MEX3112SAL1?t=AM17987169001798725540000144MEXSAL_e3599e57152bdd554d080979ab2243ca_14915&search_date=15082026&expected_price_uuid=01a00351-c46b-8040-6d2d-ce3ee0222e1f&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=iAZUwdZQ6IUY6GmOWYkY_A&expected_price_source=share&expected_price_currency=mxn&expected_price=3016",
+   "title": "Flight deals from Mexico City to San Salvador",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-salvador-20261231-e3599e57/"
+  },
+  {
    "id": "d5ee761d6fff104eec248933d68470d4",
    "kind": "flight",
    "origin": "MEX",
@@ -48,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX0703SCL1?t=DM18044148601804481700000934NLUPUJSCL_d5ee761d6fff104eec248933d68470d4_26174&search_date=14082026&expected_price_uuid=01a0029d-e6e0-8030-2d76-ed6f37087bc3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zkM6sGDSPbdUNeHivZMo1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=5293",
    "title": "Flight deals from Mexico City to Santiago",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270307-d5ee761d/"
-  },
-  {
-   "id": "cf4872726b9a6460f182e3ac998ae0ad",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HNL",
-   "destination_name": "Honolulu",
-   "airline": "UA",
-   "airline_title": "United Airlines",
-   "logo": "https://pics.avs.io/600/150/UA.png",
-   "logo_tipo": "",
-   "price": 6887.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-22T07:30:00-05:00",
-   "return_at": "",
-   "duration": 775,
-   "link": "https://www.aviasales.com/search/MEX2210HNL1?t=UA17926542001792686300000775MEXSFOHNL_cf4872726b9a6460f182e3ac998ae0ad_34083&search_date=14082026&expected_price_uuid=01a001e1-b010-8051-23b1-f727f29022a9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m0pkuT12Fvjs2NxrH-32Ww&expected_price_source=share&expected_price_currency=mxn&expected_price=6887",
-   "title": "Flight deals from Mexico City to Honolulu",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-honolulu-20261022-cf487272/"
   },
   {
    "id": "c5a8a891dfef2cef73c951fd42feb45e",
@@ -128,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX2301SEL1?t=PR18007071001800904200002385MEXIAHYYZMNLICN_b622cf00a93bd289bb253e09185d1d00_45095&search_date=14082026&expected_price_uuid=01a002a6-2a7a-8030-6403-dfc40e5a856c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MzmdjrjP98SjbDTy7Yq5rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9119",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270123-b622cf00/"
-  },
-  {
-   "id": "531ab378578274118067de05d4c7ded2",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "VNO",
-   "destination_name": "Vilna",
-   "airline": "Z0",
-   "airline_title": "Norse Atlantic UK",
-   "logo": "https://pics.avs.io/600/150/Z0.png",
-   "logo_tipo": "",
-   "price": 9273.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-04T22:35:00-05:00",
-   "return_at": "",
-   "duration": 2205,
-   "link": "https://www.aviasales.com/search/MEX0409VNO1?t=Z017885613001788726000002205MEXGDLMCOLGWLTNVNO_531ab378578274118067de05d4c7ded2_45892&search_date=14082026&expected_price_uuid=01a001e7-9408-8030-e3ff-a6e716192828&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dS16V5z0pOo1RnDveW1UCg&expected_price_source=share&expected_price_currency=mxn&expected_price=9273",
-   "title": "Flight deals from Mexico City to Vilnius",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-vilna-20260904-531ab378/"
   },
   {
    "id": "674e7a4dec9abc771f07a6435db51f86",

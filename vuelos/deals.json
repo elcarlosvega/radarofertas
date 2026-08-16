@@ -1,6 +1,6 @@
 {
- "generated_at": 1786874643.191991,
- "generated_at_str": "16/08/2026 04:04",
+ "generated_at": 1786878243.824272,
+ "generated_at_str": "16/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "27effe4247b10cd9fd5f83921ea7e2bf",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "LAP",
-   "destination_name": "La Paz",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 994.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-11T13:53:00-05:00",
-   "return_at": "",
-   "duration": 99,
-   "link": "https://www.aviasales.com/search/GDL1110LAP1?t=VB17917267801791729120000099GDLLAP_27effe4247b10cd9fd5f83921ea7e2bf_4906&search_date=16082026&expected_price_uuid=01a008e6-140c-8030-e4e0-48f98c867e09&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jmnAPU7SGiPced2h2tnZ9A&expected_price_source=share&expected_price_currency=mxn&expected_price=994",
-   "title": "Flight deals from Guadalajara to La Paz",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-la-paz-20261011-27effe42/"
-  },
   {
    "id": "3fcd6c29a0ca5a678b192c77324061e5",
    "kind": "flight",
@@ -110,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20260826-fdc473a7/"
   },
   {
-   "id": "75dfcb76a26fafd4454dab66fd959a0b",
+   "id": "e459d1d04e2ea62408826b550bee8c37",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "LIM",
-   "destination_name": "Lima",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
    "airline": "DM",
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 3799.0,
+   "price": 4621.0,
    "currency": "MXN",
-   "departure_at": "2026-09-20T10:21:00-05:00",
+   "departure_at": "2026-09-24T10:06:00-05:00",
    "return_at": "",
-   "duration": 769,
-   "link": "https://www.aviasales.com/search/MEX2009LIM1?t=DM17898996601789949400000769NLUPUJLIM_75dfcb76a26fafd4454dab66fd959a0b_18745&search_date=16082026&expected_price_uuid=01a008e3-75f3-8040-20eb-31acee47a5d2&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=fiQCTHp5eKj-ePZA3nCfcg&expected_price_source=share&expected_price_currency=mxn&expected_price=3799",
-   "title": "Flight deals from Mexico City to Lima",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260920-75dfcb76/"
+   "duration": 834,
+   "link": "https://www.aviasales.com/search/MEX2409BUE1?t=DM17902443601790305200000834NLUPUJEZE_e459d1d04e2ea62408826b550bee8c37_22799&search_date=16082026&expected_price_uuid=01a00a19-443e-8040-2f12-c46008e20d18&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i02S781PSCO3bCoW1Qu3xQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4621",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260924-e459d1d0/"
   },
   {
    "id": "281748c4c405ef509f2ef4446a3d3a2a",
@@ -170,7 +150,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-vancouver-20261017-b9130fb3/"
   },
   {
-   "id": "ae45761ccf238e119263d1ed0d110f7d",
+   "id": "315683ff47aeb28151887fe63ac69d17",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -180,34 +160,34 @@
    "airline_title": "WestJet",
    "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 5983.0,
+   "price": 5823.0,
    "currency": "MXN",
-   "departure_at": "2026-12-01T01:15:00-06:00",
+   "departure_at": "2026-12-02T01:15:00-06:00",
    "return_at": "",
    "duration": 1635,
-   "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_29523&search_date=16082026&expected_price_uuid=01a009e5-1fed-8030-2e78-dd7649576c41&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5983",
+   "link": "https://www.aviasales.com/search/MEX0212PAR1?t=WS17961741001796297400001635MEXYYCCDG_315683ff47aeb28151887fe63ac69d17_28731&search_date=16082026&expected_price_uuid=01a00a3c-5f0c-8030-ac06-ae3d17dbb3c4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5823",
    "title": "Flight deals from Mexico City to Paris",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261202-315683ff/"
   },
   {
-   "id": "f91ac5e0c1840e4ac8d33121b3789087",
+   "id": "c69d85133c8ab1c2b1b255224dc703ae",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BKK",
-   "destination_name": "Bangkok",
-   "airline": "YP",
-   "airline_title": "Air Premia",
-   "logo": "https://pics.avs.io/600/150/YP.png",
+   "destination": "EVN",
+   "destination_name": "Ereván",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 10162.0,
+   "price": 21029.0,
    "currency": "MXN",
-   "departure_at": "2026-08-25T19:55:00-05:00",
+   "departure_at": "2026-09-24T09:00:00-05:00",
    "return_at": "",
-   "duration": 2175,
-   "link": "https://www.aviasales.com/search/MEX2508BKK1?t=YP17876877001787865000002175MEXLAXICNBKK_f91ac5e0c1840e4ac8d33121b3789087_50141&search_date=16082026&expected_price_uuid=01a009ba-9de4-8050-a870-c72d7d0022d0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1QdcBUPKrKaZM2IAytuYcA&expected_price_source=share&expected_price_currency=mxn&expected_price=10162",
-   "title": "Flight deals from Mexico City to Bangkok",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20260825-f91ac5e0/"
+   "duration": 1310,
+   "link": "https://www.aviasales.com/search/MEX2409EVN1?t=TK17902404001790355000001310MEXISTEVN_c69d85133c8ab1c2b1b255224dc703ae_103762&search_date=16082026&expected_price_uuid=01a00a3d-4f7d-8030-24a8-2f46a9e75ca2&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=zu9tHBX8Y4XB2pnNw5OnMw&expected_price_source=share&expected_price_currency=mxn&expected_price=21029",
+   "title": "Flight deals from Mexico City to Yerevan",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20260924-c69d8513/"
   }
  ]
 }

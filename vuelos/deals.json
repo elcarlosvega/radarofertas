@@ -1,6 +1,6 @@
 {
- "generated_at": 1786867443.7830353,
- "generated_at_str": "16/08/2026 02:04",
+ "generated_at": 1786871044.3087676,
+ "generated_at_str": "16/08/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -128,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1908MGA1?t=CM17871450001787221380001273MEXPTYSJOMGA_281748c4c405ef509f2ef4446a3d3a2a_27211&search_date=16082026&expected_price_uuid=01a00939-2095-8030-277e-66d2436d46de&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ksVz4y3P5MHX_QEttz6alw&expected_price_source=share&expected_price_currency=mxn&expected_price=5515",
    "title": "Flight deals from Mexico City to Managua",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-managua-20260819-281748c4/"
+  },
+  {
+   "id": "f91ac5e0c1840e4ac8d33121b3789087",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BKK",
+   "destination_name": "Bangkok",
+   "airline": "YP",
+   "airline_title": "Air Premia",
+   "logo": "https://pics.avs.io/600/150/YP.png",
+   "logo_tipo": "",
+   "price": 10162.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-25T19:55:00-05:00",
+   "return_at": "",
+   "duration": 2175,
+   "link": "https://www.aviasales.com/search/MEX2508BKK1?t=YP17876877001787865000002175MEXLAXICNBKK_f91ac5e0c1840e4ac8d33121b3789087_50141&search_date=16082026&expected_price_uuid=01a009ba-9de4-8050-a870-c72d7d0022d0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1QdcBUPKrKaZM2IAytuYcA&expected_price_source=share&expected_price_currency=mxn&expected_price=10162",
+   "title": "Flight deals from Mexico City to Bangkok",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20260825-f91ac5e0/"
   }
  ]
 }

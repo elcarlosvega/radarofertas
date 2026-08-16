@@ -1,6 +1,6 @@
 {
- "generated_at": 1786835044.1791103,
- "generated_at_str": "15/08/2026 17:04",
+ "generated_at": 1786838644.3588352,
+ "generated_at_str": "15/08/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "eabbeac38daff7b9c15f29b9ad48b065",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 429.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-26T17:30:00-05:00",
+   "return_at": "",
+   "duration": 75,
+   "link": "https://www.aviasales.com/search/MEX2608GDL1?t=VB17877654001787769900000075NLUGDL_eabbeac38daff7b9c15f29b9ad48b065_2119&search_date=15082026&expected_price_uuid=01a007ca-63a5-8030-68e3-b9b381f8d5fd&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PjTGYKEF8Ch98of1ZJUyaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=429",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260826-eabbeac3/"
+  },
   {
    "id": "c186f2cd240c569fe1400fe08bf1807b",
    "kind": "flight",
@@ -28,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1609LIM1?t=Y417895960001789621260000361MEXLIM_c186f2cd240c569fe1400fe08bf1807b_14440&search_date=15082026&expected_price_uuid=01a0076b-0b9c-8040-67e0-e96edf4c45e8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FrV8QeGc0AJmB7JQ370aXA&expected_price_source=share&expected_price_currency=mxn&expected_price=2920",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260916-c186f2cd/"
+  },
+  {
+   "id": "cac1e27c2822dc57b864860e6f9e2702",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3592.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-12T06:00:00-05:00",
+   "return_at": "",
+   "duration": 445,
+   "link": "https://www.aviasales.com/search/MEX1209DFW1?t=VB17891928001789223100000445NLUMTYDFW_cac1e27c2822dc57b864860e6f9e2702_17763&search_date=15082026&expected_price_uuid=01a00707-91a8-8040-20d1-02b90bf303e4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7V0GQC-7aHg9gX9qibbNGw&expected_price_source=share&expected_price_currency=mxn&expected_price=3592",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260912-cac1e27c/"
   },
   {
    "id": "0f9ee0f646b7081c7fe02a573ef7a9a4",
@@ -130,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20270720-e33332fd/"
   },
   {
-   "id": "37561fc9f107637040cd74c72f0627e7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SSH",
-   "destination_name": "Sharm el-Sheij",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 10095.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-09T06:50:00-06:00",
-   "return_at": "",
-   "duration": 1975,
-   "link": "https://www.aviasales.com/search/MEX0911SSH1?t=AM17942070001794354300001975MEXMTYMADBRUSAWSSH_37561fc9f107637040cd74c72f0627e7_49922&search_date=15082026&expected_price_uuid=01a00679-5ff5-8040-aafc-f00b49d2e617&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=8oPJLqHoS3CiwhMxzeFnPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10095",
-   "title": "Flight deals from Mexico City to Sharm el Sheikh",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sharm-el-sheij-20261109-37561fc9/"
-  },
-  {
    "id": "4ee7da2ddc5b6b3c99f92ee6d21f9a5f",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2308SEL1?t=AM17875116001787637600001200MEXMTYICN_4ee7da2ddc5b6b3c99f92ee6d21f9a5f_54348&search_date=15082026&expected_price_uuid=01a006e5-54bf-8030-6792-877b53a949a0&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=23OSooWsi2ITbissX6MQfQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10990",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260823-4ee7da2d/"
-  },
-  {
-   "id": "0a1a2080f352a1e5609be538cb4332a2",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ALA",
-   "destination_name": "Alma Ata",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 28002.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-16T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1410,
-   "link": "https://www.aviasales.com/search/MEX1608ALA1?t=TK17868708001786995000001410MEXISTALA_0a1a2080f352a1e5609be538cb4332a2_138474&search_date=15082026&expected_price_uuid=01a00689-bb7f-8040-2eba-5f82ede5616e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MYwP2W3owhVE6h7Lie8tXQ&expected_price_source=share&expected_price_currency=mxn&expected_price=28002",
-   "title": "Flight deals from Mexico City to Almaty",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20260816-0a1a2080/"
   }
  ]
 }

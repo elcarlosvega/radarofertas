@@ -1,6 +1,6 @@
 {
- "generated_at": 1786899844.3364835,
- "generated_at_str": "16/08/2026 11:04",
+ "generated_at": 1786903444.1935854,
+ "generated_at_str": "16/08/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,44 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20270210-e720bb9e/"
   },
   {
-   "id": "63d9df4a67c415f092e7af43baf13211",
+   "id": "f24db4d4c0728b1728380eca26cc6932",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
+   "destination": "BEG",
+   "destination_name": "Belgrado",
    "airline": "EI",
    "airline_title": "Aer Lingus",
    "logo": "https://pics.avs.io/600/113/EI.png",
    "logo_tipo": "",
-   "price": 7592.0,
+   "price": 8622.0,
    "currency": "MXN",
-   "departure_at": "2026-11-19T00:45:00-06:00",
+   "departure_at": "2027-02-26T14:20:00-06:00",
    "return_at": "",
-   "duration": 2020,
-   "link": "https://www.aviasales.com/search/MEX1911IST1?t=EI17950491001795202700002020MEXJFKSNNLHRSTNSAW_63d9df4a67c415f092e7af43baf13211_37458&search_date=16082026&expected_price_uuid=01a00a49-791d-8030-6998-cf4a7dc04f8f&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=y3wmE4ajP0Ji6wuDq8_92A&expected_price_source=share&expected_price_currency=mxn&expected_price=7592",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261119-63d9df4a/"
-  },
-  {
-   "id": "3882164c07eb50b246da4305af583f53",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "AYT",
-   "destination_name": "Antalya",
-   "airline": "EI",
-   "airline_title": "Aer Lingus",
-   "logo": "https://pics.avs.io/600/113/EI.png",
-   "logo_tipo": "",
-   "price": 8244.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-02T00:45:00-06:00",
-   "return_at": "",
-   "duration": 2190,
-   "link": "https://www.aviasales.com/search/MEX0212AYT1?t=EI17961723001796336100002190MEXJFKDUBLHRSTNSAWAYT_3882164c07eb50b246da4305af583f53_40678&search_date=16082026&expected_price_uuid=01a00a42-383b-8030-e4bf-b82072f37e53&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=qTmHJFTOM_Hw3kTJu88oYQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8244",
-   "title": "Flight deals from Mexico City to Antalya",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-antalya-20261202-3882164c/"
+   "duration": 2215,
+   "link": "https://www.aviasales.com/search/MEX2602BEG1?t=EI18036516001803809700002215MEXORDDUBLHRSTNSAWBEG_f24db4d4c0728b1728380eca26cc6932_42540&search_date=16082026&expected_price_uuid=01a00b88-1e22-8030-2906-6d2a1fa86db1&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=m1pF1BuNUk41Ajwo6ehWJA&expected_price_source=share&expected_price_currency=mxn&expected_price=8622",
+   "title": "Flight deals from Mexico City to Belgrade",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270226-f24db4d4/"
   },
   {
    "id": "5350df5492a9a97b3c361e6a3751ae03",
@@ -150,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261129-5350df54/"
   },
   {
-   "id": "4c47eda254141238f39b1090eb560e49",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TBS",
-   "destination_name": "Tiflis",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 9533.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-03T01:55:00-06:00",
-   "return_at": "",
-   "duration": 2310,
-   "link": "https://www.aviasales.com/search/MEX0312TBS1?t=WS17962629001796437500002310MEXYYCCDGESBTBS_4c47eda254141238f39b1090eb560e49_47035&search_date=16082026&expected_price_uuid=01a00a43-bca3-8030-2dc2-754692d44ac3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=U5gOh_213W7QYBIM0V62Yg&expected_price_source=share&expected_price_currency=mxn&expected_price=9533",
-   "title": "Flight deals from Mexico City to Tbilisi",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261203-4c47eda2/"
-  },
-  {
    "id": "8785e166e2ab36f2c7b50dd394d82e36",
    "kind": "flight",
    "origin": "MEX",
@@ -188,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX2909BAK1?t=AM17906616601790821500002064MEXMTYMADBRUWAWGYD_8785e166e2ab36f2c7b50dd394d82e36_56539&search_date=16082026&expected_price_uuid=01a00b7b-68bc-8030-6d8f-a846c598ebc7&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=C3n8QungO154U1Wgo4lJUQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11459",
    "title": "Flight deals from Mexico City to Baku",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-baku-20260929-8785e166/"
+  },
+  {
+   "id": "48e6c24289ee85d69e3596c5fea7abbb",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 22122.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-02T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX0209IST1?t=TK17883396001788430800000980MEXIST_48e6c24289ee85d69e3596c5fea7abbb_109152&search_date=16082026&expected_price_uuid=01a00b62-ce82-8050-25e4-2bba700f2391&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=22122",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260902-48e6c242/"
   }
  ]
 }

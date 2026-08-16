@@ -1,6 +1,6 @@
 {
- "generated_at": 1786835053.5829852,
- "generated_at_str": "15/08/2026 17:04",
+ "generated_at": 1786838721.5508058,
+ "generated_at_str": "15/08/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2418,6 +2418,24 @@
    "name": "Armaf Odyssey Homme 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Odyssey-Homme-100-ml/p/693770",
    "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h82/346414757117982.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 419.3,
+   "pct": 30.0,
+   "amount": 179.7,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786370734.8538985,
+   "h_dias": 6,
+   "h_min": 419.3,
+   "h_ayer": 419.3
+  },
+  {
+   "id": "686427",
+   "name": "Armaf Osyssey Aoud 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Osyssey-Aoud-100-ml/p/686427",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9e/h39/245742994423838.jpg",
    "category": "Salud y Belleza",
    "price_old": 599.0,
    "price_new": 419.3,
@@ -9738,24 +9756,6 @@
    "h_min": 1874.25,
    "h_ayer": 1874.25,
    "h_min7": 1874.25
-  },
-  {
-   "id": "751119",
-   "name": "Guess GU50318@54074 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Guess-GU5031854074-Armazon-Oftalmico/p/751119",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1d/h72/456043388993566.jpg",
-   "category": "Optica",
-   "price_old": 2499.0,
-   "price_new": 1874.25,
-   "pct": 25.0,
-   "amount": 624.75,
-   "starts": "2026-08-10T06:00:00.000Z",
-   "ends": "2026-08-17T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786374355.9897757,
-   "h_dias": 6,
-   "h_min": 1874.25,
-   "h_ayer": 1874.25
   },
   {
    "id": "751118",

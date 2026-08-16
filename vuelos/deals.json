@@ -1,6 +1,6 @@
 {
- "generated_at": 1786856644.1438441,
- "generated_at_str": "15/08/2026 23:04",
+ "generated_at": 1786860243.9572804,
+ "generated_at_str": "16/08/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "eabbeac38daff7b9c15f29b9ad48b065",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 429.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-26T17:30:00-05:00",
-   "return_at": "",
-   "duration": 75,
-   "link": "https://www.aviasales.com/search/MEX2608GDL1?t=VB17877654001787769900000075NLUGDL_eabbeac38daff7b9c15f29b9ad48b065_2119&search_date=15082026&expected_price_uuid=01a007ca-63a5-8030-68e3-b9b381f8d5fd&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PjTGYKEF8Ch98of1ZJUyaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=429",
-   "title": "Flight deals from Mexico City to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260826-eabbeac3/"
-  },
   {
    "id": "27effe4247b10cd9fd5f83921ea7e2bf",
    "kind": "flight",
@@ -70,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20260927-06367b13/"
   },
   {
+   "id": "bebac44f76699733dd52f885d5ad482f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SDQ",
+   "destination_name": "Santo Domingo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3260.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-21T23:34:00-05:00",
+   "return_at": "",
+   "duration": 265,
+   "link": "https://www.aviasales.com/search/MEX2109SDQ1?t=DM17900336401790056740000265NLUSDQ_bebac44f76699733dd52f885d5ad482f_16085&search_date=16082026&expected_price_uuid=01a00904-1c15-8051-2bf9-5759bcf54150&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=USQTGVkDD8pILbKSnd1fQA&expected_price_source=share&expected_price_currency=mxn&expected_price=3260",
+   "title": "Flight deals from Mexico City to Santo Domingo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20260921-bebac44f/"
+  },
+  {
    "id": "fdc473a7b66eaa9c6d5fb1f830de5c84",
    "kind": "flight",
    "origin": "MEX",
@@ -85,7 +85,7 @@
    "departure_at": "2026-08-26T17:15:00-05:00",
    "return_at": "",
    "duration": 411,
-   "link": "https://www.aviasales.com/search/MEX2608LAX1?t=Y417877645001787785560000411NLUGDLLAX_fdc473a7b66eaa9c6d5fb1f830de5c84_16968&search_date=16082026&expected_price_uuid=01a008c8-cdc8-8030-6c91-90708ac79866&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=e65SIAwpwyelsaGjFOnpyw&expected_price_source=share&expected_price_currency=mxn&expected_price=3439",
+   "link": "https://www.aviasales.com/search/MEX2608LAX1?t=Y417877645001787785560000411NLUGDLLAX_fdc473a7b66eaa9c6d5fb1f830de5c84_16968&search_date=16082026&expected_price_uuid=01a00903-9efb-8030-a206-38b0f059830b&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=e65SIAwpwyelsaGjFOnpyw&expected_price_source=share&expected_price_currency=mxn&expected_price=3439",
    "title": "Flight deals from Mexico City to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20260826-fdc473a7/"
   },
@@ -128,26 +128,6 @@
    "link": "https://www.aviasales.com/search/GDL1109LAX1?t=VB17891106601789119000000199GDLLAX_f0327d371dc30201bbefbaa1aba466c3_18947&search_date=16082026&expected_price_uuid=01a00827-ae60-8040-68ea-4a8071dee676&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=WyGUBvCVRC2PU66the8hmQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3831",
    "title": "Flight deals from Guadalajara to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20260911-f0327d37/"
-  },
-  {
-   "id": "7074972854f44b530267b03156003cad",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11819.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-24T20:40:00-05:00",
-   "return_at": "",
-   "duration": 1100,
-   "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876040001787724000001100MEXICN_7074972854f44b530267b03156003cad_58447&search_date=15082026&expected_price_uuid=01a007ca-028a-8030-67ef-2d5e1418fef4&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=11819",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260824-70749728/"
   }
  ]
 }

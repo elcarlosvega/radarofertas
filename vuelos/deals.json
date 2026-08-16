@@ -1,6 +1,6 @@
 {
- "generated_at": 1786903444.1935854,
- "generated_at_str": "16/08/2026 12:04",
+ "generated_at": 1786907043.5696313,
+ "generated_at_str": "16/08/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260829-2991ff44/"
   },
   {
-   "id": "e720bb9e8aa2af9a26fd33a2804dd2b5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PUJ",
-   "destination_name": "Punta Cana",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3901.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-10T18:26:00-06:00",
-   "return_at": "",
-   "duration": 268,
-   "link": "https://www.aviasales.com/search/MEX1002PUJ1?t=DM18022839601802307240000268NLUPUJ_e720bb9e8aa2af9a26fd33a2804dd2b5_19246&search_date=16082026&expected_price_uuid=01a00a6c-3496-8030-269b-9fbbb368b792&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=oD2pMFuxxn0Q0nJUmLjrIw&expected_price_source=share&expected_price_currency=mxn&expected_price=3901",
-   "title": "Flight deals from Mexico City to Punta Cana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20270210-e720bb9e/"
-  },
-  {
    "id": "f24db4d4c0728b1728380eca26cc6932",
    "kind": "flight",
    "origin": "MEX",
@@ -108,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX2602BEG1?t=EI18036516001803809700002215MEXORDDUBLHRSTNSAWBEG_f24db4d4c0728b1728380eca26cc6932_42540&search_date=16082026&expected_price_uuid=01a00b88-1e22-8030-2906-6d2a1fa86db1&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=m1pF1BuNUk41Ajwo6ehWJA&expected_price_source=share&expected_price_currency=mxn&expected_price=8622",
    "title": "Flight deals from Mexico City to Belgrade",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270226-f24db4d4/"
-  },
-  {
-   "id": "5350df5492a9a97b3c361e6a3751ae03",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "EVN",
-   "destination_name": "Ereván",
-   "airline": "EI",
-   "airline_title": "Aer Lingus",
-   "logo": "https://pics.avs.io/600/113/EI.png",
-   "logo_tipo": "",
-   "price": 9171.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-29T00:45:00-06:00",
-   "return_at": "",
-   "duration": 2135,
-   "link": "https://www.aviasales.com/search/MEX2911EVN1?t=EI17959131001796077200002135MEXJFKSNNLHRLTNEVN_5350df5492a9a97b3c361e6a3751ae03_45250&search_date=16082026&expected_price_uuid=01a00a7f-c7fc-8030-69c5-6b19fe01a803&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=p-h5b-myo1grlpLt8OHiGw&expected_price_source=share&expected_price_currency=mxn&expected_price=9171",
-   "title": "Flight deals from Mexico City to Yerevan",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261129-5350df54/"
   },
   {
    "id": "8785e166e2ab36f2c7b50dd394d82e36",

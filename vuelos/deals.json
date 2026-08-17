@@ -1,6 +1,6 @@
 {
- "generated_at": 1786928643.7613049,
- "generated_at_str": "16/08/2026 19:04",
+ "generated_at": 1786932243.7941434,
+ "generated_at_str": "16/08/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -128,6 +128,26 @@
    "link": "https://www.aviasales.com/search/GDL2608OAK1?t=Y417877541201787780640000502GDLMEXOAK_653adaa6e061e6fbfa2460ab5db155e8_29578&search_date=16082026&expected_price_uuid=01a00c72-3957-8030-21b4-2993bd242e39&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=z0a114MT_u0vG4FKU0Qojg&expected_price_source=share&expected_price_currency=mxn&expected_price=5987",
    "title": "Flight deals from Guadalajara to Oakland",
    "micro": "/oferta/vuelos/vuelo-guadalajara-oakland-20260826-653adaa6/"
+  },
+  {
+   "id": "3b36bc6e0940bc2b4e3b03db19ec0dc7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "EI",
+   "airline_title": "Aer Lingus",
+   "logo": "https://pics.avs.io/600/113/EI.png",
+   "logo_tipo": "",
+   "price": 7640.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-16T00:50:00-06:00",
+   "return_at": "",
+   "duration": 2015,
+   "link": "https://www.aviasales.com/search/MEX1611IST1?t=EI17947902001794943500002015MEXJFKDUBLHRSTNSAW_3b36bc6e0940bc2b4e3b03db19ec0dc7_37680&search_date=17082026&expected_price_uuid=01a00d49-e055-8050-e6f5-a1edc7def968&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=0-imfbSSDdnOwR-PkfM_iw&expected_price_source=share&expected_price_currency=mxn&expected_price=7640",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261116-3b36bc6e/"
   },
   {
    "id": "c841a610203778184a3adca0feb6e9bd",

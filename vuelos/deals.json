@@ -1,6 +1,6 @@
 {
- "generated_at": 1786932243.7941434,
- "generated_at_str": "16/08/2026 20:04",
+ "generated_at": 1786935844.6180968,
+ "generated_at_str": "16/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "cdcc248b6e82f2fd581e11a6eabd49c0",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "LAX",
-   "destination_name": "Los Ángeles",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3718.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-26T20:40:00-05:00",
-   "return_at": "",
-   "duration": 200,
-   "link": "https://www.aviasales.com/search/GDL2608LAX1?t=VB17877768001787785200000200GDLLAX_cdcc248b6e82f2fd581e11a6eabd49c0_18368&search_date=16082026&expected_price_uuid=01a00c4d-a960-8030-2d77-da0f484943e9&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=xTB7Oee5vx5mJo6qArJNug&expected_price_source=share&expected_price_currency=mxn&expected_price=3718",
-   "title": "Flight deals from Guadalajara to Los Angeles",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20260826-cdcc248b/"
-  },
   {
    "id": "2f310fa6b4e48518c61eb62b9964270e",
    "kind": "flight",
@@ -140,12 +120,12 @@
    "airline_title": "Aer Lingus",
    "logo": "https://pics.avs.io/600/113/EI.png",
    "logo_tipo": "",
-   "price": 7640.0,
+   "price": 7634.0,
    "currency": "MXN",
    "departure_at": "2026-11-16T00:50:00-06:00",
    "return_at": "",
    "duration": 2015,
-   "link": "https://www.aviasales.com/search/MEX1611IST1?t=EI17947902001794943500002015MEXJFKDUBLHRSTNSAW_3b36bc6e0940bc2b4e3b03db19ec0dc7_37680&search_date=17082026&expected_price_uuid=01a00d49-e055-8050-e6f5-a1edc7def968&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=0-imfbSSDdnOwR-PkfM_iw&expected_price_source=share&expected_price_currency=mxn&expected_price=7640",
+   "link": "https://www.aviasales.com/search/MEX1611IST1?t=EI17947902001794943500002015MEXJFKDUBLHRSTNSAW_3b36bc6e0940bc2b4e3b03db19ec0dc7_37680&search_date=17082026&expected_price_uuid=01a00d49-e055-8050-e6f5-a1edc7def968&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=0-imfbSSDdnOwR-PkfM_iw&expected_price_source=share&expected_price_currency=mxn&expected_price=7634",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261116-3b36bc6e/"
   },

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787043842.3113978,
- "generated_at_str": "18/08/2026 03:13",
+ "generated_at": 1787047442.3225136,
+ "generated_at_str": "18/08/2026 04:11",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -160,6 +160,22 @@
    "h_dias": 6,
    "h_min": 5895.0,
    "h_ayer": 5895.0
+  },
+  {
+   "id": "1300886199",
+   "name": "Calefactor de Torre HKPRO 1500 W Cobre",
+   "url": "https://www.elektra.mx/calefactor-de-torre-hkpro-1500-w-cobre-12003652/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/19961650/12003652.jpg?v=638987613258470000",
+   "category": "Línea blanca",
+   "price_old": 1799.0,
+   "price_new": 180.0,
+   "pct": 90.0,
+   "amount": 1619.0,
+   "ends": "",
+   "first_seen": 1787047442.3225136,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 180.0
   },
   {
    "id": "1301930199",

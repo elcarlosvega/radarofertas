@@ -1,6 +1,6 @@
 {
- "generated_at": 1787047443.4013994,
- "generated_at_str": "18/08/2026 04:04",
+ "generated_at": 1787051043.4641905,
+ "generated_at_str": "18/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -108,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX0112BEG1?t=AM17961636001796300700001865MEXLHRARNBEG_fab1a267d4181cfb34cbff69f47b8d8c_45555&search_date=18082026&expected_price_uuid=01a01384-536d-8040-64f5-3d8fad09c0d7&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=fvo57v9Yl4JBgQOnpFNTUQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9144",
    "title": "Flight deals from Mexico City to Belgrade",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20261201-fab1a267/"
+  },
+  {
+   "id": "428852b8a3ec41466c5cdf2eef04d347",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DAD",
+   "destination_name": "Đà Nẵng",
+   "airline": "PR",
+   "airline_title": "Philippine Airlines",
+   "logo": "https://pics.avs.io/600/150/PR.png",
+   "logo_tipo": "",
+   "price": 10723.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-23T04:40:00-05:00",
+   "return_at": "",
+   "duration": 2610,
+   "link": "https://www.aviasales.com/search/MEX2308DAD1?t=PR17874600001787663400002610MEXIAHDENYVRMNLDAD_428852b8a3ec41466c5cdf2eef04d347_53361&search_date=18082026&expected_price_uuid=01a01483-f50d-8040-ac96-db2b220014c1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=396gW2yz250rJ5nhdDWNgw&expected_price_source=share&expected_price_currency=mxn&expected_price=10723",
+   "title": "Flight deals from Mexico City to Da Nang",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-a-nang-20260823-428852b8/"
   },
   {
    "id": "8b54f85ed9abcb7471ef21f7bb1b6baf",

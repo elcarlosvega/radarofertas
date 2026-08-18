@@ -1,6 +1,6 @@
 {
- "generated_at": 1787058243.678689,
- "generated_at_str": "18/08/2026 07:04",
+ "generated_at": 1787061843.529712,
+ "generated_at_str": "18/08/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "745a4d3838f223ebe953bb942c206393",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MTY",
+   "destination_name": "Monterrey",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 308.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-30T18:00:00-05:00",
+   "return_at": "",
+   "duration": 98,
+   "link": "https://www.aviasales.com/search/MEX3009MTY1?t=Y417907912001790797080000098TLCMTY_745a4d3838f223ebe953bb942c206393_1537&search_date=18082026&expected_price_uuid=01a01515-2082-8050-6fe7-ff363fde8a67&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=308",
+   "title": "Flight deals from Mexico City to Monterrey",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260930-745a4d38/"
+  },
   {
    "id": "6cf01da234753c89d4ae88203b91ad62",
    "kind": "flight",
@@ -70,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20270208-6ea46b5b/"
   },
   {
+   "id": "859a213a53335c99bd3c9df989234338",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SCL",
+   "destination_name": "Santiago de Chile",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
+   "logo_tipo": "",
+   "price": 7818.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-21T05:50:00-05:00",
+   "return_at": "",
+   "duration": 893,
+   "link": "https://www.aviasales.com/search/MEX2108SCL1?t=CM17872914001787352180000893MEXPTYSCL_859a213a53335c99bd3c9df989234338_39062&search_date=18082026&expected_price_uuid=01a01518-8a1b-8030-ae08-514e2c0ea02f&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=YHunGg-uDhQyXkkpL50v7g&expected_price_source=share&expected_price_currency=mxn&expected_price=7818",
+   "title": "Flight deals from Mexico City to Santiago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20260821-859a213a/"
+  },
+  {
    "id": "428852b8a3ec41466c5cdf2eef04d347",
    "kind": "flight",
    "origin": "MEX",
@@ -80,12 +120,12 @@
    "airline_title": "Philippine Airlines",
    "logo": "https://pics.avs.io/600/150/PR.png",
    "logo_tipo": "",
-   "price": 10716.0,
+   "price": 10719.0,
    "currency": "MXN",
    "departure_at": "2026-08-23T04:40:00-05:00",
    "return_at": "",
    "duration": 2610,
-   "link": "https://www.aviasales.com/search/MEX2308DAD1?t=PR17874600001787663400002610MEXIAHDENYVRMNLDAD_428852b8a3ec41466c5cdf2eef04d347_53361&search_date=18082026&expected_price_uuid=01a0148f-4167-8030-a331-da482e255c9e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=396gW2yz250rJ5nhdDWNgw&expected_price_source=share&expected_price_currency=mxn&expected_price=10716",
+   "link": "https://www.aviasales.com/search/MEX2308DAD1?t=PR17874600001787663400002610MEXIAHDENYVRMNLDAD_428852b8a3ec41466c5cdf2eef04d347_53361&search_date=18082026&expected_price_uuid=01a0148f-4167-8030-a331-da482e255c9e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=396gW2yz250rJ5nhdDWNgw&expected_price_source=share&expected_price_currency=mxn&expected_price=10719",
    "title": "Flight deals from Mexico City to Da Nang",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-a-nang-20260823-428852b8/"
   }

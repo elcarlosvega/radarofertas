@@ -1,6 +1,6 @@
 {
- "generated_at": 1787011445.1935472,
- "generated_at_str": "17/08/2026 18:04",
+ "generated_at": 1787015043.6921723,
+ "generated_at_str": "17/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1908MIA1?t=Y417871339001787152560000191MEXMIA_34eba1b743c74a78e69bb20fb6b2e842_23089&search_date=17082026&expected_price_uuid=01a011be-461c-8040-228c-d2278ccfdc97&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=4631",
    "title": "Flight deals from Mexico City to Miami",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260819-34eba1b7/"
+  },
+  {
+   "id": "e4f004f0dcb7fc49d4db01599f42a276",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 4845.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-22T15:05:00-06:00",
+   "return_at": "",
+   "duration": 495,
+   "link": "https://www.aviasales.com/search/MEX2212NYC1?t=VB17979519001797985200000495TLCMTYJFK_e4f004f0dcb7fc49d4db01599f42a276_24152&search_date=17082026&expected_price_uuid=01a01227-cede-8030-69aa-8f2326dcc5eb&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=7ALFOm4SBIOyWhoXUIiW2Q&expected_price_source=share&expected_price_currency=mxn&expected_price=4845",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261222-e4f004f0/"
   },
   {
    "id": "d5ee761d6fff104eec248933d68470d4",
@@ -110,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261229-0e72151c/"
   },
   {
-   "id": "44df85315b564d19b7b964777f52eaa9",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "AMS",
-   "destination_name": "Ámsterdam",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 9445.0,
-   "currency": "MXN",
-   "departure_at": "2027-06-26T22:00:00-05:00",
-   "return_at": "",
-   "duration": 860,
-   "link": "https://www.aviasales.com/search/MEX2606AMS1?t=BA18140472001814127600000860MEXLHRAMS_44df85315b564d19b7b964777f52eaa9_47094&search_date=17082026&expected_price_uuid=01a010f3-66da-8030-220a-d5c381316225&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=-LbWSWxRx0PA7aBBV2-_og&expected_price_source=share&expected_price_currency=mxn&expected_price=9445",
-   "title": "Flight deals from Mexico City to Amsterdam",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20270626-44df8531/"
-  },
-  {
    "id": "f02b409811bd0799f5d77e436173833f",
    "kind": "flight",
    "origin": "MEX",
@@ -170,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270123-38c1348c/"
   },
   {
-   "id": "ae72ece776b6a889e866455c0fb32dcd",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 21058.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-24T09:00:00-05:00",
-   "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2408IST1?t=TK17875620001787653200000980MEXCUNIST_ae72ece776b6a889e866455c0fb32dcd_105002&search_date=17082026&expected_price_uuid=01a01101-7bf6-8051-2569-aee1c348ec86&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yM8do9rI-iXCfdq0v0zoGw&expected_price_source=share&expected_price_currency=mxn&expected_price=21058",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260824-ae72ece7/"
-  },
-  {
    "id": "65aa4624a2dd11645c9d676889e0c8c0",
    "kind": "flight",
    "origin": "MEX",
@@ -208,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_65aa4624a2dd11645c9d676889e0c8c0_113457&search_date=17082026&expected_price_uuid=01a0120a-599b-8030-a4ca-2047042c1d01&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=7rXy9r61Ia04omtLRwAuWA&expected_price_source=share&expected_price_currency=mxn&expected_price=22755",
    "title": "Flight deals from Mexico City to Phuket",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261225-65aa4624/"
+  },
+  {
+   "id": "03e31701374a44b6c4ca72eb030a4531",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 22896.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-12T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX1209IST1?t=TK17892036001789294800000980MEXIST_03e31701374a44b6c4ca72eb030a4531_114143&search_date=17082026&expected_price_uuid=01a01220-dac8-8050-e39e-4cb18be7e544&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=22896",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260912-03e31701/"
   }
  ]
 }

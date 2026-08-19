@@ -1,6 +1,6 @@
 {
- "generated_at": 1787159107.1612668,
- "generated_at_str": "19/08/2026 11:05",
+ "generated_at": 1787162726.729456,
+ "generated_at_str": "19/08/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -565,6 +565,25 @@
    "h_dias": 3,
    "h_min": 199.0,
    "h_ayer": 199.0
+  },
+  {
+   "id": "694361",
+   "name": "LG Pantalla 55\" OLED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/LG-Pantalla-55-OLED-4K-Smart-TV/p/694361",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha3/h39/488002739961886.jpg",
+   "category": "Electronicos",
+   "price_old": 24499.0,
+   "price_new": 16499.0,
+   "pct": 32.7,
+   "amount": 8000.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785172190.5439014,
+   "h_dias": 22,
+   "h_min": 16499.0,
+   "h_ayer": 16499.0,
+   "h_min7": 16499.0
   },
   {
    "id": "693682",
@@ -2040,25 +2059,6 @@
    "h_min7": 699.0
   },
   {
-   "id": "1872228",
-   "name": "East Point Yahtzee Pop-Up",
-   "url": "https://www.costco.com.mx/Deportes/Salon-de-Juegos/Mesas-de-Juegos/East-Point-Yahtzee-Pop-Up/p/1872228",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5d/hda/415144433680414.jpg",
-   "category": "Deportes",
-   "price_old": 999.0,
-   "price_new": 699.0,
-   "pct": 30.0,
-   "amount": 300.0,
-   "starts": "2026-08-17T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786953937.643807,
-   "h_dias": 22,
-   "h_min": 699.0,
-   "h_ayer": 699.0,
-   "h_min7": 699.0
-  },
-  {
    "id": "639019",
    "name": "Hugo Boss Green 125 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Hugo-Boss-Green-125-ml/p/639019",
@@ -3526,6 +3526,25 @@
    "h_min": 6299.0,
    "h_ayer": 6399.0,
    "h_min7": 6399.0
+  },
+  {
+   "id": "694462",
+   "name": "Canon Impresora Multifuncional Pixma G3170",
+   "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Multifuncionales/Canon-Impresora-Multifuncional-Pixma-G3170/p/694462",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h73/350510911258654.jpg",
+   "category": "Papeleria y Negocio",
+   "price_old": 4499.0,
+   "price_new": 3199.0,
+   "pct": 28.9,
+   "amount": 1300.0,
+   "starts": "2026-08-01T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785626857.1147935,
+   "h_dias": 21,
+   "h_min": 3199.0,
+   "h_ayer": 3199.0,
+   "h_min7": 3199.0
   },
   {
    "id": "457363",
@@ -5339,23 +5358,6 @@
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1787155542.6179163,
-   "h_dias": 1,
-   "h_min": 269.0
-  },
-  {
-   "id": "1932972",
-   "name": "Rolling Pin Chocolate Estilo Dubái 500 g",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Rolling-Pin-Chocolate-Estilo-Dubai-500-g/p/1932972",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h33/h04/400894963580958.jpg",
-   "category": "Grocery",
-   "price_old": 369.0,
-   "price_new": 269.0,
-   "pct": 27.1,
-   "amount": 100.0,
-   "starts": "2026-08-19T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787148344.5338886,
    "h_dias": 1,
    "h_min": 269.0
   },

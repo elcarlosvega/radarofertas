@@ -1,6 +1,6 @@
 {
- "generated_at": 1787227444.1911035,
- "generated_at_str": "20/08/2026 06:04",
+ "generated_at": 1787231044.0416834,
+ "generated_at_str": "20/08/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -20,12 +20,12 @@
    "airline_title": "Copa Airlines",
    "logo": "https://pics.avs.io/600/150/CM.png",
    "logo_tipo": "",
-   "price": 5363.0,
+   "price": 5364.0,
    "currency": "MXN",
    "departure_at": "2026-09-01T18:55:00-05:00",
    "return_at": "",
    "duration": 932,
-   "link": "https://www.aviasales.com/search/MEX0109BZE1?t=CM17882889001788344820000932MEXGUAPTYBZE_b93a8413e5e97d33deffdc3b21f3d42d_26480&search_date=20082026&expected_price_uuid=01a01ea0-71b5-8050-e2e4-91308c233a14&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=318LNfsT0H6t7ds6u5wlwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5363",
+   "link": "https://www.aviasales.com/search/MEX0109BZE1?t=CM17882889001788344820000932MEXGUAPTYBZE_b93a8413e5e97d33deffdc3b21f3d42d_26480&search_date=20082026&expected_price_uuid=01a01ea0-71b5-8050-e2e4-91308c233a14&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=318LNfsT0H6t7ds6u5wlwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5364",
    "title": "Flight deals from Mexico City to Belize City",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-belice-20260901-b93a8413/"
   },
@@ -40,17 +40,17 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 13513.0,
+   "price": 13516.0,
    "currency": "MXN",
    "departure_at": "2026-11-15T20:00:00-06:00",
    "return_at": "",
    "duration": 1480,
-   "link": "https://www.aviasales.com/search/MEX1511BJS1?t=AM17947728001794912000001480MEXICNPKX_f13d68cc226b0328c8164e05ab6436f7_66726&search_date=20082026&expected_price_uuid=01a01e21-d1f8-8050-e27c-f1df898c7406&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=MKWk6JOEGwaZ273UBwUyeA&expected_price_source=share&expected_price_currency=mxn&expected_price=13513",
+   "link": "https://www.aviasales.com/search/MEX1511BJS1?t=AM17947728001794912000001480MEXICNPKX_f13d68cc226b0328c8164e05ab6436f7_66726&search_date=20082026&expected_price_uuid=01a01e21-d1f8-8050-e27c-f1df898c7406&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=MKWk6JOEGwaZ273UBwUyeA&expected_price_source=share&expected_price_currency=mxn&expected_price=13516",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261115-f13d68cc/"
   },
   {
-   "id": "83453897be519693655eb6ddb10596bd",
+   "id": "48e6c24289ee85d69e3596c5fea7abbb",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +60,14 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 20985.0,
+   "price": 21021.0,
    "currency": "MXN",
-   "departure_at": "2026-08-31T09:00:00-05:00",
+   "departure_at": "2026-09-02T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX3108IST1?t=TK17881668001788258000000980MEXIST_83453897be519693655eb6ddb10596bd_103927&search_date=20082026&expected_price_uuid=01a01dd7-c494-8040-6b97-e542b542a630&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20985",
+   "link": "https://www.aviasales.com/search/MEX0209IST1?t=TK17883396001788430800000980MEXIST_48e6c24289ee85d69e3596c5fea7abbb_103310&search_date=20082026&expected_price_uuid=01a01f3d-8400-8050-2447-61a030feaf13&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21021",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260831-83453897/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260902-48e6c242/"
   },
   {
    "id": "509140ae83bbd59a400d1017c4bd9dea",
@@ -80,12 +80,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 33376.0,
+   "price": 33383.0,
    "currency": "MXN",
    "departure_at": "2026-08-31T09:00:00-05:00",
    "return_at": "",
    "duration": 1540,
-   "link": "https://www.aviasales.com/search/MEX3108MSQ1?t=TK17881668001788291600001540MEXISTMSQ_509140ae83bbd59a400d1017c4bd9dea_163710&search_date=20082026&expected_price_uuid=01a01eec-e195-8030-680b-a86f9a08f513&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=57pJvtwFJ7FGRCWv123HpQ&expected_price_source=share&expected_price_currency=mxn&expected_price=33376",
+   "link": "https://www.aviasales.com/search/MEX3108MSQ1?t=TK17881668001788291600001540MEXISTMSQ_509140ae83bbd59a400d1017c4bd9dea_163710&search_date=20082026&expected_price_uuid=01a01eec-e195-8030-680b-a86f9a08f513&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=57pJvtwFJ7FGRCWv123HpQ&expected_price_source=share&expected_price_currency=mxn&expected_price=33383",
    "title": "Flight deals from Mexico City to Minsk",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20260831-509140ae/"
   }

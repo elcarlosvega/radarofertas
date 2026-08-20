@@ -1,6 +1,6 @@
 {
- "generated_at": 1787191529.8186688,
- "generated_at_str": "19/08/2026 20:05",
+ "generated_at": 1787195109.6229296,
+ "generated_at_str": "19/08/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3075,25 +3075,6 @@
    "first_seen": 1787155542.6179163,
    "h_dias": 1,
    "h_min": 239.0
-  },
-  {
-   "id": "1725830",
-   "name": "Kirkland Signature Hojas Suavizantes de Telas 500 piezas",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Kirkland-Signature/Kirkland-Signature-Hojas-Suavizantes-de-Telas-500-piezas/p/1725830",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h1c/209838155497502.jpg",
-   "category": "Grocery",
-   "price_old": 339.0,
-   "price_new": 239.0,
-   "pct": 29.5,
-   "amount": 100.0,
-   "starts": "2026-08-17T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786953937.643807,
-   "h_dias": 10,
-   "h_min": 239.0,
-   "h_ayer": 239.0,
-   "h_min7": 239.0
   },
   {
    "id": "691125",
@@ -12529,6 +12510,25 @@
    "h_min7": 861.75
   },
   {
+   "id": "562888",
+   "name": "Concor 2.5 mg 30 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Concor-25-mg-30-Tabletas/p/562888",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h29/385219895722014.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1109.0,
+   "price_new": 831.75,
+   "pct": 25.0,
+   "amount": 277.25,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995,
+   "h_dias": 22,
+   "h_min": 831.75,
+   "h_ayer": 831.75,
+   "h_min7": 831.75
+  },
+  {
    "id": "671914",
    "name": "Tena Slip Supreme Ropa Interior Desechable Grande 60 pzas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Incontinencia-y-Cuidado-Intimo/Tena-Slip-Supreme-Ropa-Interior-Desechable-Grande-60-pzas/p/671914",
@@ -19203,25 +19203,6 @@
    "h_min7": 17999.0
   },
   {
-   "id": "684610",
-   "name": "Parrilla Eléctrica Smeg De 90 cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Parrilla-Electrica-Smeg-De-90-cm/p/684610",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/hf5/210587770290206.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 21999.0,
-   "price_new": 17999.0,
-   "pct": 18.2,
-   "amount": 4000.0,
-   "starts": "2026-08-17T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786953937.643807,
-   "h_dias": 21,
-   "h_min": 15199.0,
-   "h_ayer": 17999.0,
-   "h_min7": 17999.0
-  },
-  {
    "id": "683666",
    "name": "América, Mystery, Colchón King Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Mystery-Colchon-King-Size/p/683666",
@@ -22450,25 +22431,6 @@
    "first_seen": 1786953937.643807,
    "h_dias": 17,
    "h_min": 23999.0,
-   "h_ayer": 25999.0,
-   "h_min7": 25999.0
-  },
-  {
-   "id": "684611",
-   "name": "Lavavajillas Smeg 60 cm Acero",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Lavavajillas-Smeg-60-cm-Acero/p/684611",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h38/h83/210587776843806.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 25999.0,
-   "pct": 13.3,
-   "amount": 4000.0,
-   "starts": "2026-08-17T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786953937.643807,
-   "h_dias": 21,
-   "h_min": 20999.0,
    "h_ayer": 25999.0,
    "h_min7": 25999.0
   },

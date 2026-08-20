@@ -1,6 +1,6 @@
 {
- "generated_at": 1787234644.1893742,
- "generated_at_str": "20/08/2026 08:04",
+ "generated_at": 1787238243.984438,
+ "generated_at_str": "20/08/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "40e0048f6bafbc2c62d05a8b99d7cc8e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 359.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-08T12:27:00-05:00",
+   "return_at": "",
+   "duration": 82,
+   "link": "https://www.aviasales.com/search/MEX0809PVR1?t=Y417888704201788875340000082TLCPVR_40e0048f6bafbc2c62d05a8b99d7cc8e_1759&search_date=20082026&expected_price_uuid=01a01fa8-62d8-8030-2ee8-b482fe95680d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=359",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260908-40e0048f/"
+  },
   {
    "id": "b93a8413e5e97d33deffdc3b21f3d42d",
    "kind": "flight",
@@ -20,12 +40,12 @@
    "airline_title": "Copa Airlines",
    "logo": "https://pics.avs.io/600/150/CM.png",
    "logo_tipo": "",
-   "price": 5372.0,
+   "price": 5366.0,
    "currency": "MXN",
    "departure_at": "2026-09-01T18:55:00-05:00",
    "return_at": "",
    "duration": 932,
-   "link": "https://www.aviasales.com/search/MEX0109BZE1?t=CM17882889001788344820000932MEXGUAPTYBZE_b93a8413e5e97d33deffdc3b21f3d42d_26480&search_date=20082026&expected_price_uuid=01a01ea0-71b5-8050-e2e4-91308c233a14&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=318LNfsT0H6t7ds6u5wlwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5372",
+   "link": "https://www.aviasales.com/search/MEX0109BZE1?t=CM17882889001788344820000932MEXGUAPTYBZE_b93a8413e5e97d33deffdc3b21f3d42d_26480&search_date=20082026&expected_price_uuid=01a01ea0-71b5-8050-e2e4-91308c233a14&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=318LNfsT0H6t7ds6u5wlwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5366",
    "title": "Flight deals from Mexico City to Belize City",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-belice-20260901-b93a8413/"
   },
@@ -40,12 +60,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 21052.0,
+   "price": 21031.0,
    "currency": "MXN",
    "departure_at": "2026-09-02T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX0209IST1?t=TK17883396001788430800000980MEXIST_48e6c24289ee85d69e3596c5fea7abbb_103310&search_date=20082026&expected_price_uuid=01a01f3d-8400-8050-2447-61a030feaf13&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21052",
+   "link": "https://www.aviasales.com/search/MEX0209IST1?t=TK17883396001788430800000980MEXIST_48e6c24289ee85d69e3596c5fea7abbb_103310&search_date=20082026&expected_price_uuid=01a01f3d-8400-8050-2447-61a030feaf13&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21031",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260902-48e6c242/"
   },
@@ -60,12 +80,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 33431.0,
+   "price": 33398.0,
    "currency": "MXN",
    "departure_at": "2026-08-31T09:00:00-05:00",
    "return_at": "",
    "duration": 1540,
-   "link": "https://www.aviasales.com/search/MEX3108MSQ1?t=TK17881668001788291600001540MEXISTMSQ_509140ae83bbd59a400d1017c4bd9dea_163710&search_date=20082026&expected_price_uuid=01a01eec-e195-8030-680b-a86f9a08f513&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=57pJvtwFJ7FGRCWv123HpQ&expected_price_source=share&expected_price_currency=mxn&expected_price=33431",
+   "link": "https://www.aviasales.com/search/MEX3108MSQ1?t=TK17881668001788291600001540MEXISTMSQ_509140ae83bbd59a400d1017c4bd9dea_163710&search_date=20082026&expected_price_uuid=01a01eec-e195-8030-680b-a86f9a08f513&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=57pJvtwFJ7FGRCWv123HpQ&expected_price_source=share&expected_price_currency=mxn&expected_price=33398",
    "title": "Flight deals from Mexico City to Minsk",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20260831-509140ae/"
   }

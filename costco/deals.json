@@ -1,6 +1,6 @@
 {
- "generated_at": 1787180707.44105,
- "generated_at_str": "19/08/2026 17:05",
+ "generated_at": 1787184327.292218,
+ "generated_at_str": "19/08/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6922,25 +6922,6 @@
    "h_min7": 23999.0
   },
   {
-   "id": "702845",
-   "name": "Samsung Pantalla 75\" Miniled 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-75-Miniled-4K-Smart-TV/p/702845",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h14/452879656189982.jpg",
-   "category": "Electronicos",
-   "price_old": 19999.0,
-   "price_new": 14999.0,
-   "pct": 25.0,
-   "amount": 5000.0,
-   "starts": "2026-08-10T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786370734.8538985,
-   "h_dias": 22,
-   "h_min": 14999.0,
-   "h_ayer": 14999.0,
-   "h_min7": 14999.0
-  },
-  {
    "id": "702847",
    "name": "Samsung Pantalla 55\" NEO QLED 4K Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-NEO-QLED-4K-Smart-TV/p/702847",
@@ -12792,7 +12773,7 @@
    "id": "668533",
    "name": "Gillette ProGlide Repuestos para Afeitar 16 Unidades",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Gillette-ProGlide-Repuestos-para-Afeitar-16-Unidades/p/668533",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h38/228062081155102.jpg",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h39/502281759424542.jpg",
    "category": "Salud y Belleza",
    "price_old": 999.0,
    "price_new": 749.25,
@@ -14172,6 +14153,25 @@
    "h_min": 284.25,
    "h_ayer": 284.25,
    "h_min7": 284.25
+  },
+  {
+   "id": "500806",
+   "name": "Alka Seltzer 100 Tabletas Efervescentes",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Alka-Seltzer-100-Tabletas-Efervescentes/p/500806",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/hf3/326558812930078.jpg",
+   "category": "Grocery",
+   "price_old": 359.0,
+   "price_new": 269.25,
+   "pct": 25.0,
+   "amount": 89.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785179433.2310922,
+   "h_dias": 22,
+   "h_min": 269.25,
+   "h_ayer": 269.25,
+   "h_min7": 269.25
   },
   {
    "id": "29017",

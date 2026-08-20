@@ -1,6 +1,6 @@
 {
- "generated_at": 1787195109.6229296,
- "generated_at_str": "19/08/2026 21:05",
+ "generated_at": 1787198725.9907908,
+ "generated_at_str": "19/08/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -137,24 +137,6 @@
    "h_dias": 3,
    "h_min": 799.0,
    "h_ayer": 799.0
-  },
-  {
-   "id": "701738",
-   "name": "Neutrogena Suero Anti Arrugas con Retinol 2 pzas de 30 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Neutrogena-Suero-Anti-Arrugas-con-Retinol-2-pzas-de-30-ml/p/701738",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/h45/436925248667678.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 497.0,
-   "price_new": 297.0,
-   "pct": 40.2,
-   "amount": 200.0,
-   "starts": "2026-08-19T06:00:00.000Z",
-   "ends": "2026-09-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787155542.6179163,
-   "h_dias": 2,
-   "h_min": 297.0,
-   "h_ayer": 297.0
   },
   {
    "id": "695387",
@@ -19203,6 +19185,25 @@
    "h_min7": 17999.0
   },
   {
+   "id": "684610",
+   "name": "Parrilla Eléctrica Smeg De 90 cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Parrilla-Electrica-Smeg-De-90-cm/p/684610",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/hf5/210587770290206.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21999.0,
+   "price_new": 17999.0,
+   "pct": 18.2,
+   "amount": 4000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786953937.643807,
+   "h_dias": 21,
+   "h_min": 15199.0,
+   "h_ayer": 17999.0,
+   "h_min7": 17999.0
+  },
+  {
    "id": "683666",
    "name": "América, Mystery, Colchón King Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Mystery-Colchon-King-Size/p/683666",
@@ -22431,6 +22432,25 @@
    "first_seen": 1786953937.643807,
    "h_dias": 17,
    "h_min": 23999.0,
+   "h_ayer": 25999.0,
+   "h_min7": 25999.0
+  },
+  {
+   "id": "684611",
+   "name": "Lavavajillas Smeg 60 cm Acero",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Lavavajillas-Smeg-60-cm-Acero/p/684611",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h38/h83/210587776843806.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 25999.0,
+   "pct": 13.3,
+   "amount": 4000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786953937.643807,
+   "h_dias": 21,
+   "h_min": 20999.0,
    "h_ayer": 25999.0,
    "h_min7": 25999.0
   },

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787263534.698357,
- "generated_at_str": "20/08/2026 16:05",
+ "generated_at": 1787267114.5690432,
+ "generated_at_str": "20/08/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -345,25 +345,6 @@
    "h_min": 3699.0,
    "h_ayer": 3699.0,
    "h_min7": 3699.0
-  },
-  {
-   "id": "694474",
-   "name": "Sony Pantalla 65\" BRAVIA II UHD 4K Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Sony-Pantalla-65-BRAVIA-II-UHD-4K-Google-TV/p/694474",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hef/h06/437417258975262.jpg",
-   "category": "Electronicos",
-   "price_old": 17499.0,
-   "price_new": 10999.0,
-   "pct": 37.1,
-   "amount": 6500.0,
-   "starts": "2026-08-14T06:00:00.000Z",
-   "ends": "2026-09-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786723570.02673,
-   "h_dias": 23,
-   "h_min": 10999.0,
-   "h_ayer": 10999.0,
-   "h_min7": 10999.0
   },
   {
    "id": "702821",
@@ -7050,6 +7031,25 @@
    "h_min": 21999.0,
    "h_ayer": 23999.0,
    "h_min7": 23999.0
+  },
+  {
+   "id": "702845",
+   "name": "Samsung Pantalla 75\" Miniled 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-75-Miniled-4K-Smart-TV/p/702845",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h14/452879656189982.jpg",
+   "category": "Electronicos",
+   "price_old": 19999.0,
+   "price_new": 14999.0,
+   "pct": 25.0,
+   "amount": 5000.0,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786370734.8538985,
+   "h_dias": 23,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0,
+   "h_min7": 14999.0
   },
   {
    "id": "702847",

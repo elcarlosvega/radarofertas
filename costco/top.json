@@ -1,19 +1,8 @@
 {
- "generated_at": 1787346314.866125,
- "generated_at_str": "21/08/2026 15:05",
- "total": 1172,
+ "generated_at": 1787349921.656501,
+ "generated_at_str": "21/08/2026 16:05",
+ "total": 1309,
  "deals": [
-  {
-   "id": "687099",
-   "name": "Samsung Galaxy S25 Ultra 256GB Negro Titanio",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hf1/326968867061790.jpg",
-   "category": "Electronicos",
-   "price_new": 15799.0,
-   "price_old": 28999.0,
-   "pct": 45.5,
-   "amount": 13200.0,
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Negro-Titanio/p/687099"
-  },
   {
    "id": "687104",
    "name": "Samsung Galaxy S25 Ultra 256GB Gris Titanio",
@@ -35,6 +24,17 @@
    "pct": 45.5,
    "amount": 13200.0,
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Azul-Titanio/p/687101"
+  },
+  {
+   "id": "687099",
+   "name": "Samsung Galaxy S25 Ultra 256GB Negro Titanio",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hf1/326968867061790.jpg",
+   "category": "Electronicos",
+   "price_new": 15799.0,
+   "price_old": 28999.0,
+   "pct": 45.5,
+   "amount": 13200.0,
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Negro-Titanio/p/687099"
   },
   {
    "id": "696246",
@@ -92,6 +92,17 @@
    "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-8-Classic-46mm-Blanco/p/695386"
   },
   {
+   "id": "689593",
+   "name": "Samsung Galaxy Tab S10+ 512GB Plata",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he9/h3b/438940985622558.jpg",
+   "category": "Computadoras y Tablets",
+   "price_new": 13899.0,
+   "price_old": 22999.0,
+   "pct": 39.6,
+   "amount": 9100.0,
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Tablets/Tablets/Samsung-Galaxy-Tab-S10-512GB-Plata/p/689593"
+  },
+  {
    "id": "694502",
    "name": "Hisense Pantalla 100\" ULED MiniLed Fire TV",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h76/h1a/488166387023902.jpg",
@@ -101,17 +112,6 @@
    "pct": 35.8,
    "amount": 19000.0,
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-100-ULED-MiniLed-Fire-TV/p/694502"
-  },
-  {
-   "id": "702821",
-   "name": "Samsung Galaxy S26 256GB Negro",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he4/h29/453817282789406.jpg",
-   "category": "Electronicos",
-   "price_new": 14299.0,
-   "price_old": 22499.0,
-   "pct": 36.4,
-   "amount": 8200.0,
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-256GB-Negro/p/702821"
   },
   {
    "id": "702822",
@@ -125,15 +125,15 @@
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-256GB-Violeta/p/702822"
   },
   {
-   "id": "703747",
-   "name": "LG Pantalla 98\" UHD 4K Smart TV",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6a/h31/488517751111710.jpg",
+   "id": "702821",
+   "name": "Samsung Galaxy S26 256GB Negro",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he4/h29/453817282789406.jpg",
    "category": "Electronicos",
-   "price_new": 26999.0,
-   "price_old": 40999.0,
-   "pct": 34.1,
-   "amount": 14000.0,
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/LG-Pantalla-98-UHD-4K-Smart-TV/p/703747"
+   "price_new": 14299.0,
+   "price_old": 22499.0,
+   "pct": 36.4,
+   "amount": 8200.0,
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-256GB-Negro/p/702821"
   }
  ]
 }

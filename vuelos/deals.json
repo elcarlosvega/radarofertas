@@ -1,6 +1,6 @@
 {
- "generated_at": 1787299444.0006194,
- "generated_at_str": "21/08/2026 02:04",
+ "generated_at": 1787303044.2380996,
+ "generated_at_str": "21/08/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260921-0352fc0b/"
   },
   {
+   "id": "e73bec4ac0631f8d9f3969d8595e0fe8",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4252.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-15T22:00:00-06:00",
+   "return_at": "",
+   "duration": 355,
+   "link": "https://www.aviasales.com/search/MEX1502LIM1?t=Y418027288001802753700000355MEXLIM_e73bec4ac0631f8d9f3969d8595e0fe8_20817&search_date=21082026&expected_price_uuid=01a0236c-9926-8030-2972-8a978a683311&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4252",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270215-e73bec4a/"
+  },
+  {
    "id": "b78f91922aa1b78c0dae3df4c8947b82",
    "kind": "flight",
    "origin": "MEX",
@@ -88,26 +108,6 @@
    "link": "https://www.aviasales.com/search/MEX2609IST1?t=AM17904615001790613600001995MEXAMSBRUSAW_4126695e1ef16818abb58850295031fb_52939&search_date=21082026&expected_price_uuid=01a022be-4c08-8050-a5e0-d1b467f7a71e&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=cYL_dkRLHos_U5Pe_bvwPA&expected_price_source=share&expected_price_currency=mxn&expected_price=10824",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260926-4126695e/"
-  },
-  {
-   "id": "16a7caf01f298250743ea9d43b44e1b9",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11258.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-26T23:15:00-06:00",
-   "return_at": "",
-   "duration": 955,
-   "link": "https://www.aviasales.com/search/MTY2611SEL1?t=AM17957349001795846200000955MTYICN_16a7caf01f298250743ea9d43b44e1b9_55063&search_date=21082026&expected_price_uuid=01a0223e-7e49-8040-ad44-ef25ab392d75&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Lxkl8vxkpmW7qCQMhnMnVw&expected_price_source=share&expected_price_currency=mxn&expected_price=11258",
-   "title": "Flight deals from Monterrey to Seoul",
-   "micro": "/oferta/vuelos/vuelo-monterrey-seul-20261126-16a7caf0/"
   }
  ]
 }

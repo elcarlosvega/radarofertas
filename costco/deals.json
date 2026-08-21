@@ -1,6 +1,6 @@
 {
- "generated_at": 1787335526.0739505,
- "generated_at_str": "21/08/2026 12:05",
+ "generated_at": 1787339113.8604152,
+ "generated_at_str": "21/08/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1243,25 +1243,6 @@
    "ends": "2026-09-14T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1785626857.1147935,
-   "h_dias": 24,
-   "h_min": 2999.0,
-   "h_ayer": 2999.0,
-   "h_min7": 2999.0
-  },
-  {
-   "id": "697933",
-   "name": "Skullcandy Bundle Audífonos Crusher Evo + Bateria Fat Stash",
-   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Skullcandy-Bundle-Audifonos-Crusher-Evo-Bateria-Fat-Stash/p/697933",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he8/ha2/403573712093214.jpg",
-   "category": "Electronicos",
-   "price_old": 4299.0,
-   "price_new": 2999.0,
-   "pct": 30.2,
-   "amount": 1300.0,
-   "starts": "2026-07-25T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784999450.7326512,
    "h_dias": 24,
    "h_min": 2999.0,
    "h_ayer": 2999.0,
@@ -4439,25 +4420,6 @@
    "h_dias": 2,
    "h_min": 2299.0,
    "h_ayer": 2299.0
-  },
-  {
-   "id": "701223",
-   "name": "Nintendo Switch 2 - Kirby Air Riders",
-   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Kirby-Air-Riders/p/701223",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h97/h2f/414733877706782.jpg",
-   "category": "Electronicos",
-   "price_old": 1599.0,
-   "price_new": 1149.0,
-   "pct": 28.1,
-   "amount": 450.0,
-   "starts": "2026-08-18T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787061939.517829,
-   "h_dias": 16,
-   "h_min": 989.0,
-   "h_ayer": 1149.0,
-   "h_min7": 989.0
   },
   {
    "id": "1566448",
@@ -13671,25 +13633,6 @@
    "h_min7": 404.25
   },
   {
-   "id": "697944",
-   "name": "Enteronorma B Vit 10 Ampolletas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Enteronorma-B-Vit-10-Ampolletas/p/697944",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/hec/431127071653918.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 539.0,
-   "price_new": 404.25,
-   "pct": 25.0,
-   "amount": 134.75,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785176034.0557995,
-   "h_dias": 24,
-   "h_min": 404.25,
-   "h_ayer": 404.25,
-   "h_min7": 404.25
-  },
-  {
    "id": "617400",
    "name": "Persil Gel Colores Vivos Detergente para Ropa de Colores 10 l",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Productos-de-Limpieza/Detergentes/Persil-Gel-Colores-Vivos-Detergente-para-Ropa-de-Colores-10-l/p/617400",
@@ -19805,6 +19748,24 @@
    "h_min7": 6999.0
   },
   {
+   "id": "692782",
+   "name": "Samsung Refrigerador 32' French Door Family Hub",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-32-French-Door-Family-Hub/p/692782",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h2a/311745784184862.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 56999.0,
+   "price_new": 46999.0,
+   "pct": 17.5,
+   "amount": 10000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786953937.643807,
+   "h_dias": 22,
+   "h_min": 43499.0,
+   "h_min7": 46999.0
+  },
+  {
    "id": "673812",
    "name": "Bertazzoni Parrilla de Gas 90cm con 5 quemadores",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Bertazzoni-Parrilla-de-Gas-90cm-con-5-quemadores/p/673812",
@@ -20902,6 +20863,24 @@
    "h_dias": 24,
    "h_min": 21299.0,
    "h_ayer": 21999.0,
+   "h_min7": 21999.0
+  },
+  {
+   "id": "679182",
+   "name": "Samsung Refrigerador 25' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-25-French-Door/p/679182",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h06/h1b/452706636267550.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 25999.0,
+   "price_new": 21999.0,
+   "pct": 15.4,
+   "amount": 4000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786953937.643807,
+   "h_dias": 19,
+   "h_min": 19999.0,
    "h_min7": 21999.0
   },
   {
@@ -24356,7 +24335,7 @@
    "starts": "2026-08-17T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787335526.0739505,
+   "first_seen": 1787335537.7020621,
    "h_dias": 1,
    "h_min": 17999.0
   },

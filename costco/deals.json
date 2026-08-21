@@ -1,6 +1,6 @@
 {
- "generated_at": 1787299519.3723762,
- "generated_at_str": "21/08/2026 02:05",
+ "generated_at": 1787303114.176085,
+ "generated_at_str": "21/08/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -13626,7 +13626,7 @@
    "starts": "2026-07-27T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787299519.3723762,
+   "first_seen": 1787299537.3891573,
    "h_dias": 24,
    "h_min": 434.25,
    "h_ayer": 539.24,
@@ -20658,6 +20658,25 @@
    "h_min": 19999.0,
    "h_ayer": 23999.0,
    "h_min7": 19999.0
+  },
+  {
+   "id": "1390070",
+   "name": "Sealy, Aspen, Colchón King Size",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/Sealy-Aspen-Colchon-King-Size/p/1390070",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he0/h40/308533951791134.jpg",
+   "category": "Muebles",
+   "price_old": 18999.0,
+   "price_new": 15999.0,
+   "pct": 15.8,
+   "amount": 3000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786953937.643807,
+   "h_dias": 18,
+   "h_min": 15999.0,
+   "h_ayer": 15999.0,
+   "h_min7": 15999.0
   },
   {
    "id": "688022",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787331910.4561133,
- "generated_at_str": "21/08/2026 11:05",
+ "generated_at": 1787335526.0739505,
+ "generated_at_str": "21/08/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4458,6 +4458,25 @@
    "h_min": 989.0,
    "h_ayer": 1149.0,
    "h_min7": 989.0
+  },
+  {
+   "id": "1566448",
+   "name": "Kirkland Signature Jabón Antibacterial para Trastes 2.6 l",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Kirkland-Signature-Jabon-Antibacterial-para-Trastes-26-l/p/1566448",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf2/h01/184995809394718.jpg",
+   "category": "Grocery",
+   "price_old": 249.0,
+   "price_new": 179.0,
+   "pct": 28.1,
+   "amount": 70.0,
+   "starts": "2026-08-20T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787241947.8970914,
+   "h_dias": 12,
+   "h_min": 179.0,
+   "h_ayer": 179.0,
+   "h_min7": 179.0
   },
   {
    "id": "859695",
@@ -14939,6 +14958,24 @@
    "h_min7": 9899.0
   },
   {
+   "id": "679258",
+   "name": "Klipsch RP-8000F II 2 Bocinas Walnut",
+   "url": "https://www.costco.com.mx/Electronicos/Audio/Bocinas/Klipsch-RP-8000F-II-2-Bocinas-Walnut/p/679258",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h6e/155046210338846.jpg",
+   "category": "Electronicos",
+   "price_old": 38999.0,
+   "price_new": 29999.0,
+   "pct": 23.1,
+   "amount": 9000.0,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786374355.9897757,
+   "h_dias": 10,
+   "h_min": 29999.0,
+   "h_min7": 29999.0
+  },
+  {
    "id": "679257",
    "name": "Klipsch RP-8000F II 2 Bocinas Ebony",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Bocinas/Klipsch-RP-8000F-II-2-Bocinas-Ebony/p/679257",
@@ -24305,6 +24342,23 @@
    "h_min": 17999.0,
    "h_ayer": 17999.0,
    "h_min7": 17999.0
+  },
+  {
+   "id": "680747",
+   "name": "Teka Refrigerador 12' Bottom Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Teka-Refrigerador-12-Bottom-Mount/p/680747",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/h5e/172674628943902.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 17999.0,
+   "pct": 10.0,
+   "amount": 2000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787335526.0739505,
+   "h_dias": 1,
+   "h_min": 17999.0
   },
   {
    "id": "733629",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787425443.8793302,
- "generated_at_str": "22/08/2026 13:04",
+ "generated_at": 1787429043.5768132,
+ "generated_at_str": "22/08/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,66 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "86a7ae72eed92d9cfab3f58cab9b8c8c",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1049.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-23T08:09:00-05:00",
+   "return_at": "",
+   "duration": 90,
+   "link": "https://www.aviasales.com/search/MTY2308GDL1?t=Y417874725401787477940000090MTYGDL_86a7ae72eed92d9cfab3f58cab9b8c8c_5126&search_date=22082026&expected_price_uuid=01a02b0f-5ddc-8030-a14f-790f136b3211&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=som4r-7jkqaxKIjTWFZVlw&expected_price_source=share&expected_price_currency=mxn&expected_price=1049",
+   "title": "Flight deals from Monterrey to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-monterrey-guadalajara-20260823-86a7ae72/"
+  },
+  {
+   "id": "f11b1c95b512489b74d2481dadaad02b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1590.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-05T22:36:00-05:00",
+   "return_at": "",
+   "duration": 200,
+   "link": "https://www.aviasales.com/search/MEX0509TIJ1?t=Y417886477601788656160000200NLUTIJ_f11b1c95b512489b74d2481dadaad02b_7772&search_date=22082026&expected_price_uuid=01a02af3-4441-8040-ac97-93bf0b0ad560&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=We0X_VlGJBlHQVIej9kzHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1590",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20260905-f11b1c95/"
+  },
+  {
+   "id": "646b317270fe758f8ac5edf1fd522fb3",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GUA",
+   "destination_name": "Guatemala",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2023.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-08T06:33:00-06:00",
+   "return_at": "",
+   "duration": 454,
+   "link": "https://www.aviasales.com/search/MEX0802GUA1?t=Y418020683801802095620000454NLUGDLGUA_646b317270fe758f8ac5edf1fd522fb3_9889&search_date=22082026&expected_price_uuid=01a02af0-e79c-8050-adb2-724b72d3db2b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=UeYBPbZK07cNc2BmmtZIZw&expected_price_source=share&expected_price_currency=mxn&expected_price=2023",
+   "title": "Flight deals from Mexico City to Guatemala City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20270208-646b3172/"
+  },
   {
    "id": "4bf0c3f18ae4185108173e43874dd575",
    "kind": "flight",
@@ -50,7 +110,27 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260826-a17d6c12/"
   },
   {
-   "id": "83453897be519693655eb6ddb10596bd",
+   "id": "3cb2af45bde09b3455687c72389acccd",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Alma Ata",
+   "airline": "BY",
+   "airline_title": "TUI Airways",
+   "logo": "https://pics.avs.io/600/150/BY.png",
+   "logo_tipo": "",
+   "price": 13690.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-07T22:00:00-05:00",
+   "return_at": "",
+   "duration": 2595,
+   "link": "https://www.aviasales.com/search/MEX0709ALA1?t=BY17888184001789013700002595MEXCUNMANSAWALA_3cb2af45bde09b3455687c72389acccd_66907&search_date=22082026&expected_price_uuid=01a02ada-cc80-8030-6a93-8278d3890e21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-aa_Pi7daSLh0RoKMP4ecA&expected_price_source=share&expected_price_currency=mxn&expected_price=13690",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20260907-3cb2af45/"
+  },
+  {
+   "id": "15af5a6707add209b69598ae2eab85d6",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -62,12 +142,12 @@
    "logo_tipo": "",
    "price": 20825.0,
    "currency": "MXN",
-   "departure_at": "2026-08-31T09:00:00-05:00",
+   "departure_at": "2026-08-23T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX3108IST1?t=TK17881668001788258000000980MEXIST_83453897be519693655eb6ddb10596bd_101776&search_date=22082026&expected_price_uuid=01a02a40-bb45-8040-aa38-89fd16c256c3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20825",
+   "link": "https://www.aviasales.com/search/MEX2308IST1?t=TK17874756001787566800000980MEXIST_15af5a6707add209b69598ae2eab85d6_101776&search_date=22082026&expected_price_uuid=01a02ae5-6a97-8030-66ee-017d1f96e7b2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=20825",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260831-83453897/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260823-15af5a67/"
   }
  ]
 }

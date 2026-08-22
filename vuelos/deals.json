@@ -1,6 +1,6 @@
 {
- "generated_at": 1787360644.0206022,
- "generated_at_str": "21/08/2026 19:04",
+ "generated_at": 1787364244.083829,
+ "generated_at_str": "21/08/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MTY2010VER1?t=VB17924769001792482780000098MTYVER_31a6fb22d7b682acf90496b5b66ea6ba_5293&search_date=21082026&expected_price_uuid=01a0264b-4171-8040-24e1-bb958c4cac42&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0ltQnvBaTQU_HbxnqjScZA&expected_price_source=share&expected_price_currency=mxn&expected_price=1083",
    "title": "Flight deals from Monterrey to Veracruz",
    "micro": "/oferta/vuelos/vuelo-monterrey-veracruz-20261020-31a6fb22/"
-  },
-  {
-   "id": "5b6dd02cce07e60e8336276c066f6213",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TAP",
-   "destination_name": "Tapachula de Córdova y Ordóñez",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1895.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-27T19:55:00-05:00",
-   "return_at": "",
-   "duration": 105,
-   "link": "https://www.aviasales.com/search/MEX2708TAP1?t=Y417878605001787866800000105MEXTAP_5b6dd02cce07e60e8336276c066f6213_9263&search_date=21082026&expected_price_uuid=01a025e3-e726-8040-28c6-a4f3e1c4e24a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AWwhUayAgjmSKJ59L_-TPg&expected_price_source=share&expected_price_currency=mxn&expected_price=1895",
-   "title": "Flight deals from Mexico City to Tapachula",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tapachula-de-cordova-y-ordonez-20260827-5b6dd02c/"
   },
   {
    "id": "75889d7d0dec21b7c3d93c30a700e4c6",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX3112SEL1?t=AM17987403001798870200001265MEXMTYICN_0b952cb1e8af0a99ea73a185c325ea2a_45034&search_date=21082026&expected_price_uuid=01a02637-eb10-8030-e54e-0cee2a529180&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=AEZs55CceO9z6_iPV8lF-A&expected_price_source=share&expected_price_currency=mxn&expected_price=9214",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261231-0b952cb1/"
+  },
+  {
+   "id": "b90a78b11942b592374a6181a010fd82",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 10312.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-25T10:05:00-05:00",
+   "return_at": "",
+   "duration": 2375,
+   "link": "https://www.aviasales.com/search/MEX2508DXB1?t=QR17876523001787830800002375MEXMIADOHDXB_b90a78b11942b592374a6181a010fd82_50395&search_date=22082026&expected_price_uuid=01a02719-e455-8040-6989-c3dac9cf7032&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j7wK9jUYXGyB5MrVKWTmPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10312",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260825-b90a78b1/"
   },
   {
    "id": "85a54a12e3cff29a23603c7a5d8fa4c4",

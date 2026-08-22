@@ -1,6 +1,6 @@
 {
- "generated_at": 1787411043.2954907,
- "generated_at_str": "22/08/2026 09:04",
+ "generated_at": 1787414643.557199,
+ "generated_at_str": "22/08/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "a416482127ed5fbfda4cc9e87d59df1f",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LIM",
-   "destination_name": "Lima",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 4295.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-02T22:00:00-06:00",
-   "return_at": "",
-   "duration": 355,
-   "link": "https://www.aviasales.com/search/MEX0201LIM1?t=Y417989272001798952100000355MEXLIM_a416482127ed5fbfda4cc9e87d59df1f_20989&search_date=22082026&expected_price_uuid=01a028ce-9998-8030-6971-18369c957a3a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4295",
-   "title": "Flight deals from Mexico City to Lima",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270102-a4164821/"
-  },
   {
    "id": "4bf0c3f18ae4185108173e43874dd575",
    "kind": "flight",
@@ -48,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0801BCN1?t=AM17994291001799493300000650MEXBCN_4bf0c3f18ae4185108173e43874dd575_46863&search_date=22082026&expected_price_uuid=01a029dd-4a22-8030-6b05-9b7347a82d73&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=QNtW-tw6VN53FQTjQ1KJLQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9589",
    "title": "Flight deals from Mexico City to Barcelona",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270108-4bf0c3f1/"
+  },
+  {
+   "id": "a17d6c128b300c2b58ccc4c074e199c8",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 10340.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-26T10:05:00-05:00",
+   "return_at": "",
+   "duration": 2375,
+   "link": "https://www.aviasales.com/search/MEX2608DXB1?t=QR17877387001787917200002375MEXMIADOHDXB_a17d6c128b300c2b58ccc4c074e199c8_50534&search_date=22082026&expected_price_uuid=01a02a0c-2379-8040-ab51-24135ae252d6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j7wK9jUYXGyB5MrVKWTmPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10340",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260826-a17d6c12/"
   },
   {
    "id": "429c9c614c8a6caf439f9a74623a6129",

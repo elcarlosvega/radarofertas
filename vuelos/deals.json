@@ -1,6 +1,6 @@
 {
- "generated_at": 1787414643.557199,
- "generated_at_str": "22/08/2026 10:04",
+ "generated_at": 1787418243.4412324,
+ "generated_at_str": "22/08/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260829-429c9c61/"
   },
   {
-   "id": "acfc4b3e40d22941fabd4dbec473d23b",
+   "id": "83453897be519693655eb6ddb10596bd",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -82,12 +82,12 @@
    "logo_tipo": "",
    "price": 20825.0,
    "currency": "MXN",
-   "departure_at": "2026-08-25T09:00:00-05:00",
+   "departure_at": "2026-08-31T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2508IST1?t=TK17876484001787739600000980MEXIST_acfc4b3e40d22941fabd4dbec473d23b_101776&search_date=22082026&expected_price_uuid=01a028f6-ea0f-8051-244a-27eb00ecf6f9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=20825",
+   "link": "https://www.aviasales.com/search/MEX3108IST1?t=TK17881668001788258000000980MEXIST_83453897be519693655eb6ddb10596bd_101776&search_date=22082026&expected_price_uuid=01a02a40-bb45-8040-aa38-89fd16c256c3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20825",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260825-acfc4b3e/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260831-83453897/"
   }
  ]
 }

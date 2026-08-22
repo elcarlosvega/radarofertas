@@ -1,6 +1,6 @@
 {
- "generated_at": 1787375043.7388067,
- "generated_at_str": "21/08/2026 23:04",
+ "generated_at": 1787382243.792417,
+ "generated_at_str": "22/08/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "33c90481026888fcfe4bb8456c405ba6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1015.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-08T12:52:00-05:00",
-   "return_at": "",
-   "duration": 467,
-   "link": "https://www.aviasales.com/search/MEX0810TIJ1?t=VB17914639201791488340000467NLUMTYTIJ_33c90481026888fcfe4bb8456c405ba6_4961&search_date=21082026&expected_price_uuid=01a026ab-59ad-8030-e058-248f1d933494&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Osnuf0JDL75Y-jVBFS_Kew&expected_price_source=share&expected_price_currency=mxn&expected_price=1015",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-33c90481/"
-  },
   {
    "id": "66a8552e17ecd8334c1d4a164424ada5",
    "kind": "flight",
@@ -50,27 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260901-66a8552e/"
   },
   {
-   "id": "5ffbba4f2ae7fcd65cdf7a16bf258841",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2755.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-09T00:32:00-05:00",
-   "return_at": "",
-   "duration": 277,
-   "link": "https://www.aviasales.com/search/MEX0909BOG1?t=Y417889139201788934140000277NLUBOG_5ffbba4f2ae7fcd65cdf7a16bf258841_13459&search_date=21082026&expected_price_uuid=01a02695-1dbf-8030-2692-7852bd4ca1c6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lV6xjvlOgUDAIdA2WxG7GQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2755",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20260909-5ffbba4f/"
-  },
-  {
-   "id": "9fbdb0a7b9bb4b474110727e960d90a2",
+   "id": "0b952cb1e8af0a99ea73a185c325ea2a",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -80,14 +40,14 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 9299.0,
+   "price": 8732.0,
    "currency": "MXN",
-   "departure_at": "2026-12-30T20:00:00-06:00",
+   "departure_at": "2026-12-31T18:05:00-06:00",
    "return_at": "",
-   "duration": 1150,
-   "link": "https://www.aviasales.com/search/MEX3012SEL1?t=AM17986608001798783800001150MEXICN_9fbdb0a7b9bb4b474110727e960d90a2_45445&search_date=22082026&expected_price_uuid=01a026ef-401c-8040-6ae1-c82de0b8140e&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=kCk_8_ft1wYwg6WC0aZeGA&expected_price_source=share&expected_price_currency=mxn&expected_price=9299",
+   "duration": 1265,
+   "link": "https://www.aviasales.com/search/MEX3112SEL1?t=AM17987403001798870200001265MEXMTYICN_0b952cb1e8af0a99ea73a185c325ea2a_42674&search_date=22082026&expected_price_uuid=01a026fb-163e-8040-a442-15886346ec83&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH1%7CR1%7CTBC1&itinerary_key=AEZs55CceO9z6_iPV8lF-A&expected_price_source=share&expected_price_currency=mxn&expected_price=8732",
    "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261230-9fbdb0a7/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261231-0b952cb1/"
   },
   {
    "id": "b90a78b11942b592374a6181a010fd82",
@@ -108,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX2508DXB1?t=QR17876523001787830800002375MEXMIADOHDXB_b90a78b11942b592374a6181a010fd82_50490&search_date=22082026&expected_price_uuid=01a0275f-2ee6-8040-ab90-8d1921880a41&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j7wK9jUYXGyB5MrVKWTmPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10331",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260825-b90a78b1/"
-  },
-  {
-   "id": "28172062e5eea461e15c402bea0b3929",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "NH",
-   "airline_title": "All Nippon Airways",
-   "logo": "https://pics.avs.io/600/150/NH.png",
-   "logo_tipo": "",
-   "price": 12285.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-30T06:00:00-06:00",
-   "return_at": "",
-   "duration": 895,
-   "link": "https://www.aviasales.com/search/MEX3011TYO1?t=NH17960184001796126100000895MEXNRT_28172062e5eea461e15c402bea0b3929_60024&search_date=21082026&expected_price_uuid=01a026a8-8830-8040-a7c8-cf166379fad4&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=fD_Slw-kyVXUod74B1fWKw&expected_price_source=share&expected_price_currency=mxn&expected_price=12285",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261130-28172062/"
   },
   {
    "id": "ae34524611815ab6705b24fd47a85779",

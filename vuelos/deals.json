@@ -1,6 +1,6 @@
 {
- "generated_at": 1787407443.40733,
- "generated_at_str": "22/08/2026 08:04",
+ "generated_at": 1787411043.2954907,
+ "generated_at_str": "22/08/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0201LIM1?t=Y417989272001798952100000355MEXLIM_a416482127ed5fbfda4cc9e87d59df1f_20989&search_date=22082026&expected_price_uuid=01a028ce-9998-8030-6971-18369c957a3a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4295",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270102-a4164821/"
+  },
+  {
+   "id": "4bf0c3f18ae4185108173e43874dd575",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BCN",
+   "destination_name": "Barcelona",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 9589.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-08T17:25:00-06:00",
+   "return_at": "",
+   "duration": 650,
+   "link": "https://www.aviasales.com/search/MEX0801BCN1?t=AM17994291001799493300000650MEXBCN_4bf0c3f18ae4185108173e43874dd575_46863&search_date=22082026&expected_price_uuid=01a029dd-4a22-8030-6b05-9b7347a82d73&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=QNtW-tw6VN53FQTjQ1KJLQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9589",
+   "title": "Flight deals from Mexico City to Barcelona",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270108-4bf0c3f1/"
   },
   {
    "id": "429c9c614c8a6caf439f9a74623a6129",

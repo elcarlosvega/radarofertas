@@ -1,6 +1,6 @@
 {
- "generated_at": 1787411116.5016913,
- "generated_at_str": "22/08/2026 09:05",
+ "generated_at": 1787414730.8444073,
+ "generated_at_str": "22/08/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4739,6 +4739,25 @@
    "name": "My Perfect Shake Bebida en Polvo Sabor Tiramisu 2kg",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Proteinas/My-Perfect-Shake-Bebida-en-Polvo-Sabor-Tiramisu-2kg/p/657335",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hab/hdc/207482648166430.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 899.0,
+   "price_new": 649.0,
+   "pct": 27.8,
+   "amount": 250.0,
+   "starts": "2026-08-13T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786658727.5895793,
+   "h_dias": 18,
+   "h_min": 649.0,
+   "h_ayer": 649.0,
+   "h_min7": 649.0
+  },
+  {
+   "id": "653135",
+   "name": "My Perfect Shake Bebida en Polvo Vegana 2kg",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Proteinas/My-Perfect-Shake-Bebida-en-Polvo-Vegana-2kg/p/653135",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/h9a/436339134660638.jpg",
    "category": "Salud y Belleza",
    "price_old": 899.0,
    "price_new": 649.0,
@@ -11521,6 +11540,25 @@
    "h_ayer": 1349.25
   },
   {
+   "id": "666701",
+   "name": "Nourkrin woman 60 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-woman-60-Tabletas/p/666701",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc9/hb0/274432289374238.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1699.0,
+   "price_new": 1274.25,
+   "pct": 25.0,
+   "amount": 424.75,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785176034.0557995,
+   "h_dias": 25,
+   "h_min": 1274.25,
+   "h_ayer": 1274.25,
+   "h_min7": 1274.25
+  },
+  {
    "id": "666703",
    "name": "Nourkrin Man 60 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-Man-60-Tabletas/p/666703",
@@ -17569,7 +17607,7 @@
   {
    "id": "704655",
    "name": "DELL 15 DC15250 Laptop 15.6\" Full HD Intel Core i7 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-DC15250-Laptop-156-Full-HD-Intel-Core-i7-16GB-1TB-SSD/p/704655",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-DC15250-156-Full-HD-Intel-Core-i7-16GB-1TB-SSD/p/704655",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2a/h46/469837883539486.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 19999.0,
@@ -19264,6 +19302,24 @@
    "h_dias": 25,
    "h_min": 16499.0,
    "h_ayer": 17999.0,
+   "h_min7": 17999.0
+  },
+  {
+   "id": "702697",
+   "name": "LG Lavasecadora 16Kg/8Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-16Kg8Kg/p/702697",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/h45/452706858827806.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21999.0,
+   "price_new": 17999.0,
+   "pct": 18.2,
+   "amount": 4000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787414730.8444073,
+   "h_dias": 13,
+   "h_min": 15499.0,
    "h_min7": 17999.0
   },
   {

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787393043.9028757,
- "generated_at_str": "22/08/2026 04:04",
+ "generated_at": 1787396643.5136888,
+ "generated_at_str": "22/08/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "66a8552e17ecd8334c1d4a164424ada5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DFW",
-   "destination_name": "Dallas",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2499.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-01T06:01:00-05:00",
-   "return_at": "",
-   "duration": 444,
-   "link": "https://www.aviasales.com/search/MEX0109DFW1?t=VB17882424601788272700000444TLCMTYDFW_66a8552e17ecd8334c1d4a164424ada5_12214&search_date=22082026&expected_price_uuid=01a027aa-6ae7-8030-ecc8-8b985a99a953&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NOMBcAE06DK5XWaV9zY_7g&expected_price_source=share&expected_price_currency=mxn&expected_price=2499",
-   "title": "Flight deals from Mexico City to Dallas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260901-66a8552e/"
-  },
   {
    "id": "a416482127ed5fbfda4cc9e87d59df1f",
    "kind": "flight",
@@ -90,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260826-478cc056/"
   },
   {
-   "id": "e95d02be2b32297f84b1ed3d066a7ee4",
+   "id": "acfc4b3e40d22941fabd4dbec473d23b",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -100,14 +80,14 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 20909.0,
+   "price": 20825.0,
    "currency": "MXN",
-   "departure_at": "2026-08-24T09:00:00-05:00",
+   "departure_at": "2026-08-25T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2408IST1?t=TK17875620001787653200000980MEXIST_e95d02be2b32297f84b1ed3d066a7ee4_102186&search_date=22082026&expected_price_uuid=01a028a0-61b6-8030-abca-e728d328f691&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20909",
+   "link": "https://www.aviasales.com/search/MEX2508IST1?t=TK17876484001787739600000980MEXIST_acfc4b3e40d22941fabd4dbec473d23b_101776&search_date=22082026&expected_price_uuid=01a028f6-ea0f-8051-244a-27eb00ecf6f9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=20825",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260824-e95d02be/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260825-acfc4b3e/"
   }
  ]
 }

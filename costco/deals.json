@@ -1,6 +1,6 @@
 {
- "generated_at": 1787407534.1677217,
- "generated_at_str": "22/08/2026 08:05",
+ "generated_at": 1787411116.5016913,
+ "generated_at_str": "22/08/2026 09:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -19,7 +19,7 @@
    "starts": "2026-08-22T06:00:00.000Z",
    "ends": "2026-08-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787407534.1677217,
+   "first_seen": 1787407541.7408724,
    "h_dias": 17,
    "h_min": 799.0,
    "h_ayer": 1149.0,
@@ -227,7 +227,7 @@
    "starts": "2026-08-22T06:00:00.000Z",
    "ends": "2026-08-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787407534.1677217,
+   "first_seen": 1787407541.7408724,
    "h_dias": 7,
    "h_min": 929.0,
    "h_min7": 949.0
@@ -901,7 +901,7 @@
    "starts": "2026-08-22T06:00:00.000Z",
    "ends": "2026-09-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787407534.1677217,
+   "first_seen": 1787407541.7408724,
    "h_dias": 1,
    "h_min": 32999.0
   },
@@ -1127,7 +1127,7 @@
    "starts": "2026-08-22T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787407534.1677217,
+   "first_seen": 1787407541.7408724,
    "h_dias": 20,
    "h_min": 24899.0,
    "h_min7": 24999.0
@@ -1618,7 +1618,7 @@
    "starts": "2026-08-22T06:00:00.000Z",
    "ends": "2026-08-31T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787407534.1677217,
+   "first_seen": 1787407541.7408724,
    "h_dias": 6,
    "h_min": 13999.0
   },
@@ -4754,25 +4754,6 @@
    "h_min7": 649.0
   },
   {
-   "id": "653135",
-   "name": "My Perfect Shake Bebida en Polvo Vegana 2kg",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Proteinas/My-Perfect-Shake-Bebida-en-Polvo-Vegana-2kg/p/653135",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/h9a/436339134660638.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 899.0,
-   "price_new": 649.0,
-   "pct": 27.8,
-   "amount": 250.0,
-   "starts": "2026-08-13T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1786658727.5895793,
-   "h_dias": 18,
-   "h_min": 649.0,
-   "h_ayer": 649.0,
-   "h_min7": 649.0
-  },
-  {
    "id": "637448",
    "name": "Vino Tinto Sierra Cantabria Gran Reserva 750ml",
    "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Sierra-Cantabria-Gran-Reserva-750ml/p/637448",
@@ -5482,6 +5463,25 @@
    "h_min": 17499.0,
    "h_ayer": 18999.0,
    "h_min7": 18999.0
+  },
+  {
+   "id": "686785",
+   "name": "LG Refrigerador 25' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-25-French-Door/p/686785",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h53/259626817519646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24199.0,
+   "price_new": 17699.0,
+   "pct": 26.9,
+   "amount": 6500.0,
+   "starts": "2026-07-27T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785334270.0395963,
+   "h_dias": 24,
+   "h_min": 17699.0,
+   "h_ayer": 17699.0,
+   "h_min7": 17699.0
   },
   {
    "id": "693672",
@@ -11519,25 +11519,6 @@
    "h_dias": 6,
    "h_min": 1349.25,
    "h_ayer": 1349.25
-  },
-  {
-   "id": "666701",
-   "name": "Nourkrin woman 60 Tabletas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-woman-60-Tabletas/p/666701",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hc9/hb0/274432289374238.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1699.0,
-   "price_new": 1274.25,
-   "pct": 25.0,
-   "amount": 424.75,
-   "starts": "2026-07-27T06:00:00.000Z",
-   "ends": "2026-08-24T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785176034.0557995,
-   "h_dias": 25,
-   "h_min": 1274.25,
-   "h_ayer": 1274.25,
-   "h_min7": 1274.25
   },
   {
    "id": "666703",
@@ -18524,7 +18505,7 @@
    "starts": "2026-08-22T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787407534.1677217,
+   "first_seen": 1787407541.7408724,
    "h_dias": 1,
    "h_min": 41999.0
   },

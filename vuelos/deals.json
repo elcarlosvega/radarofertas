@@ -1,6 +1,6 @@
 {
- "generated_at": 1787432643.7638605,
- "generated_at_str": "22/08/2026 15:04",
+ "generated_at": 1787436243.4287226,
+ "generated_at_str": "22/08/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "5267da6315dcef3ac82423e0816aa757",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ACA",
+   "destination_name": "Acapulco de Juárez",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 734.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-30T15:40:00-05:00",
+   "return_at": "",
+   "duration": 60,
+   "link": "https://www.aviasales.com/search/MEX3008ACA1?t=VB17881044001788108000000060NLUACA_5267da6315dcef3ac82423e0816aa757_3586&search_date=22082026&expected_price_uuid=01a02b78-e1ba-8050-2756-a920ba960543&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ejyW_gLKGDYFt0wZd3gwvQ&expected_price_source=share&expected_price_currency=mxn&expected_price=734",
+   "title": "Flight deals from Mexico City to Acapulco",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260830-5267da63/"
+  },
   {
    "id": "b3ce1ddd3e834b63269b6876ddd653cd",
    "kind": "flight",
@@ -110,24 +130,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261003-dbd35fde/"
   },
   {
-   "id": "a17d6c128b300c2b58ccc4c074e199c8",
+   "id": "f2064ce6f4811f61f92385879ac9af10",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "QR",
-   "airline_title": "Qatar Airways",
-   "logo": "https://pics.avs.io/600/150/QR.png",
+   "destination": "LIS",
+   "destination_name": "Lisboa",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 10340.0,
+   "price": 8859.0,
    "currency": "MXN",
-   "departure_at": "2026-08-26T10:05:00-05:00",
+   "departure_at": "2027-05-04T10:10:00-05:00",
    "return_at": "",
-   "duration": 2375,
-   "link": "https://www.aviasales.com/search/MEX2608DXB1?t=QR17877387001787917200002375MEXMIADOHDXB_a17d6c128b300c2b58ccc4c074e199c8_50534&search_date=22082026&expected_price_uuid=01a02a0c-2379-8040-ab51-24135ae252d6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j7wK9jUYXGyB5MrVKWTmPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10340",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260826-a17d6c12/"
+   "duration": 820,
+   "link": "https://www.aviasales.com/search/MEX0405LIS1?t=AM18094254001809499800000820MEXMADLIS_f2064ce6f4811f61f92385879ac9af10_43293&search_date=22082026&expected_price_uuid=01a02b7a-9fa2-8040-a258-cb2cb8295728&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=zNy3Pln82eH8_TLrMXAdkw&expected_price_source=share&expected_price_currency=mxn&expected_price=8859",
+   "title": "Flight deals from Mexico City to Lisbon",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lisboa-20270504-f2064ce6/"
   },
   {
    "id": "3cb2af45bde09b3455687c72389acccd",
@@ -148,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0709ALA1?t=BY17888184001789013700002595MEXCUNMANSAWALA_3cb2af45bde09b3455687c72389acccd_66907&search_date=22082026&expected_price_uuid=01a02ada-cc80-8030-6a93-8278d3890e21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-aa_Pi7daSLh0RoKMP4ecA&expected_price_source=share&expected_price_currency=mxn&expected_price=13690",
    "title": "Flight deals from Mexico City to Almaty",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20260907-3cb2af45/"
+  },
+  {
+   "id": "3b4473b15deabb78e038c5f4edbd9449",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SHA",
+   "destination_name": "Shanghái",
+   "airline": "PR",
+   "airline_title": "Philippine Airlines",
+   "logo": "https://pics.avs.io/600/150/PR.png",
+   "logo_tipo": "",
+   "price": 13838.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-27T06:00:00-05:00",
+   "return_at": "",
+   "duration": 2550,
+   "link": "https://www.aviasales.com/search/MEX2708SHA1?t=PR17878104001788013800002550MEXLAXMNLPVG_3b4473b15deabb78e038c5f4edbd9449_67630&search_date=22082026&expected_price_uuid=01a02b79-b6f6-8040-2e27-28ba5ce85790&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=KbFB9NAchSsjg0viq1BfXg&expected_price_source=share&expected_price_currency=mxn&expected_price=13838",
+   "title": "Flight deals from Mexico City to Shanghai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260827-3b4473b1/"
   },
   {
    "id": "15af5a6707add209b69598ae2eab85d6",

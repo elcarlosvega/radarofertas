@@ -1,11 +1,30 @@
 {
- "generated_at": 1787403932.4589005,
- "generated_at_str": "22/08/2026 07:05",
+ "generated_at": 1787407534.1677217,
+ "generated_at_str": "22/08/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
  },
  "deals": [
+  {
+   "id": "702572",
+   "name": "Nintendo Switch 2 - Mario Tennis Fever",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Mario-Tennis-Fever/p/702572",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h24/438942116282398.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 799.0,
+   "pct": 50.0,
+   "amount": 800.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-08-25T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787407534.1677217,
+   "h_dias": 17,
+   "h_min": 799.0,
+   "h_ayer": 1149.0,
+   "h_min7": 799.0
+  },
   {
    "id": "696246",
    "name": "Samsung Galaxy Watch Ultra 47mm Plata Titanio 2025",
@@ -194,6 +213,24 @@
    "h_dias": 6,
    "h_min": 799.0,
    "h_ayer": 799.0
+  },
+  {
+   "id": "701218",
+   "name": "Nintendo Switch 2 - Leyendas Pokémon Z-A",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Leyendas-Pokemon-Z-A/p/701218",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h00/hd1/414733866074142.jpg",
+   "category": "Electronicos",
+   "price_old": 1599.0,
+   "price_new": 949.0,
+   "pct": 40.7,
+   "amount": 650.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-08-25T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787407534.1677217,
+   "h_dias": 7,
+   "h_min": 929.0,
+   "h_min7": 949.0
   },
   {
    "id": "695387",
@@ -387,7 +424,7 @@
   {
    "id": "648097",
    "name": "ASUS Vivobook Go 14 Laptop 14\" FHD AMD Ryzen 5 40 8GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-Go-14-14-FHD-AMD-Ryzen-5-40-8GB-512GB-SSD/p/648097",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-Go-14-Laptop-14-FHD-AMD-Ryzen-5-40-8GB-512GB-SSD/p/648097",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h99/h0f/490070503850014.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 13799.0,
@@ -557,7 +594,7 @@
   {
    "id": "648093",
    "name": "ASUS Vivobook S16 Laptop 16\" WUXGA AMD Ryzen 9 270 16GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-S16-16-WUXGA-AMD-Ryzen-9-270-16GB-512GB-SSD/p/648093",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-S16-Laptop-16-WUXGA-AMD-Ryzen-9-270-16GB-512GB-SSD/p/648093",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h88/hed/490070493495326.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 27799.0,
@@ -797,7 +834,7 @@
   {
    "id": "702556",
    "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD NVIDIA GeForce RTX 5050 Intel Core 7 16GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-Intel-Core-7-16GB-512GB-SSD/p/702556",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-NVIDIA-GeForce-RTX-5050-Intel-Core-7-16GB-512GB-SSD/p/702556",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h72/h21/450325706506270.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 32499.0,
@@ -850,6 +887,23 @@
    "h_min": 6499.0,
    "h_ayer": 6499.0,
    "h_min7": 6499.0
+  },
+  {
+   "id": "694782",
+   "name": "LG Pantalla 77\" OLED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/LG-Pantalla-77-OLED-4K-Smart-TV/p/694782",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he9/hdb/488002740027422.jpg",
+   "category": "Electronicos",
+   "price_old": 47999.0,
+   "price_new": 32999.0,
+   "pct": 31.3,
+   "amount": 15000.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-09-06T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787407534.1677217,
+   "h_dias": 1,
+   "h_min": 32999.0
   },
   {
    "id": "696193",
@@ -1025,7 +1079,7 @@
   {
    "id": "696881",
    "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD NVIDIA GeForce 5060 AMD Ryzen 7 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-AMD-Ryzen-7-16GB-1TB-SSD/p/696881",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-NVIDIA-GeForce-5060-AMD-Ryzen-7-16GB-1TB-SSD/p/696881",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hea/438164196360222.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 38499.0,
@@ -1059,6 +1113,24 @@
    "h_min": 1039.0,
    "h_ayer": 1039.0,
    "h_min7": 1039.0
+  },
+  {
+   "id": "674600",
+   "name": "Whirlpool Refrigerador 25' Side by Side",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/674600",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h83/153444905582622.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 35999.0,
+   "price_new": 24999.0,
+   "pct": 30.6,
+   "amount": 11000.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787407534.1677217,
+   "h_dias": 20,
+   "h_min": 24899.0,
+   "h_min7": 24999.0
   },
   {
    "id": "704948",
@@ -1116,25 +1188,6 @@
    "h_min": 5899.0,
    "h_ayer": 5899.0,
    "h_min7": 5899.0
-  },
-  {
-   "id": "696143",
-   "name": "Skullcandy Bundle Rail + Jib Audífonos",
-   "url": "https://www.costco.com.mx/Electronicos/Audio/Audifonos-y-Auriculares/Skullcandy-Bundle-Rail-Jib-Audifonos/p/696143",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hff/h2f/402215840186398.jpg",
-   "category": "Electronicos",
-   "price_old": 1799.0,
-   "price_new": 1249.0,
-   "pct": 30.6,
-   "amount": 550.0,
-   "starts": "2026-07-25T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1784999450.7326512,
-   "h_dias": 25,
-   "h_min": 1249.0,
-   "h_ayer": 1249.0,
-   "h_min7": 1249.0
   },
   {
    "id": "695474",
@@ -1553,6 +1606,23 @@
    "h_min7": 17499.0
   },
   {
+   "id": "683627",
+   "name": "HP Victus 16-d0537la Laptop Gaming 16\" Full HD NVIDIA GeForce RTX 3050 Intel Core i5 8GB 512GB SSD + Headset HyperX",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-Victus-16-d0537la-Laptop-Gaming-16-Full-HD-NVIDIA-GeForce-RTX-3050-Intel-Core-i5-8GB-512GB-SSD-Headset-HyperX/p/683627",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1d/h04/438148992532510.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 19999.0,
+   "price_new": 13999.0,
+   "pct": 30.0,
+   "amount": 6000.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787407534.1677217,
+   "h_dias": 6,
+   "h_min": 13999.0
+  },
+  {
    "id": "692898",
    "name": "Hisense Refrigerador 19' Top Mount",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-19-Top-Mount/p/692898",
@@ -1688,7 +1758,7 @@
   {
    "id": "1807152",
    "name": "Alltrade, Set Bistro de Madera de Acacia Plegable y Expandible para Exteriores de 3 piezas",
-   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Alltrade-Set-Bistro-Plegable-y-Expandible-para-Exteriores-de-3-piezas/p/1807152",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Alltrade-Set-Bistro-de-Madera-de-Acacia-Plegable-y-Expandible-para-Exteriores-de-3-piezas/p/1807152",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h47/haf/384959769182238.jpg",
    "category": "Muebles",
    "price_old": 4999.0,
@@ -3708,7 +3778,7 @@
   {
    "id": "704612",
    "name": "ASUS Vivobook 14 Laptop 14\" Full HD Intel Core 7 16GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-14-Full-HD-Intel-Core-7-16GB-512GB-SSD/p/704612",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-14-Laptop-14-Full-HD-Intel-Core-7-16GB-512GB-SSD/p/704612",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h71/h57/468632451186718.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 20999.0,
@@ -4550,6 +4620,24 @@
    "h_dias": 2,
    "h_min": 12999.0,
    "h_ayer": 12999.0
+  },
+  {
+   "id": "696286",
+   "name": "Samsung Galaxy Tab S10 Lite 128GB Gris",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Tablets/Tablets/Samsung-Galaxy-Tab-S10-Lite-128GB-Gris/p/696286",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h96/h70/438940988178462.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 7199.0,
+   "price_new": 5199.0,
+   "pct": 27.8,
+   "amount": 2000.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1786374355.9897757,
+   "h_dias": 24,
+   "h_min": 4999.0,
+   "h_min7": 5199.0
   },
   {
    "id": "645705",
@@ -5921,7 +6009,7 @@
   {
    "id": "703396",
    "name": "HP 15-fd0161la Laptop 15.6\" FHD Intel Core i5-1334U 8GB 256GB",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-Laptop-15-fd0161la-156-FHD-Intel-Core-i5-1334U-8GB-256GB/p/703396",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0161la-Laptop-156-FHD-Intel-Core-i5-1334U-8GB-256GB/p/703396",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h3c/hc9/473756880928798.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 12199.0,
@@ -14583,7 +14671,7 @@
   {
    "id": "681591",
    "name": "Hisense Congelador horizontal 9'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-9/p/681591",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-horizontal-9/p/681591",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h87/239697306943518.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 10499.0,
@@ -17500,7 +17588,7 @@
   {
    "id": "704655",
    "name": "DELL 15 DC15250 Laptop 15.6\" Full HD Intel Core i7 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-DC15250-156-Full-HD-Intel-Core-i7-16GB-1TB-SSD/p/704655",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-DC15250-Laptop-156-Full-HD-Intel-Core-i7-16GB-1TB-SSD/p/704655",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2a/h46/469837883539486.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 19999.0,
@@ -18424,6 +18512,23 @@
    "h_min7": 9899.0
   },
   {
+   "id": "522265",
+   "name": "KitchenAid Refrigerador 20' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/KitchenAid-Refrigerador-20-French-Door/p/522265",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hec/h1a/50494029070366.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 51999.0,
+   "price_new": 41999.0,
+   "pct": 19.2,
+   "amount": 10000.0,
+   "starts": "2026-08-22T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787407534.1677217,
+   "h_dias": 1,
+   "h_min": 41999.0
+  },
+  {
    "id": "695261",
    "name": "Thor Kitchen Lavavajillas de empotre de 15 servicios",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Thor-Kitchen-Lavavajillas-de-empotre-de-15-servicios/p/695261",
@@ -18634,7 +18739,7 @@
   {
    "id": "677230",
    "name": "Hisense Refrigerador 21' Cuatro puertas",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-21-cuatro-puertas/p/677230",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-21-Cuatro-puertas/p/677230",
    "img": "https://www.costco.com.mx/medias/sys_master/products/ha1/hc9/150263333388318.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 23999.0,
@@ -19051,7 +19156,7 @@
   {
    "id": "695726",
    "name": "DELL Alienware NB M16 R2 Laptop Gaming 16\" Quad HD NVIDIA GeForce RTX 4050 Intel Core Ultra 7 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Gaming-NB-M16-R2-Laptop-16-Quad-HD-Intel-Core-Ultra-7-16GB-1TB-SSD/p/695726",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-NB-M16-R2-Laptop-Gaming-16-Quad-HD-NVIDIA-GeForce-RTX-4050-Intel-Core-Ultra-7-16GB-1TB-SSD/p/695726",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h93/h79/438163989200926.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 48999.0,
@@ -19070,7 +19175,7 @@
   {
    "id": "696306",
    "name": "ASUS TUF Gaming A14 Laptop 14\" WQXGA NVIDIA GeForce RTX 5050 AMD Ryzen 7 16GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-TUF-Gaming-A14-Laptop-14-WQXGA-AMD-Ryzen-7-16GB-512GB-SSD/p/696306",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-TUF-Gaming-A14-Laptop-14-WQXGA-NVIDIA-GeForce-RTX-5050-AMD-Ryzen-7-16GB-512GB-SSD/p/696306",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h13/h89/438164196294686.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 29999.0,
@@ -19620,7 +19725,7 @@
   {
    "id": "704945",
    "name": "ACER Aspire Lite 16 Laptop 15.6\" Full HD AMD Ryzen 5 40 16GB 512Gb SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ACER-Laptop-Aspire-Lite-16-156-Full-HD-AMD-Ryzen-5-40-16GB-512Gb-SSD/p/704945",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ACER-Aspire-Lite-16-Laptop-156-Full-HD-AMD-Ryzen-5-40-16GB-512Gb-SSD/p/704945",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h43/h19/490070547628062.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 16999.0,
@@ -19752,7 +19857,7 @@
   {
    "id": "692782",
    "name": "Samsung Refrigerador Family Hub 32' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-32-French-Door-Family-Hub/p/692782",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-Family-Hub-32-French-Door/p/692782",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h2a/311745784184862.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 56999.0,
@@ -20416,7 +20521,7 @@
   {
    "id": "703985",
    "name": "Samsung Refrigerador Autoview 30' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Autoview-French-Door-30-Refrigerador/p/703985",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-Autoview-30-French-Door/p/703985",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h30/h07/466694934233118.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 37199.0,
@@ -20568,7 +20673,7 @@
   {
    "id": "697136",
    "name": "DELL Latitude 5455 Laptop 14\" Full HD Snapdragon (R) X Plus 32 GB 1TB SSD + DELL Docking HD22Q",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-Latitude-5455-14-Full-HD-Snapdragon-R-X-Plus-32-GB-1TB-SSD-DELL-Docking-HD22Q/p/697136",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-Latitude-5455-Laptop-14-Full-HD-Snapdragon-R-X-Plus-32-GB-1TB-SSD-DELL-Docking-HD22Q/p/697136",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h69/438164196950046.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 31499.0,
@@ -22614,7 +22719,7 @@
   {
    "id": "648094",
    "name": "ASUS Zenbook A14 Laptop 14\" WUXGA Snapdragon X2 Elite X2E88100 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Zenbook-A14-14-WUXGA-Snapdragon-X2-Elite-X2E88100-16GB-1TB-SSD/p/648094",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Zenbook-A14-Laptop-14-WUXGA-Snapdragon-X2-Elite-X2E88100-16GB-1TB-SSD/p/648094",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/h43/490070494478366.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 38499.0,
@@ -22974,7 +23079,7 @@
   {
    "id": "670473",
    "name": "Whirlpool Congelador horizontal 11'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Congelador-11/p/670473",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Congelador-horizontal-11/p/670473",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h30/h48/97099407818782.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 15999.0,
@@ -23069,7 +23174,7 @@
   {
    "id": "648095",
    "name": "ASUS Zenbook Duo Laptop 14\" OLED Intel Core Ultra 9 386H 32GB 2TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Zenbook-Duo-14-OLED-Intel-Core-Ultra-9-386H-32GB-2TB-SSD/p/648095",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Zenbook-Duo-Laptop-14-OLED-Intel-Core-Ultra-9-386H-32GB-2TB-SSD/p/648095",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h51/h32/490070498869278.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 68499.0,
@@ -23541,7 +23646,7 @@
   {
    "id": "648091",
    "name": "ASUS ROG Zephyrus Duo Laptop Gaming 16\" OLED NVIDIA GeForce RTX 5070 Ti Intel Core Ultra 9 386H 32GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-ROG-Zephyrus-Duo-16-OLED-NVIDIA-GeForce-RTX-5070-Ti-Intel-Core-Ultra-9-386H-32GB-1TB-SSD/p/648091",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-ROG-Zephyrus-Duo-Laptop-Gaming-16-OLED-NVIDIA-GeForce-RTX-5070-Ti-Intel-Core-Ultra-9-386H-32GB-1TB-SSD/p/648091",
    "img": "https://www.costco.com.mx/medias/sys_master/products/he7/hb9/490070450831390.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 96999.0,
@@ -23692,7 +23797,7 @@
   {
    "id": "695602",
    "name": "Lenovo LOQ 15IAX9E Laptop Gaming 15.6\" Full HD NVIDIA GeForce RTX 3050 Intel Core i5 8GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/Lenovo-LOQ-15IAX9E-Gaming-Laptop-156-Full-HD-Intel-Core-i5-8GB-512GB-SSD/p/695602",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/Lenovo-LOQ-15IAX9E-Laptop-Gaming-156-Full-HD-NVIDIA-GeForce-RTX-3050-Intel-Core-i5-8GB-512GB-SSD/p/695602",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hba/ha8/438163988119582.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 17999.0,
@@ -24274,7 +24379,7 @@
   {
    "id": "521310",
    "name": "Teka Refrigerador 19' Cuatro Puertas",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Teka-Refrigerador-de-19-Cuatro-Puertas/p/521310",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Teka-Refrigerador-19-Cuatro-Puertas/p/521310",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h04/h0e/260584487387166.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 19999.0,

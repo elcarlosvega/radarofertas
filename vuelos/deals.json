@@ -1,6 +1,6 @@
 {
- "generated_at": 1787429043.5768132,
- "generated_at_str": "22/08/2026 14:04",
+ "generated_at": 1787432643.7638605,
+ "generated_at_str": "22/08/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "b3ce1ddd3e834b63269b6876ddd653cd",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MTY",
+   "destination_name": "Monterrey",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 765.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-01T18:00:00-05:00",
+   "return_at": "",
+   "duration": 98,
+   "link": "https://www.aviasales.com/search/MEX0109MTY1?t=Y417882856001788291480000098TLCMTY_b3ce1ddd3e834b63269b6876ddd653cd_3738&search_date=22082026&expected_price_uuid=01a02b26-e1d4-8030-6b8e-a28b4b68aee0&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=765",
+   "title": "Flight deals from Mexico City to Monterrey",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260901-b3ce1ddd/"
+  },
   {
    "id": "86a7ae72eed92d9cfab3f58cab9b8c8c",
    "kind": "flight",
@@ -70,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20270208-646b3172/"
   },
   {
-   "id": "4bf0c3f18ae4185108173e43874dd575",
+   "id": "dbd35fde8050277bfa3dd426557424e0",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BCN",
-   "destination_name": "Barcelona",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 9589.0,
+   "destination": "CHI",
+   "destination_name": "Chicago",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2521.0,
    "currency": "MXN",
-   "departure_at": "2027-01-08T17:25:00-06:00",
+   "departure_at": "2026-10-03T06:00:00-05:00",
    "return_at": "",
-   "duration": 650,
-   "link": "https://www.aviasales.com/search/MEX0801BCN1?t=AM17994291001799493300000650MEXBCN_4bf0c3f18ae4185108173e43874dd575_46863&search_date=22082026&expected_price_uuid=01a029dd-4a22-8030-6b05-9b7347a82d73&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=QNtW-tw6VN53FQTjQ1KJLQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9589",
-   "title": "Flight deals from Mexico City to Barcelona",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270108-4bf0c3f1/"
+   "duration": 370,
+   "link": "https://www.aviasales.com/search/MEX0310CHI1?t=VB17910072001791033000000370NLUMTYORD_dbd35fde8050277bfa3dd426557424e0_12319&search_date=22082026&expected_price_uuid=01a02b15-a76b-8040-25d5-0e9e692afcff&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pwYOvfyl7PoLN-HKBNVncA&expected_price_source=share&expected_price_currency=mxn&expected_price=2521",
+   "title": "Flight deals from Mexico City to Chicago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261003-dbd35fde/"
   },
   {
    "id": "a17d6c128b300c2b58ccc4c074e199c8",

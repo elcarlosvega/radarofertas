@@ -1,6 +1,6 @@
 {
- "generated_at": 1787364244.083829,
- "generated_at_str": "21/08/2026 20:04",
+ "generated_at": 1787367845.0651202,
+ "generated_at_str": "21/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -140,34 +140,14 @@
    "airline_title": "Qatar Airways",
    "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 10312.0,
+   "price": 10331.0,
    "currency": "MXN",
    "departure_at": "2026-08-25T10:05:00-05:00",
    "return_at": "",
    "duration": 2375,
-   "link": "https://www.aviasales.com/search/MEX2508DXB1?t=QR17876523001787830800002375MEXMIADOHDXB_b90a78b11942b592374a6181a010fd82_50395&search_date=22082026&expected_price_uuid=01a02719-e455-8040-6989-c3dac9cf7032&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j7wK9jUYXGyB5MrVKWTmPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10312",
+   "link": "https://www.aviasales.com/search/MEX2508DXB1?t=QR17876523001787830800002375MEXMIADOHDXB_b90a78b11942b592374a6181a010fd82_50490&search_date=22082026&expected_price_uuid=01a0275f-2ee6-8040-ab90-8d1921880a41&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j7wK9jUYXGyB5MrVKWTmPw&expected_price_source=share&expected_price_currency=mxn&expected_price=10331",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260825-b90a78b1/"
-  },
-  {
-   "id": "85a54a12e3cff29a23603c7a5d8fa4c4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SGN",
-   "destination_name": "Ciudad Ho Chi Minh",
-   "airline": "PR",
-   "airline_title": "Philippine Airlines",
-   "logo": "https://pics.avs.io/600/150/PR.png",
-   "logo_tipo": "",
-   "price": 11093.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-24T11:35:00-05:00",
-   "return_at": "",
-   "duration": 1920,
-   "link": "https://www.aviasales.com/search/MEX2408SGN1?t=PR17875713001787733300001920MEXIAHLAXYVRMNLSGN_85a54a12e3cff29a23603c7a5d8fa4c4_54216&search_date=21082026&expected_price_uuid=01a0260d-55e7-8030-2f8a-93387b7d56b7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=spyciMz1UGCrgzbaThvcTg&expected_price_source=share&expected_price_currency=mxn&expected_price=11093",
-   "title": "Flight deals from Mexico City to Ho Chi Minh City",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-ho-chi-minh-20260824-85a54a12/"
   },
   {
    "id": "28172062e5eea461e15c402bea0b3929",
@@ -208,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2711BAK1?t=AM17958150001796007000002600MEXAMSBRUCRLSAWGYD_f5cb154fcf222652aa8ba24da436f025_60209&search_date=21082026&expected_price_uuid=01a02674-5a16-8040-ae07-93d32e00d2c7&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=0ZjsYEkJ7pJcUT_PtRFfFg&expected_price_source=share&expected_price_currency=mxn&expected_price=12322",
    "title": "Flight deals from Mexico City to Baku",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-baku-20261127-f5cb154f/"
+  },
+  {
+   "id": "ae34524611815ab6705b24fd47a85779",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 20758.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-27T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2708IST1?t=TK17878212001787912400000980MEXCUNIST_ae34524611815ab6705b24fd47a85779_101450&search_date=22082026&expected_price_uuid=01a02753-8d09-8050-ad4a-d01bb39d312f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yM8do9rI-iXCfdq0v0zoGw&expected_price_source=share&expected_price_currency=mxn&expected_price=20758",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260827-ae345246/"
   }
  ]
 }

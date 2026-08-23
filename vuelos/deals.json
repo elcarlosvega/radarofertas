@@ -1,6 +1,6 @@
 {
- "generated_at": 1787457844.4924405,
- "generated_at_str": "22/08/2026 22:04",
+ "generated_at": 1787461444.088176,
+ "generated_at_str": "22/08/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "5267da6315dcef3ac82423e0816aa757",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ACA",
-   "destination_name": "Acapulco de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 734.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-30T15:40:00-05:00",
-   "return_at": "",
-   "duration": 60,
-   "link": "https://www.aviasales.com/search/MEX3008ACA1?t=VB17881044001788108000000060NLUACA_5267da6315dcef3ac82423e0816aa757_3586&search_date=22082026&expected_price_uuid=01a02b78-e1ba-8050-2756-a920ba960543&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ejyW_gLKGDYFt0wZd3gwvQ&expected_price_source=share&expected_price_currency=mxn&expected_price=734",
-   "title": "Flight deals from Mexico City to Acapulco",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260830-5267da63/"
-  },
   {
    "id": "33c90481026888fcfe4bb8456c405ba6",
    "kind": "flight",
@@ -110,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260824-dcd245f4/"
   },
   {
-   "id": "f2064ce6f4811f61f92385879ac9af10",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LIS",
-   "destination_name": "Lisboa",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 8859.0,
-   "currency": "MXN",
-   "departure_at": "2027-05-04T10:10:00-05:00",
-   "return_at": "",
-   "duration": 820,
-   "link": "https://www.aviasales.com/search/MEX0405LIS1?t=AM18094254001809499800000820MEXMADLIS_f2064ce6f4811f61f92385879ac9af10_43293&search_date=22082026&expected_price_uuid=01a02b7a-9fa2-8040-a258-cb2cb8295728&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=zNy3Pln82eH8_TLrMXAdkw&expected_price_source=share&expected_price_currency=mxn&expected_price=8859",
-   "title": "Flight deals from Mexico City to Lisbon",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lisboa-20270504-f2064ce6/"
-  },
-  {
    "id": "6233def3ef9e2eea51a00d1847d7c40f",
    "kind": "flight",
    "origin": "MEX",
@@ -190,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hanoi-20260831-34fe7d7b/"
   },
   {
-   "id": "3b4473b15deabb78e038c5f4edbd9449",
+   "id": "7074972854f44b530267b03156003cad",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "SHA",
-   "destination_name": "Shanghái",
-   "airline": "PR",
-   "airline_title": "Philippine Airlines",
-   "logo": "https://pics.avs.io/600/150/PR.png",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 13838.0,
+   "price": 13199.0,
    "currency": "MXN",
-   "departure_at": "2026-08-27T06:00:00-05:00",
+   "departure_at": "2026-08-24T20:40:00-05:00",
    "return_at": "",
-   "duration": 2550,
-   "link": "https://www.aviasales.com/search/MEX2708SHA1?t=PR17878104001788013800002550MEXLAXMNLPVG_3b4473b15deabb78e038c5f4edbd9449_67630&search_date=22082026&expected_price_uuid=01a02b79-b6f6-8040-2e27-28ba5ce85790&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=KbFB9NAchSsjg0viq1BfXg&expected_price_source=share&expected_price_currency=mxn&expected_price=13838",
-   "title": "Flight deals from Mexico City to Shanghai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260827-3b4473b1/"
+   "duration": 1100,
+   "link": "https://www.aviasales.com/search/MEX2408SEL1?t=AM17876040001787724000001100MEXICN_7074972854f44b530267b03156003cad_64506&search_date=23082026&expected_price_uuid=01a02cc7-057d-8040-acd1-3b526b00773b&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH1%7CR0%7CTBC1&itinerary_key=sLywf-xUKTPO7nB4AJGHaA&expected_price_source=share&expected_price_currency=mxn&expected_price=13199",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260824-70749728/"
   },
   {
    "id": "d477161b678a942d538d9c9ed18603f3",

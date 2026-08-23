@@ -1,6 +1,6 @@
 {
- "generated_at": 1787472323.426936,
- "generated_at_str": "23/08/2026 02:05",
+ "generated_at": 1787475916.2121558,
+ "generated_at_str": "23/08/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1048,6 +1048,25 @@
    "h_min": 899.0,
    "h_ayer": 899.0,
    "h_min7": 899.0
+  },
+  {
+   "id": "542027",
+   "name": "Whisky Johnnie Walker Red Label Blended Scotch 1 L",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Johnnie-Walker-Red-Label-Blended-Scotch-1-L/p/542027",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hba/h67/277019060961310.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 649.0,
+   "price_new": 449.0,
+   "pct": 30.8,
+   "amount": 200.0,
+   "starts": "2026-08-01T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1785626857.1147935,
+   "h_dias": 23,
+   "h_min": 449.0,
+   "h_ayer": 449.0,
+   "h_min7": 449.0
   },
   {
    "id": "696881",
@@ -5198,6 +5217,24 @@
    "name": "Kirkland Signature Almendras Cubiertas de Chocolate 1.36 kg",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Kirkland-Signature-Almendras-Cubiertas-de-Chocolate-136-kg/p/446042",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h51/hf8/386579431718942.jpg",
+   "category": "Grocery",
+   "price_old": 549.0,
+   "price_new": 399.0,
+   "pct": 27.3,
+   "amount": 150.0,
+   "starts": "2026-08-19T06:00:00.000Z",
+   "ends": "2026-08-24T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787155542.6179163,
+   "h_dias": 5,
+   "h_min": 399.0,
+   "h_ayer": 399.0
+  },
+  {
+   "id": "466263",
+   "name": "Kirkland Signature Pasas Cubiertas de Chocolate 1.53 kg",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Kirkland-Signature-Pasas-Cubiertas-de-Chocolate-153-kg/p/466263",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/h57/82687232770078.jpg",
    "category": "Grocery",
    "price_old": 549.0,
    "price_new": 399.0,
@@ -15762,7 +15799,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 6999.0,
    "h_min7": 6999.0
@@ -15780,7 +15817,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 12,
    "h_min": 6699.0,
    "h_min7": 6999.0
@@ -15874,7 +15911,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 6999.0,
    "h_min7": 6999.0
@@ -15968,7 +16005,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 6999.0,
    "h_min7": 6999.0
@@ -17392,7 +17429,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 7899.0,
    "h_min7": 7899.0
@@ -17410,7 +17447,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 7899.0,
    "h_min7": 7899.0
@@ -17428,7 +17465,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 7899.0,
    "h_min7": 7899.0
@@ -17446,7 +17483,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 10,
    "h_min": 7899.0,
    "h_min7": 7899.0
@@ -20920,7 +20957,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 6,
    "h_min": 15999.0,
    "h_ayer": 16999.0
@@ -20957,7 +20994,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 8,
    "h_min": 15999.0,
    "h_min7": 15999.0
@@ -20975,7 +21012,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 6,
    "h_min": 15999.0,
    "h_ayer": 16999.0
@@ -20993,7 +21030,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 15,
    "h_min": 15999.0,
    "h_min7": 15999.0
@@ -21011,7 +21048,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 17,
    "h_min": 15999.0,
    "h_min7": 15999.0
@@ -21029,7 +21066,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 1,
    "h_min": 15999.0
   },
@@ -21046,7 +21083,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 1,
    "h_min": 15999.0
   },
@@ -22504,7 +22541,7 @@
    "starts": "2026-08-23T06:00:00.000Z",
    "ends": "2026-08-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787472323.426936,
+   "first_seen": 1787472338.6547873,
    "h_dias": 1,
    "h_min": 18499.0
   },

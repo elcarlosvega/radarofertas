@@ -1,6 +1,6 @@
 {
- "generated_at": 1787501043.8582985,
- "generated_at_str": "23/08/2026 10:04",
+ "generated_at": 1787504643.9368396,
+ "generated_at_str": "23/08/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261012-b2dc52ee/"
   },
   {
-   "id": "bee8a8c47aea1634b7da4de0fa26d19a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 5729.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-03T10:06:00-06:00",
-   "return_at": "",
-   "duration": 834,
-   "link": "https://www.aviasales.com/search/MEX0312BUE1?t=DM17962923601796353200000834NLUPUJEZE_bee8a8c47aea1634b7da4de0fa26d19a_27996&search_date=23082026&expected_price_uuid=01a02e43-5c3a-8050-efc2-bba1761d09d9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CJbQm4Z-Da6Iw3tEafWhHA&expected_price_source=share&expected_price_currency=mxn&expected_price=5729",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261203-bee8a8c4/"
-  },
-  {
    "id": "3267aecc14672eb8ace0868de270fff1",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX2301MSQ1?t=BA18007380001800910800002340MEXLHRISTMSQ_3267aecc14672eb8ace0868de270fff1_87815&search_date=23082026&expected_price_uuid=01a02e9d-0c23-8030-2ee4-644da15dd9c5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pdEFJKNykOicz-lY3P_KnA&expected_price_source=share&expected_price_currency=mxn&expected_price=17969",
    "title": "Flight deals from Mexico City to Minsk",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20270123-3267aecc/"
+  },
+  {
+   "id": "cf0f0cbda634fa1852d29a1e45b723f8",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 17996.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-28T22:10:00-05:00",
+   "return_at": "",
+   "duration": 1040,
+   "link": "https://www.aviasales.com/search/MEX2808TYO1?t=AM17879550001788071400001040MEXNRT_cf0f0cbda634fa1852d29a1e45b723f8_87947&search_date=23082026&expected_price_uuid=01a02f86-d076-8040-6cc7-c46ee34ab95a&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=N7pVhFezru0eVi5nbm8Q5Q&expected_price_source=share&expected_price_currency=mxn&expected_price=17996",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260828-cf0f0cbd/"
   },
   {
    "id": "f0396f2edd89826d3e115c7c91c39c09",

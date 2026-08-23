@@ -1,6 +1,6 @@
 {
- "generated_at": 1787508244.1016312,
- "generated_at_str": "23/08/2026 12:04",
+ "generated_at": 1787511844.2007008,
+ "generated_at_str": "23/08/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "1bc25c3bb2595c599f7c5a8af493f772",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MDE",
+   "destination_name": "Medellín",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3087.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-25T19:25:00-06:00",
+   "return_at": "",
+   "duration": 260,
+   "link": "https://www.aviasales.com/search/MEX2510MDE1?t=VB17929563001792975500000260NLUMDE_1bc25c3bb2595c599f7c5a8af493f772_15085&search_date=23082026&expected_price_uuid=01a02fe9-55b8-8040-a45c-177cc2e2329c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oHpxtJMH38wE-JPhxHLK9A&expected_price_source=share&expected_price_currency=mxn&expected_price=3087",
+   "title": "Flight deals from Mexico City to Medellin",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261025-1bc25c3b/"
+  },
   {
    "id": "f9adbaff18338072f60195ffd686644e",
    "kind": "flight",
@@ -48,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX2710LCA1?t=WS17930637001793235300002380MEXYYCLHRLGWLCA_e1440adc60e95f32a80a00c97a5acb56_36958&search_date=23082026&expected_price_uuid=01a02f99-1ea6-8030-e277-8aa6322fb58c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b4zxCqdz49j7ChL1ddh79g&expected_price_source=share&expected_price_currency=mxn&expected_price=7562",
    "title": "Flight deals from Mexico City to Larnaca",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-larnaca-20261027-e1440adc/"
-  },
-  {
-   "id": "3267aecc14672eb8ace0868de270fff1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MSQ",
-   "destination_name": "Minsk",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 17969.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-23T21:00:00-06:00",
-   "return_at": "",
-   "duration": 2340,
-   "link": "https://www.aviasales.com/search/MEX2301MSQ1?t=BA18007380001800910800002340MEXLHRISTMSQ_3267aecc14672eb8ace0868de270fff1_87815&search_date=23082026&expected_price_uuid=01a02e9d-0c23-8030-2ee4-644da15dd9c5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pdEFJKNykOicz-lY3P_KnA&expected_price_source=share&expected_price_currency=mxn&expected_price=17969",
-   "title": "Flight deals from Mexico City to Minsk",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20270123-3267aecc/"
   },
   {
    "id": "cf0f0cbda634fa1852d29a1e45b723f8",

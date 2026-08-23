@@ -1,6 +1,6 @@
 {
- "generated_at": 1787486643.9139676,
- "generated_at_str": "23/08/2026 06:04",
+ "generated_at": 1787490243.9580028,
+ "generated_at_str": "23/08/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261203-bee8a8c4/"
   },
   {
-   "id": "e122a2f8d32cf11a465cc5147095a294",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ASU",
-   "destination_name": "Asunción",
-   "airline": "AV",
-   "airline_title": "avianca airlines",
-   "logo": "https://pics.avs.io/600/150/AV.png",
-   "logo_tipo": "",
-   "price": 6024.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-27T13:50:00-06:00",
-   "return_at": "",
-   "duration": 785,
-   "link": "https://www.aviasales.com/search/MEX2710ASU1?t=AV17931090001793166900000785MEXBOGASU_e122a2f8d32cf11a465cc5147095a294_29438&search_date=23082026&expected_price_uuid=01a02d5f-988c-8051-248a-293a96448af8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yGeanD-PGnrMv4f-K4Fhfg&expected_price_source=share&expected_price_currency=mxn&expected_price=6024",
-   "title": "Flight deals from Mexico City to Asuncion",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-asuncion-20261027-e122a2f8/"
-  },
-  {
    "id": "dfad956ae111e3025e85b3656c2f16d9",
    "kind": "flight",
    "origin": "MEX",
@@ -130,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260826-dfad956a/"
   },
   {
-   "id": "87797a9be8dc68615278fc65112fd819",
+   "id": "3267aecc14672eb8ace0868de270fff1",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "3U",
-   "airline_title": "Sichuan Airlines",
-   "logo": "https://pics.avs.io/600/150/3U.png",
+   "destination": "MSQ",
+   "destination_name": "Minsk",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 10792.0,
+   "price": 17969.0,
    "currency": "MXN",
-   "departure_at": "2026-09-12T10:30:00-05:00",
+   "departure_at": "2027-01-23T21:00:00-06:00",
    "return_at": "",
-   "duration": 3475,
-   "link": "https://www.aviasales.com/search/MEX1209BJS1?t=3U17892090001789467900003475NLUMTYLAXTFUPEK_87797a9be8dc68615278fc65112fd819_52742&search_date=23082026&expected_price_uuid=01a02d5a-bdc6-8051-2220-931a7ec936b0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=V3JJ5oXCNtw0TSDEFnfj-w&expected_price_source=share&expected_price_currency=mxn&expected_price=10792",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260912-87797a9b/"
+   "duration": 2340,
+   "link": "https://www.aviasales.com/search/MEX2301MSQ1?t=BA18007380001800910800002340MEXLHRISTMSQ_3267aecc14672eb8ace0868de270fff1_87815&search_date=23082026&expected_price_uuid=01a02e9d-0c23-8030-2ee4-644da15dd9c5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pdEFJKNykOicz-lY3P_KnA&expected_price_source=share&expected_price_currency=mxn&expected_price=17969",
+   "title": "Flight deals from Mexico City to Minsk",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20270123-3267aecc/"
   }
  ]
 }

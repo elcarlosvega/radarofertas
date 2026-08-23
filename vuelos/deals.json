@@ -1,6 +1,6 @@
 {
- "generated_at": 1787454246.0087962,
- "generated_at_str": "22/08/2026 21:04",
+ "generated_at": 1787457844.4924405,
+ "generated_at_str": "22/08/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0810TIJ1?t=VB17914639201791488340000467NLUMTYTIJ_33c90481026888fcfe4bb8456c405ba6_5044&search_date=22082026&expected_price_uuid=01a02bdb-3daf-8030-6a2d-2f29116d9e34&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Osnuf0JDL75Y-jVBFS_Kew&expected_price_source=share&expected_price_currency=mxn&expected_price=1032",
    "title": "Flight deals from Mexico City to Tijuana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-33c90481/"
+  },
+  {
+   "id": "feabbc9e29216849d7c34550ac176ea9",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1035.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-21T19:15:00-05:00",
+   "return_at": "",
+   "duration": 75,
+   "link": "https://www.aviasales.com/search/GDL2109MEX1?t=Y417900181001790022600000075GDLNLU_feabbc9e29216849d7c34550ac176ea9_5060&search_date=23082026&expected_price_uuid=01a02cc3-0807-8040-aa99-2bcb921ef186&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ft4eyfYojfAiUJ3-mrwoAA&expected_price_source=share&expected_price_currency=mxn&expected_price=1035",
+   "title": "Flight deals from Guadalajara to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260921-feabbc9e/"
   },
   {
    "id": "8487daecdc55dc9485e0ff1777ad6f8c",

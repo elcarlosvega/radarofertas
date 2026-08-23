@@ -1,6 +1,6 @@
 {
- "generated_at": 1787468643.7869139,
- "generated_at_str": "23/08/2026 01:04",
+ "generated_at": 1787472244.0454588,
+ "generated_at_str": "23/08/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "f98509aaf8d07b7e6206d1257c6a54b4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 523.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-29T17:15:00-05:00",
+   "return_at": "",
+   "duration": 74,
+   "link": "https://www.aviasales.com/search/MEX2908GDL1?t=Y417880237001788028140000074NLUGDL_f98509aaf8d07b7e6206d1257c6a54b4_2557&search_date=23082026&expected_price_uuid=01a02d78-1b3f-8051-285f-4f378d655274&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pmvJMQum3puJuZ1zSXeRpg&expected_price_source=share&expected_price_currency=mxn&expected_price=523",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260829-f98509aa/"
+  },
   {
    "id": "feabbc9e29216849d7c34550ac176ea9",
    "kind": "flight",
@@ -30,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260921-feabbc9e/"
   },
   {
+   "id": "5c014b8dccecab718207e6595942006b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
+   "logo_tipo": "",
+   "price": 4168.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-23T15:30:00-05:00",
+   "return_at": "",
+   "duration": 505,
+   "link": "https://www.aviasales.com/search/MEX2308LIM1?t=CM17874990001787532900000505MEXPTYLIM_5c014b8dccecab718207e6595942006b_20370&search_date=23082026&expected_price_uuid=01a02d70-412b-8030-2616-e8f510f88c74&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KXfli85m21GuNfdnco4Rng&expected_price_source=share&expected_price_currency=mxn&expected_price=4168",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260823-5c014b8d/"
+  },
+  {
    "id": "e122a2f8d32cf11a465cc5147095a294",
    "kind": "flight",
    "origin": "MEX",
@@ -48,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX2710ASU1?t=AV17931090001793166900000785MEXBOGASU_e122a2f8d32cf11a465cc5147095a294_29438&search_date=23082026&expected_price_uuid=01a02d5f-988c-8051-248a-293a96448af8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yGeanD-PGnrMv4f-K4Fhfg&expected_price_source=share&expected_price_currency=mxn&expected_price=6024",
    "title": "Flight deals from Mexico City to Asuncion",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-asuncion-20261027-e122a2f8/"
-  },
-  {
-   "id": "e83ae50dfc20d471a6afadbbd90dd0fc",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 10379.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-23T17:55:00-06:00",
-   "return_at": "",
-   "duration": 1090,
-   "link": "https://www.aviasales.com/search/MEX2302IST1?t=AM18034053001803503100001090MEXMADSAW_e83ae50dfc20d471a6afadbbd90dd0fc_50725&search_date=23082026&expected_price_uuid=01a02c47-fbc0-8040-afd4-58cdc7193d7e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ypcTA8BePlZwoxqbeuHtoQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10379",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270223-e83ae50d/"
   },
   {
    "id": "87797a9be8dc68615278fc65112fd819",

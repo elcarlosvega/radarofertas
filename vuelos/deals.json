@@ -1,6 +1,6 @@
 {
- "generated_at": 1787443443.4412036,
- "generated_at_str": "22/08/2026 18:04",
+ "generated_at": 1787447043.8172228,
+ "generated_at_str": "22/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MTY2308GDL1?t=Y417874725401787477940000090MTYGDL_86a7ae72eed92d9cfab3f58cab9b8c8c_5126&search_date=22082026&expected_price_uuid=01a02b0f-5ddc-8030-a14f-790f136b3211&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=som4r-7jkqaxKIjTWFZVlw&expected_price_source=share&expected_price_currency=mxn&expected_price=1049",
    "title": "Flight deals from Monterrey to Guadalajara",
    "micro": "/oferta/vuelos/vuelo-monterrey-guadalajara-20260823-86a7ae72/"
-  },
-  {
-   "id": "f11b1c95b512489b74d2481dadaad02b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1590.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-05T22:36:00-05:00",
-   "return_at": "",
-   "duration": 200,
-   "link": "https://www.aviasales.com/search/MEX0509TIJ1?t=Y417886477601788656160000200NLUTIJ_f11b1c95b512489b74d2481dadaad02b_7772&search_date=22082026&expected_price_uuid=01a02af3-4441-8040-ac97-93bf0b0ad560&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=We0X_VlGJBlHQVIej9kzHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1590",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20260905-f11b1c95/"
   },
   {
    "id": "8487daecdc55dc9485e0ff1777ad6f8c",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0309DXB1?t=QR17884164001788557100001745MEXIAHDOHDXB_6233def3ef9e2eea51a00d1847d7c40f_47806&search_date=22082026&expected_price_uuid=01a02bc9-aee4-8040-2f1f-8a79495d3a44&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M7XaLxvbva9mgA93_U-w5A&expected_price_source=share&expected_price_currency=mxn&expected_price=9782",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260903-6233def3/"
+  },
+  {
+   "id": "34fe7d7bf32f89cb3047e320f150379a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HAN",
+   "destination_name": "Hanói",
+   "airline": "CI",
+   "airline_title": "China Airlines",
+   "logo": "https://pics.avs.io/600/150/CI.png",
+   "logo_tipo": "",
+   "price": 12923.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-31T09:35:00-05:00",
+   "return_at": "",
+   "duration": 2155,
+   "link": "https://www.aviasales.com/search/MEX3108HAN1?t=CI17881689001788345000002155MEXSFOTPEHAN_34fe7d7bf32f89cb3047e320f150379a_63154&search_date=23082026&expected_price_uuid=01a02c09-37e5-8040-6584-17432f5bbeb7&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=bRvz0S93_YRSndHyybGvwg&expected_price_source=share&expected_price_currency=mxn&expected_price=12923",
+   "title": "Flight deals from Mexico City to Hanoi",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hanoi-20260831-34fe7d7b/"
   },
   {
    "id": "d477161b678a942d538d9c9ed18603f3",

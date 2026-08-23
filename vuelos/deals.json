@@ -1,6 +1,6 @@
 {
- "generated_at": 1787504643.9368396,
- "generated_at_str": "23/08/2026 11:04",
+ "generated_at": 1787508244.1016312,
+ "generated_at_str": "23/08/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260903-f9adbaff/"
   },
   {
-   "id": "b2dc52ee559d8e31ea5eb62a5a63c2a5",
+   "id": "e1440adc60e95f32a80a00c97a5acb56",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "SAO",
-   "destination_name": "São Paulo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4666.0,
+   "destination": "LCA",
+   "destination_name": "Lárnaca",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 7562.0,
    "currency": "MXN",
-   "departure_at": "2026-10-12T16:36:00-05:00",
+   "departure_at": "2026-10-27T01:15:00-06:00",
    "return_at": "",
-   "duration": 784,
-   "link": "https://www.aviasales.com/search/MEX1210SAO1?t=DM17918229601791880800000784NLUPUJGRU_b2dc52ee559d8e31ea5eb62a5a63c2a5_22803&search_date=23082026&expected_price_uuid=01a02e67-3dd9-8030-e63b-4b8a6949ace2&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=dP8Ryof8E3QE-D-5SHdjjQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4666",
-   "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261012-b2dc52ee/"
+   "duration": 2380,
+   "link": "https://www.aviasales.com/search/MEX2710LCA1?t=WS17930637001793235300002380MEXYYCLHRLGWLCA_e1440adc60e95f32a80a00c97a5acb56_36958&search_date=23082026&expected_price_uuid=01a02f99-1ea6-8030-e277-8aa6322fb58c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b4zxCqdz49j7ChL1ddh79g&expected_price_source=share&expected_price_currency=mxn&expected_price=7562",
+   "title": "Flight deals from Mexico City to Larnaca",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-larnaca-20261027-e1440adc/"
   },
   {
    "id": "3267aecc14672eb8ace0868de270fff1",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787497443.978635,
- "generated_at_str": "23/08/2026 09:04",
+ "generated_at": 1787501043.8582985,
+ "generated_at_str": "23/08/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "f9adbaff18338072f60195ffd686644e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3688.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-03T10:06:00-05:00",
+   "return_at": "",
+   "duration": 775,
+   "link": "https://www.aviasales.com/search/MEX0309LIM1?t=DM17884299601788480060000775NLUPUJLIM_f9adbaff18338072f60195ffd686644e_18025&search_date=23082026&expected_price_uuid=01a02f2b-b5ad-8050-a654-2163564e1afa&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qUkcxgAzHN5YFtg3_208Wg&expected_price_source=share&expected_price_currency=mxn&expected_price=3688",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260903-f9adbaff/"
+  },
   {
    "id": "b2dc52ee559d8e31ea5eb62a5a63c2a5",
    "kind": "flight",

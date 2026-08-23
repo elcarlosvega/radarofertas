@@ -1,6 +1,6 @@
 {
- "generated_at": 1787493843.768938,
- "generated_at_str": "23/08/2026 08:04",
+ "generated_at": 1787497443.978635,
+ "generated_at_str": "23/08/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,46 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "f98509aaf8d07b7e6206d1257c6a54b4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 523.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-29T17:15:00-05:00",
-   "return_at": "",
-   "duration": 74,
-   "link": "https://www.aviasales.com/search/MEX2908GDL1?t=Y417880237001788028140000074NLUGDL_f98509aaf8d07b7e6206d1257c6a54b4_2557&search_date=23082026&expected_price_uuid=01a02db5-4387-8030-e317-f23bf8d3e42d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pmvJMQum3puJuZ1zSXeRpg&expected_price_source=share&expected_price_currency=mxn&expected_price=523",
-   "title": "Flight deals from Mexico City to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260829-f98509aa/"
-  },
-  {
-   "id": "dcf8c2c27c64f166486ae5d27bebb38c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LIM",
-   "destination_name": "Lima",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 4165.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-28T22:00:00-06:00",
-   "return_at": "",
-   "duration": 355,
-   "link": "https://www.aviasales.com/search/MEX2801LIM1?t=Y418011736001801198500000355MEXLIM_dcf8c2c27c64f166486ae5d27bebb38c_20356&search_date=23082026&expected_price_uuid=01a02dc3-5362-8030-6819-5f440935e04e&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4165",
-   "title": "Flight deals from Mexico City to Lima",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270128-dcf8c2c2/"
-  },
   {
    "id": "b2dc52ee559d8e31ea5eb62a5a63c2a5",
    "kind": "flight",

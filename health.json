@@ -54,13 +54,13 @@
    "micro_pages": 131
   },
   "elektra": {
-   "last_attempt": 1787594641.8285325,
-   "items": 0,
-   "status": "down",
-   "reason": "The read operation timed out",
+   "last_attempt": 1787598242.8684335,
+   "items": 1712,
+   "status": "ok",
+   "reason": "",
    "host": "pc",
-   "last_complete_sweep": 1787591042.0672529,
-   "micro_pages": 14
+   "last_complete_sweep": 1787598242.8684335,
+   "micro_pages": 20
   },
   "liverpool": {
    "last_attempt": 1787594488.386929,
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1787598343.0329301
+ "updated_at": 1787598812.1366675
 }

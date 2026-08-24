@@ -1,6 +1,6 @@
 {
- "generated_at": 1787587500.0261168,
- "generated_at_str": "24/08/2026 10:05",
+ "generated_at": 1787591126.6751823,
+ "generated_at_str": "24/08/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3388,6 +3388,24 @@
    "h_min7": 18999.0
   },
   {
+   "id": "696053",
+   "name": "Samsung Lavavajillas 14 Servicios",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Samsung-Lavavajillas-14-Servicios/p/696053",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/he9/368805627887646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13499.0,
+   "price_new": 9499.0,
+   "pct": 29.6,
+   "amount": 4000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787591126.6751823,
+   "h_dias": 13,
+   "h_min": 8399.0,
+   "h_min7": 9499.0
+  },
+  {
    "id": "693543",
    "name": "Canon, Cámara Digital EOS R100 RF-S 18-45mm + Garantía Extendida",
    "url": "https://www.costco.com.mx/Electronicos/Fotografia/Camaras-Digitales/Canon-Camara-Digital-EOS-R100-RF-S-18-45mm-Garantia-Extendida/p/693543",
@@ -4424,6 +4442,24 @@
    "h_min7": 13999.0
   },
   {
+   "id": "693677",
+   "name": "Samsung Lavasecadora Bespoke 14 Kg con AI Ecobubble",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Bespoke-14-Kg-con-AI-Ecobubble/p/693677",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h97/hb3/452706847359006.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17799.0,
+   "price_new": 12799.0,
+   "pct": 28.1,
+   "amount": 5000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787591126.6751823,
+   "h_dias": 16,
+   "h_min": 12299.0,
+   "h_min7": 12799.0
+  },
+  {
    "id": "681426",
    "name": "Whirlpool Estufa de gas con 6 quemadores de 76cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Whirlpool-Estufa-de-gas-con-6-quemadores-de-76cm/p/681426",
@@ -5297,6 +5333,25 @@
    "first_seen": 1787558739.1716406,
    "h_dias": 1,
    "h_min": 549.0
+  },
+  {
+   "id": "681963",
+   "name": "Samsung Combo de Lavado de Gas 22Kg / 24Kg con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-22Kg-24Kg-con-Pedestal/p/681963",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/hd7/364485061705758.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 48999.0,
+   "price_new": 35999.0,
+   "pct": 26.5,
+   "amount": 13000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787591126.6751823,
+   "h_dias": 26,
+   "h_min": 33999.0,
+   "h_ayer": 35999.0,
+   "h_min7": 35999.0
   },
   {
    "id": "693374",

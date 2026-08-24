@@ -1,6 +1,6 @@
 {
- "generated_at": 1787529843.897734,
- "generated_at_str": "23/08/2026 18:04",
+ "generated_at": 1787533444.3600411,
+ "generated_at_str": "23/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "1bc25c3bb2595c599f7c5a8af493f772",
+   "id": "57d253495c5e69e89c53dfe18d2f95e4",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
    "airline": "VB",
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 3083.0,
+   "price": 1519.0,
    "currency": "MXN",
-   "departure_at": "2026-10-25T19:25:00-06:00",
+   "departure_at": "2026-10-06T10:00:00-05:00",
    "return_at": "",
-   "duration": 260,
-   "link": "https://www.aviasales.com/search/MEX2510MDE1?t=VB17929563001792975500000260NLUMDE_1bc25c3bb2595c599f7c5a8af493f772_15085&search_date=23082026&expected_price_uuid=01a02fe9-55b8-8040-a45c-177cc2e2329c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oHpxtJMH38wE-JPhxHLK9A&expected_price_source=share&expected_price_currency=mxn&expected_price=3083",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261025-1bc25c3b/"
+   "duration": 204,
+   "link": "https://www.aviasales.com/search/MEX0610TIJ1?t=VB17912808001791289440000204NLUTIJ_57d253495c5e69e89c53dfe18d2f95e4_7429&search_date=24082026&expected_price_uuid=01a03125-32ad-8030-2086-2c71dc45e698&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=0V9wUL61dpB18e2DR7_Cww&expected_price_source=share&expected_price_currency=mxn&expected_price=1519",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261006-57d25349/"
   },
   {
    "id": "ae45761ccf238e119263d1ed0d110f7d",
@@ -150,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270109-f02b4098/"
   },
   {
+   "id": "d477161b678a942d538d9c9ed18603f3",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 19378.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-19T23:00:00-05:00",
+   "return_at": "",
+   "duration": 895,
+   "link": "https://www.aviasales.com/search/MTY1909SEL1?t=AM17898588001789966500000895MTYICN_d477161b678a942d538d9c9ed18603f3_94767&search_date=24082026&expected_price_uuid=01a03119-6e38-8030-af88-dc80498a6d0d&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=nybukwGa8sK9KmW2zdbLcQ&expected_price_source=share&expected_price_currency=mxn&expected_price=19378",
+   "title": "Flight deals from Monterrey to Seoul",
+   "micro": "/oferta/vuelos/vuelo-monterrey-seul-20260919-d477161b/"
+  },
+  {
    "id": "e95d02be2b32297f84b1ed3d066a7ee4",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2408IST1?t=TK17875620001787653200000980MEXIST_e95d02be2b32297f84b1ed3d066a7ee4_101789&search_date=23082026&expected_price_uuid=01a0304c-70e1-8030-276e-075347a8d45f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20806",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260824-e95d02be/"
-  },
-  {
-   "id": "ea1b6fe4cdb352e480665a21c98c24c4",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 21105.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-18T23:00:00-05:00",
-   "return_at": "",
-   "duration": 895,
-   "link": "https://www.aviasales.com/search/MTY1809SEL1?t=AM17897724001789880100000895MTYICN_ea1b6fe4cdb352e480665a21c98c24c4_103348&search_date=23082026&expected_price_uuid=01a030ee-232d-8030-2355-48677964f6ba&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=nybukwGa8sK9KmW2zdbLcQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21105",
-   "title": "Flight deals from Monterrey to Seoul",
-   "micro": "/oferta/vuelos/vuelo-monterrey-seul-20260918-ea1b6fe4/"
   },
   {
    "id": "65aa4624a2dd11645c9d676889e0c8c0",

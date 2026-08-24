@@ -1,6 +1,6 @@
 {
- "generated_at": 1787601903.353889,
- "generated_at_str": "24/08/2026 14:05",
+ "generated_at": 1787605531.9014106,
+ "generated_at_str": "24/08/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -706,6 +706,23 @@
    "h_min7": 16999.0
   },
   {
+   "id": "700996",
+   "name": "HP Laptop 15-fc0370la 15.6\" FHD AMD Ryzen 7-7730U 8GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-Laptop-15-fc0370la-156-FHD-AMD-Ryzen-7-7730U-8GB-512GB-SSD/p/700996",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf9/hf6/484393845096478.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 17999.0,
+   "price_new": 12499.0,
+   "pct": 30.6,
+   "amount": 5500.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 1,
+   "h_min": 12499.0
+  },
+  {
    "id": "696190",
    "name": "ASUS ROG Strix Monitor Gaming Curvo 32\" Quad HD 180Hz",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Monitores/Monitores-para-Gamers/ASUS-ROG-Strix-Monitor-Gaming-Curvo-32-Quad-HD-180Hz/p/696190",
@@ -1097,6 +1114,23 @@
    "h_dias": 9,
    "h_min": 209.0,
    "h_min7": 209.0
+  },
+  {
+   "id": "704658",
+   "name": "MSI Vector 16 HX AI A2XWIG 16\" QHD+ Intel Core Ultra 9 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Vector-16-HX-AI-A2XWIG-16-QHD-Intel-Core-Ultra-9-16GB-1TB-SSD/p/704658",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/hc9/468999014285342.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 79999.0,
+   "price_new": 55999.0,
+   "pct": 30.0,
+   "amount": 24000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 1,
+   "h_min": 55999.0
   },
   {
    "id": "652706",
@@ -1795,6 +1829,23 @@
    "h_min": 874.3,
    "h_ayer": 874.3,
    "h_min7": 874.3
+  },
+  {
+   "id": "695281",
+   "name": "Don Julio Ceniza Tequila Añejo 700 ml",
+   "url": "https://www.costco.com.mx/Vinos-y-Licores/Licores/Don-Julio-Ceniza-Tequila-Anejo-700-ml/p/695281",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc1/h84/489216801407006.jpg",
+   "category": "Vinos y Licores",
+   "price_old": 1199.0,
+   "price_new": 839.0,
+   "pct": 30.0,
+   "amount": 360.0,
+   "starts": "2026-08-04T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 1,
+   "h_min": 839.0
   },
   {
    "id": "656320",
@@ -11284,23 +11335,6 @@
    "h_min": 374.25
   },
   {
-   "id": "671942",
-   "name": "Gillette Venus Sensitive Rastrillo para Afeitar Desechable 15 pzas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Rasurado-y-Depilacion/Rasuradoras/Gillette-Venus-Sensitive-Rastrillo-para-Afeitar-Desechable-15-pzas/p/671942",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/h0c/102732208373790.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 499.0,
-   "price_new": 374.25,
-   "pct": 25.0,
-   "amount": 124.75,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787562335.0101256,
-   "h_dias": 1,
-   "h_min": 374.25
-  },
-  {
    "id": "588108",
    "name": "Trunature Probióticos Frasco con 180 cápsulas de 500mg",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Trunature-Probioticos-Frasco-con-180-capsulas-de-500mg/p/588108",
@@ -11317,6 +11351,23 @@
    "h_dias": 18,
    "h_min": 374.25,
    "h_min7": 374.25
+  },
+  {
+   "id": "671942",
+   "name": "Gillette Venus Sensitive Rastrillo para Afeitar Desechable 15 pzas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Rasurado-y-Depilacion/Rasuradoras/Gillette-Venus-Sensitive-Rastrillo-para-Afeitar-Desechable-15-pzas/p/671942",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/h0c/102732208373790.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 499.0,
+   "price_new": 374.25,
+   "pct": 25.0,
+   "amount": 124.75,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 1,
+   "h_min": 374.25
   },
   {
    "id": "1261589",
@@ -11351,6 +11402,23 @@
    "ends": "2026-09-21T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1787558739.1716406,
+   "h_dias": 1,
+   "h_min": 351.75
+  },
+  {
+   "id": "697391",
+   "name": "Lysol Air Sanitizante Ambiental 3 pzas de 283 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Lysol-Air-Sanitizante-Ambiental-3-pzas-de-283-g/p/697391",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h97/hbd/432127091114014.jpg",
+   "category": "Grocery",
+   "price_old": 469.0,
+   "price_new": 351.75,
+   "pct": 25.0,
+   "amount": 117.25,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
    "h_dias": 1,
    "h_min": 351.75
   },
@@ -12488,6 +12556,24 @@
    "h_min": 4999.0,
    "h_ayer": 4999.0,
    "h_min7": 4999.0
+  },
+  {
+   "id": "697097",
+   "name": "Samsung Lavadora 25kg",
+   "url": "https://www.costco.com.mx/c/Samsung-Lavadora-25kg/p/697097",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h52/452706853912606.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19599.0,
+   "price_new": 15099.0,
+   "pct": 23.0,
+   "amount": 4500.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 8,
+   "h_min": 13599.0,
+   "h_min7": 15099.0
   },
   {
    "id": "703472",
@@ -17394,6 +17480,24 @@
    "h_min": 10299.0
   },
   {
+   "id": "703400",
+   "name": "Samsung Refrigerador 22' Side by Side",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-22-Side-by-Side/p/703400",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/hc0/450975510888478.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 34599.0,
+   "price_new": 28999.0,
+   "pct": 16.2,
+   "amount": 5600.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 13,
+   "h_min": 27999.0,
+   "h_min7": 28999.0
+  },
+  {
    "id": "696649",
    "name": "Apple Watch Series 11 (GPS + Celular) 46mm Titanio Oro + Correa Milanese Color Oro - Talla S/M",
    "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-Celular-46mm-Titanio-Oro-Correa-Milanese-Color-Oro-Talla-SM/p/696649",
@@ -18320,6 +18424,23 @@
    "h_min7": 8399.0
   },
   {
+   "id": "688698",
+   "name": "Apple iPhone 16 Pro Max 512GB Titanio Blanco",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPhone/Apple-iPhone-16-Pro-Max-512GB-Titanio-Blanco/p/688698",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h63/h99/280175081488414.jpg",
+   "category": "Electronicos",
+   "price_old": 33499.0,
+   "price_new": 28499.0,
+   "pct": 14.9,
+   "amount": 5000.0,
+   "starts": "2026-08-10T06:00:00.000Z",
+   "ends": "2026-09-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 5,
+   "h_min": 28499.0
+  },
+  {
    "id": "678130",
    "name": "Whirlpool Refrigerador 25' Side by Side",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/678130",
@@ -19233,6 +19354,23 @@
    "h_min": 33499.0,
    "h_ayer": 33499.0,
    "h_min7": 33499.0
+  },
+  {
+   "id": "693868",
+   "name": "Muebles Liz, Gauss, Sofa Color Café",
+   "url": "https://www.costco.com.mx/c/Muebles-Liz-Gauss-Sofa-Color-Cafe/p/693868",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha1/hfa/368462858682398.jpg",
+   "category": "Otros",
+   "price_old": 22999.0,
+   "price_new": 19999.0,
+   "pct": 13.0,
+   "amount": 3000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 1,
+   "h_min": 19999.0
   },
   {
    "id": "692474",
@@ -20214,6 +20352,23 @@
    "h_min7": 24499.0
   },
   {
+   "id": "701003",
+   "name": "HP 15-fd0281la Laptop 15.6\" FHD Intel Core i7-1355U 16GB 512GB",
+   "url": "https://www.costco.com.mx/c/HP-15-fd0281la-Laptop-156-FHD-Intel-Core-i7-1355U-16GB-512GB/p/701003",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/hca/484393853485086.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 22999.0,
+   "price_new": 20499.0,
+   "pct": 10.9,
+   "amount": 2500.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 1,
+   "h_min": 20499.0
+  },
+  {
    "id": "702891",
    "name": "Smeg Horno Eléctrico 76cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Horno-Electrico-76cm/p/702891",
@@ -20628,6 +20783,23 @@
    "h_min": 17999.0,
    "h_ayer": 17999.0,
    "h_min7": 17999.0
+  },
+  {
+   "id": "693869",
+   "name": "Muebles Liz, Gauss, Loveseat Color Café",
+   "url": "https://www.costco.com.mx/c/Muebles-Liz-Gauss-Loveseat-Color-Cafe/p/693869",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h89/h4b/367936182059038.jpg",
+   "category": "Otros",
+   "price_old": 19999.0,
+   "price_new": 17999.0,
+   "pct": 10.0,
+   "amount": 2000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787605531.9014106,
+   "h_dias": 1,
+   "h_min": 17999.0
   },
   {
    "id": "733629",

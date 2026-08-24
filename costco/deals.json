@@ -1,6 +1,6 @@
 {
- "generated_at": 1787609109.5364323,
- "generated_at_str": "24/08/2026 16:05",
+ "generated_at": 1787612733.3985121,
+ "generated_at_str": "24/08/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1596,6 +1596,23 @@
    "h_min": 1119.3
   },
   {
+   "id": "675503",
+   "name": "Orientica Royal Amber 80 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Orientica-Royal-Amber-80-ml/p/675503",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5b/h8d/133940784955422.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1599.0,
+   "price_new": 1119.3,
+   "pct": 30.0,
+   "amount": 479.7,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
+   "h_dias": 1,
+   "h_min": 1119.3
+  },
+  {
    "id": "701445",
    "name": "Dolce & Gabbana Devotion Pour Homme 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Dolce-Gabbana-Devotion-Pour-Homme-100-ml/p/701445",
@@ -2073,25 +2090,6 @@
    "first_seen": 1787558739.1716406,
    "h_dias": 1,
    "h_min": 769.3
-  },
-  {
-   "id": "695806",
-   "name": "Lacoste Rose Eau Intense 100 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Lacoste-Rose-Eau-Intense-100-ml/p/695806",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h58/367525837078558.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1099.0,
-   "price_new": 769.3,
-   "pct": 30.0,
-   "amount": 329.7,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787562335.0101256,
-   "h_dias": 14,
-   "h_min": 769.3,
-   "h_ayer": 769.3,
-   "h_min7": 769.3
   },
   {
    "id": "682972",
@@ -4492,6 +4490,25 @@
    "h_dias": 16,
    "h_min": 12299.0,
    "h_min7": 12799.0
+  },
+  {
+   "id": "702951",
+   "name": "Hisense Pantalla 75\" HI-QLED 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-HI-QLED-4K-Fire-TV/p/702951",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h4c/488166387941406.jpg",
+   "category": "Electronicos",
+   "price_old": 15999.0,
+   "price_new": 11499.0,
+   "pct": 28.1,
+   "amount": 4500.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787612733.3985121,
+   "h_dias": 27,
+   "h_min": 10499.0,
+   "h_ayer": 10499.0,
+   "h_min7": 10499.0
   },
   {
    "id": "681426",
@@ -8167,23 +8184,6 @@
    "h_dias": 9,
    "h_min": 2099.25,
    "h_min7": 2099.25
-  },
-  {
-   "id": "694160",
-   "name": "Vino Tinto Bel Ami Chateauneuf du Pape 3 L",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Bel-Ami-Chateauneuf-du-Pape-3-L/p/694160",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/hbb/382581031600158.jpg",
-   "category": "Vinos",
-   "price_old": 2799.0,
-   "price_new": 2099.25,
-   "pct": 25.0,
-   "amount": 699.75,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787555126.982376,
-   "h_dias": 1,
-   "h_min": 2099.25
   },
   {
    "id": "688970",
@@ -17129,6 +17129,24 @@
    "in_stock": true,
    "first_seen": 1787562335.0101256,
    "h_dias": 15,
+   "h_min": 19999.0,
+   "h_min7": 19999.0
+  },
+  {
+   "id": "703431",
+   "name": "LG Pantalla 85\" Nano UHD 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/LG-Pantalla-85-Nano-UHD-4K-Smart-TV/p/703431",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0d/h9b/484393897787422.jpg",
+   "category": "Electronicos",
+   "price_old": 23999.0,
+   "price_new": 19999.0,
+   "pct": 16.7,
+   "amount": 4000.0,
+   "starts": "2026-08-17T06:00:00.000Z",
+   "ends": "2026-09-06T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787612733.3985121,
+   "h_dias": 11,
    "h_min": 19999.0,
    "h_min7": 19999.0
   },

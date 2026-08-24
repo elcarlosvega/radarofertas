@@ -1,6 +1,6 @@
 {
- "generated_at": 1787605443.8941562,
- "generated_at_str": "24/08/2026 15:04",
+ "generated_at": 1787609044.0763228,
+ "generated_at_str": "24/08/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX2710TQO1?t=VB17931051601793115900000119NLUTQO_3ce042e2d83bbc6c0c9fc0276e5c18d8_6251&search_date=24082026&expected_price_uuid=01a034c0-0f49-8050-ac22-894cf2e99e90&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=QeC2kn_MwkA9nVsdss0ydQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1264",
    "title": "Flight deals from Mexico City to Tulum",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261027-3ce042e2/"
+  },
+  {
+   "id": "14ff638154b655a6efe14c0443991b1b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2714.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-01T07:00:00-05:00",
+   "return_at": "",
+   "duration": 166,
+   "link": "https://www.aviasales.com/search/MEX0109DFW1?t=Y417882460001788259560000166MEXDFW_14ff638154b655a6efe14c0443991b1b_13416&search_date=24082026&expected_price_uuid=01a035a8-533b-8040-263c-90bae68ed928&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BESz7v6PLswUJ10kt9eq6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=2714",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260901-14ff6381/"
   },
   {
    "id": "a853d95ed55b392607f8ab3db96322d5",
@@ -170,26 +190,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-montevideo-20261021-9f977b82/"
   },
   {
-   "id": "4dcc8d5a14416e29dc9b1adb8691cd32",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "QR",
-   "airline_title": "Qatar Airways",
-   "logo": "https://pics.avs.io/600/150/QR.png",
-   "logo_tipo": "",
-   "price": 10676.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-25T06:20:00-05:00",
-   "return_at": "",
-   "duration": 1745,
-   "link": "https://www.aviasales.com/search/MEX2508DXB1?t=QR17876388001787779500001745MEXIAHDOHDXB_4dcc8d5a14416e29dc9b1adb8691cd32_52782&search_date=24082026&expected_price_uuid=01a034ac-c18e-8040-2009-9d4aab55679e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EEszd81D4U_N1Dh5hKJCSg&expected_price_source=share&expected_price_currency=mxn&expected_price=10676",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260825-4dcc8d5a/"
-  },
-  {
    "id": "826007d43df30c03b7c1576984e44ed7",
    "kind": "flight",
    "origin": "MEX",
@@ -200,12 +200,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 20779.0,
+   "price": 20778.0,
    "currency": "MXN",
    "departure_at": "2026-08-27T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2708IST1?t=TK17878212001787912400000980MEXIST_826007d43df30c03b7c1576984e44ed7_102729&search_date=24082026&expected_price_uuid=01a034ab-1d01-8050-e6af-3c5a7dd1f151&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20779",
+   "link": "https://www.aviasales.com/search/MEX2708IST1?t=TK17878212001787912400000980MEXIST_826007d43df30c03b7c1576984e44ed7_102729&search_date=24082026&expected_price_uuid=01a034ab-1d01-8050-e6af-3c5a7dd1f151&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20778",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260827-826007d4/"
   },

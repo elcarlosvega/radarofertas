@@ -1,6 +1,6 @@
 {
- "generated_at": 1787526243.8117044,
- "generated_at_str": "23/08/2026 17:04",
+ "generated_at": 1787529843.897734,
+ "generated_at_str": "23/08/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261025-1bc25c3b/"
   },
   {
-   "id": "e1440adc60e95f32a80a00c97a5acb56",
+   "id": "ae45761ccf238e119263d1ed0d110f7d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "LCA",
-   "destination_name": "Lárnaca",
+   "destination": "PAR",
+   "destination_name": "París",
    "airline": "WS",
    "airline_title": "WestJet",
    "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 7554.0,
+   "price": 5266.0,
    "currency": "MXN",
-   "departure_at": "2026-10-27T01:15:00-06:00",
+   "departure_at": "2026-12-01T01:15:00-06:00",
    "return_at": "",
-   "duration": 2380,
-   "link": "https://www.aviasales.com/search/MEX2710LCA1?t=WS17930637001793235300002380MEXYYCLHRLGWLCA_e1440adc60e95f32a80a00c97a5acb56_36958&search_date=23082026&expected_price_uuid=01a02f99-1ea6-8030-e277-8aa6322fb58c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b4zxCqdz49j7ChL1ddh79g&expected_price_source=share&expected_price_currency=mxn&expected_price=7554",
-   "title": "Flight deals from Mexico City to Larnaca",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-larnaca-20261027-e1440adc/"
+   "duration": 1635,
+   "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_25793&search_date=23082026&expected_price_uuid=01a030fb-2916-8030-a9c2-f397a7d091a8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5266",
+   "title": "Flight deals from Mexico City to Paris",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
    "id": "c7d8a3567e82fc81bf55d6c080417abf",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270525-9efce0e0/"
   },
   {
+   "id": "478cc0563152274bc6955f9ecf0c95e0",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 9718.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-26T16:10:00-05:00",
+   "return_at": "",
+   "duration": 2595,
+   "link": "https://www.aviasales.com/search/MEX2608DXB1?t=QR17877606001787952300002595MEXIAHDOHDXB_478cc0563152274bc6955f9ecf0c95e0_47590&search_date=23082026&expected_price_uuid=01a030d8-82dc-8040-2a40-58066826a930&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dJxCxmaCM9BFxGZKv1Ldfg&expected_price_source=share&expected_price_currency=mxn&expected_price=9718",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260826-478cc056/"
+  },
+  {
    "id": "8892e942ac212dd65256d78d989f1b07",
    "kind": "flight",
    "origin": "MEX",
@@ -110,7 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20260823-8892e942/"
   },
   {
-   "id": "174f05dfff2dbb567dc8e1d5df341d42",
+   "id": "f02b409811bd0799f5d77e436173833f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +140,14 @@
    "airline_title": "All Nippon Airways",
    "logo": "https://pics.avs.io/600/150/NH.png",
    "logo_tipo": "",
-   "price": 14817.0,
+   "price": 14815.0,
    "currency": "MXN",
-   "departure_at": "2026-09-10T06:05:00-05:00",
+   "departure_at": "2027-01-09T06:00:00-06:00",
    "return_at": "",
-   "duration": 865,
-   "link": "https://www.aviasales.com/search/MEX1009TYO1?t=NH17890203001789126200000865MEXNRT_174f05dfff2dbb567dc8e1d5df341d42_72559&search_date=23082026&expected_price_uuid=01a030c7-c7bd-8050-27c0-6c3236c42e8c&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=jNPNisKN32BqcLmGsgBeAA&expected_price_source=share&expected_price_currency=mxn&expected_price=14817",
+   "duration": 895,
+   "link": "https://www.aviasales.com/search/MEX0901TYO1?t=NH17994744001799582100000895MEXNRT_f02b409811bd0799f5d77e436173833f_72559&search_date=23082026&expected_price_uuid=01a030fd-c87e-8030-6d3d-5668209b23e1&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=fD_Slw-kyVXUod74B1fWKw&expected_price_source=share&expected_price_currency=mxn&expected_price=14815",
    "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260910-174f05df/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270109-f02b4098/"
   },
   {
    "id": "e95d02be2b32297f84b1ed3d066a7ee4",
@@ -148,6 +168,46 @@
    "link": "https://www.aviasales.com/search/MEX2408IST1?t=TK17875620001787653200000980MEXIST_e95d02be2b32297f84b1ed3d066a7ee4_101789&search_date=23082026&expected_price_uuid=01a0304c-70e1-8030-276e-075347a8d45f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20806",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260824-e95d02be/"
+  },
+  {
+   "id": "ea1b6fe4cdb352e480665a21c98c24c4",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21105.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-18T23:00:00-05:00",
+   "return_at": "",
+   "duration": 895,
+   "link": "https://www.aviasales.com/search/MTY1809SEL1?t=AM17897724001789880100000895MTYICN_ea1b6fe4cdb352e480665a21c98c24c4_103348&search_date=23082026&expected_price_uuid=01a030ee-232d-8030-2355-48677964f6ba&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=nybukwGa8sK9KmW2zdbLcQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21105",
+   "title": "Flight deals from Monterrey to Seoul",
+   "micro": "/oferta/vuelos/vuelo-monterrey-seul-20260918-ea1b6fe4/"
+  },
+  {
+   "id": "65aa4624a2dd11645c9d676889e0c8c0",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HKT",
+   "destination_name": "Phuket",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 22571.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-25T04:55:00-06:00",
+   "return_at": "",
+   "duration": 1595,
+   "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_65aa4624a2dd11645c9d676889e0c8c0_110526&search_date=23082026&expected_price_uuid=01a030f5-6317-8030-249b-61ce1901b8d9&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=7rXy9r61Ia04omtLRwAuWA&expected_price_source=share&expected_price_currency=mxn&expected_price=22571",
+   "title": "Flight deals from Mexico City to Phuket",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261225-65aa4624/"
   }
  ]
 }

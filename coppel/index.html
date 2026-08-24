@@ -34,7 +34,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <style>
 :root{
   --bg:#f5f6f8; --card:#fff; --line:#e6e9ee; --ink:#0d1117; --mut:#65707e;
-  --green:#17c964; --green-dk:#0e9f4f; --green-soft:#e7f9ef; --dark:#0b0f14;
+  --green:#17c964; --green-dk:#0a7a3d; --green-soft:#e7f9ef; --dark:#0b0f14;
   --sac:#2b7cf0; --sac2:#ffd21e; --sbg:#ddeafd; --spanel:#dbe8ff;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -65,6 +65,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 h1{font-size:clamp(1.7rem,3.6vw,2.5rem);font-weight:900;letter-spacing:-.03em;line-height:1.05;margin:14px 0 8px}
 h1 em{color:var(--sac);font-style:normal}
 .sub{color:var(--mut);font-size:.92rem}
+.stalebar{margin-top:14px;background:#fff7e6;border:1px solid #f0d9a8;color:#7a5a00;border-radius:12px;padding:12px 16px;font-size:.88rem;font-weight:650}
 .searchbox{max-width:1200px;margin:-26px auto 0;padding:0 20px;position:relative;z-index:5}
 .searchin{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 14px 34px rgba(13,17,23,.08);padding:14px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
 .sfield{flex:1;min-width:200px;display:flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:12px;padding:0 14px;background:#fbfcfd}
@@ -79,7 +80,7 @@ h1 em{color:var(--sac);font-style:normal}
 .card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(13,17,23,.10)}
 .imgb{position:relative;padding-top:100%;background:#fff;border-bottom:1px solid #f0f2f5}
 .imgb img{position:absolute;top:14px;left:14px;width:calc(100% - 28px);height:calc(100% - 28px);object-fit:contain}
-.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#fff;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
+.bpct{position:absolute;top:10px;left:10px;background:var(--green);color:#062812;font-weight:900;font-size:.84rem;padding:5px 9px;border-radius:9px;box-shadow:0 4px 10px rgba(23,201,100,.35)}
 .schip{position:absolute;top:12px;right:12px;background:var(--spanel);color:var(--ink);font-weight:800;font-size:.6rem;letter-spacing:.05em;padding:4px 8px;border-radius:99px}
 .cb{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
 .nm{font-size:.9rem;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
@@ -88,9 +89,6 @@ h1 em{color:var(--sac);font-style:normal}
 .pn{font-weight:900;font-size:1.28rem;letter-spacing:-.02em}
 .po{color:#a3adb8;text-decoration:line-through;font-size:.82rem}
 .sv{color:var(--green-dk);font-weight:800;font-size:.76rem}
-.sparkw{margin-top:auto;padding-top:9px;border-top:1px dashed #edf0f3}
-.sparkw svg{display:block;width:100%;height:26px}
-.sparkl{display:flex;justify-content:space-between;font-size:.6rem;color:#a3adb8;margin-top:3px}
 .go{display:block;text-align:center;background:var(--dark);color:#fff;font-weight:800;font-size:.8rem;padding:10px;border-radius:10px;margin-top:9px}
 .empty{max-width:1200px;margin:0 auto;padding:40px 20px;text-align:center;color:var(--mut)}
 .sk{background:#fff;border:1px solid var(--line);border-radius:16px;height:340px;position:relative;overflow:hidden}
@@ -106,6 +104,7 @@ footer a{color:var(--green-dk);font-weight:700}
   .grid{grid-template-columns:repeat(2,1fr);gap:10px}
   .cb{padding:10px 11px 12px}.pn{font-size:1.08rem}
 }
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
@@ -126,6 +125,7 @@ footer a{color:var(--green-dk);font-weight:700}
     </a>
     <div class="tabs" id="tabs">
       <a class="tab" href="/">Inicio</a>
+      <a class="tab" href="/vuelos/">✈ Vuelos</a>
       <a class="tab" href="/palacio/">Palacio</a>
       <a class="tab" href="/amazon/">Amazon</a>
       <a class="tab" href="/costco/">Costco</a>
@@ -140,7 +140,7 @@ footer a{color:var(--green-dk);font-weight:700}
   <div class="heroin">
     <span class="chip"><span class="sq"></span> RADAR COPPEL <span class="dotlive"></span></span>
     <h1>Ofertas de <em>Coppel</em> cazadas cada hora.</h1>
-    <div class="sub" id="sub">Cargando ofertas…</div>
+    <div class="sub" id="sub">5,285 ofertas activas · actualizado 24/08/2026 13:14</div>
   </div>
 </header>
 <div class="searchbox">
@@ -159,8 +159,8 @@ footer a{color:var(--green-dk);font-weight:700}
     </div>
   </div>
 </div>
-<div class="cnt" id="cnt"></div>
-<div class="grid" id="grid"><!--G1--><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div><!--G2--></div>
+<div class="cnt" id="cnt" aria-live="polite"></div>
+<div class="grid" id="grid"><a class="card" href="/oferta/coppel/pantalla-smart-tv-sony-led-75-pulgadas-4k-xbr-75x950h-a-215138/"><span class="bpct">-69%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/pm/2151383-1.jpg" alt="Pantalla Smart TV Sony LED 75 Pulgadas 4K XBR-75X950H/A"></div><div class="cb"><div class="nm">Pantalla Smart TV Sony LED 75 Pulgadas 4K XBR-75X950H/A</div><div class="catl">Pantallas</div><div class="pr"><span class="pn">$19,999</span><span class="po">$64,999</span></div><div class="sv">Ahorras $45,000 (69%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/pantalla-led-sony-75-pulgadas-ultra-hd-4k-smart-tv-screen-share-xbr-246757/"><span class="bpct">-67%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/pm/2467573-1.jpg" alt="Pantalla LED Sony 75 Pulgadas Ultra HD 4K Smart TV Screen Share XBR-75X850G LA1"></div><div class="cb"><div class="nm">Pantalla LED Sony 75 Pulgadas Ultra HD 4K Smart TV Screen Share XBR-75X850G LA1</div><div class="catl">Pantallas</div><div class="pr"><span class="pn">$19,999</span><span class="po">$59,999</span></div><div class="sv">Ahorras $40,000 (67%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/celular-samsung-galaxy-s25-ultra-256gb-12gb-azul-titanio-desbloqueado-74624608/"><span class="bpct">-63%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/mkp/74624608-1.jpg" alt="Celular Samsung Galaxy S25 Ultra 256gb 12gb Azul Titanio Desbloqueado"></div><div class="cb"><div class="nm">Celular Samsung Galaxy S25 Ultra 256gb 12gb Azul Titanio Desbloqueado</div><div class="catl">Celulares</div><div class="pr"><span class="pn">$18,199</span><span class="po">$48,999</span></div><div class="sv">Ahorras $30,800 (63%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/minecraft-legends-deluxe-edition-para-xbox-one-y-xbox-series-x-206612/"><span class="bpct">-90%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/pm/2066123-1.jpg" alt="Minecraft Legends Deluxe Edition para Xbox One y Xbox Series X"></div><div class="cb"><div class="nm">Minecraft Legends Deluxe Edition para Xbox One y Xbox Series X</div><div class="catl">Videojuegos</div><div class="pr"><span class="pn">$129</span><span class="po">$1,299</span></div><div class="sv">Ahorras $1,170 (90%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/proyector-portatil-epson-1000-lumenes-150-pulgadas-ef-21w-283208/"><span class="bpct">-66%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/pm/2832083-1.jpg" alt="Proyector Portátil Epson 1000 Lúmenes 150 Pulgadas EF-21W"></div><div class="cb"><div class="nm">Proyector Portátil Epson 1000 Lúmenes 150 Pulgadas EF-21W</div><div class="catl">Proyectores</div><div class="pr"><span class="pn">$7,499</span><span class="po">$21,999</span></div><div class="sv">Ahorras $14,500 (66%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/refrigerador-whirlpool-una-puerta-18-pies-acero-inoxidable-wsr57r18dm-638901/"><span class="bpct">-58%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/pm/6389013-1.jpg" alt="Refrigerador Whirlpool Una Puerta 18 Pies Acero Inoxidable WSR57R18DM"></div><div class="cb"><div class="nm">Refrigerador Whirlpool Una Puerta 18 Pies Acero Inoxidable WSR57R18DM</div><div class="catl">Refrigeradores</div><div class="pr"><span class="pn">$30,999</span><span class="po">$74,199</span></div><div class="sv">Ahorras $43,200 (58%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/television-true-wireless-de-75-pulgadas-lg-qned-evo-ai-qned9m-miniled-748210294/"><span class="bpct">-57%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/mkp/748210294-1.jpg" alt="Televisión True Wireless de 75 pulgadas LG QNED evo AI QNED9M MiniLED con transferencia de video y audio 4K"></div><div class="cb"><div class="nm">Televisión True Wireless de 75 pulgadas LG QNED evo AI QNED9M MiniLED con transferencia de video y audio 4K</div><div class="catl">Pantallas</div><div class="pr"><span class="pn">$25,999</span><span class="po">$59,999</span></div><div class="sv">Ahorras $34,000 (57%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/combo-laptop-dell-15-dc15255-ryzen-5-7520u-8gb-512gb-ssd-fhd-w11h-747047818/"><span class="bpct">-60%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/mkp/747047818-1.jpg" alt="Combo Laptop Dell 15 Dc15255 Ryzen 5-7520u 8gb 512gb Ssd Fhd W11h Plata + Base Enfriadora"></div><div class="cb"><div class="nm">Combo Laptop Dell 15 Dc15255 Ryzen 5-7520u 8gb 512gb Ssd Fhd W11h Plata + Base Enfriadora</div><div class="catl">Laptops</div><div class="pr"><span class="pn">$8,999</span><span class="po">$22,498</span></div><div class="sv">Ahorras $13,499 (60%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/horno-de-microondas-campana-whirlpool-1-9-pies-wmha9019hz-plateado-639273/"><span class="bpct">-58%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/pm/6392733-1.jpg" alt="Horno de Microondas Campana Whirlpool 1.9 Pies WMHA9019HZ Plateado"></div><div class="cb"><div class="nm">Horno de Microondas Campana Whirlpool 1.9 Pies WMHA9019HZ Plateado</div><div class="catl">Electrodomesticos</div><div class="pr"><span class="pn">$13,999</span><span class="po">$33,199</span></div><div class="sv">Ahorras $19,200 (58%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/combo-laptop-dell-15-dc15255-ryzen-5-8gb-512gb-ssd-fhd-w11h-plata-747268580/"><span class="bpct">-60%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/mkp/747268580-1.jpg" alt="Combo Laptop Dell 15 Dc15255 Ryzen 5 8gb 512gb Ssd Fhd W11h Plata + Audifonos Bluetooth"></div><div class="cb"><div class="nm">Combo Laptop Dell 15 Dc15255 Ryzen 5 8gb 512gb Ssd Fhd W11h Plata + Audifonos Bluetooth</div><div class="catl">Laptops</div><div class="pr"><span class="pn">$8,899</span><span class="po">$22,248</span></div><div class="sv">Ahorras $13,349 (60%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/pc-dell-optiplex-7050-sff-core-i5-7a-16gb-ram-256gb-ssd-monitor-19-748051908/"><span class="bpct">-63%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/mkp/748051908-1.jpg" alt="Pc Dell Optiplex 7050 Sff  Core I5-7a  16gb Ram  256gb Ssd  Monitor 19&#x27; Reacondicionado"></div><div class="cb"><div class="nm">Pc Dell Optiplex 7050 Sff  Core I5-7a  16gb Ram  256gb Ssd  Monitor 19&#x27; Reacondicionado</div><div class="catl">Computadoras</div><div class="pr"><span class="pn">$4,799</span><span class="po">$12,999</span></div><div class="sv">Ahorras $8,200 (63%)</div><span class="go">Ver oferta →</span></div></a><a class="card" href="/oferta/coppel/telefono-inteligente-w555-ip54-uso-rudo-nfc-pantalla-hd-5-7-camara-8-748008985/"><span class="bpct">-70%</span><div class="imgb"><img loading="lazy" src="https://cdn5.coppel.com/mkp/748008985-1.jpg" alt="Teléfono Inteligente W555 Ip54 Uso Rudo Nfc Pantalla Hd 5.7 Camara 8/5 Mpx"></div><div class="cb"><div class="nm">Teléfono Inteligente W555 Ip54 Uso Rudo Nfc Pantalla Hd 5.7 Camara 8/5 Mpx</div><div class="catl">Celulares</div><div class="pr"><span class="pn">$1,350</span><span class="po">$4,500</span></div><div class="sv">Ahorras $3,150 (70%)</div><span class="go">Ver oferta →</span></div></a></div>
 <button class="masbtn" id="masbtn" hidden type="button">Ver más ofertas</button>
 <div class="empty" id="empty" style="display:none"></div>
 <footer>
@@ -187,7 +187,7 @@ function cardHtml(d){
   return '<a class="card" href="'+esc(ofertaUrl(d))+'">'+
     '<span class="bpct">-'+Math.round(d.pct||0)+'%</span>'+
     '<span class="schip">COPPEL</span>'+
-    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
+    '<div class="imgb">'+(safeUrl(d.img)?'<img loading="lazy" onerror="this.remove()" src="'+esc(safeUrl(d.img))+'" alt="'+esc(d.name)+'">':'')+'</div>'+
     '<div class="cb">'+
     '<div class="nm">'+esc(d.name)+'</div>'+
     '<div class="catl">'+esc(d.category)+'</div>'+
@@ -221,6 +221,7 @@ fetch('deals.json?_='+Date.now(),{cache:'no-store'}).then(function(r){return r.j
   if(window.RadarBusqueda)ALL.forEach(function(x){x._tokens=RadarBusqueda.tokensDe(x,OFERTA_STORE);});
   if(window.RadarSecciones)RadarSecciones.montar({deals:ALL,cardHtml:cardHtml,score:score,esc:esc,alFiltrar:function(){MOSTRAR=PAGINA;render();}});
   document.getElementById('sub').textContent=ALL.length.toLocaleString('es-MX')+' ofertas activas · actualizado '+((d&&d.generated_at_str)||'');
+  if(d&&d.generated_at&&(Date.now()-d.generated_at*1000)>216e5){var _sb=document.createElement('div');_sb.className='stalebar';_sb.setAttribute('role','status');_sb.innerHTML='⚠ <b>Temporalmente sin actualización.</b> Último dato real: '+esc((d&&d.generated_at_str)||'desconocido')+'. Los precios pueden haber cambiado.';var _h=document.querySelector('.heroin');if(_h)_h.appendChild(_sb);}
   render();
 }).catch(function(){document.getElementById('sub').textContent='No se pudieron cargar las ofertas ahora. Recarga en un momento.';});
 </script>

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787641444.2079241,
- "generated_at_str": "25/08/2026 01:04",
+ "generated_at": 1787645044.193735,
+ "generated_at_str": "25/08/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX1610BOG1?t=VB17921785201792198800000278NLUBOG_52980b18353fe175a8a8f29da9587857_12062&search_date=25082026&expected_price_uuid=01a03730-28c5-8030-66d1-2e29f6dae529&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=FZDJdx-TfESuWuvWem5uAA&expected_price_source=share&expected_price_currency=mxn&expected_price=2439",
    "title": "Flight deals from Mexico City to Bogota",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261016-52980b18/"
-  },
-  {
-   "id": "76e2286167d4dd3473790d6cd7b135b5",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SAC",
-   "destination_name": "Sacramento",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2747.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-03T20:51:00-05:00",
-   "return_at": "",
-   "duration": 239,
-   "link": "https://www.aviasales.com/search/GDL0309SAC1?t=Y417884686601788479400000239GDLSMF_76e2286167d4dd3473790d6cd7b135b5_13585&search_date=25082026&expected_price_uuid=01a036a6-ad9d-8030-e0af-769eff5c692d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kBSw4-O1Y8nNBoCwF9GphQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2747",
-   "title": "Flight deals from Guadalajara to Sacramento",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-sacramento-20260903-76e22861/"
   },
   {
    "id": "295ff2615089f11b9feb2ddce9dcebcc",
@@ -200,14 +180,34 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 10444.0,
+   "price": 10443.0,
    "currency": "MXN",
    "departure_at": "2026-10-18T17:15:00-05:00",
    "return_at": "",
    "duration": 1105,
-   "link": "https://www.aviasales.com/search/MEX1810IST1?t=AM17923437001792442400001105MEXBCNSAW_e84522b35f1873d5808529a33c367ae3_51652&search_date=25082026&expected_price_uuid=01a0377b-b78c-8030-a06e-12dc1f8f6770&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nzV8K40woDdHHgsrWGhMxw&expected_price_source=share&expected_price_currency=mxn&expected_price=10444",
+   "link": "https://www.aviasales.com/search/MEX1810IST1?t=AM17923437001792442400001105MEXBCNSAW_e84522b35f1873d5808529a33c367ae3_51652&search_date=25082026&expected_price_uuid=01a0377b-b78c-8030-a06e-12dc1f8f6770&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nzV8K40woDdHHgsrWGhMxw&expected_price_source=share&expected_price_currency=mxn&expected_price=10443",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261018-e84522b3/"
+  },
+  {
+   "id": "778ef9a33000de987439679519e41e2d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 11155.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-25T19:00:00-06:00",
+   "return_at": "",
+   "duration": 1210,
+   "link": "https://www.aviasales.com/search/MEX2511SEL1?t=AM17956332001795759800001210MEXMTYICN_778ef9a33000de987439679519e41e2d_55172&search_date=25082026&expected_price_uuid=01a037bb-0f84-8050-e6c9-f9476c9381d2&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=UXp17yqUhXazdxShMDKHDA&expected_price_source=share&expected_price_currency=mxn&expected_price=11155",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261125-778ef9a3/"
   }
  ]
 }

@@ -54,10 +54,10 @@
    "micro_pages": 75
   },
   "elektra": {
-   "last_attempt": 1787688241.6968176,
-   "items": 1905,
-   "status": "ok",
-   "reason": "",
+   "last_attempt": 1787691841.6322482,
+   "items": 0,
+   "status": "down",
+   "reason": "HTTP Error 503: Service Unavailable",
    "host": "pc",
    "last_complete_sweep": 1787688241.6968176,
    "micro_pages": 250
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1787691933.4501355
+ "updated_at": 1787692331.7187467
 }

@@ -54,13 +54,13 @@
    "micro_pages": 97
   },
   "elektra": {
-   "last_attempt": 1787684642.3005211,
-   "items": 0,
-   "status": "down",
-   "reason": "Remote end closed connection without response",
+   "last_attempt": 1787688241.6968176,
+   "items": 1905,
+   "status": "ok",
+   "reason": "",
    "host": "pc",
-   "last_complete_sweep": 1787681042.3242655,
-   "micro_pages": 22
+   "last_complete_sweep": 1787688241.6968176,
+   "micro_pages": 250
   },
   "liverpool": {
    "last_attempt": 1787594488.386929,
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1787688525.0323007
+ "updated_at": 1787688800.0893927
 }

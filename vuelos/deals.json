@@ -1,6 +1,6 @@
 {
- "generated_at": 1787616244.1075459,
- "generated_at_str": "24/08/2026 18:04",
+ "generated_at": 1787619844.5150394,
+ "generated_at_str": "24/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/GDL0309TIJ1?t=AM17884429201788481680000706GDLMEXTIJ_7b7127706d53e337e9168a80abc23e58_5031&search_date=24082026&expected_price_uuid=01a035fe-3d3a-8040-a8c5-02eb0c59a6e3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QodO58eCTDxPErPXUFQYFQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1017",
    "title": "Flight deals from Guadalajara to Tijuana",
    "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20260903-7b712770/"
-  },
-  {
-   "id": "3a95dbcadb88425c5efbacf95e43a6d6",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1099.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-03T20:15:00-05:00",
-   "return_at": "",
-   "duration": 86,
-   "link": "https://www.aviasales.com/search/MTY0309MEX1?t=Y417884665001788471660000086MTYTLC_3a95dbcadb88425c5efbacf95e43a6d6_5436&search_date=24082026&expected_price_uuid=01a03516-af2f-8030-eeb0-33af7439ebad&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=78YRHZkSodY4l400zcw4rw&expected_price_source=share&expected_price_currency=mxn&expected_price=1099",
-   "title": "Flight deals from Monterrey to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260903-3a95dbca/"
   },
   {
    "id": "59f2ca25006d84442351924165fdcae2",
@@ -90,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260901-783afa60/"
   },
   {
-   "id": "3230d8da00dff5e72f0218c7c2820aa2",
+   "id": "6233def3ef9e2eea51a00d1847d7c40f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -100,14 +80,14 @@
    "airline_title": "Qatar Airways",
    "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 9844.0,
+   "price": 9669.0,
    "currency": "MXN",
-   "departure_at": "2026-08-31T06:20:00-05:00",
+   "departure_at": "2026-09-03T06:20:00-05:00",
    "return_at": "",
    "duration": 1745,
-   "link": "https://www.aviasales.com/search/MEX3108DXB1?t=QR17881572001788297900001745MEXIAHDOHDXB_3230d8da00dff5e72f0218c7c2820aa2_48698&search_date=24082026&expected_price_uuid=01a0360d-490f-8030-e1eb-4ce45492dbfb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EEszd81D4U_N1Dh5hKJCSg&expected_price_source=share&expected_price_currency=mxn&expected_price=9844",
+   "link": "https://www.aviasales.com/search/MEX0309DXB1?t=QR17884164001788557100001745MEXIAHDOHDXB_6233def3ef9e2eea51a00d1847d7c40f_47822&search_date=25082026&expected_price_uuid=01a03659-7034-8040-2449-2575ca1d6d65&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M7XaLxvbva9mgA93_U-w5A&expected_price_source=share&expected_price_currency=mxn&expected_price=9669",
    "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260831-3230d8da/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260903-6233def3/"
   },
   {
    "id": "ecb17e72120212884444c1c87ecfd93a",
@@ -128,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX0309BJS1?t=MF17884478401788609300001851MEXLAXXMNPKX_ecb17e72120212884444c1c87ecfd93a_62822&search_date=24082026&expected_price_uuid=01a03628-61d5-8030-e8c5-f06ee3111625&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=q3OxMwLDSIiUqqhIj1S81w&expected_price_source=share&expected_price_currency=mxn&expected_price=12700",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260903-ecb17e72/"
+  },
+  {
+   "id": "a77d4aa62f64a677c02357f19a33b0fc",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NQZ",
+   "destination_name": "Astaná",
+   "airline": "TS",
+   "airline_title": "Air Transat",
+   "logo": "https://pics.avs.io/600/150/TS.png",
+   "logo_tipo": "",
+   "price": 13061.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-27T00:30:00-05:00",
+   "return_at": "",
+   "duration": 3915,
+   "link": "https://www.aviasales.com/search/MEX2709NQZ1?t=TS17904690001790743500003915MEXYYZDUBSAWNQZ_a77d4aa62f64a677c02357f19a33b0fc_64598&search_date=25082026&expected_price_uuid=01a03660-8da2-8040-289e-9918a0d3c9d2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3fB2t4gakciKUjF6JFOSkA&expected_price_source=share&expected_price_currency=mxn&expected_price=13061",
+   "title": "Flight deals from Mexico City to Astana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20260927-a77d4aa6/"
   },
   {
    "id": "826007d43df30c03b7c1576984e44ed7",

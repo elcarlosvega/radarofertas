@@ -1,6 +1,6 @@
 {
- "generated_at": 1787688302.5594692,
- "generated_at_str": "25/08/2026 14:05",
+ "generated_at": 1787691926.7818666,
+ "generated_at_str": "25/08/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6480,6 +6480,23 @@
    "first_seen": 1787641545.6867902,
    "h_dias": 1,
    "h_min": 59249.0
+  },
+  {
+   "id": "694162",
+   "name": "Vino Tinto Chateau Pavie 6/750 ml Gift Case",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Cajas-de-Vino/Vino-Tinto-Chateau-Pavie-6750-ml-Gift-Case/p/694162",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha7/hbd/379124061044766.jpg",
+   "category": "Vinos",
+   "price_old": 69999.0,
+   "price_new": 52499.0,
+   "pct": 25.0,
+   "amount": 17500.0,
+   "starts": "2026-08-25T06:00:00.000Z",
+   "ends": "2026-08-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787641545.6867902,
+   "h_dias": 1,
+   "h_min": 52499.0
   },
   {
    "id": "693793",
@@ -20221,9 +20238,9 @@
    "pct": 14.3,
    "amount": 2000.0,
    "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
+   "ends": "2026-08-26T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787562335.0101256,
+   "first_seen": 1787691926.7818666,
    "h_dias": 11,
    "h_min": 11499.0,
    "h_ayer": 11999.0,
@@ -20821,25 +20838,6 @@
    "first_seen": 1787641545.6867902,
    "h_dias": 1,
    "h_min": 129999.0
-  },
-  {
-   "id": "695486",
-   "name": "LG Refrigerador 27' Side by Side",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-27-Side-by-Side/p/695486",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbd/hc3/396586949738526.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 25999.0,
-   "pct": 13.3,
-   "amount": 4000.0,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787562335.0101256,
-   "h_dias": 28,
-   "h_min": 23999.0,
-   "h_ayer": 23999.0,
-   "h_min7": 23999.0
   },
   {
    "id": "692358",

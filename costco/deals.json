@@ -1,6 +1,6 @@
 {
- "generated_at": 1787760310.6168172,
- "generated_at_str": "26/08/2026 10:05",
+ "generated_at": 1787763933.811044,
+ "generated_at_str": "26/08/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -12215,6 +12215,24 @@
    "h_min7": 18999.0
   },
   {
+   "id": "523500",
+   "name": "Teka Cava de Vinos 51 Botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Teka-Cava-de-Vinos-51-Botellas/p/523500",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd2/h43/15520512671774.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 18999.0,
+   "pct": 24.0,
+   "amount": 6000.0,
+   "starts": "2026-08-26T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787763933.811044,
+   "h_dias": 25,
+   "h_min": 18999.0,
+   "h_min7": 18999.0
+  },
+  {
    "id": "683657",
    "name": "América, Class, Colchón Queen Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Class-Colchon-Queen-Size/p/683657",
@@ -13796,25 +13814,6 @@
    "ends": "2026-08-31T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1787555126.982376,
-   "h_dias": 29,
-   "h_min": 10999.0,
-   "h_ayer": 10999.0,
-   "h_min7": 10999.0
-  },
-  {
-   "id": "688025",
-   "name": "América, Bliss, Juego de Colchón y Box Matrimonial",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Bliss-Juego-de-Colchon-y-Box-Matrimonial/p/688025",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h83/261719158587422.jpg",
-   "category": "Muebles",
-   "price_old": 13999.0,
-   "price_new": 10999.0,
-   "pct": 21.4,
-   "amount": 3000.0,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787558739.1716406,
    "h_dias": 29,
    "h_min": 10999.0,
    "h_ayer": 10999.0,
@@ -15915,7 +15914,7 @@
   {
    "id": "702959",
    "name": "HP All-in-One 27-cr0253la 27\" Full HD Pantalla táctil AMD Ryzen 5 16GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Desktop/HP-All-in-One-27-cr0253la-27-Full-HD-Pantalla-tactil-AMD-Ryzen-5-16GB-512GB-SSD/p/702959",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Desktop/HP-All-in-One-27-cr0253la-27-Full-HD-AMD-Ryzen-5-16GB-512GB-SSD/p/702959",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hf8/h78/450975506169886.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 22799.0,

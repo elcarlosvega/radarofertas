@@ -1,6 +1,6 @@
 {
- "generated_at": 1787702643.6622667,
- "generated_at_str": "25/08/2026 18:04",
+ "generated_at": 1787706243.444523,
+ "generated_at_str": "25/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -150,7 +150,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261002-de9c3886/"
   },
   {
-   "id": "d8dfe985d30377eae8803d0de0df70b8",
+   "id": "c60ed832d316a0d48cfe2139b3093de4",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -162,12 +162,12 @@
    "logo_tipo": "lockup",
    "price": 5099.0,
    "currency": "MXN",
-   "departure_at": "2026-10-28T18:26:00-06:00",
+   "departure_at": "2026-10-29T10:06:00-06:00",
    "return_at": "",
-   "duration": 784,
-   "link": "https://www.aviasales.com/search/MEX2810SAO1?t=DM17932119601793269800000784NLUPUJGRU_d8dfe985d30377eae8803d0de0df70b8_25180&search_date=25082026&expected_price_uuid=01a03b5b-a01c-8050-e97c-7cf1c6bb210c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m_osQLgR3gNIK15L1i_uGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5099",
+   "duration": 824,
+   "link": "https://www.aviasales.com/search/MEX2910SAO1?t=DM17932683601793328600000824NLUPUJGRU_c60ed832d316a0d48cfe2139b3093de4_25180&search_date=25082026&expected_price_uuid=01a03b58-d1ad-8050-63e4-abd588772d2d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gwzeaC-Re-FJBBNySHwZ-Q&expected_price_source=share&expected_price_currency=mxn&expected_price=5099",
    "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261028-d8dfe985/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261029-c60ed832/"
   },
   {
    "id": "8fb390b3d431c1fb2dbc210dfb4cf9f4",

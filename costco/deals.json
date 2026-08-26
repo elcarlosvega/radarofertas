@@ -1,6 +1,6 @@
 {
- "generated_at": 1787763933.811044,
- "generated_at_str": "26/08/2026 11:05",
+ "generated_at": 1787767510.4555376,
+ "generated_at_str": "26/08/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6378,6 +6378,25 @@
    "h_min7": 8999.0
   },
   {
+   "id": "688024",
+   "name": "América, Bliss, Juego de Colchón y Box Individual",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Individual/America-Bliss-Juego-de-Colchon-y-Box-Individual/p/688024",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/haf/261719156162590.jpg",
+   "category": "Muebles",
+   "price_old": 11999.0,
+   "price_new": 8999.0,
+   "pct": 25.0,
+   "amount": 3000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
+   "h_dias": 29,
+   "h_min": 8999.0,
+   "h_ayer": 8999.0,
+   "h_min7": 8999.0
+  },
+  {
    "id": "521815",
    "name": "Sealy, Denver, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-Matrimonial/p/521815",
@@ -12227,7 +12246,7 @@
    "starts": "2026-08-26T06:00:00.000Z",
    "ends": "2026-08-31T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787763933.811044,
+   "first_seen": 1787763943.5653155,
    "h_dias": 25,
    "h_min": 18999.0,
    "h_min7": 18999.0
@@ -13814,6 +13833,25 @@
    "ends": "2026-08-31T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1787555126.982376,
+   "h_dias": 29,
+   "h_min": 10999.0,
+   "h_ayer": 10999.0,
+   "h_min7": 10999.0
+  },
+  {
+   "id": "688025",
+   "name": "América, Bliss, Juego de Colchón y Box Matrimonial",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Bliss-Juego-de-Colchon-y-Box-Matrimonial/p/688025",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h83/261719158587422.jpg",
+   "category": "Muebles",
+   "price_old": 13999.0,
+   "price_new": 10999.0,
+   "pct": 21.4,
+   "amount": 3000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
    "h_dias": 29,
    "h_min": 10999.0,
    "h_ayer": 10999.0,

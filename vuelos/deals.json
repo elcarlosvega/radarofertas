@@ -1,6 +1,6 @@
 {
- "generated_at": 1787774644.1315255,
- "generated_at_str": "26/08/2026 14:04",
+ "generated_at": 1787778243.9515336,
+ "generated_at_str": "26/08/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0509DFW1?t=Y417885916001788605160000166MEXDFW_265dda668aa556b707e403a673709459_13247&search_date=26082026&expected_price_uuid=01a03ebf-612e-8030-ef98-fa7924c54cf0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BESz7v6PLswUJ10kt9eq6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=2663",
    "title": "Flight deals from Mexico City to Dallas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260905-265dda66/"
+  },
+  {
+   "id": "f6a9eacd58ab95a4fe1bafc733b3b1ec",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2860.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T19:35:00-05:00",
+   "return_at": "",
+   "duration": 1605,
+   "link": "https://www.aviasales.com/search/MEX1609NYC1?t=VB17895873001789690800001605NLUMTYJFK_f6a9eacd58ab95a4fe1bafc733b3b1ec_14229&search_date=26082026&expected_price_uuid=01a03fcc-2f87-8040-6dff-b90a8209782f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=I2ckmr9vNdQgCt7xPitx6w&expected_price_source=share&expected_price_currency=mxn&expected_price=2860",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260916-f6a9eacd/"
   },
   {
    "id": "2991ff44373957a1dae94a1d266e9b2e",
@@ -150,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20261210-32b4a0d9/"
   },
   {
-   "id": "7349b45dd720dc728f8fab694687c43c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SYX",
-   "destination_name": "Sanya",
-   "airline": "CX",
-   "airline_title": "Cathay Pacific",
-   "logo": "https://pics.avs.io/600/150/CX.png",
-   "logo_tipo": "",
-   "price": 11509.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-23T06:00:00-05:00",
-   "return_at": "",
-   "duration": 2290,
-   "link": "https://www.aviasales.com/search/MEX2309SYX1?t=CX17901432001790331000002290MEXLAXHKGSYX_7349b45dd720dc728f8fab694687c43c_57214&search_date=26082026&expected_price_uuid=01a03e92-963a-8050-a615-52db9d43d45e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M3yg7dZ0AbWG6dk-BJrj3w&expected_price_source=share&expected_price_currency=mxn&expected_price=11509",
-   "title": "Flight deals from Mexico City to Sanya",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sanya-20260923-7349b45d/"
-  },
-  {
    "id": "ecb17e72120212884444c1c87ecfd93a",
    "kind": "flight",
    "origin": "MEX",
@@ -200,12 +200,12 @@
    "airline_title": "All Nippon Airways",
    "logo": "https://pics.avs.io/600/150/NH.png",
    "logo_tipo": "",
-   "price": 14682.0,
+   "price": 14683.0,
    "currency": "MXN",
    "departure_at": "2026-09-10T06:05:00-05:00",
    "return_at": "",
    "duration": 865,
-   "link": "https://www.aviasales.com/search/MEX1009TYO1?t=NH17890203001789126200000865MEXNRT_174f05dfff2dbb567dc8e1d5df341d42_73053&search_date=26082026&expected_price_uuid=01a03ef3-f9da-8050-234f-82e453a6543b&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=jNPNisKN32BqcLmGsgBeAA&expected_price_source=share&expected_price_currency=mxn&expected_price=14682",
+   "link": "https://www.aviasales.com/search/MEX1009TYO1?t=NH17890203001789126200000865MEXNRT_174f05dfff2dbb567dc8e1d5df341d42_73053&search_date=26082026&expected_price_uuid=01a03ef3-f9da-8050-234f-82e453a6543b&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=jNPNisKN32BqcLmGsgBeAA&expected_price_source=share&expected_price_currency=mxn&expected_price=14683",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260910-174f05df/"
   }

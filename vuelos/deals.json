@@ -1,6 +1,6 @@
 {
- "generated_at": 1787853843.9356544,
- "generated_at_str": "27/08/2026 12:04",
+ "generated_at": 1787857443.6732826,
+ "generated_at_str": "27/08/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,7 +10,7 @@
  ],
  "deals": [
   {
-   "id": "98b4c131d7af6d5e0c9019d8d1209de6",
+   "id": "86cfbd18176cc5e8819eef40672a032b",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -20,14 +20,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 3376.0,
+   "price": 3428.0,
    "currency": "MXN",
-   "departure_at": "2026-08-30T10:05:00-05:00",
+   "departure_at": "2026-08-29T10:05:00-05:00",
    "return_at": "",
    "duration": 191,
-   "link": "https://www.aviasales.com/search/MEX3008MIA1?t=Y417880843001788102960000191MEXMIA_98b4c131d7af6d5e0c9019d8d1209de6_17169&search_date=27082026&expected_price_uuid=01a04345-b42b-8040-6644-6fc6cb9d0ec7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=3376",
+   "link": "https://www.aviasales.com/search/MEX2908MIA1?t=Y417879979001788016560000191MEXMIA_86cfbd18176cc5e8819eef40672a032b_17396&search_date=27082026&expected_price_uuid=01a04430-0894-8040-6528-d4542092c2fd&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=3428",
    "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260830-98b4c131/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260829-86cfbd18/"
   },
   {
    "id": "813495b978bc486d56fbb8389b426330",
@@ -40,12 +40,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 5028.0,
+   "price": 5030.0,
    "currency": "MXN",
    "departure_at": "2026-12-01T10:30:00-06:00",
    "return_at": "",
    "duration": 395,
-   "link": "https://www.aviasales.com/search/MEX0112HAV1?t=VB17961210001796148300000395NLUMTYHAV_813495b978bc486d56fbb8389b426330_25524&search_date=27082026&expected_price_uuid=01a0442a-6c3d-8030-23f7-094ff6939ca2&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=avNyDtwASs-W0srJI6xQNg&expected_price_source=share&expected_price_currency=mxn&expected_price=5028",
+   "link": "https://www.aviasales.com/search/MEX0112HAV1?t=VB17961210001796148300000395NLUMTYHAV_813495b978bc486d56fbb8389b426330_25524&search_date=27082026&expected_price_uuid=01a0442a-6c3d-8030-23f7-094ff6939ca2&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=avNyDtwASs-W0srJI6xQNg&expected_price_source=share&expected_price_currency=mxn&expected_price=5030",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261201-813495b9/"
   },
@@ -60,12 +60,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 8591.0,
+   "price": 8595.0,
    "currency": "MXN",
    "departure_at": "2026-11-25T22:20:00-06:00",
    "return_at": "",
    "duration": 2170,
-   "link": "https://www.aviasales.com/search/MEX2511IST1?t=AM17956452001795807800002170MEXLHRARNSAW_29218b9aa87639c8a51b7efa9f1e127e_43610&search_date=27082026&expected_price_uuid=01a043c5-add1-8030-207f-463308396002&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=2Hv6sQr6rz4MIc7dCtpH_A&expected_price_source=share&expected_price_currency=mxn&expected_price=8591",
+   "link": "https://www.aviasales.com/search/MEX2511IST1?t=AM17956452001795807800002170MEXLHRARNSAW_29218b9aa87639c8a51b7efa9f1e127e_43610&search_date=27082026&expected_price_uuid=01a043c5-add1-8030-207f-463308396002&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=2Hv6sQr6rz4MIc7dCtpH_A&expected_price_source=share&expected_price_currency=mxn&expected_price=8595",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261125-29218b9a/"
   },
@@ -80,14 +80,34 @@
    "airline_title": "Air France",
    "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 9770.0,
+   "price": 9775.0,
    "currency": "MXN",
    "departure_at": "2027-02-09T19:55:00-06:00",
    "return_at": "",
    "duration": 830,
-   "link": "https://www.aviasales.com/search/MEX0902LON1?t=AF18022029001802274300000830MEXCDGLGW_f9ef17ff3394e396f5056fd95bf5aabd_49596&search_date=27082026&expected_price_uuid=01a043d7-3c47-8030-e7e5-ddc807fc5c8a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fda6L832odmqp2mh1tYQ_Q&expected_price_source=share&expected_price_currency=mxn&expected_price=9770",
+   "link": "https://www.aviasales.com/search/MEX0902LON1?t=AF18022029001802274300000830MEXCDGLGW_f9ef17ff3394e396f5056fd95bf5aabd_49596&search_date=27082026&expected_price_uuid=01a043d7-3c47-8030-e7e5-ddc807fc5c8a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fda6L832odmqp2mh1tYQ_Q&expected_price_source=share&expected_price_currency=mxn&expected_price=9775",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270209-f9ef17ff/"
+  },
+  {
+   "id": "dfc2e377e1980cb47c245506c356dc36",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 15528.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-15T17:20:00-05:00",
+   "return_at": "",
+   "duration": 1155,
+   "link": "https://www.aviasales.com/search/MEX1510DXB1?t=AF17920848001792190100001155MEXCDGDXB_dfc2e377e1980cb47c245506c356dc36_78582&search_date=27082026&expected_price_uuid=01a0447a-bd53-8051-2e3d-07c5ff333d4a&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=qPVpifhCJv7wUaFYZr2fEg&expected_price_source=share&expected_price_currency=mxn&expected_price=15528",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261015-dfc2e377/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787843043.7438755,
- "generated_at_str": "27/08/2026 09:04",
+ "generated_at": 1787846644.060667,
+ "generated_at_str": "27/08/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260830-98b4c131/"
   },
   {
-   "id": "519137f747da8ffa4c7b2f50e3d52a8e",
+   "id": "f9ef17ff3394e396f5056fd95bf5aabd",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 6425.0,
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 9776.0,
    "currency": "MXN",
-   "departure_at": "2026-08-29T08:55:00-05:00",
+   "departure_at": "2027-02-09T19:55:00-06:00",
    "return_at": "",
-   "duration": 270,
-   "link": "https://www.aviasales.com/search/MEX2908HAV1?t=VB17879937001788017100000270TLCMIDHAV_519137f747da8ffa4c7b2f50e3d52a8e_32534&search_date=27082026&expected_price_uuid=01a042f3-fae4-8051-2d0d-81076bfb4caa&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ip2K8VB3OlhnQI-i38hArA&expected_price_source=share&expected_price_currency=mxn&expected_price=6425",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260829-519137f7/"
+   "duration": 830,
+   "link": "https://www.aviasales.com/search/MEX0902LON1?t=AF18022029001802274300000830MEXCDGLGW_f9ef17ff3394e396f5056fd95bf5aabd_49596&search_date=27082026&expected_price_uuid=01a043d7-3c47-8030-e7e5-ddc807fc5c8a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fda6L832odmqp2mh1tYQ_Q&expected_price_source=share&expected_price_currency=mxn&expected_price=9776",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270209-f9ef17ff/"
   },
   {
    "id": "48e6c24289ee85d69e3596c5fea7abbb",

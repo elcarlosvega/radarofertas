@@ -1,6 +1,6 @@
 {
- "generated_at": 1787835926.385809,
- "generated_at_str": "27/08/2026 07:05",
+ "generated_at": 1787839524.4726331,
+ "generated_at_str": "27/08/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -806,7 +806,7 @@
   {
    "id": "697596",
    "name": "DELL Alienware Aurora ACT 1250 Desktop Gaming Tower NVIDIA GeForce RTX 5070 Intel Core Ultra 7 32GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Aurora-Gaming-ACT-1250-Desktop-Tower-Intel-Core-Ultra-7-32GB-1TB-SSD/p/697596",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Aurora-ACT-1250-Desktop-Gaming-Tower-NVIDIA-GeForce-RTX-5070-Intel-Core-Ultra-7-32GB-1TB-SSD/p/697596",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hd4/hd0/438164201078814.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 66499.0,
@@ -939,7 +939,7 @@
   {
    "id": "704658",
    "name": "MSI Vector 16 HX AI A2XWIG Laptop Gaming 16\" QHD+ NVIDIA GeForce RTX 5080 Intel Core Ultra 9 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Vector-16-HX-AI-A2XWIG-16-QHD-Intel-Core-Ultra-9-16GB-1TB-SSD/p/704658",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Vector-16-HX-AI-A2XWIG-Laptop-Gaming-16-QHD-NVIDIA-GeForce-RTX-5080-Intel-Core-Ultra-9-16GB-1TB-SSD/p/704658",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/hc9/468999014285342.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 79999.0,
@@ -1009,6 +1009,24 @@
    "h_dias": 11,
    "h_min": 13999.0,
    "h_ayer": 13999.0,
+   "h_min7": 13999.0
+  },
+  {
+   "id": "697588",
+   "name": "DELL 14 Laptop 14\" Full HD+ AMD Ryzen 7 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-14-Laptop-14-Full-HD-AMD-Ryzen-7-16GB-512GB-SSD/p/697588",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he4/h91/438164201209886.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 19999.0,
+   "price_new": 13999.0,
+   "pct": 30.0,
+   "amount": 6000.0,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 25,
+   "h_min": 13999.0,
    "h_min7": 13999.0
   },
   {
@@ -3599,7 +3617,7 @@
   {
    "id": "696357",
    "name": "DELL Alienware ACT 1250 Desktop Gaming Tower NVIDIA GeForce RTX 4060 Ti Intel Core Ultra 7 32GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Gaming-ACT-1250-Desktop-Tower-Intel-Core-Ultra-7-32GB-1TB-SSD/p/696357",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-ACT-1250-Desktop-Gaming-Tower-NVIDIA-GeForce-RTX-4060-Ti-Intel-Core-Ultra-7-32GB-1TB-SSD/p/696357",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h04/h07/487814123225118.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 54999.0,
@@ -5789,7 +5807,7 @@
   {
    "id": "635640",
    "name": "Bushmills 21 años Whiskey 750 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whiskey-Bushmills-21-anos-750ml/p/635640",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Bushmills-21-anos-Whiskey-750-ml/p/635640",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h07/h1e/11021867581470.jpg",
    "category": "Licores y Gourmet",
    "price_old": 5899.0,
@@ -5917,6 +5935,40 @@
    "h_min": 299.0,
    "h_ayer": 299.0,
    "h_min7": 299.0
+  },
+  {
+   "id": "704610",
+   "name": "Don't Worry Merengues Chocolate y Fresa 2 pzas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Dont-Worry-Merengues-Chocolate-y-Fresa-2-pzas/p/704610",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h99/h99/468267718574110.jpg",
+   "category": "Grocery",
+   "price_old": 239.0,
+   "price_new": 179.0,
+   "pct": 25.1,
+   "amount": 60.0,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-09-11T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 1,
+   "h_min": 179.0
+  },
+  {
+   "id": "704609",
+   "name": "Don't Worry Merengues Avellana y Cookies & Cream 2 pzas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Dont-Worry-Merengues-Avellana-y-Cookies-Cream-2-pzas/p/704609",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h20/hb8/468267714052126.jpg",
+   "category": "Grocery",
+   "price_old": 239.0,
+   "price_new": 179.0,
+   "pct": 25.1,
+   "amount": 60.0,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-09-11T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 1,
+   "h_min": 179.0
   },
   {
    "id": "688243",
@@ -7642,7 +7694,7 @@
   {
    "id": "646026",
    "name": "1800 Milenio Extra Añejo Tequila 700 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Tequila-1800-Milenio-Extra-Anejo-700ml/p/646026",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/1800-Milenio-Extra-Anejo-Tequila-700-ml/p/646026",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h71/h45/171715460792350.jpg",
    "category": "Licores y Gourmet",
    "price_old": 3199.0,
@@ -7940,7 +7992,7 @@
   {
    "id": "683568",
    "name": "The Glenlivet 15 Años Whisky 700 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-The-Glenlivet-15-Anos-700ml/p/683568",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/The-Glenlivet-15-Anos-Whisky-700-ml/p/683568",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h1e/205392111009822.jpg",
    "category": "Licores y Gourmet",
    "price_old": 2899.0,
@@ -10236,6 +10288,23 @@
    "h_min7": 749.25
   },
   {
+   "id": "702403",
+   "name": "Vino Tinto Muga Reserva 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Muga-Reserva-750-ml/p/702403",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/h46/436354947121182.jpg",
+   "category": "Vinos",
+   "price_old": 999.0,
+   "price_new": 749.25,
+   "pct": 25.0,
+   "amount": 249.75,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 1,
+   "h_min": 749.25
+  },
+  {
    "id": "700425",
    "name": "Miraflex 0MF4032 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Miraflex-0MF4032-Armazon-Oftalmico/p/700425",
@@ -11138,6 +11207,23 @@
    "h_ayer": 419.25
   },
   {
+   "id": "684441",
+   "name": "Vino Rosado Beringer White Zinfandel 2/750 ml",
+   "url": "https://www.costco.com.mx/Vinos-y-Licores/Vino-Blanco-y-Espumoso/Vino-Rosado-Beringer-White-Zinfandel-2750-ml/p/684441",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h64/277151583830046.jpg",
+   "category": "Vinos y Licores",
+   "price_old": 539.0,
+   "price_new": 404.24,
+   "pct": 25.0,
+   "amount": 134.76,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 1,
+   "h_min": 404.24
+  },
+  {
    "id": "703888",
    "name": "Libertrim Alfa 200/75/45 mg 12 Comprimidos",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Alivio-Estomacal/Libertrim-Alfa-2007545-mg-12-Comprimidos/p/703888",
@@ -11229,6 +11315,23 @@
    "h_dias": 4,
    "h_min": 389.25,
    "h_ayer": 389.25
+  },
+  {
+   "id": "538322",
+   "name": "Vino Tinto Navarro Correas 750 ml",
+   "url": "https://www.costco.com.mx/Vinos-y-Licores/Vino-Tinto/Vino-Tinto-Navarro-Correas-750-ml/p/538322",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7e/h42/415106098135070.jpg",
+   "category": "Vinos y Licores",
+   "price_old": 519.0,
+   "price_new": 389.25,
+   "pct": 25.0,
+   "amount": 129.75,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-09-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 1,
+   "h_min": 389.25
   },
   {
    "id": "667155",
@@ -19154,6 +19257,24 @@
    "h_dias": 5,
    "h_min": 18499.0,
    "h_ayer": 18499.0
+  },
+  {
+   "id": "695602",
+   "name": "Lenovo LOQ 15IAX9E Laptop Gaming 15.6\" Full HD NVIDIA GeForce RTX 3050 Intel Core i5 8GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/Lenovo-LOQ-15IAX9E-Laptop-Gaming-156-Full-HD-NVIDIA-GeForce-RTX-3050-Intel-Core-i5-8GB-512GB-SSD/p/695602",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hba/ha8/438163988119582.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 17999.0,
+   "price_new": 15499.0,
+   "pct": 13.9,
+   "amount": 2500.0,
+   "starts": "2026-08-27T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787839524.4726331,
+   "h_dias": 19,
+   "h_min": 15499.0,
+   "h_min7": 15499.0
   },
   {
    "id": "693867",

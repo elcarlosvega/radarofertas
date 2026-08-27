@@ -1,6 +1,6 @@
 {
- "generated_at": 1787839524.4726331,
- "generated_at_str": "27/08/2026 08:05",
+ "generated_at": 1787843119.054839,
+ "generated_at_str": "27/08/2026 09:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1024,7 +1024,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-08-31T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 25,
    "h_min": 13999.0,
    "h_min7": 13999.0
@@ -2415,24 +2415,6 @@
    "h_ayer": 524.3
   },
   {
-   "id": "694243",
-   "name": "Salvatore Ferragamo Uomo 100 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Salvatore-Ferragamo-Uomo-100-ml/p/694243",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6c/h27/349262848819230.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 749.0,
-   "price_new": 524.3,
-   "pct": 30.0,
-   "amount": 224.7,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787562335.0101256,
-   "h_dias": 4,
-   "h_min": 524.3,
-   "h_ayer": 524.3
-  },
-  {
    "id": "682917",
    "name": "Armaf Club de Nuit Milestone 105 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Armaf-Club-de-Nuit-Milestone-105-ml/p/682917",
@@ -3349,6 +3331,24 @@
    "h_min7": 15499.0
   },
   {
+   "id": "639188",
+   "name": "Whirlpool Refrigerador 18' Top Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-18-Top-Mount/p/639188",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h24/haa/27087778971678.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17699.0,
+   "price_new": 12499.0,
+   "pct": 29.4,
+   "amount": 5200.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 20,
+   "h_min": 11899.0,
+   "h_min7": 12499.0
+  },
+  {
    "id": "703478",
    "name": "Samsung Pantalla 65\" Miniled 4K Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-Miniled-4K-Smart-TV/p/703478",
@@ -3974,6 +3974,25 @@
    "h_min": 16499.0,
    "h_ayer": 17499.0,
    "h_min7": 16499.0
+  },
+  {
+   "id": "682698",
+   "name": "Maytag Lavadora 25 Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-25-Kg/p/682698",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h45/h76/220845576159262.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 20999.0,
+   "price_new": 14999.0,
+   "pct": 28.6,
+   "amount": 6000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 19,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0,
+   "h_min7": 14999.0
   },
   {
    "id": "704612",
@@ -4711,6 +4730,24 @@
    "h_min": 22999.0,
    "h_ayer": 23999.0,
    "h_min7": 22999.0
+  },
+  {
+   "id": "641579",
+   "name": "Maytag Refrigerador 20' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Maytag-Refrigerador-20-French-Door/p/641579",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h59/hf5/11022929559582.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 32999.0,
+   "price_new": 23999.0,
+   "pct": 27.3,
+   "amount": 9000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787843119.054839,
+   "h_dias": 22,
+   "h_min": 23999.0,
+   "h_min7": 23999.0
   },
   {
    "id": "683654",
@@ -5949,7 +5986,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-09-11T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 1,
    "h_min": 179.0
   },
@@ -5966,7 +6003,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-09-11T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 1,
    "h_min": 179.0
   },
@@ -6598,25 +6635,6 @@
    "name": "Hugo Boss 1741 F Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Hugo-Boss-1741-F-Armazon-Oftalmico/p/694089",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/h7e/350710840426526.jpg",
-   "category": "Optica",
-   "price_old": 4499.0,
-   "price_new": 3374.25,
-   "pct": 25.0,
-   "amount": 1124.75,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787555126.982376,
-   "h_dias": 13,
-   "h_min": 3374.25,
-   "h_ayer": 3374.25,
-   "h_min7": 3374.25
-  },
-  {
-   "id": "694085",
-   "name": "Hugo Boss 1702 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Hugo-Boss-1702-Armazon-Oftalmico/p/694085",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/hb1/350710834954270.jpg",
    "category": "Optica",
    "price_old": 4499.0,
    "price_new": 3374.25,
@@ -10300,7 +10318,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 1,
    "h_min": 749.25
   },
@@ -11219,7 +11237,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 1,
    "h_min": 404.24
   },
@@ -11329,7 +11347,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-09-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 1,
    "h_min": 389.25
   },
@@ -19271,7 +19289,7 @@
    "starts": "2026-08-27T06:00:00.000Z",
    "ends": "2026-08-31T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1787839524.4726331,
+   "first_seen": 1787839531.7867506,
    "h_dias": 19,
    "h_min": 15499.0,
    "h_min7": 15499.0

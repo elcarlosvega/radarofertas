@@ -1,6 +1,6 @@
 {
- "generated_at": 1787789044.947802,
- "generated_at_str": "26/08/2026 18:04",
+ "generated_at": 1787792644.1722713,
+ "generated_at_str": "26/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260916-f6a9eacd/"
   },
   {
-   "id": "2991ff44373957a1dae94a1d266e9b2e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3001.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-29T08:55:00-05:00",
-   "return_at": "",
-   "duration": 305,
-   "link": "https://www.aviasales.com/search/MEX2908MIA1?t=VB17879937001788019200000305TLCMIDMIA_2991ff44373957a1dae94a1d266e9b2e_14935&search_date=26082026&expected_price_uuid=01a03f44-a860-8040-2633-ec719ebc9263&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=727qYSeRMvwbEeGA4G0e7g&expected_price_source=share&expected_price_currency=mxn&expected_price=3001",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260829-2991ff44/"
-  },
-  {
    "id": "c7c5207078e9a2ea9b73cba0942663c6",
    "kind": "flight",
    "origin": "MTY",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_26217&search_date=26082026&expected_price_uuid=01a04064-accb-8030-aa94-0363527768ff&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5269",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
+  },
+  {
+   "id": "334168d74891da9365020af645acfe23",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 7507.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-26T16:36:00-06:00",
+   "return_at": "",
+   "duration": 834,
+   "link": "https://www.aviasales.com/search/MEX2610BUE1?t=DM17930325601793093400000834NLUPUJEZE_334168d74891da9365020af645acfe23_37354&search_date=26082026&expected_price_uuid=01a04081-8ca2-8030-e37e-8dc618172a7e&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=BzA3K5PZ8SWJekWfVLFXwA&expected_price_source=share&expected_price_currency=mxn&expected_price=7507",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261026-334168d7/"
   },
   {
    "id": "08b1d96afe65958c10b36e8ce0a460d9",
@@ -190,24 +190,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270108-4bf0c3f1/"
   },
   {
-   "id": "754e26bf17cc069ec3ce237ef40f7cf5",
+   "id": "ef314bc58b776bc68a912d48f918fe38",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "ALA",
    "destination_name": "Alma Ata",
-   "airline": "OR",
-   "airline_title": "TUIfly Netherlands",
-   "logo": "https://pics.avs.io/600/150/OR.png",
+   "airline": "Z0",
+   "airline_title": "Norse Atlantic UK",
+   "logo": "https://pics.avs.io/600/150/Z0.png",
    "logo_tipo": "",
-   "price": 11475.0,
+   "price": 12501.0,
    "currency": "MXN",
-   "departure_at": "2026-10-03T11:54:00-05:00",
+   "departure_at": "2026-10-04T11:05:00-05:00",
    "return_at": "",
-   "duration": 1901,
-   "link": "https://www.aviasales.com/search/MEX0310ALA1?t=OR17910284401791182100001901NLUCUNAMSESBALA_754e26bf17cc069ec3ce237ef40f7cf5_57101&search_date=26082026&expected_price_uuid=01a03f73-cde5-8040-6cd2-1b2fbcdbed5f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YjhXJ1G0Sv9jxzuxSxldgg&expected_price_source=share&expected_price_currency=mxn&expected_price=11475",
+   "duration": 1950,
+   "link": "https://www.aviasales.com/search/MEX0410ALA1?t=Z017911119001791268500001950MEXMCOLGWAYTESBALA_ef314bc58b776bc68a912d48f918fe38_62206&search_date=26082026&expected_price_uuid=01a03f75-7abe-8040-6d86-db26dc1a55ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KoFCdKKgpIa5dpauCKHHkA&expected_price_source=share&expected_price_currency=mxn&expected_price=12501",
    "title": "Flight deals from Mexico City to Almaty",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20261003-754e26bf/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20261004-ef314bc5/"
   },
   {
    "id": "f02b409811bd0799f5d77e436173833f",

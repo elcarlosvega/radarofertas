@@ -1,6 +1,6 @@
 {
- "generated_at": 1787857443.6732826,
- "generated_at_str": "27/08/2026 13:04",
+ "generated_at": 1787861043.9601526,
+ "generated_at_str": "27/08/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "5371de2d433f3567b7493f76cbfea86f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GUA",
+   "destination_name": "Guatemala",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2037.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-17T08:25:00-06:00",
+   "return_at": "",
+   "duration": 317,
+   "link": "https://www.aviasales.com/search/MEX1701GUA1?t=Y418001743001800193320000317TLCCUNGUA_5371de2d433f3567b7493f76cbfea86f_10309&search_date=27082026&expected_price_uuid=01a044bd-3a1e-8040-aae6-24f20508cfaf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=h1rg3lhyqV7LL_cISX1Zog&expected_price_source=share&expected_price_currency=mxn&expected_price=2037",
+   "title": "Flight deals from Mexico City to Guatemala City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20270117-5371de2d/"
+  },
   {
    "id": "86cfbd18176cc5e8819eef40672a032b",
    "kind": "flight",
@@ -88,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX0902LON1?t=AF18022029001802274300000830MEXCDGLGW_f9ef17ff3394e396f5056fd95bf5aabd_49596&search_date=27082026&expected_price_uuid=01a043d7-3c47-8030-e7e5-ddc807fc5c8a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fda6L832odmqp2mh1tYQ_Q&expected_price_source=share&expected_price_currency=mxn&expected_price=9775",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270209-f9ef17ff/"
+  },
+  {
+   "id": "7cc05aacb3627a5a02045a6c46ee323b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CAI",
+   "destination_name": "El Cairo",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 13068.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-14T22:05:00-05:00",
+   "return_at": "",
+   "duration": 1105,
+   "link": "https://www.aviasales.com/search/MEX1410CAI1?t=AF17920155001792114200001105MEXCDGCAI_7cc05aacb3627a5a02045a6c46ee323b_66153&search_date=27082026&expected_price_uuid=01a0449f-c12a-8040-6e0f-d862263faefc&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=aaWEU-9Z_40BDBIrZqD3CA&expected_price_source=share&expected_price_currency=mxn&expected_price=13068",
+   "title": "Flight deals from Mexico City to Cairo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-el-cairo-20261014-7cc05aac/"
   },
   {
    "id": "dfc2e377e1980cb47c245506c356dc36",

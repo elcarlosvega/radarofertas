@@ -1,6 +1,6 @@
 {
- "generated_at": 1787904308.0747306,
- "generated_at_str": "28/08/2026 02:05",
+ "generated_at": 1787907922.9184139,
+ "generated_at_str": "28/08/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1514,24 +1514,6 @@
    "h_ayer": 909.29
   },
   {
-   "id": "654437",
-   "name": "Kenzo Amour, 100 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Kenzo-Amour-100-ml/p/654437",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/hb8/12260028907550.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1299.0,
-   "price_new": 909.3,
-   "pct": 30.0,
-   "amount": 389.7,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-08-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787562335.0101256,
-   "h_dias": 5,
-   "h_min": 909.3,
-   "h_ayer": 909.3
-  },
-  {
    "id": "628257",
    "name": "Lacoste Blanc 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Lacoste-Blanc-100-ml/p/628257",
@@ -1549,6 +1531,24 @@
    "h_min": 909.3,
    "h_ayer": 909.3,
    "h_min7": 909.3
+  },
+  {
+   "id": "654437",
+   "name": "Kenzo Amour, 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Kenzo-Amour-100-ml/p/654437",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/hb8/12260028907550.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1299.0,
+   "price_new": 909.3,
+   "pct": 30.0,
+   "amount": 389.7,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 5,
+   "h_min": 909.3,
+   "h_ayer": 909.3
   },
   {
    "id": "692975",
@@ -10903,25 +10903,6 @@
    "h_ayer": 524.25
   },
   {
-   "id": "520742",
-   "name": "FotoUltra 100 Active Unify Color 50 ml Isdin",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/FotoUltra-100-Active-Unify-Color-50-ml-Isdin/p/520742",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h51/he9/369070473969694.jpg",
-   "category": "Grocery",
-   "price_old": 689.0,
-   "price_new": 516.75,
-   "pct": 25.0,
-   "amount": 172.25,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787562335.0101256,
-   "h_dias": 31,
-   "h_min": 516.75,
-   "h_ayer": 516.75,
-   "h_min7": 516.75
-  },
-  {
    "id": "603081",
    "name": "Redustat Orlistat 90 cápsulas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Redustat-Orlistat-90-capsulas/p/603081",
@@ -10936,6 +10917,25 @@
    "in_stock": true,
    "first_seen": 1787562335.0101256,
    "h_dias": 11,
+   "h_min": 516.75,
+   "h_ayer": 516.75,
+   "h_min7": 516.75
+  },
+  {
+   "id": "520742",
+   "name": "FotoUltra 100 Active Unify Color 50 ml Isdin",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/FotoUltra-100-Active-Unify-Color-50-ml-Isdin/p/520742",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h51/he9/369070473969694.jpg",
+   "category": "Grocery",
+   "price_old": 689.0,
+   "price_new": 516.75,
+   "pct": 25.0,
+   "amount": 172.25,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 31,
    "h_min": 516.75,
    "h_ayer": 516.75,
    "h_min7": 516.75
@@ -17354,6 +17354,25 @@
    "h_min": 9899.0,
    "h_ayer": 9899.0,
    "h_min7": 9899.0
+  },
+  {
+   "id": "330719",
+   "name": "Sauna Infrarrojo Dynamic Barcelona Low EMF, 1 a 2 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Dynamic-Barcelona-Low-EMF-1-a-2-Personas/p/330719",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfd/hfa/11038487773214.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 59999.0,
+   "price_new": 49999.0,
+   "pct": 16.7,
+   "amount": 10000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-08-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 31,
+   "h_min": 46999.0,
+   "h_ayer": 49999.0,
+   "h_min7": 46999.0
   },
   {
    "id": "590187",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787875442.079027,
- "generated_at_str": "27/08/2026 18:12",
+ "generated_at": 1787879042.1252604,
+ "generated_at_str": "27/08/2026 19:12",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -412,6 +412,24 @@
    "first_seen": 1786089841.6790075,
    "in_stock": true,
    "h_dias": 21,
+   "h_min": 3600.0,
+   "h_ayer": 3600.0,
+   "h_min7": 3600.0
+  },
+  {
+   "id": "1300319880",
+   "name": "OPPO Reno 12 5G 512GB AT&T Gris",
+   "url": "https://www.elektra.mx/oppo-reno-12-5g-512gb-att-gris-31060788/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/14080564/31060788.jpg?v=638863933833970000",
+   "category": "Telefonía",
+   "price_old": 11999.0,
+   "price_new": 3600.0,
+   "pct": 70.0,
+   "amount": 8399.0,
+   "ends": "",
+   "first_seen": 1787879042.1252604,
+   "in_stock": true,
+   "h_dias": 29,
    "h_min": 3600.0,
    "h_ayer": 3600.0,
    "h_min7": 3600.0
@@ -11158,24 +11176,6 @@
    "h_min7": 3649.0
   },
   {
-   "id": "1301165741",
-   "name": "Comedor Rectangular Cristal con Patas Nogal y 4 Sillas Negro/Nogal Estilo Nórdico",
-   "url": "https://www.elektra.mx/comedor-rectangular-cristal-con-patas-nogal-y-4-sillas-negronogal-estilo-nordico-1301165741/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/24141736/MESA-T5-SET-4-SILLAS-OSLO-NOGAL-NEGRA.jpg?v=639082798911170000",
-   "category": "Muebles",
-   "price_old": 7199.0,
-   "price_new": 3359.0,
-   "pct": 53.3,
-   "amount": 3840.0,
-   "ends": "",
-   "first_seen": 1787249042.4120498,
-   "in_stock": true,
-   "h_dias": 29,
-   "h_min": 3359.0,
-   "h_ayer": 3359.0,
-   "h_min7": 3359.0
-  },
-  {
    "id": "1301166525",
    "name": "Motocicleta de Trabajo Italika FT200 GTS Gris con GPS",
    "url": "https://www.elektra.mx/motocicleta-de-trabajo-italika-ft200-gts-gris-con-gps-34007052/p",
@@ -14441,24 +14441,6 @@
    "h_min": 3999.0,
    "h_ayer": 3999.0,
    "h_min7": 3999.0
-  },
-  {
-   "id": "1301199057",
-   "name": "Comedor Circular Negro con 4 Sillas Negras Estilo Moderno",
-   "url": "https://www.elektra.mx/comedor-circular-negro-con-4-sillas-negras-estilo-moderno-1301199057/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/24140301/MESA_OSLO_80_NEGRO_SILLA_OSLO_EAMES_NEGRO_fdzh0r.jpg?v=639082794190730000",
-   "category": "Muebles",
-   "price_old": 5769.0,
-   "price_new": 2779.0,
-   "pct": 51.8,
-   "amount": 2990.0,
-   "ends": "",
-   "first_seen": 1785945841.987068,
-   "in_stock": true,
-   "h_dias": 23,
-   "h_min": 2779.0,
-   "h_ayer": 2779.0,
-   "h_min7": 2779.0
   },
   {
    "id": "1301800456",
@@ -20903,6 +20885,24 @@
    "h_min7": 450.0
   },
   {
+   "id": "1300816473",
+   "name": "Honor 400 Lite 256GB Libre Verde",
+   "url": "https://www.elektra.mx/honor-400-lite-256gb-libre-verde-31063022/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/19636968/31063022.jpg?v=638981434917170000",
+   "category": "Telefonía",
+   "price_old": 6999.0,
+   "price_new": 3849.0,
+   "pct": 45.0,
+   "amount": 3150.0,
+   "ends": "",
+   "first_seen": 1787879042.1252604,
+   "in_stock": true,
+   "h_dias": 23,
+   "h_min": 3849.0,
+   "h_ayer": 3849.0,
+   "h_min7": 3849.0
+  },
+  {
    "id": "1300467462",
    "name": "Licuadora Taurus Mod. MENINA GLASS ECO 2V vaso de vidrio",
    "url": "https://www.elektra.mx/licuadora-taurus-mod-menina-glass-eco-2v-vaso-de-vidrio-1300467462/p",
@@ -22137,6 +22137,22 @@
    "h_dias": 3,
    "h_min": 2633.0,
    "h_ayer": 2633.0
+  },
+  {
+   "id": "1300056007",
+   "name": "Torre para Gatos de 1.4 m, con Múltiples Niveles.",
+   "url": "https://www.elektra.mx/torre-para-gatos-de-14-m-con-multiples-niveles-1300056007/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/15487473/image-b12ce952416c46b8aa056b2daa4cba4c.jpg?v=638896701540370000",
+   "category": "Mascotas",
+   "price_old": 1399.0,
+   "price_new": 659.0,
+   "pct": 52.9,
+   "amount": 740.0,
+   "ends": "",
+   "first_seen": 1787879042.1252604,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 659.0
   },
   {
    "id": "1300638812",
@@ -23654,24 +23670,6 @@
    "h_dias": 4,
    "h_min": 5915.0,
    "h_ayer": 5915.0
-  },
-  {
-   "id": "1300796012",
-   "name": "Set de aseo para perros y gatos",
-   "url": "https://www.elektra.mx/set-de-aseo-para-perros-y-gatos-1300796012/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/16345566/DI550.jpg?v=639051328880430000",
-   "category": "Mascotas",
-   "price_old": 1000.0,
-   "price_new": 460.0,
-   "pct": 54.0,
-   "amount": 540.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true,
-   "h_dias": 30,
-   "h_min": 460.0,
-   "h_ayer": 460.0,
-   "h_min7": 460.0
   },
   {
    "id": "1300914243",
@@ -27520,24 +27518,6 @@
    "h_min7": 758.0
   },
   {
-   "id": "1301185207",
-   "name": "Set de 4 Sillas de Comedor Acolchadas Color Rosa Estilo Nórdico",
-   "url": "https://www.elektra.mx/set-de-4-sillas-de-comedor-acolchadas-color-rosa-estilo-nordico-1301185207/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/24140391/SILLA_FRANKFURT_ROSA_f8lsfa.jpg?v=639082794470600000",
-   "category": "Muebles",
-   "price_old": 3599.0,
-   "price_new": 2099.0,
-   "pct": 41.7,
-   "amount": 1500.0,
-   "ends": "",
-   "first_seen": 1785351302.2067385,
-   "in_stock": true,
-   "h_dias": 30,
-   "h_min": 2099.0,
-   "h_ayer": 2099.0,
-   "h_min7": 2099.0
-  },
-  {
    "id": "1300612327",
    "name": "Parrilla de Mesa a Gas LP HKPRO HK-PG4Q Negra",
    "url": "https://www.elektra.mx/parrilla-de-mesa-a-gas-lp-hkpro-hk-pg4q-negra-6003733-1300612327/p",
@@ -27715,6 +27695,24 @@
    "h_min": 626.0,
    "h_ayer": 632.0,
    "h_min7": 632.0
+  },
+  {
+   "id": "1301968739",
+   "name": "CUBOT A20 4/128 GB 6.47\"+ 1.83\" Negro",
+   "url": "https://www.elektra.mx/cubot-a20-4128-gb-647-183-negro-1301968739/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/30560312/6924136725184-principal.jpg?v=639192342057270000",
+   "category": "Telefonía",
+   "price_old": 3999.0,
+   "price_new": 2359.0,
+   "pct": 41.0,
+   "amount": 1640.0,
+   "ends": "",
+   "first_seen": 1787879042.1252604,
+   "in_stock": true,
+   "h_dias": 18,
+   "h_min": 2359.0,
+   "h_ayer": 2359.0,
+   "h_min7": 2359.0
   },
   {
    "id": "1301159957",
@@ -29001,24 +28999,6 @@
    "h_min": 958.0,
    "h_ayer": 958.0,
    "h_min7": 958.0
-  },
-  {
-   "id": "1301760509",
-   "name": "Tenis Nike Air Force 1",
-   "url": "https://www.elektra.mx/tenis-nike-air-force-1-1301760509/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/26860020/7503058039723.jpg?v=639102710262170000",
-   "category": "Zapatos",
-   "price_old": 3000.0,
-   "price_new": 1798.0,
-   "pct": 40.1,
-   "amount": 1202.0,
-   "ends": "",
-   "first_seen": 1787850241.905345,
-   "in_stock": true,
-   "h_dias": 13,
-   "h_min": 1798.0,
-   "h_ayer": 1798.0,
-   "h_min7": 1798.0
   },
   {
    "id": "1300000107",

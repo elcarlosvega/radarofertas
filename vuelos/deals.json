@@ -1,6 +1,6 @@
 {
- "generated_at": 1787882643.5420415,
- "generated_at_str": "27/08/2026 20:04",
+ "generated_at": 1787886243.8836062,
+ "generated_at_str": "27/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-municipio-de-puebla-tijuana-20260909-7460650e/"
   },
   {
-   "id": "32694b6db2e5ae0dc9bccc9d523a0579",
+   "id": "41626d3f04c6bc555c72d650fcef9fe8",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -40,14 +40,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2737.0,
+   "price": 2670.0,
    "currency": "MXN",
-   "departure_at": "2026-09-17T15:08:00-05:00",
+   "departure_at": "2026-11-02T09:05:00-06:00",
    "return_at": "",
-   "duration": 432,
-   "link": "https://www.aviasales.com/search/MEX1709NYC1?t=VB17896576801789690800000432TLCMTYJFK_32694b6db2e5ae0dc9bccc9d523a0579_13859&search_date=27082026&expected_price_uuid=01a044f3-bbb2-8040-2ff8-0ac16a7b0bef&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KLoLNRHF6EtKL8zfbqSd-w&expected_price_source=share&expected_price_currency=mxn&expected_price=2737",
+   "duration": 855,
+   "link": "https://www.aviasales.com/search/MEX0211NYC1?t=VB17936103001793665200000855TLCMTYJFK_41626d3f04c6bc555c72d650fcef9fe8_13511&search_date=27082026&expected_price_uuid=01a04590-94e1-8030-a312-0dd601d74d87&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gvmogYokXTRLw4OeOtLD0Q&expected_price_source=share&expected_price_currency=mxn&expected_price=2670",
    "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260917-32694b6d/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261102-41626d3f/"
   },
   {
    "id": "09dd3a91b573cea57d8e32918cf5c117",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260906-09dd3a91/"
   },
   {
-   "id": "42b1ebc735c012035d53ef30f6b7e648",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3037.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-31T10:05:00-05:00",
-   "return_at": "",
-   "duration": 191,
-   "link": "https://www.aviasales.com/search/MEX3108MIA1?t=Y417881707001788189360000191MEXMIA_42b1ebc735c012035d53ef30f6b7e648_15373&search_date=28082026&expected_price_uuid=01a045fe-eded-8040-27f7-746495c46779&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=3037",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260831-42b1ebc7/"
-  },
-  {
    "id": "04a4e3e749763b3f0cdd1a26950c9c38",
    "kind": "flight",
    "origin": "MEX",
@@ -110,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
   },
   {
-   "id": "14a97067b403f53b1cea6f44723a2aca",
+   "id": "98b4c131d7af6d5e0c9019d8d1209de6",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "EVN",
-   "destination_name": "Ereván",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
+   "destination": "MIA",
+   "destination_name": "Miami",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 6958.0,
+   "price": 4309.0,
    "currency": "MXN",
-   "departure_at": "2026-11-12T01:15:00-06:00",
+   "departure_at": "2026-08-30T10:05:00-05:00",
    "return_at": "",
-   "duration": 3310,
-   "link": "https://www.aviasales.com/search/MEX1211EVN1?t=WS17944461001794680700003310MEXYYCFCOOTPEVN_14a97067b403f53b1cea6f44723a2aca_35230&search_date=27082026&expected_price_uuid=01a044f3-f66b-8051-23a2-730cd004b1f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Po1ea7EQOzL_q7yZ6ggF4A&expected_price_source=share&expected_price_currency=mxn&expected_price=6958",
-   "title": "Flight deals from Mexico City to Yerevan",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261112-14a97067/"
+   "duration": 191,
+   "link": "https://www.aviasales.com/search/MEX3008MIA1?t=Y417880843001788102960000191MEXMIA_98b4c131d7af6d5e0c9019d8d1209de6_21822&search_date=28082026&expected_price_uuid=01a04650-2c25-8040-a37f-9804b2edb46a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=4309",
+   "title": "Flight deals from Mexico City to Miami",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260830-98b4c131/"
   },
   {
    "id": "3230d8da00dff5e72f0218c7c2820aa2",

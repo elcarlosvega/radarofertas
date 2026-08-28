@@ -1,6 +1,6 @@
 {
- "generated_at": 1787875443.5594218,
- "generated_at_str": "27/08/2026 18:04",
+ "generated_at": 1787879043.6811476,
+ "generated_at_str": "27/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261112-14a97067/"
   },
   {
+   "id": "3230d8da00dff5e72f0218c7c2820aa2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 10332.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-31T06:20:00-05:00",
+   "return_at": "",
+   "duration": 1745,
+   "link": "https://www.aviasales.com/search/MEX3108DXB1?t=QR17881572001788297900001745MEXIAHDOHDXB_3230d8da00dff5e72f0218c7c2820aa2_52291&search_date=27082026&expected_price_uuid=01a0457c-d694-8030-e57a-d6e5c9f1e640&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KOPRiClNaNDS0SeGBqGU-Q&expected_price_source=share&expected_price_currency=mxn&expected_price=10332",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260831-3230d8da/"
+  },
+  {
    "id": "8053ce95dcdf37fe849ea029be4e884e",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX0901TYO1?t=AM17995263001799649000001145MEXMTYNRT_c075381691f730259985c6422020585f_69536&search_date=27082026&expected_price_uuid=01a0458a-6134-8030-a16a-b09c297b73fd&static_fare_key=TY%7CP0%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=-T4AhcY034lJHIdwwltP9g&expected_price_source=share&expected_price_currency=mxn&expected_price=13739",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270109-c0753816/"
-  },
-  {
-   "id": "dfc2e377e1980cb47c245506c356dc36",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 15524.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-15T17:20:00-05:00",
-   "return_at": "",
-   "duration": 1155,
-   "link": "https://www.aviasales.com/search/MEX1510DXB1?t=AF17920848001792190100001155MEXCDGDXB_dfc2e377e1980cb47c245506c356dc36_78582&search_date=27082026&expected_price_uuid=01a0447a-bd53-8051-2e3d-07c5ff333d4a&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=qPVpifhCJv7wUaFYZr2fEg&expected_price_source=share&expected_price_currency=mxn&expected_price=15524",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261015-dfc2e377/"
   }
  ]
 }

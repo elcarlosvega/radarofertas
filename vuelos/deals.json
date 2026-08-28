@@ -1,6 +1,6 @@
 {
- "generated_at": 1787943847.8584738,
- "generated_at_str": "28/08/2026 13:04",
+ "generated_at": 1787947445.3170748,
+ "generated_at_str": "28/08/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "be0dbdb5e67f47666ffc47b486788f1e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 675.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-07T22:56:00-05:00",
-   "return_at": "",
-   "duration": 105,
-   "link": "https://www.aviasales.com/search/MEX0709MID1?t=VB17888217601788828060000105NLUMID_be0dbdb5e67f47666ffc47b486788f1e_3399&search_date=28082026&expected_price_uuid=01a048a5-cf3a-8051-2756-c064e6d779ea&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KK37MbyhUtaZbZXSX72tVw&expected_price_source=share&expected_price_currency=mxn&expected_price=675",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260907-be0dbdb5/"
-  },
   {
    "id": "37f9ef8a6ee761d6bb9b4347b93f79ad",
    "kind": "flight",
@@ -108,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX0101LIM1?t=Y417988408001798865700000355MEXLIM_bba7e077e4b4e5836b074b1125bc2fa2_20671&search_date=28082026&expected_price_uuid=01a048de-e8ae-8050-a32d-0482cfed78c0&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4090",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270101-bba7e077/"
+  },
+  {
+   "id": "bcfc5610e88e198daab2532a62571165",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DEN",
+   "destination_name": "Denver",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 5081.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-30T08:40:00-05:00",
+   "return_at": "",
+   "duration": 219,
+   "link": "https://www.aviasales.com/search/MEX3008DEN1?t=Y417880792001788092340000219MEXDEN_bcfc5610e88e198daab2532a62571165_25676&search_date=28082026&expected_price_uuid=01a049aa-b895-8040-a391-100afe265c72&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-6qArSZdLED7sk2GSzn1Yg&expected_price_source=share&expected_price_currency=mxn&expected_price=5081",
+   "title": "Flight deals from Mexico City to Denver",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denver-20260830-bcfc5610/"
   },
   {
    "id": "982a14a78b8e9f989a042bd21c9f598d",

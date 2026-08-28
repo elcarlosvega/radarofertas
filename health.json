@@ -54,10 +54,10 @@
    "micro_pages": 120
   },
   "elektra": {
-   "last_attempt": 1787954642.1486032,
-   "items": 1772,
-   "status": "ok",
-   "reason": "",
+   "last_attempt": 1787958242.2781043,
+   "items": 0,
+   "status": "down",
+   "reason": "[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2580)",
    "host": "pc",
    "last_complete_sweep": 1787954642.1486032,
    "micro_pages": 12
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1787958279.0761023
+ "updated_at": 1787958307.1775696
 }

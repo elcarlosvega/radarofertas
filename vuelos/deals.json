@@ -1,6 +1,6 @@
 {
- "generated_at": 1787972645.6804838,
- "generated_at_str": "28/08/2026 21:04",
+ "generated_at": 1787976245.3716168,
+ "generated_at_str": "28/08/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-roma-20270303-095c395f/"
   },
   {
-   "id": "69542201308366266a01c16f3aa8a27a",
+   "id": "6f2cdd6ca6c50101e5604ac9bd04fe98",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "DXB",
    "destination_name": "Dubái",
-   "airline": "SV",
-   "airline_title": "Saudia",
-   "logo": "https://pics.avs.io/600/150/SV.png",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 10748.0,
+   "price": 9967.0,
    "currency": "MXN",
-   "departure_at": "2026-08-31T15:05:00-05:00",
+   "departure_at": "2026-09-15T06:20:00-05:00",
    "return_at": "",
-   "duration": 2095,
-   "link": "https://www.aviasales.com/search/MEX3108DXB1?t=SV17881887001788350400002095TLCMTYJFKRUHDXB_69542201308366266a01c16f3aa8a27a_54355&search_date=28082026&expected_price_uuid=01a04aa3-2b80-8030-a146-0eb7adbcae27&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pVBB1-0vVlbRfvTo1BLI5w&expected_price_source=share&expected_price_currency=mxn&expected_price=10748",
+   "duration": 1745,
+   "link": "https://www.aviasales.com/search/MEX1509DXB1?t=QR17894532001789593900001745MEXIAHDOHDXB_6f2cdd6ca6c50101e5604ac9bd04fe98_50408&search_date=29082026&expected_price_uuid=01a04b6d-8075-8040-a59e-070f6a48a03a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=avtcJFgoHrA3s45_RO7Y9w&expected_price_source=share&expected_price_currency=mxn&expected_price=9967",
    "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260831-69542201/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260915-6f2cdd6c/"
   },
   {
    "id": "7f2af947f19be98be7ae67db74bb81f3",

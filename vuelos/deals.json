@@ -1,6 +1,6 @@
 {
- "generated_at": 1787969048.0573273,
- "generated_at_str": "28/08/2026 20:04",
+ "generated_at": 1787972645.6804838,
+ "generated_at_str": "28/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0109CUU1?t=Y417882442001788268860000411NLUGDLCUU_4848a17059ea2e840d186680039f29fc_6479&search_date=29082026&expected_price_uuid=01a04b2e-7058-8040-2cb0-fe96170f2d3b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QAcDomn4hR0TxWdwJT81Ew&expected_price_source=share&expected_price_currency=mxn&expected_price=1281",
    "title": "Flight deals from Mexico City to Chihuahua",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chihuahua-20260901-4848a170/"
-  },
-  {
-   "id": "80d24172eb4087733d4264e24e401d62",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3560.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-18T17:15:00-05:00",
-   "return_at": "",
-   "duration": 585,
-   "link": "https://www.aviasales.com/search/MEX1809NYC1?t=Y417897517001789794000000585NLUGDLEWR_80d24172eb4087733d4264e24e401d62_18006&search_date=28082026&expected_price_uuid=01a04a17-ded7-8040-ae6b-1424b56eabed&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3TUNV3tGYqU4wXIH3DN10w&expected_price_source=share&expected_price_currency=mxn&expected_price=3560",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260918-80d24172/"
   },
   {
    "id": "04a4e3e749763b3f0cdd1a26950c9c38",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX3108DXB1?t=SV17881887001788350400002095TLCMTYJFKRUHDXB_69542201308366266a01c16f3aa8a27a_54355&search_date=28082026&expected_price_uuid=01a04aa3-2b80-8030-a146-0eb7adbcae27&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pVBB1-0vVlbRfvTo1BLI5w&expected_price_source=share&expected_price_currency=mxn&expected_price=10748",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260831-69542201/"
+  },
+  {
+   "id": "7f2af947f19be98be7ae67db74bb81f3",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 11124.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-02T11:35:00-05:00",
+   "return_at": "",
+   "duration": 2320,
+   "link": "https://www.aviasales.com/search/MEX0209BJS1?t=HU17883489001788538500002320MEXIAHLAXYVRSZXPEK_7f2af947f19be98be7ae67db74bb81f3_56259&search_date=28082026&expected_price_uuid=01a04aa4-422f-8030-2b36-b0c2a908db3f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=8C_sBi7BvGdqjrBvrj7TUw&expected_price_source=share&expected_price_currency=mxn&expected_price=11124",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260902-7f2af947/"
   },
   {
    "id": "03169f877e6b79aa68a3bc3c92a78ac0",

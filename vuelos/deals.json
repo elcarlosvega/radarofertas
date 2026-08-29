@@ -1,6 +1,6 @@
 {
- "generated_at": 1788037444.1172206,
- "generated_at_str": "29/08/2026 15:04",
+ "generated_at": 1788041043.7782068,
+ "generated_at_str": "29/08/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0112CUN1?t=VB17961469201796158500000133TLCCUN_2d35d1f88461a6de61572cd77a9495e9_5978&search_date=29082026&expected_price_uuid=01a04f40-534e-8040-aa51-34ace4a223b1&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=bFhvq8tY2kGzLRLq_iTBxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1182",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261201-2d35d1f8/"
-  },
-  {
-   "id": "ac30ce3ed649babdf4f2c10e42d0531b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJC",
-   "destination_name": "San José",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3441.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-13T10:00:00-05:00",
-   "return_at": "",
-   "duration": 390,
-   "link": "https://www.aviasales.com/search/MEX1310SJC1?t=Y417918856001791905400000390MEXGDLSJC_ac30ce3ed649babdf4f2c10e42d0531b_17403&search_date=29082026&expected_price_uuid=01a04e2a-1362-8040-6c9e-e382f2e79b99&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=45p1KATe-hAQb1yFPMxPtw&expected_price_source=share&expected_price_currency=mxn&expected_price=3441",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261013-ac30ce3e/"
   },
   {
    "id": "d063073111a2eeb1e629b7dd9cbd7567",
@@ -128,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX1909MAD1?t=IB17898304801789909500000837TLCMTYMAD_a8ba517adf4d6419c74c648b93dcc28f_41999&search_date=29082026&expected_price_uuid=01a04f40-0464-8040-6571-4879beb7db5e&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=WBiNr_anKrO6omwOjBRYkA&expected_price_source=share&expected_price_currency=mxn&expected_price=8305",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260919-a8ba517a/"
+  },
+  {
+   "id": "a1a066999230832c53ec7853c0ee7491",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HKT",
+   "destination_name": "Phuket",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 9509.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-31T10:45:00-06:00",
+   "return_at": "",
+   "duration": 2735,
+   "link": "https://www.aviasales.com/search/MEX3110HKT1?t=CZ17934435001793654400002735TLCPVRYVRCANBKKDMKHKT_a1a066999230832c53ec7853c0ee7491_48088&search_date=29082026&expected_price_uuid=01a04eb2-a473-8030-2646-57fa4014943a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=eOBOYS5J6LlW8EVLafZo1g&expected_price_source=share&expected_price_currency=mxn&expected_price=9509",
+   "title": "Flight deals from Mexico City to Phuket",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261031-a1a06699/"
   },
   {
    "id": "6f2cdd6ca6c50101e5604ac9bd04fe98",

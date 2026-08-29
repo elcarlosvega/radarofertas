@@ -1,6 +1,6 @@
 {
- "generated_at": 1787979845.3717823,
- "generated_at_str": "28/08/2026 23:04",
+ "generated_at": 1787983445.615759,
+ "generated_at_str": "29/08/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chihuahua-20260901-4848a170/"
   },
   {
-   "id": "04a4e3e749763b3f0cdd1a26950c9c38",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PUJ",
-   "destination_name": "Punta Cana",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3770.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-19T16:36:00-05:00",
-   "return_at": "",
-   "duration": 279,
-   "link": "https://www.aviasales.com/search/MEX1910PUJ1?t=DM17924277601792451700000279NLUPUJ_04a4e3e749763b3f0cdd1a26950c9c38_19065&search_date=28082026&expected_price_uuid=01a04ab2-29b9-8030-a180-a206237ed6b0&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Bk-waovL4x8RdU9iE3SyWw&expected_price_source=share&expected_price_currency=mxn&expected_price=3770",
-   "title": "Flight deals from Mexico City to Punta Cana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
-  },
-  {
    "id": "095c395fac6695fd8ff5c644f8f8ef62",
    "kind": "flight",
    "origin": "MEX",
@@ -110,44 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260915-6f2cdd6c/"
   },
   {
-   "id": "7f2af947f19be98be7ae67db74bb81f3",
+   "id": "be86cc3d7c02d626535e5eb2598aa2d9",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 11124.0,
+   "price": 22049.0,
    "currency": "MXN",
-   "departure_at": "2026-09-02T11:35:00-05:00",
+   "departure_at": "2026-09-17T09:00:00-05:00",
    "return_at": "",
-   "duration": 2320,
-   "link": "https://www.aviasales.com/search/MEX0209BJS1?t=HU17883489001788538500002320MEXIAHLAXYVRSZXPEK_7f2af947f19be98be7ae67db74bb81f3_56259&search_date=28082026&expected_price_uuid=01a04aa4-422f-8030-2b36-b0c2a908db3f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=8C_sBi7BvGdqjrBvrj7TUw&expected_price_source=share&expected_price_currency=mxn&expected_price=11124",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260902-7f2af947/"
-  },
-  {
-   "id": "03169f877e6b79aa68a3bc3c92a78ac0",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAN",
-   "destination_name": "Hanói",
-   "airline": "UA",
-   "airline_title": "United Airlines",
-   "logo": "https://pics.avs.io/600/150/UA.png",
-   "logo_tipo": "",
-   "price": 12811.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-31T19:55:00-05:00",
-   "return_at": "",
-   "duration": 3680,
-   "link": "https://www.aviasales.com/search/MEX3108HAN1?t=UA17882061001788473700003680MEXLAXSFONRTHAN_03169f877e6b79aa68a3bc3c92a78ac0_64791&search_date=28082026&expected_price_uuid=01a04aa3-46f0-8030-ed65-e76fec9084d8&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=9kRKRhJd3obLkZEUu7_Amw&expected_price_source=share&expected_price_currency=mxn&expected_price=12811",
-   "title": "Flight deals from Mexico City to Hanoi",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hanoi-20260831-03169f87/"
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX1709IST1?t=TK17896356001789726800000980MEXIST_be86cc3d7c02d626535e5eb2598aa2d9_111510&search_date=29082026&expected_price_uuid=01a04c03-a7cf-8050-256e-a26aa63d0d8e&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=22049",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260917-be86cc3d/"
   }
  ]
 }

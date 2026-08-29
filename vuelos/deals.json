@@ -1,6 +1,6 @@
 {
- "generated_at": 1787976245.3716168,
- "generated_at_str": "28/08/2026 22:04",
+ "generated_at": 1787979845.3717823,
+ "generated_at_str": "28/08/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX1910PUJ1?t=DM17924277601792451700000279NLUPUJ_04a4e3e749763b3f0cdd1a26950c9c38_19065&search_date=28082026&expected_price_uuid=01a04ab2-29b9-8030-a180-a206237ed6b0&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Bk-waovL4x8RdU9iE3SyWw&expected_price_source=share&expected_price_currency=mxn&expected_price=3770",
    "title": "Flight deals from Mexico City to Punta Cana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
-  },
-  {
-   "id": "0025b34e44fc5af3fc65909b9798d8e3",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LON",
-   "destination_name": "Londres",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 9743.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-01T23:05:00-06:00",
-   "return_at": "",
-   "duration": 795,
-   "link": "https://www.aviasales.com/search/MEX0102LON1?t=AF18015231001801592400000795MEXCDGLHR_0025b34e44fc5af3fc65909b9798d8e3_49275&search_date=28082026&expected_price_uuid=01a04a6f-0e1e-8030-6c59-5a86c09cda25&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5NZuf2UA3iIkS98G5lLnwA&expected_price_source=share&expected_price_currency=mxn&expected_price=9743",
-   "title": "Flight deals from Mexico City to London",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270201-0025b34e/"
   },
   {
    "id": "095c395fac6695fd8ff5c644f8f8ef62",
@@ -168,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX3108HAN1?t=UA17882061001788473700003680MEXLAXSFONRTHAN_03169f877e6b79aa68a3bc3c92a78ac0_64791&search_date=28082026&expected_price_uuid=01a04aa3-46f0-8030-ed65-e76fec9084d8&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=9kRKRhJd3obLkZEUu7_Amw&expected_price_source=share&expected_price_currency=mxn&expected_price=12811",
    "title": "Flight deals from Mexico City to Hanoi",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hanoi-20260831-03169f87/"
-  },
-  {
-   "id": "aca7a5604fe5526e7b1187b650f35a78",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 19999.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-01T22:20:00-06:00",
-   "return_at": "",
-   "duration": 1030,
-   "link": "https://www.aviasales.com/search/MEX0102IST1?t=AM18015204001801614600001030MEXCDGIST_aca7a5604fe5526e7b1187b650f35a78_101141&search_date=28082026&expected_price_uuid=01a04a6e-4aec-8030-2196-0cfe1013b2d3&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=19999",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270201-aca7a560/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1787961847.6781788,
- "generated_at_str": "28/08/2026 18:04",
+ "generated_at": 1787965448.2772603,
+ "generated_at_str": "28/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
   },
   {
-   "id": "bcfc5610e88e198daab2532a62571165",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DEN",
-   "destination_name": "Denver",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5077.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-30T08:40:00-05:00",
-   "return_at": "",
-   "duration": 219,
-   "link": "https://www.aviasales.com/search/MEX3008DEN1?t=Y417880792001788092340000219MEXDEN_bcfc5610e88e198daab2532a62571165_25676&search_date=28082026&expected_price_uuid=01a049aa-b895-8040-a391-100afe265c72&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-6qArSZdLED7sk2GSzn1Yg&expected_price_source=share&expected_price_currency=mxn&expected_price=5077",
-   "title": "Flight deals from Mexico City to Denver",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denver-20260830-bcfc5610/"
-  },
-  {
    "id": "0025b34e44fc5af3fc65909b9798d8e3",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0102LON1?t=AF18015231001801592400000795MEXCDGLHR_0025b34e44fc5af3fc65909b9798d8e3_49275&search_date=28082026&expected_price_uuid=01a04a6f-0e1e-8030-6c59-5a86c09cda25&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5NZuf2UA3iIkS98G5lLnwA&expected_price_source=share&expected_price_currency=mxn&expected_price=9743",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270201-0025b34e/"
+  },
+  {
+   "id": "095c395fac6695fd8ff5c644f8f8ef62",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ROM",
+   "destination_name": "Roma",
+   "airline": "IB",
+   "airline_title": "Iberia",
+   "logo": "https://pics.avs.io/600/150/IB.png",
+   "logo_tipo": "",
+   "price": 9876.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-03T12:50:00-06:00",
+   "return_at": "",
+   "duration": 920,
+   "link": "https://www.aviasales.com/search/MEX0303ROM1?t=IB18040782001804158600000920MEXMADFCO_095c395fac6695fd8ff5c644f8f8ef62_49946&search_date=29082026&expected_price_uuid=01a04ae1-f8d8-8030-6df1-8b29166ba05f&static_fare_key=TY%7CP1%7CH1%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=2v1jXANoy6pz_d3lLVlwBg&expected_price_source=share&expected_price_currency=mxn&expected_price=9876",
+   "title": "Flight deals from Mexico City to Rome",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-roma-20270303-095c395f/"
   },
   {
    "id": "69542201308366266a01c16f3aa8a27a",

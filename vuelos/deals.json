@@ -1,6 +1,6 @@
 {
- "generated_at": 1788066244.3992085,
- "generated_at_str": "29/08/2026 23:04",
+ "generated_at": 1788069844.4555707,
+ "generated_at_str": "30/08/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -88,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX0509MTY1?t=Y417886312001788637080000098TLCMTY_aa3080fa9c981d2c406a3126a7f62ff5_3637&search_date=30082026&expected_price_uuid=01a0502c-f2f9-8040-62c6-73aa0185bbbf&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=720",
    "title": "Flight deals from Mexico City to Monterrey",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260905-aa3080fa/"
+  },
+  {
+   "id": "010cf97f5543b01f651ac183c66c4ed6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ACA",
+   "destination_name": "Acapulco de Juárez",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 864.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-07T18:30:00-05:00",
+   "return_at": "",
+   "duration": 62,
+   "link": "https://www.aviasales.com/search/MEX0709ACA1?t=VB17888058001788809520000062NLUACA_010cf97f5543b01f651ac183c66c4ed6_4365&search_date=30082026&expected_price_uuid=01a05028-41ea-8040-a3a7-328d31e5af51&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=d2ZkVkfh-e86c8gYZc2O2g&expected_price_source=share&expected_price_currency=mxn&expected_price=864",
+   "title": "Flight deals from Mexico City to Acapulco",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260907-010cf97f/"
   },
   {
    "id": "63b349f20c736fb5e66ecdbc4713d0a8",
@@ -208,26 +228,6 @@
    "link": "https://www.aviasales.com/search/MEX2309HAV1?t=VB17901435001790166300000260NLUMIDHAV_84c72d051d5219a4a46335403401e3db_27296&search_date=30082026&expected_price_uuid=01a050b0-9ef6-8040-2086-134873bb65db&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=aC_88hPl7zy7yaSYZXWReA&expected_price_source=share&expected_price_currency=mxn&expected_price=5406",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260923-84c72d05/"
-  },
-  {
-   "id": "14a97067b403f53b1cea6f44723a2aca",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "EVN",
-   "destination_name": "Ereván",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 7158.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-12T01:15:00-06:00",
-   "return_at": "",
-   "duration": 3310,
-   "link": "https://www.aviasales.com/search/MEX1211EVN1?t=WS17944461001794680700003310MEXYYCFCOOTPEVN_14a97067b403f53b1cea6f44723a2aca_36142&search_date=29082026&expected_price_uuid=01a04fcf-5131-8040-a144-785c56ccc543&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Po1ea7EQOzL_q7yZ6ggF4A&expected_price_source=share&expected_price_currency=mxn&expected_price=7158",
-   "title": "Flight deals from Mexico City to Yerevan",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261112-14a97067/"
   },
   {
    "id": "8647c91e2d57d476a0c2c09b0f517836",

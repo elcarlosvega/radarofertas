@@ -1,6 +1,6 @@
 {
- "generated_at": 1788087844.5707917,
- "generated_at_str": "30/08/2026 05:04",
+ "generated_at": 1788091444.9320693,
+ "generated_at_str": "30/08/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "502bb9cd57d77c2647c0af8d7b585f21",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MTY",
-   "destination_name": "Monterrey",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 845.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-11T06:30:00-05:00",
-   "return_at": "",
-   "duration": 98,
-   "link": "https://www.aviasales.com/search/MEX1109MTY1?t=Y417891082001789114080000098TLCMTY_502bb9cd57d77c2647c0af8d7b585f21_4267&search_date=30082026&expected_price_uuid=01a05120-2e40-8040-6ec0-7c83c03287a2&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Ratl4V_u8BHLtZ7YdhkoDw&expected_price_source=share&expected_price_currency=mxn&expected_price=845",
-   "title": "Flight deals from Mexico City to Monterrey",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260911-502bb9cd/"
-  },
   {
    "id": "8afbbf9ec0cf7c80ea5b5bec46836c41",
    "kind": "flight",
@@ -48,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0311LAS1?t=VB17936967001793711400000365TLCMTYLAS_8afbbf9ec0cf7c80ea5b5bec46836c41_17360&search_date=30082026&expected_price_uuid=01a05147-9a54-8040-2b6e-56396f33cc07&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IXKiKMoVKO23XEiOz0Njag&expected_price_source=share&expected_price_currency=mxn&expected_price=3438",
    "title": "Flight deals from Mexico City to Las Vegas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261103-8afbbf9e/"
-  },
-  {
-   "id": "f6c102292c4a19de5259a7503026eb86",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4419.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-21T09:05:00-06:00",
-   "return_at": "",
-   "duration": 480,
-   "link": "https://www.aviasales.com/search/MEX2111HAV1?t=VB17952519001795284300000480TLCMTYHAV_f6c102292c4a19de5259a7503026eb86_22315&search_date=30082026&expected_price_uuid=01a05131-8d7a-8040-a2d9-48178d48821c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b9hJrl59o_EPZ3229Oq6iA&expected_price_source=share&expected_price_currency=mxn&expected_price=4419",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261121-f6c10229/"
   },
   {
    "id": "a25a6a02c54db0b2bdb2a08e7a3b9fbe",

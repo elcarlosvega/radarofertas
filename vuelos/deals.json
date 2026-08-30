@@ -1,6 +1,6 @@
 {
- "generated_at": 1788116644.5233872,
- "generated_at_str": "30/08/2026 13:04",
+ "generated_at": 1788120244.2146924,
+ "generated_at_str": "30/08/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "6329e47d67ad562ff713cb8a022789ff",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 329.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-01T12:27:00-05:00",
-   "return_at": "",
-   "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX0109PVR1?t=Y417882656201788270540000082TLCPVR_6329e47d67ad562ff713cb8a022789ff_1635&search_date=30082026&expected_price_uuid=01a052fb-26d1-8040-a6c2-6e081a8f2cda&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=329",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260901-6329e47d/"
-  },
   {
    "id": "8e4516fc1ad052394be4245d55515c49",
    "kind": "flight",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788102244.7235386,
- "generated_at_str": "30/08/2026 09:04",
+ "generated_at": 1788105844.648131,
+ "generated_at_str": "30/08/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260909-cb3c0432/"
   },
   {
-   "id": "abe1747d9f24c8544eedb22486b2e684",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2745.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-04T06:00:00-05:00",
-   "return_at": "",
-   "duration": 1065,
-   "link": "https://www.aviasales.com/search/MEX0410BOG1?t=VB17910936001791161100001065NLUMTYBOG_abe1747d9f24c8544eedb22486b2e684_13651&search_date=30082026&expected_price_uuid=01a052a8-8f6f-8030-a6c4-07c9ef0880f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q-3oMO67JV-vg6lTTMj5bg&expected_price_source=share&expected_price_currency=mxn&expected_price=2745",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261004-abe1747d/"
-  },
-  {
    "id": "a9dbf8eb586461f49f7af4b5ab8ff4ac",
    "kind": "flight",
    "origin": "MEX",
@@ -90,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260831-a9dbf8eb/"
   },
   {
-   "id": "24c2215d47b858eebe7ad82b41d4f014",
+   "id": "62f565960d93af22c8d66b40eca2cfcf",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "HAV",
    "destination_name": "La Habana",
-   "airline": "Q4",
-   "airline_title": "Euroairlines",
-   "logo": "https://pics.avs.io/600/150/Q4.png",
-   "logo_tipo": "",
-   "price": 5557.0,
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 5489.0,
    "currency": "MXN",
-   "departure_at": "2026-09-12T06:15:00-05:00",
+   "departure_at": "2026-09-09T06:05:00-05:00",
    "return_at": "",
-   "duration": 160,
-   "link": "https://www.aviasales.com/search/MEX1209HAV1?t=Q417891937001789210500000160NLUHAV_24c2215d47b858eebe7ad82b41d4f014_27631&search_date=30082026&expected_price_uuid=01a052ee-4919-8030-eaa6-5fd063e45810&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5557",
+   "duration": 260,
+   "link": "https://www.aviasales.com/search/MEX0909HAV1?t=VB17889339001788956700000260NLUMIDHAV_62f565960d93af22c8d66b40eca2cfcf_27296&search_date=30082026&expected_price_uuid=01a05364-9b60-8030-aee0-1c8e69ede490&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=aC_88hPl7zy7yaSYZXWReA&expected_price_source=share&expected_price_currency=mxn&expected_price=5489",
    "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260912-24c2215d/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260909-62f56596/"
   },
   {
    "id": "a25a6a02c54db0b2bdb2a08e7a3b9fbe",
@@ -168,6 +148,46 @@
    "link": "https://www.aviasales.com/search/MEX3009IST1?t=AM17908071001790959200001995MEXAMSBRUSAW_fa0e54ec23d6a5d63b2a58797771020c_47597&search_date=30082026&expected_price_uuid=01a05329-0bde-8050-e78c-67dcec7fc3ef&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=V6FSE5U8BoCztscNUHlc9Q&expected_price_source=share&expected_price_currency=mxn&expected_price=9572",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260930-fa0e54ec/"
+  },
+  {
+   "id": "fa560918b083d7feca1db51a28b4c248",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CMN",
+   "destination_name": "Casablanca",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 12350.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T19:55:00-06:00",
+   "return_at": "",
+   "duration": 910,
+   "link": "https://www.aviasales.com/search/MEX0212CMN1?t=AF17962413001796317500000910MEXCDGCMN_fa560918b083d7feca1db51a28b4c248_61411&search_date=30082026&expected_price_uuid=01a0535a-3323-8050-a96d-14d460bdb44d&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=zd3eFi1iZO9fpsti3qhnGw&expected_price_source=share&expected_price_currency=mxn&expected_price=12350",
+   "title": "Flight deals from Mexico City to Casablanca",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-casablanca-20261202-fa560918/"
+  },
+  {
+   "id": "c54a04c9b6c0a9593a710b2fc795e004",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NQZ",
+   "destination_name": "Astaná",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 24543.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-15T09:00:00-05:00",
+   "return_at": "",
+   "duration": 1495,
+   "link": "https://www.aviasales.com/search/MEX1509NQZ1?t=TK17894628001789592100001495MEXISTNQZ_c54a04c9b6c0a9593a710b2fc795e004_122047&search_date=30082026&expected_price_uuid=01a05365-4d58-8040-a384-107499f0d130&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=hp_ZxOqa8r13206yIikCNg&expected_price_source=share&expected_price_currency=mxn&expected_price=24543",
+   "title": "Flight deals from Mexico City to Astana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20260915-c54a04c9/"
   }
  ]
 }

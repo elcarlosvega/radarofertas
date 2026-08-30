@@ -1,6 +1,6 @@
 {
- "generated_at": 1788113042.4796126,
- "generated_at_str": "30/08/2026 12:14",
+ "generated_at": 1788116642.4573107,
+ "generated_at_str": "30/08/2026 13:14",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -6168,6 +6168,24 @@
    "in_stock": true,
    "h_dias": 33,
    "h_min": 2199.0,
+   "h_ayer": 2499.0,
+   "h_min7": 2499.0
+  },
+  {
+   "id": "1300698979",
+   "name": "Barra de Sonido Hisense AX3100Q 3.1 Canales",
+   "url": "https://www.elektra.mx/barra-de-sonido-hisense-ax3100q-3-1-canales-5004870/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/23657351/5004870.jpg?v=639077170088630000",
+   "category": "Electrónica",
+   "price_old": 6199.0,
+   "price_new": 2499.0,
+   "pct": 59.7,
+   "amount": 3700.0,
+   "ends": "",
+   "first_seen": 1788116642.4573107,
+   "in_stock": true,
+   "h_dias": 33,
+   "h_min": 2499.0,
    "h_ayer": 2499.0,
    "h_min7": 2499.0
   },
@@ -28660,24 +28678,6 @@
    "h_min7": 621.0
   },
   {
-   "id": "1301185865",
-   "name": "COACH MAN BLUE 100ML EDT SPRAY",
-   "url": "https://www.elektra.mx/coach-man-blue-100ml-edt-spray-1301185865/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/22917724/CC010A01_1.jpg?v=639064220729830000",
-   "category": "Belleza y Cuidado Personal",
-   "price_old": 1319.0,
-   "price_new": 700.0,
-   "pct": 46.9,
-   "amount": 619.0,
-   "ends": "",
-   "first_seen": 1786673042.419159,
-   "in_stock": true,
-   "h_dias": 20,
-   "h_min": 693.0,
-   "h_ayer": 700.0,
-   "h_min7": 700.0
-  },
-  {
    "id": "1300886338",
    "name": "Azzaro The Most Wanted Intense 100Ml Edt Spray",
    "url": "https://www.elektra.mx/azzaro-the-most-wanted-intense-100ml-edt-spray-1300886338/p",
@@ -29408,24 +29408,6 @@
    "h_min": 2399.0,
    "h_ayer": 2399.0,
    "h_min7": 2399.0
-  },
-  {
-   "id": "1300481843",
-   "name": "Mochila Casual Escolar K-swiss Dink",
-   "url": "https://www.elektra.mx/mochila-casual-escolar-k-swiss-dink-1300481843/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/24887577/image00bbe1027a4a4e4689759aa1d520b286jpeg.jpg?v=639088527427770000",
-   "category": "Moda y accesorios",
-   "price_old": 689.0,
-   "price_new": 344.0,
-   "pct": 50.1,
-   "amount": 345.0,
-   "ends": "",
-   "first_seen": 1788105842.4825566,
-   "in_stock": true,
-   "h_dias": 13,
-   "h_min": 344.0,
-   "h_ayer": 344.0,
-   "h_min7": 344.0
   },
   {
    "id": "1301763020",

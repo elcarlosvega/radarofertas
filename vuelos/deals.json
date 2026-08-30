@@ -1,6 +1,6 @@
 {
- "generated_at": 1788095044.8873482,
- "generated_at_str": "30/08/2026 07:04",
+ "generated_at": 1788098644.8300166,
+ "generated_at_str": "30/08/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "6329e47d67ad562ff713cb8a022789ff",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 324.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-01T12:27:00-05:00",
+   "return_at": "",
+   "duration": 82,
+   "link": "https://www.aviasales.com/search/MEX0109PVR1?t=Y417882656201788270540000082TLCPVR_6329e47d67ad562ff713cb8a022789ff_1635&search_date=30082026&expected_price_uuid=01a052fb-26d1-8040-a6c2-6e081a8f2cda&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=324",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260901-6329e47d/"
+  },
   {
    "id": "cb3c043222317eda20dd89d5b005b99f",
    "kind": "flight",
@@ -30,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260909-cb3c0432/"
   },
   {
-   "id": "abe1747d9f24c8544eedb22486b2e684",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2704.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-04T06:00:00-05:00",
-   "return_at": "",
-   "duration": 1065,
-   "link": "https://www.aviasales.com/search/MEX0410BOG1?t=VB17910936001791161100001065NLUMTYBOG_abe1747d9f24c8544eedb22486b2e684_13651&search_date=30082026&expected_price_uuid=01a052a8-8f6f-8030-a6c4-07c9ef0880f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q-3oMO67JV-vg6lTTMj5bg&expected_price_source=share&expected_price_currency=mxn&expected_price=2704",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261004-abe1747d/"
-  },
-  {
    "id": "a9dbf8eb586461f49f7af4b5ab8ff4ac",
    "kind": "flight",
    "origin": "MEX",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX3108LIM1?t=CM17881554001788216300000955MEXPTYLIM_a9dbf8eb586461f49f7af4b5ab8ff4ac_26055&search_date=30082026&expected_price_uuid=01a05299-c2e6-8040-65f2-fa4ca8a031ed&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=dibMR7gpd0HPUfcZR0rAJQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5160",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260831-a9dbf8eb/"
+  },
+  {
+   "id": "24c2215d47b858eebe7ad82b41d4f014",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HAV",
+   "destination_name": "La Habana",
+   "airline": "Q4",
+   "airline_title": "Euroairlines",
+   "logo": "https://pics.avs.io/600/150/Q4.png",
+   "logo_tipo": "",
+   "price": 5472.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-12T06:15:00-05:00",
+   "return_at": "",
+   "duration": 160,
+   "link": "https://www.aviasales.com/search/MEX1209HAV1?t=Q417891937001789210500000160NLUHAV_24c2215d47b858eebe7ad82b41d4f014_27631&search_date=30082026&expected_price_uuid=01a052ee-4919-8030-eaa6-5fd063e45810&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5472",
+   "title": "Flight deals from Mexico City to Havana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260912-24c2215d/"
   },
   {
    "id": "a25a6a02c54db0b2bdb2a08e7a3b9fbe",
@@ -108,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX2809DXB1?t=AM17906343001790819700002490MEXAMSBRUSAWDXB_11aa52eb23c24a9a050a8c223ac55ff8_51694&search_date=30082026&expected_price_uuid=01a05205-2de5-8050-a52e-6014a7f1d1b8&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=oQ3PCTW_g2xRcTCee4H3tA&expected_price_source=share&expected_price_currency=mxn&expected_price=10238",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260928-11aa52eb/"
-  },
-  {
-   "id": "e3eb70a9f1200e8b5135eb6c4db9528b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SHJ",
-   "destination_name": "Sarja",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 10817.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-30T22:25:00-05:00",
-   "return_at": "",
-   "duration": 2600,
-   "link": "https://www.aviasales.com/search/MEX3009SHJ1?t=AM17908071001790999100002600MEXAMSBRUCRLSAWSHJ_e3eb70a9f1200e8b5135eb6c4db9528b_54618&search_date=30082026&expected_price_uuid=01a051de-0d3c-8050-27b1-bcfc6df101e3&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=uzSLUlfsBfV2SxqOxZbHGg&expected_price_source=share&expected_price_currency=mxn&expected_price=10817",
-   "title": "Flight deals from Mexico City to Sharjah",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sarja-20260930-e3eb70a9/"
   },
   {
    "id": "6bacbac82ab7f277e7e2887bbeb213b7",

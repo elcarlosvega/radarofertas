@@ -1,6 +1,6 @@
 {
- "generated_at": 1788069844.4555707,
- "generated_at_str": "30/08/2026 00:04",
+ "generated_at": 1788073444.3555043,
+ "generated_at_str": "30/08/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260905-aa3080fa/"
   },
   {
-   "id": "010cf97f5543b01f651ac183c66c4ed6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ACA",
-   "destination_name": "Acapulco de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 864.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-07T18:30:00-05:00",
-   "return_at": "",
-   "duration": 62,
-   "link": "https://www.aviasales.com/search/MEX0709ACA1?t=VB17888058001788809520000062NLUACA_010cf97f5543b01f651ac183c66c4ed6_4365&search_date=30082026&expected_price_uuid=01a05028-41ea-8040-a3a7-328d31e5af51&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=d2ZkVkfh-e86c8gYZc2O2g&expected_price_source=share&expected_price_currency=mxn&expected_price=864",
-   "title": "Flight deals from Mexico City to Acapulco",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260907-010cf97f/"
-  },
-  {
    "id": "63b349f20c736fb5e66ecdbc4713d0a8",
    "kind": "flight",
    "origin": "GDL",
@@ -168,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX1310SJC1?t=Y417918856001791905400000390MEXGDLSJC_ac30ce3ed649babdf4f2c10e42d0531b_17203&search_date=30082026&expected_price_uuid=01a05030-a69f-8040-21c7-3db2c12eebb0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=45p1KATe-hAQb1yFPMxPtw&expected_price_source=share&expected_price_currency=mxn&expected_price=3407",
    "title": "Flight deals from Mexico City to San Jose",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261013-ac30ce3e/"
+  },
+  {
+   "id": "8afbbf9ec0cf7c80ea5b5bec46836c41",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAS",
+   "destination_name": "Las Vegas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3438.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-03T09:05:00-06:00",
+   "return_at": "",
+   "duration": 365,
+   "link": "https://www.aviasales.com/search/MEX0311LAS1?t=VB17936967001793711400000365TLCMTYLAS_8afbbf9ec0cf7c80ea5b5bec46836c41_17360&search_date=30082026&expected_price_uuid=01a05147-9a54-8040-2b6e-56396f33cc07&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IXKiKMoVKO23XEiOz0Njag&expected_price_source=share&expected_price_currency=mxn&expected_price=3438",
+   "title": "Flight deals from Mexico City to Las Vegas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261103-8afbbf9e/"
   },
   {
    "id": "13e6359668b7910f64489783450e58a0",

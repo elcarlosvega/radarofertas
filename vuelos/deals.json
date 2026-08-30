@@ -1,6 +1,6 @@
 {
- "generated_at": 1788105844.648131,
- "generated_at_str": "30/08/2026 10:04",
+ "generated_at": 1788109444.5343914,
+ "generated_at_str": "30/08/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260909-cb3c0432/"
   },
   {
+   "id": "abe1747d9f24c8544eedb22486b2e684",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2745.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-04T06:00:00-05:00",
+   "return_at": "",
+   "duration": 1065,
+   "link": "https://www.aviasales.com/search/MEX0410BOG1?t=VB17910936001791161100001065NLUMTYBOG_abe1747d9f24c8544eedb22486b2e684_13651&search_date=30082026&expected_price_uuid=01a052a8-8f6f-8030-a6c4-07c9ef0880f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q-3oMO67JV-vg6lTTMj5bg&expected_price_source=share&expected_price_currency=mxn&expected_price=2745",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261004-abe1747d/"
+  },
+  {
    "id": "a9dbf8eb586461f49f7af4b5ab8ff4ac",
    "kind": "flight",
    "origin": "MEX",
@@ -70,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20260831-a9dbf8eb/"
   },
   {
+   "id": "8e4516fc1ad052394be4245d55515c49",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "UA",
+   "airline_title": "United Airlines",
+   "logo": "https://pics.avs.io/600/150/UA.png",
+   "logo_tipo": "",
+   "price": 5449.0,
+   "currency": "MXN",
+   "departure_at": "2026-08-31T12:10:00-05:00",
+   "return_at": "",
+   "duration": 409,
+   "link": "https://www.aviasales.com/search/MTY3108NYC1?t=UA17881782001788209940000409MTYIAHLGA_8e4516fc1ad052394be4245d55515c49_27094&search_date=30082026&expected_price_uuid=01a05377-fb09-8030-a06a-4fa7642d8353&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=-I58C3-FGl0A5PC9c8_bNg&expected_price_source=share&expected_price_currency=mxn&expected_price=5449",
+   "title": "Flight deals from Monterrey to New York",
+   "micro": "/oferta/vuelos/vuelo-monterrey-nueva-york-20260831-8e4516fc/"
+  },
+  {
    "id": "62f565960d93af22c8d66b40eca2cfcf",
    "kind": "flight",
    "origin": "MEX",
@@ -88,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX0909HAV1?t=VB17889339001788956700000260NLUMIDHAV_62f565960d93af22c8d66b40eca2cfcf_27296&search_date=30082026&expected_price_uuid=01a05364-9b60-8030-aee0-1c8e69ede490&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=aC_88hPl7zy7yaSYZXWReA&expected_price_source=share&expected_price_currency=mxn&expected_price=5489",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260909-62f56596/"
-  },
-  {
-   "id": "a25a6a02c54db0b2bdb2a08e7a3b9fbe",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "ZG",
-   "airline_title": "ZIPAIR",
-   "logo": "https://pics.avs.io/600/150/ZG.png",
-   "logo_tipo": "",
-   "price": 8876.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-03T06:30:00-05:00",
-   "return_at": "",
-   "duration": 1300,
-   "link": "https://www.aviasales.com/search/MEX0309TYO1?t=ZG17884170001788549000001300NLUGDLLAXNRT_a25a6a02c54db0b2bdb2a08e7a3b9fbe_44139&search_date=30082026&expected_price_uuid=01a05220-5755-8051-288e-ce964b9f8977&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Wio3WZdFm3ocvJ382Iw55A&expected_price_source=share&expected_price_currency=mxn&expected_price=8876",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260903-a25a6a02/"
   },
   {
    "id": "c0e7499b872f7e557dea2013321ecc96",

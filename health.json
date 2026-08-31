@@ -54,10 +54,10 @@
    "micro_pages": 82
   },
   "elektra": {
-   "last_attempt": 1788131042.441506,
-   "items": 1758,
-   "status": "ok",
-   "reason": "",
+   "last_attempt": 1788134642.464823,
+   "items": 0,
+   "status": "down",
+   "reason": "Remote end closed connection without response",
    "host": "pc",
    "last_complete_sweep": 1788131042.441506,
    "micro_pages": 2
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1788134732.9816897
+ "updated_at": 1788135075.920615
 }

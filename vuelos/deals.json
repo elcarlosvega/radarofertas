@@ -1,6 +1,6 @@
 {
- "generated_at": 1788134644.102697,
- "generated_at_str": "30/08/2026 18:04",
+ "generated_at": 1788138244.3372724,
+ "generated_at_str": "30/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "bec352a56d01c150ad8f4cb1f539de4c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 518.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-31T19:52:00-05:00",
-   "return_at": "",
-   "duration": 69,
-   "link": "https://www.aviasales.com/search/MEX3108GDL1?t=Y417882059201788210060000069TLCGDL_bec352a56d01c150ad8f4cb1f539de4c_2618&search_date=30082026&expected_price_uuid=01a054a6-7a49-8040-6361-a7e7cbd16615&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaMWokBvOE0EMF_kdOTOEg&expected_price_source=share&expected_price_currency=mxn&expected_price=518",
-   "title": "Flight deals from Mexico City to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260831-bec352a5/"
-  },
   {
    "id": "ac4715aff5e00b10646502a548f27d89",
    "kind": "flight",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0609DFW1?t=VB17886744601788704700000444TLCMTYDFW_09dd3a91b573cea57d8e32918cf5c117_13162&search_date=30082026&expected_price_uuid=01a05508-9321-8030-a9ab-64c0fb2ad7d2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NOMBcAE06DK5XWaV9zY_7g&expected_price_source=share&expected_price_currency=mxn&expected_price=2606",
    "title": "Flight deals from Mexico City to Dallas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260906-09dd3a91/"
+  },
+  {
+   "id": "b1a8bef320d960adee0f343ffbc390ea",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HAV",
+   "destination_name": "La Habana",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 5377.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-09T12:50:00-05:00",
+   "return_at": "",
+   "duration": 325,
+   "link": "https://www.aviasales.com/search/MEX0909HAV1?t=VB17889582001788984900000325NLUMTYHAV_b1a8bef320d960adee0f343ffbc390ea_27151&search_date=31082026&expected_price_uuid=01a05534-6443-8030-26f6-792a8f4116dd&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7vWtps8PgRXDmC_9XH1aEA&expected_price_source=share&expected_price_currency=mxn&expected_price=5377",
+   "title": "Flight deals from Mexico City to Havana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260909-b1a8bef3/"
   },
   {
    "id": "19cbf3e43611faf59bb504683d659aef",
@@ -110,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-vancouver-20261019-eca66178/"
   },
   {
-   "id": "a3aeb708916e7e8054866269f7b37d3b",
+   "id": "b87d847b15cab5da62dc299741595f24",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "AYT",
-   "destination_name": "Antalya",
+   "destination": "BCN",
+   "destination_name": "Barcelona",
    "airline": "Z0",
    "airline_title": "Norse Atlantic UK",
    "logo": "https://pics.avs.io/600/150/Z0.png",
    "logo_tipo": "",
-   "price": 8211.0,
+   "price": 5963.0,
    "currency": "MXN",
-   "departure_at": "2026-10-04T06:00:00-05:00",
+   "departure_at": "2026-09-28T11:05:00-05:00",
    "return_at": "",
-   "duration": 1840,
-   "link": "https://www.aviasales.com/search/MEX0410AYT1?t=Z017910936001791236400001840NLUMTYMCOLGWAYT_a3aeb708916e7e8054866269f7b37d3b_41472&search_date=30082026&expected_price_uuid=01a05447-3e4a-8030-2593-4f90828005f3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2vQuzFcJSVpdkF-WVytX_g&expected_price_source=share&expected_price_currency=mxn&expected_price=8211",
-   "title": "Flight deals from Mexico City to Antalya",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-antalya-20261004-a3aeb708/"
+   "duration": 1370,
+   "link": "https://www.aviasales.com/search/MEX2809BCN1?t=Z017905935001790704500001370MEXMCOLGWLTNBCN_b87d847b15cab5da62dc299741595f24_30108&search_date=31082026&expected_price_uuid=01a05526-6219-8040-2004-aa7370c9a3f7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Zg4FIlQX1Q2UkkIbSd7idw&expected_price_source=share&expected_price_currency=mxn&expected_price=5963",
+   "title": "Flight deals from Mexico City to Barcelona",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20260928-b87d847b/"
   },
   {
    "id": "2305fdc4ad999acc74a37f1644b44010",

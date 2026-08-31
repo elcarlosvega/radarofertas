@@ -1,6 +1,6 @@
 {
- "generated_at": 1788163444.9704106,
- "generated_at_str": "31/08/2026 02:04",
+ "generated_at": 1788167044.1933978,
+ "generated_at_str": "31/08/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,6 +30,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260910-f4b2ce0f/"
   },
   {
+   "id": "fb368a4228aa727a6ed0073c9ebd4e38",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MTY",
+   "destination_name": "Monterrey",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 835.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-02T16:09:00-05:00",
+   "return_at": "",
+   "duration": 91,
+   "link": "https://www.aviasales.com/search/GDL0209MTY1?t=Y417883653401788370800000091GDLMTY_fb368a4228aa727a6ed0073c9ebd4e38_4206&search_date=31082026&expected_price_uuid=01a056ef-4c8b-8050-eba4-db4c9e4b10e4&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Ac0LsGXH8Uwq-M_tyXXf3Q&expected_price_source=share&expected_price_currency=mxn&expected_price=835",
+   "title": "Flight deals from Guadalajara to Monterrey",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-monterrey-20260902-fb368a42/"
+  },
+  {
    "id": "2fa73c208616782622f4ad2c018bff0c",
    "kind": "flight",
    "origin": "MEX",
@@ -48,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX0809DFW1?t=VB17888955001788963900001080NLUMTYDFW_2fa73c208616782622f4ad2c018bff0c_12801&search_date=31082026&expected_price_uuid=01a05627-7102-8040-2d66-c4b008b8407b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=T3GPP_MlsvwuB1KGFH4_GA&expected_price_source=share&expected_price_currency=mxn&expected_price=2535",
    "title": "Flight deals from Mexico City to Dallas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260908-2fa73c20/"
-  },
-  {
-   "id": "4e959ebd4715213253d2e900455fb24c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3276.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-09T10:05:00-05:00",
-   "return_at": "",
-   "duration": 191,
-   "link": "https://www.aviasales.com/search/MEX0909MIA1?t=Y417889483001788966960000191MEXMIA_4e959ebd4715213253d2e900455fb24c_16544&search_date=31082026&expected_price_uuid=01a0559c-7a48-8030-6bc9-b4df65f5d50a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=3276",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260909-4e959ebd/"
   },
   {
    "id": "2f2e5ddc69adcc5f9d6492bfdae41931",

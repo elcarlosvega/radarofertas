@@ -1,6 +1,6 @@
 {
- "generated_at": 1788149044.2717066,
- "generated_at_str": "30/08/2026 22:04",
+ "generated_at": 1788152644.155994,
+ "generated_at_str": "30/08/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "bec352a56d01c150ad8f4cb1f539de4c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 518.0,
-   "currency": "MXN",
-   "departure_at": "2026-08-31T19:52:00-05:00",
-   "return_at": "",
-   "duration": 69,
-   "link": "https://www.aviasales.com/search/MEX3108GDL1?t=Y417882059201788210060000069TLCGDL_bec352a56d01c150ad8f4cb1f539de4c_2618&search_date=30082026&expected_price_uuid=01a054a6-7a49-8040-6361-a7e7cbd16615&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaMWokBvOE0EMF_kdOTOEg&expected_price_source=share&expected_price_currency=mxn&expected_price=518",
-   "title": "Flight deals from Mexico City to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260831-bec352a5/"
-  },
   {
    "id": "f4b2ce0f9914f4a67ef5816a34490dea",
    "kind": "flight",
@@ -110,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260909-4e959ebd/"
   },
   {
+   "id": "8df7d396c0d52bf91393fb44d24810ce",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PTY",
+   "destination_name": "Ciudad de Panamá",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 4432.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T08:00:00-05:00",
+   "return_at": "",
+   "duration": 235,
+   "link": "https://www.aviasales.com/search/MEX1609PTY1?t=AM17895456001789563300000235MEXPTY_8df7d396c0d52bf91393fb44d24810ce_22386&search_date=31082026&expected_price_uuid=01a0556c-26ad-8050-e05f-45cd70c7a494&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=EqHUK2mXBeSoMHeMxzWdMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4432",
+   "title": "Flight deals from Mexico City to Panama City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-panama-20260916-8df7d396/"
+  },
+  {
    "id": "b1a8bef320d960adee0f343ffbc390ea",
    "kind": "flight",
    "origin": "MEX",
@@ -160,12 +160,12 @@
    "airline_title": "Norse Atlantic UK",
    "logo": "https://pics.avs.io/600/150/Z0.png",
    "logo_tipo": "",
-   "price": 5958.0,
+   "price": 5959.0,
    "currency": "MXN",
    "departure_at": "2026-09-28T11:05:00-05:00",
    "return_at": "",
    "duration": 1370,
-   "link": "https://www.aviasales.com/search/MEX2809BCN1?t=Z017905935001790704500001370MEXMCOLGWLTNBCN_b87d847b15cab5da62dc299741595f24_30108&search_date=31082026&expected_price_uuid=01a05526-6219-8040-2004-aa7370c9a3f7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Zg4FIlQX1Q2UkkIbSd7idw&expected_price_source=share&expected_price_currency=mxn&expected_price=5958",
+   "link": "https://www.aviasales.com/search/MEX2809BCN1?t=Z017905935001790704500001370MEXMCOLGWLTNBCN_b87d847b15cab5da62dc299741595f24_30108&search_date=31082026&expected_price_uuid=01a05526-6219-8040-2004-aa7370c9a3f7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Zg4FIlQX1Q2UkkIbSd7idw&expected_price_source=share&expected_price_currency=mxn&expected_price=5959",
    "title": "Flight deals from Mexico City to Barcelona",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20260928-b87d847b/"
   },
@@ -220,12 +220,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 22062.0,
+   "price": 22064.0,
    "currency": "MXN",
    "departure_at": "2026-09-16T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1609IST1?t=TK17895492001789640400000980MEXIST_32e87e72750c3d3b517a6e22c367b5dc_111437&search_date=31082026&expected_price_uuid=01a0556b-b231-8050-eb94-e22e2a189ed6&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=22062",
+   "link": "https://www.aviasales.com/search/MEX1609IST1?t=TK17895492001789640400000980MEXIST_32e87e72750c3d3b517a6e22c367b5dc_111437&search_date=31082026&expected_price_uuid=01a0556b-b231-8050-eb94-e22e2a189ed6&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=22064",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260916-32e87e72/"
   }

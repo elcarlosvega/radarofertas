@@ -1,6 +1,6 @@
 {
- "generated_at": 1788177842.6075974,
- "generated_at_str": "31/08/2026 06:13",
+ "generated_at": 1788181442.6287973,
+ "generated_at_str": "31/08/2026 07:13",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -861,6 +861,24 @@
    "amount": 5700.0,
    "ends": "",
    "first_seen": 1787616242.2883737,
+   "in_stock": true,
+   "h_dias": 8,
+   "h_min": 2699.0,
+   "h_ayer": 2699.0,
+   "h_min7": 2699.0
+  },
+  {
+   "id": "1302066944",
+   "name": "Reloj Invicta Specialty 69805 Plateado Cuarzo Hombre",
+   "url": "https://www.elektra.mx/reloj-invicta-specialty-69805-plateado-cuarzo-hombre-1302066944/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/31497485/886678690756.jpeg.jpg?v=639228838014300000",
+   "category": "Moda y accesorios",
+   "price_old": 8399.0,
+   "price_new": 2699.0,
+   "pct": 67.9,
+   "amount": 5700.0,
+   "ends": "",
+   "first_seen": 1788181442.6287973,
    "in_stock": true,
    "h_dias": 8,
    "h_min": 2699.0,
@@ -3733,24 +3751,6 @@
    "h_min": 7199.0,
    "h_ayer": 7199.0,
    "h_min7": 7199.0
-  },
-  {
-   "id": "1300381861",
-   "name": "iPhone 14 128GB eSIM Reacondicionado",
-   "url": "https://www.elektra.mx/iphone-14-128gb-reacondicionado-1300381861/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/31295278/812759014081.jpg?v=639220933881400000",
-   "category": "Telefonía",
-   "price_old": 13999.0,
-   "price_new": 5999.0,
-   "pct": 57.1,
-   "amount": 8000.0,
-   "ends": "",
-   "first_seen": 1788149042.6118512,
-   "in_stock": true,
-   "h_dias": 34,
-   "h_min": 5999.0,
-   "h_ayer": 5999.0,
-   "h_min7": 5999.0
   },
   {
    "id": "1302040991",
@@ -27110,10 +27110,10 @@
    "h_min7": 2299.0
   },
   {
-   "id": "1301617355",
-   "name": "Casco Jet Bolt Negro Talla Grande",
-   "url": "https://www.elektra.mx/casco-jet-bolt-negro-talla-grande-34007134/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/26178311/34007134.jpg?v=639099918711700000",
+   "id": "1301617373",
+   "name": "Casco Jet Bolt Negro Talla Extra Grande",
+   "url": "https://www.elektra.mx/casco-jet-bolt-negro-talla-extra-grande-34007145/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/26178629/34007145.jpg?v=639099919795970000",
    "category": "Motos",
    "price_old": 1699.0,
    "price_new": 899.0,
@@ -27128,10 +27128,10 @@
    "h_min7": 899.0
   },
   {
-   "id": "1301617373",
-   "name": "Casco Jet Bolt Negro Talla Extra Grande",
-   "url": "https://www.elektra.mx/casco-jet-bolt-negro-talla-extra-grande-34007145/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/26178629/34007145.jpg?v=639099919795970000",
+   "id": "1301617355",
+   "name": "Casco Jet Bolt Negro Talla Grande",
+   "url": "https://www.elektra.mx/casco-jet-bolt-negro-talla-grande-34007134/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/26178311/34007134.jpg?v=639099918711700000",
    "category": "Motos",
    "price_old": 1699.0,
    "price_new": 899.0,

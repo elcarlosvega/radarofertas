@@ -1,6 +1,6 @@
 {
- "generated_at": 1788221043.6219306,
- "generated_at_str": "31/08/2026 18:04",
+ "generated_at": 1788224643.3829708,
+ "generated_at_str": "31/08/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,24 +130,44 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260921-672a4590/"
   },
   {
-   "id": "3077ad9fd30438518c72d4b8346f4c43",
+   "id": "4685a4dbe47970d6c23c67615e3d6af9",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BWI",
+   "destination_name": "Baltimore",
+   "airline": "UA",
+   "airline_title": "United Airlines",
+   "logo": "https://pics.avs.io/600/150/UA.png",
+   "logo_tipo": "",
+   "price": 4056.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-09T08:05:00-05:00",
+   "return_at": "",
+   "duration": 569,
+   "link": "https://www.aviasales.com/search/MEX0909BWI1?t=UA17889411001788982440000569MEXDENBWI_4685a4dbe47970d6c23c67615e3d6af9_20584&search_date=01092026&expected_price_uuid=01a05a6b-09e4-8040-a187-228ddb900f05&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4e9XYwA-P0pAgGYW23hbew&expected_price_source=share&expected_price_currency=mxn&expected_price=4056",
+   "title": "Flight deals from Mexico City to Baltimore",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-baltimore-20260909-4685a4db/"
+  },
+  {
+   "id": "93603f79f581c26bd8666ee2a47ca5df",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "HAV",
    "destination_name": "La Habana",
-   "airline": "Q4",
-   "airline_title": "Euroairlines",
-   "logo": "https://pics.avs.io/600/150/Q4.png",
-   "logo_tipo": "",
-   "price": 5467.0,
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 5119.0,
    "currency": "MXN",
-   "departure_at": "2026-09-15T06:15:00-05:00",
+   "departure_at": "2026-09-05T12:50:00-05:00",
    "return_at": "",
-   "duration": 160,
-   "link": "https://www.aviasales.com/search/MEX1509HAV1?t=Q417894529001789469700000160NLUHAV_3077ad9fd30438518c72d4b8346f4c43_27754&search_date=31082026&expected_price_uuid=01a05916-66de-8030-ede9-5558f1d3d5c2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5467",
+   "duration": 325,
+   "link": "https://www.aviasales.com/search/MEX0509HAV1?t=VB17886126001788639300000325NLUMTYHAV_93603f79f581c26bd8666ee2a47ca5df_25982&search_date=01092026&expected_price_uuid=01a05a70-4fbc-8050-663d-ae6c5d4c8aff&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7vWtps8PgRXDmC_9XH1aEA&expected_price_source=share&expected_price_currency=mxn&expected_price=5119",
    "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260915-3077ad9f/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260905-93603f79/"
   },
   {
    "id": "60eec04a655b2616e4efd3e9ac741a25",
@@ -168,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2109MAD1?t=Z017899887001790089200001195MEXMCOLGWMAD_60eec04a655b2616e4efd3e9ac741a25_38663&search_date=31082026&expected_price_uuid=01a0598b-846d-8040-6d35-afd7ecc9a20e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=816CTg2l1SMhErHqOZsqiA&expected_price_source=share&expected_price_currency=mxn&expected_price=7615",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260921-60eec04a/"
+  },
+  {
+   "id": "227b7c3b2d2bea459bc28e79f25d8391",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 11288.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-04T22:15:00-06:00",
+   "return_at": "",
+   "duration": 845,
+   "link": "https://www.aviasales.com/search/MEX0411LON1?t=AM17938305001793902800000845MEXCDGLHR_227b7c3b2d2bea459bc28e79f25d8391_57293&search_date=01092026&expected_price_uuid=01a05a66-1f82-8040-243e-8eeff8f5488d&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=3HklIB3j4LBQjYBJ4wV-4w&expected_price_source=share&expected_price_currency=mxn&expected_price=11288",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261104-227b7c3b/"
   }
  ]
 }

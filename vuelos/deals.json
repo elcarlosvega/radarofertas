@@ -1,6 +1,6 @@
 {
- "generated_at": 1788228244.256418,
- "generated_at_str": "31/08/2026 20:04",
+ "generated_at": 1788231843.732791,
+ "generated_at_str": "31/08/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0709PVR1?t=Y417887840201788788940000082TLCPVR_999c078b2292626dfa33788cd108af12_1790&search_date=31082026&expected_price_uuid=01a05a24-eaba-8050-67b0-bea26215dec6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=353",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260907-999c078b/"
+  },
+  {
+   "id": "33c90481026888fcfe4bb8456c405ba6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 969.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-08T12:52:00-05:00",
+   "return_at": "",
+   "duration": 467,
+   "link": "https://www.aviasales.com/search/MEX0810TIJ1?t=VB17914639201791488340000467NLUMTYTIJ_33c90481026888fcfe4bb8456c405ba6_4920&search_date=31082026&expected_price_uuid=01a05a20-44d1-8030-2d79-48fa4d64b2d6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Osnuf0JDL75Y-jVBFS_Kew&expected_price_source=share&expected_price_currency=mxn&expected_price=969",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-33c90481/"
   },
   {
    "id": "f90d46ea10275003fd3f939230461301",
@@ -110,7 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261012-1ee5e542/"
   },
   {
-   "id": "672a4590c8b904e84de6be82ba5d99a6",
+   "id": "78476f6bdb58b46fd0fafd8628b24d12",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +140,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2742.0,
+   "price": 3050.0,
    "currency": "MXN",
-   "departure_at": "2026-09-21T15:08:00-05:00",
+   "departure_at": "2026-09-15T12:50:00-05:00",
    "return_at": "",
-   "duration": 432,
-   "link": "https://www.aviasales.com/search/MEX2109NYC1?t=VB17900032801790036400000432TLCMTYJFK_672a4590c8b904e84de6be82ba5d99a6_13919&search_date=31082026&expected_price_uuid=01a0598b-4994-8040-ae33-6ae4988a62db&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KLoLNRHF6EtKL8zfbqSd-w&expected_price_source=share&expected_price_currency=mxn&expected_price=2742",
+   "duration": 570,
+   "link": "https://www.aviasales.com/search/MEX1509NYC1?t=VB17894766001789518000000570NLUMTYJFK_78476f6bdb58b46fd0fafd8628b24d12_15483&search_date=31082026&expected_price_uuid=01a05a13-8857-8050-6cb5-c3bd4cd04033&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=629N_RTchU1ahXbcrqMs2g&expected_price_source=share&expected_price_currency=mxn&expected_price=3050",
    "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260921-672a4590/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260915-78476f6b/"
   },
   {
    "id": "4685a4dbe47970d6c23c67615e3d6af9",
@@ -170,26 +190,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260905-93603f79/"
   },
   {
-   "id": "60eec04a655b2616e4efd3e9ac741a25",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "Z0",
-   "airline_title": "Norse Atlantic UK",
-   "logo": "https://pics.avs.io/600/150/Z0.png",
-   "logo_tipo": "",
-   "price": 7615.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-21T11:05:00-05:00",
-   "return_at": "",
-   "duration": 1195,
-   "link": "https://www.aviasales.com/search/MEX2109MAD1?t=Z017899887001790089200001195MEXMCOLGWMAD_60eec04a655b2616e4efd3e9ac741a25_38663&search_date=31082026&expected_price_uuid=01a0598b-846d-8040-6d35-afd7ecc9a20e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=816CTg2l1SMhErHqOZsqiA&expected_price_source=share&expected_price_currency=mxn&expected_price=7615",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260921-60eec04a/"
-  },
-  {
    "id": "227b7c3b2d2bea459bc28e79f25d8391",
    "kind": "flight",
    "origin": "MEX",
@@ -200,12 +200,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 11286.0,
+   "price": 11285.0,
    "currency": "MXN",
    "departure_at": "2026-11-04T22:15:00-06:00",
    "return_at": "",
    "duration": 845,
-   "link": "https://www.aviasales.com/search/MEX0411LON1?t=AM17938305001793902800000845MEXCDGLHR_227b7c3b2d2bea459bc28e79f25d8391_57294&search_date=01092026&expected_price_uuid=01a05a9b-69bb-8040-a1a1-f602f1a4f0cd&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=3HklIB3j4LBQjYBJ4wV-4w&expected_price_source=share&expected_price_currency=mxn&expected_price=11286",
+   "link": "https://www.aviasales.com/search/MEX0411LON1?t=AM17938305001793902800000845MEXCDGLHR_227b7c3b2d2bea459bc28e79f25d8391_57294&search_date=01092026&expected_price_uuid=01a05a9b-69bb-8040-a1a1-f602f1a4f0cd&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=3HklIB3j4LBQjYBJ4wV-4w&expected_price_source=share&expected_price_currency=mxn&expected_price=11285",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261104-227b7c3b/"
   },

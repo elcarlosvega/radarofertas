@@ -1,6 +1,6 @@
 {
- "generated_at": 1788278730.846564,
- "generated_at_str": "01/09/2026 10:05",
+ "generated_at": 1788282329.4004881,
+ "generated_at_str": "01/09/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1643,7 +1643,7 @@
    "starts": "2026-09-01T06:00:00.000Z",
    "ends": "2026-09-07T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788278730.846564,
+   "first_seen": 1788278739.6604006,
    "h_dias": 35,
    "h_min": 18999.0,
    "h_ayer": 18999.0,
@@ -8560,6 +8560,24 @@
    "h_ayer": 1499.25
   },
   {
+   "id": "679490",
+   "name": "KI-CAB 50 mg con 30 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Alivio-Estomacal/KI-CAB-50-mg-con-30-Tabletas/p/679490",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/hff/155303833436190.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1959.0,
+   "price_new": 1469.25,
+   "pct": 25.0,
+   "amount": 489.75,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 31,
+   "h_min": 1469.25,
+   "h_min7": 1469.25
+  },
+  {
    "id": "750334",
    "name": "Polaroid Pld D582/G Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Polaroid-Pld-D582G-Armazon-Oftalmico/p/750334",
@@ -9919,25 +9937,6 @@
    "h_min7": 704.25
   },
   {
-   "id": "592720",
-   "name": "Despamen-LBD 50/2.5 mg Jeringa",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Despamen-LBD-5025-mg-Jeringa/p/592720",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha4/h7b/31268229152798.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 929.0,
-   "price_new": 696.75,
-   "pct": 25.0,
-   "amount": 232.25,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787558739.1716406,
-   "h_dias": 9,
-   "h_min": 696.75,
-   "h_ayer": 696.75,
-   "h_min7": 696.75
-  },
-  {
    "id": "679489",
    "name": "KI-CAB 50 mg con 10 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Alivio-Estomacal/KI-CAB-50-mg-con-10-Tabletas/p/679489",
@@ -10163,6 +10162,23 @@
    "h_min": 674.25,
    "h_ayer": 674.25,
    "h_min7": 674.25
+  },
+  {
+   "id": "680380",
+   "name": "Ducray Keracnyl PP+ Anti-imperfecciones 30 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Ducray-Keracnyl-PP-Anti-imperfecciones-30-ml/p/680380",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/hc7/168852517584926.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 869.0,
+   "price_new": 651.75,
+   "pct": 25.0,
+   "amount": 217.25,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 6,
+   "h_min": 651.75
   },
   {
    "id": "517408",
@@ -12296,7 +12312,7 @@
    "starts": "2026-09-01T06:00:00.000Z",
    "ends": "2026-09-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788278730.846564,
+   "first_seen": 1788278739.6604006,
    "h_dias": 35,
    "h_min": 24999.0,
    "h_ayer": 26999.0,
@@ -12597,7 +12613,7 @@
    "starts": "2026-09-01T06:00:00.000Z",
    "ends": "2026-09-07T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788278730.846564,
+   "first_seen": 1788278739.6604006,
    "h_dias": 19,
    "h_min": 6999.0,
    "h_ayer": 6999.0,

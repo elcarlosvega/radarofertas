@@ -1,6 +1,6 @@
 {
- "generated_at": 1788217512.8554208,
- "generated_at_str": "31/08/2026 17:05",
+ "generated_at": 1788221130.405487,
+ "generated_at_str": "31/08/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1640,6 +1640,25 @@
    "first_seen": 1785626857.1147935,
    "h_dias": 34,
    "h_min": 9499.0,
+   "h_ayer": 9499.0,
+   "h_min7": 9499.0
+  },
+  {
+   "id": "696053",
+   "name": "Samsung Lavavajillas 14 Servicios",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Samsung-Lavavajillas-14-Servicios/p/696053",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/he9/368805627887646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13499.0,
+   "price_new": 9499.0,
+   "pct": 29.6,
+   "amount": 4000.0,
+   "starts": "2026-08-31T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788185146.8339665,
+   "h_dias": 20,
+   "h_min": 8399.0,
    "h_ayer": 9499.0,
    "h_min7": 9499.0
   },
@@ -17526,24 +17545,6 @@
    "h_min7": 16999.0
   },
   {
-   "id": "654275",
-   "name": "CoaguChek INRange Equipo para Medir Coagulación en Sangre",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Monitores-de-Salud/CoaguChek-INRange-Equipo-para-Medir-Coagulacion-en-Sangre/p/654275",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0d/hd3/11755823366174.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 17185.0,
-   "price_new": 14607.25,
-   "pct": 15.0,
-   "amount": 2577.75,
-   "starts": "2026-08-31T06:00:00.000Z",
-   "ends": "2026-09-07T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788163540.0338194,
-   "h_dias": 17,
-   "h_min": 14607.25,
-   "h_min7": 14607.25
-  },
-  {
    "id": "693970",
    "name": "Sonos Sub (Gen 4) Wireless Subwoofer Blanco",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Bocinas/Sonos-Sub-Gen-4-Wireless-Subwoofer-Blanco/p/693970",
@@ -20015,23 +20016,6 @@
    "first_seen": 1788163540.0338194,
    "h_dias": 1,
    "h_min": 19499.0
-  },
-  {
-   "id": "701287",
-   "name": "Apple MacBook Pro 14\" M5 16GB 1TB SSD Plata",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-MacBook-Pro-14-M5-16GB-1TB-SSD-Plata/p/701287",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h04/h68/419732449525790.jpg",
-   "category": "Electronicos",
-   "price_old": 42799.0,
-   "price_new": 37999.0,
-   "pct": 11.2,
-   "amount": 4800.0,
-   "starts": "2026-08-31T06:00:00.000Z",
-   "ends": "2026-09-07T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788163540.0338194,
-   "h_dias": 1,
-   "h_min": 37999.0
   },
   {
    "id": "703749",

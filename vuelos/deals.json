@@ -1,6 +1,6 @@
 {
- "generated_at": 1788318243.7151465,
- "generated_at_str": "01/09/2026 21:04",
+ "generated_at": 1788321843.6950622,
+ "generated_at_str": "01/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
-   "id": "b1a8bef320d960adee0f343ffbc390ea",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 5326.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-09T12:50:00-05:00",
-   "return_at": "",
-   "duration": 325,
-   "link": "https://www.aviasales.com/search/MEX0909HAV1?t=VB17889582001788984900000325NLUMTYHAV_b1a8bef320d960adee0f343ffbc390ea_27210&search_date=01092026&expected_price_uuid=01a05ee8-4966-8051-2214-f9f226af0897&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7vWtps8PgRXDmC_9XH1aEA&expected_price_source=share&expected_price_currency=mxn&expected_price=5326",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260909-b1a8bef3/"
-  },
-  {
    "id": "b414d41b03574b00e3e27f5ab7fb4611",
    "kind": "flight",
    "origin": "MEX",
@@ -150,7 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270108-4bf0c3f1/"
   },
   {
-   "id": "78bf1a7de0ab14d130548ada1f6ef442",
+   "id": "72d82ae8888c0a46fcef67a91164817c",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -160,14 +140,14 @@
    "airline_title": "Saudia",
    "logo": "https://pics.avs.io/600/150/SV.png",
    "logo_tipo": "",
-   "price": 9263.0,
+   "price": 8584.0,
    "currency": "MXN",
-   "departure_at": "2026-09-30T17:15:00-05:00",
+   "departure_at": "2026-09-14T06:01:00-05:00",
    "return_at": "",
-   "duration": 1965,
-   "link": "https://www.aviasales.com/search/MEX3009DXB1?t=SV17907885001790942400001965NLUGDLEWRJFKRUHDXB_78bf1a7de0ab14d130548ada1f6ef442_47331&search_date=01092026&expected_price_uuid=01a05f3d-2fa0-8040-a9eb-ab3842aa6921&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=eP9xzqfqaCoAReDXPvPQcQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9263",
+   "duration": 2639,
+   "link": "https://www.aviasales.com/search/MEX1409DXB1?t=SV17893656601789560000002639TLCMTYJFKRUHDXB_72d82ae8888c0a46fcef67a91164817c_43802&search_date=02092026&expected_price_uuid=01a06038-a001-8040-6d19-5060b6b1ed94&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AvBU8AMhynLFpmnrs5P5Rg&expected_price_source=share&expected_price_currency=mxn&expected_price=8584",
    "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260930-78bf1a7d/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260914-72d82ae8/"
   },
   {
    "id": "6c723e138705d9fba1d9800dba5ed585",
@@ -180,12 +160,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 29654.0,
+   "price": 29694.0,
    "currency": "MXN",
    "departure_at": "2026-10-13T09:00:00-05:00",
    "return_at": "",
    "duration": 1380,
-   "link": "https://www.aviasales.com/search/MEX1310TAS1?t=TK17918820001792004400001380MEXISTTAS_6c723e138705d9fba1d9800dba5ed585_151521&search_date=01092026&expected_price_uuid=01a05f4b-0c47-8050-ed89-ee28013a6b79&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=zqdBmm77Unv_mTDW4xizgw&expected_price_source=share&expected_price_currency=mxn&expected_price=29654",
+   "link": "https://www.aviasales.com/search/MEX1310TAS1?t=TK17918820001792004400001380MEXISTTAS_6c723e138705d9fba1d9800dba5ed585_151521&search_date=02092026&expected_price_uuid=01a06043-6d68-8030-6fba-8a64f4e59fca&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=zqdBmm77Unv_mTDW4xizgw&expected_price_source=share&expected_price_currency=mxn&expected_price=29694",
    "title": "Flight deals from Mexico City to Tashkent",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261013-6c723e13/"
   }

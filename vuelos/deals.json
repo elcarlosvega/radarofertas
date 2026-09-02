@@ -1,6 +1,6 @@
 {
- "generated_at": 1788368643.856027,
- "generated_at_str": "02/09/2026 11:04",
+ "generated_at": 1788372243.8514056,
+ "generated_at_str": "02/09/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "92ed6206b512209abb78b2cc5d4d94ac",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1295.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-07T17:44:00-06:00",
+   "return_at": "",
+   "duration": 136,
+   "link": "https://www.aviasales.com/search/MEX0711CUN1?t=VB17940734401794085200000136TLCCUN_92ed6206b512209abb78b2cc5d4d94ac_6659&search_date=02092026&expected_price_uuid=01a0632f-388b-8030-606f-2948baf93333&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=1295",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261107-92ed6206/"
+  },
   {
    "id": "3a588273d639d6db19c1f8d7cc6215a8",
    "kind": "flight",
@@ -60,12 +80,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 10120.0,
+   "price": 10119.0,
    "currency": "MXN",
    "departure_at": "2026-10-06T06:01:00-05:00",
    "return_at": "",
    "duration": 2134,
-   "link": "https://www.aviasales.com/search/MEX0610AUH1?t=AM17912664601791430500002134MEXMTYMADBRUCRLSAWAUH_c6d88a05984ba047519f56ab26525e7d_52014&search_date=02092026&expected_price_uuid=01a06284-4d75-8040-6b9b-a3868c3f5034&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=opCeL7idPjaK94dH0uIlhQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10120",
+   "link": "https://www.aviasales.com/search/MEX0610AUH1?t=AM17912664601791430500002134MEXMTYMADBRUCRLSAWAUH_c6d88a05984ba047519f56ab26525e7d_52014&search_date=02092026&expected_price_uuid=01a06284-4d75-8040-6b9b-a3868c3f5034&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=opCeL7idPjaK94dH0uIlhQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10119",
    "title": "Flight deals from Mexico City to Abu Dhabi",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-abu-dhabi-20261006-c6d88a05/"
   },
@@ -100,12 +120,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 20048.0,
+   "price": 20047.0,
    "currency": "MXN",
    "departure_at": "2027-02-10T22:20:00-06:00",
    "return_at": "",
    "duration": 1030,
-   "link": "https://www.aviasales.com/search/MEX1002IST1?t=AM18022980001802392200001030MEXCDGIST_515764eee67d4e99066baef49c9839a8_102827&search_date=02092026&expected_price_uuid=01a06226-a87b-8030-acf1-b0b4ea7f7afd&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20048",
+   "link": "https://www.aviasales.com/search/MEX1002IST1?t=AM18022980001802392200001030MEXCDGIST_515764eee67d4e99066baef49c9839a8_102827&search_date=02092026&expected_price_uuid=01a06226-a87b-8030-acf1-b0b4ea7f7afd&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20047",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270210-515764ee/"
   }

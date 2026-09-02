@@ -1,6 +1,6 @@
 {
- "generated_at": 1788375910.6924574,
- "generated_at_str": "02/09/2026 13:05",
+ "generated_at": 1788379530.9160197,
+ "generated_at_str": "02/09/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -563,7 +563,7 @@
    "price_new": 449.0,
    "pct": 30.8,
    "amount": 200.0,
-   "starts": "2026-09-01T06:00:00.000Z",
+   "starts": "2026-09-02T06:00:00.000Z",
    "ends": "2026-10-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1788249935.758993,
@@ -601,7 +601,7 @@
    "price_new": 1039.0,
    "pct": 30.7,
    "amount": 460.0,
-   "starts": "2026-09-01T06:00:00.000Z",
+   "starts": "2026-09-02T06:00:00.000Z",
    "ends": "2026-10-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1788249935.758993,
@@ -1044,25 +1044,6 @@
    "h_min": 279.0,
    "h_ayer": 279.0,
    "h_min7": 279.0
-  },
-  {
-   "id": "691125",
-   "name": "Samsung Pantalla 85\" Neo QLED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-Neo-QLED-4K-Smart-TV/p/691125",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hf7/435775071551518.jpg",
-   "category": "Electronicos",
-   "price_old": 59999.0,
-   "price_new": 41999.0,
-   "pct": 30.0,
-   "amount": 18000.0,
-   "starts": "2026-09-01T06:00:00.000Z",
-   "ends": "2026-09-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788275144.1433065,
-   "h_dias": 36,
-   "h_min": 39999.0,
-   "h_ayer": 39999.0,
-   "h_min7": 39999.0
   },
   {
    "id": "2127023",
@@ -10907,25 +10888,6 @@
    "h_min7": 501.75
   },
   {
-   "id": "672904",
-   "name": "Isdin Fotoultra 50 Age Repair Fusion Water 50ml",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/Isdin-Fotoultra-50-Age-Repair-Fusion-Water-50ml/p/672904",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/h4c/115384509169694.jpg",
-   "category": "Grocery",
-   "price_old": 719.0,
-   "price_new": 539.25,
-   "pct": 25.0,
-   "amount": 179.75,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787558739.1716406,
-   "h_dias": 10,
-   "h_min": 539.25,
-   "h_ayer": 539.25,
-   "h_min7": 539.25
-  },
-  {
    "id": "655105",
    "name": "Isdin Foto Ultra Age Repair Textura Water Ultraligera FPS50",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/Isdin-Foto-Ultra-Age-Repair-Textura-Water-Ultraligera-FPS50/p/655105",
@@ -12859,7 +12821,7 @@
   {
    "id": "686478",
    "name": "GE Lavadora 22Kg Carga Superior",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-Top-Load-22Kg/p/686478",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-22Kg-Carga-Superior/p/686478",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/h00/245743046197278.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 12999.0,
@@ -14517,6 +14479,25 @@
    "h_min": 59999.0,
    "h_ayer": 59999.0,
    "h_min7": 59999.0
+  },
+  {
+   "id": "1978731",
+   "name": "Cadena para Caballero, Oro Amarillo 14K, 55.88cm",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Collares/Collares-de-Oro/Cadena-para-Caballero-Oro-Amarillo-14K-5588cm/p/1978731",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/he9/492371269845022.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 49999.0,
+   "price_new": 39999.0,
+   "pct": 20.0,
+   "amount": 10000.0,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
+   "h_dias": 10,
+   "h_min": 39999.0,
+   "h_ayer": 39999.0,
+   "h_min7": 39999.0
   },
   {
    "id": "1852222",
@@ -17741,24 +17722,6 @@
    "h_min": 10699.0,
    "h_ayer": 10699.0,
    "h_min7": 10699.0
-  },
-  {
-   "id": "648324",
-   "name": "Samsung Galaxy Z Fold 8 512GB Grafito",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-Z-Fold-8-512GB-Grafito/p/648324",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hed/had/501622532833310.jpg",
-   "category": "Electronicos",
-   "price_old": 44999.0,
-   "price_new": 37999.0,
-   "pct": 15.6,
-   "amount": 7000.0,
-   "starts": "2026-09-01T06:00:00.000Z",
-   "ends": "2026-09-07T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788275144.1433065,
-   "h_dias": 2,
-   "h_min": 37999.0,
-   "h_ayer": 37999.0
   },
   {
    "id": "648326",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788422726.4188845,
- "generated_at_str": "03/09/2026 02:05",
+ "generated_at": 1788426313.173642,
+ "generated_at_str": "03/09/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -246,7 +246,7 @@
    "starts": "2026-08-31T06:00:00.000Z",
    "ends": "2026-09-07T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788422726.4188845,
+   "first_seen": 1788422734.953247,
    "h_dias": 37,
    "h_min": 349.0,
    "h_ayer": 499.0,
@@ -1900,6 +1900,24 @@
    "h_ayer": 1199.0
   },
   {
+   "id": "697174",
+   "name": "HAPE Balón de Futbol Jumbo",
+   "url": "https://www.costco.com.mx/Deportes/Ejercicio-al-Aire-Libre/Football/HAPE-Balon-de-Futbol-Jumbo/p/697174",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf2/h42/397461386461214.jpg",
+   "category": "Deportes",
+   "price_old": 849.0,
+   "price_new": 599.0,
+   "pct": 29.4,
+   "amount": 250.0,
+   "starts": "2026-08-31T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788163540.0338194,
+   "h_dias": 4,
+   "h_min": 599.0,
+   "h_ayer": 599.0
+  },
+  {
    "id": "703095",
    "name": "Nuxe Bálsamos Labiales 3 pzas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/Nuxe-Balsamos-Labiales-3-pzas/p/703095",
@@ -2177,7 +2195,7 @@
    "starts": "2026-09-03T06:00:00.000Z",
    "ends": "2026-09-07T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788422726.4188845,
+   "first_seen": 1788422734.953247,
    "h_dias": 18,
    "h_min": 24999.0,
    "h_ayer": 24999.0,
@@ -19609,6 +19627,25 @@
    "first_seen": 1788275144.1433065,
    "h_dias": 37,
    "h_min": 27999.0,
+   "h_ayer": 27999.0,
+   "h_min7": 27999.0
+  },
+  {
+   "id": "683833",
+   "name": "Sole Caminadora F63",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/Sole-Caminadora-F63/p/683833",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/hc0/204420092362782.jpg",
+   "category": "Deportes",
+   "price_old": 31999.0,
+   "price_new": 27999.0,
+   "pct": 12.5,
+   "amount": 4000.0,
+   "starts": "2026-08-31T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788163540.0338194,
+   "h_dias": 12,
+   "h_min": 26999.0,
    "h_ayer": 27999.0,
    "h_min7": 27999.0
   },

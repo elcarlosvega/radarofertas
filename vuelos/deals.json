@@ -1,6 +1,6 @@
 {
- "generated_at": 1788404644.4200487,
- "generated_at_str": "02/09/2026 21:04",
+ "generated_at": 1788408244.3121536,
+ "generated_at_str": "02/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,26 +30,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261006-ac4715af/"
   },
   {
-   "id": "9b2d09eb2e46b8256be7c52b17902003",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1096.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-13T08:49:00-05:00",
-   "return_at": "",
-   "duration": 86,
-   "link": "https://www.aviasales.com/search/MTY1309MEX1?t=Y417892893401789294500000086MTYTLC_9b2d09eb2e46b8256be7c52b17902003_5637&search_date=02092026&expected_price_uuid=01a06421-e5da-8030-ebe2-13140656a3f4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=S3Q_pGZWluGOFmDe1gc9oQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1096",
-   "title": "Flight deals from Monterrey to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260913-9b2d09eb/"
-  },
-  {
    "id": "324425c52b20727138fdd7b56510b8a4",
    "kind": "flight",
    "origin": "MEX",
@@ -68,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX1309CZM1?t=VB17892792001789328520000762NLUMTYCZM_324425c52b20727138fdd7b56510b8a4_8348&search_date=02092026&expected_price_uuid=01a0646b-f61e-8030-62f4-35f556579835&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VmF7VVAnaDoRJrxGH4wFHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1623",
    "title": "Flight deals from Mexico City to Cozumel",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-cozumel-20260913-324425c5/"
-  },
-  {
-   "id": "c6d0470c7f9dc3f89a08cec8d784fcab",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PUJ",
-   "destination_name": "Punta Cana",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3437.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-09T16:39:00-05:00",
-   "return_at": "",
-   "duration": 268,
-   "link": "https://www.aviasales.com/search/MEX0910PUJ1?t=DM17915639401791587220000268NLUPUJ_c6d0470c7f9dc3f89a08cec8d784fcab_17676&search_date=02092026&expected_price_uuid=01a06405-6e10-8050-e17c-bef3e749d90b&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=bx01EGhJ2QekXOSXbnbmXg&expected_price_source=share&expected_price_currency=mxn&expected_price=3437",
-   "title": "Flight deals from Mexico City to Punta Cana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261009-c6d0470c/"
   },
   {
    "id": "29600d78be1ff74a85a40cbe686403bc",
@@ -120,12 +80,12 @@
    "airline_title": "Iberia",
    "logo": "https://pics.avs.io/600/150/IB.png",
    "logo_tipo": "",
-   "price": 11273.0,
+   "price": 11272.0,
    "currency": "MXN",
    "departure_at": "2027-02-07T00:05:00-06:00",
    "return_at": "",
    "duration": 2495,
-   "link": "https://www.aviasales.com/search/MEX0702ALA1?t=IB18019587001802148000002495MEXMADATHSAWALA_548cfba1c21addcf1c9c5a79fa3cc41f_57944&search_date=03092026&expected_price_uuid=01a0651f-dec0-8030-aec1-58ef00ccec0c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kR9SOd9H8rZCToN6EPanaA&expected_price_source=share&expected_price_currency=mxn&expected_price=11273",
+   "link": "https://www.aviasales.com/search/MEX0702ALA1?t=IB18019587001802148000002495MEXMADATHSAWALA_548cfba1c21addcf1c9c5a79fa3cc41f_57944&search_date=03092026&expected_price_uuid=01a0651f-dec0-8030-aec1-58ef00ccec0c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kR9SOd9H8rZCToN6EPanaA&expected_price_source=share&expected_price_currency=mxn&expected_price=11272",
    "title": "Flight deals from Mexico City to Almaty",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20270207-548cfba1/"
   },
@@ -148,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX2301SEL1?t=AM18007305001800857400001215MEXMTYICN_519402ecf18211065a48d9283310162c_61533&search_date=02092026&expected_price_uuid=01a06473-a6a7-8030-63a7-e89fa556f5a5&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=x--P6BC-obYIR-gpOx8UIA&expected_price_source=share&expected_price_currency=mxn&expected_price=11964",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270123-519402ec/"
+  },
+  {
+   "id": "c9548f41a74a01f8512dedc3fefe4512",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DAD",
+   "destination_name": "Đà Nẵng",
+   "airline": "CI",
+   "airline_title": "China Airlines",
+   "logo": "https://pics.avs.io/600/150/CI.png",
+   "logo_tipo": "",
+   "price": 12047.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-10T17:20:00-05:00",
+   "return_at": "",
+   "duration": 1600,
+   "link": "https://www.aviasales.com/search/MEX1009DAD1?t=CI17890608001789203600001600MEXSFOTPEDAD_c9548f41a74a01f8512dedc3fefe4512_61963&search_date=02092026&expected_price_uuid=01a06448-6db3-8040-6d77-6fce3101753b&static_fare_key=TY%7CP1%7CH0%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=c-SNuomluDHSVjPyBui4Rw&expected_price_source=share&expected_price_currency=mxn&expected_price=12047",
+   "title": "Flight deals from Mexico City to Da Nang",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-a-nang-20260910-c9548f41/"
   },
   {
    "id": "330b158ca60689221c8f3b14b29b7c09",
@@ -190,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270109-f02b4098/"
   },
   {
-   "id": "ef670a4bf031f35556b8bb150e541398",
+   "id": "2617d7536eacdd3522197cc40c6bb901",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
+   "destination": "HAN",
+   "destination_name": "Hanói",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 21933.0,
+   "price": 30945.0,
    "currency": "MXN",
-   "departure_at": "2026-09-22T09:00:00-05:00",
+   "departure_at": "2026-09-16T17:05:00-05:00",
    "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2209IST1?t=TK17900676001790158800000980MEXIST_ef670a4bf031f35556b8bb150e541398_112810&search_date=02092026&expected_price_uuid=01a063fc-0148-8030-2755-0375e3286e8c&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=21933",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260922-ef670a4b/"
+   "duration": 1475,
+   "link": "https://www.aviasales.com/search/MEX1609HAN1?t=AF17895783001789713600001475MEXCDGHAN_2617d7536eacdd3522197cc40c6bb901_159152&search_date=02092026&expected_price_uuid=01a06424-7552-8040-6406-7456b2a18e51&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH1%7CR0%7CTBC1&itinerary_key=uZv1ivqmfadCC2latemyaA&expected_price_source=share&expected_price_currency=mxn&expected_price=30945",
+   "title": "Flight deals from Mexico City to Hanoi",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hanoi-20260916-2617d753/"
   }
  ]
 }

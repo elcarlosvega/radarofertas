@@ -1,6 +1,6 @@
 {
- "generated_at": 1788397443.740178,
- "generated_at_str": "02/09/2026 19:04",
+ "generated_at": 1788401044.4695604,
+ "generated_at_str": "02/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "db8a7b6f34be2fbcfe2bbf0cd273795e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TQO",
-   "destination_name": "Municipio de Tulum",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 727.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-04T12:46:00-05:00",
-   "return_at": "",
-   "duration": 119,
-   "link": "https://www.aviasales.com/search/MEX0410TQO1?t=VB17911179601791128700000119NLUTQO_db8a7b6f34be2fbcfe2bbf0cd273795e_3741&search_date=02092026&expected_price_uuid=01a063a0-41ef-8030-a213-be27887cf11b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QeC2kn_MwkA9nVsdss0ydQ&expected_price_source=share&expected_price_currency=mxn&expected_price=727",
-   "title": "Flight deals from Mexico City to Tulum",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261004-db8a7b6f/"
-  },
   {
    "id": "ac4715aff5e00b10646502a548f27d89",
    "kind": "flight",
@@ -90,6 +70,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-cozumel-20260913-324425c5/"
   },
   {
+   "id": "5bfc4611df0b6ff651682190f566b638",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3412.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-23T19:52:00-05:00",
+   "return_at": "",
+   "duration": 428,
+   "link": "https://www.aviasales.com/search/MEX2309NYC1?t=Y417901931201790226000000428TLCGDLEWR_5bfc4611df0b6ff651682190f566b638_17548&search_date=02092026&expected_price_uuid=01a063d9-7ebf-8040-a553-62f0876d4832&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-MPq6p50Fi3nU_zYjYuQAw&expected_price_source=share&expected_price_currency=mxn&expected_price=3412",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260923-5bfc4611/"
+  },
+  {
    "id": "c6d0470c7f9dc3f89a08cec8d784fcab",
    "kind": "flight",
    "origin": "MEX",
@@ -110,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261009-c6d0470c/"
   },
   {
-   "id": "b9c6de2beedd58f19b189b59b9be7b1e",
+   "id": "e34ab560fd1e162e9c4c6d2a87dc4551",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "DPS",
-   "destination_name": "Denpasar (Bali)",
-   "airline": "3U",
-   "airline_title": "Sichuan Airlines",
-   "logo": "https://pics.avs.io/600/150/3U.png",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 8912.0,
+   "price": 7435.0,
    "currency": "MXN",
-   "departure_at": "2026-11-01T06:33:00-06:00",
+   "departure_at": "2026-09-23T00:30:00-05:00",
    "return_at": "",
-   "duration": 2977,
-   "link": "https://www.aviasales.com/search/MEX0111DPS1?t=3U17935147801793743800002977NLUGDLLAXTFUDPS_b9c6de2beedd58f19b189b59b9be7b1e_45836&search_date=02092026&expected_price_uuid=01a063a9-4d22-8030-e955-08072be84f6b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YmtP5DTqQcDHDlxsepEUyg&expected_price_source=share&expected_price_currency=mxn&expected_price=8912",
-   "title": "Flight deals from Mexico City to Denpasar (Bali)",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261101-b9c6de2b/"
+   "duration": 1505,
+   "link": "https://www.aviasales.com/search/MEX2309MAD1?t=WS17901234001790242500001505MEXYYZYTZYOWYHZMAD_e34ab560fd1e162e9c4c6d2a87dc4551_38239&search_date=02092026&expected_price_uuid=01a063d9-d361-8040-65e1-51e19c911fd2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GafTf30KcuHQkPmJagactg&expected_price_source=share&expected_price_currency=mxn&expected_price=7435",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260923-e34ab560/"
   },
   {
    "id": "0b98489925a2dcd11a04a59968e0bfb3",

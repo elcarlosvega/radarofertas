@@ -1,6 +1,6 @@
 {
- "generated_at": 1788437044.1291966,
- "generated_at_str": "03/09/2026 06:04",
+ "generated_at": 1788440643.9533522,
+ "generated_at_str": "03/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "f5e63474cedef3c5866bc49ab7e9a9a2",
+   "id": "bf014fcce90fd8bd1e1e4a3ea17d261b",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "NQZ",
-   "destination_name": "Astaná",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 24288.0,
+   "price": 4937.0,
    "currency": "MXN",
-   "departure_at": "2026-09-24T09:00:00-05:00",
+   "departure_at": "2026-11-26T01:15:00-06:00",
    "return_at": "",
-   "duration": 1495,
-   "link": "https://www.aviasales.com/search/MEX2409NQZ1?t=TK17902404001790369700001495MEXISTNQZ_f5e63474cedef3c5866bc49ab7e9a9a2_124601&search_date=03092026&expected_price_uuid=01a065fb-70a5-8030-e3da-4f2c5aa9bbb6&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VKL_WaQCBPRPyZSYt7ZX3A&expected_price_source=share&expected_price_currency=mxn&expected_price=24288",
-   "title": "Flight deals from Mexico City to Astana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20260924-f5e63474/"
+   "duration": 1775,
+   "link": "https://www.aviasales.com/search/MEX2611LON1?t=WS17956557001795783800001775MEXYYCLHR_bf014fcce90fd8bd1e1e4a3ea17d261b_25169&search_date=03092026&expected_price_uuid=01a06733-eb93-8040-2759-03fe0aac339b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4937",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261126-bf014fcc/"
   }
  ]
 }

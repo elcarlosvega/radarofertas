@@ -1,6 +1,6 @@
 {
- "generated_at": 1788440731.169172,
- "generated_at_str": "03/09/2026 07:05",
+ "generated_at": 1788444334.0773683,
+ "generated_at_str": "03/09/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1522,6 +1522,24 @@
    "h_min7": 839.0
   },
   {
+   "id": "671363",
+   "name": "PlayStation 5 - Horizon: Fobidden West",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/PlayStation/PlayStation-5-Horizon-Fobidden-West/p/671363",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9d/h3c/97918038114334.jpg",
+   "category": "Electronicos",
+   "price_old": 1199.0,
+   "price_new": 839.0,
+   "pct": 30.0,
+   "amount": 360.0,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 35,
+   "h_min": 599.0,
+   "h_min7": 599.0
+  },
+  {
    "id": "580886",
    "name": "Whisky Chivas Regal 12 Años 1L",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Chivas-Regal-12-Anos-1L/p/580886",
@@ -2148,7 +2166,7 @@
   {
    "id": "694859",
    "name": "Maytag Lavadora 25Kg Pet Pro Carga Superior",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-25Kg-Pet-Pro/p/694859",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-25Kg-Pet-Pro-Carga-Superior/p/694859",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hde/h6f/416801811922974.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 20799.0,
@@ -2181,6 +2199,24 @@
    "h_dias": 2,
    "h_min": 199.0,
    "h_ayer": 199.0
+  },
+  {
+   "id": "1969700",
+   "name": "Gorilla Centro de Juegos Adventure Wave",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Gorilla-Centro-de-Juegos-Adventure-Wave/p/1969700",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9e/h1d/400673781809182.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 34999.0,
+   "price_new": 24999.0,
+   "pct": 28.6,
+   "amount": 10000.0,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 29,
+   "h_min": 24999.0,
+   "h_min7": 24999.0
   },
   {
    "id": "1819429",
@@ -3220,7 +3256,7 @@
   {
    "id": "673525",
    "name": "LG Secadora de Gas 22Kg Carga Frontal con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-22Kg-con-Pedestal/p/673525",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-22Kg-Carga-Frontal-con-Pedestal/p/673525",
    "img": "https://www.costco.com.mx/medias/sys_master/products/had/hd0/364485057642526.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 21999.0,
@@ -3580,7 +3616,7 @@
   {
    "id": "660422",
    "name": "Maytag Secadora de Gas 22Kg Carga Frontal con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-22Kg-con-Pedestal/p/660422",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-22Kg-Carga-Frontal-con-Pedestal/p/660422",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h7a/h80/488517754257438.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 29999.0,
@@ -4581,7 +4617,7 @@
   {
    "id": "702697",
    "name": "LG Lavasecadora Eléctrica 16Kg/8Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-16Kg8Kg/p/702697",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-16Kg8Kg/p/702697",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/h45/452706858827806.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 21999.0,
@@ -10334,6 +10370,23 @@
    "h_min7": 599.0
   },
   {
+   "id": "702552",
+   "name": "Optigest Fibra Soluble con Prebiótico Frasco de 836 g",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Optigest-Fibra-Soluble-con-Prebiotico-Frasco-de-836-g/p/702552",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h83/ha8/485231372402718.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 799.0,
+   "price_new": 599.25,
+   "pct": 25.0,
+   "amount": 199.75,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 1,
+   "h_min": 599.25
+  },
+  {
    "id": "661007",
    "name": "Libertrim Alfa 24 Comprimidos",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Libertrim-Alfa-24-Comprimidos/p/661007",
@@ -10351,6 +10404,23 @@
    "h_min": 591.75,
    "h_ayer": 591.75,
    "h_min7": 591.75
+  },
+  {
+   "id": "697382",
+   "name": "Luminelle Colágeno Hidrolizado, Ácido Hialuronico, NAD y Q10 Frasco de 240 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Luminelle-Colageno-Hidrolizado-Acido-Hialuronico-NAD-y-Q10-Frasco-de-240-Tabletas/p/697382",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9f/h58/487458887008286.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 759.0,
+   "price_new": 569.25,
+   "pct": 25.0,
+   "amount": 189.75,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 1,
+   "h_min": 569.25
   },
   {
    "id": "701294",
@@ -10522,6 +10592,23 @@
    "h_min": 494.25,
    "h_ayer": 494.25,
    "h_min7": 494.25
+  },
+  {
+   "id": "702752",
+   "name": "Just Anti VR Calostro, Zinc y Cobre 120 Cápsulas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Just-Anti-VR-Calostro-Zinc-y-Cobre-120-Capsulas/p/702752",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/he7/469420100223006.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 659.0,
+   "price_new": 494.25,
+   "pct": 25.0,
+   "amount": 164.75,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 1,
+   "h_min": 494.25
   },
   {
    "id": "686306",
@@ -11398,6 +11485,24 @@
    "h_min7": 231.75
   },
   {
+   "id": "694392",
+   "name": "JustCetrux Vitamina C, Fibra Soluble, Zinc y Cobre Frasco con 240 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/JustCetrux-Vitamina-C-Fibra-Soluble-Zinc-y-Cobre-Frasco-con-240-Tabletas/p/694392",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1b/h6e/366219908612126.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 329.0,
+   "price_new": 246.75,
+   "pct": 25.0,
+   "amount": 82.25,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 28,
+   "h_min": 246.75,
+   "h_min7": 246.75
+  },
+  {
    "id": "665530",
    "name": "Chata Cochinita Pibil 4 sobres de 250 g",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Latas-y-Conservas/Chata-Cochinita-Pibil-4-sobres-de-250-g/p/665530",
@@ -12026,7 +12131,7 @@
   {
    "id": "686522",
    "name": "Teka Parrilla Vitrocerámica Eléctrica 4 Zonas de Cocción",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Teka-Parrilla-Vitroceramica-de-Gas-4-Quemadores/p/686522",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Teka-Parrilla-Vitroceramica-Electrica-4-Zonas-de-Coccion/p/686522",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/hc8/504676863868958.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 16999.0,
@@ -18312,7 +18417,7 @@
   {
    "id": "660426",
    "name": "Maytag Lavadora 22Kg Carga Frontal con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-con-Pedestal/p/660426",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/660426",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hcb/h86/189685709471774.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 34499.0,
@@ -22613,6 +22718,24 @@
    "h_min": 61999.0,
    "h_ayer": 62999.0,
    "h_min7": 62999.0
+  },
+  {
+   "id": "702846",
+   "name": "Samsung Pantalla 85\" QLED The Frame 4K Smart TV + Marco",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-QLED-The-Frame-4K-Smart-TV-Marco/p/702846",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h21/452879657107486.jpg",
+   "category": "Electronicos",
+   "price_old": 36999.0,
+   "price_new": 34999.0,
+   "pct": 5.4,
+   "amount": 2000.0,
+   "starts": "2026-09-03T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788444334.0773683,
+   "h_dias": 36,
+   "h_min": 34999.0,
+   "h_min7": 34999.0
   }
  ]
 }

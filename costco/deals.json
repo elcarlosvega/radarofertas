@@ -1,6 +1,6 @@
 {
- "generated_at": 1788447910.3629458,
- "generated_at_str": "03/09/2026 09:05",
+ "generated_at": 1788451535.1963935,
+ "generated_at_str": "03/09/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -594,6 +594,25 @@
    "h_min7": 449.0
   },
   {
+   "id": "674138",
+   "name": "LG Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/674138",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/haf/364485057708062.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 20799.0,
+   "pct": 30.7,
+   "amount": 9200.0,
+   "starts": "2026-09-02T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788357959.0427346,
+   "h_dias": 34,
+   "h_min": 20799.0,
+   "h_ayer": 20799.0,
+   "h_min7": 20799.0
+  },
+  {
    "id": "542026",
    "name": "Whisky Johnnie Walker Black Label Blended Scotch 1L",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Johnnie-Walker-Black-Label-Blended-Scotch-1L/p/542026",
@@ -1141,25 +1160,6 @@
    "h_min": 17499.0,
    "h_ayer": 17499.0,
    "h_min7": 17499.0
-  },
-  {
-   "id": "702165",
-   "name": "Hisense Lavasecadora Eléctrica 16Kg/10Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Hisense-Lavasecadora-Electrica-16Kg10Kg/p/702165",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/hce/434737796251678.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 19999.0,
-   "price_new": 13999.0,
-   "pct": 30.0,
-   "amount": 6000.0,
-   "starts": "2026-08-31T06:00:00.000Z",
-   "ends": "2026-09-07T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788167128.4429688,
-   "h_dias": 31,
-   "h_min": 13999.0,
-   "h_ayer": 13999.0,
-   "h_min7": 13999.0
   },
   {
    "id": "704699",
@@ -1916,24 +1916,6 @@
    "h_dias": 6,
    "h_min": 1199.0,
    "h_ayer": 1199.0
-  },
-  {
-   "id": "697174",
-   "name": "HAPE Balón de Futbol Jumbo",
-   "url": "https://www.costco.com.mx/Deportes/Ejercicio-al-Aire-Libre/Football/HAPE-Balon-de-Futbol-Jumbo/p/697174",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf2/h42/397461386461214.jpg",
-   "category": "Deportes",
-   "price_old": 849.0,
-   "price_new": 599.0,
-   "pct": 29.4,
-   "amount": 250.0,
-   "starts": "2026-08-31T06:00:00.000Z",
-   "ends": "2026-09-07T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788163540.0338194,
-   "h_dias": 4,
-   "h_min": 599.0,
-   "h_ayer": 599.0
   },
   {
    "id": "703095",
@@ -10380,9 +10362,9 @@
    "pct": 25.0,
    "amount": 199.75,
    "starts": "2026-09-03T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
+   "ends": "2026-10-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788444342.7088265,
+   "first_seen": 1788451535.1963935,
    "h_dias": 1,
    "h_min": 599.25
   },
@@ -10416,9 +10398,9 @@
    "pct": 25.0,
    "amount": 189.75,
    "starts": "2026-09-03T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
+   "ends": "2026-10-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788444342.7088265,
+   "first_seen": 1788451535.1963935,
    "h_dias": 1,
    "h_min": 569.25
   },

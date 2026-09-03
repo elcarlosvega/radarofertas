@@ -1,6 +1,6 @@
 {
- "generated_at": 1788393844.3302412,
- "generated_at_str": "02/09/2026 18:04",
+ "generated_at": 1788397443.740178,
+ "generated_at_str": "02/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "581cb4c9d8acdcfd2cb1ba99dfb9d7cb",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 467.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-15T06:09:00-05:00",
-   "return_at": "",
-   "duration": 107,
-   "link": "https://www.aviasales.com/search/MEX1509MID1?t=Y417894525401789458960000107NLUMID_581cb4c9d8acdcfd2cb1ba99dfb9d7cb_2401&search_date=02092026&expected_price_uuid=01a06353-5d60-8050-647f-5e923c3dd1f0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kxZdcZcfzW6zPjSSsyZ4Rg&expected_price_source=share&expected_price_currency=mxn&expected_price=467",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260915-581cb4c9/"
-  },
   {
    "id": "db8a7b6f34be2fbcfe2bbf0cd273795e",
    "kind": "flight",
@@ -190,24 +170,44 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270123-519402ec/"
   },
   {
-   "id": "c0275c60d8944ccaffcba7c648841d2f",
+   "id": "330b158ca60689221c8f3b14b29b7c09",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "SGN",
    "destination_name": "Ciudad Ho Chi Minh",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "airline": "MF",
+   "airline_title": "Xiamen Airlines",
+   "logo": "https://pics.avs.io/600/150/MF.png",
    "logo_tipo": "",
-   "price": 18173.0,
+   "price": 12063.0,
    "currency": "MXN",
-   "departure_at": "2027-02-15T22:15:00-06:00",
+   "departure_at": "2026-09-13T08:26:00-05:00",
    "return_at": "",
-   "duration": 1615,
-   "link": "https://www.aviasales.com/search/MEX1502SGN1?t=AM18027297001802873400001615MEXNRTSGN_c0275c60d8944ccaffcba7c648841d2f_93468&search_date=02092026&expected_price_uuid=01a06354-7899-8050-62bb-0c147f71ef31&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=iH7neK0CN4t5T3gpx8X8SA&expected_price_source=share&expected_price_currency=mxn&expected_price=18173",
+   "duration": 2279,
+   "link": "https://www.aviasales.com/search/MEX1309SGN1?t=MF17892879601789471500002279TLCGDLLAXXMNSGN_330b158ca60689221c8f3b14b29b7c09_62041&search_date=02092026&expected_price_uuid=01a0642f-5dfd-8040-664b-2c23c06f64a2&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=NT-COlaPEzi3312OVi5PTg&expected_price_source=share&expected_price_currency=mxn&expected_price=12063",
    "title": "Flight deals from Mexico City to Ho Chi Minh City",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-ho-chi-minh-20270215-c0275c60/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-ho-chi-minh-20260913-330b158c/"
+  },
+  {
+   "id": "ef670a4bf031f35556b8bb150e541398",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 21933.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-22T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2209IST1?t=TK17900676001790158800000980MEXIST_ef670a4bf031f35556b8bb150e541398_112810&search_date=02092026&expected_price_uuid=01a063fc-0148-8030-2755-0375e3286e8c&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=21933",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260922-ef670a4b/"
   }
  ]
 }

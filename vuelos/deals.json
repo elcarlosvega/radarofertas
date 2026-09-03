@@ -1,6 +1,6 @@
 {
- "generated_at": 1788444244.3423223,
- "generated_at_str": "03/09/2026 08:04",
+ "generated_at": 1788447844.4021196,
+ "generated_at_str": "03/09/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -20,14 +20,34 @@
    "airline_title": "WestJet",
    "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 4934.0,
+   "price": 4930.0,
    "currency": "MXN",
    "departure_at": "2026-11-26T01:15:00-06:00",
    "return_at": "",
    "duration": 1775,
-   "link": "https://www.aviasales.com/search/MEX2611LON1?t=WS17956557001795783800001775MEXYYCLHR_bf014fcce90fd8bd1e1e4a3ea17d261b_25169&search_date=03092026&expected_price_uuid=01a06733-eb93-8040-2759-03fe0aac339b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4934",
+   "link": "https://www.aviasales.com/search/MEX2611LON1?t=WS17956557001795783800001775MEXYYCLHR_bf014fcce90fd8bd1e1e4a3ea17d261b_25169&search_date=03092026&expected_price_uuid=01a06733-eb93-8040-2759-03fe0aac339b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4930",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261126-bf014fcc/"
+  },
+  {
+   "id": "077b8fc7281ec87986522041e090af02",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TAS",
+   "destination_name": "Taskent",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 17716.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-04T16:10:00-05:00",
+   "return_at": "",
+   "duration": 2770,
+   "link": "https://www.aviasales.com/search/MEX0409TAS1?t=QR17885382001788744000002770MEXIAHDOHTAS_077b8fc7281ec87986522041e090af02_90333&search_date=03092026&expected_price_uuid=01a067c5-7f4e-8030-237a-81156aedaa34&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=cTYt2bC_uj2rW05AlCFCwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=17716",
+   "title": "Flight deals from Mexico City to Tashkent",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20260904-077b8fc7/"
   }
  ]
 }

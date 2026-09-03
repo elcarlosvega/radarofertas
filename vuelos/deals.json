@@ -1,6 +1,6 @@
 {
- "generated_at": 1788429843.9261215,
- "generated_at_str": "03/09/2026 04:04",
+ "generated_at": 1788433443.9687169,
+ "generated_at_str": "03/09/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,46 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "f3fa5a1ba66c4b7f8a1ddc0b88575f31",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MTY",
-   "destination_name": "Monterrey",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 728.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-09T18:00:00-05:00",
-   "return_at": "",
-   "duration": 98,
-   "link": "https://www.aviasales.com/search/MEX0909MTY1?t=Y417889768001788982680000098TLCMTY_f3fa5a1ba66c4b7f8a1ddc0b88575f31_3735&search_date=03092026&expected_price_uuid=01a06586-7ec3-8030-ef04-b21e6f573b6f&static_fare_key=TY%7CP0%7CH0%7CL1_2_50%7CCH1%7CR0%7CTBC1&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=728",
-   "title": "Flight deals from Mexico City to Monterrey",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260909-f3fa5a1b/"
-  },
-  {
-   "id": "de9c38868a5e8b616266d4b5c1d9ef61",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3842.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-02T23:59:00-05:00",
-   "return_at": "",
-   "duration": 501,
-   "link": "https://www.aviasales.com/search/MEX0210MDE1?t=DM17909855401791019200000501NLUSDQMDE_de9c38868a5e8b616266d4b5c1d9ef61_19702&search_date=03092026&expected_price_uuid=01a06583-b19a-8040-2452-9b10b45f75ee&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=YMtrFVTJzaWncH4BHBcUUg&expected_price_source=share&expected_price_currency=mxn&expected_price=3842",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261002-de9c3886/"
-  },
   {
    "id": "f5e63474cedef3c5866bc49ab7e9a9a2",
    "kind": "flight",
@@ -60,12 +20,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 24298.0,
+   "price": 24291.0,
    "currency": "MXN",
    "departure_at": "2026-09-24T09:00:00-05:00",
    "return_at": "",
    "duration": 1495,
-   "link": "https://www.aviasales.com/search/MEX2409NQZ1?t=TK17902404001790369700001495MEXISTNQZ_f5e63474cedef3c5866bc49ab7e9a9a2_124601&search_date=03092026&expected_price_uuid=01a065fb-70a5-8030-e3da-4f2c5aa9bbb6&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VKL_WaQCBPRPyZSYt7ZX3A&expected_price_source=share&expected_price_currency=mxn&expected_price=24298",
+   "link": "https://www.aviasales.com/search/MEX2409NQZ1?t=TK17902404001790369700001495MEXISTNQZ_f5e63474cedef3c5866bc49ab7e9a9a2_124601&search_date=03092026&expected_price_uuid=01a065fb-70a5-8030-e3da-4f2c5aa9bbb6&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VKL_WaQCBPRPyZSYt7ZX3A&expected_price_source=share&expected_price_currency=mxn&expected_price=24291",
    "title": "Flight deals from Mexico City to Astana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20260924-f5e63474/"
   }

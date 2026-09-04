@@ -1,6 +1,6 @@
 {
- "generated_at": 1788494643.7587004,
- "generated_at_str": "03/09/2026 22:04",
+ "generated_at": 1788498243.5232773,
+ "generated_at_str": "03/09/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0810TIJ1?t=Y417914989601791507360000200NLUTIJ_1f1a69cf6783f91ab2a5fdbf8bff127b_4593&search_date=03092026&expected_price_uuid=01a069a1-eeec-8030-6637-46b61ec41e90&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=We0X_VlGJBlHQVIej9kzHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=897",
    "title": "Flight deals from Mexico City to Tijuana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-1f1a69cf/"
-  },
-  {
-   "id": "fe547df13cbebefb5d3661aacedc35ce",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TAM",
-   "destination_name": "Tampico",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 935.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-09T17:44:00-05:00",
-   "return_at": "",
-   "duration": 59,
-   "link": "https://www.aviasales.com/search/MEX0909TAM1?t=VB17889758401788979380000059NLUTAM_fe547df13cbebefb5d3661aacedc35ce_4790&search_date=03092026&expected_price_uuid=01a06941-4f32-8040-a172-a6ee2e0f03d6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Vt3DStZLqEBbNvo6a72d6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=935",
-   "title": "Flight deals from Mexico City to Tampico",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tampico-20260909-fe547df1/"
   },
   {
    "id": "da642066692a0c29eb71e0a202581d91",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001257001800252600001215MEXMTYICN_8e710b41d3246e705ea7db1312cb7b85_61518&search_date=03092026&expected_price_uuid=01a06999-aa8e-8030-e5a1-eaa8c5515244&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=x--P6BC-obYIR-gpOx8UIA&expected_price_source=share&expected_price_currency=mxn&expected_price=12013",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-8e710b41/"
+  },
+  {
+   "id": "2fc8214ab46adba7df9c8c2bed041aed",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 23388.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-18T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX1809IST1?t=TK17897220001789813200000980MEXIST_2fc8214ab46adba7df9c8c2bed041aed_119912&search_date=04092026&expected_price_uuid=01a06a91-7d67-8051-2311-3c097112c9df&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=23388",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260918-2fc8214a/"
   }
  ]
 }

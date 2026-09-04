@@ -1,6 +1,6 @@
 {
- "generated_at": 1788491044.246124,
- "generated_at_str": "03/09/2026 21:04",
+ "generated_at": 1788494643.7587004,
+ "generated_at_str": "03/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "2a1d5ba48cedce092be4c4dc133b169b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 624.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-10T06:09:00-05:00",
-   "return_at": "",
-   "duration": 107,
-   "link": "https://www.aviasales.com/search/MEX1009MID1?t=Y417890205401789026960000107NLUMID_2a1d5ba48cedce092be4c4dc133b169b_3196&search_date=03092026&expected_price_uuid=01a06921-57b8-8050-6df0-63d7c6d46483&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kxZdcZcfzW6zPjSSsyZ4Rg&expected_price_source=share&expected_price_currency=mxn&expected_price=624",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260910-2a1d5ba4/"
-  },
   {
    "id": "f868e61075664075429f183da77db5e3",
    "kind": "flight",
@@ -70,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-1f1a69cf/"
   },
   {
+   "id": "fe547df13cbebefb5d3661aacedc35ce",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TAM",
+   "destination_name": "Tampico",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 935.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-09T17:44:00-05:00",
+   "return_at": "",
+   "duration": 59,
+   "link": "https://www.aviasales.com/search/MEX0909TAM1?t=VB17889758401788979380000059NLUTAM_fe547df13cbebefb5d3661aacedc35ce_4790&search_date=03092026&expected_price_uuid=01a06941-4f32-8040-a172-a6ee2e0f03d6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Vt3DStZLqEBbNvo6a72d6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=935",
+   "title": "Flight deals from Mexico City to Tampico",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tampico-20260909-fe547df1/"
+  },
+  {
    "id": "da642066692a0c29eb71e0a202581d91",
    "kind": "flight",
    "origin": "MEX",
@@ -80,12 +80,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 1414.0,
+   "price": 1413.0,
    "currency": "MXN",
    "departure_at": "2027-02-12T06:30:00-06:00",
    "return_at": "",
    "duration": 490,
-   "link": "https://www.aviasales.com/search/MEX1202TGZ1?t=Y418024138001802443200000490TLCCUNTGZ_da642066692a0c29eb71e0a202581d91_7246&search_date=04092026&expected_price_uuid=01a069e6-283b-8050-e7f5-9f795c977ec9&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH1%7CR0%7CTBC1&itinerary_key=OB3lKaUP7Pj5F_H9ialwpA&expected_price_source=share&expected_price_currency=mxn&expected_price=1414",
+   "link": "https://www.aviasales.com/search/MEX1202TGZ1?t=Y418024138001802443200000490TLCCUNTGZ_da642066692a0c29eb71e0a202581d91_7246&search_date=04092026&expected_price_uuid=01a069e6-283b-8050-e7f5-9f795c977ec9&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH1%7CR0%7CTBC1&itinerary_key=OB3lKaUP7Pj5F_H9ialwpA&expected_price_source=share&expected_price_currency=mxn&expected_price=1413",
    "title": "Flight deals from Mexico City to Tuxtla Gutierrez",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tuxtla-gutierrez-20270212-da642066/"
   },
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20260928-a86ff479/"
   },
   {
-   "id": "a608ab07be7cdaba9c17f78f3b1b20bd",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "QR",
-   "airline_title": "Qatar Airways",
-   "logo": "https://pics.avs.io/600/150/QR.png",
-   "logo_tipo": "",
-   "price": 9741.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-24T06:20:00-05:00",
-   "return_at": "",
-   "duration": 1745,
-   "link": "https://www.aviasales.com/search/MEX2409DXB1?t=QR17902308001790371500001745MEXIAHDOHDXB_a608ab07be7cdaba9c17f78f3b1b20bd_49883&search_date=03092026&expected_price_uuid=01a0691e-f6df-8050-ecd5-cb66ddc4d49d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NBhCnYgQ4-RyAZYbtwc1wg&expected_price_source=share&expected_price_currency=mxn&expected_price=9741",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260924-a608ab07/"
-  },
-  {
    "id": "8e710b41d3246e705ea7db1312cb7b85",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001257001800252600001215MEXMTYICN_8e710b41d3246e705ea7db1312cb7b85_61518&search_date=03092026&expected_price_uuid=01a06999-aa8e-8030-e5a1-eaa8c5515244&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=x--P6BC-obYIR-gpOx8UIA&expected_price_source=share&expected_price_currency=mxn&expected_price=12013",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-8e710b41/"
-  },
-  {
-   "id": "78780688c95ffc98a0cb6cbfcdb422ff",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HKT",
-   "destination_name": "Phuket",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 26577.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-30T19:55:00-06:00",
-   "return_at": "",
-   "duration": 1470,
-   "link": "https://www.aviasales.com/search/MEX3010HKT1?t=AF17933901001793525100001470MEXCDGHKT_78780688c95ffc98a0cb6cbfcdb422ff_136093&search_date=03092026&expected_price_uuid=01a0692d-0389-8050-a7ad-ed21a2f394f5&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=mYk8MruCWIYGvxQ9bdtHQQ&expected_price_source=share&expected_price_currency=mxn&expected_price=26577",
-   "title": "Flight deals from Mexico City to Phuket",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261030-78780688/"
   }
  ]
 }

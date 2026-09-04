@@ -1,11 +1,27 @@
 {
- "generated_at": 1788519842.0471227,
- "generated_at_str": "04/09/2026 05:12",
+ "generated_at": 1788523442.460117,
+ "generated_at_str": "04/09/2026 06:12",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
  },
  "deals": [
+  {
+   "id": "1300362306",
+   "name": "vivo Y28 256GB AT&T Negro",
+   "url": "https://www.elektra.mx/vivo-y28-256gb-at-t-negro-31061868/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/15367622/31061868.jpg?v=638894011882970000",
+   "category": "Telefonía",
+   "price_old": 6999.0,
+   "price_new": 700.0,
+   "pct": 90.0,
+   "amount": 6299.0,
+   "ends": "",
+   "first_seen": 1788523442.460117,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 700.0
+  },
   {
    "id": "1300611512",
    "name": "Minisplit Frikko 1.5T Frío 220V 182CI16",

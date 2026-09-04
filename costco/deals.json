@@ -1,6 +1,6 @@
 {
- "generated_at": 1788559524.8109941,
- "generated_at_str": "04/09/2026 16:05",
+ "generated_at": 1788563113.4040983,
+ "generated_at_str": "04/09/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -14796,6 +14796,25 @@
    "h_min7": 7999.0
   },
   {
+   "id": "1942257",
+   "name": "Marcy Gimnasio Multifuncional",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/Marcy-Gimnasio-Multifuncional/p/1942257",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h81/380667631108126.jpg",
+   "category": "Deportes",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-08-31T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788163540.0338194,
+   "h_dias": 21,
+   "h_min": 7999.0,
+   "h_ayer": 7999.0,
+   "h_min7": 7999.0
+  },
+  {
    "id": "670015",
    "name": "Sonos Beam G2 Barra de Sonido Inteligente",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Sonos-Beam-G2-Barra-de-Sonido-Inteligente/p/670015",
@@ -16509,7 +16528,7 @@
    "starts": "2026-09-02T06:00:00.000Z",
    "ends": "2026-09-07T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788559524.8109941,
+   "first_seen": 1788559532.0000389,
    "h_dias": 31,
    "h_min": 8999.0,
    "h_min7": 9499.0

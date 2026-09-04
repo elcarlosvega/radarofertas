@@ -1,6 +1,6 @@
 {
- "generated_at": 1788527042.443339,
- "generated_at_str": "04/09/2026 07:13",
+ "generated_at": 1788530642.4372656,
+ "generated_at_str": "04/09/2026 08:13",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -22191,24 +22191,6 @@
    "h_min7": 1649.0
   },
   {
-   "id": "1300896525",
-   "name": "Horno Eléctrico HKPRO ES70036 Acero",
-   "url": "https://www.elektra.mx/horno-electrico-hkpro-es70036-acero-10006359/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/19964683/10006359.jpg?v=638987622686500000",
-   "category": "Línea blanca",
-   "price_old": 3899.0,
-   "price_new": 2199.0,
-   "pct": 43.6,
-   "amount": 1700.0,
-   "ends": "",
-   "first_seen": 1785254101.7380245,
-   "in_stock": true,
-   "h_dias": 38,
-   "h_min": 2199.0,
-   "h_ayer": 2199.0,
-   "h_min7": 2199.0
-  },
-  {
    "id": "1302010602",
    "name": "Casco Integral HAX Obsidian Huichol Aqua Mate",
    "url": "https://www.elektra.mx/casco-integral-hax-obsidian-huichol-aqua-mate-1302010602/p",
@@ -22224,6 +22206,24 @@
    "h_dias": 2,
    "h_min": 1592.0,
    "h_ayer": 1592.0
+  },
+  {
+   "id": "1301883328",
+   "name": "Guante de Piel Kov Track Negro Blanco",
+   "url": "https://www.elektra.mx/guante-de-piel-kov-track-negro-blanco--1301883328/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/29375130/GUANTE-KOV-TRACK-01.jpg?v=639161330640330000",
+   "category": "Motos",
+   "price_old": 1260.0,
+   "price_new": 630.0,
+   "pct": 50.0,
+   "amount": 630.0,
+   "ends": "",
+   "first_seen": 1788530642.4372656,
+   "in_stock": true,
+   "h_dias": 16,
+   "h_min": 630.0,
+   "h_ayer": 630.0,
+   "h_min7": 630.0
   },
   {
    "id": "1301791136",

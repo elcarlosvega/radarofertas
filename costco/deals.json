@@ -1,6 +1,6 @@
 {
- "generated_at": 1788476715.042354,
- "generated_at_str": "03/09/2026 17:05",
+ "generated_at": 1788480332.576492,
+ "generated_at_str": "03/09/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -8853,6 +8853,25 @@
    "in_stock": true,
    "first_seen": 1788163540.0338194,
    "h_dias": 11,
+   "h_min": 1124.25,
+   "h_ayer": 1124.25,
+   "h_min7": 1124.25
+  },
+  {
+   "id": "667967",
+   "name": "Kipling 0KP1112H348 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Kipling-0KP1112H348-Armazon-Oftalmico/p/667967",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h65/h69/153296087023646.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-08-31T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788163540.0338194,
+   "h_dias": 12,
    "h_min": 1124.25,
    "h_ayer": 1124.25,
    "h_min7": 1124.25

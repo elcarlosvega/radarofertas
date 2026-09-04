@@ -1,6 +1,6 @@
 {
- "generated_at": 1788480243.9596043,
- "generated_at_str": "03/09/2026 18:04",
+ "generated_at": 1788483844.2166538,
+ "generated_at_str": "03/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-1f1a69cf/"
   },
   {
+   "id": "da642066692a0c29eb71e0a202581d91",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TGZ",
+   "destination_name": "Tuxtla Gutiérrez",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1415.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-12T06:30:00-06:00",
+   "return_at": "",
+   "duration": 490,
+   "link": "https://www.aviasales.com/search/MEX1202TGZ1?t=Y418024138001802443200000490TLCCUNTGZ_da642066692a0c29eb71e0a202581d91_7246&search_date=04092026&expected_price_uuid=01a069e6-283b-8050-e7f5-9f795c977ec9&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH1%7CR0%7CTBC1&itinerary_key=OB3lKaUP7Pj5F_H9ialwpA&expected_price_source=share&expected_price_currency=mxn&expected_price=1415",
+   "title": "Flight deals from Mexico City to Tuxtla Gutierrez",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tuxtla-gutierrez-20270212-da642066/"
+  },
+  {
    "id": "10f84929848ef26cb8d5d5ab6f72e799",
    "kind": "flight",
    "origin": "GDL",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/GDL0110LAX1?t=Y417908878001790895960000196GDLLAX_10f84929848ef26cb8d5d5ab6f72e799_10746&search_date=03092026&expected_price_uuid=01a068b3-26e2-8040-ac1d-0cf1254e9520&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ASDn2TT3qLTt3-aF0WQWpw&expected_price_source=share&expected_price_currency=mxn&expected_price=2098",
    "title": "Flight deals from Guadalajara to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261001-10f84929/"
-  },
-  {
-   "id": "f963187b8e7040d1d039af3db4be82de",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SWF",
-   "destination_name": "Newburgh",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2961.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-24T11:05:00-05:00",
-   "return_at": "",
-   "duration": 1271,
-   "link": "https://www.aviasales.com/search/MEX2409SWF1?t=Y417902479001790331360001271MEXMCOSFBSWF_f963187b8e7040d1d039af3db4be82de_15164&search_date=03092026&expected_price_uuid=01a06901-3589-8040-26e2-69f3e4fad517&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Gpb0ri_FGhf-idCOCXNIlQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2961",
-   "title": "Flight deals from Mexico City to Newburgh",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-newburgh-20260924-f963187b/"
   },
   {
    "id": "53b13c4b125e2749448cecdb5a5ae8b3",
@@ -128,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX1802LIM1?t=DM18029451601802995260000775NLUPUJLIM_ee78e33de60edb33dc50fb40745e8a3e_18469&search_date=03092026&expected_price_uuid=01a06994-f72d-8050-6c50-1d06ad852022&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=TL04-nydLbvpwGfS9XsP7A&expected_price_source=share&expected_price_currency=mxn&expected_price=3607",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270218-ee78e33d/"
-  },
-  {
-   "id": "54e1a7860a2af641db137781489200f4",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SJC",
-   "destination_name": "San José",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5235.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-13T07:00:00-05:00",
-   "return_at": "",
-   "duration": 227,
-   "link": "https://www.aviasales.com/search/GDL1309SJC1?t=Y417892828001789292820000227GDLSJC_54e1a7860a2af641db137781489200f4_26810&search_date=03092026&expected_price_uuid=01a06875-fa41-8030-e3b9-2e83ad46e1a3&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=5235",
-   "title": "Flight deals from Guadalajara to San Jose",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20260913-54e1a786/"
   },
   {
    "id": "33daae74cdf9de4415fa58d322986c19",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788599043.3960772,
- "generated_at_str": "05/09/2026 03:04",
+ "generated_at": 1788602643.5170133,
+ "generated_at_str": "05/09/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -105,7 +105,7 @@
    "departure_at": "2026-09-15T06:30:00-05:00",
    "return_at": "",
    "duration": 331,
-   "link": "https://www.aviasales.com/search/MEX1509LAS1?t=Y417894538001789470060000331NLUGDLLAS_35464024b065ef16205710f430982c4b_18700&search_date=05092026&expected_price_uuid=01a07022-1ced-8030-eee3-dcc4a464c87f&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Kqt2XRQP9LKph80MereKLw&expected_price_source=share&expected_price_currency=mxn&expected_price=3681",
+   "link": "https://www.aviasales.com/search/MEX1509LAS1?t=Y417894538001789470060000331NLUGDLLAS_35464024b065ef16205710f430982c4b_18700&search_date=05092026&expected_price_uuid=01a070de-3b95-8030-6099-356c4cbe20e1&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Kqt2XRQP9LKph80MereKLw&expected_price_source=share&expected_price_currency=mxn&expected_price=3681",
    "title": "Flight deals from Mexico City to Las Vegas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20260915-35464024/"
   },
@@ -150,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20260909-8554b9cd/"
   },
   {
+   "id": "7ab7a0073a914a18db0960343b201a3e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 7747.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-23T01:15:00-05:00",
+   "return_at": "",
+   "duration": 3385,
+   "link": "https://www.aviasales.com/search/MEX2310IST1?t=WS17927181001792953600003385MEXYYCFCORMOIST_7ab7a0073a914a18db0960343b201a3e_39350&search_date=05092026&expected_price_uuid=01a070a5-6a4c-8050-e98d-9d4dbc7f2b90&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Q6dUxKiF_nbuuHwBs3nmaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7747",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261023-7ab7a007/"
+  },
+  {
    "id": "1eb8cdea3ad2896030e1456b5abc4267",
    "kind": "flight",
    "origin": "MEX",
@@ -190,27 +210,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20260918-6b5e5c3b/"
   },
   {
-   "id": "9a45fe644f8db92b5086b3e665fadb3a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 9295.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-14T22:25:00-05:00",
-   "return_at": "",
-   "duration": 2015,
-   "link": "https://www.aviasales.com/search/MEX1410IST1?t=AM17920167001792170000002015MEXLHRARNSAW_9a45fe644f8db92b5086b3e665fadb3a_47213&search_date=05092026&expected_price_uuid=01a06f89-f729-8040-a546-f82b627a85ed&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=SYpUfTx_La-7foeGIoEHGw&expected_price_source=share&expected_price_currency=mxn&expected_price=9295",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261014-9a45fe64/"
-  },
-  {
-   "id": "5bf386200aeb6c7bce89256eaa0e0069",
+   "id": "fbe60b6750f692fe8ef33d036ff775ed",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -220,14 +220,14 @@
    "airline_title": "Air China",
    "logo": "https://pics.avs.io/600/150/CA.png",
    "logo_tipo": "",
-   "price": 12133.0,
+   "price": 10729.0,
    "currency": "MXN",
-   "departure_at": "2026-09-15T06:00:00-05:00",
+   "departure_at": "2026-09-14T06:30:00-05:00",
    "return_at": "",
-   "duration": 2510,
-   "link": "https://www.aviasales.com/search/MEX1509SHA1?t=CA17894520001789653000002510NLUMTYLAXSZXPVG_5bf386200aeb6c7bce89256eaa0e0069_61632&search_date=05092026&expected_price_uuid=01a06f89-adf6-8040-69d7-d196c3394400&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=YtHWKnSG0OXyuur6l8Q3gw&expected_price_source=share&expected_price_currency=mxn&expected_price=12133",
+   "duration": 2960,
+   "link": "https://www.aviasales.com/search/MEX1409SHA1?t=CA17893674001789595400002960NLUGDLLAXPEKSHA_fbe60b6750f692fe8ef33d036ff775ed_54501&search_date=05092026&expected_price_uuid=01a07019-9cba-8040-64fe-1317b74cdc1e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5UL3WyAXeK4Ouw2VYIxyKg&expected_price_source=share&expected_price_currency=mxn&expected_price=10729",
    "title": "Flight deals from Mexico City to Shanghai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260915-5bf38620/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260914-fbe60b67/"
   },
   {
    "id": "0c9c70f240f1f0cff9019cdf7cc503d6",

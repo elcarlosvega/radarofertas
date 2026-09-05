@@ -1,6 +1,6 @@
 {
- "generated_at": 1788638643.7636049,
- "generated_at_str": "05/09/2026 14:04",
+ "generated_at": 1788642243.7917993,
+ "generated_at_str": "05/09/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -20,12 +20,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 575.0,
+   "price": 535.0,
    "currency": "MXN",
    "departure_at": "2026-09-07T17:40:00-05:00",
    "return_at": "",
    "duration": 107,
-   "link": "https://www.aviasales.com/search/MEX0709MID1?t=Y417888028001788809220000107NLUMID_1fb6d680ad8395ba8031b8080b5358ea_2923&search_date=05092026&expected_price_uuid=01a0731a-64ea-8040-2e43-40b7532a083c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSpAB1q94DjIO_XahoeDpg&expected_price_source=share&expected_price_currency=mxn&expected_price=575",
+   "link": "https://www.aviasales.com/search/MEX0709MID1?t=Y417888028001788809220000107NLUMID_1fb6d680ad8395ba8031b8080b5358ea_2720&search_date=05092026&expected_price_uuid=01a07339-d97f-8040-29e9-d28c4f3f303e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSpAB1q94DjIO_XahoeDpg&expected_price_source=share&expected_price_currency=mxn&expected_price=535",
    "title": "Flight deals from Mexico City to Merida",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260907-1fb6d680/"
   },
@@ -80,14 +80,34 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2952.0,
+   "price": 2942.0,
    "currency": "MXN",
    "departure_at": "2026-12-13T06:05:00-06:00",
    "return_at": "",
    "duration": 530,
-   "link": "https://www.aviasales.com/search/MEX1312LTO1?t=VB17971419001797170100000530NLUTIJLTO_32cee0db09cb6d26a3a1518fa248c9af_14996&search_date=05092026&expected_price_uuid=01a07318-f18e-8040-639d-0d2a45899668&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TufEFEVSoSenHfRyQCzUVQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2952",
+   "link": "https://www.aviasales.com/search/MEX1312LTO1?t=VB17971419001797170100000530NLUTIJLTO_32cee0db09cb6d26a3a1518fa248c9af_14942&search_date=05092026&expected_price_uuid=01a07345-8bce-8040-a04a-aca82b7c833f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TufEFEVSoSenHfRyQCzUVQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2942",
    "title": "Flight deals from Mexico City to Loreto",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-loreto-20261213-32cee0db/"
+  },
+  {
+   "id": "51bf57828a3ef652e68ac5bce2b67779",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3175.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-26T10:39:00-05:00",
+   "return_at": "",
+   "duration": 651,
+   "link": "https://www.aviasales.com/search/MEX2609NYC1?t=DM17904191401790465400000651NLUPUJEWR_51bf57828a3ef652e68ac5bce2b67779_16127&search_date=05092026&expected_price_uuid=01a0734b-e01d-8040-ab8f-88316149277b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M1dAZSeJKmaaAka5pEsLrw&expected_price_source=share&expected_price_currency=mxn&expected_price=3175",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260926-51bf5782/"
   },
   {
    "id": "489b62ccc2983f5a712e816321138f4d",
@@ -148,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1409SHA1?t=CA17894235601789653000002984NLUMTYLAXSZXPVG_f1131d162a1fee29e890116ca30a6d9e_60131&search_date=05092026&expected_price_uuid=01a072f4-f49e-8040-ae6d-d151b25ef7c3&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=en5XCC88gHi0cyhArWinuw&expected_price_source=share&expected_price_currency=mxn&expected_price=11838",
    "title": "Flight deals from Mexico City to Shanghai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260914-f1131d16/"
+  },
+  {
+   "id": "7eefa37cf08f3fa333d5c2b222094458",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "IB",
+   "airline_title": "Iberia",
+   "logo": "https://pics.avs.io/600/150/IB.png",
+   "logo_tipo": "",
+   "price": 12090.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-26T23:55:00-05:00",
+   "return_at": "",
+   "duration": 635,
+   "link": "https://www.aviasales.com/search/MEX2609MAD1?t=IB17904669001790533800000635MEXMAD_7eefa37cf08f3fa333d5c2b222094458_61413&search_date=05092026&expected_price_uuid=01a0734c-1a54-8040-2e25-9cd79ec92cfa&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ujwCOwnrQZyn7hL9nqFdRA&expected_price_source=share&expected_price_currency=mxn&expected_price=12090",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260926-7eefa37c/"
   }
  ]
 }

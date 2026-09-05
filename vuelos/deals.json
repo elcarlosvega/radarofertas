@@ -1,6 +1,6 @@
 {
- "generated_at": 1788588243.3677084,
- "generated_at_str": "05/09/2026 00:04",
+ "generated_at": 1788595443.3436036,
+ "generated_at_str": "05/09/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1409GDL1?t=Y417893674001789371840000074NLUGDL_ff2a7865c8803698d0bd79cc60370cd9_2541&search_date=05092026&expected_price_uuid=01a0701c-e9b6-8030-af70-099b07a0af5d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YyHf0dpd2HB7XfW7eX9cHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=500",
    "title": "Flight deals from Mexico City to Guadalajara",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260914-ff2a7865/"
+  },
+  {
+   "id": "85ba3aff1d851d52311d3aa924c5ce7e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 640.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-13T08:25:00-06:00",
+   "return_at": "",
+   "duration": 137,
+   "link": "https://www.aviasales.com/search/MEX1301CUN1?t=Y417998287001799840520000137TLCCUN_85ba3aff1d851d52311d3aa924c5ce7e_3249&search_date=05092026&expected_price_uuid=01a07047-8389-8050-ad8a-d530444b5009&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=640",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270113-85ba3aff/"
   },
   {
    "id": "0c1c3fca46d69c9a869ad3a3ff8b433e",
@@ -90,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-oakland-20260910-ea6545ed/"
   },
   {
-   "id": "265d8c1048e653411766668375de71c7",
+   "id": "35464024b065ef16205710f430982c4b",
    "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SAT",
-   "destination_name": "San Antonio",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAS",
+   "destination_name": "Las Vegas",
    "airline": "Y4",
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 4222.0,
+   "price": 3681.0,
    "currency": "MXN",
-   "departure_at": "2026-09-11T17:10:00-05:00",
+   "departure_at": "2026-09-15T06:30:00-05:00",
    "return_at": "",
-   "duration": 117,
-   "link": "https://www.aviasales.com/search/GDL1109SAT1?t=Y417891466001789157220000117GDLSAT_265d8c1048e653411766668375de71c7_21445&search_date=05092026&expected_price_uuid=01a06eec-0de8-8040-a4ce-31255d54a7af&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=rWVGZc6neT2R9l48GzSe2g&expected_price_source=share&expected_price_currency=mxn&expected_price=4222",
-   "title": "Flight deals from Guadalajara to San Antonio",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-san-antonio-20260911-265d8c10/"
+   "duration": 331,
+   "link": "https://www.aviasales.com/search/MEX1509LAS1?t=Y417894538001789470060000331NLUGDLLAS_35464024b065ef16205710f430982c4b_18700&search_date=05092026&expected_price_uuid=01a07022-1ced-8030-eee3-dcc4a464c87f&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Kqt2XRQP9LKph80MereKLw&expected_price_source=share&expected_price_currency=mxn&expected_price=3681",
+   "title": "Flight deals from Mexico City to Las Vegas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20260915-35464024/"
   },
   {
    "id": "711aa5ef4b466b434b397230c4cf07be",
@@ -208,6 +228,26 @@
    "link": "https://www.aviasales.com/search/MEX1509SHA1?t=CA17894520001789653000002510NLUMTYLAXSZXPVG_5bf386200aeb6c7bce89256eaa0e0069_61632&search_date=05092026&expected_price_uuid=01a06f89-adf6-8040-69d7-d196c3394400&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=YtHWKnSG0OXyuur6l8Q3gw&expected_price_source=share&expected_price_currency=mxn&expected_price=12133",
    "title": "Flight deals from Mexico City to Shanghai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260915-5bf38620/"
+  },
+  {
+   "id": "0c9c70f240f1f0cff9019cdf7cc503d6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Alma Ata",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 12334.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-21T06:01:00-05:00",
+   "return_at": "",
+   "duration": 2114,
+   "link": "https://www.aviasales.com/search/MEX2110ALA1?t=AM17925624601792728900002114MEXMTYMADBRUCRLSAWALA_0c9c70f240f1f0cff9019cdf7cc503d6_62653&search_date=05092026&expected_price_uuid=01a07074-7d0c-8050-a10b-99b921ca756d&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=ELk-5IjuwU0vsmA-vfezeQ&expected_price_source=share&expected_price_currency=mxn&expected_price=12334",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-alma-ata-20261021-0c9c70f2/"
   }
  ]
 }

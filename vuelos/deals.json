@@ -1,6 +1,6 @@
 {
- "generated_at": 1788645843.841402,
- "generated_at_str": "05/09/2026 16:04",
+ "generated_at": 1788649443.8969162,
+ "generated_at_str": "05/09/2026 17:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260916-f47f01bf/"
   },
   {
-   "id": "682611bea049e186dcaefc01bf7e76ea",
+   "id": "32cee0db09cb6d26a3a1518fa248c9af",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "LTO",
    "destination_name": "Loreto",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2599.0,
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2942.0,
    "currency": "MXN",
-   "departure_at": "2026-12-13T07:30:00-06:00",
+   "departure_at": "2026-12-13T06:05:00-06:00",
    "return_at": "",
-   "duration": 445,
-   "link": "https://www.aviasales.com/search/MEX1312LTO1?t=Y417971470001797170100000445TLCTIJLTO_682611bea049e186dcaefc01bf7e76ea_13204&search_date=05092026&expected_price_uuid=01a07390-2cbd-8040-6c08-8cddcb34d504&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gfnSI5rhY9M2yN2ST80uhA&expected_price_source=share&expected_price_currency=mxn&expected_price=2599",
+   "duration": 530,
+   "link": "https://www.aviasales.com/search/MEX1312LTO1?t=VB17971419001797170100000530NLUTIJLTO_32cee0db09cb6d26a3a1518fa248c9af_14942&search_date=05092026&expected_price_uuid=01a073af-e81e-8040-abe1-5975cfd3e676&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TufEFEVSoSenHfRyQCzUVQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2942",
    "title": "Flight deals from Mexico City to Loreto",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-loreto-20261213-682611be/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-loreto-20261213-32cee0db/"
   },
   {
    "id": "51bf57828a3ef652e68ac5bce2b67779",

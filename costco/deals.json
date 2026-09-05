@@ -1,6 +1,6 @@
 {
- "generated_at": 1788638729.7961957,
- "generated_at_str": "05/09/2026 14:05",
+ "generated_at": 1788642308.3108087,
+ "generated_at_str": "05/09/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -13370,7 +13370,7 @@
    "starts": "2026-09-01T06:00:00.000Z",
    "ends": "2026-09-07T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788638729.7961957,
+   "first_seen": 1788638735.9251494,
    "h_dias": 32,
    "h_min": 10299.0,
    "h_min7": 10999.0
@@ -19416,6 +19416,25 @@
    "h_min": 28499.0,
    "h_ayer": 28999.0,
    "h_min7": 28999.0
+  },
+  {
+   "id": "692358",
+   "name": "Elica Centro de Bebidas 60cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Frigobares/Elica-Centro-de-Bebidas-60cm/p/692358",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7b/h35/327767187947550.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 25999.0,
+   "pct": 13.3,
+   "amount": 4000.0,
+   "starts": "2026-08-31T06:00:00.000Z",
+   "ends": "2026-09-07T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788163540.0338194,
+   "h_dias": 34,
+   "h_min": 23999.0,
+   "h_ayer": 25999.0,
+   "h_min7": 25999.0
   },
   {
    "id": "684611",

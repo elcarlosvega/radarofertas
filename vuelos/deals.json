@@ -1,6 +1,6 @@
 {
- "generated_at": 1788624244.480011,
- "generated_at_str": "05/09/2026 10:04",
+ "generated_at": 1788627844.2469115,
+ "generated_at_str": "05/09/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "9854dfe84a46323f650e88824d1cfa78",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 1080.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-07T22:00:00-05:00",
-   "return_at": "",
-   "duration": 150,
-   "link": "https://www.aviasales.com/search/MEX0709CUN1?t=AM17888184001788831000000150MEXCUN_9854dfe84a46323f650e88824d1cfa78_5487&search_date=05092026&expected_price_uuid=01a07119-22ab-8030-68c7-6516d8d8b06f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=B7bkecL2do27AY1IWcqjWg&expected_price_source=share&expected_price_currency=mxn&expected_price=1080",
-   "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20260907-9854dfe8/"
-  },
   {
    "id": "e8cb7a5895c08d8057757958923f6679",
    "kind": "flight",
@@ -48,26 +28,6 @@
    "link": "https://www.aviasales.com/search/GDL2309LAX1?t=Y417901503401790158500000196GDLLAX_e8cb7a5895c08d8057757958923f6679_12353&search_date=05092026&expected_price_uuid=01a07247-e2c5-8040-6d70-0756e77bbc2f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bQRztaMP8SvSAp3FZwF3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2432",
    "title": "Flight deals from Guadalajara to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20260923-e8cb7a58/"
-  },
-  {
-   "id": "1d12fa34faf5488bf7196418b855b54a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3114.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-25T10:05:00-05:00",
-   "return_at": "",
-   "duration": 191,
-   "link": "https://www.aviasales.com/search/MEX2509MIA1?t=Y417903307001790349360000191MEXMIA_1d12fa34faf5488bf7196418b855b54a_15816&search_date=05092026&expected_price_uuid=01a07108-8c53-8030-26fb-5b7b8533db39&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=3114",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260925-1d12fa34/"
   },
   {
    "id": "906820a01f3b0be1597343d45420a021",

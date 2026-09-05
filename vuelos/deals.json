@@ -1,6 +1,6 @@
 {
- "generated_at": 1788609844.5749202,
- "generated_at_str": "05/09/2026 06:04",
+ "generated_at": 1788613444.3319633,
+ "generated_at_str": "05/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "85ba3aff1d851d52311d3aa924c5ce7e",
+   "id": "9854dfe84a46323f650e88824d1cfa78",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "CUN",
    "destination_name": "Cancún",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 640.0,
+   "price": 1080.0,
    "currency": "MXN",
-   "departure_at": "2027-01-13T08:25:00-06:00",
+   "departure_at": "2026-09-07T22:00:00-05:00",
    "return_at": "",
-   "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX1301CUN1?t=Y417998287001799840520000137TLCCUN_85ba3aff1d851d52311d3aa924c5ce7e_3249&search_date=05092026&expected_price_uuid=01a07047-8389-8050-ad8a-d530444b5009&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=640",
+   "duration": 150,
+   "link": "https://www.aviasales.com/search/MEX0709CUN1?t=AM17888184001788831000000150MEXCUN_9854dfe84a46323f650e88824d1cfa78_5487&search_date=05092026&expected_price_uuid=01a07119-22ab-8030-68c7-6516d8d8b06f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=B7bkecL2do27AY1IWcqjWg&expected_price_source=share&expected_price_currency=mxn&expected_price=1080",
    "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270113-85ba3aff/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20260907-9854dfe8/"
   },
   {
    "id": "1d12fa34faf5488bf7196418b855b54a",

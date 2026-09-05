@@ -1,6 +1,6 @@
 {
- "generated_at": 1788573844.7117736,
- "generated_at_str": "04/09/2026 20:04",
+ "generated_at": 1788577444.244885,
+ "generated_at_str": "04/09/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261225-e075e26b/"
   },
   {
-   "id": "a2a9376854d8b4b0f6e25086dc1f0b23",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "E9",
-   "airline_title": "Iberojet",
-   "logo": "https://pics.avs.io/600/150/E9.png",
-   "logo_tipo": "",
-   "price": 8799.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-25T14:10:00-05:00",
-   "return_at": "",
-   "duration": 940,
-   "link": "https://www.aviasales.com/search/MEX2509MAD1?t=E917903454001790430600000940NLUCUNMAD_a2a9376854d8b4b0f6e25086dc1f0b23_44716&search_date=04092026&expected_price_uuid=01a06e23-847b-8040-a5ae-9e7915990fcf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GhJI1e7gIP3cOolu7JkiHw&expected_price_source=share&expected_price_currency=mxn&expected_price=8799",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260925-a2a93768/"
-  },
-  {
    "id": "1a645aea999475bfa7206af50024b0d2",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1410TBS1?t=N017919612001792205100003465MEXJFKATHTBS_1a645aea999475bfa7206af50024b0d2_45021&search_date=04092026&expected_price_uuid=01a06ebe-d4e4-8030-2c9d-2904d36d73a0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uRwZEeFlE60Kdj6RhoflTA&expected_price_source=share&expected_price_currency=mxn&expected_price=8863",
    "title": "Flight deals from Mexico City to Tbilisi",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261014-1a645aea/"
+  },
+  {
+   "id": "9ef05c109d99fe808cc2e9f1dcf54341",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "OSA",
+   "destination_name": "Osaka",
+   "airline": "ZG",
+   "airline_title": "ZIPAIR",
+   "logo": "https://pics.avs.io/600/150/ZG.png",
+   "logo_tipo": "",
+   "price": 9844.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-09T22:05:00-06:00",
+   "return_at": "",
+   "duration": 3020,
+   "link": "https://www.aviasales.com/search/MEX0911OSA1?t=ZG17942619001794497100003020NLUMTYIAHNRTKIX_9ef05c109d99fe808cc2e9f1dcf54341_50003&search_date=04092026&expected_price_uuid=01a06e97-bf63-8030-e324-5a251bf233df&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NnamdEL5YNmaWTwnxyBbFg&expected_price_source=share&expected_price_currency=mxn&expected_price=9844",
+   "title": "Flight deals from Mexico City to Osaka",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-osaka-20261109-9ef05c10/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788577444.244885,
- "generated_at_str": "04/09/2026 21:04",
+ "generated_at": 1788581044.6592348,
+ "generated_at_str": "04/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261014-1a645aea/"
   },
   {
-   "id": "9ef05c109d99fe808cc2e9f1dcf54341",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "OSA",
-   "destination_name": "Osaka",
-   "airline": "ZG",
-   "airline_title": "ZIPAIR",
-   "logo": "https://pics.avs.io/600/150/ZG.png",
-   "logo_tipo": "",
-   "price": 9844.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-09T22:05:00-06:00",
-   "return_at": "",
-   "duration": 3020,
-   "link": "https://www.aviasales.com/search/MEX0911OSA1?t=ZG17942619001794497100003020NLUMTYIAHNRTKIX_9ef05c109d99fe808cc2e9f1dcf54341_50003&search_date=04092026&expected_price_uuid=01a06e97-bf63-8030-e324-5a251bf233df&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NnamdEL5YNmaWTwnxyBbFg&expected_price_source=share&expected_price_currency=mxn&expected_price=9844",
-   "title": "Flight deals from Mexico City to Osaka",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-osaka-20261109-9ef05c10/"
-  },
-  {
    "id": "1bedf0077badf334d5c1c3157c122e1e",
    "kind": "flight",
    "origin": "MEX",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001257001800252600001215MEXMTYICN_8e710b41d3246e705ea7db1312cb7b85_61174&search_date=04092026&expected_price_uuid=01a06ec5-33b3-8030-efb5-865f06ab1d2a&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=x--P6BC-obYIR-gpOx8UIA&expected_price_source=share&expected_price_currency=mxn&expected_price=12044",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-8e710b41/"
+  },
+  {
+   "id": "5bf386200aeb6c7bce89256eaa0e0069",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SHA",
+   "destination_name": "Shanghái",
+   "airline": "CA",
+   "airline_title": "Air China",
+   "logo": "https://pics.avs.io/600/150/CA.png",
+   "logo_tipo": "",
+   "price": 12133.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-15T06:00:00-05:00",
+   "return_at": "",
+   "duration": 2510,
+   "link": "https://www.aviasales.com/search/MEX1509SHA1?t=CA17894520001789653000002510NLUMTYLAXSZXPVG_5bf386200aeb6c7bce89256eaa0e0069_61632&search_date=05092026&expected_price_uuid=01a06f89-adf6-8040-69d7-d196c3394400&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=YtHWKnSG0OXyuur6l8Q3gw&expected_price_source=share&expected_price_currency=mxn&expected_price=12133",
+   "title": "Flight deals from Mexico City to Shanghai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260915-5bf38620/"
   },
   {
    "id": "59668a4357375674944fe5640408fe9f",

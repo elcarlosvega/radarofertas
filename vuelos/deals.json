@@ -1,6 +1,6 @@
 {
- "generated_at": 1788570243.8339243,
- "generated_at_str": "04/09/2026 19:04",
+ "generated_at": 1788573844.7117736,
+ "generated_at_str": "04/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "2a1d5ba48cedce092be4c4dc133b169b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 470.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-10T06:09:00-05:00",
-   "return_at": "",
-   "duration": 107,
-   "link": "https://www.aviasales.com/search/MEX1009MID1?t=Y417890205401789026960000107NLUMID_2a1d5ba48cedce092be4c4dc133b169b_2389&search_date=04092026&expected_price_uuid=01a06ddd-7acd-8051-20d7-f7568fb0758b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kxZdcZcfzW6zPjSSsyZ4Rg&expected_price_source=share&expected_price_currency=mxn&expected_price=470",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260910-2a1d5ba4/"
-  },
   {
    "id": "1798a93d5a02093a4b6859d6b60f2ddd",
    "kind": "flight",
@@ -48,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1409HOU1?t=Y417894022001789413900000135MEXIAH_1798a93d5a02093a4b6859d6b60f2ddd_12439&search_date=04092026&expected_price_uuid=01a06ec2-f853-8030-281b-132bd574cfbd&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2449",
    "title": "Flight deals from Mexico City to Houston",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260914-1798a93d/"
-  },
-  {
-   "id": "b81fcbc5d6d795dfa24981a015fb3e5f",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SDQ",
-   "destination_name": "Santo Domingo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3085.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-03T23:34:00-06:00",
-   "return_at": "",
-   "duration": 255,
-   "link": "https://www.aviasales.com/search/MEX0302SDQ1?t=DM18016976401801720140000255NLUSDQ_b81fcbc5d6d795dfa24981a015fb3e5f_15679&search_date=04092026&expected_price_uuid=01a06dc3-f888-8050-ed3e-ded6805ec890&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=3085",
-   "title": "Flight deals from Mexico City to Santo Domingo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270203-b81fcbc5/"
   },
   {
    "id": "94a697a8d5172b032c2f9288717ec936",
@@ -130,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
+   "id": "e075e26b3487abc6b6b50c86b9ce0796",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SAO",
+   "destination_name": "São Paulo",
+   "airline": "LA",
+   "airline_title": "LATAM Airlines Group",
+   "logo": "https://pics.avs.io/600/150/LA.png",
+   "logo_tipo": "",
+   "price": 6739.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-25T00:50:00-06:00",
+   "return_at": "",
+   "duration": 1055,
+   "link": "https://www.aviasales.com/search/MEX2512SAO1?t=LA17981598001798233900001055MEXBOGGRU_e075e26b3487abc6b6b50c86b9ce0796_34247&search_date=04092026&expected_price_uuid=01a06e86-9d59-8040-25be-3ec6e7b727fc&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=dD70ir0cKpyeyqmeT_eELA&expected_price_source=share&expected_price_currency=mxn&expected_price=6739",
+   "title": "Flight deals from Mexico City to Sao Paulo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261225-e075e26b/"
+  },
+  {
    "id": "a2a9376854d8b4b0f6e25086dc1f0b23",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX2509MAD1?t=E917903454001790430600000940NLUCUNMAD_a2a9376854d8b4b0f6e25086dc1f0b23_44716&search_date=04092026&expected_price_uuid=01a06e23-847b-8040-a5ae-9e7915990fcf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GhJI1e7gIP3cOolu7JkiHw&expected_price_source=share&expected_price_currency=mxn&expected_price=8799",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260925-a2a93768/"
+  },
+  {
+   "id": "1a645aea999475bfa7206af50024b0d2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TBS",
+   "destination_name": "Tiflis",
+   "airline": "N0",
+   "airline_title": "Norse Atlantic Airways",
+   "logo": "https://pics.avs.io/600/150/N0.png",
+   "logo_tipo": "",
+   "price": 8863.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-14T07:00:00-05:00",
+   "return_at": "",
+   "duration": 3465,
+   "link": "https://www.aviasales.com/search/MEX1410TBS1?t=N017919612001792205100003465MEXJFKATHTBS_1a645aea999475bfa7206af50024b0d2_45021&search_date=04092026&expected_price_uuid=01a06ebe-d4e4-8030-2c9d-2904d36d73a0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uRwZEeFlE60Kdj6RhoflTA&expected_price_source=share&expected_price_currency=mxn&expected_price=8863",
+   "title": "Flight deals from Mexico City to Tbilisi",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261014-1a645aea/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

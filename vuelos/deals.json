@@ -1,6 +1,6 @@
 {
- "generated_at": 1788606244.112726,
- "generated_at_str": "05/09/2026 05:04",
+ "generated_at": 1788609844.5749202,
+ "generated_at_str": "05/09/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "ff2a7865c8803698d0bd79cc60370cd9",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 500.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-14T06:30:00-05:00",
-   "return_at": "",
-   "duration": 74,
-   "link": "https://www.aviasales.com/search/MEX1409GDL1?t=Y417893674001789371840000074NLUGDL_ff2a7865c8803698d0bd79cc60370cd9_2541&search_date=05092026&expected_price_uuid=01a0701c-e9b6-8030-af70-099b07a0af5d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YyHf0dpd2HB7XfW7eX9cHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=500",
-   "title": "Flight deals from Mexico City to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260914-ff2a7865/"
-  },
   {
    "id": "85ba3aff1d851d52311d3aa924c5ce7e",
    "kind": "flight",
@@ -148,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX1809BKK1?t=CA17897130001789911300002525NLUGDLLAXPEKBKK_6b5e5c3bbb9f44d8ae9edf694af9af0a_44876&search_date=05092026&expected_price_uuid=01a0709f-010a-8050-e846-f039b5ee6dd5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=B0ksHdNhFSjZ-e4wvJ_gWA&expected_price_source=share&expected_price_currency=mxn&expected_price=8835",
    "title": "Flight deals from Mexico City to Bangkok",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20260918-6b5e5c3b/"
-  },
-  {
-   "id": "fbe60b6750f692fe8ef33d036ff775ed",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SHA",
-   "destination_name": "Shanghái",
-   "airline": "CA",
-   "airline_title": "Air China",
-   "logo": "https://pics.avs.io/600/150/CA.png",
-   "logo_tipo": "",
-   "price": 10729.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-14T06:30:00-05:00",
-   "return_at": "",
-   "duration": 2960,
-   "link": "https://www.aviasales.com/search/MEX1409SHA1?t=CA17893674001789595400002960NLUGDLLAXPEKSHA_fbe60b6750f692fe8ef33d036ff775ed_54501&search_date=05092026&expected_price_uuid=01a07019-9cba-8040-64fe-1317b74cdc1e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5UL3WyAXeK4Ouw2VYIxyKg&expected_price_source=share&expected_price_currency=mxn&expected_price=10729",
-   "title": "Flight deals from Mexico City to Shanghai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20260914-fbe60b67/"
   },
   {
    "id": "0c9c70f240f1f0cff9019cdf7cc503d6",

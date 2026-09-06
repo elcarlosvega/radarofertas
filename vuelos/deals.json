@@ -1,6 +1,6 @@
 {
- "generated_at": 1788714244.3371706,
- "generated_at_str": "06/09/2026 11:04",
+ "generated_at": 1788717844.0872314,
+ "generated_at_str": "06/09/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0601BUE1?t=DM17992551001799314320000807NLUPUJEZE_6b6b8027088bde80605ef40a9e1521cb_28356&search_date=06092026&expected_price_uuid=01a0779e-cfd8-8040-a6fc-e6d504f08ca1&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=y2cNgn1CC7KrOQwEigoYHg&expected_price_source=share&expected_price_currency=mxn&expected_price=5533",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270106-6b6b8027/"
+  },
+  {
+   "id": "03fea77f83c66db800a8a865c6c86619",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 22744.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-25T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2509IST1?t=TK17903268001790418000000980MEXIST_03fea77f83c66db800a8a865c6c86619_116550&search_date=06092026&expected_price_uuid=01a077d5-7cc6-8051-29fe-9f123f064349&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=22744",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260925-03fea77f/"
   }
  ]
 }

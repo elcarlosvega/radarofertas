@@ -1,6 +1,6 @@
 {
- "generated_at": 1788667444.4054632,
- "generated_at_str": "05/09/2026 22:04",
+ "generated_at": 1788671044.5146294,
+ "generated_at_str": "05/09/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20260916-ac357657/"
   },
   {
-   "id": "32cee0db09cb6d26a3a1518fa248c9af",
+   "id": "a72ad130d8c57f8dda26d8529227f03a",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "LTO",
-   "destination_name": "Loreto",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
+   "destination": "MDE",
+   "destination_name": "Medellín",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 2942.0,
+   "price": 3839.0,
    "currency": "MXN",
-   "departure_at": "2026-12-13T06:05:00-06:00",
+   "departure_at": "2026-10-28T23:34:00-06:00",
    "return_at": "",
-   "duration": 530,
-   "link": "https://www.aviasales.com/search/MEX1312LTO1?t=VB17971419001797170100000530NLUTIJLTO_32cee0db09cb6d26a3a1518fa248c9af_14942&search_date=05092026&expected_price_uuid=01a073af-e81e-8040-abe1-5975cfd3e676&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TufEFEVSoSenHfRyQCzUVQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2942",
-   "title": "Flight deals from Mexico City to Loreto",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-loreto-20261213-32cee0db/"
+   "duration": 526,
+   "link": "https://www.aviasales.com/search/MEX2810MDE1?t=DM17932304401793265600000526NLUSDQMDE_a72ad130d8c57f8dda26d8529227f03a_19502&search_date=06092026&expected_price_uuid=01a07503-60f1-8030-e613-286ec22a4ed3&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Gyhk0WPWyzqGxqmbGyFf5A&expected_price_source=share&expected_price_currency=mxn&expected_price=3839",
+   "title": "Flight deals from Mexico City to Medellin",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261028-a72ad130/"
   },
   {
    "id": "61c39d17542213c3916d2daee1d060cc",

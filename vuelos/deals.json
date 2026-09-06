@@ -1,6 +1,6 @@
 {
- "generated_at": 1788653043.9068372,
- "generated_at_str": "05/09/2026 18:04",
+ "generated_at": 1788656644.0461683,
+ "generated_at_str": "05/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,7 +10,7 @@
  ],
  "deals": [
   {
-   "id": "1fb6d680ad8395ba8031b8080b5358ea",
+   "id": "e9e805d00c83b858a1686a1becc85b92",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -20,14 +20,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 535.0,
+   "price": 671.0,
    "currency": "MXN",
-   "departure_at": "2026-09-07T17:40:00-05:00",
+   "departure_at": "2026-09-09T17:40:00-05:00",
    "return_at": "",
    "duration": 107,
-   "link": "https://www.aviasales.com/search/MEX0709MID1?t=Y417888028001788809220000107NLUMID_1fb6d680ad8395ba8031b8080b5358ea_2720&search_date=05092026&expected_price_uuid=01a07339-d97f-8040-29e9-d28c4f3f303e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSpAB1q94DjIO_XahoeDpg&expected_price_source=share&expected_price_currency=mxn&expected_price=535",
+   "link": "https://www.aviasales.com/search/MEX0909MID1?t=Y417889756001788982020000107NLUMID_e9e805d00c83b858a1686a1becc85b92_3410&search_date=06092026&expected_price_uuid=01a07414-f0f7-8051-2de1-024e1bee7636&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSpAB1q94DjIO_XahoeDpg&expected_price_source=share&expected_price_currency=mxn&expected_price=671",
    "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260907-1fb6d680/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260909-e9e805d0/"
   },
   {
    "id": "303a8c865539dbcea4229f19a87b82e9",
@@ -188,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2510TYO1?t=AM17929647001793082600001065MEXNRT_330a69638186fc974b9c4b1b1532da80_71799&search_date=05092026&expected_price_uuid=01a073e2-2851-8030-2003-b5d17c099296&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Gn9gwIFHaNltnylTu5aW8w&expected_price_source=share&expected_price_currency=mxn&expected_price=14135",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261025-330a6963/"
+  },
+  {
+   "id": "6bacbac82ab7f277e7e2887bbeb213b7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 20926.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-15T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX1509IST1?t=TK17894628001789554000000980MEXIST_6bacbac82ab7f277e7e2887bbeb213b7_106295&search_date=06092026&expected_price_uuid=01a07411-0d50-8051-2deb-182ffa72f2d8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=20926",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260915-6bacbac8/"
   }
  ]
 }

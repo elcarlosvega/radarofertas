@@ -1,6 +1,6 @@
 {
- "generated_at": 1788699843.9395103,
- "generated_at_str": "06/09/2026 07:04",
+ "generated_at": 1788703444.2945428,
+ "generated_at_str": "06/09/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX2602CUN1?t=VB18036738601803684900000124NLUCUN_5146d6c4e8c05e0aee5e6e4f0f911bf3_6951&search_date=06092026&expected_price_uuid=01a075cc-8295-8050-686a-39f2b5d9df20&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Vtp-sI5JlDD-WgVSocd4GA&expected_price_source=share&expected_price_currency=mxn&expected_price=1368",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270226-5146d6c4/"
+  },
+  {
+   "id": "8e2a0e9f03f69fd6e64d55285d513edf",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJO",
+   "destination_name": "San José",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2339.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-30T15:55:00-05:00",
+   "return_at": "",
+   "duration": 1220,
+   "link": "https://www.aviasales.com/search/MEX3009SJO1?t=VB17907837001790856900001220NLUMTYSJO_8e2a0e9f03f69fd6e64d55285d513edf_11988&search_date=06092026&expected_price_uuid=01a076f9-7225-8030-a085-1308df219665&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SJIQSA26UXJZciwsnzN76A&expected_price_source=share&expected_price_currency=mxn&expected_price=2339",
+   "title": "Flight deals from Mexico City to San Jose",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20260930-8e2a0e9f/"
   },
   {
    "id": "7d4cf53db9f1e9cd4968804b2a85697a",
@@ -70,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260910-a34c53a1/"
   },
   {
-   "id": "a42eb941c6885991cb1e4235a2ec5e85",
+   "id": "2fc8214ab46adba7df9c8c2bed041aed",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "IST",
    "destination_name": "Estambul",
-   "airline": "QR",
-   "airline_title": "Qatar Airways",
-   "logo": "https://pics.avs.io/600/150/QR.png",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 11585.0,
+   "price": 22789.0,
    "currency": "MXN",
-   "departure_at": "2026-09-10T17:12:00-05:00",
+   "departure_at": "2026-09-18T09:00:00-05:00",
    "return_at": "",
-   "duration": 2423,
-   "link": "https://www.aviasales.com/search/MEX1009IST1?t=QR17890603201789238100002423MEXDFWDOHIST_a42eb941c6885991cb1e4235a2ec5e85_58845&search_date=06092026&expected_price_uuid=01a075a6-275d-8030-2b87-b374d3f7ccfc&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=m6UgTQxBWKK3MA3DvzEqbQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11585",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX1809IST1?t=TK17897220001789813200000980MEXIST_2fc8214ab46adba7df9c8c2bed041aed_115759&search_date=06092026&expected_price_uuid=01a075c1-5d8e-8050-2d31-93151aa1ea08&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=22789",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260910-a42eb941/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260918-2fc8214a/"
   }
  ]
 }

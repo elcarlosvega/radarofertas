@@ -1,6 +1,6 @@
 {
- "generated_at": 1788696245.2300878,
- "generated_at_str": "06/09/2026 06:04",
+ "generated_at": 1788699843.9395103,
+ "generated_at_str": "06/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270226-5146d6c4/"
   },
   {
-   "id": "21dca96745587ce69118e56776ebc893",
+   "id": "7d4cf53db9f1e9cd4968804b2a85697a",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 1756.0,
+   "price": 4682.0,
    "currency": "MXN",
-   "departure_at": "2026-09-14T15:57:00-05:00",
+   "departure_at": "2026-09-24T10:06:00-05:00",
    "return_at": "",
-   "duration": 294,
-   "link": "https://www.aviasales.com/search/MEX1409TIJ1?t=VB17894014201789415460000294NLUTIJ_21dca96745587ce69118e56776ebc893_8922&search_date=06092026&expected_price_uuid=01a0755a-f8db-8040-6240-cb344a775659&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=h_X9x1dRzN2EutzFcUDzBQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1756",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20260914-21dca967/"
+   "duration": 879,
+   "link": "https://www.aviasales.com/search/MEX2409BUE1?t=DM17902443601790307900000879NLUPUJEZE_7d4cf53db9f1e9cd4968804b2a85697a_23991&search_date=06092026&expected_price_uuid=01a076c1-dcbb-8050-6f6d-33a49336bad2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SfgOivc4rR_JJCet9KPkPA&expected_price_source=share&expected_price_currency=mxn&expected_price=4682",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260924-7d4cf53d/"
   },
   {
    "id": "a34c53a174bc3f93ccee1b15cb541047",

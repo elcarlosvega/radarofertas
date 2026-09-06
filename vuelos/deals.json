@@ -1,6 +1,6 @@
 {
- "generated_at": 1788649443.8969162,
- "generated_at_str": "05/09/2026 17:04",
+ "generated_at": 1788653043.9068372,
+ "generated_at_str": "05/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-sacramento-20260912-489b62cc/"
   },
   {
-   "id": "29218b9aa87639c8a51b7efa9f1e127e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 8606.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-25T22:20:00-06:00",
-   "return_at": "",
-   "duration": 2170,
-   "link": "https://www.aviasales.com/search/MEX2511IST1?t=AM17956452001795807800002170MEXLHRARNSAW_29218b9aa87639c8a51b7efa9f1e127e_43715&search_date=05092026&expected_price_uuid=01a0728a-1c28-8040-a086-f2fa2f8d003e&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=2Hv6sQr6rz4MIc7dCtpH_A&expected_price_source=share&expected_price_currency=mxn&expected_price=8606",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261125-29218b9a/"
-  },
-  {
    "id": "f1131d162a1fee29e890116ca30a6d9e",
    "kind": "flight",
    "origin": "MEX",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX2609MAD1?t=IB17904669001790533800000635MEXMAD_7eefa37cf08f3fa333d5c2b222094458_61413&search_date=05092026&expected_price_uuid=01a0734c-1a54-8040-2e25-9cd79ec92cfa&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ujwCOwnrQZyn7hL9nqFdRA&expected_price_source=share&expected_price_currency=mxn&expected_price=12090",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260926-7eefa37c/"
+  },
+  {
+   "id": "330a69638186fc974b9c4b1b1532da80",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 14135.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-25T21:45:00-06:00",
+   "return_at": "",
+   "duration": 1065,
+   "link": "https://www.aviasales.com/search/MEX2510TYO1?t=AM17929647001793082600001065MEXNRT_330a69638186fc974b9c4b1b1532da80_71799&search_date=05092026&expected_price_uuid=01a073e2-2851-8030-2003-b5d17c099296&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Gn9gwIFHaNltnylTu5aW8w&expected_price_source=share&expected_price_currency=mxn&expected_price=14135",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261025-330a6963/"
   }
  ]
 }

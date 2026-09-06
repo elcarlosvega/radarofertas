@@ -1,6 +1,6 @@
 {
- "generated_at": 1788671044.5146294,
- "generated_at_str": "05/09/2026 23:04",
+ "generated_at": 1788674644.1698775,
+ "generated_at_str": "06/09/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1609CHI1?t=Y417895843001789602420000242MEXORD_ac35765708593ab3f069b45a933142fb_14154&search_date=06092026&expected_price_uuid=01a0746e-4170-8030-eddf-8fcb3e5b0aa2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=awolrz4iYgm7AhV_7RNolA&expected_price_source=share&expected_price_currency=mxn&expected_price=2786",
    "title": "Flight deals from Mexico City to Chicago",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20260916-ac357657/"
+  },
+  {
+   "id": "33e183df901bfe7e93d78ab552151159",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "OAK",
+   "destination_name": "Oakland",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3535.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-24T18:10:00-05:00",
+   "return_at": "",
+   "duration": 274,
+   "link": "https://www.aviasales.com/search/MEX2410OAK1?t=Y417928654001792878240000274MEXOAK_33e183df901bfe7e93d78ab552151159_17954&search_date=06092026&expected_price_uuid=01a0753d-d486-8030-69be-d726ca50ae70&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9gg2W5GvO7mm9EYNuIr9Vg&expected_price_source=share&expected_price_currency=mxn&expected_price=3535",
+   "title": "Flight deals from Mexico City to Oakland",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20261024-33e183df/"
   },
   {
    "id": "a72ad130d8c57f8dda26d8529227f03a",
@@ -128,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX1302LON1?t=BA18025524001802610600000610MEXLHR_fa0e18d19b2dc9bea4db75c98c7dbe3e_41588&search_date=06092026&expected_price_uuid=01a0743c-3a44-8040-6672-c14bc636eb30&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3ugkBE92_FXOvlCroaDGxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8187",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270213-fa0e18d1/"
-  },
-  {
-   "id": "330a69638186fc974b9c4b1b1532da80",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 14135.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-25T21:45:00-06:00",
-   "return_at": "",
-   "duration": 1065,
-   "link": "https://www.aviasales.com/search/MEX2510TYO1?t=AM17929647001793082600001065MEXNRT_330a69638186fc974b9c4b1b1532da80_71799&search_date=05092026&expected_price_uuid=01a073e2-2851-8030-2003-b5d17c099296&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Gn9gwIFHaNltnylTu5aW8w&expected_price_source=share&expected_price_currency=mxn&expected_price=14135",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261025-330a6963/"
   },
   {
    "id": "6bacbac82ab7f277e7e2887bbeb213b7",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788761043.7059653,
- "generated_at_str": "07/09/2026 00:04",
+ "generated_at": 1788764643.7726178,
+ "generated_at_str": "07/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20260910-4ed839a7/"
   },
   {
-   "id": "1f1a69cf6783f91ab2a5fdbf8bff127b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 896.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-08T22:36:00-05:00",
-   "return_at": "",
-   "duration": 200,
-   "link": "https://www.aviasales.com/search/MEX0810TIJ1?t=Y417914989601791507360000200NLUTIJ_1f1a69cf6783f91ab2a5fdbf8bff127b_4590&search_date=07092026&expected_price_uuid=01a07946-0fee-8030-6052-3af6287fb50e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=We0X_VlGJBlHQVIej9kzHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=896",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261008-1f1a69cf/"
-  },
-  {
    "id": "bacd2e134d6fc2a7232926877df8b269",
    "kind": "flight",
    "origin": "MEX",
@@ -140,12 +120,12 @@
    "airline_title": "WestJet",
    "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 4648.0,
+   "price": 4647.0,
    "currency": "MXN",
    "departure_at": "2026-12-01T01:15:00-06:00",
    "return_at": "",
    "duration": 1635,
-   "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_23820&search_date=07092026&expected_price_uuid=01a07a26-a001-8040-25af-be9aa878489e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4648",
+   "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_23820&search_date=07092026&expected_price_uuid=01a07a26-a001-8040-25af-be9aa878489e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4647",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
@@ -200,12 +180,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 23976.0,
+   "price": 24071.0,
    "currency": "MXN",
    "departure_at": "2026-09-21T06:02:00-05:00",
    "return_at": "",
    "duration": 1158,
-   "link": "https://www.aviasales.com/search/GDL2109IST1?t=TK17899705201790072400001158GDLMEXIST_3fe93003f9845f6999f233f101753eee_122880&search_date=07092026&expected_price_uuid=01a07a75-0bba-8030-ef45-38cfe72d5bb5&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=bpUq3J1MTg4hmCdvydld_w&expected_price_source=share&expected_price_currency=mxn&expected_price=23976",
+   "link": "https://www.aviasales.com/search/GDL2109IST1?t=TK17899705201790072400001158GDLMEXIST_3fe93003f9845f6999f233f101753eee_123370&search_date=07092026&expected_price_uuid=01a07a81-f226-8030-2f1c-d0871866a92e&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=bpUq3J1MTg4hmCdvydld_w&expected_price_source=share&expected_price_currency=mxn&expected_price=24071",
    "title": "Flight deals from Guadalajara to Istanbul",
    "micro": "/oferta/vuelos/vuelo-guadalajara-estambul-20260921-3fe93003/"
   }

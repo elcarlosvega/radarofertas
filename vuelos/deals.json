@@ -1,6 +1,6 @@
 {
- "generated_at": 1788782643.8446262,
- "generated_at_str": "07/09/2026 06:04",
+ "generated_at": 1788786243.5986202,
+ "generated_at_str": "07/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "7b693d69b9bbd4952adef0e418eb18eb",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4154.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-30T22:00:00-06:00",
+   "return_at": "",
+   "duration": 355,
+   "link": "https://www.aviasales.com/search/MEX3001LIM1?t=Y418013464001801371300000355MEXLIM_7b693d69b9bbd4952adef0e418eb18eb_21211&search_date=07092026&expected_price_uuid=01a07bd1-0e65-8050-a5b3-1df765654324&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4154",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270130-7b693d69/"
+  },
   {
    "id": "6cbbc9fa2f0ca68b81ce3305df507205",
    "kind": "flight",
@@ -20,12 +40,12 @@
    "airline_title": "Qatar Airways",
    "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 10727.0,
+   "price": 10728.0,
    "currency": "MXN",
    "departure_at": "2026-09-11T06:20:00-05:00",
    "return_at": "",
    "duration": 1745,
-   "link": "https://www.aviasales.com/search/MEX1109DXB1?t=QR17891076001789248300001745MEXIAHDOHDXB_6cbbc9fa2f0ca68b81ce3305df507205_54563&search_date=07092026&expected_price_uuid=01a07af9-8e63-8030-e7e9-514b8493fa4e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=avtcJFgoHrA3s45_RO7Y9w&expected_price_source=share&expected_price_currency=mxn&expected_price=10727",
+   "link": "https://www.aviasales.com/search/MEX1109DXB1?t=QR17891076001789248300001745MEXIAHDOHDXB_6cbbc9fa2f0ca68b81ce3305df507205_54563&search_date=07092026&expected_price_uuid=01a07af9-8e63-8030-e7e9-514b8493fa4e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=avtcJFgoHrA3s45_RO7Y9w&expected_price_source=share&expected_price_currency=mxn&expected_price=10728",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260911-6cbbc9fa/"
   },
@@ -40,12 +60,12 @@
    "airline_title": "British Airways",
    "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 11615.0,
+   "price": 11617.0,
    "currency": "MXN",
    "departure_at": "2027-02-22T21:00:00-06:00",
    "return_at": "",
    "duration": 1085,
-   "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_59287&search_date=07092026&expected_price_uuid=01a07b6e-9988-8030-af58-151c51a45e88&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=11615",
+   "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_59287&search_date=07092026&expected_price_uuid=01a07b6e-9988-8030-af58-151c51a45e88&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=11617",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
   },
@@ -60,17 +80,17 @@
    "airline_title": "Etihad Airways",
    "logo": "https://pics.avs.io/600/150/EY.png",
    "logo_tipo": "",
-   "price": 13538.0,
+   "price": 13539.0,
    "currency": "MXN",
    "departure_at": "2026-09-10T12:35:00-05:00",
    "return_at": "",
    "duration": 3035,
-   "link": "https://www.aviasales.com/search/MEX1009TAS1?t=EY17890437001789265400003035MEXBOSAUHTAS_9687fe71957e80ddc312249b6cc3beea_68861&search_date=07092026&expected_price_uuid=01a07af6-f6fa-8030-a5e3-c86385f8aac6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cPW-m_gw3BgBX69Xs8hUew&expected_price_source=share&expected_price_currency=mxn&expected_price=13538",
+   "link": "https://www.aviasales.com/search/MEX1009TAS1?t=EY17890437001789265400003035MEXBOSAUHTAS_9687fe71957e80ddc312249b6cc3beea_68861&search_date=07092026&expected_price_uuid=01a07af6-f6fa-8030-a5e3-c86385f8aac6&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cPW-m_gw3BgBX69Xs8hUew&expected_price_source=share&expected_price_currency=mxn&expected_price=13539",
    "title": "Flight deals from Mexico City to Tashkent",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20260910-9687fe71/"
   },
   {
-   "id": "3fe93003f9845f6999f233f101753eee",
+   "id": "a714dd41c866a54604d2599b8c3b3c96",
    "kind": "flight",
    "origin": "GDL",
    "origin_name": "Guadalajara",
@@ -80,14 +100,14 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 25766.0,
+   "price": 24623.0,
    "currency": "MXN",
-   "departure_at": "2026-09-21T06:02:00-05:00",
+   "departure_at": "2026-09-20T06:02:00-05:00",
    "return_at": "",
    "duration": 1158,
-   "link": "https://www.aviasales.com/search/GDL2109IST1?t=TK17899705201790072400001158GDLMEXIST_3fe93003f9845f6999f233f101753eee_131587&search_date=07092026&expected_price_uuid=01a07bab-7d10-8030-256c-87031d083664&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=bpUq3J1MTg4hmCdvydld_w&expected_price_source=share&expected_price_currency=mxn&expected_price=25766",
+   "link": "https://www.aviasales.com/search/GDL2009IST1?t=TK17898841201789986000001158GDLMEXIST_a714dd41c866a54604d2599b8c3b3c96_125736&search_date=07092026&expected_price_uuid=01a07bce-7fd7-8030-a9bb-6c3df962aabf&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ohBwAk5gzXXvvDGVLHnBxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=24623",
    "title": "Flight deals from Guadalajara to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-estambul-20260921-3fe93003/"
+   "micro": "/oferta/vuelos/vuelo-guadalajara-estambul-20260920-a714dd41/"
   }
  ]
 }

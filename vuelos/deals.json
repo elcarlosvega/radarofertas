@@ -1,6 +1,6 @@
 {
- "generated_at": 1788815043.6473053,
- "generated_at_str": "07/09/2026 15:04",
+ "generated_at": 1788818643.4865828,
+ "generated_at_str": "07/09/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0909MID1?t=Y417889756001788982020000107NLUMID_e9e805d00c83b858a1686a1becc85b92_2842&search_date=07092026&expected_price_uuid=01a07d9f-fc1b-8030-eda7-8c56fb5c8736&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LSpAB1q94DjIO_XahoeDpg&expected_price_source=share&expected_price_currency=mxn&expected_price=560",
    "title": "Flight deals from Mexico City to Merida",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20260909-e9e805d0/"
+  },
+  {
+   "id": "237fe6d91b96608d9f6ea9a54f957b40",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 661.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-26T08:07:00-05:00",
+   "return_at": "",
+   "duration": 83,
+   "link": "https://www.aviasales.com/search/GDL2609MEX1?t=AM17904100201790415000000083GDLNLU_237fe6d91b96608d9f6ea9a54f957b40_3353&search_date=07092026&expected_price_uuid=01a07de3-14c0-8040-2206-79bfca9d3ea4&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iwVEKieXq--v4M9gQaMUFA&expected_price_source=share&expected_price_currency=mxn&expected_price=661",
+   "title": "Flight deals from Guadalajara to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260926-237fe6d9/"
   },
   {
    "id": "7693a37c7d99ff9b5e824dc5603bc4bf",
@@ -110,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260928-8d7898dc/"
   },
   {
-   "id": "5b1476010503093eb354664f8b325b03",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PAR",
-   "destination_name": "París",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 4902.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-16T01:15:00-05:00",
-   "return_at": "",
-   "duration": 1605,
-   "link": "https://www.aviasales.com/search/MEX1610PAR1?t=WS17921133001792238400001605MEXYYCCDG_5b1476010503093eb354664f8b325b03_24923&search_date=07092026&expected_price_uuid=01a07c77-82a4-8040-ae43-d6805db4ac6a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wiQZskZnGQ8RsonigMAgIg&expected_price_source=share&expected_price_currency=mxn&expected_price=4902",
-   "title": "Flight deals from Mexico City to Paris",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261016-5b147601/"
-  },
-  {
    "id": "8554b9cd813563b936ca07ae1e79180c",
    "kind": "flight",
    "origin": "GDL",
@@ -148,26 +148,6 @@
    "link": "https://www.aviasales.com/search/GDL0909SJC1?t=Y417889372001788947220000227GDLSJC_8554b9cd813563b936ca07ae1e79180c_26446&search_date=07092026&expected_price_uuid=01a07d9f-6bd8-8040-2e8d-04e9dff95166&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=5210",
    "title": "Flight deals from Guadalajara to San Jose",
    "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20260909-8554b9cd/"
-  },
-  {
-   "id": "3603c2d2ef4c8a3555b20c7beb32d4d5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BCN",
-   "destination_name": "Barcelona",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 8620.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-15T17:15:00-05:00",
-   "return_at": "",
-   "duration": 675,
-   "link": "https://www.aviasales.com/search/MEX1510BCN1?t=AM17920845001792153800000675MEXBCN_3603c2d2ef4c8a3555b20c7beb32d4d5_43828&search_date=07092026&expected_price_uuid=01a07c5f-7144-8040-281e-22be7f971cfd&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=513DCOTfFpm_m8qZjZyM0A&expected_price_source=share&expected_price_currency=mxn&expected_price=8620",
-   "title": "Flight deals from Mexico City to Barcelona",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261015-3603c2d2/"
   },
   {
    "id": "4b6a2d29e772bd4f549855c4b57d7d96",

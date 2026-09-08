@@ -1,6 +1,6 @@
 {
- "generated_at": 1788836711.5932243,
- "generated_at_str": "07/09/2026 21:05",
+ "generated_at": 1788840329.103336,
+ "generated_at_str": "07/09/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -11782,6 +11782,25 @@
    "h_min7": 6999.0
   },
   {
+   "id": "690380",
+   "name": "SGR by Schecter Guitarra Eléctrica C-1 FR Negro",
+   "url": "https://www.costco.com.mx/Electronicos/Instrumentos-Musicales/Instrumentos-de-Cuerda/SGR-by-Schecter-Guitarra-Electrica-C-1-FR-Negro/p/690380",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h65/h39/279306401513502.jpg",
+   "category": "Electronicos",
+   "price_old": 8999.0,
+   "price_new": 6999.0,
+   "pct": 22.2,
+   "amount": 2000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 30,
+   "h_min": 6999.0,
+   "h_ayer": 6999.0,
+   "h_min7": 6999.0
+  },
+  {
    "id": "696201",
    "name": "GE Lavadora 24Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-24Kg-Carga-Superior/p/696201",
@@ -19508,6 +19527,25 @@
    "h_min": 74999.0,
    "h_ayer": 86999.0,
    "h_min7": 84999.0
+  },
+  {
+   "id": "696532",
+   "name": "Vento Motocicleta Thunderstar 300cc Negro",
+   "url": "https://www.costco.com.mx/Deportes/Motociclismo/Motocicletas/Vento-Motocicleta-Thunderstar-300cc-Negro/p/696532",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/hc5/380988313534494.jpg",
+   "category": "Deportes",
+   "price_old": 37999.0,
+   "price_new": 33999.0,
+   "pct": 10.5,
+   "amount": 4000.0,
+   "starts": "2026-09-02T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788357959.0427346,
+   "h_dias": 41,
+   "h_min": 33999.0,
+   "h_ayer": 33999.0,
+   "h_min7": 33999.0
   },
   {
    "id": "697124",

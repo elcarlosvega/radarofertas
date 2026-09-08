@@ -1,6 +1,6 @@
 {
- "generated_at": 1788872727.3119724,
- "generated_at_str": "08/09/2026 07:05",
+ "generated_at": 1788876312.1179972,
+ "generated_at_str": "08/09/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -397,7 +397,7 @@
    "starts": "2026-09-07T06:00:00.000Z",
    "ends": "2026-09-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788872727.3119724,
+   "first_seen": 1788872734.1431882,
    "h_dias": 26,
    "h_min": 18499.0,
    "h_min7": 19299.0
@@ -1881,25 +1881,6 @@
    "h_min7": 389.0
   },
   {
-   "id": "694462",
-   "name": "Canon Impresora Multifuncional Pixma G3170",
-   "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Multifuncionales/Canon-Impresora-Multifuncional-Pixma-G3170/p/694462",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h73/350510911258654.jpg",
-   "category": "Papeleria y Negocio",
-   "price_old": 4499.0,
-   "price_new": 3199.0,
-   "pct": 28.9,
-   "amount": 1300.0,
-   "starts": "2026-08-01T06:00:00.000Z",
-   "ends": "2026-10-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1785626857.1147935,
-   "h_dias": 41,
-   "h_min": 3199.0,
-   "h_ayer": 3199.0,
-   "h_min7": 3199.0
-  },
-  {
    "id": "704691",
    "name": "Jugo Maggi Mi-Che 1.9 l",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Especias-Condimentos-y-Sazonadores/Jugo-Maggi-Mi-Che-19-l/p/704691",
@@ -2746,6 +2727,24 @@
    "h_min": 4699.0,
    "h_ayer": 5199.0,
    "h_min7": 5199.0
+  },
+  {
+   "id": "645705",
+   "name": "My Perfect Shake Bebida en Polvo Sabor Expresso Cocoa 2kg",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Proteinas/My-Perfect-Shake-Bebida-en-Polvo-Sabor-Expresso-Cocoa-2kg/p/645705",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9e/h8f/207482631585822.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 899.0,
+   "price_new": 649.0,
+   "pct": 27.8,
+   "amount": 250.0,
+   "starts": "2026-09-08T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788876312.1179972,
+   "h_dias": 19,
+   "h_min": 649.0,
+   "h_min7": 649.0
   },
   {
    "id": "704455",
@@ -4066,25 +4065,6 @@
    "h_ayer": 20999.0
   },
   {
-   "id": "668321",
-   "name": "Maytag Lavadora 29Kg Carga Superior",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-29Kg-Carga-Superior/p/668321",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h37/h85/81556117684254.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 23999.0,
-   "price_new": 17999.0,
-   "pct": 25.0,
-   "amount": 6000.0,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787936726.1531415,
-   "h_dias": 20,
-   "h_min": 17999.0,
-   "h_ayer": 17999.0,
-   "h_min7": 17999.0
-  },
-  {
    "id": "693787",
    "name": "Chateau Lafite 2022 Vino Tinto 750 ml",
    "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Chateau-Lafite-2022-Vino-Tinto-750-ml/p/693787",
@@ -4498,6 +4478,25 @@
    "h_min": 4549.3,
    "h_ayer": 4874.25,
    "h_min7": 4874.25
+  },
+  {
+   "id": "694462",
+   "name": "Canon Impresora Multifuncional Pixma G3170",
+   "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Multifuncionales/Canon-Impresora-Multifuncional-Pixma-G3170/p/694462",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h73/350510911258654.jpg",
+   "category": "Papeleria y Negocio",
+   "price_old": 5199.0,
+   "price_new": 3899.0,
+   "pct": 25.0,
+   "amount": 1300.0,
+   "starts": "2026-08-01T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788876312.1179972,
+   "h_dias": 41,
+   "h_min": 3199.0,
+   "h_ayer": 3199.0,
+   "h_min7": 3199.0
   },
   {
    "id": "750320",
@@ -16946,6 +16945,25 @@
    "h_min": 30499.0,
    "h_ayer": 32499.0,
    "h_min7": 32499.0
+  },
+  {
+   "id": "1783065",
+   "name": "Aiden & Ivy, Sofá Modular de Tela de 6 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Aiden-Ivy-Sofa-Modular-de-Tela-de-6-Piezas/p/1783065",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/he9/485803841552414.jpg",
+   "category": "Muebles",
+   "price_old": 44999.0,
+   "price_new": 38499.0,
+   "pct": 14.4,
+   "amount": 6500.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 10,
+   "h_min": 35999.0,
+   "h_ayer": 38499.0,
+   "h_min7": 38499.0
   },
   {
    "id": "521809",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788854644.3722215,
- "generated_at_str": "08/09/2026 02:04",
+ "generated_at": 1788858244.374753,
+ "generated_at_str": "08/09/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-houston-20260911-d3a1dc11/"
   },
   {
-   "id": "4b9c0641245eb3470f6450f42ee96afa",
+   "id": "ba907bab3a7e8776d1330ab60018af49",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3783.0,
+   "destination": "PAR",
+   "destination_name": "París",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 5949.0,
    "currency": "MXN",
-   "departure_at": "2027-02-28T19:31:00-06:00",
+   "departure_at": "2026-10-19T01:15:00-05:00",
    "return_at": "",
-   "duration": 259,
-   "link": "https://www.aviasales.com/search/MEX2802MDE1?t=VB18038430601803862200000259NLUMDE_4b9c0641245eb3470f6450f42ee96afa_19235&search_date=08092026&expected_price_uuid=01a07eca-7939-8040-6bd7-0d97f06cb333&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PtbjSUmT0mjO5d6jGqiCaA&expected_price_source=share&expected_price_currency=mxn&expected_price=3783",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20270228-4b9c0641/"
+   "duration": 1605,
+   "link": "https://www.aviasales.com/search/MEX1910PAR1?t=WS17923725001792497600001605MEXYYCCDG_ba907bab3a7e8776d1330ab60018af49_30371&search_date=08092026&expected_price_uuid=01a08034-69da-8050-204a-6693c8bf7966&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wiQZskZnGQ8RsonigMAgIg&expected_price_source=share&expected_price_currency=mxn&expected_price=5949",
+   "title": "Flight deals from Mexico City to Paris",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261019-ba907bab/"
   },
   {
    "id": "71323590ff15c1642b872b8cf61dd178",
@@ -108,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX1111MAD1?t=AM17944347001794498000000635MEXMAD_71323590ff15c1642b872b8cf61dd178_37001&search_date=08092026&expected_price_uuid=01a07fd1-f913-8030-a9b8-fa59a46e9237&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=7278",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261111-71323590/"
+  },
+  {
+   "id": "5f144f04694a1c740d3a3c21ed415df0",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "EVN",
+   "destination_name": "Ereván",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 7850.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-19T01:15:00-05:00",
+   "return_at": "",
+   "duration": 2935,
+   "link": "https://www.aviasales.com/search/MEX1910EVN1?t=WS17923725001792584600002935MEXYYCFCOEVN_5f144f04694a1c740d3a3c21ed415df0_40078&search_date=08092026&expected_price_uuid=01a0802d-f9ff-8050-253c-089420f8cbf1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NfXJ65u_FInRCkcVoFT-vQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7850",
+   "title": "Flight deals from Mexico City to Yerevan",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261019-5f144f04/"
   },
   {
    "id": "56607fca93045a3b2478f6ab283ba792",

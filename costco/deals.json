@@ -1,6 +1,6 @@
 {
- "generated_at": 1788883514.7106192,
- "generated_at_str": "08/09/2026 10:05",
+ "generated_at": 1788887125.526057,
+ "generated_at_str": "08/09/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2994,7 +2994,7 @@
    "starts": "2026-09-08T06:00:00.000Z",
    "ends": "2026-09-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788883514.7106192,
+   "first_seen": 1788883529.1147332,
    "h_dias": 21,
    "h_min": 649.0,
    "h_min7": 649.0
@@ -8357,44 +8357,6 @@
    "h_min7": 1581.76
   },
   {
-   "id": "650983",
-   "name": "Elicuis 2.5mg 60 Tabletas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Elicuis-25mg-60-Tabletas/p/650983",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1f/h3e/50686686035998.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 2099.0,
-   "price_new": 1574.25,
-   "pct": 25.0,
-   "amount": 524.75,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787558739.1716406,
-   "h_dias": 16,
-   "h_min": 1574.25,
-   "h_ayer": 1574.25,
-   "h_min7": 1574.25
-  },
-  {
-   "id": "701333",
-   "name": "HP Impresora Multifuncional DeskJet Ink 2974 + The Creativy Collection",
-   "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Multifuncionales-y-Equipo-para-Oficina/Multifuncionales/HP-Impresora-Multifuncional-DeskJet-Ink-2974-The-Creativy-Collection/p/701333",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h79/hea/435781274664990.jpg",
-   "category": "Papeleria y Negocio",
-   "price_old": 1999.0,
-   "price_new": 1499.0,
-   "pct": 25.0,
-   "amount": 500.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788804332.5598445,
-   "h_dias": 27,
-   "h_min": 1499.0,
-   "h_ayer": 1499.0,
-   "h_min7": 1499.0
-  },
-  {
    "id": "741121",
    "name": "Steve Madden VSD.05040.0GRY.55 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050400GRY55-Armazon-Oftalmico/p/741121",
@@ -10729,25 +10691,6 @@
    "h_min7": 344.25
   },
   {
-   "id": "509474",
-   "name": "Avène Cicalfate + Crema Protectora 40ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Avene-Cicalfate-Crema-Protectora-40ml/p/509474",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hb7/65907093536798.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 449.0,
-   "price_new": 336.75,
-   "pct": 25.0,
-   "amount": 112.25,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787558739.1716406,
-   "h_dias": 16,
-   "h_min": 336.75,
-   "h_ayer": 336.75,
-   "h_min7": 336.75
-  },
-  {
    "id": "705081",
    "name": "Downy Triple Scent Suavizante de Telas 8.5 l",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Detergentes/Downy-Triple-Scent-Suavizante-de-Telas-85-l/p/705081",
@@ -12055,6 +11998,24 @@
    "h_min": 18999.0,
    "h_ayer": 20999.0,
    "h_min7": 20999.0
+  },
+  {
+   "id": "696712",
+   "name": "Hisense Congelador Horizontal 18'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-Horizontal-18/p/696712",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h8e/414733846839326.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17999.0,
+   "price_new": 13999.0,
+   "pct": 22.2,
+   "amount": 4000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788887125.526057,
+   "h_dias": 9,
+   "h_min": 12999.0,
+   "h_min7": 12999.0
   },
   {
    "id": "677711",
@@ -14159,6 +14120,25 @@
    "h_min": 44999.0,
    "h_ayer": 44999.0,
    "h_min7": 44999.0
+  },
+  {
+   "id": "693680",
+   "name": "Elica Centro de Bebidas (72 latas) y Cava de Vinos (14 botellas)",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Elica-Centro-de-Bebidas-72-latas-y-Cava-de-Vinos-14-botellas/p/693680",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6b/h06/332512887668766.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 32999.0,
+   "price_new": 26999.0,
+   "pct": 18.2,
+   "amount": 6000.0,
+   "starts": "2026-09-08T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788887125.526057,
+   "h_dias": 37,
+   "h_min": 25999.0,
+   "h_ayer": 27999.0,
+   "h_min7": 26999.0
   },
   {
    "id": "669995",

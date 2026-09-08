@@ -1,6 +1,6 @@
 {
- "generated_at": 1788840329.103336,
- "generated_at_str": "07/09/2026 22:05",
+ "generated_at": 1788843918.3954046,
+ "generated_at_str": "07/09/2026 23:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1561,6 +1561,25 @@
    "h_min7": 3799.0
   },
   {
+   "id": "673525",
+   "name": "LG Secadora de Gas 22Kg Carga Frontal con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-22Kg-Carga-Frontal-con-Pedestal/p/673525",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/had/hd0/364485057642526.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21999.0,
+   "price_new": 15499.0,
+   "pct": 29.5,
+   "amount": 6500.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 41,
+   "h_min": 15499.0,
+   "h_ayer": 15999.0,
+   "h_min7": 15499.0
+  },
+  {
    "id": "703478",
    "name": "Samsung Pantalla 65\" Miniled 4K Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-Miniled-4K-Smart-TV/p/703478",
@@ -2655,6 +2674,25 @@
    "h_min": 10099.0,
    "h_ayer": 10099.0,
    "h_min7": 10099.0
+  },
+  {
+   "id": "673524",
+   "name": "LG Lavadora 22Kg Carga Frontal con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/673524",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hc6/140652330385438.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 17999.0,
+   "pct": 28.0,
+   "amount": 7000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 35,
+   "h_min": 17999.0,
+   "h_ayer": 18999.0,
+   "h_min7": 17999.0
   },
   {
    "id": "701993",
@@ -10862,25 +10900,6 @@
    "h_min7": 37999.0
   },
   {
-   "id": "702849",
-   "name": "Samsung Pantalla 55\" Crystal UHD Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-Crystal-UHD-Smart-TV/p/702849",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha3/h86/452879660908574.jpg",
-   "category": "Electronicos",
-   "price_old": 10999.0,
-   "price_new": 8299.0,
-   "pct": 24.5,
-   "amount": 2700.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788764753.501302,
-   "h_dias": 41,
-   "h_min": 8299.0,
-   "h_ayer": 8299.0,
-   "h_min7": 8299.0
-  },
-  {
    "id": "703955",
    "name": "Hisense Pantalla 43\" Hi-QLED 4K Fire TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/32-a-48-pulgadas/Hisense-Pantalla-43-Hi-QLED-4K-Fire-TV/p/703955",
@@ -14093,25 +14112,6 @@
    "in_stock": true,
    "first_seen": 1788681933.8660502,
    "h_dias": 41,
-   "h_min": 13999.0,
-   "h_ayer": 13999.0,
-   "h_min7": 13999.0
-  },
-  {
-   "id": "704945",
-   "name": "ACER Aspire Lite 16 Laptop 15.6\" Full HD AMD Ryzen 5 40 16GB 512Gb SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ACER-Aspire-Lite-16-Laptop-156-Full-HD-AMD-Ryzen-5-40-16GB-512Gb-SSD/p/704945",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h43/h19/490070547628062.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 16999.0,
-   "price_new": 13999.0,
-   "pct": 17.6,
-   "amount": 3000.0,
-   "starts": "2026-09-02T06:00:00.000Z",
-   "ends": "2026-09-17T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788357959.0427346,
-   "h_dias": 25,
    "h_min": 13999.0,
    "h_ayer": 13999.0,
    "h_min7": 13999.0
@@ -18417,25 +18417,6 @@
    "h_min": 24999.0,
    "h_ayer": 26999.0,
    "h_min7": 25999.0
-  },
-  {
-   "id": "702843",
-   "name": "Samsung Pantalla 65\" OLED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-OLED-4K-Smart-TV/p/702843",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he2/h21/452879647801374.jpg",
-   "category": "Electronicos",
-   "price_old": 31999.0,
-   "price_new": 27999.0,
-   "pct": 12.5,
-   "amount": 4000.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 41,
-   "h_min": 27999.0,
-   "h_ayer": 27999.0,
-   "h_min7": 27999.0
   },
   {
    "id": "696736",

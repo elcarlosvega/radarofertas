@@ -1,6 +1,6 @@
 {
- "generated_at": 1788854753.226763,
- "generated_at_str": "08/09/2026 02:05",
+ "generated_at": 1788858336.536598,
+ "generated_at_str": "08/09/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -16400,6 +16400,25 @@
    "h_ayer": 10199.0
   },
   {
+   "id": "653747",
+   "name": "Generac, Generador Portátil Premium GP3600",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/Generac-Generador-Portatil-Premium-GP3600/p/653747",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h06/11764801601566.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 9999.0,
+   "price_new": 8499.0,
+   "pct": 15.0,
+   "amount": 1500.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 36,
+   "h_min": 8399.0,
+   "h_ayer": 8399.0,
+   "h_min7": 8399.0
+  },
+  {
    "id": "687772",
    "name": "Montbrook Home, Kirima, Sillón Reclinable con Portavasos",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Kirima-Sillon-Reclinable-con-Portavasos/p/687772",
@@ -18825,6 +18844,25 @@
    "h_min": 67999.0,
    "h_ayer": 67999.0,
    "h_min7": 67999.0
+  },
+  {
+   "id": "330719",
+   "name": "Sauna Infrarrojo Dynamic Barcelona Low EMF, 1 a 2 Personas",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Dynamic-Barcelona-Low-EMF-1-a-2-Personas/p/330719",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfd/hfa/11038487773214.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 59999.0,
+   "price_new": 52999.0,
+   "pct": 11.7,
+   "amount": 7000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 42,
+   "h_min": 46999.0,
+   "h_ayer": 49999.0,
+   "h_min7": 49999.0
   },
   {
    "id": "697550",

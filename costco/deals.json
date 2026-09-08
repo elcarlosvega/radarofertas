@@ -1,6 +1,6 @@
 {
- "generated_at": 1788905116.0077908,
- "generated_at_str": "08/09/2026 16:05",
+ "generated_at": 1788908726.6107357,
+ "generated_at_str": "08/09/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4538,25 +4538,6 @@
    "h_min7": 13499.0
   },
   {
-   "id": "685799",
-   "name": "LG Secadora de Gas 25Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-25Kg/p/685799",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h66/364485065015326.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13499.0,
-   "pct": 25.0,
-   "amount": 4500.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 42,
-   "h_min": 11899.0,
-   "h_ayer": 13499.0,
-   "h_min7": 13499.0
-  },
-  {
    "id": "688896",
    "name": "Samsung Lavadora 22Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavadora-22Kg-Carga-Superior/p/688896",
@@ -4778,7 +4759,7 @@
    "starts": "2026-08-01T06:00:00.000Z",
    "ends": "2026-09-16T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788905116.0077908,
+   "first_seen": 1788905132.353018,
    "h_dias": 41,
    "h_min": 3199.0,
    "h_ayer": 3199.0,
@@ -11696,25 +11677,6 @@
    "h_min7": 8499.0
   },
   {
-   "id": "693546",
-   "name": "Klipsch Flexus Core 200 barra de sonido bluetooth",
-   "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Klipsch-Flexus-Core-200-barra-de-sonido-bluetooth/p/693546",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hed/hb3/332864757727262.jpg",
-   "category": "Electronicos",
-   "price_old": 10999.0,
-   "price_new": 8499.0,
-   "pct": 22.7,
-   "amount": 2500.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788764753.501302,
-   "h_dias": 25,
-   "h_min": 8499.0,
-   "h_ayer": 8499.0,
-   "h_min7": 8499.0
-  },
-  {
    "id": "693545",
    "name": "Klipsch Flexus Core 100 Barra de sonido + Subwoofer de 10\"",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Klipsch-Flexus-Core-100-Barra-de-sonido-Subwoofer-de-10/p/693545",
@@ -18359,7 +18321,7 @@
    "starts": "2026-09-07T06:00:00.000Z",
    "ends": "2026-09-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1788905116.0077908,
+   "first_seen": 1788905132.353018,
    "h_dias": 16,
    "h_min": 9499.0,
    "h_ayer": 9999.0,
@@ -20255,6 +20217,23 @@
    "h_min": 30999.0,
    "h_ayer": 31499.0,
    "h_min7": 31499.0
+  },
+  {
+   "id": "704493",
+   "name": "Samsung Proyector FHD 40 - 100\" The Premier",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/Proyectores-de-Video/Samsung-Proyector-FHD-40-100-The-Premier/p/704493",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/hd3/467713393950750.jpg",
+   "category": "Electronicos",
+   "price_old": 29999.0,
+   "price_new": 26999.0,
+   "pct": 10.0,
+   "amount": 3000.0,
+   "starts": "2026-09-08T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788879932.821514,
+   "h_dias": 1,
+   "h_min": 26999.0
   },
   {
    "id": "686218",

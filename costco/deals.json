@@ -1,6 +1,6 @@
 {
- "generated_at": 1788923130.9827778,
- "generated_at_str": "08/09/2026 21:05",
+ "generated_at": 1788926719.8446572,
+ "generated_at_str": "08/09/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1499,6 +1499,24 @@
    "h_min": 3999.0,
    "h_ayer": 3999.0,
    "h_min7": 3999.0
+  },
+  {
+   "id": "705332",
+   "name": "Foundayz 2.5 mg 30 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Foundayz-25-mg-30-Tabletas/p/705332",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd4/h31/504860537389086.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 4369.0,
+   "price_new": 3069.0,
+   "pct": 29.8,
+   "amount": 1300.0,
+   "starts": "2026-09-05T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788617161.7044058,
+   "h_dias": 4,
+   "h_min": 3069.0,
+   "h_ayer": 3069.0
   },
   {
    "id": "704613",
@@ -4461,25 +4479,6 @@
    "h_min": 14999.0,
    "h_ayer": 14999.0,
    "h_min7": 14999.0
-  },
-  {
-   "id": "683950",
-   "name": "LG Lavavajillas 60 cm 14 Servicios de Empotre",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/LG-Lavavajillas-60-cm-14-Servicios-de-Empotre/p/683950",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/he5/220575817465886.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13499.0,
-   "pct": 25.0,
-   "amount": 4500.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 37,
-   "h_min": 12699.0,
-   "h_ayer": 13499.0,
-   "h_min7": 13499.0
   },
   {
    "id": "688896",
@@ -13515,25 +13514,6 @@
    "h_min7": 16999.0
   },
   {
-   "id": "683952",
-   "name": "Hisense Horno de Convección 60cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Hisense-Horno-de-Conveccion-60cm/p/683952",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h6d/363624463204382.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 10499.0,
-   "price_new": 8499.0,
-   "pct": 19.0,
-   "amount": 2000.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 41,
-   "h_min": 7799.0,
-   "h_ayer": 7999.0,
-   "h_min7": 7999.0
-  },
-  {
    "id": "677725",
    "name": "Samsung Bespoke AI Refrigerador 28' Side by Side",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Bespoke-AI-Refrigerador-28-Side-by-Side/p/677725",
@@ -17950,25 +17930,6 @@
    "h_min": 14999.0,
    "h_ayer": 15499.0,
    "h_min7": 15499.0
-  },
-  {
-   "id": "643053",
-   "name": "Canon, Cámara EOS Rebel SL3 Réflex",
-   "url": "https://www.costco.com.mx/Electronicos/Fotografia/Camaras-Digitales/Canon-Camara-EOS-Rebel-SL3-Reflex/p/643053",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hb3/14763120951326.jpg",
-   "category": "Electronicos",
-   "price_old": 14999.0,
-   "price_new": 12999.0,
-   "pct": 13.3,
-   "amount": 2000.0,
-   "starts": "2026-09-01T06:00:00.000Z",
-   "ends": "2026-10-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788275144.1433065,
-   "h_dias": 42,
-   "h_min": 12999.0,
-   "h_ayer": 12999.0,
-   "h_min7": 12999.0
   },
   {
    "id": "674001",

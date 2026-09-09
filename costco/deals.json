@@ -1,6 +1,6 @@
 {
- "generated_at": 1788926719.8446572,
- "generated_at_str": "08/09/2026 22:05",
+ "generated_at": 1788930326.3876202,
+ "generated_at_str": "08/09/2026 23:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1024,25 +1024,6 @@
    "h_dias": 2,
    "h_min": 25899.0,
    "h_ayer": 25899.0
-  },
-  {
-   "id": "674138",
-   "name": "LG Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/674138",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/haf/364485057708062.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 20999.0,
-   "pct": 30.0,
-   "amount": 9000.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 39,
-   "h_min": 20799.0,
-   "h_ayer": 20799.0,
-   "h_min7": 20799.0
   },
   {
    "id": "703469",
@@ -4479,6 +4460,25 @@
    "h_min": 14999.0,
    "h_ayer": 14999.0,
    "h_min7": 14999.0
+  },
+  {
+   "id": "683950",
+   "name": "LG Lavavajillas 60 cm 14 Servicios de Empotre",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/LG-Lavavajillas-60-cm-14-Servicios-de-Empotre/p/683950",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/he5/220575817465886.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17999.0,
+   "price_new": 13499.0,
+   "pct": 25.0,
+   "amount": 4500.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 37,
+   "h_min": 12699.0,
+   "h_ayer": 13499.0,
+   "h_min7": 13499.0
   },
   {
    "id": "688896",
@@ -13514,6 +13514,25 @@
    "h_min7": 16999.0
   },
   {
+   "id": "683952",
+   "name": "Hisense Horno de Convección 60cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Hisense-Horno-de-Conveccion-60cm/p/683952",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he1/h6d/363624463204382.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 10499.0,
+   "price_new": 8499.0,
+   "pct": 19.0,
+   "amount": 2000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788768329.4519377,
+   "h_dias": 41,
+   "h_min": 7799.0,
+   "h_ayer": 7999.0,
+   "h_min7": 7999.0
+  },
+  {
    "id": "677725",
    "name": "Samsung Bespoke AI Refrigerador 28' Side by Side",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Bespoke-AI-Refrigerador-28-Side-by-Side/p/677725",
@@ -15297,25 +15316,6 @@
    "h_min7": 16799.0
   },
   {
-   "id": "683657",
-   "name": "América, Class, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Class-Colchon-Queen-Size/p/683657",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfb/h7e/209659139653662.jpg",
-   "category": "Muebles",
-   "price_old": 12499.0,
-   "price_new": 10499.0,
-   "pct": 16.0,
-   "amount": 2000.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 42,
-   "h_min": 9499.0,
-   "h_ayer": 10299.0,
-   "h_min7": 10299.0
-  },
-  {
    "id": "1862208",
    "name": "Thomasville, Sofá Estilo Chaise Reversible De Tela De 2 Piezas Con Reposapiés Eléctrico Y Almacenamiento",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Sofa-Estilo-Chaise-Reversible-De-Tela-De-2-Piezas-Con-Reposapies-Electrico-Y-Almacenamiento/p/1862208",
@@ -16320,25 +16320,6 @@
    "h_min": 22999.0,
    "h_ayer": 23799.0,
    "h_min7": 23799.0
-  },
-  {
-   "id": "683666",
-   "name": "América, Mystery, Colchón King Size",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Mystery-Colchon-King-Size/p/683666",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h9e/209659159576606.jpg",
-   "category": "Muebles",
-   "price_old": 21999.0,
-   "price_new": 18699.0,
-   "pct": 15.0,
-   "amount": 3300.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 42,
-   "h_min": 17999.0,
-   "h_ayer": 18699.0,
-   "h_min7": 18699.0
   },
   {
    "id": "688038",
@@ -17930,6 +17911,25 @@
    "h_min": 14999.0,
    "h_ayer": 15499.0,
    "h_min7": 15499.0
+  },
+  {
+   "id": "643053",
+   "name": "Canon, Cámara EOS Rebel SL3 Réflex",
+   "url": "https://www.costco.com.mx/Electronicos/Fotografia/Camaras-Digitales/Canon-Camara-EOS-Rebel-SL3-Reflex/p/643053",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hb3/14763120951326.jpg",
+   "category": "Electronicos",
+   "price_old": 14999.0,
+   "price_new": 12999.0,
+   "pct": 13.3,
+   "amount": 2000.0,
+   "starts": "2026-09-01T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788275144.1433065,
+   "h_dias": 42,
+   "h_min": 12999.0,
+   "h_ayer": 12999.0,
+   "h_min7": 12999.0
   },
   {
    "id": "674001",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1788912243.1561656,
- "generated_at_str": "08/09/2026 18:04",
+ "generated_at": 1788915843.8264606,
+ "generated_at_str": "08/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "643c584e88c35a02641526df9268c5f9",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1366.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-03T17:47:00-05:00",
-   "return_at": "",
-   "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX0310CUN1?t=VB17910496201791061440000137NLUCUN_643c584e88c35a02641526df9268c5f9_6936&search_date=08092026&expected_price_uuid=01a08231-02ae-8050-a974-8261eef14de7&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=08d6qfIkx3Dk-WBWuCF2_Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1366",
-   "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261003-643c584e/"
-  },
   {
    "id": "ce24215d6e70fc8dabc4d6a55c6d9a3a",
    "kind": "flight",
@@ -48,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX2909NYC1?t=VB17906862001790727600000570NLUMTYJFK_ce24215d6e70fc8dabc4d6a55c6d9a3a_10560&search_date=08092026&expected_price_uuid=01a082bf-cef4-8040-a0a9-647731d7a788&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=629N_RTchU1ahXbcrqMs2g&expected_price_source=share&expected_price_currency=mxn&expected_price=2080",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260929-ce24215d/"
-  },
-  {
-   "id": "c82eea8fd14ce47fdfa7313389f868f6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HOU",
-   "destination_name": "Houston",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2097.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-18T16:10:00-05:00",
-   "return_at": "",
-   "duration": 135,
-   "link": "https://www.aviasales.com/search/MEX1809HOU1?t=Y417897478001789759500000135MEXIAH_c82eea8fd14ce47fdfa7313389f868f6_10646&search_date=08092026&expected_price_uuid=01a08230-7a10-8030-2141-f17a136b2f70&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2097",
-   "title": "Flight deals from Mexico City to Houston",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260918-c82eea8f/"
   },
   {
    "id": "cc6f0abb4de2af1ae8193e8d9ab339d7",
@@ -128,6 +88,26 @@
    "link": "https://www.aviasales.com/search/GDL2009BJS1?t=MF17899224001790164500003195GDLYVRXMNPKX_576bc782c0c20cd4fa081c9a3967ef3d_53091&search_date=08092026&expected_price_uuid=01a0832b-7efc-8030-6c01-cec00ad48661&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KhgkggfDRG0HU8GtMaN_gg&expected_price_source=share&expected_price_currency=mxn&expected_price=10457",
    "title": "Flight deals from Guadalajara to Beijing",
    "micro": "/oferta/vuelos/vuelo-guadalajara-pekin-20260920-576bc782/"
+  },
+  {
+   "id": "a34c53a174bc3f93ccee1b15cb541047",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 10535.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-10T06:20:00-05:00",
+   "return_at": "",
+   "duration": 1745,
+   "link": "https://www.aviasales.com/search/MEX1009DXB1?t=QR17890212001789161900001745MEXIAHDOHDXB_a34c53a174bc3f93ccee1b15cb541047_53471&search_date=09092026&expected_price_uuid=01a0839b-3ca1-8040-2ea2-3e0ee51615f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=avtcJFgoHrA3s45_RO7Y9w&expected_price_source=share&expected_price_currency=mxn&expected_price=10535",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260910-a34c53a1/"
   },
   {
    "id": "ef670a4bf031f35556b8bb150e541398",

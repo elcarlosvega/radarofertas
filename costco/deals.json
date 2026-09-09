@@ -1,6 +1,6 @@
 {
- "generated_at": 1788912317.8988857,
- "generated_at_str": "08/09/2026 18:05",
+ "generated_at": 1788915936.5296655,
+ "generated_at_str": "08/09/2026 19:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2440,6 +2440,24 @@
    "h_ayer": 499.0
   },
   {
+   "id": "702199",
+   "name": "Everlast Kit Pro Evergel",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Box/Everlast-Kit-Pro-Evergel/p/702199",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h90/h7b/438561348747294.jpg",
+   "category": "Deportes",
+   "price_old": 699.0,
+   "price_new": 499.0,
+   "pct": 28.6,
+   "amount": 200.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788764753.501302,
+   "h_dias": 2,
+   "h_min": 499.0,
+   "h_ayer": 499.0
+  },
+  {
    "id": "653134",
    "name": "Lindt Barras de Chocolate, Avellana y Caramelo 4 pzas de 125 g",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Lindt-Barras-de-Chocolate-Avellana-y-Caramelo-4-pzas-de-125-g/p/653134",
@@ -3143,6 +3161,25 @@
    "ends": "2026-09-12T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1788768329.4519377,
+   "h_dias": 42,
+   "h_min": 15999.0,
+   "h_ayer": 15999.0,
+   "h_min7": 15999.0
+  },
+  {
+   "id": "702201",
+   "name": "Whirlpool Secadora de Gas 27Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Secadora-de-Gas-27Kg/p/702201",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd5/hd0/436354923036702.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21999.0,
+   "price_new": 15999.0,
+   "pct": 27.3,
+   "amount": 6000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788764753.501302,
    "h_dias": 42,
    "h_min": 15999.0,
    "h_ayer": 15999.0,
@@ -11847,24 +11884,6 @@
    "h_min7": 20999.0
   },
   {
-   "id": "696712",
-   "name": "Hisense Congelador Horizontal 18'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-Horizontal-18/p/696712",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h8e/414733846839326.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13999.0,
-   "pct": 22.2,
-   "amount": 4000.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788887132.5046902,
-   "h_dias": 9,
-   "h_min": 12999.0,
-   "h_min7": 12999.0
-  },
-  {
    "id": "677711",
    "name": "Samsung Lavavajillas Bespoke AI 15 Servicios Blanco",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Samsung-Lavavajillas-Bespoke-AI-15-Servicios-Blanco/p/677711",
@@ -14138,25 +14157,6 @@
    "h_min": 8999.0,
    "h_ayer": 8999.0,
    "h_min7": 8999.0
-  },
-  {
-   "id": "663632",
-   "name": "Whirlpool Parrilla Eléctrica 4 Zonas de Cocción 24\"",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Whirlpool-Parrilla-Electrica-4-Zonas-de-Coccion-24/p/663632",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h02/hd5/364497143595038.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 9999.0,
-   "price_new": 8199.0,
-   "pct": 18.0,
-   "amount": 1800.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 20,
-   "h_min": 7999.0,
-   "h_ayer": 7999.0,
-   "h_min7": 7999.0
   },
   {
    "id": "687768",

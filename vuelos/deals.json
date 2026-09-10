@@ -1,6 +1,6 @@
 {
- "generated_at": 1789027444.7774594,
- "generated_at_str": "10/09/2026 02:04",
+ "generated_at": 1789031044.602272,
+ "generated_at_str": "10/09/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "23d4a0c8166262bf8dcb9fe8eff59b7d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TQO",
+   "destination_name": "Municipio de Tulum",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 645.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-06T13:25:00-06:00",
+   "return_at": "",
+   "duration": 115,
+   "link": "https://www.aviasales.com/search/MEX0612TQO1?t=VB17965635001796574000000115NLUTQO_23d4a0c8166262bf8dcb9fe8eff59b7d_3250&search_date=10092026&expected_price_uuid=01a08a67-d7f6-8050-ec88-a20fb22bfa70&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=645",
+   "title": "Flight deals from Mexico City to Tulum",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261206-23d4a0c8/"
+  },
   {
    "id": "25274d40b0164b16ba35600c4f5a97ae",
    "kind": "flight",
@@ -70,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261007-6379fb19/"
   },
   {
+   "id": "9691e4ee98e28e475963819d445d4223",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "ZG",
+   "airline_title": "ZIPAIR",
+   "logo": "https://pics.avs.io/600/150/ZG.png",
+   "logo_tipo": "",
+   "price": 5462.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-12T19:45:00-05:00",
+   "return_at": "",
+   "duration": 1945,
+   "link": "https://www.aviasales.com/search/MEX1209TYO1?t=ZG17892423001789413000001945MEXLAXNRT_9691e4ee98e28e475963819d445d4223_27502&search_date=10092026&expected_price_uuid=01a08a66-d485-8050-e849-f3625912baa3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EY732BwioXXebu5CUb-Shg&expected_price_source=share&expected_price_currency=mxn&expected_price=5462",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260912-9691e4ee/"
+  },
+  {
    "id": "0d24dedc606e35e217f20443cf273558",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1609YTO1?t=F817895186001789542300000275MEXYYZ_0d24dedc606e35e217f20443cf273558_27626&search_date=10092026&expected_price_uuid=01a089d0-3820-8040-62e7-0f44565df05e&static_fare_key=TY%7CP0%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=Loof4oXT6LoKlI1z1Bzpbw&expected_price_source=share&expected_price_currency=mxn&expected_price=5489",
    "title": "Flight deals from Mexico City to Toronto",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20260916-0d24dedc/"
+  },
+  {
+   "id": "e99b10a5cc28c6221aefd27e3c6ce76f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "PR",
+   "airline_title": "Philippine Airlines",
+   "logo": "https://pics.avs.io/600/150/PR.png",
+   "logo_tipo": "",
+   "price": 8411.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-20T06:00:00-05:00",
+   "return_at": "",
+   "duration": 2395,
+   "link": "https://www.aviasales.com/search/MEX2009BJS1?t=PR17898840001790078100002395NLUMTYLAXMNLPEK_e99b10a5cc28c6221aefd27e3c6ce76f_42355&search_date=10092026&expected_price_uuid=01a08a6c-f773-8050-26e6-989d0868856d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jW8382moMaCcVDYd48RrzA&expected_price_source=share&expected_price_currency=mxn&expected_price=8411",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260920-e99b10a5/"
   }
  ]
 }

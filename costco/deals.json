@@ -1,6 +1,6 @@
 {
- "generated_at": 1789063552.0958493,
- "generated_at_str": "10/09/2026 12:05",
+ "generated_at": 1789067133.9721904,
+ "generated_at_str": "10/09/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1612,25 +1612,6 @@
    "h_min7": 440.3
   },
   {
-   "id": "701198",
-   "name": "Sinuberase suspensión 2 Billones UFC 2 Cajas con 10 Ampolletas",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Sinuberase-suspension-2-Billones-UFC-2-Cajas-con-10-Ampolletas/p/701198",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/h14/453554616008734.jpg",
-   "category": "Grocery",
-   "price_old": 509.0,
-   "price_new": 356.3,
-   "pct": 30.0,
-   "amount": 152.7,
-   "starts": "2026-09-04T06:00:00.000Z",
-   "ends": "2026-09-22T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788530736.6443596,
-   "h_dias": 42,
-   "h_min": 356.3,
-   "h_ayer": 356.3,
-   "h_min7": 356.3
-  },
-  {
    "id": "655308",
    "name": "Renu Advanced Solución Multipropósito 3 Frascos de 355mL c/u",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Renu-Advanced-Solucion-Multiproposito-3-Frascos-de-355mL-cu/p/655308",
@@ -2515,25 +2496,6 @@
    "h_dias": 4,
    "h_min": 999.0,
    "h_ayer": 999.0
-  },
-  {
-   "id": "701914",
-   "name": "Maxi Cosi, Silla Booster Dahalia Para Viaje",
-   "url": "https://www.costco.com.mx/Todo-para-el-Bebe/Carriolas-y-Sillas-para-Bebe/Sillas-y-Asientos-para-Bebe/Maxi-Cosi-Silla-Booster-Dahalia-Para-Viaje/p/701914",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/h1a/432127107629086.jpg",
-   "category": "Todo para el Bebe",
-   "price_old": 1399.0,
-   "price_new": 999.0,
-   "pct": 28.6,
-   "amount": 400.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 33,
-   "h_min": 999.0,
-   "h_ayer": 999.0,
-   "h_min7": 999.0
   },
   {
    "id": "1752155",
@@ -10626,6 +10588,24 @@
    "h_min7": 419.25
   },
   {
+   "id": "521373",
+   "name": "Ducray Anaphase Shampoo Caída Crónica 200 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Ducray-Anaphase-Shampoo-Caida-Cronica-200-ml/p/521373",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha1/hbf/435368127135774.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 559.0,
+   "price_new": 419.25,
+   "pct": 25.0,
+   "amount": 139.75,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
+   "h_dias": 16,
+   "h_min": 419.25,
+   "h_min7": 419.25
+  },
+  {
    "id": "703888",
    "name": "Libertrim Alfa 200/75/45 mg 12 Comprimidos",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Alivio-Estomacal/Libertrim-Alfa-2007545-mg-12-Comprimidos/p/703888",
@@ -16458,25 +16438,6 @@
    "h_min7": 11999.0
   },
   {
-   "id": "693459",
-   "name": "Apple iPad Chip A16 Wi-fi + Cellular 128GB Amarillo",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-Wi-fi-Cellular-128GB-Amarillo/p/693459",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/hd8/333137243799582.jpg",
-   "category": "Electronicos",
-   "price_old": 14199.0,
-   "price_new": 11999.0,
-   "pct": 15.5,
-   "amount": 2200.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 26,
-   "h_min": 11999.0,
-   "h_ayer": 11999.0,
-   "h_min7": 11999.0
-  },
-  {
    "id": "693432",
    "name": "Apple iPad Chip A16 256GB Rosa",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-256GB-Rosa/p/693432",
@@ -20074,25 +20035,6 @@
    "h_min7": 19499.0
   },
   {
-   "id": "693460",
-   "name": "Apple iPad Chip A16 Wi-fi + Cellular 128GB Rosa",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-Wi-fi-Cellular-128GB-Rosa/p/693460",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hc6/h13/333137246814238.jpg",
-   "category": "Electronicos",
-   "price_old": 14199.0,
-   "price_new": 12599.0,
-   "pct": 11.3,
-   "amount": 1600.0,
-   "starts": "2026-09-07T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788768329.4519377,
-   "h_dias": 26,
-   "h_min": 11999.0,
-   "h_ayer": 12599.0,
-   "h_min7": 11999.0
-  },
-  {
    "id": "690476",
    "name": "Apple iPad Mini (Wi-Fi + Cellular) 128GB Morado",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Morado/p/690476",
@@ -20199,7 +20141,7 @@
    "starts": "2026-09-07T06:00:00.000Z",
    "ends": "2026-09-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789063552.0958493,
+   "first_seen": 1789063561.6929286,
    "h_dias": 33,
    "h_min": 37999.0,
    "h_min7": 37999.0

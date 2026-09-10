@@ -1,6 +1,6 @@
 {
- "generated_at": 1789020244.9663675,
- "generated_at_str": "10/09/2026 00:04",
+ "generated_at": 1789023845.130672,
+ "generated_at_str": "10/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "25274d40b0164b16ba35600c4f5a97ae",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MTY",
+   "destination_name": "Monterrey",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1081.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-12T18:00:00-05:00",
+   "return_at": "",
+   "duration": 98,
+   "link": "https://www.aviasales.com/search/MEX1209MTY1?t=Y417892360001789241880000098TLCMTY_25274d40b0164b16ba35600c4f5a97ae_5440&search_date=10092026&expected_price_uuid=01a08a04-be36-8030-aa7f-88105e3c94c3&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1081",
+   "title": "Flight deals from Mexico City to Monterrey",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260912-25274d40/"
+  },
   {
    "id": "b0ae3622aef4385e978fae5b0cb4f248",
    "kind": "flight",

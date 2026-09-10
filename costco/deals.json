@@ -1,6 +1,6 @@
 {
- "generated_at": 1789077951.438228,
- "generated_at_str": "10/09/2026 16:05",
+ "generated_at": 1789081534.1581383,
+ "generated_at_str": "10/09/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -10263,6 +10263,25 @@
    "in_stock": true,
    "first_seen": 1787562335.0101256,
    "h_dias": 44,
+   "h_min": 486.75,
+   "h_ayer": 486.75,
+   "h_min7": 486.75
+  },
+  {
+   "id": "670067",
+   "name": "One Touch Select Plus 75 Tiras Reactivas + 25 Lancetas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Cuidado-para-Diabeticos/One-Touch-Select-Plus-75-Tiras-Reactivas-25-Lancetas/p/670067",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h84/273037806632990.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 649.0,
+   "price_new": 486.75,
+   "pct": 25.0,
+   "amount": 162.25,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
+   "h_dias": 18,
    "h_min": 486.75,
    "h_ayer": 486.75,
    "h_min7": 486.75
@@ -21556,7 +21575,7 @@
    "starts": "2026-09-07T06:00:00.000Z",
    "ends": "2026-09-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789077951.438228,
+   "first_seen": 1789077960.9264927,
    "h_dias": 25,
    "h_min": 89999.0,
    "h_min7": 94999.0

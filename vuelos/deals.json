@@ -1,6 +1,6 @@
 {
- "generated_at": 1788998645.6653328,
- "generated_at_str": "09/09/2026 18:04",
+ "generated_at": 1789002245.4037235,
+ "generated_at_str": "09/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1711PVR1?t=Y417949252001794930600000090TLCPVR_a9f67e515e5a0504c0638e9ab38b464b_2237&search_date=09092026&expected_price_uuid=01a087f2-29ed-8050-67bc-4b5eb496b313&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SmnrDR7z0ZsOJESEzlAcxw&expected_price_source=share&expected_price_currency=mxn&expected_price=444",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261117-a9f67e51/"
-  },
-  {
-   "id": "7d9fe8a51dcf18d9900e4f56e479fa76",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2670.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-19T10:05:00-05:00",
-   "return_at": "",
-   "duration": 191,
-   "link": "https://www.aviasales.com/search/MEX1909MIA1?t=Y417898123001789830960000191MEXMIA_7d9fe8a51dcf18d9900e4f56e479fa76_13441&search_date=09092026&expected_price_uuid=01a08775-8b0c-8030-277c-7592954b5781&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=2670",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260919-7d9fe8a5/"
   },
   {
    "id": "3a290ed75c0ea4f342714133755229eb",
@@ -208,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_58151&search_date=09092026&expected_price_uuid=01a08882-d220-8030-a997-12bce85e93ff&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=11549",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
+  },
+  {
+   "id": "59668a4357375674944fe5640408fe9f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 13714.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-22T19:55:00-06:00",
+   "return_at": "",
+   "duration": 1265,
+   "link": "https://www.aviasales.com/search/MEX2202DXB1?t=AF18033261001803438000001265MEXCDGDXB_59668a4357375674944fe5640408fe9f_69051&search_date=09092026&expected_price_uuid=01a0887d-25d0-8030-27b3-934858bd5c89&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=13714",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270222-59668a43/"
   }
  ]
 }

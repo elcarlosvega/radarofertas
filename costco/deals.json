@@ -1,6 +1,6 @@
 {
- "generated_at": 1789113950.454605,
- "generated_at_str": "11/09/2026 02:05",
+ "generated_at": 1789117515.6173625,
+ "generated_at_str": "11/09/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -817,7 +817,7 @@
    "starts": "2026-09-11T06:00:00.000Z",
    "ends": "2026-09-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789113950.454605,
+   "first_seen": 1789113961.7529364,
    "h_dias": 17,
    "h_min": 22999.0,
    "h_min7": 22999.0
@@ -1233,7 +1233,7 @@
    "starts": "2026-09-11T06:00:00.000Z",
    "ends": "2026-09-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789113950.454605,
+   "first_seen": 1789113961.7529364,
    "h_dias": 25,
    "h_min": 6999.0,
    "h_min7": 6999.0
@@ -3404,7 +3404,7 @@
    "starts": "2026-09-11T06:00:00.000Z",
    "ends": "2026-09-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789113950.454605,
+   "first_seen": 1789113961.7529364,
    "h_dias": 2,
    "h_min": 5599.0
   },
@@ -8417,6 +8417,25 @@
    "h_min7": 1499.25
   },
   {
+   "id": "704061",
+   "name": "Ray Ban Junior 0RY1631 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Ray-Ban-Junior-0RY1631-Armazon-Oftalmico/p/704061",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h79/h71/469420166938654.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787562335.0101256,
+   "h_dias": 19,
+   "h_min": 1499.25,
+   "h_ayer": 1499.25,
+   "h_min7": 1499.25
+  },
+  {
    "id": "741123",
    "name": "Steve Madden VSD.05074.0SLV.56 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050740SLV56-Armazon-Oftalmico/p/741123",
@@ -10239,25 +10258,6 @@
    "h_min7": 486.75
   },
   {
-   "id": "670067",
-   "name": "One Touch Select Plus 75 Tiras Reactivas + 25 Lancetas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Cuidado-para-Diabeticos/One-Touch-Select-Plus-75-Tiras-Reactivas-25-Lancetas/p/670067",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h84/273037806632990.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 649.0,
-   "price_new": 486.75,
-   "pct": 25.0,
-   "amount": 162.25,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787558739.1716406,
-   "h_dias": 19,
-   "h_min": 486.75,
-   "h_ayer": 486.75,
-   "h_min7": 486.75
-  },
-  {
    "id": "630333",
    "name": "La Roche Posay Effaclar gel limpiador purificante 400ml",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/La-Roche-Posay-Effaclar-gel-limpiador-purificante-400ml/p/630333",
@@ -10273,6 +10273,25 @@
    "first_seen": 1787785554.03205,
    "h_dias": 41,
    "h_min": 454.3,
+   "h_ayer": 486.75,
+   "h_min7": 486.75
+  },
+  {
+   "id": "670067",
+   "name": "One Touch Select Plus 75 Tiras Reactivas + 25 Lancetas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Cuidado-para-Diabeticos/One-Touch-Select-Plus-75-Tiras-Reactivas-25-Lancetas/p/670067",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h84/273037806632990.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 649.0,
+   "price_new": 486.75,
+   "pct": 25.0,
+   "amount": 162.25,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787558739.1716406,
+   "h_dias": 19,
+   "h_min": 486.75,
    "h_ayer": 486.75,
    "h_min7": 486.75
   },
@@ -12994,7 +13013,7 @@
    "starts": "2026-09-11T06:00:00.000Z",
    "ends": "2026-09-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789113950.454605,
+   "first_seen": 1789113961.7529364,
    "h_dias": 25,
    "h_min": 39999.0,
    "h_min7": 39999.0
@@ -15081,7 +15100,7 @@
    "starts": "2026-09-11T06:00:00.000Z",
    "ends": "2026-09-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789113950.454605,
+   "first_seen": 1789113961.7529364,
    "h_dias": 9,
    "h_min": 49999.0,
    "h_min7": 49999.0
@@ -19287,7 +19306,7 @@
    "starts": "2026-09-11T06:00:00.000Z",
    "ends": "2026-09-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789113950.454605,
+   "first_seen": 1789113961.7529364,
    "h_dias": 4,
    "h_min": 27999.0
   },
@@ -21502,6 +21521,44 @@
    "h_min": 89999.0,
    "h_ayer": 94999.0,
    "h_min7": 94999.0
+  },
+  {
+   "id": "704902",
+   "name": "OMO Motocicleta Eléctrica Athena X2 Multicolor",
+   "url": "https://www.costco.com.mx/Deportes/Motociclismo/Motocicletas/OMO-Motocicleta-Electrica-Athena-X2-Multicolor/p/704902",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/hd2/485836237832222.jpg",
+   "category": "Deportes",
+   "price_old": 20999.0,
+   "price_new": 18999.0,
+   "pct": 9.5,
+   "amount": 2000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788764753.501302,
+   "h_dias": 19,
+   "h_min": 17999.0,
+   "h_ayer": 18999.0,
+   "h_min7": 18999.0
+  },
+  {
+   "id": "704901",
+   "name": "OMO Motocicleta Eléctrica Athena X2 Verde",
+   "url": "https://www.costco.com.mx/Deportes/Motociclismo/Motocicletas/OMO-Motocicleta-Electrica-Athena-X2-Verde/p/704901",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd5/hc3/485231706734622.jpg",
+   "category": "Deportes",
+   "price_old": 20999.0,
+   "price_new": 18999.0,
+   "pct": 9.5,
+   "amount": 2000.0,
+   "starts": "2026-09-07T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788764753.501302,
+   "h_dias": 19,
+   "h_min": 17999.0,
+   "h_ayer": 18999.0,
+   "h_min7": 18999.0
   },
   {
    "id": "704132",

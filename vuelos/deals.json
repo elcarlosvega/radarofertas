@@ -1,6 +1,6 @@
 {
- "generated_at": 1789088645.2928324,
- "generated_at_str": "10/09/2026 19:04",
+ "generated_at": 1789092245.1877217,
+ "generated_at_str": "10/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261001-6d4028e1/"
   },
   {
+   "id": "8939940617e9a114f58d93bc3d1344e5",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "Z0",
+   "airline_title": "Norse Atlantic UK",
+   "logo": "https://pics.avs.io/600/150/Z0.png",
+   "logo_tipo": "",
+   "price": 8981.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-02T11:05:00-05:00",
+   "return_at": "",
+   "duration": 2925,
+   "link": "https://www.aviasales.com/search/MEX0210IST1?t=Z017909391001791147000002925MEXMCOLGWSAW_8939940617e9a114f58d93bc3d1344e5_44377&search_date=10092026&expected_price_uuid=01a08d0a-5ef6-8051-2a13-967e1507abe1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yoVhL_trhBOIUjgy-dJc0w&expected_price_source=share&expected_price_currency=mxn&expected_price=8981",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261002-89399406/"
+  },
+  {
    "id": "3e350944224a42a146228c0558fc099b",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX2401SEL1?t=AM18008208001800943800001150MEXMTYICN_3e350944224a42a146228c0558fc099b_59392&search_date=10092026&expected_price_uuid=01a08da2-304e-8030-2d37-a17c97bae059&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=GSt7sBgq3L4pWzdDAUVPZg&expected_price_source=share&expected_price_currency=mxn&expected_price=12020",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270124-3e350944/"
-  },
-  {
-   "id": "fbd9c81535fbd448d7442edbf02a26e1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ALA",
-   "destination_name": "Almaty",
-   "airline": "QR",
-   "airline_title": "Qatar Airways",
-   "logo": "https://pics.avs.io/600/150/QR.png",
-   "logo_tipo": "",
-   "price": 12798.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-15T05:45:00-05:00",
-   "return_at": "",
-   "duration": 1975,
-   "link": "https://www.aviasales.com/search/MEX1509ALA1?t=QR17894511001789609200001975MEXORDDOHALA_fbd9c81535fbd448d7442edbf02a26e1_63236&search_date=10092026&expected_price_uuid=01a08cad-d05c-8040-6b29-930d99e1621f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oLNJlfGZHHQ2AVKqJ80J_g&expected_price_source=share&expected_price_currency=mxn&expected_price=12798",
-   "title": "Flight deals from Mexico City to Almaty",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20260915-fbd9c815/"
   },
   {
    "id": "3156f5471540e5aa653c2d6218d2ad74",

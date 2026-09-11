@@ -1,6 +1,6 @@
 {
- "generated_at": 1789095845.2952964,
- "generated_at_str": "10/09/2026 21:04",
+ "generated_at": 1789099445.1434422,
+ "generated_at_str": "10/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260916-9723f6da/"
   },
   {
-   "id": "d65089d6cd431796f1b83aad3de5d13d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LIM",
-   "destination_name": "Lima",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3262.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-25T23:34:00-06:00",
-   "return_at": "",
-   "duration": 1466,
-   "link": "https://www.aviasales.com/search/MEX2511LIM1?t=DM17956496401795741200001466NLUSDQLIM_d65089d6cd431796f1b83aad3de5d13d_16119&search_date=10092026&expected_price_uuid=01a08d28-febf-8040-a8c1-66470fb7b702&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=e4C5XtMPchv7EopG_U8rJw&expected_price_source=share&expected_price_currency=mxn&expected_price=3262",
-   "title": "Flight deals from Mexico City to Lima",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20261125-d65089d6/"
-  },
-  {
    "id": "ae45761ccf238e119263d1ed0d110f7d",
    "kind": "flight",
    "origin": "MEX",
@@ -110,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
+   "id": "38a056e0cea9edcf146533e04be1574f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "YTO",
+   "destination_name": "Toronto",
+   "airline": "F8",
+   "airline_title": "Flair Airlines",
+   "logo": "https://pics.avs.io/600/150/F8.png",
+   "logo_tipo": "",
+   "price": 5627.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-20T00:30:00-05:00",
+   "return_at": "",
+   "duration": 275,
+   "link": "https://www.aviasales.com/search/MEX2009YTO1?t=F817898642001789887900000275MEXYYZ_38a056e0cea9edcf146533e04be1574f_27805&search_date=11092026&expected_price_uuid=01a08e67-572b-8040-a33c-582ced23dc9b&static_fare_key=TY%7CP0%7CH1%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=Loof4oXT6LoKlI1z1Bzpbw&expected_price_source=share&expected_price_currency=mxn&expected_price=5627",
+   "title": "Flight deals from Mexico City to Toronto",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20260920-38a056e0/"
+  },
+  {
    "id": "cb0ad13e60dac5df8ed8cf709794e115",
    "kind": "flight",
    "origin": "MEX",
@@ -120,12 +120,12 @@
    "airline_title": "Euroairlines",
    "logo": "https://pics.avs.io/600/150/Q4.png",
    "logo_tipo": "",
-   "price": 5656.0,
+   "price": 5659.0,
    "currency": "MXN",
    "departure_at": "2026-09-26T06:15:00-05:00",
    "return_at": "",
    "duration": 160,
-   "link": "https://www.aviasales.com/search/MEX2609HAV1?t=Q417904033001790420100000160NLUHAV_cb0ad13e60dac5df8ed8cf709794e115_27964&search_date=11092026&expected_price_uuid=01a08e24-6876-8050-6b49-cccb1053d7ff&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5656",
+   "link": "https://www.aviasales.com/search/MEX2609HAV1?t=Q417904033001790420100000160NLUHAV_cb0ad13e60dac5df8ed8cf709794e115_27964&search_date=11092026&expected_price_uuid=01a08e24-6876-8050-6b49-cccb1053d7ff&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5659",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260926-cb0ad13e/"
   },

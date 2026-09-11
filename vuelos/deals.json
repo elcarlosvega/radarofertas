@@ -1,6 +1,6 @@
 {
- "generated_at": 1789099445.1434422,
- "generated_at_str": "10/09/2026 22:04",
+ "generated_at": 1789103045.2194963,
+ "generated_at_str": "10/09/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "8f577f85a4c875b69546c4e83d225d93",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 782.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-07T19:55:00-06:00",
-   "return_at": "",
-   "duration": 132,
-   "link": "https://www.aviasales.com/search/MEX0711CUN1?t=Y417940813001794092820000132MEXCUN_8f577f85a4c875b69546c4e83d225d93_3862&search_date=10092026&expected_price_uuid=01a08d63-fb5c-8040-2212-d3f084dd9a3b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=w4j1IXG5TKDcaa7IO20pdA&expected_price_source=share&expected_price_currency=mxn&expected_price=782",
-   "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261107-8f577f85/"
-  },
   {
    "id": "04a4e3e749763b3f0cdd1a26950c9c38",
    "kind": "flight",
@@ -100,12 +80,12 @@
    "airline_title": "Flair Airlines",
    "logo": "https://pics.avs.io/600/150/F8.png",
    "logo_tipo": "",
-   "price": 5627.0,
+   "price": 5629.0,
    "currency": "MXN",
    "departure_at": "2026-09-20T00:30:00-05:00",
    "return_at": "",
    "duration": 275,
-   "link": "https://www.aviasales.com/search/MEX2009YTO1?t=F817898642001789887900000275MEXYYZ_38a056e0cea9edcf146533e04be1574f_27805&search_date=11092026&expected_price_uuid=01a08e67-572b-8040-a33c-582ced23dc9b&static_fare_key=TY%7CP0%7CH1%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=Loof4oXT6LoKlI1z1Bzpbw&expected_price_source=share&expected_price_currency=mxn&expected_price=5627",
+   "link": "https://www.aviasales.com/search/MEX2009YTO1?t=F817898642001789887900000275MEXYYZ_38a056e0cea9edcf146533e04be1574f_27805&search_date=11092026&expected_price_uuid=01a08e67-572b-8040-a33c-582ced23dc9b&static_fare_key=TY%7CP0%7CH1%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=Loof4oXT6LoKlI1z1Bzpbw&expected_price_source=share&expected_price_currency=mxn&expected_price=5629",
    "title": "Flight deals from Mexico City to Toronto",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20260920-38a056e0/"
   },
@@ -120,12 +100,12 @@
    "airline_title": "Euroairlines",
    "logo": "https://pics.avs.io/600/150/Q4.png",
    "logo_tipo": "",
-   "price": 5659.0,
+   "price": 5662.0,
    "currency": "MXN",
    "departure_at": "2026-09-26T06:15:00-05:00",
    "return_at": "",
    "duration": 160,
-   "link": "https://www.aviasales.com/search/MEX2609HAV1?t=Q417904033001790420100000160NLUHAV_cb0ad13e60dac5df8ed8cf709794e115_27964&search_date=11092026&expected_price_uuid=01a08e24-6876-8050-6b49-cccb1053d7ff&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5659",
+   "link": "https://www.aviasales.com/search/MEX2609HAV1?t=Q417904033001790420100000160NLUHAV_cb0ad13e60dac5df8ed8cf709794e115_27964&search_date=11092026&expected_price_uuid=01a08e24-6876-8050-6b49-cccb1053d7ff&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qQ2_Y-YDhSawz_CH8RabMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5662",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260926-cb0ad13e/"
   },
@@ -168,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX1602SGN1?t=AM18028161001802959800001615MEXNRTSGN_3156f5471540e5aa653c2d6218d2ad74_106849&search_date=10092026&expected_price_uuid=01a08da0-ef62-8030-a4a6-7ac062da10d2&static_fare_key=TY%7CP0%7CH0%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=iH7neK0CN4t5T3gpx8X8SA&expected_price_source=share&expected_price_currency=mxn&expected_price=21624",
    "title": "Flight deals from Mexico City to Ho Chi Minh City",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-ho-chi-minh-20270216-3156f547/"
+  },
+  {
+   "id": "13e0459bfeff76a9cb24c233d4101b3e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Almaty",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 37293.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T09:00:00-05:00",
+   "return_at": "",
+   "duration": 1435,
+   "link": "https://www.aviasales.com/search/MEX1609ALA1?t=TK17895492001789674900001435MEXISTALA_13e0459bfeff76a9cb24c233d4101b3e_184196&search_date=11092026&expected_price_uuid=01a08ecd-40d1-8040-2a4e-5798c4cf8365&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hsoO0RHAHKuT5ZVgW-UQrA&expected_price_source=share&expected_price_currency=mxn&expected_price=37293",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20260916-13e0459b/"
   }
  ]
 }

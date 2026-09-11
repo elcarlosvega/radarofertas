@@ -1,6 +1,6 @@
 {
- "generated_at": 1789164243.5678873,
- "generated_at_str": "11/09/2026 16:04",
+ "generated_at": 1789167843.7976835,
+ "generated_at_str": "11/09/2026 17:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "ad03ebb09695e68edbb3adcf1baefdfa",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ACA",
+   "destination_name": "Acapulco de Juárez",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 964.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-17T15:43:00-05:00",
+   "return_at": "",
+   "duration": 62,
+   "link": "https://www.aviasales.com/search/MEX1709ACA1?t=VB17896597801789663500000062NLUACA_ad03ebb09695e68edbb3adcf1baefdfa_4778&search_date=11092026&expected_price_uuid=01a09294-70e7-8040-2b9f-ef2b4b6d1a7d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rj2eygxTXvySQ_0M6_vYXg&expected_price_source=share&expected_price_currency=mxn&expected_price=964",
+   "title": "Flight deals from Mexico City to Acapulco",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260917-ad03ebb0/"
+  },
   {
    "id": "518faee4941e5f3a8f063ced9736cdfd",
    "kind": "flight",
@@ -110,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-newburgh-20261002-ddf85cd3/"
   },
   {
-   "id": "49edbe7ad81bc67a5c81ac5fa3689d94",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4681.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-01T10:06:00-05:00",
-   "return_at": "",
-   "duration": 834,
-   "link": "https://www.aviasales.com/search/MEX0110BUE1?t=DM17908491601790910000000834NLUPUJEZE_49edbe7ad81bc67a5c81ac5fa3689d94_23203&search_date=11092026&expected_price_uuid=01a09131-d590-8040-a16e-3d2ea821caf0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i02S781PSCO3bCoW1Qu3xQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4681",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261001-49edbe7a/"
-  },
-  {
    "id": "77f6ba681f526f0b29f2b060337bf743",
    "kind": "flight",
    "origin": "MEX",
@@ -180,12 +180,12 @@
    "airline_title": "Norse Atlantic UK",
    "logo": "https://pics.avs.io/600/150/Z0.png",
    "logo_tipo": "",
-   "price": 8238.0,
+   "price": 8237.0,
    "currency": "MXN",
    "departure_at": "2026-09-27T06:00:00-05:00",
    "return_at": "",
    "duration": 1710,
-   "link": "https://www.aviasales.com/search/MEX2709IST1?t=Z017904888001790623800001710NLUMTYMCOLGWIST_a2395c43faafb859cbba177683cf3945_40832&search_date=11092026&expected_price_uuid=01a09210-f728-8050-6236-90a46106b5ba&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QWByroluTSesdVIhpI_Afg&expected_price_source=share&expected_price_currency=mxn&expected_price=8238",
+   "link": "https://www.aviasales.com/search/MEX2709IST1?t=Z017904888001790623800001710NLUMTYMCOLGWIST_a2395c43faafb859cbba177683cf3945_40832&search_date=11092026&expected_price_uuid=01a09210-f728-8050-6236-90a46106b5ba&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QWByroluTSesdVIhpI_Afg&expected_price_source=share&expected_price_currency=mxn&expected_price=8237",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260927-a2395c43/"
   }

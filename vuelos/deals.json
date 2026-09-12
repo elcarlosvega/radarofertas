@@ -1,6 +1,6 @@
 {
- "generated_at": 1789229043.8635595,
- "generated_at_str": "12/09/2026 10:04",
+ "generated_at": 1789232643.8557796,
+ "generated_at_str": "12/09/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261224-dbf47a83/"
   },
   {
-   "id": "44b69bd4fcdef19939fa9de3e0b99a70",
+   "id": "4d783b52bfed9efe4cf3da9bb0bc703f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BKK",
-   "destination_name": "Bangkok",
-   "airline": "CA",
-   "airline_title": "Air China",
-   "logo": "https://pics.avs.io/600/150/CA.png",
-   "logo_tipo": "",
-   "price": 8968.0,
+   "destination": "SAO",
+   "destination_name": "São Paulo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 6977.0,
    "currency": "MXN",
-   "departure_at": "2026-09-14T19:55:00-05:00",
+   "departure_at": "2026-11-25T17:05:00-06:00",
    "return_at": "",
-   "duration": 3015,
-   "link": "https://www.aviasales.com/search/MEX1409BKK1?t=CA17894157001789643400003015MEXLAXSZXBKK_44b69bd4fcdef19939fa9de3e0b99a70_44471&search_date=12092026&expected_price_uuid=01a0951a-d610-8030-adc8-a264703a8985&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SEWKxKoNsQ1-1ldhJequvg&expected_price_source=share&expected_price_currency=mxn&expected_price=8968",
-   "title": "Flight deals from Mexico City to Bangkok",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20260914-44b69bd4/"
+   "duration": 785,
+   "link": "https://www.aviasales.com/search/MEX2511SAO1?t=DM17956263001795684200000785NLUPUJGRU_4d783b52bfed9efe4cf3da9bb0bc703f_34600&search_date=12092026&expected_price_uuid=01a09554-c4b4-8030-e152-485a2da7a41a&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=dCjMmViKRed9YYGt9y9Hbw&expected_price_source=share&expected_price_currency=mxn&expected_price=6977",
+   "title": "Flight deals from Mexico City to Sao Paulo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261125-4d783b52/"
   },
   {
    "id": "53008294ca8548f4af8fa1ba5228b9a9",

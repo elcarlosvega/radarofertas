@@ -1,6 +1,6 @@
 {
- "generated_at": 1789218243.951238,
- "generated_at_str": "12/09/2026 07:04",
+ "generated_at": 1789221843.8265,
+ "generated_at_str": "12/09/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260922-219553b0/"
   },
   {
+   "id": "b5ce6922cf78a25b8ea21c89bdc13419",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1419.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-14T08:49:00-05:00",
+   "return_at": "",
+   "duration": 86,
+   "link": "https://www.aviasales.com/search/MTY1409MEX1?t=Y417893757401789380900000086MTYTLC_b5ce6922cf78a25b8ea21c89bdc13419_7039&search_date=12092026&expected_price_uuid=01a095d2-a1da-8030-af33-be468303661e&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=S3Q_pGZWluGOFmDe1gc9oQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1419",
+   "title": "Flight deals from Monterrey to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260914-b5ce6922/"
+  },
+  {
    "id": "dbf47a83a06127347d6f9ebb74c3c397",
    "kind": "flight",
    "origin": "MEX",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX2412BUE1?t=DM17981067601798170300000879NLUPUJEZE_dbf47a83a06127347d6f9ebb74c3c397_29315&search_date=12092026&expected_price_uuid=01a095a2-c292-8050-a9cc-eabd1230dd5c&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=eTURpJG-B0Euf0MXvZcU2g&expected_price_source=share&expected_price_currency=mxn&expected_price=5912",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261224-dbf47a83/"
-  },
-  {
-   "id": "39847b72e482d4352a0f95cdbacc4044",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BER",
-   "destination_name": "Berlín",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 6164.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-23T01:15:00-06:00",
-   "return_at": "",
-   "duration": 2330,
-   "link": "https://www.aviasales.com/search/MEX2311BER1?t=WS17953965001795561500002330MEXYYCCDGBER_39847b72e482d4352a0f95cdbacc4044_30564&search_date=12092026&expected_price_uuid=01a09473-492a-8030-a076-488b57630b25&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zsSpxkWNOdNLxCqsYsW1NQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6164",
-   "title": "Flight deals from Mexico City to Berlin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20261123-39847b72/"
   },
   {
    "id": "4d783b52bfed9efe4cf3da9bb0bc703f",
@@ -168,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1710MAD1?t=IB17922495001792328700000840TLCMTYMAD_8e9f78be718d3fb94614d9072643a39b_47213&search_date=12092026&expected_price_uuid=01a094be-bd44-8030-29cc-aa0b39ff8aba&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wizm2UBa8hNQgsGBlC063g&expected_price_source=share&expected_price_currency=mxn&expected_price=9521",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261017-8e9f78be/"
+  },
+  {
+   "id": "b4c0972efbcc2ff477d14938876550ff",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 9713.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-23T01:15:00-05:00",
+   "return_at": "",
+   "duration": 1590,
+   "link": "https://www.aviasales.com/search/MEX2310SEL1?t=WS17927181001792867500001590MEXYYCICN_b4c0972efbcc2ff477d14938876550ff_48165&search_date=12092026&expected_price_uuid=01a095a7-52d8-8050-684e-a8b104b2a444&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=JBF6u5fuatZqDJcLwiR-Fw&expected_price_source=share&expected_price_currency=mxn&expected_price=9713",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261023-b4c0972e/"
   },
   {
    "id": "62763bc36ea979f5d34a669dab592dc8",

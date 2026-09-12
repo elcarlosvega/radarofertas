@@ -1,6 +1,6 @@
 {
- "generated_at": 1789193043.4854095,
- "generated_at_str": "12/09/2026 00:04",
+ "generated_at": 1789196643.3379135,
+ "generated_at_str": "12/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MTY2109MEX1?t=Y417900217001790026860000086MTYTLC_f136f648f52e5a8463e31f4cd6fc65ed_3787&search_date=12092026&expected_price_uuid=01a0938a-3948-8030-21e6-717b40097d32&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=78YRHZkSodY4l400zcw4rw&expected_price_source=share&expected_price_currency=mxn&expected_price=764",
    "title": "Flight deals from Monterrey to Mexico City",
    "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260921-f136f648/"
+  },
+  {
+   "id": "6d5df72bbf41bc11979ffee58af83e4f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "OAK",
+   "destination_name": "Oakland",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2987.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T18:10:00-05:00",
+   "return_at": "",
+   "duration": 274,
+   "link": "https://www.aviasales.com/search/MEX1609OAK1?t=Y417895822001789595040000274MEXOAK_6d5df72bbf41bc11979ffee58af83e4f_14811&search_date=12092026&expected_price_uuid=01a09435-5abf-8040-6370-39ea8909b383&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9gg2W5GvO7mm9EYNuIr9Vg&expected_price_source=share&expected_price_currency=mxn&expected_price=2987",
+   "title": "Flight deals from Mexico City to Oakland",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20260916-6d5df72b/"
   },
   {
    "id": "7d4cf53db9f1e9cd4968804b2a85697a",

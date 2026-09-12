@@ -1,6 +1,6 @@
 {
- "generated_at": 1789214643.8127573,
- "generated_at_str": "12/09/2026 06:04",
+ "generated_at": 1789218243.951238,
+ "generated_at_str": "12/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260922-219553b0/"
   },
   {
-   "id": "6d5df72bbf41bc11979ffee58af83e4f",
+   "id": "dbf47a83a06127347d6f9ebb74c3c397",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "OAK",
-   "destination_name": "Oakland",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2987.0,
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 5912.0,
    "currency": "MXN",
-   "departure_at": "2026-09-16T18:10:00-05:00",
+   "departure_at": "2026-12-24T10:06:00-06:00",
    "return_at": "",
-   "duration": 274,
-   "link": "https://www.aviasales.com/search/MEX1609OAK1?t=Y417895822001789595040000274MEXOAK_6d5df72bbf41bc11979ffee58af83e4f_14811&search_date=12092026&expected_price_uuid=01a09435-5abf-8040-6370-39ea8909b383&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9gg2W5GvO7mm9EYNuIr9Vg&expected_price_source=share&expected_price_currency=mxn&expected_price=2987",
-   "title": "Flight deals from Mexico City to Oakland",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20260916-6d5df72b/"
+   "duration": 879,
+   "link": "https://www.aviasales.com/search/MEX2412BUE1?t=DM17981067601798170300000879NLUPUJEZE_dbf47a83a06127347d6f9ebb74c3c397_29315&search_date=12092026&expected_price_uuid=01a095a2-c292-8050-a9cc-eabd1230dd5c&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=eTURpJG-B0Euf0MXvZcU2g&expected_price_source=share&expected_price_currency=mxn&expected_price=5912",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261224-dbf47a83/"
   },
   {
    "id": "39847b72e482d4352a0f95cdbacc4044",

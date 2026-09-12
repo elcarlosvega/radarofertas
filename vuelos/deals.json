@@ -1,6 +1,6 @@
 {
- "generated_at": 1789239843.8257325,
- "generated_at_str": "12/09/2026 13:04",
+ "generated_at": 1789243443.96267,
+ "generated_at_str": "12/09/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -190,6 +190,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260915-53008294/"
   },
   {
+   "id": "02678cebb719c3d9e4c47f94aedbcc24",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BIO",
+   "destination_name": "Ciudad de Bilbao",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 9676.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-15T22:05:00-06:00",
+   "return_at": "",
+   "duration": 900,
+   "link": "https://www.aviasales.com/search/MEX1511BIO1?t=AM17947803001794859500000900MEXMADBIO_02678cebb719c3d9e4c47f94aedbcc24_47984&search_date=12092026&expected_price_uuid=01a096f9-0c19-8030-602d-98d43bdc77d3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CY-oJ-trtLjJz42OnHrcOA&expected_price_source=share&expected_price_currency=mxn&expected_price=9676",
+   "title": "Flight deals from Mexico City to Bilbao",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-bilbao-20261115-02678ceb/"
+  },
+  {
    "id": "ab44c97cf90219d2feb19fdffb246076",
    "kind": "flight",
    "origin": "MTY",
@@ -228,26 +248,6 @@
    "link": "https://www.aviasales.com/search/MEX1909BJS1?t=HU17897934001789909800001100MEXTIJPEK_a259902daeb2e7591de5d04ae5578549_63736&search_date=12092026&expected_price_uuid=01a09654-d6bb-8051-2c04-a455fd3ad399&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=bbQFwYvDD-f8mXdhM6ZV6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=12853",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260919-a259902d/"
-  },
-  {
-   "id": "ddbab586af3d8d75f350946ce917ed02",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TAS",
-   "destination_name": "Taskent",
-   "airline": "EY",
-   "airline_title": "Etihad Airways",
-   "logo": "https://pics.avs.io/600/150/EY.png",
-   "logo_tipo": "",
-   "price": 13715.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-21T06:50:00-05:00",
-   "return_at": "",
-   "duration": 1935,
-   "link": "https://www.aviasales.com/search/MEX2109TAS1?t=EY17899734001790129100001935MEXJFKAUHTAS_ddbab586af3d8d75f350946ce917ed02_68013&search_date=12092026&expected_price_uuid=01a0963e-8794-8030-a50d-1ec5542a11d5&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=7hR-tFCRujeaLZFb987BiA&expected_price_source=share&expected_price_currency=mxn&expected_price=13715",
-   "title": "Flight deals from Mexico City to Tashkent",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20260921-ddbab586/"
   },
   {
    "id": "f03f82c9bdc3608f91f1b31f06505339",

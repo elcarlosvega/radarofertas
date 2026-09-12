@@ -1,6 +1,6 @@
 {
- "generated_at": 1789175043.6975145,
- "generated_at_str": "11/09/2026 19:04",
+ "generated_at": 1789178643.5821812,
+ "generated_at_str": "11/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1709ACA1?t=VB17896597801789663500000062NLUACA_ad03ebb09695e68edbb3adcf1baefdfa_4778&search_date=11092026&expected_price_uuid=01a09294-70e7-8040-2b9f-ef2b4b6d1a7d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rj2eygxTXvySQ_0M6_vYXg&expected_price_source=share&expected_price_currency=mxn&expected_price=964",
    "title": "Flight deals from Mexico City to Acapulco",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260917-ad03ebb0/"
-  },
-  {
-   "id": "518faee4941e5f3a8f063ced9736cdfd",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 1014.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-19T08:41:00-05:00",
-   "return_at": "",
-   "duration": 790,
-   "link": "https://www.aviasales.com/search/GDL1909TIJ1?t=AM17898072601789851060000790GDLMEXTIJ_518faee4941e5f3a8f063ced9736cdfd_5024&search_date=11092026&expected_price_uuid=01a091e0-e47a-8050-2a50-4fa7d9e52ed5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dN_P0g4htXF6Q2A4HQ0h5Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1014",
-   "title": "Flight deals from Guadalajara to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20260919-518faee4/"
   },
   {
    "id": "92e21ba9400068f761b256f12abcc589",
@@ -110,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-newburgh-20261002-ddf85cd3/"
   },
   {
-   "id": "77f6ba681f526f0b29f2b060337bf743",
+   "id": "7d4cf53db9f1e9cd4968804b2a85697a",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BCN",
-   "destination_name": "Barcelona",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 5753.0,
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 4970.0,
    "currency": "MXN",
-   "departure_at": "2026-10-17T01:15:00-05:00",
+   "departure_at": "2026-09-24T10:06:00-05:00",
    "return_at": "",
-   "duration": 2395,
-   "link": "https://www.aviasales.com/search/MEX1710BCN1?t=WS17921997001792372200002395MEXYYCDUBBCN_77f6ba681f526f0b29f2b060337bf743_28518&search_date=11092026&expected_price_uuid=01a091d7-bad7-8040-6198-c4839c03e342&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MBRGfGBWevYA3LBs9E3YOQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5753",
-   "title": "Flight deals from Mexico City to Barcelona",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261017-77f6ba68/"
+   "duration": 879,
+   "link": "https://www.aviasales.com/search/MEX2409BUE1?t=DM17902443601790307900000879NLUPUJEZE_7d4cf53db9f1e9cd4968804b2a85697a_24647&search_date=12092026&expected_price_uuid=01a0933b-e0ae-8030-a855-bf1da5535277&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SfgOivc4rR_JJCet9KPkPA&expected_price_source=share&expected_price_currency=mxn&expected_price=4970",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260924-7d4cf53d/"
   },
   {
    "id": "faf2659db8bd0a59886452390038ffb3",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789167843.7976835,
- "generated_at_str": "11/09/2026 17:04",
+ "generated_at": 1789171443.3879719,
+ "generated_at_str": "11/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -188,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2709IST1?t=Z017904888001790623800001710NLUMTYMCOLGWIST_a2395c43faafb859cbba177683cf3945_40832&search_date=11092026&expected_price_uuid=01a09210-f728-8050-6236-90a46106b5ba&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QWByroluTSesdVIhpI_Afg&expected_price_source=share&expected_price_currency=mxn&expected_price=8237",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260927-a2395c43/"
+  },
+  {
+   "id": "96dc336167f4d14d0299919ec858f275",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 12444.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-16T20:05:00-06:00",
+   "return_at": "",
+   "duration": 1145,
+   "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001299001800252600001145MEXICN_96dc336167f4d14d0299919ec858f275_61704&search_date=11092026&expected_price_uuid=01a092c7-2907-8030-65b6-528b2d1b26b0&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=3ylSEfNKyOlF26jsHh6iug&expected_price_source=share&expected_price_currency=mxn&expected_price=12444",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-96dc3361/"
   }
  ]
 }

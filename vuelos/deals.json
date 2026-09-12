@@ -1,6 +1,6 @@
 {
- "generated_at": 1789185843.471742,
- "generated_at_str": "11/09/2026 22:04",
+ "generated_at": 1789189443.5302382,
+ "generated_at_str": "11/09/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,26 +30,6 @@
    "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260921-f136f648/"
   },
   {
-   "id": "ad03ebb09695e68edbb3adcf1baefdfa",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ACA",
-   "destination_name": "Acapulco de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 964.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-17T15:43:00-05:00",
-   "return_at": "",
-   "duration": 62,
-   "link": "https://www.aviasales.com/search/MEX1709ACA1?t=VB17896597801789663500000062NLUACA_ad03ebb09695e68edbb3adcf1baefdfa_4778&search_date=11092026&expected_price_uuid=01a09294-70e7-8040-2b9f-ef2b4b6d1a7d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rj2eygxTXvySQ_0M6_vYXg&expected_price_source=share&expected_price_currency=mxn&expected_price=964",
-   "title": "Flight deals from Mexico City to Acapulco",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20260917-ad03ebb0/"
-  },
-  {
    "id": "7d4cf53db9f1e9cd4968804b2a85697a",
    "kind": "flight",
    "origin": "MEX",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX2409BUE1?t=DM17902443601790307900000879NLUPUJEZE_7d4cf53db9f1e9cd4968804b2a85697a_24647&search_date=12092026&expected_price_uuid=01a0933b-e0ae-8030-a855-bf1da5535277&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SfgOivc4rR_JJCet9KPkPA&expected_price_source=share&expected_price_currency=mxn&expected_price=4970",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260924-7d4cf53d/"
+  },
+  {
+   "id": "dfbda98be61221ff83a09005a4c5bcb2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "SV",
+   "airline_title": "Saudia",
+   "logo": "https://pics.avs.io/600/150/SV.png",
+   "logo_tipo": "",
+   "price": 10786.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T22:06:00-05:00",
+   "return_at": "",
+   "duration": 3979,
+   "link": "https://www.aviasales.com/search/MEX1609DXB1?t=SV17895963601789871100003979NLUMTYJFKJEDDXB_dfbda98be61221ff83a09005a4c5bcb2_53484&search_date=12092026&expected_price_uuid=01a093cc-575a-8050-6d21-ca0b52b31bd1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5eVG-tMvSgXyatxD5MJsLQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10786",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260916-dfbda98b/"
   },
   {
    "id": "96dc336167f4d14d0299919ec858f275",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789203844.072036,
- "generated_at_str": "12/09/2026 03:04",
+ "generated_at": 1789207444.0215008,
+ "generated_at_str": "12/09/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,46 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "ab02e75f0a085cb0ede778d8fa1957ba",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 514.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T19:52:00-05:00",
+   "return_at": "",
+   "duration": 69,
+   "link": "https://www.aviasales.com/search/MEX1609GDL1?t=Y417895883201789592460000069TLCGDL_ab02e75f0a085cb0ede778d8fa1957ba_2548&search_date=12092026&expected_price_uuid=01a09504-ead2-8030-eb17-b57dfbf3d9e8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaMWokBvOE0EMF_kdOTOEg&expected_price_source=share&expected_price_currency=mxn&expected_price=514",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20260916-ab02e75f/"
+  },
+  {
+   "id": "219553b0be392185c71352d096c5f388",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 726.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-22T08:07:00-05:00",
+   "return_at": "",
+   "duration": 83,
+   "link": "https://www.aviasales.com/search/GDL2209MEX1?t=AM17900644201790069400000083GDLNLU_219553b0be392185c71352d096c5f388_3600&search_date=12092026&expected_price_uuid=01a09506-8ef1-8030-27af-0f72228ca2e3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iwVEKieXq--v4M9gQaMUFA&expected_price_source=share&expected_price_currency=mxn&expected_price=726",
+   "title": "Flight deals from Guadalajara to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20260922-219553b0/"
+  },
   {
    "id": "6d5df72bbf41bc11979ffee58af83e4f",
    "kind": "flight",

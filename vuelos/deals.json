@@ -1,6 +1,6 @@
 {
- "generated_at": 1789196643.3379135,
- "generated_at_str": "12/09/2026 01:04",
+ "generated_at": 1789200243.584028,
+ "generated_at_str": "12/09/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20260916-6d5df72b/"
   },
   {
-   "id": "7d4cf53db9f1e9cd4968804b2a85697a",
+   "id": "39847b72e482d4352a0f95cdbacc4044",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4970.0,
+   "destination": "BER",
+   "destination_name": "Berlín",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 6164.0,
    "currency": "MXN",
-   "departure_at": "2026-09-24T10:06:00-05:00",
+   "departure_at": "2026-11-23T01:15:00-06:00",
    "return_at": "",
-   "duration": 879,
-   "link": "https://www.aviasales.com/search/MEX2409BUE1?t=DM17902443601790307900000879NLUPUJEZE_7d4cf53db9f1e9cd4968804b2a85697a_24647&search_date=12092026&expected_price_uuid=01a0933b-e0ae-8030-a855-bf1da5535277&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SfgOivc4rR_JJCet9KPkPA&expected_price_source=share&expected_price_currency=mxn&expected_price=4970",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260924-7d4cf53d/"
+   "duration": 2330,
+   "link": "https://www.aviasales.com/search/MEX2311BER1?t=WS17953965001795561500002330MEXYYCCDGBER_39847b72e482d4352a0f95cdbacc4044_30564&search_date=12092026&expected_price_uuid=01a09473-492a-8030-a076-488b57630b25&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zsSpxkWNOdNLxCqsYsW1NQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6164",
+   "title": "Flight deals from Mexico City to Berlin",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20261123-39847b72/"
   },
   {
    "id": "9a45fe644f8db92b5086b3e665fadb3a",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789200243.584028,
- "generated_at_str": "12/09/2026 02:04",
+ "generated_at": 1789203844.072036,
+ "generated_at_str": "12/09/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "f136f648f52e5a8463e31f4cd6fc65ed",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 764.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-21T20:15:00-05:00",
-   "return_at": "",
-   "duration": 86,
-   "link": "https://www.aviasales.com/search/MTY2109MEX1?t=Y417900217001790026860000086MTYTLC_f136f648f52e5a8463e31f4cd6fc65ed_3787&search_date=12092026&expected_price_uuid=01a0938a-3948-8030-21e6-717b40097d32&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=78YRHZkSodY4l400zcw4rw&expected_price_source=share&expected_price_currency=mxn&expected_price=764",
-   "title": "Flight deals from Monterrey to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260921-f136f648/"
-  },
   {
    "id": "6d5df72bbf41bc11979ffee58af83e4f",
    "kind": "flight",
@@ -68,6 +48,46 @@
    "link": "https://www.aviasales.com/search/MEX2311BER1?t=WS17953965001795561500002330MEXYYCCDGBER_39847b72e482d4352a0f95cdbacc4044_30564&search_date=12092026&expected_price_uuid=01a09473-492a-8030-a076-488b57630b25&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zsSpxkWNOdNLxCqsYsW1NQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6164",
    "title": "Flight deals from Mexico City to Berlin",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20261123-39847b72/"
+  },
+  {
+   "id": "5d1c93aa0d8157c314a0b7ea1a497893",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DPS",
+   "destination_name": "Denpasar (Bali)",
+   "airline": "3U",
+   "airline_title": "Sichuan Airlines",
+   "logo": "https://pics.avs.io/600/150/3U.png",
+   "logo_tipo": "",
+   "price": 8917.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-05T17:18:00-06:00",
+   "return_at": "",
+   "duration": 3772,
+   "link": "https://www.aviasales.com/search/MEX0511DPS1?t=3U17938990801794175800003772NLUGDLLAXTFUDPS_5d1c93aa0d8157c314a0b7ea1a497893_44220&search_date=12092026&expected_price_uuid=01a0949e-1c87-8050-2148-e45718eb6fc9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NEuL4zIuf_dmFpK9WAlCgw&expected_price_source=share&expected_price_currency=mxn&expected_price=8917",
+   "title": "Flight deals from Mexico City to Denpasar (Bali)",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261105-5d1c93aa/"
+  },
+  {
+   "id": "8e9f78be718d3fb94614d9072643a39b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "IB",
+   "airline_title": "Iberia",
+   "logo": "https://pics.avs.io/600/150/IB.png",
+   "logo_tipo": "",
+   "price": 9521.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-17T15:05:00-05:00",
+   "return_at": "",
+   "duration": 840,
+   "link": "https://www.aviasales.com/search/MEX1710MAD1?t=IB17922495001792328700000840TLCMTYMAD_8e9f78be718d3fb94614d9072643a39b_47213&search_date=12092026&expected_price_uuid=01a094be-bd44-8030-29cc-aa0b39ff8aba&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wizm2UBa8hNQgsGBlC063g&expected_price_source=share&expected_price_currency=mxn&expected_price=9521",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261017-8e9f78be/"
   },
   {
    "id": "9a45fe644f8db92b5086b3e665fadb3a",

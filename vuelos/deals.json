@@ -1,6 +1,6 @@
 {
- "generated_at": 1789265043.9689426,
- "generated_at_str": "12/09/2026 20:04",
+ "generated_at": 1789268644.0865207,
+ "generated_at_str": "12/09/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260922-27b7c814/"
   },
   {
-   "id": "46e25a1ead0160b9b58d8ede63d2a949",
+   "id": "5e34ea8156be71a2112aa8d386c24031",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
+   "destination": "SAO",
+   "destination_name": "São Paulo",
    "airline": "DM",
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 3106.0,
+   "price": 4644.0,
    "currency": "MXN",
-   "departure_at": "2026-10-03T10:39:00-05:00",
+   "departure_at": "2027-02-04T20:31:00-06:00",
    "return_at": "",
-   "duration": 651,
-   "link": "https://www.aviasales.com/search/MEX0310NYC1?t=DM17910239401791070200000651NLUPUJEWR_46e25a1ead0160b9b58d8ede63d2a949_15400&search_date=12092026&expected_price_uuid=01a09759-6e9a-8040-64d5-1dfd2b1d80b9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M1dAZSeJKmaaAka5pEsLrw&expected_price_source=share&expected_price_currency=mxn&expected_price=3106",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261003-46e25a1e/"
+   "duration": 1379,
+   "link": "https://www.aviasales.com/search/MEX0402SAO1?t=DM18017730601801866600001379NLUCUNPUJGRU_5e34ea8156be71a2112aa8d386c24031_23027&search_date=13092026&expected_price_uuid=01a098aa-8863-8050-e269-82c2199b2ff3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IBS78mwevXUsZ6Bvp4eniA&expected_price_source=share&expected_price_currency=mxn&expected_price=4644",
+   "title": "Flight deals from Mexico City to Sao Paulo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270204-5e34ea81/"
   },
   {
    "id": "fd010cdb12035954d98da356e382033e",
@@ -68,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX2109PAR1?t=WS17899533001790078400001605MEXYYCCDG_fd010cdb12035954d98da356e382033e_38468&search_date=12092026&expected_price_uuid=01a097f6-9e6a-8030-66db-97cb0ab689bc&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wiQZskZnGQ8RsonigMAgIg&expected_price_source=share&expected_price_currency=mxn&expected_price=7757",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20260921-fd010cdb/"
-  },
-  {
-   "id": "ff2abfc16c16a544d738f12bcb7475c0",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "2W",
-   "airline_title": "World2Fly",
-   "logo": "https://pics.avs.io/600/150/2W.png",
-   "logo_tipo": "",
-   "price": 8214.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-03T14:10:00-05:00",
-   "return_at": "",
-   "duration": 840,
-   "link": "https://www.aviasales.com/search/MEX0310MAD1?t=2W17910366001791115800000840NLUCUNMAD_ff2abfc16c16a544d738f12bcb7475c0_40731&search_date=12092026&expected_price_uuid=01a09759-b037-8040-2fea-65b3c04e0767&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ltruMaFcxm2IT5BCMhgcCw&expected_price_source=share&expected_price_currency=mxn&expected_price=8214",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261003-ff2abfc1/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

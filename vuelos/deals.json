@@ -1,6 +1,6 @@
 {
- "generated_at": 1789261443.83675,
- "generated_at_str": "12/09/2026 19:04",
+ "generated_at": 1789265043.9689426,
+ "generated_at_str": "12/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0310NYC1?t=DM17910239401791070200000651NLUPUJEWR_46e25a1ead0160b9b58d8ede63d2a949_15400&search_date=12092026&expected_price_uuid=01a09759-6e9a-8040-64d5-1dfd2b1d80b9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M1dAZSeJKmaaAka5pEsLrw&expected_price_source=share&expected_price_currency=mxn&expected_price=3106",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261003-46e25a1e/"
-  },
-  {
-   "id": "c136684ca62f76ffd2b099dfa60c6884",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SCL",
-   "destination_name": "Santiago de Chile",
-   "airline": "CM",
-   "airline_title": "Copa Airlines",
-   "logo": "https://pics.avs.io/600/150/CM.png",
-   "logo_tipo": "",
-   "price": 4983.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-25T15:30:00-06:00",
-   "return_at": "",
-   "duration": 1993,
-   "link": "https://www.aviasales.com/search/MEX2512SCL1?t=CM17982126001798342980001993MEXPTYSCL_c136684ca62f76ffd2b099dfa60c6884_24708&search_date=12092026&expected_price_uuid=01a0972b-c8b7-8030-e6ef-e93d2bfe728a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MYnfryP743PVDIEfODfuCg&expected_price_source=share&expected_price_currency=mxn&expected_price=4983",
-   "title": "Flight deals from Mexico City to Santiago",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20261225-c136684c/"
   },
   {
    "id": "fd010cdb12035954d98da356e382033e",
@@ -128,26 +108,6 @@
    "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_47562&search_date=12092026&expected_price_uuid=01a097f4-bc54-8030-e028-a856ef2f1ee2&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=9591",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
-  },
-  {
-   "id": "02678cebb719c3d9e4c47f94aedbcc24",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BIO",
-   "destination_name": "Ciudad de Bilbao",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 9676.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-15T22:05:00-06:00",
-   "return_at": "",
-   "duration": 900,
-   "link": "https://www.aviasales.com/search/MEX1511BIO1?t=AM17947803001794859500000900MEXMADBIO_02678cebb719c3d9e4c47f94aedbcc24_47984&search_date=12092026&expected_price_uuid=01a096f9-0c19-8030-602d-98d43bdc77d3&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CY-oJ-trtLjJz42OnHrcOA&expected_price_source=share&expected_price_currency=mxn&expected_price=9676",
-   "title": "Flight deals from Mexico City to Bilbao",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-bilbao-20261115-02678ceb/"
   },
   {
    "id": "36cf86c0a7118509610fc1dde759d1cd",

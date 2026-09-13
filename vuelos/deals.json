@@ -1,6 +1,6 @@
 {
- "generated_at": 1789304644.0218976,
- "generated_at_str": "13/09/2026 07:04",
+ "generated_at": 1789308244.0260398,
+ "generated_at_str": "13/09/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1410SJO1?t=VB17920059001792066500001010NLUMTYSJO_767989781b8133eac0e0b9809084fceb_11056&search_date=13092026&expected_price_uuid=01a09a82-ee9c-8040-a878-cd612a58691c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aQZioK4jq7QUId2Xn0TJ9Q&expected_price_source=share&expected_price_currency=mxn&expected_price=2227",
    "title": "Flight deals from Mexico City to San Jose",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261014-76798978/"
+  },
+  {
+   "id": "f759abf9afdc66e5e53b3baf2410ef5f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ORL",
+   "destination_name": "Orlando",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2681.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-23T11:05:00-05:00",
+   "return_at": "",
+   "duration": 199,
+   "link": "https://www.aviasales.com/search/MEX2309ORL1?t=Y417901615001790180640000199MEXMCO_f759abf9afdc66e5e53b3baf2410ef5f_13312&search_date=13092026&expected_price_uuid=01a09af8-c9bb-8030-a1d8-e18bf5d80d8f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NWlFj8pBjOo5RN6yd6n98A&expected_price_source=share&expected_price_currency=mxn&expected_price=2681",
+   "title": "Flight deals from Mexico City to Orlando",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20260923-f759abf9/"
   },
   {
    "id": "79cd5c0ab992fab060bc686bc44aa3b4",

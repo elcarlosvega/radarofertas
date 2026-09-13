@@ -1,6 +1,6 @@
 {
- "generated_at": 1789290324.8716242,
- "generated_at_str": "13/09/2026 03:05",
+ "generated_at": 1789293921.7260845,
+ "generated_at_str": "13/09/2026 04:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -10230,6 +10230,24 @@
    "h_min7": 486.75
   },
   {
+   "id": "518012",
+   "name": "Neurobión Oral 60 Tabletas Vitaminas del Complejo B",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Vitaminas/Neurobion-Oral-60-Tabletas-Vitaminas-del-Complejo-B/p/518012",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/hec/99727048802334.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 649.0,
+   "price_new": 486.75,
+   "pct": 25.0,
+   "amount": 162.25,
+   "starts": "2026-09-09T06:00:00.000Z",
+   "ends": "2026-09-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789023961.5682132,
+   "h_dias": 5,
+   "h_min": 464.25,
+   "h_ayer": 486.75
+  },
+  {
    "id": "520741",
    "name": "FotoUltra 100 Spot Prevent Protector Solar FPS 50+ 50 ml ISDIN",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/FotoUltra-100-Spot-Prevent-Protector-Solar-FPS-50-50-ml-ISDIN/p/520741",
@@ -10247,24 +10265,6 @@
    "h_min": 486.75,
    "h_ayer": 486.75,
    "h_min7": 486.75
-  },
-  {
-   "id": "518012",
-   "name": "Neurobión Oral 60 Tabletas Vitaminas del Complejo B",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Vitaminas/Neurobion-Oral-60-Tabletas-Vitaminas-del-Complejo-B/p/518012",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/hec/99727048802334.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 649.0,
-   "price_new": 486.75,
-   "pct": 25.0,
-   "amount": 162.25,
-   "starts": "2026-09-09T06:00:00.000Z",
-   "ends": "2026-09-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789023961.5682132,
-   "h_dias": 5,
-   "h_min": 464.25,
-   "h_ayer": 486.75
   },
   {
    "id": "702376",

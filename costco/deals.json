@@ -1,6 +1,6 @@
 {
- "generated_at": 1789340724.1225536,
- "generated_at_str": "13/09/2026 17:05",
+ "generated_at": 1789344344.8055682,
+ "generated_at_str": "13/09/2026 18:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -7595,25 +7595,6 @@
    "name": "Coach 0HC6247U Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC6247U-Armazon-Oftalmico/p/704765",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hb8/h06/471761624825886.jpg",
-   "category": "Optica",
-   "price_old": 2999.0,
-   "price_new": 2249.25,
-   "pct": 25.0,
-   "amount": 749.75,
-   "starts": "2026-08-24T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1787555126.982376,
-   "h_dias": 21,
-   "h_min": 2249.25,
-   "h_ayer": 2249.25,
-   "h_min7": 2249.25
-  },
-  {
-   "id": "704764",
-   "name": "Coach 0HC5170 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC5170-Armazon-Oftalmico/p/704764",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h05/h5f/471761623646238.jpg",
    "category": "Optica",
    "price_old": 2999.0,
    "price_new": 2249.25,
@@ -15585,6 +15566,25 @@
    "h_min": 33999.0,
    "h_ayer": 40999.0,
    "h_min7": 40999.0
+  },
+  {
+   "id": "648329",
+   "name": "Samsung Galaxy Z Flip 8 512GB Rosa",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-Z-Flip-8-512GB-Rosa/p/648329",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h48/hd2/501622536011806.jpg",
+   "category": "Electronicos",
+   "price_old": 29499.0,
+   "price_new": 24699.0,
+   "pct": 16.3,
+   "amount": 4800.0,
+   "starts": "2026-09-10T06:00:00.000Z",
+   "ends": "2026-09-15T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789049167.9543662,
+   "h_dias": 11,
+   "h_min": 24699.0,
+   "h_ayer": 24699.0,
+   "h_min7": 24699.0
   },
   {
    "id": "687771",

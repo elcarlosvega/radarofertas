@@ -1,6 +1,6 @@
 {
- "generated_at": 1789409043.597035,
- "generated_at_str": "14/09/2026 12:04",
+ "generated_at": 1789412643.566433,
+ "generated_at_str": "14/09/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "8dfe24abdd42f9e329789b0f6daf6910",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "OAX",
+   "destination_name": "Oaxaca de Juárez",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 596.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-21T06:40:00-05:00",
+   "return_at": "",
+   "duration": 67,
+   "link": "https://www.aviasales.com/search/MEX2109OAX1?t=VB17899728001789976820000067NLUOAX_8dfe24abdd42f9e329789b0f6daf6910_2944&search_date=14092026&expected_price_uuid=01a0a13a-f0cb-8050-a906-b6823854feea&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=u2RCrbuqGTwjRCXiikLb7w&expected_price_source=share&expected_price_currency=mxn&expected_price=596",
+   "title": "Flight deals from Mexico City to Oaxaca",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20260921-8dfe24ab/"
+  },
   {
    "id": "04f65c76e48edf5efb3894a200056f0a",
    "kind": "flight",
@@ -100,12 +120,12 @@
    "airline_title": "Hainan Airlines",
    "logo": "https://pics.avs.io/600/150/HU.png",
    "logo_tipo": "",
-   "price": 12891.0,
+   "price": 12889.0,
    "currency": "MXN",
    "departure_at": "2026-09-19T04:50:00-05:00",
    "return_at": "",
    "duration": 1100,
-   "link": "https://www.aviasales.com/search/MEX1909BJS1?t=HU17897934001789909800001100MEXTIJPEK_a259902daeb2e7591de5d04ae5578549_63572&search_date=14092026&expected_price_uuid=01a0a09c-7341-8040-61e3-4066dbc8666f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=bbQFwYvDD-f8mXdhM6ZV6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=12891",
+   "link": "https://www.aviasales.com/search/MEX1909BJS1?t=HU17897934001789909800001100MEXTIJPEK_a259902daeb2e7591de5d04ae5578549_63572&search_date=14092026&expected_price_uuid=01a0a09c-7341-8040-61e3-4066dbc8666f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=bbQFwYvDD-f8mXdhM6ZV6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=12889",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260919-a259902d/"
   },
@@ -120,12 +140,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 20902.0,
+   "price": 20898.0,
    "currency": "MXN",
    "departure_at": "2026-09-23T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2309IST1?t=TK17901540001790245200000980MEXIST_82a7b2628e28325a694522de038ad88a_103075&search_date=14092026&expected_price_uuid=01a0a095-e926-8050-2631-edcfd6912aa2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=20902",
+   "link": "https://www.aviasales.com/search/MEX2309IST1?t=TK17901540001790245200000980MEXIST_82a7b2628e28325a694522de038ad88a_103075&search_date=14092026&expected_price_uuid=01a0a095-e926-8050-2631-edcfd6912aa2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=20898",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260923-82a7b262/"
   }

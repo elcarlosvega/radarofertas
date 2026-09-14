@@ -1,6 +1,6 @@
 {
- "generated_at": 1789391043.4730835,
- "generated_at_str": "14/09/2026 07:04",
+ "generated_at": 1789394643.5453997,
+ "generated_at_str": "14/09/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "01ec8e81e32cb3be4b9d993abed02f8b",
+   "id": "49edbe7ad81bc67a5c81ac5fa3689d94",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "BUE",
    "destination_name": "Buenos Aires",
-   "airline": "LA",
-   "airline_title": "LATAM Airlines Group",
-   "logo": "https://pics.avs.io/600/150/LA.png",
-   "logo_tipo": "",
-   "price": 5295.0,
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 4725.0,
    "currency": "MXN",
-   "departure_at": "2027-01-01T19:50:00-06:00",
+   "departure_at": "2026-10-01T10:06:00-05:00",
    "return_at": "",
-   "duration": 710,
-   "link": "https://www.aviasales.com/search/MEX0101BUE1?t=LA17988330001798886400000710MEXSCLEZE_01ec8e81e32cb3be4b9d993abed02f8b_26090&search_date=14092026&expected_price_uuid=01a09ebb-8da7-8040-a55f-f2cddaa40f32&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5295",
+   "duration": 834,
+   "link": "https://www.aviasales.com/search/MEX0110BUE1?t=DM17908491601790910000000834NLUPUJEZE_49edbe7ad81bc67a5c81ac5fa3689d94_23317&search_date=14092026&expected_price_uuid=01a09f82-f119-8030-ef18-c98f69a28886&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i02S781PSCO3bCoW1Qu3xQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4725",
    "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270101-01ec8e81/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261001-49edbe7a/"
   },
   {
    "id": "e3864e31601f982c09ea5cb69564b7a7",
@@ -70,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261003-42707aeb/"
   },
   {
-   "id": "32e87e72750c3d3b517a6e22c367b5dc",
+   "id": "2fc8214ab46adba7df9c8c2bed041aed",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -80,14 +80,14 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 23080.0,
+   "price": 21259.0,
    "currency": "MXN",
-   "departure_at": "2026-09-16T09:00:00-05:00",
+   "departure_at": "2026-09-18T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1609IST1?t=TK17895492001789640400000980MEXIST_32e87e72750c3d3b517a6e22c367b5dc_113888&search_date=14092026&expected_price_uuid=01a09f85-9ea5-8050-afdb-0a9e586ec2d9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=23080",
+   "link": "https://www.aviasales.com/search/MEX1809IST1?t=TK17897220001789813200000980MEXIST_2fc8214ab46adba7df9c8c2bed041aed_105090&search_date=14092026&expected_price_uuid=01a0a031-9a92-8050-a0d5-b614b9249446&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21259",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260916-32e87e72/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260918-2fc8214a/"
   }
  ]
 }

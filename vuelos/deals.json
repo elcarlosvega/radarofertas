@@ -1,6 +1,6 @@
 {
- "generated_at": 1789355044.0635388,
- "generated_at_str": "13/09/2026 21:04",
+ "generated_at": 1789358643.5387766,
+ "generated_at_str": "13/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
-   "id": "848dc21e950a61d47bb324e5ea2a7059",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BEG",
-   "destination_name": "Belgrado",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 7235.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-31T01:15:00-06:00",
-   "return_at": "",
-   "duration": 2135,
-   "link": "https://www.aviasales.com/search/MEX3110BEG1?t=WS17934093001793562600002135MEXYYCFCOBEG_848dc21e950a61d47bb324e5ea2a7059_35990&search_date=13092026&expected_price_uuid=01a09c97-ecd6-8030-24fe-b5cf3093f377&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iw9hX6Qap36Dy5u6W2EirQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7235",
-   "title": "Flight deals from Mexico City to Belgrade",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20261031-848dc21e/"
-  },
-  {
    "id": "98d9c8ef856f1438b107655eda719a73",
    "kind": "flight",
    "origin": "MEX",
@@ -108,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX2709IST1?t=Z017905071001790623800001405MEXMCOLGWIST_98d9c8ef856f1438b107655eda719a73_41155&search_date=13092026&expected_price_uuid=01a09d11-0041-8040-a276-ed2c699f6a28&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7X411pL-hbO0lv6dpRpl-Q&expected_price_source=share&expected_price_currency=mxn&expected_price=8271",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260927-98d9c8ef/"
+  },
+  {
+   "id": "d86a44ba55bee5a44335f8b4fb30c4f5",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 8966.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-09T22:20:00-06:00",
+   "return_at": "",
+   "duration": 645,
+   "link": "https://www.aviasales.com/search/MEX0912LON1?t=AM17968548001796915100000645MEXLHR_d86a44ba55bee5a44335f8b4fb30c4f5_44628&search_date=13092026&expected_price_uuid=01a09d2e-426e-8050-207b-9a17f7fc3ff1&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HSzK4K8yFlMlz38hp-2-9Q&expected_price_source=share&expected_price_currency=mxn&expected_price=8966",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261209-d86a44ba/"
   },
   {
    "id": "0acbcab1412c1918b469f08bb2f97830",

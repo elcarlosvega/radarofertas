@@ -1,6 +1,6 @@
 {
- "generated_at": 1789365844.0395076,
- "generated_at_str": "14/09/2026 00:04",
+ "generated_at": 1789369443.891058,
+ "generated_at_str": "14/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,7 +10,7 @@
  ],
  "deals": [
   {
-   "id": "8aa7982c72d9ca86e6580d5e51915366",
+   "id": "7c35980c2c3496ff24d393dae6ef82f3",
    "kind": "flight",
    "origin": "MTY",
    "origin_name": "Monterrey",
@@ -20,14 +20,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 850.0,
+   "price": 1458.0,
    "currency": "MXN",
-   "departure_at": "2026-09-23T20:15:00-05:00",
+   "departure_at": "2026-09-15T21:06:00-05:00",
    "return_at": "",
-   "duration": 86,
-   "link": "https://www.aviasales.com/search/MTY2309MEX1?t=Y417901945001790199660000086MTYTLC_8aa7982c72d9ca86e6580d5e51915366_4227&search_date=14092026&expected_price_uuid=01a09e50-8565-8030-63c5-66c0bc3ed2d7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=78YRHZkSodY4l400zcw4rw&expected_price_source=share&expected_price_currency=mxn&expected_price=850",
+   "duration": 630,
+   "link": "https://www.aviasales.com/search/MTY1509MEX1?t=Y417895063601789544160000630MTYGDLTLC_7c35980c2c3496ff24d393dae6ef82f3_7217&search_date=14092026&expected_price_uuid=01a09ea7-0d48-8030-abbb-edce9ffe19ca&static_fare_key=TY%7CP0%7CH1%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=UFkvqIp1FqzQ-342p_WJ7g&expected_price_source=share&expected_price_currency=mxn&expected_price=1458",
    "title": "Flight deals from Monterrey to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260923-8aa7982c/"
+   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20260915-7c35980c/"
   },
   {
    "id": "457de53d84682788d9aaac71c2457e5f",
@@ -40,12 +40,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 6561.0,
+   "price": 6562.0,
    "currency": "MXN",
    "departure_at": "2026-12-24T21:25:00-06:00",
    "return_at": "",
    "duration": 650,
-   "link": "https://www.aviasales.com/search/MEX2412AMS1?t=AM17981475001798211700000650MEXAMS_457de53d84682788d9aaac71c2457e5f_32597&search_date=14092026&expected_price_uuid=01a09e2b-f415-8030-e995-a36d3b9d8c06&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2YmkCZ_DUsIR_EDRINxFtA&expected_price_source=share&expected_price_currency=mxn&expected_price=6561",
+   "link": "https://www.aviasales.com/search/MEX2412AMS1?t=AM17981475001798211700000650MEXAMS_457de53d84682788d9aaac71c2457e5f_32597&search_date=14092026&expected_price_uuid=01a09e2b-f415-8030-e995-a36d3b9d8c06&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2YmkCZ_DUsIR_EDRINxFtA&expected_price_source=share&expected_price_currency=mxn&expected_price=6562",
    "title": "Flight deals from Mexico City to Amsterdam",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20261224-457de53d/"
   },
@@ -60,12 +60,12 @@
    "airline_title": "ZIPAIR",
    "logo": "https://pics.avs.io/600/150/ZG.png",
    "logo_tipo": "",
-   "price": 7673.0,
+   "price": 7674.0,
    "currency": "MXN",
    "departure_at": "2026-09-18T06:30:00-05:00",
    "return_at": "",
    "duration": 1300,
-   "link": "https://www.aviasales.com/search/MEX1809TYO1?t=ZG17897130001789845000001300NLUGDLLAXNRT_e5df2c81d8784aedb15908bca879d4d8_38154&search_date=14092026&expected_price_uuid=01a09e35-d319-8040-2233-ed07a1c5a066&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Wio3WZdFm3ocvJ382Iw55A&expected_price_source=share&expected_price_currency=mxn&expected_price=7673",
+   "link": "https://www.aviasales.com/search/MEX1809TYO1?t=ZG17897130001789845000001300NLUGDLLAXNRT_e5df2c81d8784aedb15908bca879d4d8_38154&search_date=14092026&expected_price_uuid=01a09e35-d319-8040-2233-ed07a1c5a066&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Wio3WZdFm3ocvJ382Iw55A&expected_price_source=share&expected_price_currency=mxn&expected_price=7674",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20260918-e5df2c81/"
   },
@@ -80,12 +80,12 @@
    "airline_title": "Philippine Airlines",
    "logo": "https://pics.avs.io/600/150/PR.png",
    "logo_tipo": "",
-   "price": 10845.0,
+   "price": 10846.0,
    "currency": "MXN",
    "departure_at": "2026-09-15T19:45:00-05:00",
    "return_at": "",
    "duration": 3010,
-   "link": "https://www.aviasales.com/search/MEX1509BJS1?t=PR17895015001789732500003010MEXLAXMNLPEK_e3864e31601f982c09ea5cb69564b7a7_53856&search_date=14092026&expected_price_uuid=01a09dee-6545-8040-6e80-16e8d8a00aa6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nejy-IiHHHtDJUqsc9yb-g&expected_price_source=share&expected_price_currency=mxn&expected_price=10845",
+   "link": "https://www.aviasales.com/search/MEX1509BJS1?t=PR17895015001789732500003010MEXLAXMNLPEK_e3864e31601f982c09ea5cb69564b7a7_53856&search_date=14092026&expected_price_uuid=01a09dee-6545-8040-6e80-16e8d8a00aa6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nejy-IiHHHtDJUqsc9yb-g&expected_price_source=share&expected_price_currency=mxn&expected_price=10846",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20260915-e3864e31/"
   }

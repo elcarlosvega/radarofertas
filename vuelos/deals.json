@@ -1,6 +1,6 @@
 {
- "generated_at": 1789347844.320352,
- "generated_at_str": "13/09/2026 19:04",
+ "generated_at": 1789351444.2608356,
+ "generated_at_str": "13/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
-   "id": "2a5b522d0d3524d1ff7edfd8722121ab",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 5132.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-09T16:39:00-05:00",
-   "return_at": "",
-   "duration": 817,
-   "link": "https://www.aviasales.com/search/MEX0910BUE1?t=DM17915639401791623760000817NLUPUJEZE_2a5b522d0d3524d1ff7edfd8722121ab_25505&search_date=13092026&expected_price_uuid=01a09c3f-d807-8030-e119-7bb8743aaf84&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=yerVZ5gIfqh2RQdPm-Adqw&expected_price_source=share&expected_price_currency=mxn&expected_price=5132",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261009-2a5b522d/"
-  },
-  {
    "id": "848dc21e950a61d47bb324e5ea2a7059",
    "kind": "flight",
    "origin": "MEX",
@@ -110,7 +90,27 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261004-99056f2a/"
   },
   {
-   "id": "f10c33674e8037ab8e8e1c8eacfffd62",
+   "id": "98d9c8ef856f1438b107655eda719a73",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "Z0",
+   "airline_title": "Norse Atlantic UK",
+   "logo": "https://pics.avs.io/600/150/Z0.png",
+   "logo_tipo": "",
+   "price": 8271.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-27T11:05:00-05:00",
+   "return_at": "",
+   "duration": 1405,
+   "link": "https://www.aviasales.com/search/MEX2709IST1?t=Z017905071001790623800001405MEXMCOLGWIST_98d9c8ef856f1438b107655eda719a73_41155&search_date=13092026&expected_price_uuid=01a09d11-0041-8040-a276-ed2c699f6a28&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7X411pL-hbO0lv6dpRpl-Q&expected_price_source=share&expected_price_currency=mxn&expected_price=8271",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260927-98d9c8ef/"
+  },
+  {
+   "id": "0acbcab1412c1918b469f08bb2f97830",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +120,14 @@
    "airline_title": "Hainan Airlines",
    "logo": "https://pics.avs.io/600/150/HU.png",
    "logo_tipo": "",
-   "price": 13653.0,
+   "price": 14280.0,
    "currency": "MXN",
-   "departure_at": "2026-10-09T04:50:00-05:00",
+   "departure_at": "2026-10-07T04:50:00-05:00",
    "return_at": "",
    "duration": 1100,
-   "link": "https://www.aviasales.com/search/MEX0910BJS1?t=HU17915214001791637800001100MEXTIJPEK_f10c33674e8037ab8e8e1c8eacfffd62_67855&search_date=13092026&expected_price_uuid=01a09c4d-0468-8050-e6a4-ab664ad66ba3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=bbQFwYvDD-f8mXdhM6ZV6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=13653",
+   "link": "https://www.aviasales.com/search/MEX0710BJS1?t=HU17913486001791465000001100MEXTIJPEK_0acbcab1412c1918b469f08bb2f97830_71019&search_date=13092026&expected_price_uuid=01a09cc8-144c-8040-62ed-fca08a09b435&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=bbQFwYvDD-f8mXdhM6ZV6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=14280",
    "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261009-f10c3367/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261007-0acbcab1/"
   },
   {
    "id": "35108c4ce623153beb912e0745b2e8e7",

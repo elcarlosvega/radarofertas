@@ -1,6 +1,6 @@
 {
- "generated_at": 1789412735.8957126,
- "generated_at_str": "14/09/2026 13:05",
+ "generated_at": 1789416333.9709187,
+ "generated_at_str": "14/09/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -624,25 +624,6 @@
    "h_min": 1249.0,
    "h_ayer": 1249.0,
    "h_min7": 1249.0
-  },
-  {
-   "id": "685135",
-   "name": "LG Refrigerador Instaview 31' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-Instaview-31-French-Door/p/685135",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h69/h3b/237555204554782.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 76999.0,
-   "price_new": 53499.0,
-   "pct": 30.5,
-   "amount": 23500.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 39,
-   "h_min": 53499.0,
-   "h_ayer": 53499.0,
-   "h_min7": 53499.0
   },
   {
    "id": "674473",
@@ -2484,23 +2465,6 @@
    "h_dias": 23,
    "h_min": 804.3,
    "h_min7": 804.3
-  },
-  {
-   "id": "686426",
-   "name": "Armaf Odyssey Mega 200 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Armaf-Odyssey-Mega-200-ml/p/686426",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hdb/h09/245742990098462.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1149.0,
-   "price_new": 804.3,
-   "pct": 30.0,
-   "amount": 344.7,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 1,
-   "h_min": 804.3
   },
   {
    "id": "654442",
@@ -4906,7 +4870,7 @@
    "starts": "2026-09-14T06:00:00.000Z",
    "ends": "2026-09-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789412735.8957126,
+   "first_seen": 1789412743.523616,
    "h_dias": 7,
    "h_min": 19499.0,
    "h_min7": 19999.0
@@ -15795,6 +15759,24 @@
    "h_min7": 11999.0
   },
   {
+   "id": "677233",
+   "name": "Smeg Estufa Portofino de gas con 4 quemadores 30\"",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Smeg-Estufa-Portofino-de-gas-con-4-quemadores-30/p/677233",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/haa/hd0/365039135195166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 39999.0,
+   "price_new": 30999.0,
+   "pct": 22.5,
+   "amount": 9000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789416333.9709187,
+   "h_dias": 14,
+   "h_min": 29999.0,
+   "h_min7": 30999.0
+  },
+  {
    "id": "702952",
    "name": "Hisense Pantalla 85\" HI-QLED 4K Fire TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-85-HI-QLED-4K-Fire-TV/p/702952",
@@ -17379,6 +17361,24 @@
    "h_min7": 23999.0
   },
   {
+   "id": "686398",
+   "name": "Smeg Parrilla de Gas 6 Quemadores 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Parrilla-de-Gas-6-Quemadores-90cm/p/686398",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf8/h82/505000057503774.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 19999.0,
+   "pct": 20.0,
+   "amount": 5000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789416333.9709187,
+   "h_dias": 30,
+   "h_min": 17999.0,
+   "h_min7": 19999.0
+  },
+  {
    "id": "702823",
    "name": "Samsung Galaxy S26 256GB Azul Cielo",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-256GB-Azul-Cielo/p/702823",
@@ -17885,7 +17885,7 @@
    "starts": "2026-09-14T06:00:00.000Z",
    "ends": "2026-09-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789412735.8957126,
+   "first_seen": 1789412743.523616,
    "h_dias": 48,
    "h_min": 25999.0,
    "h_ayer": 25999.0,

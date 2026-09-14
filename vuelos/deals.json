@@ -1,6 +1,6 @@
 {
- "generated_at": 1789351444.2608356,
- "generated_at_str": "13/09/2026 20:04",
+ "generated_at": 1789355044.0635388,
+ "generated_at_str": "13/09/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1610BOG1?t=VB17921873401792284300001556NLUMTYBOG_2c43a8e71a42467f0324db862496bfc3_10815&search_date=13092026&expected_price_uuid=01a09cda-a79e-8050-e7a0-76019d8236c2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xueNt3uiCA9d_Uz1p7PEkg&expected_price_source=share&expected_price_currency=mxn&expected_price=2175",
    "title": "Flight deals from Mexico City to Bogota",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261016-2c43a8e7/"
+  },
+  {
+   "id": "04a4e3e749763b3f0cdd1a26950c9c38",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PUJ",
+   "destination_name": "Punta Cana",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3217.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-19T16:36:00-05:00",
+   "return_at": "",
+   "duration": 279,
+   "link": "https://www.aviasales.com/search/MEX1910PUJ1?t=DM17924277601792451700000279NLUPUJ_04a4e3e749763b3f0cdd1a26950c9c38_16009&search_date=13092026&expected_price_uuid=01a09d16-d6fd-8030-abe4-fd1b7379d4c4&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Bk-waovL4x8RdU9iE3SyWw&expected_price_source=share&expected_price_currency=mxn&expected_price=3217",
+   "title": "Flight deals from Mexico City to Punta Cana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
   },
   {
    "id": "ae45761ccf238e119263d1ed0d110f7d",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX3110BEG1?t=WS17934093001793562600002135MEXYYCFCOBEG_848dc21e950a61d47bb324e5ea2a7059_35990&search_date=13092026&expected_price_uuid=01a09c97-ecd6-8030-24fe-b5cf3093f377&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iw9hX6Qap36Dy5u6W2EirQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7235",
    "title": "Flight deals from Mexico City to Belgrade",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20261031-848dc21e/"
-  },
-  {
-   "id": "99056f2a28f94733e0e10e5576eb2756",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 8239.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-04T17:50:00-05:00",
-   "return_at": "",
-   "duration": 645,
-   "link": "https://www.aviasales.com/search/MEX0410MAD1?t=AM17911362001791203700000645MEXMAD_99056f2a28f94733e0e10e5576eb2756_40986&search_date=13092026&expected_price_uuid=01a09c7f-889e-8040-66a8-12eb3271c106&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xFVCJiIK7nF8lNfC6zP3cA&expected_price_source=share&expected_price_currency=mxn&expected_price=8239",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261004-99056f2a/"
   },
   {
    "id": "98d9c8ef856f1438b107655eda719a73",

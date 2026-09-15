@@ -1,6 +1,6 @@
 {
- "generated_at": 1789434244.055499,
- "generated_at_str": "14/09/2026 19:04",
+ "generated_at": 1789437844.1536477,
+ "generated_at_str": "14/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20260930-db5c7e5d/"
   },
   {
-   "id": "8f344ddf45a75d66941188918b0b4fed",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "ONT",
-   "destination_name": "Ontario",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3531.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-25T20:59:00-05:00",
-   "return_at": "",
-   "duration": 186,
-   "link": "https://www.aviasales.com/search/GDL2509ONT1?t=Y417903699401790377500000186GDLONT_8f344ddf45a75d66941188918b0b4fed_17407&search_date=14092026&expected_price_uuid=01a0a153-26a5-8040-672e-323fe15bfc91&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=d8o7_C6pcXIFVHZOCRFgRQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3531",
-   "title": "Flight deals from Guadalajara to Ontario",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20260925-8f344ddf/"
-  },
-  {
    "id": "5b1476010503093eb354664f8b325b03",
    "kind": "flight",
    "origin": "MEX",
@@ -130,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261016-5b147601/"
   },
   {
+   "id": "ca00f5006c7a323bfc82eb20d04ff384",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 6286.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-07T16:51:00-05:00",
+   "return_at": "",
+   "duration": 849,
+   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_30997&search_date=15092026&expected_price_uuid=01a0a293-8fed-8040-29d5-dbcbc9afd9f4&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6286",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
+  },
+  {
    "id": "93ecfe920258cff9ccacebca025cbf5b",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX0510MAD1?t=AM17912226001791290100000645MEXMAD_93ecfe920258cff9ccacebca025cbf5b_41152&search_date=14092026&expected_price_uuid=01a0a1a6-d540-8040-a237-2654213e2bba&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xFVCJiIK7nF8lNfC6zP3cA&expected_price_source=share&expected_price_currency=mxn&expected_price=8347",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261005-93ecfe92/"
-  },
-  {
-   "id": "b8938bcc7d585810129bc14a49b50fb0",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "SV",
-   "airline_title": "Saudia",
-   "logo": "https://pics.avs.io/600/150/SV.png",
-   "logo_tipo": "",
-   "price": 8967.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-26T06:00:00-05:00",
-   "return_at": "",
-   "duration": 3635,
-   "link": "https://www.aviasales.com/search/MEX2609DXB1?t=SV17904024001790656500003635NLUMTYJFKJEDDXB_b8938bcc7d585810129bc14a49b50fb0_44210&search_date=14092026&expected_price_uuid=01a0a1f5-da0d-8040-ac7e-65311fb449ff&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=W92wBPh7XNkDpI9M-BLlCA&expected_price_source=share&expected_price_currency=mxn&expected_price=8967",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260926-b8938bcc/"
   },
   {
    "id": "ad56f2768697c8c53bde1152ea59a95c",

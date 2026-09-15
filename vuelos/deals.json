@@ -1,6 +1,6 @@
 {
- "generated_at": 1789427044.015357,
- "generated_at_str": "14/09/2026 17:04",
+ "generated_at": 1789430643.992626,
+ "generated_at_str": "14/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -168,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX2609DXB1?t=SV17904024001790656500003635NLUMTYJFKJEDDXB_b8938bcc7d585810129bc14a49b50fb0_44210&search_date=14092026&expected_price_uuid=01a0a1f5-da0d-8040-ac7e-65311fb449ff&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=W92wBPh7XNkDpI9M-BLlCA&expected_price_source=share&expected_price_currency=mxn&expected_price=8967",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20260926-b8938bcc/"
+  },
+  {
+   "id": "7a473324b78a20a42ca81da657403399",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "PR",
+   "airline_title": "Philippine Airlines",
+   "logo": "https://pics.avs.io/600/150/PR.png",
+   "logo_tipo": "",
+   "price": 11429.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-16T07:59:00-05:00",
+   "return_at": "",
+   "duration": 2276,
+   "link": "https://www.aviasales.com/search/GDL1609BJS1?t=PR17895455401789732500002276GDLLAXMNLPEK_7a473324b78a20a42ca81da657403399_56352&search_date=14092026&expected_price_uuid=01a0a255-23fe-8050-62a3-cc209b621fca&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DGrVxtQvm7edNSNewZAqaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11429",
+   "title": "Flight deals from Guadalajara to Beijing",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-pekin-20260916-7a473324/"
   },
   {
    "id": "7064c464a10424b454587a31cacd61dc",

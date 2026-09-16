@@ -1,6 +1,6 @@
 {
- "generated_at": 1789581918.2802572,
- "generated_at_str": "16/09/2026 12:05",
+ "generated_at": 1789585559.851661,
+ "generated_at_str": "16/09/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6034,25 +6034,6 @@
    "h_ayer": 179.0
   },
   {
-   "id": "674604",
-   "name": "Whirlpool Lavadora 27Kg Carga Superior",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-27Kg-Carga-Superior/p/674604",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h7c/hc2/150711975608350.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 21599.0,
-   "pct": 28.0,
-   "amount": 8400.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789427166.2266965,
-   "h_dias": 11,
-   "h_min": 20899.0,
-   "h_ayer": 21599.0,
-   "h_min7": 21599.0
-  },
-  {
    "id": "673524",
    "name": "LG Lavadora 22Kg Carga Frontal con Pedestal",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/673524",
@@ -9562,25 +9543,6 @@
    "name": "Carrera Victory C 11 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-Victory-C-11-Armazon-Oftalmico/p/700548",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2f/hac/401637671108638.jpg",
-   "category": "Optica",
-   "price_old": 4499.0,
-   "price_new": 3374.25,
-   "pct": 25.0,
-   "amount": 1124.75,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 44,
-   "h_min": 3374.25,
-   "h_ayer": 3374.25,
-   "h_min7": 3374.25
-  },
-  {
-   "id": "700547",
-   "name": "Carrera 361 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-361-Armazon-Oftalmico/p/700547",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd9/h85/401637671501854.jpg",
    "category": "Optica",
    "price_old": 4499.0,
    "price_new": 3374.25,
@@ -18390,6 +18352,25 @@
    "h_min": 7999.0,
    "h_ayer": 8499.0,
    "h_min7": 8499.0
+  },
+  {
+   "id": "1293824",
+   "name": "Yardistry Pérgola de Madera con Techo de Aluminio de 3.7m x 4.9m",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Pergola-de-Madera-con-Techo-de-Aluminio-de-37m-x-49m/p/1293824",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/h7b/45346765996062.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 52999.0,
+   "price_new": 42999.0,
+   "pct": 18.9,
+   "amount": 10000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-17T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 37,
+   "h_min": 37999.0,
+   "h_ayer": 42999.0,
+   "h_min7": 39999.0
   },
   {
    "id": "683665",

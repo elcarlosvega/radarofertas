@@ -1,6 +1,6 @@
 {
- "generated_at": 1789682642.253449,
- "generated_at_str": "17/09/2026 16:12",
+ "generated_at": 1789686242.3168526,
+ "generated_at_str": "17/09/2026 17:13",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -647,6 +647,24 @@
    "amount": 9899.0,
    "ends": "",
    "first_seen": 1788588241.9791508,
+   "in_stock": true,
+   "h_dias": 15,
+   "h_min": 9100.0,
+   "h_ayer": 9100.0,
+   "h_min7": 9100.0
+  },
+  {
+   "id": "1302091678",
+   "name": "LG DUALCOOL Inverter 1 Ton Frío y Calor (Voltaje 115V / 60HZ)",
+   "url": "https://www.elektra.mx/lg-dualcool-inverter-1-ton-frio-y-calor-voltaje-115v-60hz-1302091678/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/31765680/ebefe302.jpeg.jpg?v=639239207726400000",
+   "category": "Línea blanca",
+   "price_old": 18999.0,
+   "price_new": 9100.0,
+   "pct": 52.1,
+   "amount": 9899.0,
+   "ends": "",
+   "first_seen": 1789686242.3168526,
    "in_stock": true,
    "h_dias": 15,
    "h_min": 9100.0,

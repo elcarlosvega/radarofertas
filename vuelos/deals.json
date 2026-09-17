@@ -1,6 +1,6 @@
 {
- "generated_at": 1789668243.8091671,
- "generated_at_str": "17/09/2026 12:04",
+ "generated_at": 1789671843.7936087,
+ "generated_at_str": "17/09/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-monterrey-nueva-york-20260924-de749cde/"
   },
   {
+   "id": "3282f2f5cb331892c37c1639ddcee526",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAS",
+   "destination_name": "Las Vegas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3592.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-27T06:00:00-05:00",
+   "return_at": "",
+   "duration": 475,
+   "link": "https://www.aviasales.com/search/MEX2709LAS1?t=VB17904888001790513700000475NLUGDLLAS_3282f2f5cb331892c37c1639ddcee526_17661&search_date=17092026&expected_price_uuid=01a0b0ab-a196-8030-208f-67a781964ed9&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=FAB6j-jMtMBAzNSQdG0_wQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3592",
+   "title": "Flight deals from Mexico City to Las Vegas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20260927-3282f2f5/"
+  },
+  {
    "id": "b924f94ee8f3801c449817d713c62a3d",
    "kind": "flight",
    "origin": "MTY",
@@ -60,12 +80,12 @@
    "airline_title": "Qatar Airways",
    "logo": "https://pics.avs.io/600/150/QR.png",
    "logo_tipo": "",
-   "price": 11733.0,
+   "price": 11732.0,
    "currency": "MXN",
    "departure_at": "2026-09-20T18:10:00-05:00",
    "return_at": "",
    "duration": 1630,
-   "link": "https://www.aviasales.com/search/MTY2009IST1?t=QR17899278001790058000001630MTYDFWDOHIST_b924f94ee8f3801c449817d713c62a3d_57681&search_date=17092026&expected_price_uuid=01a0b00a-f2ba-8050-e626-a304466f0fa8&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=nCZRn33LE6K72C65USPa7w&expected_price_source=share&expected_price_currency=mxn&expected_price=11733",
+   "link": "https://www.aviasales.com/search/MTY2009IST1?t=QR17899278001790058000001630MTYDFWDOHIST_b924f94ee8f3801c449817d713c62a3d_57681&search_date=17092026&expected_price_uuid=01a0b00a-f2ba-8050-e626-a304466f0fa8&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=nCZRn33LE6K72C65USPa7w&expected_price_source=share&expected_price_currency=mxn&expected_price=11732",
    "title": "Flight deals from Monterrey to Istanbul",
    "micro": "/oferta/vuelos/vuelo-monterrey-estambul-20260920-b924f94e/"
   },

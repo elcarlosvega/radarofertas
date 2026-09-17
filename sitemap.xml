@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Indice de sitemaps. Cada monitor publica el suyo (sitemap-ofertas-<tienda>.xml)
-     con las ofertas vivas e indexables de su tienda en cada barrido. -->
+<!-- Indice de sitemaps. Lo regenera portada.py en cada refresco con las
+     tiendas que si tienen datos recientes; una tienda caida sale sola. -->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap><loc>https://radarofertas.mx/sitemap-paginas.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-categorias.xml</loc></sitemap>
@@ -8,8 +8,7 @@
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-amazon.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-costco.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-mercadolibre.xml</loc></sitemap>
-  <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-elektra.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-coppel.xml</loc></sitemap>
-  <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-liverpool.xml</loc></sitemap>
+  <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-elektra.xml</loc></sitemap>
   <sitemap><loc>https://radarofertas.mx/sitemap-ofertas-vuelos.xml</loc></sitemap>
 </sitemapindex>

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789639444.2892451,
- "generated_at_str": "17/09/2026 04:04",
+ "generated_at": 1789643043.9511256,
+ "generated_at_str": "17/09/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX2709MIA1?t=Y417905035001790522160000191MEXMIA_34632a7d7fc801637c1d660fbb18b9dc_14696&search_date=17092026&expected_price_uuid=01a0ae60-0a4c-8030-e16e-b66c656e9322&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=2995",
    "title": "Flight deals from Mexico City to Miami",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260927-34632a7d/"
-  },
-  {
-   "id": "e908005ab0adde2a1697a9168e46740a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 5383.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-19T10:30:00-05:00",
-   "return_at": "",
-   "duration": 465,
-   "link": "https://www.aviasales.com/search/MEX1909HAV1?t=VB17898138001789848900000465NLUMTYHAV_e908005ab0adde2a1697a9168e46740a_26345&search_date=17092026&expected_price_uuid=01a0ada1-620a-8050-2cb0-b8b404c423a5&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=R3xPxiutowXOXEj0ytaYjA&expected_price_source=share&expected_price_currency=mxn&expected_price=5383",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20260919-e908005a/"
   },
   {
    "id": "848dc21e950a61d47bb324e5ea2a7059",
@@ -130,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261209-89530ac7/"
   },
   {
+   "id": "b4cdcfc150fc0445bf6184f35e46dd58",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUS",
+   "destination_name": "Batumi",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 15493.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-09T09:20:00-06:00",
+   "return_at": "",
+   "duration": 1290,
+   "link": "https://www.aviasales.com/search/MEX0912BUS1?t=TK17968080001796921400001290MEXISTBUS_b4cdcfc150fc0445bf6184f35e46dd58_75822&search_date=17092026&expected_price_uuid=01a0ae35-6e01-8040-6adf-ac7cc56028ce&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=_zGTIXR3M6BOOURynyvtiw&expected_price_source=share&expected_price_currency=mxn&expected_price=15493",
+   "title": "Flight deals from Mexico City to Batumi",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-batumi-20261209-b4cdcfc1/"
+  },
+  {
    "id": "58903bd7a6c3583743d12441d7871678",
    "kind": "flight",
    "origin": "MEX",
@@ -180,12 +180,12 @@
    "airline_title": "Hainan Airlines",
    "logo": "https://pics.avs.io/600/150/HU.png",
    "logo_tipo": "",
-   "price": 35517.0,
+   "price": 35518.0,
    "currency": "MXN",
    "departure_at": "2026-12-09T04:55:00-06:00",
    "return_at": "",
    "duration": 1655,
-   "link": "https://www.aviasales.com/search/MEX0912NQZ1?t=HU17967921001796931000001655MEXPEKNQZ_243b8fa7775d0aded2eb25b8bed94d38_173823&search_date=17092026&expected_price_uuid=01a0ae3d-abe5-8040-2b98-ffc8b2b2043e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gTE9Ixa4ui_CxSS5BrjnmA&expected_price_source=share&expected_price_currency=mxn&expected_price=35517",
+   "link": "https://www.aviasales.com/search/MEX0912NQZ1?t=HU17967921001796931000001655MEXPEKNQZ_243b8fa7775d0aded2eb25b8bed94d38_173823&search_date=17092026&expected_price_uuid=01a0ae3d-abe5-8040-2b98-ffc8b2b2043e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gTE9Ixa4ui_CxSS5BrjnmA&expected_price_source=share&expected_price_currency=mxn&expected_price=35518",
    "title": "Flight deals from Mexico City to Astana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20261209-243b8fa7/"
   }

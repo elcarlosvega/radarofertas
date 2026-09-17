@@ -1,6 +1,6 @@
 {
- "generated_at": 1789671926.1911027,
- "generated_at_str": "17/09/2026 13:05",
+ "generated_at": 1789675518.2368398,
+ "generated_at_str": "17/09/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3533,6 +3533,25 @@
    "h_ayer": 559.3
   },
   {
+   "id": "653637",
+   "name": "Hugo Boss XX 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Hugo-Boss-XX-100-ml/p/653637",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he7/h63/11535704064030.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 799.0,
+   "price_new": 559.31,
+   "pct": 30.0,
+   "amount": 239.69,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789369546.9079876,
+   "h_dias": 26,
+   "h_min": 559.31,
+   "h_ayer": 559.31,
+   "h_min7": 559.31
+  },
+  {
    "id": "702502",
    "name": "Afnan 9Pm 150 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Afnan-9Pm-150-ml/p/702502",
@@ -5502,25 +5521,6 @@
    "h_min7": 12499.0
   },
   {
-   "id": "702947",
-   "name": "Bicicleta de Montaña R29 Benotto Black Widow",
-   "url": "https://www.costco.com.mx/Deportes/Ciclismo/Bicicletas-de-Montana/Bicicleta-de-Montana-R29-Benotto-Black-Widow/p/702947",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/h31/449171741343774.jpg",
-   "category": "Deportes",
-   "price_old": 13999.0,
-   "price_new": 9999.0,
-   "pct": 28.6,
-   "amount": 4000.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 25,
-   "h_min": 9999.0,
-   "h_ayer": 9999.0,
-   "h_min7": 9999.0
-  },
-  {
    "id": "696193",
    "name": "ASUS ROG Strix Monitor Gaming 27\" OLED 240Hz",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Monitores/Monitores-para-Gamers/ASUS-ROG-Strix-Monitor-Gaming-27-OLED-240Hz/p/696193",
@@ -6546,6 +6546,25 @@
    "h_min": 16999.0,
    "h_ayer": 16999.0,
    "h_min7": 16999.0
+  },
+  {
+   "id": "696039",
+   "name": "Chivas Regal Crystal Gold Whisky 700 ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Chivas-Regal-Crystal-Gold-Whisky-700-ml/p/696039",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/hf8/368463151562782.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 939.0,
+   "price_new": 679.0,
+   "pct": 27.7,
+   "amount": 260.0,
+   "starts": "2026-09-01T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788249935.758993,
+   "h_dias": 17,
+   "h_min": 679.0,
+   "h_ayer": 679.0,
+   "h_min7": 679.0
   },
   {
    "id": "642512",
@@ -9405,44 +9424,6 @@
    "h_dias": 9,
    "h_min": 5999.0,
    "h_min7": 5999.0
-  },
-  {
-   "id": "705138",
-   "name": "Samsung Galaxy A27 128GB Azul",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-A27-128GB-Azul/p/705138",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4c/h4f/490070436773918.jpg",
-   "category": "Electronicos",
-   "price_old": 5999.0,
-   "price_new": 4499.0,
-   "pct": 25.0,
-   "amount": 1500.0,
-   "starts": "2026-09-15T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789459528.7113776,
-   "h_dias": 24,
-   "h_min": 4199.0,
-   "h_ayer": 4499.0,
-   "h_min7": 4199.0
-  },
-  {
-   "id": "705137",
-   "name": "Samsung Galaxy A27 128GB Rosa Claro",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-A27-128GB-Rosa-Claro/p/705137",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/hcb/490070432219166.jpg",
-   "category": "Electronicos",
-   "price_old": 5999.0,
-   "price_new": 4499.0,
-   "pct": 25.0,
-   "amount": 1500.0,
-   "starts": "2026-09-15T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789459528.7113776,
-   "h_dias": 24,
-   "h_min": 4199.0,
-   "h_ayer": 4499.0,
-   "h_min7": 4199.0
   },
   {
    "id": "705136",
@@ -19870,25 +19851,6 @@
    "h_min7": 8999.0
   },
   {
-   "id": "662096",
-   "name": "Sealy, To Go Cocoon, Colchón Individual",
-   "url": "https://www.costco.com.mx/c/Sealy-To-Go-Cocoon-Colchon-Individual/p/662096",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/he4/44922896351262.jpg",
-   "category": "Muebles",
-   "price_old": 10999.0,
-   "price_new": 8999.0,
-   "pct": 18.2,
-   "amount": 2000.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 51,
-   "h_min": 8999.0,
-   "h_ayer": 8999.0,
-   "h_min7": 8999.0
-  },
-  {
    "id": "692489",
    "name": "Samsung Combo de Lavado de Gas 28Kg/24Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-28Kg24Kg/p/692489",
@@ -20247,6 +20209,23 @@
    "h_min": 9499.0,
    "h_ayer": 9499.0,
    "h_min7": 9499.0
+  },
+  {
+   "id": "648391",
+   "name": "Samsung Galaxy Watch Ultra 2 47mm Negro",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-2-47mm-Negro/p/648391",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd1/h8d/503791101214750.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 11499.0,
+   "price_new": 9499.0,
+   "pct": 17.4,
+   "amount": 2000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789675518.2368398,
+   "h_dias": 1,
+   "h_min": 9499.0
   },
   {
    "id": "668519",
@@ -23574,6 +23553,24 @@
    "h_min": 21999.0,
    "h_ayer": 22999.0,
    "h_min7": 22799.0
+  },
+  {
+   "id": "676414",
+   "name": "LG Aire Acondicionado Portátil Inverter con Wi-Fi, Solo Enfriamiento, 14,000 BTU, 115V",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/LG-Aire-Acondicionado-Portatil-Inverter-con-Wi-Fi-Solo-Enfriamiento-14000-BTU-115V/p/676414",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/hbb/136188600877086.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 12999.0,
+   "price_new": 11499.0,
+   "pct": 11.5,
+   "amount": 1500.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 4,
+   "h_min": 11499.0,
+   "h_ayer": 11499.0
   },
   {
    "id": "658637",

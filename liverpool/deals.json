@@ -1,6 +1,6 @@
 {
- "generated_at": 1789743842.6226468,
- "generated_at_str": "18/09/2026 09:10",
+ "generated_at": 1789747442.6752715,
+ "generated_at_str": "18/09/2026 10:10",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -566,40 +566,6 @@
    "h_ayer": 6597.0
   },
   {
-   "id": "1186683290",
-   "name": "BENOTTO Bicicleta de ruta rodada 700 para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-ruta-rodada-700-para-hombre/1186683290",
-   "img": "https://ss201.liverpool.com.mx/lg/1186683290.jpg",
-   "category": "Bicicletas",
-   "price_old": 24435.0,
-   "price_new": 10695.0,
-   "pct": 56.2,
-   "amount": 13740.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 10695.0,
-   "h_ayer": 10695.0
-  },
-  {
-   "id": "999683636802",
-   "name": "MOTOROLA Smartwatch Moto watch unisex con Gps",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-moto-watch-unisex-con-gps/999683636802",
-   "img": "https://sp101.liverpool.com.mx/i/1206307494.jpg",
-   "category": "Smartwatch",
-   "price_old": 5999.0,
-   "price_new": 2125.0,
-   "pct": 64.6,
-   "amount": 3874.0,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 2125.0,
-   "h_ayer": 2125.0
-  },
-  {
    "id": "1180277460",
    "name": "KIESLECT Smartwatch Lora Reno 3 unisex con GPS",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-lora-reno-3-unisex-con-gps/1180277460",
@@ -818,23 +784,6 @@
    "h_dias": 2,
    "h_min": 3350.0,
    "h_ayer": 3350.0
-  },
-  {
-   "id": "999685209968",
-   "name": "Sala modular Niagara Sochic",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-niagara-sochic/999685209968",
-   "img": "https://sp101.liverpool.com.mx/i/1206876570.jpg",
-   "category": "Salas",
-   "price_old": 66138.0,
-   "price_new": 33069.0,
-   "pct": 50.0,
-   "amount": 33069.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 33069.0,
-   "h_ayer": 33069.0
   },
   {
    "id": "999685279171",
@@ -1243,23 +1192,6 @@
    "h_ayer": 25999.0
   },
   {
-   "id": "1179041665",
-   "name": "BOGNER Licuadora BSB05R 2 velocidades",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-bsb05r-2-velocidades/1179041665",
-   "img": "https://sp625.liverpool.com.mx/i/1179041665.jpg",
-   "category": "Licuadoras",
-   "price_old": 1999.0,
-   "price_new": 599.0,
-   "pct": 70.0,
-   "amount": 1400.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 599.0,
-   "h_ayer": 599.0
-  },
-  {
    "id": "1182378166",
    "name": "SOCHIC Set recámara Guell + Japandi de Mdf",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-guell-japandi-de-mdf/1182378166",
@@ -1291,23 +1223,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 25549.0
-  },
-  {
-   "id": "99981205628",
-   "name": "MIBRO Smartwatch Watch C4",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-watch-c4/99981205628",
-   "img": "https://sp632.liverpool.com.mx/i/1170284778.jpg",
-   "category": "Smartwatch",
-   "price_old": 2999.0,
-   "price_new": 999.0,
-   "pct": 66.7,
-   "amount": 2000.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 999.0,
-   "h_ayer": 999.0
   },
   {
    "id": "1178768707",
@@ -1342,6 +1257,23 @@
    "h_dias": 2,
    "h_min": 3119.0,
    "h_ayer": 3119.0
+  },
+  {
+   "id": "1186376192",
+   "name": "ERGO CONFORT Sala modular derecha de Chenille",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-chenille/1186376192",
+   "img": "https://sp101.liverpool.com.mx/i/1186376192.jpg",
+   "category": "Salas",
+   "price_old": 50798.0,
+   "price_new": 25399.0,
+   "pct": 50.0,
+   "amount": 25399.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 24999.0,
+   "h_ayer": 25399.0
   },
   {
    "id": "1181514104",
@@ -1739,14 +1671,14 @@
    "img": "https://ss637.liverpool.com.mx/lg/1176997415.jpg",
    "category": "Bocinas",
    "price_old": 2763.0,
-   "price_new": 927.58,
+   "price_new": 927.48,
    "pct": 66.4,
-   "amount": 1835.42,
+   "amount": 1835.52,
    "ends": "",
    "first_seen": 1789740242.7072182,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 927.58,
+   "h_min": 927.48,
    "h_ayer": 928.67
   },
   {
@@ -1784,21 +1716,21 @@
    "h_ayer": 21219.0
   },
   {
-   "id": "1185503361",
-   "name": "BELUG Audífonos In-Ear inalámbrica con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbrica-con-cancelaci-n-de-ruido/1185503361",
-   "img": "https://sp101.liverpool.com.mx/i/1185503361.jpg",
-   "category": "Audifonos",
-   "price_old": 1698.02,
-   "price_new": 506.56,
-   "pct": 70.2,
-   "amount": 1191.46,
+   "id": "999683702465",
+   "name": "SOCHIC Sala 2 piezas Madison",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-madison/999683702465",
+   "img": "https://sp101.liverpool.com.mx/i/1206488731.jpg",
+   "category": "Salas",
+   "price_old": 42238.0,
+   "price_new": 21119.0,
+   "pct": 50.0,
+   "amount": 21119.0,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1789747442.6752715,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 506.56,
-   "h_ayer": 506.76
+   "h_min": 21119.0,
+   "h_ayer": 21119.0
   },
   {
    "id": "1182375493",
@@ -2009,23 +1941,6 @@
    "name": "BENOTTO Bicicleta de ruta rodada 700 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-ruta-rodada-700-unisex/1186669955",
    "img": "https://sp201.liverpool.com.mx/i/1186669955.jpg",
-   "category": "Bicicletas",
-   "price_old": 14505.0,
-   "price_new": 6515.0,
-   "pct": 55.1,
-   "amount": 7990.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 6515.0,
-   "h_ayer": 6515.0
-  },
-  {
-   "id": "1186669980",
-   "name": "BENOTTO Bicicleta de ruta rodada 700 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-ruta-rodada-700-unisex/1186669980",
-   "img": "https://sp201.liverpool.com.mx/i/1186669980.jpg",
    "category": "Bicicletas",
    "price_old": 14505.0,
    "price_new": 6515.0,
@@ -2394,6 +2309,23 @@
    "h_ayer": 17999.0
   },
   {
+   "id": "1186376613",
+   "name": "ERGO CONFORT Sala 2 piezas Maria gris de chenille",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-maria-gris-de-chenille/1186376613",
+   "img": "https://ss101.liverpool.com.mx/lg/1186376613.jpg",
+   "category": "Salas",
+   "price_old": 35798.0,
+   "price_new": 17899.0,
+   "pct": 50.0,
+   "amount": 17899.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 15999.0,
+   "h_ayer": 17899.0
+  },
+  {
    "id": "1189233465",
    "name": "LG Refrigerador french door 29 pies cúbicos inverter y no frost GM29BP",
    "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-29-pies-c-bicos-inverter-y-no-frost-gm29bp/1189233465",
@@ -2598,6 +2530,23 @@
    "h_ayer": 16999.0
   },
   {
+   "id": "1167869374",
+   "name": "GALO FURNITURE Sala 2 piezas Bruselas de microfibra",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-bruselas-de-microfibra/1167869374",
+   "img": "https://sp101.liverpool.com.mx/i/1167869374.jpg",
+   "category": "Salas",
+   "price_old": 33998.0,
+   "price_new": 16999.0,
+   "pct": 50.0,
+   "amount": 16999.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 16999.0,
+   "h_ayer": 16999.0
+  },
+  {
    "id": "1167869382",
    "name": "GALO FURNITURE Sala 2 piezas Nueva York de microfibra",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-nueva-york-de-microfibra/1167869382",
@@ -2783,6 +2732,57 @@
    "h_dias": 2,
    "h_min": 5579.0,
    "h_ayer": 5579.0
+  },
+  {
+   "id": "999684067121",
+   "name": "MI SOFA MX Sala modular Grecia de madera",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-grecia-de-madera/999684067121",
+   "img": "https://sp101.liverpool.com.mx/i/1206494529.jpg",
+   "category": "Salas",
+   "price_old": 32980.0,
+   "price_new": 16490.0,
+   "pct": 50.0,
+   "amount": 16490.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 16490.0,
+   "h_ayer": 16490.0
+  },
+  {
+   "id": "99983682230",
+   "name": "MR FIX Sala modular de madera",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-madera/99983682230",
+   "img": "https://sp101.liverpool.com.mx/i/1175761965.jpg",
+   "category": "Salas",
+   "price_old": 32980.0,
+   "price_new": 16490.0,
+   "pct": 50.0,
+   "amount": 16490.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 16490.0,
+   "h_ayer": 16490.0
+  },
+  {
+   "id": "99984157371",
+   "name": "MR FIX Sala modular izquierda de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-izquierda-de-madera-pino/99984157371",
+   "img": "https://sp101.liverpool.com.mx/i/1176207465.jpg",
+   "category": "Salas",
+   "price_old": 32980.0,
+   "price_new": 16490.0,
+   "pct": 50.0,
+   "amount": 16490.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 16490.0,
+   "h_ayer": 16490.0
   },
   {
    "id": "99991282898",
@@ -3091,6 +3091,23 @@
    "h_ayer": 15390.0
   },
   {
+   "id": "99962025889",
+   "name": "MR FIX Sala modular derecha Scott Jr de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-scott-jr-de-madera-pino/99962025889",
+   "img": "https://ss101.liverpool.com.mx/lg/1140318970.jpg",
+   "category": "Salas",
+   "price_old": 30780.0,
+   "price_new": 15390.0,
+   "pct": 50.0,
+   "amount": 15390.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 15390.0,
+   "h_ayer": 15390.0
+  },
+  {
    "id": "1181785761",
    "name": "SOCHIC Set recámara Pamela de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-pamela-de-mdf/1181785761",
@@ -3278,6 +3295,74 @@
    "h_ayer": 14999.0
   },
   {
+   "id": "1156895446",
+   "name": "GALO FURNITURE Sala 2 piezas Magali",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-magali/1156895446",
+   "img": "https://sp101.liverpool.com.mx/i/1156895446.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0
+  },
+  {
+   "id": "1164140144",
+   "name": "GALO FURNITURE Sala modular derecha Santorini de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-santorini-de-madera-pino/1164140144",
+   "img": "https://ss101.liverpool.com.mx/lg/1164140144.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0
+  },
+  {
+   "id": "1156899204",
+   "name": "GALO FURNITURE Sala 2 piezas Mia",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-mia/1156899204",
+   "img": "https://ss101.liverpool.com.mx/lg/1156899204.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0
+  },
+  {
+   "id": "999674335385",
+   "name": "GALO FURNITURE Sala modular izquierda Roma",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-izquierda-roma/999674335385",
+   "img": "https://sp101.liverpool.com.mx/i/1200306577.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0
+  },
+  {
    "id": "999674335393",
    "name": "GALO FURNITURE Sala modular derecha Roma de tela",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-roma-de-tela/999674335393",
@@ -3428,6 +3513,23 @@
    "h_dias": 2,
    "h_min": 14800.0,
    "h_ayer": 14800.0
+  },
+  {
+   "id": "1144761746",
+   "name": "ERGO CONFORT Sala 3 piezas Noa de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-noa-de-tela/1144761746",
+   "img": "https://ss101.liverpool.com.mx/lg/1144761746.jpg",
+   "category": "Salas",
+   "price_old": 29598.0,
+   "price_new": 14799.0,
+   "pct": 50.0,
+   "amount": 14799.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 14799.0,
+   "h_ayer": 14799.0
   },
   {
    "id": "1181510036",
@@ -3582,23 +3684,6 @@
    "h_ayer": 4769.0
   },
   {
-   "id": "1188341256",
-   "name": "VELOCI Bicicleta de montaña rodada 26 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-26-unisex/1188341256",
-   "img": "https://ss201.liverpool.com.mx/lg/1188341256.jpg",
-   "category": "Bicicletas",
-   "price_old": 10598.0,
-   "price_new": 4769.0,
-   "pct": 55.0,
-   "amount": 5829.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 4769.0,
-   "h_ayer": 4769.0
-  },
-  {
    "id": "999668488925",
    "name": "SOCHIC Set Recámara Euphoria de mdf",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-euphoria-de-mdf/999668488925",
@@ -3614,6 +3699,23 @@
    "h_dias": 2,
    "h_min": 13619.0,
    "h_ayer": 13619.0
+  },
+  {
+   "id": "1144754545",
+   "name": "ERGO CONFORT Sala modular Tirreno de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-tirreno-de-tela/1144754545",
+   "img": "https://ss101.liverpool.com.mx/lg/1144754545.jpg",
+   "category": "Salas",
+   "price_old": 27198.0,
+   "price_new": 13599.0,
+   "pct": 50.0,
+   "amount": 13599.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 13599.0,
+   "h_ayer": 13599.0
   },
   {
    "id": "1174142609",
@@ -3684,22 +3786,6 @@
    "h_ayer": 13319.0
   },
   {
-   "id": "1177824506",
-   "name": "ARABIYAT Eau de parfum Lady Bird para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-lady-bird-para-mujer/1177824506",
-   "img": "https://sp701.liverpool.com.mx/i/1177824506.jpg",
-   "category": "Perfumes",
-   "price_old": 2150.0,
-   "price_new": 742.9,
-   "pct": 65.4,
-   "amount": 1407.1,
-   "ends": "",
-   "first_seen": 1789722241.8930385,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 742.9
-  },
-  {
    "id": "1192142985",
    "name": "VELOCI Bicicleta de montaña rodada 26 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-26-unisex/1192142985",
@@ -3732,23 +3818,6 @@
    "h_dias": 2,
    "h_min": 4499.0,
    "h_ayer": 4499.0
-  },
-  {
-   "id": "1097092059",
-   "name": "CENTURFIT Bicicleta de spinning acero",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-spinning-acero/1097092059",
-   "img": "https://ss206.liverpool.com.mx/lg/1097092059.jpg",
-   "category": "Bicicletas",
-   "price_old": 8999.0,
-   "price_new": 3999.0,
-   "pct": 55.6,
-   "amount": 5000.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 3999.0,
-   "h_ayer": 3999.0
   },
   {
    "id": "99976212040",
@@ -4107,6 +4176,22 @@
    "h_ayer": 11499.0
   },
   {
+   "id": "1192316983",
+   "name": "AIWA Bocina portátil AWPOK68 Bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-awpok68-bluetooth/1192316983",
+   "img": "https://ss630.liverpool.com.mx/lg/1192316983.jpg",
+   "category": "Bocinas",
+   "price_old": 3999.0,
+   "price_new": 1599.0,
+   "pct": 60.0,
+   "amount": 2400.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1598.99
+  },
+  {
    "id": "1138484447",
    "name": "GENÉRICA Cepillo con cerdas suaves",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-con-cerdas-suaves/1138484447",
@@ -4198,9 +4283,9 @@
    "img": "https://sp701.liverpool.com.mx/i/1189382991.jpg",
    "category": "Perfumes",
    "price_old": 1999.0,
-   "price_new": 708.33,
+   "price_new": 708.03,
    "pct": 64.6,
-   "amount": 1290.67,
+   "amount": 1290.97,
    "ends": "",
    "first_seen": 1789711441.8754492,
    "in_stock": true,
@@ -5039,6 +5124,23 @@
    "h_ayer": 3997.0
   },
   {
+   "id": "999673731063",
+   "name": "HONOR Play 10 LCD / TFT 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/play-10-lcd-tft-6-7-pulgadas/999673731063",
+   "img": "https://sp101.liverpool.com.mx/i/1199345032.jpeg",
+   "category": "Celulares",
+   "price_old": 4800.0,
+   "price_new": 2065.0,
+   "pct": 57.0,
+   "amount": 2735.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 2065.0,
+   "h_ayer": 2066.0
+  },
+  {
    "id": "999680598290",
    "name": "INFINIX Hot 70 PLS LCD 6.78 pulgadas desbloqueado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/hot-70-pls-lcd-6-78-pulgadas-desbloqueado/999680598290",
@@ -5139,6 +5241,23 @@
    "h_dias": 3,
    "h_min": 1690.0,
    "h_ayer": 1690.0
+  },
+  {
+   "id": "1200691373",
+   "name": "SAMSUNG Galaxy A07 LCD 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/galaxy-a07-lcd-6-7-pulgadas/1200691373",
+   "img": "https://sp632.liverpool.com.mx/i/1200691373.jpg",
+   "category": "Celulares",
+   "price_old": 6990.0,
+   "price_new": 3194.0,
+   "pct": 54.3,
+   "amount": 3796.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 3194.0,
+   "h_ayer": 3195.0
   },
   {
    "id": "1169119385",
@@ -5770,23 +5889,6 @@
    "h_ayer": 2249.0
   },
   {
-   "id": "1170997936",
-   "name": "CENTURFIT Bicicleta de spinning acero",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-spinning-acero/1170997936",
-   "img": "https://ss206.liverpool.com.mx/lg/1170997936.jpg",
-   "category": "Bicicletas",
-   "price_old": 10999.0,
-   "price_new": 5449.0,
-   "pct": 50.5,
-   "amount": 5550.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 5449.0,
-   "h_ayer": 5449.0
-  },
-  {
    "id": "99964081256",
    "name": "ZAGG Funda para Apple iPhone de policarbonato",
    "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-apple-iphone-de-policarbonato/99964081256",
@@ -5852,6 +5954,23 @@
    "h_dias": 2,
    "h_min": 8797.0,
    "h_ayer": 8797.0
+  },
+  {
+   "id": "99993042274",
+   "name": "MOBOSS Bicicleta eléctrica K01 urbana rodada 12",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-el-ctrica-k01-urbana-rodada-12/99993042274",
+   "img": "https://sp101.liverpool.com.mx/i/1190990938.jpg",
+   "category": "Bicicletas",
+   "price_old": 8299.0,
+   "price_new": 3999.0,
+   "pct": 51.8,
+   "amount": 4300.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3999.0,
+   "h_ayer": 3999.0
   },
   {
    "id": "1176936581",
@@ -6142,6 +6261,23 @@
    "h_ayer": 34999.0
   },
   {
+   "id": "1191942937",
+   "name": "GHOST Bicicleta infantil rodada 20 para niño",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-20-para-ni-o/1191942937",
+   "img": "https://ss424.liverpool.com.mx/lg/1191942937.jpg",
+   "category": "Bicicletas",
+   "price_old": 8398.0,
+   "price_new": 4157.0,
+   "pct": 50.5,
+   "amount": 4241.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 4157.0,
+   "h_ayer": 4157.0
+  },
+  {
    "id": "1167160901",
    "name": "BENOTTO Bicicleta infantil rodada 20 Giselle para niña",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-20-giselle-para-ni-a/1167160901",
@@ -6174,6 +6310,23 @@
    "h_dias": 2,
    "h_min": 1110.99,
    "h_ayer": 1110.99
+  },
+  {
+   "id": "1175155542",
+   "name": "GHOST Bicicleta infantil rodada 12 unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-12-unisex/1175155542",
+   "img": "https://ss424.liverpool.com.mx/lg/1175155542.jpg",
+   "category": "Bicicletas",
+   "price_old": 7798.0,
+   "price_new": 3860.0,
+   "pct": 50.5,
+   "amount": 3938.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3860.0,
+   "h_ayer": 3860.0
   },
   {
    "id": "1173565689",
@@ -6906,6 +7059,22 @@
    "h_ayer": 999.0
   },
   {
+   "id": "1136874850",
+   "name": "GENÉRICA Audífonos True Wireless inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-inal-mbricos-con-cancelaci-n-de-ruido/1136874850",
+   "img": "https://sp630.liverpool.com.mx/i/1136874850.jpg",
+   "category": "Audifonos",
+   "price_old": 1309.33,
+   "price_new": 515.49,
+   "pct": 60.6,
+   "amount": 793.84,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 515.49
+  },
+  {
    "id": "999673642431",
    "name": "GHOST Bicicleta rodada 20 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-rodada-20-unisex/999673642431",
@@ -7042,6 +7211,23 @@
    "h_ayer": 1955.81
   },
   {
+   "id": "999681636273",
+   "name": "HONOR X7D LCD / TFT 6.7 pulgadas desbloqueado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas-desbloqueado/999681636273",
+   "img": "https://sp101.liverpool.com.mx/i/1203371582.jpg",
+   "category": "Celulares",
+   "price_old": 8990.0,
+   "price_new": 4667.0,
+   "pct": 48.1,
+   "amount": 4323.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 4667.0,
+   "h_ayer": 4668.0
+  },
+  {
    "id": "1144554350",
    "name": "LAB.G Audífonos Over-Ear alámbricos e inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-al-mbricos-e-inal-mbricos/1144554350",
@@ -7108,23 +7294,6 @@
    "h_dias": 2,
    "h_min": 20999.0,
    "h_ayer": 20999.0
-  },
-  {
-   "id": "1141906336",
-   "name": "Genérica Audífonos Macarron inalámbricos",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-macarron-inal-mbricos/1141906336",
-   "img": "https://ss514.liverpool.com.mx/lg/1141906336.jpg",
-   "category": "Audifonos",
-   "price_old": 769.0,
-   "price_new": 274.0,
-   "pct": 64.4,
-   "amount": 495.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 274.0,
-   "h_ayer": 274.0
   },
   {
    "id": "1141908428",
@@ -7600,6 +7769,23 @@
    "h_dias": 2,
    "h_min": 5598.97,
    "h_ayer": 5598.97
+  },
+  {
+   "id": "1160430636",
+   "name": "LG Refrigerador french door 25 pies cúbicos inverter y no frost GM65BPP",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-25-pies-c-bicos-inverter-y-no-frost-gm65bpp/1160430636",
+   "img": "https://sp634.liverpool.com.mx/i/1160430636.jpg",
+   "category": "Refrigeradores",
+   "price_old": 32499.0,
+   "price_new": 19003.96,
+   "pct": 41.5,
+   "amount": 13495.04,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 19003.96,
+   "h_ayer": 19003.96
   },
   {
    "id": "99977033999",
@@ -8142,23 +8328,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2299.0
-  },
-  {
-   "id": "1115269701",
-   "name": "TRUPER Hidrolavadora HILA-1800",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/hidrolavadora-hila-1800/1115269701",
-   "img": "https://ss343.liverpool.com.mx/lg/1115269701.jpg",
-   "category": "Lavadoras",
-   "price_old": 4681.0,
-   "price_new": 2346.77,
-   "pct": 49.9,
-   "amount": 2334.23,
-   "ends": "",
-   "first_seen": 1789740242.7072182,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 2346.77,
-   "h_ayer": 2346.77
   },
   {
    "id": "999671193726",
@@ -8942,6 +9111,22 @@
    "h_min": 5838.0
   },
   {
+   "id": "999679511871",
+   "name": "TECNO Spark 50 LCD IPS 6.78 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/spark-50-lcd-ips-6-78-pulgadas/999679511871",
+   "img": "https://sp101.liverpool.com.mx/i/1201022688.jpg",
+   "category": "Celulares",
+   "price_old": 6970.0,
+   "price_new": 3733.0,
+   "pct": 46.4,
+   "amount": 3237.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3624.0
+  },
+  {
    "id": "1128521701",
    "name": "SUPRA Parrilla a gas lp empotrable",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-a-gas-lp-empotrable/1128521701",
@@ -9093,6 +9278,23 @@
    "h_dias": 3,
    "h_min": 2835.0,
    "h_ayer": 2835.0
+  },
+  {
+   "id": "99976984641",
+   "name": "BAZAR STORE Sala modular Loki de lino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-loki-de-lino/99976984641",
+   "img": "https://sp101.liverpool.com.mx/i/1164751895.jpg",
+   "category": "Salas",
+   "price_old": 21999.0,
+   "price_new": 12999.0,
+   "pct": 40.9,
+   "amount": 9000.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 12999.0,
+   "h_ayer": 12999.0
   },
   {
    "id": "999683469231",
@@ -9314,23 +9516,6 @@
    "h_dias": 2,
    "h_min": 468.78,
    "h_ayer": 469.29
-  },
-  {
-   "id": "99981312595",
-   "name": "SAMSUNG GALAXY a16 4g super amoled 6.7 pulgadas desbloqueado nuevo",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/a16-4g-super-amoled-6-7-pulgadas-desbloqueado-nuevo/99981312595",
-   "img": "https://sp632.liverpool.com.mx/i/1170561577.jpg",
-   "category": "Celulares",
-   "price_old": 5999.0,
-   "price_new": 3203.0,
-   "pct": 46.6,
-   "amount": 2796.0,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 3203.0,
-   "h_ayer": 3203.0
   },
   {
    "id": "1187041283",
@@ -9655,6 +9840,39 @@
    "h_ayer": 13193.0
   },
   {
+   "id": "1131564992",
+   "name": "Genérica Audífonos True Wireless inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-inal-mbricos-con-cancelaci-n-de-ruido/1131564992",
+   "img": "https://ss630.liverpool.com.mx/lg/1131564992.jpg",
+   "category": "Audifonos",
+   "price_old": 1085.24,
+   "price_new": 467.59,
+   "pct": 56.9,
+   "amount": 617.65,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 467.59
+  },
+  {
+   "id": "1174537395",
+   "name": "MODI SOFA Sala modular ADAPTI de poliéster",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-adapti-de-poli-ster/1174537395",
+   "img": "https://sp101.liverpool.com.mx/i/1174537395.jpg",
+   "category": "Salas",
+   "price_old": 40577.6,
+   "price_new": 25158.0,
+   "pct": 38.0,
+   "amount": 15419.6,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 25158.0,
+   "h_ayer": 25158.0
+  },
+  {
    "id": "1188109396",
    "name": "HP Laptop 240R 14 pulgadas Full HD Intel Core i5 Integradas 16 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240r-14-pulgadas-full-hd-intel-core-i5-integradas-16-gb-ram-512-gb-ssd/1188109396",
@@ -9740,23 +9958,6 @@
    "h_ayer": 312.0
   },
   {
-   "id": "999673731063",
-   "name": "HONOR Play 10 LCD / TFT 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/play-10-lcd-tft-6-7-pulgadas/999673731063",
-   "img": "https://sp101.liverpool.com.mx/i/1199345032.jpeg",
-   "category": "Celulares",
-   "price_old": 3999.0,
-   "price_new": 2066.0,
-   "pct": 48.3,
-   "amount": 1933.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 2066.0,
-   "h_ayer": 2066.0
-  },
-  {
    "id": "999684109751",
    "name": "GENÉRICA Audífonos in-ear inalámbrica",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbrica/999684109751",
@@ -9789,23 +9990,6 @@
    "h_dias": 3,
    "h_min": 18299.0,
    "h_ayer": 18299.0
-  },
-  {
-   "id": "99993444843",
-   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
-   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
-   "category": "Tenis",
-   "price_old": 2499.0,
-   "price_new": 1225.0,
-   "pct": 51.0,
-   "amount": 1274.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1225.0,
-   "h_ayer": 1225.0
   },
   {
    "id": "1128456798",
@@ -9873,6 +10057,23 @@
    "h_dias": 2,
    "h_min": 23769.0,
    "h_ayer": 23769.0
+  },
+  {
+   "id": "99989039139",
+   "name": "MODI SOFA Sala modular de poliéster",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-poli-ster/99989039139",
+   "img": "https://sp101.liverpool.com.mx/i/1183804258.jpg",
+   "category": "Salas",
+   "price_old": 38337.0,
+   "price_new": 23768.94,
+   "pct": 38.0,
+   "amount": 14568.06,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 23768.94,
+   "h_ayer": 23768.94
   },
   {
    "id": "999682365541",
@@ -9977,23 +10178,6 @@
    "h_ayer": 18999.0
   },
   {
-   "id": "99993444929",
-   "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
-   "img": "https://ss550.liverpool.com.mx/lg/1191718441.jpg",
-   "category": "Tenis",
-   "price_old": 2399.0,
-   "price_new": 1176.0,
-   "pct": 51.0,
-   "amount": 1223.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1176.0,
-   "h_ayer": 1176.0
-  },
-  {
    "id": "999684145454",
    "name": "DREAME Aspiradora de mano H60GT",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-h60gt/999684145454",
@@ -10060,6 +10244,23 @@
    "h_dias": 2,
    "h_min": 15629.0,
    "h_ayer": 15629.0
+  },
+  {
+   "id": "1189233490",
+   "name": "LG Refrigerador french door 22 pies cúbicos inverter y no frost GM22BIP",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-22-pies-c-bicos-inverter-y-no-frost-gm22bip/1189233490",
+   "img": "https://sp634.liverpool.com.mx/i/1189233490.jpg",
+   "category": "Refrigeradores",
+   "price_old": 30799.0,
+   "price_new": 18898.95,
+   "pct": 38.6,
+   "amount": 11900.05,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 18898.95,
+   "h_ayer": 18898.95
   },
   {
    "id": "999680057715",
@@ -11435,22 +11636,6 @@
    "h_ayer": 989.0
   },
   {
-   "id": "1190980673",
-   "name": "KESSA Sala 3 piezas Siena de tela",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-siena-de-tela/1190980673",
-   "img": "https://ss101.liverpool.com.mx/lg/1190980673.jpg",
-   "category": "Salas",
-   "price_old": 60219.0,
-   "price_new": 39099.0,
-   "pct": 35.1,
-   "amount": 21120.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 39099.0
-  },
-  {
    "id": "999673655083",
    "name": "KESSA Sala modular Savona de lino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-savona-de-lino/999673655083",
@@ -11602,6 +11787,23 @@
    "h_dias": 2,
    "h_min": 269.0,
    "h_ayer": 269.0
+  },
+  {
+   "id": "1185632276",
+   "name": "KAISER Bocina portátil KBE-1006 bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-kbe-1006-bluetooth/1185632276",
+   "img": "https://sp630.liverpool.com.mx/i/1185632276.jpg",
+   "category": "Bocinas",
+   "price_old": 999.0,
+   "price_new": 449.0,
+   "pct": 55.1,
+   "amount": 550.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 429.0,
+   "h_ayer": 449.0
   },
   {
    "id": "1190549352",
@@ -12182,23 +12384,6 @@
    "h_ayer": 722.2
   },
   {
-   "id": "999675088877",
-   "name": "TIO Bicicleta fija Powerful",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-fija-powerful/999675088877",
-   "img": "https://sp101.liverpool.com.mx/i/1200662322.jpg",
-   "category": "Bicicletas",
-   "price_old": 4299.0,
-   "price_new": 2349.0,
-   "pct": 45.4,
-   "amount": 1950.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2349.0,
-   "h_ayer": 2349.0
-  },
-  {
    "id": "1134106847",
    "name": "GUTSTARK Refrigerador unipuerta 1.5 pies cúbicos MKZ-INCUBABACTER",
    "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-unipuerta-1-5-pies-c-bicos-mkz-incubabacter/1134106847",
@@ -12521,6 +12706,23 @@
    "h_ayer": 31219.0
   },
   {
+   "id": "99995316360",
+   "name": "BAZAR STORE Sala modular Suecia de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-suecia-de-madera-pino/99995316360",
+   "img": "https://sp101.liverpool.com.mx/i/1195411871.jpg",
+   "category": "Salas",
+   "price_old": 29999.0,
+   "price_new": 18999.0,
+   "pct": 36.7,
+   "amount": 11000.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 18999.0,
+   "h_ayer": 18999.0
+  },
+  {
    "id": "999679962416",
    "name": "CUORY Monitor CUO-MO22LED Standard Full HD 22 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-cuo-mo22led-standard-full-hd-22-pulgadas/999679962416",
@@ -12604,6 +12806,23 @@
    "h_dias": 3,
    "h_min": 9495.97,
    "h_ayer": 9495.97
+  },
+  {
+   "id": "999683586054",
+   "name": "KESSA Sala 3 piezas Studio de lino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-studio-de-lino/999683586054",
+   "img": "https://sp101.liverpool.com.mx/i/1205825718.jpg",
+   "category": "Salas",
+   "price_old": 46989.0,
+   "price_new": 30509.0,
+   "pct": 35.1,
+   "amount": 16480.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 30509.0,
+   "h_ayer": 30509.0
   },
   {
    "id": "1116728172",
@@ -12695,22 +12914,6 @@
    "name": "KESSA Sala modular Mallorca de Lino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-mallorca-de-lino/999670225753",
    "img": "https://sp101.liverpool.com.mx/i/1197242244-mallorca-kessa-lino.jpg",
-   "category": "Salas",
-   "price_old": 45739.0,
-   "price_new": 29699.0,
-   "pct": 35.1,
-   "amount": 16040.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 29699.0
-  },
-  {
-   "id": "1197322086",
-   "name": "KESSA Sala modular Mallorca de Lino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-mallorca-de-lino/1197322086",
-   "img": "https://sp101.liverpool.com.mx/i/1197322086-mallorca-kessa-lino.jpg",
    "category": "Salas",
    "price_old": 45739.0,
    "price_new": 29699.0,
@@ -12926,23 +13129,6 @@
    "h_ayer": 2799.0
   },
   {
-   "id": "1197122851",
-   "name": "BLUELANDER Bicicleta fija CBHH-1199",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-fija-cbhh-1199/1197122851",
-   "img": "https://sp101.liverpool.com.mx/i/1197122851-bicicleta-fija-bluelander-mo.jpg",
-   "category": "Bicicletas",
-   "price_old": 4999.0,
-   "price_new": 2799.0,
-   "pct": 44.0,
-   "amount": 2200.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2799.0,
-   "h_ayer": 2799.0
-  },
-  {
    "id": "1149738432",
    "name": "TAURUS Cafetera de goteo velvet coffee",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-velvet-coffee/1149738432",
@@ -13060,6 +13246,23 @@
    "h_dias": 3,
    "h_min": 28459.0,
    "h_ayer": 28459.0
+  },
+  {
+   "id": "99993174773",
+   "name": "HONOR X7d LCD / TFT 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas/99993174773",
+   "img": "https://ss632.liverpool.com.mx/lg/1191217795.jpg",
+   "category": "Celulares",
+   "price_old": 8000.0,
+   "price_new": 4667.0,
+   "pct": 41.7,
+   "amount": 3333.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 4667.0,
+   "h_ayer": 4669.0
   },
   {
    "id": "1184044664",
@@ -13332,6 +13535,23 @@
    "h_dias": 2,
    "h_min": 1899.0,
    "h_ayer": 1899.0
+  },
+  {
+   "id": "999681310253",
+   "name": "HONOR X7D LCD 6.77 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-6-77-pulgadas/999681310253",
+   "img": "https://sp101.liverpool.com.mx/i/1202890004.jpg",
+   "category": "Celulares",
+   "price_old": 7990.0,
+   "price_new": 4667.0,
+   "pct": 41.6,
+   "amount": 3323.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 4667.0,
+   "h_ayer": 4668.0
   },
   {
    "id": "1172660386",
@@ -14996,23 +15216,6 @@
    "h_ayer": 2799.0
   },
   {
-   "id": "99965975074",
-   "name": "BENOTTO Bicicleta urbana rodada 20 Giselle unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-rodada-20-giselle-unisex/99965975074",
-   "img": "https://sp101.liverpool.com.mx/i/1146358302.jpg",
-   "category": "Bicicletas",
-   "price_old": 4895.0,
-   "price_new": 2795.0,
-   "pct": 42.9,
-   "amount": 2100.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2795.0,
-   "h_ayer": 2795.0
-  },
-  {
    "id": "999682030159",
    "name": "GENÉRICA Smartwatch para mujer gps Integrado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-mujer-gps-integrado/999682030159",
@@ -15080,23 +15283,6 @@
    "h_ayer": 21209.0
   },
   {
-   "id": "1132116225",
-   "name": "CENTURFIT Bicicleta de spinning de acero y plástico",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-spinning-de-acero-y-pl-stico/1132116225",
-   "img": "https://ss206.liverpool.com.mx/lg/1132116225s.jpg",
-   "category": "Bicicletas",
-   "price_old": 6499.0,
-   "price_new": 3799.0,
-   "pct": 41.5,
-   "amount": 2700.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 3799.0,
-   "h_ayer": 3799.0
-  },
-  {
    "id": "999679955423",
    "name": "DUVENTUS Aire acondicionado mini split Nova Classic frío 12000 BTU IVR/OVR9M120FOO2 110 V",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-nova-classic-fr-o-12000-btu-ivr-ovr9m120foo2-110-v/999679955423",
@@ -15113,21 +15299,20 @@
    "h_min": 6490.0
   },
   {
-   "id": "1162303950",
-   "name": "JBL Bocina portátil AUTHENTICS 500 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-authentics-500-bluetooth/1162303950",
-   "img": "https://ss637.liverpool.com.mx/lg/1162303950.jpg",
-   "category": "Bocinas",
-   "price_old": 24999.0,
-   "price_new": 15999.0,
-   "pct": 36.0,
-   "amount": 9000.0,
+   "id": "1189206191",
+   "name": "KESSA Set recámara Magnolia de MDF",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-magnolia-de-mdf/1189206191",
+   "img": "https://ss101.liverpool.com.mx/lg/1189206191.jpg",
+   "category": "Recamaras",
+   "price_old": 32279.0,
+   "price_new": 20959.0,
+   "pct": 35.1,
+   "amount": 11320.0,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1789747442.6752715,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 15999.0,
-   "h_ayer": 15999.0
+   "h_min": 20959.0
   },
   {
    "id": "1187071051",
@@ -16961,6 +17146,23 @@
    "h_ayer": 24949.0
   },
   {
+   "id": "1192287967",
+   "name": "DICASA Sala 3 piezas Gales de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-gales-de-tela/1192287967",
+   "img": "https://ss101.liverpool.com.mx/lg/1192287967.jpg",
+   "category": "Salas",
+   "price_old": 37588.6,
+   "price_new": 24949.0,
+   "pct": 33.6,
+   "amount": 12639.6,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 24949.0,
+   "h_ayer": 24949.0
+  },
+  {
    "id": "1166549295",
    "name": "DICASA Sala 3 piezas Gales de madera",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-gales-de-madera/1166549295",
@@ -17146,22 +17348,6 @@
    "h_dias": 2,
    "h_min": 449.61,
    "h_ayer": 450.41
-  },
-  {
-   "id": "1185958783",
-   "name": "KESSA Set recámara Louis",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-louis/1185958783",
-   "img": "https://ss101.liverpool.com.mx/lg/1185958783.jpg",
-   "category": "Recamaras",
-   "price_old": 22809.0,
-   "price_new": 14809.0,
-   "pct": 35.1,
-   "amount": 8000.0,
-   "ends": "",
-   "first_seen": 1789722241.8930385,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 14809.0
   },
   {
    "id": "1186246761",
@@ -17399,6 +17585,22 @@
    "h_dias": 2,
    "h_min": 14499.0,
    "h_ayer": 14499.0
+  },
+  {
+   "id": "1180598452",
+   "name": "RELAN Sala 3 piezas Palma de poliéster",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-palma-de-poli-ster/1180598452",
+   "img": "https://ss101.liverpool.com.mx/lg/1180598452.jpg",
+   "category": "Salas",
+   "price_old": 47759.0,
+   "price_new": 32259.0,
+   "pct": 32.5,
+   "amount": 15500.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 32259.0
   },
   {
    "id": "999674239934",
@@ -18130,23 +18332,6 @@
    "h_min": 560.0
   },
   {
-   "id": "1180037167",
-   "name": "MUSH MUSH Eau de parfum para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-para-mujer/1180037167",
-   "img": "https://ss701.liverpool.com.mx/lg/1180037167.jpg",
-   "category": "Perfumes",
-   "price_old": 1100.0,
-   "price_new": 560.0,
-   "pct": 49.1,
-   "amount": 540.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 560.0,
-   "h_ayer": 560.0
-  },
-  {
    "id": "1169802625",
    "name": "MYRVA Aspiradora de mano automática 500 ml",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-autom-tica-500-ml/1169802625",
@@ -18436,23 +18621,6 @@
    "h_ayer": 13049.0
   },
   {
-   "id": "999685271078",
-   "name": "HONOR Play 10 LCD / TFT 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/play-10-lcd-tft-6-7-pulgadas/999685271078",
-   "img": "https://sp101.liverpool.com.mx/i/1207356383.jpg",
-   "category": "Celulares",
-   "price_old": 4999.0,
-   "price_new": 2981.0,
-   "pct": 40.4,
-   "amount": 2018.0,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2981.0,
-   "h_ayer": 2981.0
-  },
-  {
    "id": "999674346712",
    "name": "KESSA Set recámara Patricia de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-patricia-de-mdf/999674346712",
@@ -18657,23 +18825,6 @@
    "h_ayer": 1100.0
   },
   {
-   "id": "999680037913",
-   "name": "DUVENTUS Aire acondicionado mini split frío 24000 BTU IVR/OVR9M241FOO2 220 V",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-fr-o-24000-btu-ivr-ovr9m241foo2-220-v/999680037913",
-   "img": "https://sp101.liverpool.com.mx/i/1202006694.jpg",
-   "category": "Aire Acondicionado",
-   "price_old": 20890.0,
-   "price_new": 13690.0,
-   "pct": 34.5,
-   "amount": 7200.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 13690.0,
-   "h_ayer": 13690.0
-  },
-  {
    "id": "1188759099",
    "name": "KESSA Set recámara Jazz de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-jazz-de-mdf/1188759099",
@@ -18846,7 +18997,7 @@
    "id": "99994810486",
    "name": "APPLE Iphone 16 Plus Super Retina XDR 6.7 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-16-plus-super-retina-xdr-6-7-pulgadas/99994810486",
-   "img": "https://ss632.liverpool.com.mx/lg/1194815596.jpg",
+   "img": "https://ss632.liverpool.com.mx/lg/1194815618.jpg",
    "category": "Iphone",
    "price_old": 25899.0,
    "price_new": 17199.0,
@@ -19723,23 +19874,6 @@
    "h_ayer": 6990.0
   },
   {
-   "id": "1128160236",
-   "name": "REVLON Secadora de cabello RVDR5224",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-rvdr5224/1128160236",
-   "img": "https://sp706.liverpool.com.mx/i/1128160236.jpg",
-   "category": "Secadoras",
-   "price_old": 1529.0,
-   "price_new": 836.99,
-   "pct": 45.3,
-   "amount": 692.01,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 836.99,
-   "h_ayer": 836.99
-  },
-  {
    "id": "999680512742",
    "name": "GENÉRICA Smartwatch para hombre con GPS",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-hombre-con-gps/999680512742",
@@ -19808,6 +19942,39 @@
    "h_ayer": 4369.0
   },
   {
+   "id": "99991598622",
+   "name": "APPLE iPhone 15 PRO MAX 6.7 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-pro-max-6-7-pulgadas-super-retina-xdr-reacondicionado/99991598622",
+   "img": "https://sp632.liverpool.com.mx/i/1188639018.jpg",
+   "category": "Iphone",
+   "price_old": 20599.0,
+   "price_new": 13699.0,
+   "pct": 33.5,
+   "amount": 6900.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 13699.0
+  },
+  {
+   "id": "1177157232",
+   "name": "LATTAFA Set eau de parfum Yara Candy y Asad unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-yara-candy-y-asad-unisex/1177157232",
+   "img": "https://ss701.liverpool.com.mx/lg/1177157232.jpg",
+   "category": "Perfumes",
+   "price_old": 3188.0,
+   "price_new": 1875.35,
+   "pct": 41.2,
+   "amount": 1312.65,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1875.35,
+   "h_ayer": 1875.35
+  },
+  {
    "id": "1194876218",
    "name": "OPPO FIND N3 FLIP AMOLED 6.8 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/find-n3-flip-amoled-6-8-pulgadas/1194876218",
@@ -19840,23 +20007,6 @@
    "h_dias": 2,
    "h_min": 28899.0,
    "h_ayer": 28899.0
-  },
-  {
-   "id": "1138698781",
-   "name": "BENOTTO Bicicleta urbana rodada 26 para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-rodada-26-para-mujer/1138698781",
-   "img": "https://ss201.liverpool.com.mx/lg/1138698781.jpg",
-   "category": "Bicicletas",
-   "price_old": 5115.0,
-   "price_new": 3125.0,
-   "pct": 38.9,
-   "amount": 1990.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 3125.0,
-   "h_ayer": 3125.0
   },
   {
    "id": "999687041487",
@@ -20335,23 +20485,6 @@
    "h_ayer": 2799.0
   },
   {
-   "id": "1176209433",
-   "name": "SWISS CODE Kit smartwatch Grid + Seed 2 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-grid-seed-2-unisex/1176209433",
-   "img": "https://ss632.liverpool.com.mx/lg/1176209433.jpg",
-   "category": "Smartwatch",
-   "price_old": 1339.0,
-   "price_new": 729.0,
-   "pct": 45.6,
-   "amount": 610.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 729.0,
-   "h_ayer": 729.0
-  },
-  {
    "id": "999680145345",
    "name": "led de hd tlk32h_05 con linux con",
    "url": "https://www.liverpool.com.mx/tienda/pdp/led-de-hd-tlk32h-05-con-linux-con/999680145345",
@@ -20743,23 +20876,6 @@
    "h_ayer": 9899.0
   },
   {
-   "id": "1149424659",
-   "name": "HP Laptop 240 G9 14 pulgadas HD Intel Core i3 Intel UHD 8 GB RAM 512 GB SSD",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240-g9-14-pulgadas-hd-intel-core-i3-intel-uhd-8-gb-ram-512-gb-ssd/1149424659",
-   "img": "https://sp628.liverpool.com.mx/i/1149424659.jpg",
-   "category": "Laptops",
-   "price_old": 14999.0,
-   "price_new": 9899.0,
-   "pct": 34.0,
-   "amount": 5100.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 9899.0,
-   "h_ayer": 9899.0
-  },
-  {
    "id": "1158567209",
    "name": "HP Laptop 240 G9 14 pulgadas HD Intel Core i3 Intel UHD 8 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240-g9-14-pulgadas-hd-intel-core-i3-intel-uhd-8-gb-ram-512-gb-ssd/1158567209",
@@ -20791,6 +20907,22 @@
    "h_dias": 2,
    "h_min": 10399.0,
    "h_ayer": 10399.0
+  },
+  {
+   "id": "99970539618",
+   "name": "APPLE iPhone 13 Pro 6.1 pulgadas OLED Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-13-pro-6-1-pulgadas-oled-reacondicionado/99970539618",
+   "img": "https://sp632.liverpool.com.mx/i/1154371121.jpg",
+   "category": "Iphone",
+   "price_old": 15699.0,
+   "price_new": 10399.0,
+   "pct": 33.8,
+   "amount": 5300.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 10399.0
   },
   {
    "id": "1191389989",
@@ -20876,23 +21008,6 @@
    "h_dias": 2,
    "h_min": 3749.0,
    "h_ayer": 3749.0
-  },
-  {
-   "id": "99961085072",
-   "name": "BENOTTO Bicicleta de montaña rodada 27.5 Navy para niño",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-27-5-navy-para-ni-o/99961085072",
-   "img": "https://sp101.liverpool.com.mx/i/1139960064.jpg",
-   "category": "Bicicletas",
-   "price_old": 8779.0,
-   "price_new": 5625.0,
-   "pct": 35.9,
-   "amount": 3154.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 5625.0,
-   "h_ayer": 5625.0
   },
   {
    "id": "1182441348",
@@ -21624,6 +21739,23 @@
    "h_ayer": 359.0
   },
   {
+   "id": "1094289111",
+   "name": "SELECT SOUND Bocina portátil Bt228 bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-bt228-bluetooth/1094289111",
+   "img": "https://sp630.liverpool.com.mx/i/1094289111.jpg",
+   "category": "Bocinas",
+   "price_old": 699.0,
+   "price_new": 359.0,
+   "pct": 48.6,
+   "amount": 340.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 359.0,
+   "h_ayer": 359.0
+  },
+  {
    "id": "1139804232",
    "name": "WHIRLPOOL Lavadora 16 kg automática carga superior 8mwtw1612mjq",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-16-kg-autom-tica-carga-superior-8mwtw1612mjq/1139804232",
@@ -21896,6 +22028,23 @@
    "h_ayer": 2219.0
   },
   {
+   "id": "1179906348",
+   "name": "PARIS CORNER Eau de parfum Khair confection unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-khair-confection-unisex/1179906348",
+   "img": "https://sp701.liverpool.com.mx/i/1179906348.jpg",
+   "category": "Perfumes",
+   "price_old": 1399.0,
+   "price_new": 783.96,
+   "pct": 44.0,
+   "amount": 615.04,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 783.96,
+   "h_ayer": 786.49
+  },
+  {
    "id": "1135462426",
    "name": "ACROS Lavadora 15 kg manual carga superior alf1551er",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-15-kg-manual-carga-superior-alf1551er/1135462426",
@@ -21962,6 +22111,23 @@
    "h_dias": 2,
    "h_min": 3799.0,
    "h_ayer": 3799.0
+  },
+  {
+   "id": "99979137957",
+   "name": "APPLE iPad 9 10 pulgadas 64 GB de 3 GB RAM Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/ipad-9-10-pulgadas-64-gb-de-3-gb-ram-reacondicionado/99979137957",
+   "img": "https://sp628.liverpool.com.mx/i/1168118828.jpg",
+   "category": "Tablets",
+   "price_old": 5999.0,
+   "price_new": 3799.0,
+   "pct": 36.7,
+   "amount": 2200.0,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 3799.0,
+   "h_ayer": 3801.0
   },
   {
    "id": "999682410837",
@@ -22116,40 +22282,6 @@
    "h_min": 1528.0
   },
   {
-   "id": "99979137957",
-   "name": "APPLE iPad 9 10 pulgadas 64 GB de 3 GB RAM Reacondicionado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/ipad-9-10-pulgadas-64-gb-de-3-gb-ram-reacondicionado/99979137957",
-   "img": "https://sp628.liverpool.com.mx/i/1168118828.jpg",
-   "category": "Tablets",
-   "price_old": 5999.0,
-   "price_new": 3801.0,
-   "pct": 36.6,
-   "amount": 2198.0,
-   "ends": "",
-   "first_seen": 1789697042.2913218,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 3801.0,
-   "h_ayer": 3801.0
-  },
-  {
-   "id": "1179906348",
-   "name": "PARIS CORNER Eau de parfum Khair confection unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-khair-confection-unisex/1179906348",
-   "img": "https://sp701.liverpool.com.mx/i/1179906348.jpg",
-   "category": "Perfumes",
-   "price_old": 1399.0,
-   "price_new": 786.49,
-   "pct": 43.8,
-   "amount": 612.51,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 786.49,
-   "h_ayer": 786.49
-  },
-  {
    "id": "1193519446",
    "name": "HP Laptop 255 G10 15.6 pulgadas Full HD AMD Ryzen 3 AMD Radeon 24 GB Ram 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-255-g10-15-6-pulgadas-full-hd-amd-ryzen-3-amd-radeon-24-gb-ram-512-gb-ssd/1193519446",
@@ -22216,23 +22348,6 @@
    "h_dias": 2,
    "h_min": 15999.0,
    "h_ayer": 15999.0
-  },
-  {
-   "id": "1134211748",
-   "name": "INFINITÉ Bicicleta de montaña rodada 20.5 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-20-5-unisex/1134211748",
-   "img": "https://ss201.liverpool.com.mx/lg/1134211748.jpg",
-   "category": "Bicicletas",
-   "price_old": 4799.0,
-   "price_new": 2999.0,
-   "pct": 37.5,
-   "amount": 1800.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 2999.0,
-   "h_ayer": 2999.0
   },
   {
    "id": "1165971813",
@@ -22318,23 +22433,6 @@
    "h_dias": 2,
    "h_min": 738.47,
    "h_ayer": 738.68
-  },
-  {
-   "id": "999680252833",
-   "name": "ALTERA Bicicleta de spinning Cycle One + Acero",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-spinning-cycle-one-acero/999680252833",
-   "img": "https://sp101.liverpool.com.mx/i/1202059046.jpg",
-   "category": "Bicicletas",
-   "price_old": 7599.0,
-   "price_new": 4899.0,
-   "pct": 35.5,
-   "amount": 2700.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 4899.0,
-   "h_ayer": 4899.0
   },
   {
    "id": "1172933587",
@@ -22607,6 +22705,23 @@
    "h_ayer": 9999.99
   },
   {
+   "id": "999686882529",
+   "name": "SAMSUNG Monitor gamer ls32fg502enxza ips qhd 32 pulgadas s32fg502en",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-ls32fg502enxza-ips-qhd-32-pulgadas-s32fg502en/999686882529",
+   "img": "https://sp101.liverpool.com.mx/i/1208651567.jpg",
+   "category": "Monitores",
+   "price_old": 8599.99,
+   "price_new": 5599.99,
+   "pct": 34.9,
+   "amount": 3000.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 5599.99,
+   "h_ayer": 5599.99
+  },
+  {
    "id": "999680482892",
    "name": "KARMA BEAUTY Secadora de cabello multisecadora krm-975159",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-multisecadora-krm-975159/999680482892",
@@ -22724,23 +22839,6 @@
    "h_dias": 2,
    "h_min": 25619.0,
    "h_ayer": 25619.0
-  },
-  {
-   "id": "1132726350",
-   "name": "LATTAFA Eau de parfum Ramz Gold para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-ramz-gold-para-mujer/1132726350",
-   "img": "https://sp701.liverpool.com.mx/i/1132726350.jpg",
-   "category": "Perfumes",
-   "price_old": 729.0,
-   "price_new": 382.5,
-   "pct": 47.5,
-   "amount": 346.5,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 382.5,
-   "h_ayer": 382.5
   },
   {
    "id": "999684025655",
@@ -22928,22 +23026,6 @@
    "h_dias": 2,
    "h_min": 1559.0,
    "h_ayer": 1559.0
-  },
-  {
-   "id": "1181577386",
-   "name": "THONET & VANDER Bocina recargable HK096-03621 inalámbrica",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-hk096-03621-inal-mbrica/1181577386",
-   "img": "https://ss630.liverpool.com.mx/lg/1181577386.jpg",
-   "category": "Bocinas",
-   "price_old": 2499.0,
-   "price_new": 1495.0,
-   "pct": 40.2,
-   "amount": 1004.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1495.0
   },
   {
    "id": "1194604749",
@@ -23354,6 +23436,22 @@
    "h_ayer": 6529.0
   },
   {
+   "id": "99961103376",
+   "name": "APPLE iPhone 11 Pro Max 6.5 pulgadas OLED Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-11-pro-max-6-5-pulgadas-oled-reacondicionado/99961103376",
+   "img": "https://ss632.liverpool.com.mx/lg/1139410765.jpg",
+   "category": "Iphone",
+   "price_old": 10999.0,
+   "price_new": 7299.0,
+   "pct": 33.6,
+   "amount": 3700.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 7299.0
+  },
+  {
    "id": "1188363667",
    "name": "GHOST Bicicleta infantil rodada 20 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-20-unisex/1188363667",
@@ -23743,6 +23841,22 @@
    "h_ayer": 16399.0
   },
   {
+   "id": "1144897168",
+   "name": "SELECT SOUND Bocina portátil BT1400 bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-bt1400-bluetooth/1144897168",
+   "img": "https://ss630.liverpool.com.mx/lg/1144897168.jpg",
+   "category": "Bocinas",
+   "price_old": 799.0,
+   "price_new": 429.0,
+   "pct": 46.3,
+   "amount": 370.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 429.0
+  },
+  {
    "id": "999679439640",
    "name": "HP Laptop 240R G10 14a Gen 14 pulgadas HD Intel core 3 Intel UHD 32 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240r-g10-14a-gen-14-pulgadas-hd-intel-core-3-intel-uhd-32-gb-ram-512-gb-s/999679439640",
@@ -23860,6 +23974,23 @@
    "h_dias": 2,
    "h_min": 2699.0,
    "h_ayer": 2699.0
+  },
+  {
+   "id": "1175150435",
+   "name": "SAMSUNG Pantalla smart tv qled de 50 pulgadas 4k qn50ls03fafxzx con tizen",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-50-pulgadas-4k-qn50ls03fafxzx-con-tizen/1175150435",
+   "img": "https://sp629.liverpool.com.mx/i/1175150435.jpg",
+   "category": "Pantallas",
+   "price_old": 19998.0,
+   "price_new": 13716.0,
+   "pct": 31.4,
+   "amount": 6282.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 13716.0,
+   "h_ayer": 14009.0
   },
   {
    "id": "1189490042",
@@ -24116,23 +24247,6 @@
    "h_ayer": 20999.0
   },
   {
-   "id": "1166351771",
-   "name": "OSTER LICUADORA BLSTPYG1311NBG , ACERO",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-blstpyg1311nbg-acero/1166351771",
-   "img": "https://sp101.liverpool.com.mx/i/1166351771.jpg",
-   "category": "Licuadoras",
-   "price_old": 4628.0,
-   "price_new": 2929.0,
-   "pct": 36.7,
-   "amount": 1699.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2929.0,
-   "h_ayer": 2929.0
-  },
-  {
    "id": "1185294893",
    "name": "HISENSE Lavadora doble tina 16 kg semiautomática carga superior wsa1604p",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-16-kg-semiautom-tica-carga-superior-wsa1604p/1185294893",
@@ -24233,23 +24347,6 @@
    "h_dias": 3,
    "h_min": 10899.0,
    "h_ayer": 10899.0
-  },
-  {
-   "id": "999680251362",
-   "name": "HONOR X7D LCD / TFT 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas/999680251362",
-   "img": "https://sp101.liverpool.com.mx/i/1201715551.jpg",
-   "category": "Celulares",
-   "price_old": 7165.0,
-   "price_new": 4668.0,
-   "pct": 34.8,
-   "amount": 2497.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 4668.0,
-   "h_ayer": 4668.0
   },
   {
    "id": "1170306798",
@@ -24619,23 +24716,6 @@
    "h_dias": 2,
    "h_min": 11849.0,
    "h_ayer": 11849.0
-  },
-  {
-   "id": "1200691373",
-   "name": "SAMSUNG Galaxy A07 LCD 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/galaxy-a07-lcd-6-7-pulgadas/1200691373",
-   "img": "https://sp632.liverpool.com.mx/i/1200691373.jpg",
-   "category": "Celulares",
-   "price_old": 4999.0,
-   "price_new": 3195.0,
-   "pct": 36.1,
-   "amount": 1804.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 3195.0,
-   "h_ayer": 3195.0
   },
   {
    "id": "1164487772",
@@ -25604,39 +25684,6 @@
    "h_ayer": 943.0
   },
   {
-   "id": "1142024051",
-   "name": "HP Laptop 14 pulgadas HD Intel Core i3 Intel UHD 12 GB RAM 512 GB SSD",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-14-pulgadas-hd-intel-core-i3-intel-uhd-12-gb-ram-512-gb-ssd/1142024051",
-   "img": "https://ss628.liverpool.com.mx/lg/1142024051.jpg",
-   "category": "Laptops",
-   "price_old": 14899.0,
-   "price_new": 10199.0,
-   "pct": 31.5,
-   "amount": 4700.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 10199.0
-  },
-  {
-   "id": "99964202138",
-   "name": "BENOTTO Bicicleta de montaña rodada 27.5 para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-27-5-para-hombre/99964202138",
-   "img": "https://ss201.liverpool.com.mx/lg/1143885042.jpg",
-   "category": "Bicicletas",
-   "price_old": 20305.0,
-   "price_new": 14108.0,
-   "pct": 30.5,
-   "amount": 6197.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 14108.0,
-   "h_ayer": 14108.0
-  },
-  {
    "id": "1128401853",
    "name": "ELYSEES FASHION Eau de parfum Private Man Club para hombre",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-private-man-club-para-hombre/1128401853",
@@ -25891,22 +25938,6 @@
    "h_ayer": 629.0
   },
   {
-   "id": "99993444172",
-   "name": "ADIDAS Tenis Run Era para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-run-era-para-mujer/99993444172",
-   "img": "https://sp550.liverpool.com.mx/i/1191663345.jpg",
-   "category": "Tenis",
-   "price_old": 1499.0,
-   "price_new": 884.0,
-   "pct": 41.0,
-   "amount": 615.0,
-   "ends": "",
-   "first_seen": 1789722241.8930385,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 884.0
-  },
-  {
    "id": "1164467798",
    "name": "DAEWOO Secadora de cabello DW-SE1",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-se1/1164467798",
@@ -26043,6 +26074,22 @@
    "h_ayer": 14599.0
   },
   {
+   "id": "1154700494",
+   "name": "DICASA Set Recámara Bilbao de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-bilbao-de-madera-pino/1154700494",
+   "img": "https://ss101.liverpool.com.mx/lg/1154700494.jpg",
+   "category": "Recamaras",
+   "price_old": 20858.59,
+   "price_new": 14599.0,
+   "pct": 30.0,
+   "amount": 6259.59,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 14599.0
+  },
+  {
    "id": "9930974213",
    "name": "REALME 8I IPS 6.6 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/8i-ips-6-6-pulgadas/9930974213",
@@ -26176,23 +26223,6 @@
    "h_dias": 3,
    "h_min": 8199.0,
    "h_ayer": 8199.0
-  },
-  {
-   "id": "1175150435",
-   "name": "SAMSUNG Pantalla smart tv qled de 50 pulgadas 4k qn50ls03fafxzx con tizen",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-50-pulgadas-4k-qn50ls03fafxzx-con-tizen/1175150435",
-   "img": "https://sp629.liverpool.com.mx/i/1175150435.jpg",
-   "category": "Pantallas",
-   "price_old": 20019.0,
-   "price_new": 14009.0,
-   "pct": 30.0,
-   "amount": 6010.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 14009.0,
-   "h_ayer": 14009.0
   },
   {
    "id": "999684954700",
@@ -26518,6 +26548,23 @@
    "h_ayer": 3960.0
   },
   {
+   "id": "1163225031",
+   "name": "POLO RALPH LAUREN Set Parfum Ralphs Club para hombre",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-parfum-ralphs-club-para-hombre/1163225031",
+   "img": "https://sp701.liverpool.com.mx/i/1163225031.jpg",
+   "category": "Perfumes",
+   "price_old": 3150.0,
+   "price_new": 1992.46,
+   "pct": 36.7,
+   "amount": 1157.54,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1992.46,
+   "h_ayer": 1992.46
+  },
+  {
    "id": "999686851560",
    "name": "GENÉRICA Sopladora a eléctrico sopladora electrica 345 mph 290 cfm",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sopladora-a-el-ctrico-sopladora-electrica-345-mph-290-cfm/999686851560",
@@ -26618,40 +26665,6 @@
    "h_dias": 2,
    "h_min": 6790.0,
    "h_ayer": 6790.0
-  },
-  {
-   "id": "999681310253",
-   "name": "HONOR X7D LCD 6.77 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-6-77-pulgadas/999681310253",
-   "img": "https://sp101.liverpool.com.mx/i/1202890004.jpg",
-   "category": "Celulares",
-   "price_old": 6999.0,
-   "price_new": 4668.0,
-   "pct": 33.3,
-   "amount": 2331.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 4668.0,
-   "h_ayer": 4668.0
-  },
-  {
-   "id": "999681636273",
-   "name": "HONOR X7D LCD / TFT 6.7 pulgadas desbloqueado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas-desbloqueado/999681636273",
-   "img": "https://sp101.liverpool.com.mx/i/1203371582.jpg",
-   "category": "Celulares",
-   "price_old": 6999.0,
-   "price_new": 4668.0,
-   "pct": 33.3,
-   "amount": 2331.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 4668.0,
-   "h_ayer": 4668.0
   },
   {
    "id": "1162485047",
@@ -27501,6 +27514,22 @@
    "h_ayer": 1439.0
   },
   {
+   "id": "1132072899",
+   "name": "BOSSTECH LICUADORA BSED-B1-VM 1, VERDEI",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-bsed-b1-vm-1-verdei/1132072899",
+   "img": "https://sp101.liverpool.com.mx/i/1132072899.jpg",
+   "category": "Licuadoras",
+   "price_old": 869.0,
+   "price_new": 499.0,
+   "pct": 42.6,
+   "amount": 370.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 499.0
+  },
+  {
    "id": "999673602384",
    "name": "ASUS Laptop Bundle Vivobook F1504VA 15.6 pulgadas Full HD Intel Core i3 Intel UHD Graphics 8 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-bundle-vivobook-f1504va-15-6-pulgadas-full-hd-intel-core-i3-intel-uhd-gra/999673602384",
@@ -27637,23 +27666,6 @@
    "h_ayer": 10499.0
   },
   {
-   "id": "999680510412",
-   "name": "V INDUSTRIES Bicicleta de montaña rodada 29 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/999680510412",
-   "img": "https://sp101.liverpool.com.mx/i/1202502764.jpg",
-   "category": "Bicicletas",
-   "price_old": 14999.0,
-   "price_new": 10499.0,
-   "pct": 30.0,
-   "amount": 4500.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 10499.0,
-   "h_ayer": 10499.0
-  },
-  {
    "id": "999680510680",
    "name": "V INDUSTRIES Bicicleta de montaña rodada 29 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/999680510680",
@@ -27703,23 +27715,6 @@
    "h_dias": 3,
    "h_min": 925.0,
    "h_ayer": 925.0
-  },
-  {
-   "id": "99986396777",
-   "name": "THE BABY SHOP Bicicleta infantil rodada 12 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-12-unisex/99986396777",
-   "img": "https://sp424.liverpool.com.mx/i/1179885308.jpg",
-   "category": "Bicicletas",
-   "price_old": 2589.0,
-   "price_new": 1639.0,
-   "pct": 36.7,
-   "amount": 950.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 1639.0,
-   "h_ayer": 1639.0
   },
   {
    "id": "1128967946",
@@ -27841,23 +27836,6 @@
    "h_ayer": 9999.0
   },
   {
-   "id": "999680510259",
-   "name": "V INDUSTRIES Bicicleta de montaña rodada 29 unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/999680510259",
-   "img": "https://sp101.liverpool.com.mx/i/1202500664.jpg",
-   "category": "Bicicletas",
-   "price_old": 14284.0,
-   "price_new": 9999.0,
-   "pct": 30.0,
-   "amount": 4285.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 9999.0,
-   "h_ayer": 9999.0
-  },
-  {
    "id": "999680736013",
    "name": "V INDUSTRIES Bicicleta de montaña rodada 29 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/999680736013",
@@ -27871,6 +27849,23 @@
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 2,
+   "h_min": 9999.0,
+   "h_ayer": 9999.0
+  },
+  {
+   "id": "999680510259",
+   "name": "V INDUSTRIES Bicicleta de montaña rodada 29 unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/999680510259",
+   "img": "https://sp101.liverpool.com.mx/i/1202500664.jpg",
+   "category": "Bicicletas",
+   "price_old": 14284.0,
+   "price_new": 9999.0,
+   "pct": 30.0,
+   "amount": 4285.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 3,
    "h_min": 9999.0,
    "h_ayer": 9999.0
   },
@@ -28826,6 +28821,22 @@
    "h_ayer": 1056.0
   },
   {
+   "id": "999685281123",
+   "name": "GENÉRICA Audífonos In-Ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/999685281123",
+   "img": "https://sp101.liverpool.com.mx/i/1206815007.jpg",
+   "category": "Audifonos",
+   "price_old": 849.0,
+   "price_new": 499.0,
+   "pct": 41.2,
+   "amount": 350.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 499.0
+  },
+  {
    "id": "999686020421",
    "name": "GENÉRICA Set de bocinas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-bocinas/999686020421",
@@ -29063,6 +29074,23 @@
    "h_ayer": 4050.0
   },
   {
+   "id": "999680251362",
+   "name": "HONOR X7D LCD / TFT 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas/999680251362",
+   "img": "https://sp101.liverpool.com.mx/i/1201715551.jpg",
+   "category": "Celulares",
+   "price_old": 6800.0,
+   "price_new": 4667.0,
+   "pct": 31.4,
+   "amount": 2133.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 4667.0,
+   "h_ayer": 4668.0
+  },
+  {
    "id": "999679382118",
    "name": "ELEGATE Aspiradora humedo y seco manualrequiere",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-humedo-y-seco-manualrequiere/999679382118",
@@ -29162,22 +29190,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 973.0
-  },
-  {
-   "id": "1158937359",
-   "name": "GENÉRICA Audífonos In-Ear inalámbricos",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos/1158937359",
-   "img": "https://sp637.liverpool.com.mx/i/1158937359.jpg",
-   "category": "Audifonos",
-   "price_old": 1385.75,
-   "price_new": 856.02,
-   "pct": 38.2,
-   "amount": 529.73,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 856.02
   },
   {
    "id": "1111297220",
@@ -29501,6 +29513,22 @@
    "h_dias": 2,
    "h_min": 479.0,
    "h_ayer": 479.0
+  },
+  {
+   "id": "1129903119",
+   "name": "Genérica Audífonos Over-Ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-inal-mbricos-con-cancelaci-n-de-ruido/1129903119",
+   "img": "https://ss630.liverpool.com.mx/lg/1129903119.jpg",
+   "category": "Audifonos",
+   "price_old": 1200.0,
+   "price_new": 736.7,
+   "pct": 38.6,
+   "amount": 463.3,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 736.7
   },
   {
    "id": "1185557444",
@@ -30081,23 +30109,6 @@
    "h_ayer": 1999.0
   },
   {
-   "id": "99978481365",
-   "name": "BLU C9 LCD 6.6 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/c9-lcd-6-6-pulgadas/99978481365",
-   "img": "https://sp632.liverpool.com.mx/i/1167312400.jpg",
-   "category": "Celulares",
-   "price_old": 2999.0,
-   "price_new": 1999.0,
-   "pct": 33.3,
-   "amount": 1000.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 1999.0,
-   "h_ayer": 1999.0
-  },
-  {
    "id": "1122257904",
    "name": "AVERA Aspiradora de mano asp02",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-asp02/1122257904",
@@ -30268,23 +30279,6 @@
    "h_ayer": 1649.0
   },
   {
-   "id": "1091514539",
-   "name": "MONK Bicicleta urbana rodada 26 para niño",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-rodada-26-para-ni-o/1091514539",
-   "img": "https://ss201.liverpool.com.mx/lg/1091514539.jpg",
-   "category": "Bicicletas",
-   "price_old": 6999.0,
-   "price_new": 4899.0,
-   "pct": 30.0,
-   "amount": 2100.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 4899.0,
-   "h_ayer": 4899.0
-  },
-  {
    "id": "99992471856",
    "name": "MONK Bicicleta de montaña rodada 26 Inxss unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-26-inxss-unisex/99992471856",
@@ -30368,23 +30362,6 @@
    "h_dias": 2,
    "h_min": 1799.0,
    "h_ayer": 1799.0
-  },
-  {
-   "id": "99975412158",
-   "name": "KAISER Bocina portátil KXB-2010 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-kxb-2010-bluetooth/99975412158",
-   "img": "https://sp630.liverpool.com.mx/i/1162337391.jpg",
-   "category": "Bocinas",
-   "price_old": 3251.0,
-   "price_new": 2189.0,
-   "pct": 32.7,
-   "amount": 1062.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2189.0,
-   "h_ayer": 2189.0
   },
   {
    "id": "999685935353",
@@ -30471,23 +30448,6 @@
    "h_ayer": 1195.35
   },
   {
-   "id": "999673837503",
-   "name": "STF Bocina portátil allure 5x2",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-allure-5x2/999673837503",
-   "img": "https://sp101.liverpool.com.mx/i/1199774006.jpg",
-   "category": "Bocinas",
-   "price_old": 1699.0,
-   "price_new": 1099.0,
-   "pct": 35.3,
-   "amount": 600.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1099.0,
-   "h_ayer": 1099.0
-  },
-  {
    "id": "999679917624",
    "name": "STF Audífonos CC-P74152 Inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-cc-p74152-inal-mbricos-con-cancelaci-n-de-ruido/999679917624",
@@ -30571,6 +30531,22 @@
    "h_dias": 3,
    "h_min": 799.99,
    "h_ayer": 799.99
+  },
+  {
+   "id": "1175049092",
+   "name": "BHARARA Eau de parfum Rohit X Perfu-Adictos Azure unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-rohit-x-perfu-adictos-azure-unisex/1175049092",
+   "img": "https://ss701.liverpool.com.mx/lg/1175049092.jpg",
+   "category": "Perfumes",
+   "price_old": 1272.0,
+   "price_new": 808.41,
+   "pct": 36.4,
+   "amount": 463.59,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 808.41
   },
   {
    "id": "1178436101",
@@ -31167,36 +31143,20 @@
    "h_ayer": 638.1
   },
   {
-   "id": "1184703820",
-   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184703820",
-   "img": "https://sp101.liverpool.com.mx/i/1184703820.jpg",
-   "category": "Audifonos",
-   "price_old": 1421.94,
-   "price_new": 921.94,
-   "pct": 35.2,
-   "amount": 500.0,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 921.94
-  },
-  {
    "id": "1166551036",
    "name": "LATTAFA Eau de parfum Yara para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-yara-para-mujer/1166551036",
    "img": "https://sp701.liverpool.com.mx/i/1166551036.jpg",
    "category": "Perfumes",
    "price_old": 950.0,
-   "price_new": 596.95,
+   "price_new": 596.65,
    "pct": 37.2,
-   "amount": 353.05,
+   "amount": 353.35,
    "ends": "",
    "first_seen": 1789718641.902866,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 596.95
+   "h_min": 596.65
   },
   {
    "id": "1174905424",
@@ -31861,23 +31821,6 @@
    "h_ayer": 2869.0
   },
   {
-   "id": "99991704691",
-   "name": "ZTE blade a56 lcd ips 6.7 pulgadas desbloqueado no aplica",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/blade-a56-lcd-ips-6-7-pulgadas-desbloqueado-no-aplica/99991704691",
-   "img": "https://ss632.liverpool.com.mx/lg/1188628121.jpg",
-   "category": "Celulares",
-   "price_old": 3990.0,
-   "price_new": 2790.0,
-   "pct": 30.1,
-   "amount": 1200.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2790.0,
-   "h_ayer": 2790.0
-  },
-  {
    "id": "1135791748",
    "name": "AMAZFIT Smartwatch Gtr Mini unisex con GPS",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-gtr-mini-unisex-con-gps/1135791748",
@@ -32028,6 +31971,22 @@
    "h_dias": 2,
    "h_min": 542.49,
    "h_ayer": 542.49
+  },
+  {
+   "id": "999684121895",
+   "name": "HONOR Audífonos In-Ear choice earbuds X8i Inalámbrica con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-choice-earbuds-x8i-inal-mbrica-con-cancelaci-n-de-ruido/999684121895",
+   "img": "https://sp101.liverpool.com.mx/i/1206123202.jpg",
+   "category": "Audifonos",
+   "price_old": 999.0,
+   "price_new": 640.0,
+   "pct": 35.9,
+   "amount": 359.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 640.0
   },
   {
    "id": "1180671443",
@@ -32556,6 +32515,23 @@
    "h_ayer": 2293.89
   },
   {
+   "id": "99993444843",
+   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
+   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
+   "category": "Tenis",
+   "price_old": 2499.0,
+   "price_new": 1724.0,
+   "pct": 31.0,
+   "amount": 775.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1225.0,
+   "h_ayer": 1225.0
+  },
+  {
    "id": "99993444360",
    "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444360",
@@ -32641,6 +32617,23 @@
    "h_ayer": 2159.0
   },
   {
+   "id": "99993444929",
+   "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
+   "img": "https://ss550.liverpool.com.mx/lg/1191718441.jpg",
+   "category": "Tenis",
+   "price_old": 2399.0,
+   "price_new": 1655.0,
+   "pct": 31.0,
+   "amount": 744.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1176.0,
+   "h_ayer": 1176.0
+  },
+  {
    "id": "1197312552",
    "name": "JADE COOK Freidora de aire con 6.5 l C0536-00",
    "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-6-5-l-c0536-00/1197312552",
@@ -32673,23 +32666,6 @@
    "h_dias": 3,
    "h_min": 1480.03,
    "h_ayer": 1480.03
-  },
-  {
-   "id": "1131564950",
-   "name": "Genérica Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1131564950",
-   "img": "https://ss630.liverpool.com.mx/lg/1131564950.jpg",
-   "category": "Audifonos",
-   "price_old": 2209.0,
-   "price_new": 1517.4,
-   "pct": 31.3,
-   "amount": 691.6,
-   "ends": "",
-   "first_seen": 1789729441.9043953,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1517.4,
-   "h_ayer": 1518.2
   },
   {
    "id": "1129243950",
@@ -32740,6 +32716,23 @@
    "in_stock": true,
    "h_dias": 3,
    "h_min": 1999.0,
+   "h_ayer": 2099.0
+  },
+  {
+   "id": "1145549988",
+   "name": "ASUS Monitor standard full HD 23.8 pulgadas VA24EHF",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-23-8-pulgadas-va24ehf/1145549988",
+   "img": "https://ss628.liverpool.com.mx/lg/1145549988.jpg",
+   "category": "Monitores",
+   "price_old": 2999.0,
+   "price_new": 2099.0,
+   "pct": 30.0,
+   "amount": 900.0,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 2099.0,
    "h_ayer": 2099.0
   },
   {
@@ -32800,14 +32793,14 @@
    "img": "https://sp701.liverpool.com.mx/i/1179242601.jpg",
    "category": "Perfumes",
    "price_old": 1169.0,
-   "price_new": 772.0,
+   "price_new": 771.7,
    "pct": 34.0,
-   "amount": 397.0,
+   "amount": 397.3,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 772.0,
+   "h_min": 771.7,
    "h_ayer": 772.0
   },
   {
@@ -33503,23 +33496,6 @@
    "h_ayer": 798.99
   },
   {
-   "id": "1166371445",
-   "name": "AL HARAMAIN Eau de parfum Ruby Edition unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-ruby-edition-unisex/1166371445",
-   "img": "https://ss701.liverpool.com.mx/lg/1166371445.jpg",
-   "category": "Perfumes",
-   "price_old": 2005.0,
-   "price_new": 1395.01,
-   "pct": 30.4,
-   "amount": 609.99,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1395.01,
-   "h_ayer": 1395.01
-  },
-  {
    "id": "999679927157",
    "name": "WESTIES Tenis para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999679927157",
@@ -34079,6 +34055,38 @@
    "h_min": 599.0
   },
   {
+   "id": "1174546459",
+   "name": "UGREEN Audífonos In-Ear Hitune T3 inalámbricos",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-hitune-t3-inal-mbricos/1174546459",
+   "img": "https://ss630.liverpool.com.mx/lg/1174546459.jpg",
+   "category": "Audifonos",
+   "price_old": 1197.0,
+   "price_new": 813.96,
+   "pct": 32.0,
+   "amount": 383.04,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 813.96
+  },
+  {
+   "id": "99993444172",
+   "name": "ADIDAS Tenis Run Era para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-run-era-para-mujer/99993444172",
+   "img": "https://sp550.liverpool.com.mx/i/1191663345.jpg",
+   "category": "Tenis",
+   "price_old": 1499.0,
+   "price_new": 1034.0,
+   "pct": 31.0,
+   "amount": 465.0,
+   "ends": "",
+   "first_seen": 1789722241.8930385,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 884.0
+  },
+  {
    "id": "1181823115",
    "name": "DAEWOO Aspiradora wet & dry davc90-15l 15 litros",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-wet-dry-davc90-15l-15-litros/1181823115",
@@ -34349,6 +34357,23 @@
    "h_dias": 3,
    "h_min": 1189.0,
    "h_ayer": 1189.0
+  },
+  {
+   "id": "1191266532",
+   "name": "XTELLAR Audífonos inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-inal-mbricos-con-cancelaci-n-de-ruido/1191266532",
+   "img": "https://ss377.liverpool.com.mx/lg/1191266532.jpg",
+   "category": "Audifonos",
+   "price_old": 1693.44,
+   "price_new": 1184.87,
+   "pct": 30.0,
+   "amount": 508.57,
+   "ends": "",
+   "first_seen": 1789747442.6752715,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1184.87,
+   "h_ayer": 1185.33
   },
   {
    "id": "9935259213",
@@ -35076,23 +35101,6 @@
    "h_dias": 2,
    "h_min": 698.0,
    "h_ayer": 698.0
-  },
-  {
-   "id": "1193712271",
-   "name": "XTELLAR Bocina portátil XTLLAR12394 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-xtllar12394-bluetooth/1193712271",
-   "img": "https://ss630.liverpool.com.mx/lg/1193712271.jpg",
-   "category": "Bocinas",
-   "price_old": 999.18,
-   "price_new": 698.89,
-   "pct": 30.1,
-   "amount": 300.29,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 698.89,
-   "h_ayer": 698.89
   },
   {
    "id": "1193832535",

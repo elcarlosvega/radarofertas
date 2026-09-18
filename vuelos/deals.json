@@ -1,6 +1,6 @@
 {
- "generated_at": 1789722243.8596034,
- "generated_at_str": "18/09/2026 03:04",
+ "generated_at": 1789725843.7109554,
+ "generated_at_str": "18/09/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261002-a0219892/"
   },
   {
+   "id": "776053c6813bc4584e64e197312ef874",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2435.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-28T11:36:00-05:00",
+   "return_at": "",
+   "duration": 109,
+   "link": "https://www.aviasales.com/search/MTY2809DFW1?t=VB17905953601790605500000109MTYDFW_776053c6813bc4584e64e197312ef874_11964&search_date=18092026&expected_price_uuid=01a0b3f3-7da1-8030-edd9-5cbb7152f659&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=K9hBVjjJiiUoOeCbU0cZvg&expected_price_source=share&expected_price_currency=mxn&expected_price=2435",
+   "title": "Flight deals from Monterrey to Dallas",
+   "micro": "/oferta/vuelos/vuelo-monterrey-dallas-20260928-776053c6/"
+  },
+  {
    "id": "6463f338818f80c10d4b56d1b17a4fc9",
    "kind": "flight",
    "origin": "MEX",
@@ -60,17 +80,17 @@
    "airline_title": "WestJet",
    "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 5522.0,
+   "price": 5517.0,
    "currency": "MXN",
    "departure_at": "2026-10-29T01:15:00-06:00",
    "return_at": "",
    "duration": 1775,
-   "link": "https://www.aviasales.com/search/MEX2910LON1?t=WS17932365001793364600001775MEXYYCLHR_6463f338818f80c10d4b56d1b17a4fc9_27216&search_date=18092026&expected_price_uuid=01a0b385-b9da-8050-ad6f-25f3613afd97&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5522",
+   "link": "https://www.aviasales.com/search/MEX2910LON1?t=WS17932365001793364600001775MEXYYCLHR_6463f338818f80c10d4b56d1b17a4fc9_27142&search_date=18092026&expected_price_uuid=01a0b3d8-8892-8051-2a12-6581d88a2057&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5517",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261029-6463f338/"
   },
   {
-   "id": "27fc933757cdf137eb591be48f6e3421",
+   "id": "901bd907a81d22459819c5a43dc13528",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -80,14 +100,14 @@
    "airline_title": "Norse Atlantic UK",
    "logo": "https://pics.avs.io/600/150/Z0.png",
    "logo_tipo": "",
-   "price": 8643.0,
+   "price": 8659.0,
    "currency": "MXN",
-   "departure_at": "2026-10-06T20:53:00-05:00",
+   "departure_at": "2026-10-05T06:00:00-05:00",
    "return_at": "",
-   "duration": 2257,
-   "link": "https://www.aviasales.com/search/MEX0610IST1?t=Z017913199801791487800002257NLUGDLMCOLGWIST_27fc933757cdf137eb591be48f6e3421_42599&search_date=18092026&expected_price_uuid=01a0b384-afc0-8050-67e0-1b0e13d51b12&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4fU3dTxTr1k13AVlS25YWA&expected_price_source=share&expected_price_currency=mxn&expected_price=8643",
+   "duration": 3150,
+   "link": "https://www.aviasales.com/search/MEX0510IST1?t=Z017911800001791401400003150NLUMTYJFKLGWIST_901bd907a81d22459819c5a43dc13528_42599&search_date=18092026&expected_price_uuid=01a0b3d4-2d41-8050-29f8-8c9870481e3b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Wh1RaLfb-EN8FkGG1oRwVQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8659",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261006-27fc9337/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261005-901bd907/"
   },
   {
    "id": "4078e73838668cbd4f236dd05de9f6dc",

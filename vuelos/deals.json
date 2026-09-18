@@ -1,6 +1,6 @@
 {
- "generated_at": 1789704243.838283,
- "generated_at_str": "17/09/2026 22:04",
+ "generated_at": 1789707844.0744414,
+ "generated_at_str": "17/09/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "a2ae13b0c019063f5ae2f18af1357e3b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 549.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-27T10:45:00-05:00",
+   "return_at": "",
+   "duration": 84,
+   "link": "https://www.aviasales.com/search/MEX2709PVR1?t=VB17905059001790510940000084TLCPVR_a2ae13b0c019063f5ae2f18af1357e3b_2704&search_date=18092026&expected_price_uuid=01a0b2cd-e963-8030-6e89-26c8bb74ed46&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=549",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20260927-a2ae13b0/"
+  },
   {
    "id": "0da48322c66d7bfd02b3b8aa744723a5",
    "kind": "flight",
@@ -130,26 +150,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20260929-dcaa57f9/"
   },
   {
-   "id": "4078e73838668cbd4f236dd05de9f6dc",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "ZG",
-   "airline_title": "ZIPAIR",
-   "logo": "https://pics.avs.io/600/150/ZG.png",
-   "logo_tipo": "",
-   "price": 10523.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-07T06:05:00-06:00",
-   "return_at": "",
-   "duration": 1080,
-   "link": "https://www.aviasales.com/search/MEX0711TYO1?t=ZG17940315001794150300001080MEXIAHNRT_4078e73838668cbd4f236dd05de9f6dc_51792&search_date=17092026&expected_price_uuid=01a0b180-3048-8030-6967-2bae913715f6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xA4BGRd6euf3dwKOLrdm3g&expected_price_source=share&expected_price_currency=mxn&expected_price=10523",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261107-4078e738/"
-  },
-  {
    "id": "5c6336331fca30779f460c9d229bf17f",
    "kind": "flight",
    "origin": "MEX",
@@ -168,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1910PAR1?t=TX17924108401792493400000896NLUCUNORY_5c6336331fca30779f460c9d229bf17f_57146&search_date=17092026&expected_price_uuid=01a0b1ad-e8cb-8030-a286-4b70f4126306&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=LC_W628zNao95jwbk-74xA&expected_price_source=share&expected_price_currency=mxn&expected_price=11611",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261019-5c633633/"
+  },
+  {
+   "id": "2247b694d3a94828ed46558cf955f768",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 21165.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-30T09:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX3009IST1?t=TK17907588001790850000000980MEXIST_2247b694d3a94828ed46558cf955f768_104239&search_date=18092026&expected_price_uuid=01a0b2d3-2af3-8051-2a7a-04d1571face4&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21165",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260930-2247b694/"
   },
   {
    "id": "a8303f0992bced92436b6be91d445909",

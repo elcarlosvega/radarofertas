@@ -1,11 +1,43 @@
 {
- "generated_at": 1789686242.9389071,
- "generated_at_str": "17/09/2026 17:09",
+ "generated_at": 1789689842.1416235,
+ "generated_at_str": "17/09/2026 18:10",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
  },
  "deals": [
+  {
+   "id": "999679469398",
+   "name": "TRUPER Aspiradora LÌnea Hepa aspiradora de solidos y liquidos 15 litros",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-l-nea-hepa-aspiradora-de-solidos-y-liquidos-15-litros/999679469398",
+   "img": "https://sp101.liverpool.com.mx/i/1200775968.jpg",
+   "category": "Aspiradoras",
+   "price_old": 10000.0,
+   "price_new": 1750.0,
+   "pct": 82.5,
+   "amount": 8250.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1550.0
+  },
+  {
+   "id": "1177719575",
+   "name": "SAMSUNG Monitor gamer standard 4K 27 pulgadas LS27FG900XNXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-4k-27-pulgadas-ls27fg900xnxzx/1177719575",
+   "img": "https://sp628.liverpool.com.mx/i/1177719575.jpg",
+   "category": "Monitores",
+   "price_old": 54999.0,
+   "price_new": 17999.0,
+   "pct": 67.3,
+   "amount": 37000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 17999.0
+  },
   {
    "id": "1125472890",
    "name": "IROBOT Aspiradora robot roomba j7 0.5 litros",
@@ -37,22 +69,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 4999.0
-  },
-  {
-   "id": "1162660949",
-   "name": "ILIOS INNOVA Set sala",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-sala/1162660949",
-   "img": "https://ss116.liverpool.com.mx/lg/1162660949.jpg",
-   "category": "Salas",
-   "price_old": 25999.0,
-   "price_new": 7999.0,
-   "pct": 69.2,
-   "amount": 18000.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 7999.0
   },
   {
    "id": "1180247285",
@@ -183,22 +199,6 @@
    "h_min": 4199.0
   },
   {
-   "id": "1135525509",
-   "name": "GENÉRICA Manos libres in ear bluetooth New Bee",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/manos-libres-in-ear-bluetooth-new-bee/1135525509",
-   "img": "https://ss637.liverpool.com.mx/lg/1135525509.jpg",
-   "category": "Audifonos",
-   "price_old": 3899.0,
-   "price_new": 892.33,
-   "pct": 77.1,
-   "amount": 3006.67,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 892.33
-  },
-  {
    "id": "999679368296",
    "name": "LG Lavadora ABS ai dd con ciclo pet care automática carga carga frontal wm20ewnts6p",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-abs-ai-dd-con-ciclo-pet-care-autom-tica-carga-carga-frontal-wm20ewnts6p/999679368296",
@@ -229,6 +229,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 3499.0
+  },
+  {
+   "id": "1185609215",
+   "name": "KASHBILL Horno eléctrico H10 puerta francesa 30 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-h10-puerta-francesa-30-l/1185609215",
+   "img": "https://ss625.liverpool.com.mx/lg/1185609215.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 9999.0,
+   "price_new": 3299.0,
+   "pct": 67.0,
+   "amount": 6700.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3299.0
   },
   {
    "id": "999681574620",
@@ -375,6 +391,22 @@
    "h_min": 1399.0
   },
   {
+   "id": "1185609525",
+   "name": "KASHBILL HORNO ELÉCTRICO H20 KA, 30 L, PLATEADO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-h20-ka-30-l-plateado/1185609525",
+   "img": "https://sp101.liverpool.com.mx/i/1185609525.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 9599.0,
+   "price_new": 3499.0,
+   "pct": 63.5,
+   "amount": 6100.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3499.0
+  },
+  {
    "id": "1128884706",
    "name": "FURNITURER Consola Navin Plus Vintage de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-navin-plus-vintage-de-mdf/1128884706",
@@ -437,22 +469,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 18300.0
-  },
-  {
-   "id": "999686932573",
-   "name": "SOCHIC Sala modular pit de tela",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-pit-de-tela/999686932573",
-   "img": "https://sp101.liverpool.com.mx/i/1208702188.jpg",
-   "category": "Salas",
-   "price_old": 97938.0,
-   "price_new": 48969.0,
-   "pct": 50.0,
-   "amount": 48969.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 48969.0
   },
   {
    "id": "999680669852",
@@ -533,6 +549,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 748.99
+  },
+  {
+   "id": "999685279153",
+   "name": "SOCHIC Sala 3 piezas Eula",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-eula/999685279153",
+   "img": "https://sp101.liverpool.com.mx/i/1206815287.jpg",
+   "category": "Salas",
+   "price_old": 77878.0,
+   "price_new": 38939.0,
+   "pct": 50.0,
+   "amount": 38939.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 38939.0
   },
   {
    "id": "999670219801",
@@ -647,6 +679,22 @@
    "h_min": 5299.0
   },
   {
+   "id": "999679483143",
+   "name": "INFINIX Hot 70 PLS LCD 6.78 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/hot-70-pls-lcd-6-78-pulgadas/999679483143",
+   "img": "https://sp101.liverpool.com.mx/i/1201153952.jpg",
+   "category": "Celulares",
+   "price_old": 10000.0,
+   "price_new": 3997.0,
+   "pct": 60.0,
+   "amount": 6003.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3997.0
+  },
+  {
    "id": "1179309901",
    "name": "SOCHIC Set recámara Brick de melamina",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-brick-de-melamina/1179309901",
@@ -727,6 +775,22 @@
    "h_min": 31139.0
   },
   {
+   "id": "1174591004",
+   "name": "KASHBILL Soporte para pantalla articulado 19 - 55 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/soporte-para-pantalla-articulado-19-55-pulgadas/1174591004",
+   "img": "https://ss629.liverpool.com.mx/lg/1174591004.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1399.0,
+   "price_new": 359.0,
+   "pct": 74.3,
+   "amount": 1040.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 359.0
+  },
+  {
    "id": "1178714755",
    "name": "SOCHIC Set Recámara Zanetti de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-zanetti-de-mdf/1178714755",
@@ -773,6 +837,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 29699.0
+  },
+  {
+   "id": "99966207795",
+   "name": "CASETIFY Funda para iPhone de policarbonato",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-de-policarbonato/99966207795",
+   "img": "https://sp101.liverpool.com.mx/i/1146675481.jpg",
+   "category": "Iphone",
+   "price_old": 1499.0,
+   "price_new": 399.0,
+   "pct": 73.4,
+   "amount": 1100.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 399.0
   },
   {
    "id": "1146208297",
@@ -1143,22 +1223,6 @@
    "h_min": 3119.0
   },
   {
-   "id": "1186376192",
-   "name": "ERGO CONFORT Sala modular derecha de Chenille",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-chenille/1186376192",
-   "img": "https://sp101.liverpool.com.mx/i/1186376192.jpg",
-   "category": "Salas",
-   "price_old": 50798.0,
-   "price_new": 25399.0,
-   "pct": 50.0,
-   "amount": 25399.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 24999.0
-  },
-  {
    "id": "1181514104",
    "name": "SOCHIC Set recámara Amarella de chapa madera",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-amarella-de-chapa-madera/1181514104",
@@ -1517,14 +1581,14 @@
    "img": "https://ss637.liverpool.com.mx/lg/1176997415.jpg",
    "category": "Bocinas",
    "price_old": 2763.0,
-   "price_new": 929.34,
+   "price_new": 929.26,
    "pct": 66.4,
-   "amount": 1833.66,
+   "amount": 1833.74,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 929.34
+   "h_min": 929.26
   },
   {
    "id": "99991968912",
@@ -2039,6 +2103,22 @@
    "h_min": 18699.0
   },
   {
+   "id": "1156899611",
+   "name": "GENÉRICA Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1156899611",
+   "img": "https://sp706.liverpool.com.mx/i/1156899611.jpg",
+   "category": "Secadoras",
+   "price_old": 2199.0,
+   "price_new": 719.94,
+   "pct": 67.3,
+   "amount": 1479.06,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 719.94
+  },
+  {
    "id": "999674223934",
    "name": "OSOJI Robot aspiradora D2000 Pro 1.5 litros No aplica",
    "url": "https://www.liverpool.com.mx/tienda/pdp/robot-aspiradora-d2000-pro-1-5-litros-no-aplica/999674223934",
@@ -2359,22 +2439,6 @@
    "h_min": 16999.0
   },
   {
-   "id": "1167869382",
-   "name": "GALO FURNITURE Sala 2 piezas Nueva York de microfibra",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-nueva-york-de-microfibra/1167869382",
-   "img": "https://sp101.liverpool.com.mx/i/1167869382.jpg",
-   "category": "Salas",
-   "price_old": 33998.0,
-   "price_new": 16999.0,
-   "pct": 50.0,
-   "amount": 16999.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 16999.0
-  },
-  {
    "id": "1180597383",
    "name": "RELAN Sala 3 piezas Murcia de poliéster",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-murcia-de-poli-ster/1180597383",
@@ -2583,22 +2647,6 @@
    "h_min": 16490.0
   },
   {
-   "id": "99991282898",
-   "name": "MR FIX Sala modular derecha de madera pino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-madera-pino/99991282898",
-   "img": "https://sp101.liverpool.com.mx/i/1187967071.jpg",
-   "category": "Salas",
-   "price_old": 32980.0,
-   "price_new": 16490.0,
-   "pct": 50.0,
-   "amount": 16490.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 16490.0
-  },
-  {
    "id": "1181769056",
    "name": "SOCHIC Set recámara Emma de mdf",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-emma-de-mdf/1181769056",
@@ -2695,22 +2743,6 @@
    "h_min": 15999.0
   },
   {
-   "id": "1156900431",
-   "name": "GALO FURNITURE Sala 2 piezas Monse",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-monse/1156900431",
-   "img": "https://ss101.liverpool.com.mx/lg/1156900431.jpg",
-   "category": "Salas",
-   "price_old": 31998.0,
-   "price_new": 15999.0,
-   "pct": 50.0,
-   "amount": 15999.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 15999.0
-  },
-  {
    "id": "1156903848",
    "name": "GALO FURNITURE Sala 2 piezas Lia",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-lia/1156903848",
@@ -2741,6 +2773,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 15879.0
+  },
+  {
+   "id": "1174591527",
+   "name": "KASHBILL Soporte para pantalla articulado 19 - 45 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/soporte-para-pantalla-articulado-19-45-pulgadas/1174591527",
+   "img": "https://ss629.liverpool.com.mx/lg/1174591527.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1349.0,
+   "price_new": 399.0,
+   "pct": 70.4,
+   "amount": 950.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 399.0
   },
   {
    "id": "1177867230",
@@ -2935,22 +2983,6 @@
    "h_min": 15299.0
   },
   {
-   "id": "1180597405",
-   "name": "RELAN Sala 3 piezas Oviedo de poliéster",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-oviedo-de-poli-ster/1180597405",
-   "img": "https://ss101.liverpool.com.mx/lg/1180597405.jpg",
-   "category": "Salas",
-   "price_old": 58559.0,
-   "price_new": 30999.0,
-   "pct": 47.1,
-   "amount": 27560.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 30999.0
-  },
-  {
    "id": "1186744604",
    "name": "DROPLET Bicicleta fija modelo SP13 de acero",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-fija-modelo-sp13-de-acero/1186744604",
@@ -3047,6 +3079,22 @@
    "h_min": 14999.0
   },
   {
+   "id": "1197137734",
+   "name": "GALO FURNITURE Sala modular izquierda Roma",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-izquierda-roma/1197137734",
+   "img": "https://sp101.liverpool.com.mx/i/1197137734.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 14999.0
+  },
+  {
    "id": "1156895446",
    "name": "GALO FURNITURE Sala 2 piezas Magali",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-magali/1156895446",
@@ -3095,58 +3143,10 @@
    "h_min": 14999.0
   },
   {
-   "id": "999674335393",
-   "name": "GALO FURNITURE Sala modular derecha Roma de tela",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-roma-de-tela/999674335393",
-   "img": "https://sp101.liverpool.com.mx/i/1200324923.jpg",
-   "category": "Salas",
-   "price_old": 29998.0,
-   "price_new": 14999.0,
-   "pct": 50.0,
-   "amount": 14999.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 14999.0
-  },
-  {
    "id": "1156895454",
    "name": "GALO FURNITURE Sala 2 piezas María",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-mar-a/1156895454",
    "img": "https://ss101.liverpool.com.mx/lg/1156895454.jpg",
-   "category": "Salas",
-   "price_old": 29998.0,
-   "price_new": 14999.0,
-   "pct": 50.0,
-   "amount": 14999.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 14999.0
-  },
-  {
-   "id": "1164729971",
-   "name": "GALO FURNITURE Sala modular derecha de madera",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-madera/1164729971",
-   "img": "https://ss101.liverpool.com.mx/lg/1164729971.jpg",
-   "category": "Salas",
-   "price_old": 29998.0,
-   "price_new": 14999.0,
-   "pct": 50.0,
-   "amount": 14999.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 14999.0
-  },
-  {
-   "id": "1164140136",
-   "name": "GALO FURNITURE Sala modular derecha Olimpia de madera pino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-olimpia-de-madera-pino/1164140136",
-   "img": "https://ss101.liverpool.com.mx/lg/1164140136.jpg",
    "category": "Salas",
    "price_old": 29998.0,
    "price_new": 14999.0,
@@ -3172,6 +3172,38 @@
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
+   "h_min": 14999.0
+  },
+  {
+   "id": "1164140136",
+   "name": "GALO FURNITURE Sala modular derecha Olimpia de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-olimpia-de-madera-pino/1164140136",
+   "img": "https://ss101.liverpool.com.mx/lg/1164140136.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 14999.0
+  },
+  {
+   "id": "1164729971",
+   "name": "GALO FURNITURE Sala modular derecha de madera",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-madera/1164729971",
+   "img": "https://ss101.liverpool.com.mx/lg/1164729971.jpg",
+   "category": "Salas",
+   "price_old": 29998.0,
+   "price_new": 14999.0,
+   "pct": 50.0,
+   "amount": 14999.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
    "h_min": 14999.0
   },
   {
@@ -3205,22 +3237,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 14939.0
-  },
-  {
-   "id": "1142985612",
-   "name": "VANIGLAM Set Recámara de MDF",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-de-mdf/1142985612",
-   "img": "https://ss101.liverpool.com.mx/lg/1142985612.jpg",
-   "category": "Recamaras",
-   "price_old": 29600.0,
-   "price_new": 14800.0,
-   "pct": 50.0,
-   "amount": 14800.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 14800.0
   },
   {
    "id": "1144761746",
@@ -3415,22 +3431,6 @@
    "h_min": 13619.0
   },
   {
-   "id": "1144754545",
-   "name": "ERGO CONFORT Sala modular Tirreno de tela",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-tirreno-de-tela/1144754545",
-   "img": "https://ss101.liverpool.com.mx/lg/1144754545.jpg",
-   "category": "Salas",
-   "price_old": 27198.0,
-   "price_new": 13599.0,
-   "pct": 50.0,
-   "amount": 13599.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 13599.0
-  },
-  {
    "id": "1174142609",
    "name": "X-RUSH Bicicleta de spinning hierro",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-spinning-hierro/1174142609",
@@ -3453,14 +3453,14 @@
    "img": "https://sp632.liverpool.com.mx/i/1200413233.jpg",
    "category": "Celulares",
    "price_old": 6990.0,
-   "price_new": 2984.0,
+   "price_new": 2982.0,
    "pct": 57.3,
-   "amount": 4006.0,
+   "amount": 4008.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 2984.0
+   "h_min": 2982.0
   },
   {
    "id": "999686250169",
@@ -3477,6 +3477,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 13419.0
+  },
+  {
+   "id": "1167870712",
+   "name": "OP Secadora de cabello Amwrz10f2c-12",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-amwrz10f2c-12/1167870712",
+   "img": "https://sp706.liverpool.com.mx/i/1167870712.jpg",
+   "category": "Secadoras",
+   "price_old": 1794.02,
+   "price_new": 593.82,
+   "pct": 66.9,
+   "amount": 1200.2,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 593.82
   },
   {
    "id": "999668815611",
@@ -4215,6 +4231,22 @@
    "h_min": 9999.0
   },
   {
+   "id": "999682644459",
+   "name": "DREAME Secadora de cabello AMS01A",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-ams01a/999682644459",
+   "img": "https://sp101.liverpool.com.mx/i/1205294330.jpg",
+   "category": "Secadoras",
+   "price_old": 19999.0,
+   "price_new": 9999.0,
+   "pct": 50.0,
+   "amount": 10000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 9999.0
+  },
+  {
    "id": "1114683210",
    "name": "AVERA Parrilla a gas lp empotrable",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-a-gas-lp-empotrable/1114683210",
@@ -4455,6 +4487,22 @@
    "h_min": 2134.0
   },
   {
+   "id": "1174591012",
+   "name": "KASHBILL Soporte para pantalla articulado 23 - 55 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/soporte-para-pantalla-articulado-23-55-pulgadas/1174591012",
+   "img": "https://ss629.liverpool.com.mx/lg/1174591012.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1449.0,
+   "price_new": 489.0,
+   "pct": 66.3,
+   "amount": 960.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 489.0
+  },
+  {
    "id": "1161794119",
    "name": "GENÉRICA Audífonos In-Ear inalámbrica con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbrica-con-cancelaci-n-de-ruido/1161794119",
@@ -4535,6 +4583,22 @@
    "h_min": 576.43
   },
   {
+   "id": "1123588955",
+   "name": "BABYLISS PRO Secadora de cabello Pro Mid-Size Titanium",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-pro-mid-size-titanium/1123588955",
+   "img": "https://sp706.liverpool.com.mx/i/1123588955.jpg",
+   "category": "Secadoras",
+   "price_old": 5029.0,
+   "price_new": 2167.0,
+   "pct": 56.9,
+   "amount": 2862.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2167.0
+  },
+  {
    "id": "1192732031",
    "name": "RELAN Set sala exterior",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-sala-exterior/1192732031",
@@ -4581,6 +4645,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 3160.0
+  },
+  {
+   "id": "1185416794",
+   "name": "SHTARK Horno de microondas convencional modelo SHT25L de 0.7 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-sht25l-de-0-7-pies/1185416794",
+   "img": "https://ss636.liverpool.com.mx/lg/1185416794.jpg",
+   "category": "Microondas",
+   "price_old": 4999.0,
+   "price_new": 2158.0,
+   "pct": 56.8,
+   "amount": 2841.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2158.0
   },
   {
    "id": "999668488987",
@@ -4663,6 +4743,38 @@
    "h_min": 6687.0
   },
   {
+   "id": "1121253051",
+   "name": "GAMA ITALY Secadora de cabello Diva Salon Pro",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-diva-salon-pro/1121253051",
+   "img": "https://ss706.liverpool.com.mx/lg/1121253051.jpg",
+   "category": "Secadoras",
+   "price_old": 2945.0,
+   "price_new": 1169.99,
+   "pct": 60.3,
+   "amount": 1775.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1169.99
+  },
+  {
+   "id": "1200691462",
+   "name": "SAMSUNG Galaxy A07 LCD 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/galaxy-a07-lcd-6-7-pulgadas/1200691462",
+   "img": "https://sp632.liverpool.com.mx/i/1200691462-samsung-galaxy-a07-lcd-6-7-p.jpg",
+   "category": "Celulares",
+   "price_old": 6999.0,
+   "price_new": 3171.0,
+   "pct": 54.7,
+   "amount": 3828.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3171.0
+  },
+  {
    "id": "1120637459",
    "name": "OSOJI Aspiradora robot Dojo Duo 990 300 ml",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-robot-dojo-duo-990-300-ml/1120637459",
@@ -4701,14 +4813,30 @@
    "img": "https://sp101.liverpool.com.mx/i/1199345032.jpeg",
    "category": "Celulares",
    "price_old": 4800.0,
-   "price_new": 2069.0,
+   "price_new": 2067.0,
    "pct": 56.9,
-   "amount": 2731.0,
+   "amount": 2733.0,
    "ends": "",
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 2069.0
+   "h_min": 2067.0
+  },
+  {
+   "id": "1174591535",
+   "name": "KASHBILL Soporte para pantalla articulado 19 - 55 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/soporte-para-pantalla-articulado-19-55-pulgadas/1174591535",
+   "img": "https://ss629.liverpool.com.mx/lg/1174591535.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1329.0,
+   "price_new": 449.0,
+   "pct": 66.2,
+   "amount": 880.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 449.0
   },
   {
    "id": "1100248502",
@@ -4743,22 +4871,6 @@
    "h_min": 9999.0
   },
   {
-   "id": "1190871220",
-   "name": "RELAN Set sala exterior",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-sala-exterior/1190871220",
-   "img": "https://sp101.liverpool.com.mx/i/1190871220.jpg",
-   "category": "Salas",
-   "price_old": 35759.0,
-   "price_new": 19249.0,
-   "pct": 46.2,
-   "amount": 16510.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 19249.0
-  },
-  {
    "id": "1134086773",
    "name": "HISENSE Pantalla Smart TV LED de 32 pulgadas Full HD 32A4KV",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-led-de-32-pulgadas-full-hd-32a4kv/1134086773",
@@ -4791,36 +4903,36 @@
    "h_min": 1690.0
   },
   {
-   "id": "1169119385",
-   "name": "ADIDAS ORIGINALS Tenis campus para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-campus-para-mujer/1169119385",
-   "img": "https://ss550.liverpool.com.mx/lg/1169119385.jpg",
-   "category": "Tenis",
-   "price_old": 2499.0,
-   "price_new": 975.0,
-   "pct": 61.0,
-   "amount": 1524.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 975.0
-  },
-  {
    "id": "1200691373",
    "name": "SAMSUNG Galaxy A07 LCD 6.7 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/galaxy-a07-lcd-6-7-pulgadas/1200691373",
    "img": "https://sp632.liverpool.com.mx/i/1200691373.jpg",
    "category": "Celulares",
    "price_old": 6990.0,
-   "price_new": 3198.0,
-   "pct": 54.2,
-   "amount": 3792.0,
+   "price_new": 3196.0,
+   "pct": 54.3,
+   "amount": 3794.0,
    "ends": "",
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 3198.0
+   "h_min": 3196.0
+  },
+  {
+   "id": "1193415969",
+   "name": "SANSUI Monitor ES-24F2 Freesync Full HD 24 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-es-24f2-freesync-full-hd-24-pulgadas/1193415969",
+   "img": "https://sp628.liverpool.com.mx/i/1193415969.jpg",
+   "category": "Monitores",
+   "price_old": 3998.0,
+   "price_new": 1690.0,
+   "pct": 57.7,
+   "amount": 2308.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1690.0
   },
   {
    "id": "1203336841",
@@ -4965,6 +5077,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 11999.0
+  },
+  {
+   "id": "1144412016",
+   "name": "GENÉRICA Freidora de aceite con compartimento doble 12 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-con-compartimento-doble-12-l/1144412016",
+   "img": "https://sp625.liverpool.com.mx/i/1144412016.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5279.0,
+   "price_new": 2345.97,
+   "pct": 55.6,
+   "amount": 2933.03,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2345.97
   },
   {
    "id": "1124401697",
@@ -5159,20 +5287,20 @@
    "h_min": 7599.0
   },
   {
-   "id": "1153565640",
-   "name": "KASABLANKA Parrilla eléctrica Grill KE-001 de madera con metal",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-el-ctrica-grill-ke-001-de-madera-con-metal/1153565640",
-   "img": "https://sp623.liverpool.com.mx/i/1153565640.jpg",
-   "category": "Estufas",
-   "price_old": 2499.0,
-   "price_new": 999.6,
+   "id": "999685840747",
+   "name": "HYUNDAI Monitor mn-hyu-p227d standard full hd 22 pulgadas mn-hyu-p227d",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-mn-hyu-p227d-standard-full-hd-22-pulgadas-mn-hyu-p227d/999685840747",
+   "img": "https://sp101.liverpool.com.mx/i/1207494328.jpg",
+   "category": "Monitores",
+   "price_old": 2500.0,
+   "price_new": 999.0,
    "pct": 60.0,
-   "amount": 1499.4,
+   "amount": 1501.0,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 999.6
+   "h_min": 999.0
   },
   {
    "id": "1140226919",
@@ -5253,6 +5381,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1893.81
+  },
+  {
+   "id": "1155930311",
+   "name": "XIAOMI Monitor standard full HD 27 pulgadas P27FBA-RAGL",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-27-pulgadas-p27fba-ragl/1155930311",
+   "img": "https://sp628.liverpool.com.mx/i/1155930311.jpg",
+   "category": "Monitores",
+   "price_old": 5799.0,
+   "price_new": 2660.99,
+   "pct": 54.1,
+   "amount": 3138.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2660.99
   },
   {
    "id": "1189001734",
@@ -5367,10 +5511,10 @@
    "h_min": 2249.0
   },
   {
-   "id": "1186613909",
-   "name": "VELOCI Bicicleta infantil rodada 12 para niña",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-12-para-ni-a/1186613909",
-   "img": "https://sp424.liverpool.com.mx/i/1186613909.jpg",
+   "id": "1173565654",
+   "name": "VELOCI Bicicleta infantil rodada 12 para niño",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-12-para-ni-o/1173565654",
+   "img": "https://sp424.liverpool.com.mx/i/1173565654.jpg",
    "category": "Bicicletas",
    "price_old": 4998.0,
    "price_new": 2249.0,
@@ -5383,10 +5527,10 @@
    "h_min": 2249.0
   },
   {
-   "id": "1173565654",
-   "name": "VELOCI Bicicleta infantil rodada 12 para niño",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-12-para-ni-o/1173565654",
-   "img": "https://sp424.liverpool.com.mx/i/1173565654.jpg",
+   "id": "1186613909",
+   "name": "VELOCI Bicicleta infantil rodada 12 para niña",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-12-para-ni-a/1186613909",
+   "img": "https://sp424.liverpool.com.mx/i/1186613909.jpg",
    "category": "Bicicletas",
    "price_old": 4998.0,
    "price_new": 2249.0,
@@ -5447,6 +5591,22 @@
    "h_min": 31999.1
   },
   {
+   "id": "1177339012",
+   "name": "BENQ Monitor gamer standard QHD 34 pulgadas EX3410R",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-qhd-34-pulgadas-ex3410r/1177339012",
+   "img": "https://sp628.liverpool.com.mx/i/1177339012.jpg",
+   "category": "Monitores",
+   "price_old": 16999.0,
+   "price_new": 8797.0,
+   "pct": 48.2,
+   "amount": 8202.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 8797.0
+  },
+  {
    "id": "99993042274",
    "name": "MOBOSS Bicicleta eléctrica K01 urbana rodada 12",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-el-ctrica-k01-urbana-rodada-12/99993042274",
@@ -5463,6 +5623,22 @@
    "h_min": 3999.0
   },
   {
+   "id": "1138678039",
+   "name": "BUYTITI Cepillo de aire Mr306",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-de-aire-mr306/1138678039",
+   "img": "https://sp706.liverpool.com.mx/i/1138678039.jpg",
+   "category": "Secadoras",
+   "price_old": 1208.0,
+   "price_new": 424.0,
+   "pct": 64.9,
+   "amount": 784.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 424.0
+  },
+  {
    "id": "1176936581",
    "name": "GHOST Bicicleta de montaña rodada 20 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-20-unisex/1176936581",
@@ -5477,6 +5653,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 5147.0
+  },
+  {
+   "id": "1169030185",
+   "name": "OCELOTGAMING Monitor gamer standard 2K 27 pulgadas OM-Magnus 27",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-2k-27-pulgadas-om-magnus-27/1169030185",
+   "img": "https://ss628.liverpool.com.mx/lg/1169030185.jpg",
+   "category": "Monitores",
+   "price_old": 25998.0,
+   "price_new": 14040.0,
+   "pct": 46.0,
+   "amount": 11958.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 14040.0
   },
   {
    "id": "1190914336",
@@ -5623,6 +5815,22 @@
    "h_min": 4553.0
   },
   {
+   "id": "1102649466",
+   "name": "SUPRA Combo campana de cocina VARESE de acero inoxidable",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/combo-campana-de-cocina-varese-de-acero-inoxidable/1102649466",
+   "img": "https://sp636.liverpool.com.mx/i/1102649466.jpg",
+   "category": "Estufas",
+   "price_old": 22999.0,
+   "price_new": 12449.0,
+   "pct": 45.9,
+   "amount": 10550.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 12449.0
+  },
+  {
    "id": "99974974561",
    "name": "MR FIX Sala modular derecha de poliéster",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-poli-ster/99974974561",
@@ -5669,6 +5877,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 4256.0
+  },
+  {
+   "id": "1155912096",
+   "name": "SAMSUNG Monitor gamer standard 4K/UHD 55 pulgadas LS55CG970NLXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-4k-uhd-55-pulgadas-ls55cg970nlxzx/1155912096",
+   "img": "https://sp628.liverpool.com.mx/i/1155912096.jpg",
+   "category": "Monitores",
+   "price_old": 59999.0,
+   "price_new": 34999.0,
+   "pct": 41.7,
+   "amount": 25000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 34999.0
   },
   {
    "id": "1191942937",
@@ -5927,6 +6151,22 @@
    "h_min": 504.99
   },
   {
+   "id": "1113100741",
+   "name": "MIDEA Freidora de aire 3.5 L Maf35N2Sew",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-3-5-l-maf35n2sew/1113100741",
+   "img": "https://sp625.liverpool.com.mx/i/1113100741.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5998.0,
+   "price_new": 2907.94,
+   "pct": 51.5,
+   "amount": 3090.06,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2907.94
+  },
+  {
    "id": "999679927339",
    "name": "LENOVO Laptop 2 en 1 touch IdeaPad 5 Touch 14 pulgadas WUXGA AMD Ryzen AI 7 350 AMD Radeon 16 GB RAM 1 TB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-ideapad-5-touch-14-pulgadas-wuxga-amd-ryzen-ai-7-350-amd-rad/999679927339",
@@ -5957,6 +6197,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1080.0
+  },
+  {
+   "id": "1182264535",
+   "name": "LLANO Secadora de cabello Ll-pc001",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-ll-pc001/1182264535",
+   "img": "https://ss706.liverpool.com.mx/lg/1182264535.jpg",
+   "category": "Secadoras",
+   "price_old": 3900.0,
+   "price_new": 1798.99,
+   "pct": 53.9,
+   "amount": 2101.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1798.99
   },
   {
    "id": "1175835560",
@@ -6117,6 +6373,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 8049.0
+  },
+  {
+   "id": "1142537989",
+   "name": "GUTSTARK FREIDORA DE ACEITE MKZ, 12 L, PLATEADO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-mkz-12-l-plateado/1142537989",
+   "img": "https://sp101.liverpool.com.mx/i/1142537989.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3299.0,
+   "price_new": 1499.0,
+   "pct": 54.6,
+   "amount": 1800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1499.0
+  },
+  {
+   "id": "99972915254",
+   "name": "APPLE iPhone 15 PRO MAX 6.7 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-pro-max-6-7-pulgadas-super-retina-xdr-reacondicionado/99972915254",
+   "img": "https://sp632.liverpool.com.mx/i/1158272977.jpg",
+   "category": "Iphone",
+   "price_old": 24999.0,
+   "price_new": 13996.0,
+   "pct": 44.0,
+   "amount": 11003.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 13996.0
   },
   {
    "id": "1187816935",
@@ -6471,6 +6759,22 @@
    "h_min": 1955.81
   },
   {
+   "id": "999681636273",
+   "name": "HONOR X7D LCD / TFT 6.7 pulgadas desbloqueado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas-desbloqueado/999681636273",
+   "img": "https://sp101.liverpool.com.mx/i/1203371582.jpg",
+   "category": "Celulares",
+   "price_old": 8990.0,
+   "price_new": 4669.0,
+   "pct": 48.1,
+   "amount": 4321.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4669.0
+  },
+  {
    "id": "1144554350",
    "name": "LAB.G Audífonos Over-Ear alámbricos e inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-al-mbricos-e-inal-mbricos/1144554350",
@@ -6485,22 +6789,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 430.64
-  },
-  {
-   "id": "999681636273",
-   "name": "HONOR X7D LCD / TFT 6.7 pulgadas desbloqueado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas-desbloqueado/999681636273",
-   "img": "https://sp101.liverpool.com.mx/i/1203371582.jpg",
-   "category": "Celulares",
-   "price_old": 8990.0,
-   "price_new": 4671.0,
-   "pct": 48.0,
-   "amount": 4319.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 4671.0
   },
   {
    "id": "99981212224",
@@ -7015,22 +7303,6 @@
    "h_min": 19003.96
   },
   {
-   "id": "99977033999",
-   "name": "BAZAR STORE Sala modular de lino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-lino/99977033999",
-   "img": "https://sp101.liverpool.com.mx/i/1164885646.jpg",
-   "category": "Salas",
-   "price_old": 19999.0,
-   "price_new": 11299.0,
-   "pct": 43.5,
-   "amount": 8700.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 11299.0
-  },
-  {
    "id": "1181904875",
    "name": "OLA CASA Cafetera con molino cafetera expresó cafetera con molino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-con-molino-cafetera-expres-cafetera-con-molino/1181904875",
@@ -7109,6 +7381,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 613.91
+  },
+  {
+   "id": "1193379229",
+   "name": "SANSUI Monitor ES-27F2 Freesync Full HD 27 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-es-27f2-freesync-full-hd-27-pulgadas/1193379229",
+   "img": "https://sp628.liverpool.com.mx/i/1193379229.jpg",
+   "category": "Monitores",
+   "price_old": 4998.0,
+   "price_new": 2490.0,
+   "pct": 50.2,
+   "amount": 2508.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2490.0
   },
   {
    "id": "1184977181",
@@ -7205,6 +7493,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 7559.4
+  },
+  {
+   "id": "1184294865",
+   "name": "XTELLAR Bocina recargable XTLLAR5785 bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-xtllar5785-bluetooth/1184294865",
+   "img": "https://ss630.liverpool.com.mx/lg/1184294865.jpg",
+   "category": "Bocinas",
+   "price_old": 1456.64,
+   "price_new": 613.31,
+   "pct": 57.9,
+   "amount": 843.33,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 613.31
   },
   {
    "id": "999683641867",
@@ -7399,6 +7703,22 @@
    "h_min": 2339.0
   },
   {
+   "id": "1177135719",
+   "name": "APPLE iPhone 15 6.1 pulgadas OLED Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-6-1-pulgadas-oled-reacondicionado/1177135719",
+   "img": "https://sp632.liverpool.com.mx/i/1177135719.jpg",
+   "category": "Iphone",
+   "price_old": 15999.0,
+   "price_new": 8989.0,
+   "pct": 43.8,
+   "amount": 7010.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 8989.0
+  },
+  {
    "id": "1189589898",
    "name": "MERCURIO Bicicleta infantil rodada 20 Frisky unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-20-frisky-unisex/1189589898",
@@ -7559,6 +7879,38 @@
    "h_min": 15539.0
   },
   {
+   "id": "1192284399",
+   "name": "YEYIAN Monitor gamer IPS UWQHD 34 pulgadas ELYSIUM34 YMC-IP434-P2",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-ips-uwqhd-34-pulgadas-elysium34-ymc-ip434-p2/1192284399",
+   "img": "https://sp628.liverpool.com.mx/i/1192284399.jpg",
+   "category": "Monitores",
+   "price_old": 11817.0,
+   "price_new": 6499.0,
+   "pct": 45.0,
+   "amount": 5318.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6499.0
+  },
+  {
+   "id": "1171211677",
+   "name": "GUTSTARK Freidora de aceite 6 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-6-l/1171211677",
+   "img": "https://ss625.liverpool.com.mx/lg/1171211677.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1999.0,
+   "price_new": 899.0,
+   "pct": 55.0,
+   "amount": 1100.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 899.0
+  },
+  {
    "id": "29920823",
    "name": "FRALUGIO Smartwatch unisex T500",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-unisex-t500/29920823",
@@ -7621,6 +7973,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 23490.0
+  },
+  {
+   "id": "1188894221",
+   "name": "BABYLISS Secadora de cabello BNTC9200T45",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-bntc9200t45/1188894221",
+   "img": "https://ss706.liverpool.com.mx/lg/1188894221.jpg",
+   "category": "Secadoras",
+   "price_old": 6489.0,
+   "price_new": 3395.0,
+   "pct": 47.7,
+   "amount": 3094.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3395.0
   },
   {
    "id": "1163974441",
@@ -7767,6 +8135,22 @@
    "h_min": 782.65
   },
   {
+   "id": "1187202571",
+   "name": "LG Monitor gamer 29U511A-B IPS Full HD 29 puadas ULTRAWIDE 29U511A-B",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-29u511a-b-ips-full-hd-29-puadas-ultrawide-29u511a-b/1187202571",
+   "img": "https://sp628.liverpool.com.mx/i/1187202571.jpg",
+   "category": "Monitores",
+   "price_old": 7999.0,
+   "price_new": 4298.99,
+   "pct": 46.3,
+   "amount": 3700.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4298.99
+  },
+  {
    "id": "999684081896",
    "name": "ITEL A100CS LCD IPS 6.6 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/a100cs-lcd-ips-6-6-pulgadas/999684081896",
@@ -7863,6 +8247,22 @@
    "h_min": 915.0
   },
   {
+   "id": "1190819082",
+   "name": "RCA Pantalla Smart TV UHD de 50 pulgadas 4K TC LE50K GO2401 con Android TV",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-uhd-de-50-pulgadas-4k-tc-le50k-go2401-con-android-tv/1190819082",
+   "img": "https://sp629.liverpool.com.mx/i/1190819082.jpg",
+   "category": "Pantallas",
+   "price_old": 11748.0,
+   "price_new": 6549.0,
+   "pct": 44.3,
+   "amount": 5199.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6549.0
+  },
+  {
    "id": "1162463205",
    "name": "OLA CASA Cafetera de goteo",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo/1162463205",
@@ -7941,6 +8341,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 6099.0
+  },
+  {
+   "id": "999679503399",
+   "name": "HONOR Play 10 LCD / TFT 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/play-10-lcd-tft-6-7-pulgadas/999679503399",
+   "img": "https://sp101.liverpool.com.mx/i/1201060423.jpeg",
+   "category": "Celulares",
+   "price_old": 5000.0,
+   "price_new": 2577.0,
+   "pct": 48.5,
+   "amount": 2423.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2577.0
   },
   {
    "id": "1128294194",
@@ -8119,6 +8535,38 @@
    "h_min": 6999.0
   },
   {
+   "id": "1181854827",
+   "name": "GENERICA Secadora de cabello zcy883",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-zcy883/1181854827",
+   "img": "https://ss705.liverpool.com.mx/lg/1181854827.jpg",
+   "category": "Secadoras",
+   "price_old": 2574.0,
+   "price_new": 1236.0,
+   "pct": 52.0,
+   "amount": 1338.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1236.0
+  },
+  {
+   "id": "999673988206",
+   "name": "BABYLISS PRO Secadora Multisecadora",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-multisecadora/999673988206",
+   "img": "https://sp101.liverpool.com.mx/i/1199886548.jpg",
+   "category": "Secadoras",
+   "price_old": 9049.0,
+   "price_new": 4979.0,
+   "pct": 45.0,
+   "amount": 4070.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4979.0
+  },
+  {
    "id": "1163422987",
    "name": "BENOTTO Bicicleta infantil rodada 16 distroller unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-16-distroller-unisex/1163422987",
@@ -8228,22 +8676,6 @@
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 12999.0
-  },
-  {
-   "id": "999683469231",
-   "name": "ATLAS DEL DESCANSO Sala de madera",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-de-madera/999683469231",
-   "img": "https://sp101.liverpool.com.mx/i/1204817002.jpg",
-   "category": "Salas",
-   "price_old": 21999.0,
-   "price_new": 12999.0,
-   "pct": 40.9,
-   "amount": 9000.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
    "h_min": 12999.0
   },
   {
@@ -8375,6 +8807,38 @@
    "h_min": 2822.0
   },
   {
+   "id": "1185131234",
+   "name": "TRUPER Aspiradora asp-04n 15 litros",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-asp-04n-15-litros/1185131234",
+   "img": "https://sp343.liverpool.com.mx/i/1185131234.jpg",
+   "category": "Aspiradoras",
+   "price_old": 3300.0,
+   "price_new": 1650.0,
+   "pct": 50.0,
+   "amount": 1650.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1650.0
+  },
+  {
+   "id": "999683137292",
+   "name": "EXCELSIOR Microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas/999683137292",
+   "img": "https://sp101.liverpool.com.mx/i/1204847491.jpg",
+   "category": "Microondas",
+   "price_old": 3899.0,
+   "price_new": 1989.0,
+   "pct": 49.0,
+   "amount": 1910.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1989.0
+  },
+  {
    "id": "99989039462",
    "name": "MODI SOFA Sala modular de poliéster",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-poli-ster/99989039462",
@@ -8389,6 +8853,54 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 27928.77
+  },
+  {
+   "id": "1183776637",
+   "name": "LAB.G Kit esterilizador de biberón para microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-esterilizador-de-biber-n-para-microondas/1183776637",
+   "img": "https://ss417.liverpool.com.mx/lg/1183776637.jpg",
+   "category": "Microondas",
+   "price_old": 2501.32,
+   "price_new": 1209.59,
+   "pct": 51.6,
+   "amount": 1291.73,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1209.59
+  },
+  {
+   "id": "1187041283",
+   "name": "BELUG Molde para freidora de aire",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/molde-para-freidora-de-aire/1187041283",
+   "img": "https://sp623.liverpool.com.mx/i/1187041283.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1078.9,
+   "price_new": 459.39,
+   "pct": 57.4,
+   "amount": 619.51,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 459.39
+  },
+  {
+   "id": "1196780218",
+   "name": "SHARK Secadora de cabello Glossi",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-glossi/1196780218",
+   "img": "https://ss706.liverpool.com.mx/lg/1196780218.jpg",
+   "category": "Secadoras",
+   "price_old": 7999.0,
+   "price_new": 4399.0,
+   "pct": 45.0,
+   "amount": 3600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4399.0
   },
   {
    "id": "99982237582",
@@ -8487,6 +8999,22 @@
    "h_min": 17499.0
   },
   {
+   "id": "1190197839",
+   "name": "PINK GARLIC Freidora de aire 5 L AFPE25",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-5-l-afpe25/1190197839",
+   "img": "https://sp625.liverpool.com.mx/i/1190197839.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3899.0,
+   "price_new": 1999.0,
+   "pct": 48.7,
+   "amount": 1900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1999.0
+  },
+  {
    "id": "999681781984",
    "name": "TRUPER Hidrolavadora 1500 PSI",
    "url": "https://www.liverpool.com.mx/tienda/pdp/hidrolavadora-1500-psi/999681781984",
@@ -8535,22 +9063,6 @@
    "h_min": 945.0
   },
   {
-   "id": "1165764401",
-   "name": "LATTAFA Eau de parfum Angham para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-angham-para-mujer/1165764401",
-   "img": "https://sp701.liverpool.com.mx/i/1165764401.jpg",
-   "category": "Perfumes",
-   "price_old": 1800.0,
-   "price_new": 839.0,
-   "pct": 53.4,
-   "amount": 961.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 839.0
-  },
-  {
    "id": "1130754623",
    "name": "Genérica Audífonos True Wireless Xg8 inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-xg8-inal-mbricos-con-cancelaci-n-de-ruido/1130754623",
@@ -8565,6 +9077,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 334.29
+  },
+  {
+   "id": "1194914365",
+   "name": "SHTARK Freidora de aceite 6 L SHTFRY01",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-6-l-shtfry01/1194914365",
+   "img": "https://sp625.liverpool.com.mx/i/1194914365.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1999.0,
+   "price_new": 946.0,
+   "pct": 52.7,
+   "amount": 1053.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 946.0
   },
   {
    "id": "1185131242",
@@ -8631,22 +9159,6 @@
    "h_min": 13193.0
   },
   {
-   "id": "1188109396",
-   "name": "HP Laptop 240R 14 pulgadas Full HD Intel Core i5 Integradas 16 GB RAM 512 GB SSD",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240r-14-pulgadas-full-hd-intel-core-i5-integradas-16-gb-ram-512-gb-ssd/1188109396",
-   "img": "https://sp628.liverpool.com.mx/i/1188109396.jpg",
-   "category": "Laptops",
-   "price_old": 21939.0,
-   "price_new": 13094.0,
-   "pct": 40.3,
-   "amount": 8845.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 13094.0
-  },
-  {
    "id": "999686594166",
    "name": "KESSA Sala modular Nox",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-nox/999686594166",
@@ -8661,6 +9173,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 62689.0
+  },
+  {
+   "id": "1166789181",
+   "name": "QIAN Monitor standard full HD 30 pulgadas QMC-VA30-02_CURVO_2560",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-30-pulgadas-qmc-va30-02-curvo-2560/1166789181",
+   "img": "https://sp628.liverpool.com.mx/i/1166789181.jpg",
+   "category": "Monitores",
+   "price_old": 7544.0,
+   "price_new": 4149.0,
+   "pct": 45.0,
+   "amount": 3395.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4149.0
+  },
+  {
+   "id": "1108535705",
+   "name": "Genérica Secadora de cabello MYR-152984",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-myr-152984/1108535705",
+   "img": "https://ss706.liverpool.com.mx/lg/1108535705.jpg",
+   "category": "Secadoras",
+   "price_old": 770.0,
+   "price_new": 312.0,
+   "pct": 59.5,
+   "amount": 458.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 312.0
   },
   {
    "id": "999684109751",
@@ -8695,20 +9239,20 @@
    "h_min": 18299.0
   },
   {
-   "id": "99993444843",
-   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
-   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
-   "category": "Tenis",
-   "price_old": 2499.0,
-   "price_new": 1225.0,
-   "pct": 51.0,
-   "amount": 1274.0,
+   "id": "1184620037",
+   "name": "LAB.G Kit esterilizador de biberón para microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-esterilizador-de-biber-n-para-microondas/1184620037",
+   "img": "https://ss417.liverpool.com.mx/lg/1184620037.jpg",
+   "category": "Microondas",
+   "price_old": 2070.0,
+   "price_new": 989.6,
+   "pct": 52.2,
+   "amount": 1080.4,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 1225.0
+   "h_min": 989.6
   },
   {
    "id": "1128456798",
@@ -8919,22 +9463,6 @@
    "h_min": 1010.07
   },
   {
-   "id": "99993444929",
-   "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
-   "img": "https://ss550.liverpool.com.mx/lg/1191718441.jpg",
-   "category": "Tenis",
-   "price_old": 2399.0,
-   "price_new": 1176.0,
-   "pct": 51.0,
-   "amount": 1223.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1176.0
-  },
-  {
    "id": "999684145454",
    "name": "DREAME Aspiradora de mano H60GT",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-h60gt/999684145454",
@@ -8949,6 +9477,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 6899.0
+  },
+  {
+   "id": "1156777931",
+   "name": "YEYIAN Monitor gamer standard full HD 25 pulgadas YMF VAF25 G1",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-full-hd-25-pulgadas-ymf-vaf25-g1/1156777931",
+   "img": "https://sp628.liverpool.com.mx/i/1156777931.jpg",
+   "category": "Monitores",
+   "price_old": 4271.0,
+   "price_new": 2239.0,
+   "pct": 47.6,
+   "amount": 2032.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2239.0
   },
   {
    "id": "999685883340",
@@ -8997,6 +9541,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 6290.0
+  },
+  {
+   "id": "99974751214",
+   "name": "BLUELANDER Bicicleta de montaña rodada 29 unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/99974751214",
+   "img": "https://sp101.liverpool.com.mx/i/1161323167.jpg",
+   "category": "Bicicletas",
+   "price_old": 11499.0,
+   "price_new": 6599.0,
+   "pct": 42.6,
+   "amount": 4900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 6599.0
   },
   {
    "id": "999682218938",
@@ -9431,6 +9991,22 @@
    "h_min": 1639.03
   },
   {
+   "id": "1190990288",
+   "name": "KESSA Sala 3 piezas Toscana de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-toscana-de-tela/1190990288",
+   "img": "https://ss101.liverpool.com.mx/lg/1190990288.jpg",
+   "category": "Salas",
+   "price_old": 78849.0,
+   "price_new": 51199.0,
+   "pct": 35.1,
+   "amount": 27650.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 51199.0
+  },
+  {
    "id": "1162785202",
    "name": "KIESLECT Smartwatch Actor unisex con GPS",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-actor-unisex-con-gps/1162785202",
@@ -9511,6 +10087,22 @@
    "h_min": 699.0
   },
   {
+   "id": "1164461048",
+   "name": "DAEWOO Secadora de cabello DW-6N1",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-6n1/1164461048",
+   "img": "https://ss706.liverpool.com.mx/lg/1164461048.jpg",
+   "category": "Secadoras",
+   "price_old": 1499.0,
+   "price_new": 699.0,
+   "pct": 53.4,
+   "amount": 800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 699.0
+  },
+  {
    "id": "1162626686",
    "name": "KESSA Set Recámara Melany de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-melany-de-mdf/1162626686",
@@ -9541,6 +10133,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1250.0
+  },
+  {
+   "id": "1132204949",
+   "name": "GENÉRICA Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1132204949",
+   "img": "https://sp706.liverpool.com.mx/i/1132204949.jpg",
+   "category": "Secadoras",
+   "price_old": 1167.0,
+   "price_new": 525.14,
+   "pct": 55.0,
+   "amount": 641.86,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 525.14
   },
   {
    "id": "1162330060",
@@ -9671,6 +10279,22 @@
    "h_min": 3297.0
   },
   {
+   "id": "1178142085",
+   "name": "AVERA Freidora de aire con compartimento triple 25 L Hpf01",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-triple-25-l-hpf01/1178142085",
+   "img": "https://sp625.liverpool.com.mx/i/1178142085.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5999.0,
+   "price_new": 3299.0,
+   "pct": 45.0,
+   "amount": 2700.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3299.0
+  },
+  {
    "id": "1184801660",
    "name": "KESSA Sala modular de velvet",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-velvet/1184801660",
@@ -9719,6 +10343,22 @@
    "h_min": 454.59
   },
   {
+   "id": "1135303123",
+   "name": "LAB.G Freidora de aceite Genérica 2.5 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-gen-rica-2-5-l/1135303123",
+   "img": "https://sp625.liverpool.com.mx/i/1135303123.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2899.0,
+   "price_new": 1481.92,
+   "pct": 48.9,
+   "amount": 1417.08,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1481.92
+  },
+  {
    "id": "99978024262",
    "name": "BAZAR STORE Sala 3 piezas Miami de lino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-miami-de-lino/99978024262",
@@ -9765,6 +10405,38 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 44939.0
+  },
+  {
+   "id": "1111098804",
+   "name": "MERCEDES BENZ Funda iPhone SE de piel",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-iphone-se-de-piel/1111098804",
+   "img": "https://ss632.liverpool.com.mx/lg/1111098804.jpg",
+   "category": "Iphone",
+   "price_old": 719.0,
+   "price_new": 299.0,
+   "pct": 58.4,
+   "amount": 420.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 299.0
+  },
+  {
+   "id": "999680483027",
+   "name": "GENÉRICA Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999680483027",
+   "img": "https://sp101.liverpool.com.mx/i/1202498945.jpg",
+   "category": "Secadoras",
+   "price_old": 2060.0,
+   "price_new": 1013.36,
+   "pct": 50.8,
+   "amount": 1046.64,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1013.36
   },
   {
    "id": "1169747136",
@@ -10295,22 +10967,6 @@
    "h_min": 38959.0
   },
   {
-   "id": "1170523594",
-   "name": "KESSA Sala modular Savona de lino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-savona-de-lino/1170523594",
-   "img": "https://ss101.liverpool.com.mx/lg/1170523594.jpg",
-   "category": "Salas",
-   "price_old": 59999.0,
-   "price_new": 38959.0,
-   "pct": 35.1,
-   "amount": 21040.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 38959.0
-  },
-  {
    "id": "999683575993",
    "name": "KESSA Sala 3 piezas Bari de velvet",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-bari-de-velvet/999683575993",
@@ -10679,6 +11335,22 @@
    "h_min": 499.0
   },
   {
+   "id": "1129127621",
+   "name": "SWITCHEASY Funda para iPhone Artist",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-artist/1129127621",
+   "img": "https://ss637.liverpool.com.mx/lg/1129127621.jpg",
+   "category": "Iphone",
+   "price_old": 899.0,
+   "price_new": 399.0,
+   "pct": 55.6,
+   "amount": 500.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 399.0
+  },
+  {
    "id": "1139709205",
    "name": "LAB.G Bocina portátil Genérica bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-gen-rica-bluetooth/1139709205",
@@ -10709,6 +11381,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 35629.0
+  },
+  {
+   "id": "999680248523",
+   "name": "YEYIAN Monitor gamer YMF-IPF27-M1 IPS Full HD 27 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-ymf-ipf27-m1-ips-full-hd-27-pulgadas/999680248523",
+   "img": "https://sp101.liverpool.com.mx/i/1202058309.jpg",
+   "category": "Monitores",
+   "price_old": 4855.0,
+   "price_new": 2670.0,
+   "pct": 45.0,
+   "amount": 2185.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2670.0
   },
   {
    "id": "1191556816",
@@ -10756,6 +11444,22 @@
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
+   "h_min": 999.0
+  },
+  {
+   "id": "1191349047",
+   "name": "XIAOMI Secadora de cabello H300 TW",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-h300-tw/1191349047",
+   "img": "https://ss706.liverpool.com.mx/lg/1191349047.jpg",
+   "category": "Secadoras",
+   "price_old": 1999.0,
+   "price_new": 999.0,
+   "pct": 50.0,
+   "amount": 1000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
    "h_min": 999.0
   },
   {
@@ -11079,6 +11783,22 @@
    "h_min": 3999.0
   },
   {
+   "id": "1162829960",
+   "name": "SAMSUNG Monitor gamer standard full HD 27 pulgadas LS27DG300ELXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-full-hd-27-pulgadas-ls27dg300elxzx/1162829960",
+   "img": "https://sp628.liverpool.com.mx/i/1162829960.jpg",
+   "category": "Monitores",
+   "price_old": 6999.0,
+   "price_new": 3999.0,
+   "pct": 42.9,
+   "amount": 3000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3999.0
+  },
+  {
    "id": "1123632245",
    "name": "KESSA Set Recámara Keke de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-keke-de-mdf/1123632245",
@@ -11175,6 +11895,38 @@
    "h_min": 729.0
   },
   {
+   "id": "99993896996",
+   "name": "ILIOS INNOVA Set sala exterior 4L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-sala-exterior-4l/99993896996",
+   "img": "https://ss116.liverpool.com.mx/lg/1192485611.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 6499.0,
+   "price_new": 3699.0,
+   "pct": 43.1,
+   "amount": 2800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3699.0
+  },
+  {
+   "id": "1189294332",
+   "name": "SAMSUNG Monitor M5 M50F VA full hd 32 pulgadas LS32FM500ELXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-m5-m50f-va-full-hd-32-pulgadas-ls32fm500elxzx/1189294332",
+   "img": "https://sp628.liverpool.com.mx/i/1189294332.jpg",
+   "category": "Monitores",
+   "price_old": 6499.0,
+   "price_new": 3699.0,
+   "pct": 43.1,
+   "amount": 2800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3699.0
+  },
+  {
    "id": "1149773807",
    "name": "SWISS CODE Smartwatch Combo Classic III Amoled + Seed Pro Anc unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-combo-classic-iii-amoled-seed-pro-anc-unisex/1149773807",
@@ -11237,6 +11989,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 18999.0
+  },
+  {
+   "id": "999679962416",
+   "name": "CUORY Monitor CUO-MO22LED Standard Full HD 22 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-cuo-mo22led-standard-full-hd-22-pulgadas/999679962416",
+   "img": "https://sp101.liverpool.com.mx/i/1202045657.jpg",
+   "category": "Monitores",
+   "price_old": 2999.0,
+   "price_new": 1588.0,
+   "pct": 47.0,
+   "amount": 1411.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1588.0
   },
   {
    "id": "1166911865",
@@ -11381,6 +12149,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 484.84
+  },
+  {
+   "id": "1183396214",
+   "name": "BABYLISS PRO Secadora de cabello Turbo Xtreme BAB9400UC",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-turbo-xtreme-bab9400uc/1183396214",
+   "img": "https://ss706.liverpool.com.mx/lg/1183396214.jpg",
+   "category": "Secadoras",
+   "price_old": 3499.0,
+   "price_new": 1889.0,
+   "pct": 46.0,
+   "amount": 1610.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1889.0
   },
   {
    "id": "1187079116",
@@ -11541,6 +12325,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 529.0
+  },
+  {
+   "id": "1123459233",
+   "name": "KEURIG CAFETERA CAPSULAS 5344818, MINI, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-5344818-mini-negro/1123459233",
+   "img": "https://sp101.liverpool.com.mx/i/1123459233.jpg",
+   "category": "Cafeteras",
+   "price_old": 4999.0,
+   "price_new": 2799.0,
+   "pct": 44.0,
+   "amount": 2200.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 2799.0
   },
   {
    "id": "1197122851",
@@ -11719,22 +12519,6 @@
    "h_min": 28359.0
   },
   {
-   "id": "1184393669",
-   "name": "KESSA Sala 2 piezas Nathan de velvet",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-nathan-de-velvet/1184393669",
-   "img": "https://ss101.liverpool.com.mx/lg/1184393669.jpg",
-   "category": "Salas",
-   "price_old": 43679.0,
-   "price_new": 28359.0,
-   "pct": 35.1,
-   "amount": 15320.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 28359.0
-  },
-  {
    "id": "1162028771",
    "name": "KESSA Set Recámara Cristal de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-cristal-de-mdf/1162028771",
@@ -11831,6 +12615,38 @@
    "h_min": 27989.0
   },
   {
+   "id": "1117424576",
+   "name": "ODIPO Horno eléctrico freidora 25 l",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-freidora-25-l/1117424576",
+   "img": "https://sp625.liverpool.com.mx/i/1117424576.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5850.0,
+   "price_new": 3329.9,
+   "pct": 43.1,
+   "amount": 2520.1,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3329.9
+  },
+  {
+   "id": "999685781789",
+   "name": "EXCELSIOR Cajón microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/caj-n-microondas/999685781789",
+   "img": "https://sp101.liverpool.com.mx/i/1207163151.jpg",
+   "category": "Microondas",
+   "price_old": 7199.0,
+   "price_new": 4166.0,
+   "pct": 42.1,
+   "amount": 3033.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4166.0
+  },
+  {
    "id": "1139595781",
    "name": "EUROGAR Parrilla a gas lp empotrable multigas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-a-gas-lp-empotrable-multigas/1139595781",
@@ -11847,6 +12663,54 @@
    "h_min": 2199.0
   },
   {
+   "id": "1153613547",
+   "name": "NINJA Freidora de aire 3.7 L Af100Wm",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-3-7-l-af100wm/1153613547",
+   "img": "https://ss625.liverpool.com.mx/lg/1153613547.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3999.0,
+   "price_new": 2199.0,
+   "pct": 45.0,
+   "amount": 1800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2199.0
+  },
+  {
+   "id": "1112867143",
+   "name": "NINJA Freidora de aceite Foodi 3.8 L Af101",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-foodi-3-8-l-af101/1112867143",
+   "img": "https://sp625.liverpool.com.mx/i/1112867143.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3999.0,
+   "price_new": 2199.0,
+   "pct": 45.0,
+   "amount": 1800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2199.0
+  },
+  {
+   "id": "99993174773",
+   "name": "HONOR X7d LCD / TFT 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas/99993174773",
+   "img": "https://ss632.liverpool.com.mx/lg/1191217795.jpg",
+   "category": "Celulares",
+   "price_old": 8000.0,
+   "price_new": 4669.0,
+   "pct": 41.6,
+   "amount": 3331.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4669.0
+  },
+  {
    "id": "1170125513",
    "name": "KESSA Set recámara Marcela King",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-marcela-king/1170125513",
@@ -11861,22 +12725,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 27779.0
-  },
-  {
-   "id": "99993174773",
-   "name": "HONOR X7d LCD / TFT 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas/99993174773",
-   "img": "https://ss632.liverpool.com.mx/lg/1191217795.jpg",
-   "category": "Celulares",
-   "price_old": 8000.0,
-   "price_new": 4671.0,
-   "pct": 41.6,
-   "amount": 3329.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 4671.0
   },
   {
    "id": "999680064616",
@@ -11927,6 +12775,22 @@
    "h_min": 1899.0
   },
   {
+   "id": "999681310253",
+   "name": "HONOR X7D LCD 6.77 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-6-77-pulgadas/999681310253",
+   "img": "https://sp101.liverpool.com.mx/i/1202890004.jpg",
+   "category": "Celulares",
+   "price_old": 7990.0,
+   "price_new": 4669.0,
+   "pct": 41.6,
+   "amount": 3321.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4669.0
+  },
+  {
    "id": "1172660386",
    "name": "SUPRA Frigobar Whistler 3.5 pies cúbicos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/frigobar-whistler-3-5-pies-c-bicos/1172660386",
@@ -11973,6 +12837,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 849.0
+  },
+  {
+   "id": "1194008011",
+   "name": "BABYLISS PRO Secadora de cabello Nanotitanium BNTMB5548",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-nanotitanium-bntmb5548/1194008011",
+   "img": "https://ss705.liverpool.com.mx/lg/1194008011.jpg",
+   "category": "Secadoras",
+   "price_old": 4169.0,
+   "price_new": 2304.0,
+   "pct": 44.7,
+   "amount": 1865.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2304.0
   },
   {
    "id": "1142296892",
@@ -12039,22 +12919,6 @@
    "h_min": 11790.0
   },
   {
-   "id": "999681310253",
-   "name": "HONOR X7D LCD 6.77 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-6-77-pulgadas/999681310253",
-   "img": "https://sp101.liverpool.com.mx/i/1202890004.jpg",
-   "category": "Celulares",
-   "price_old": 7990.0,
-   "price_new": 4671.0,
-   "pct": 41.5,
-   "amount": 3319.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 4671.0
-  },
-  {
    "id": "1188093317",
    "name": "KESSA Set recámara Janis de mdf",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-janis-de-mdf/1188093317",
@@ -12101,6 +12965,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 13779.0
+  },
+  {
+   "id": "1128199001",
+   "name": "ASUS Monitor standard full HD 27 pulgadas VA27EQSB",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-27-pulgadas-va27eqsb/1128199001",
+   "img": "https://ss628.liverpool.com.mx/lg/1128199001.jpg",
+   "category": "Monitores",
+   "price_old": 7539.0,
+   "price_new": 4399.0,
+   "pct": 41.7,
+   "amount": 3140.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4399.0
   },
   {
    "id": "1184447874",
@@ -12325,6 +13205,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 25919.0
+  },
+  {
+   "id": "1184996061",
+   "name": "BABYLISS Set alaciadora secadora BNTPP55 6 piezas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-alaciadora-secadora-bntpp55-6-piezas/1184996061",
+   "img": "https://ss706.liverpool.com.mx/lg/1184996061.jpg",
+   "category": "Secadoras",
+   "price_old": 10339.0,
+   "price_new": 6179.0,
+   "pct": 40.2,
+   "amount": 4160.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6179.0
   },
   {
    "id": "1116421603",
@@ -12647,6 +13543,22 @@
    "h_min": 1979.45
   },
   {
+   "id": "1139240703",
+   "name": "LATTAFA Eau de parfum Yara para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-yara-para-mujer/1139240703",
+   "img": "https://sp701.liverpool.com.mx/i/1139240703.jpg",
+   "category": "Perfumes",
+   "price_old": 1399.0,
+   "price_new": 690.95,
+   "pct": 50.6,
+   "amount": 708.05,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 690.95
+  },
+  {
    "id": "1150086279",
    "name": "SANSUI Pantalla Smart TV LED de 50 pulgadas 4K SMX50VAUG con Google TV",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-led-de-50-pulgadas-4k-smx50vaug-con-google-tv/1150086279",
@@ -12661,22 +13573,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 5990.0
-  },
-  {
-   "id": "1139240703",
-   "name": "LATTAFA Eau de parfum Yara para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-yara-para-mujer/1139240703",
-   "img": "https://sp701.liverpool.com.mx/i/1139240703.jpg",
-   "category": "Perfumes",
-   "price_old": 1399.0,
-   "price_new": 690.99,
-   "pct": 50.6,
-   "amount": 708.01,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 690.99
   },
   {
    "id": "1153201893",
@@ -12727,10 +13623,10 @@
    "h_min": 23819.0
   },
   {
-   "id": "1195256019",
-   "name": "KESSA Sala modular catania de lino no",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-catania-de-lino-no/1195256019",
-   "img": "https://sp101.liverpool.com.mx/i/1195256019-sala-modular-catania-2-2-e-k.jpg",
+   "id": "999670228827",
+   "name": "KESSA Sala modular Catania de Lino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-catania-de-lino/999670228827",
+   "img": "https://sp101.liverpool.com.mx/i/1197250981-catania-kessa-lino.jpg",
    "category": "Salas",
    "price_old": 36669.0,
    "price_new": 23809.0,
@@ -12743,10 +13639,10 @@
    "h_min": 23809.0
   },
   {
-   "id": "999670228827",
-   "name": "KESSA Sala modular Catania de Lino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-catania-de-lino/999670228827",
-   "img": "https://sp101.liverpool.com.mx/i/1197250981-catania-kessa-lino.jpg",
+   "id": "1195256019",
+   "name": "KESSA Sala modular catania de lino no",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-catania-de-lino-no/1195256019",
+   "img": "https://sp101.liverpool.com.mx/i/1195256019-sala-modular-catania-2-2-e-k.jpg",
    "category": "Salas",
    "price_old": 36669.0,
    "price_new": 23809.0,
@@ -13373,14 +14269,14 @@
    "img": "https://ss630.liverpool.com.mx/lg/1194082513.jpg",
    "category": "Audifonos",
    "price_old": 1207.0,
-   "price_new": 590.76,
+   "price_new": 590.68,
    "pct": 51.1,
-   "amount": 616.24,
+   "amount": 616.32,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 590.76
+   "h_min": 590.68
   },
   {
    "id": "999680053609",
@@ -13511,6 +14407,22 @@
    "h_min": 2795.0
   },
   {
+   "id": "1181560025",
+   "name": "SAMSUNG Monitor gamer Odyssey G3 standard Full HD 32 pulgadas LS32DG300ELXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-odyssey-g3-standard-full-hd-32-pulgadas-ls32dg300elxzx/1181560025",
+   "img": "https://ss628.liverpool.com.mx/lg/1181560025.jpg",
+   "category": "Monitores",
+   "price_old": 9998.0,
+   "price_new": 6036.0,
+   "pct": 39.6,
+   "amount": 3962.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6036.0
+  },
+  {
    "id": "1170362582",
    "name": "KESSA Set Recámara Ibiza de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-ibiza-de-mdf/1170362582",
@@ -13557,6 +14469,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 15999.0
+  },
+  {
+   "id": "1187071051",
+   "name": "BELUG Secador para calzado eléctrico",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secador-para-calzado-el-ctrico/1187071051",
+   "img": "https://sp625.liverpool.com.mx/i/1187071051.jpg",
+   "category": "Secadoras",
+   "price_old": 1207.0,
+   "price_new": 592.51,
+   "pct": 50.9,
+   "amount": 614.49,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 592.51
   },
   {
    "id": "999682030159",
@@ -14135,6 +15063,38 @@
    "h_min": 399.0
   },
   {
+   "id": "99982415992",
+   "name": "PRODIGEE Funda para iPhone de policarbonato",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-de-policarbonato/99982415992",
+   "img": "https://sp101.liverpool.com.mx/i/1172610991.jpg",
+   "category": "Iphone",
+   "price_old": 849.0,
+   "price_new": 399.0,
+   "pct": 53.0,
+   "amount": 450.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 399.0
+  },
+  {
+   "id": "999683076196",
+   "name": "EXCELSIOR Microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas/999683076196",
+   "img": "https://sp101.liverpool.com.mx/i/1204847530.jpg",
+   "category": "Microondas",
+   "price_old": 8399.0,
+   "price_new": 5039.0,
+   "pct": 40.0,
+   "amount": 3360.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5039.0
+  },
+  {
    "id": "99961979784",
    "name": "GRAVEL Bicicleta de montaña rodada 26 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-26-unisex/99961979784",
@@ -14375,6 +15335,22 @@
    "h_min": 15298.0
   },
   {
+   "id": "999681431772",
+   "name": "DAEWOO Secadora de cabello DW-SE3DW-PA",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-se3dw-pa/999681431772",
+   "img": "https://sp101.liverpool.com.mx/i/1203909582.jpg",
+   "category": "Secadoras",
+   "price_old": 1899.0,
+   "price_new": 999.0,
+   "pct": 47.4,
+   "amount": 900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 999.0
+  },
+  {
    "id": "1162648795",
    "name": "KESSA Set Recámara Versalles de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-versalles-de-mdf/1162648795",
@@ -14583,6 +15559,22 @@
    "h_min": 17839.0
   },
   {
+   "id": "999683570440",
+   "name": "VANLIG Secadora de cabello vaporizador capilar secadora de pelo kiyomi negro",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-vaporizador-capilar-secadora-de-pelo-kiyomi-negro/999683570440",
+   "img": "https://sp101.liverpool.com.mx/i/1204907354.jpg",
+   "category": "Secadoras",
+   "price_old": 5998.0,
+   "price_new": 3529.0,
+   "pct": 41.2,
+   "amount": 2469.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3529.0
+  },
+  {
    "id": "999675987531",
    "name": "KESSA Set recámara Eva de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-eva-de-mdf/999675987531",
@@ -14597,6 +15589,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 17629.0
+  },
+  {
+   "id": "1148580550",
+   "name": "APPLE iPhone 14 PRO MAX 6.7 pulgadas AMOLED Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-14-pro-max-6-7-pulgadas-amoled-reacondicionado/1148580550",
+   "img": "https://sp632.liverpool.com.mx/i/1148580550.jpg",
+   "category": "Iphone",
+   "price_old": 17359.0,
+   "price_new": 10989.0,
+   "pct": 36.7,
+   "amount": 6370.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 10989.0
   },
   {
    "id": "1188395194",
@@ -14709,6 +15717,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 17279.0
+  },
+  {
+   "id": "999673902360",
+   "name": "BLUELANDER Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999673902360",
+   "img": "https://sp101.liverpool.com.mx/i/1199731056.jpg",
+   "category": "Secadoras",
+   "price_old": 1199.0,
+   "price_new": 599.0,
+   "pct": 50.0,
+   "amount": 600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 599.0
   },
   {
    "id": "1133058091",
@@ -15111,6 +16135,38 @@
    "h_min": 7999.0
   },
   {
+   "id": "1154162107",
+   "name": "KIREI BLOOM Secadora de cabello KBS001",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-kbs001/1154162107",
+   "img": "https://ss705.liverpool.com.mx/lg/1154162107.jpg",
+   "category": "Secadoras",
+   "price_old": 3200.0,
+   "price_new": 1800.0,
+   "pct": 43.8,
+   "amount": 1400.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1800.0
+  },
+  {
+   "id": "99978125325",
+   "name": "KIREI BLOOM Secadora de cabello KBDR",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-kbdr/99978125325",
+   "img": "https://sp705.liverpool.com.mx/i/1166731425.jpg",
+   "category": "Secadoras",
+   "price_old": 3200.0,
+   "price_new": 1800.0,
+   "pct": 43.8,
+   "amount": 1400.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1800.0
+  },
+  {
    "id": "1163157558",
    "name": "MARSHALL Bocina Acton III bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-acton-iii-bluetooth/1163157558",
@@ -15207,6 +16263,22 @@
    "h_min": 15409.0
   },
   {
+   "id": "1164467810",
+   "name": "DAEWOO Secadora de cabello DW-CA",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-ca/1164467810",
+   "img": "https://ss706.liverpool.com.mx/lg/1164467810.jpg",
+   "category": "Secadoras",
+   "price_old": 1099.0,
+   "price_new": 549.0,
+   "pct": 50.0,
+   "amount": 550.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 549.0
+  },
+  {
    "id": "1162821578",
    "name": "NUTRIBULLET SET LICUADORA PERSONAL ?NBR-0601, GRISB",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nbr-0601-grisb/1162821578",
@@ -15218,6 +16290,22 @@
    "amount": 1700.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2299.0
+  },
+  {
+   "id": "1165721370",
+   "name": "YEYIAN Monitor gamer standard full HD 27 pulgadas 180HzAvanceYMF-IPF27G1",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-full-hd-27-pulgadas-180hzavanceymf-ipf27g1/1165721370",
+   "img": "https://sp628.liverpool.com.mx/i/1165721370.jpg",
+   "category": "Monitores",
+   "price_old": 3999.0,
+   "price_new": 2299.0,
+   "pct": 42.5,
+   "amount": 1700.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2299.0
@@ -15397,22 +16485,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 9449.0
-  },
-  {
-   "id": "1189180175",
-   "name": "KESSA Set recámara Vizela de mdf",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-vizela-de-mdf/1189180175",
-   "img": "https://ss101.liverpool.com.mx/lg/1189180175.jpg",
-   "category": "Recamaras",
-   "price_old": 22499.0,
-   "price_new": 14609.0,
-   "pct": 35.1,
-   "amount": 7890.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 14609.0
   },
   {
    "id": "999680136698",
@@ -15623,6 +16695,22 @@
    "h_min": 8199.0
   },
   {
+   "id": "99979792781",
+   "name": "APPLE iPhone 14 6.1 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-14-6-1-pulgadas-super-retina-xdr-reacondicionado/99979792781",
+   "img": "https://sp632.liverpool.com.mx/i/1169259298.jpg",
+   "category": "Iphone",
+   "price_old": 12999.0,
+   "price_new": 8199.0,
+   "pct": 36.9,
+   "amount": 4800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 8199.0
+  },
+  {
    "id": "1147799396",
    "name": "PLAYSTATION Rogue Stormers estándar para PS4",
    "url": "https://www.liverpool.com.mx/tienda/pdp/rogue-stormers-est-ndar-para-ps4/1147799396",
@@ -15735,6 +16823,22 @@
    "h_min": 9890.0
   },
   {
+   "id": "1159156059",
+   "name": "GADGETS & FUN Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1159156059",
+   "img": "https://sp706.liverpool.com.mx/i/1159156059.jpg",
+   "category": "Secadoras",
+   "price_old": 2999.0,
+   "price_new": 1695.0,
+   "pct": 43.5,
+   "amount": 1304.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1695.0
+  },
+  {
    "id": "1155002880",
    "name": "QCY Audífonos True Wireless T13 Anc 2 inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-t13-anc-2-inal-mbricos-con-cancelaci-n-de-ruido/1155002880",
@@ -15746,6 +16850,22 @@
    "amount": 500.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 499.0
+  },
+  {
+   "id": "999672813790",
+   "name": "GENÉRICA Funda para Iphone Genèrica MagSafe de TPU",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-gen-rica-magsafe-de-tpu/999672813790",
+   "img": "https://sp101.liverpool.com.mx/i/1197988106-funda-iphone-magsafe-tpu.jpg",
+   "category": "Iphone",
+   "price_old": 999.0,
+   "price_new": 499.0,
+   "pct": 50.1,
+   "amount": 500.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 499.0
@@ -15847,6 +16967,22 @@
    "h_min": 789.0
   },
   {
+   "id": "99991874829",
+   "name": "APPLE iPhone 16 Pro Max 6.9 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-16-pro-max-6-9-pulgadas-super-retina-xdr-reacondicionado/99991874829",
+   "img": "https://ss632.liverpool.com.mx/lg/1188865956.jpg",
+   "category": "Iphone",
+   "price_old": 29899.0,
+   "price_new": 19799.0,
+   "pct": 33.8,
+   "amount": 10100.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 19799.0
+  },
+  {
    "id": "999670228408",
    "name": "KESSA Sala modular Italia de Lino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-italia-de-lino/999670228408",
@@ -15863,6 +16999,38 @@
    "h_min": 13269.0
   },
   {
+   "id": "1195252374",
+   "name": "KESSA Sala modular de lino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-lino/1195252374",
+   "img": "https://sp101.liverpool.com.mx/i/1195252374.jpg",
+   "category": "Salas",
+   "price_old": 20439.0,
+   "price_new": 13269.0,
+   "pct": 35.1,
+   "amount": 7170.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 13269.0
+  },
+  {
+   "id": "1177755211",
+   "name": "GENÉRICA Funda para iPhone 16e de plástico",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-16e-de-pl-stico/1177755211",
+   "img": "https://sp637.liverpool.com.mx/i/1177755211.jpg",
+   "category": "Iphone",
+   "price_old": 998.0,
+   "price_new": 499.0,
+   "pct": 50.0,
+   "amount": 499.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 499.0
+  },
+  {
    "id": "1128448973",
    "name": "KESSA Set recámara Pamela de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-pamela-de-mdf/1128448973",
@@ -15877,6 +17045,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 13229.0
+  },
+  {
+   "id": "1179532201",
+   "name": "BOGNER Horno eléctrico freidora BAF300 30 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-freidora-baf300-30-l/1179532201",
+   "img": "https://ss625.liverpool.com.mx/lg/1179532201.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5999.0,
+   "price_new": 3599.4,
+   "pct": 40.0,
+   "amount": 2399.6,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3599.4
   },
   {
    "id": "1189189601",
@@ -15922,6 +17106,22 @@
    "amount": 14409.6,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 29899.0
+  },
+  {
+   "id": "1155548238",
+   "name": "DICASA Sala 3 piezas OSLO de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-oslo-de-tela/1155548238",
+   "img": "https://sp101.liverpool.com.mx/i/1155548238.jpg",
+   "category": "Salas",
+   "price_old": 44308.6,
+   "price_new": 29899.0,
+   "pct": 32.5,
+   "amount": 14409.6,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 29899.0
@@ -16021,6 +17221,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 1029.0
+  },
+  {
+   "id": "1187041291",
+   "name": "BELUG Molde para freidora de aire",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/molde-para-freidora-de-aire/1187041291",
+   "img": "https://sp623.liverpool.com.mx/i/1187041291.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1379.89,
+   "price_new": 721.16,
+   "pct": 47.7,
+   "amount": 658.73,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 721.16
   },
   {
    "id": "1185549611",
@@ -16165,6 +17381,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 12499.0
+  },
+  {
+   "id": "999668496695",
+   "name": "MABE Horno de microondas modelo HMM07SBW de 0.7 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-modelo-hmm07sbw-de-0-7-pies/999668496695",
+   "img": "https://sp101.liverpool.com.mx/i/1194772269-horno-microondas-mabe-modelo.jpg",
+   "category": "Microondas",
+   "price_old": 3650.0,
+   "price_new": 2114.0,
+   "pct": 42.1,
+   "amount": 1536.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2114.0
   },
   {
    "id": "1155143114",
@@ -16327,6 +17559,22 @@
    "h_min": 6190.0
   },
   {
+   "id": "1192080114",
+   "name": "BELUG Lonchera térmica",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/lonchera-t-rmica/1192080114",
+   "img": "https://ss623.liverpool.com.mx/lg/1192080114.jpg",
+   "category": "Refrigeradores",
+   "price_old": 1499.0,
+   "price_new": 795.79,
+   "pct": 46.9,
+   "amount": 703.21,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 795.79
+  },
+  {
    "id": "1180792127",
    "name": "SONGMICS HOME Mesa armable Baris de cristal",
    "url": "https://www.liverpool.com.mx/tienda/pdp/mesa-armable-baris-de-cristal/1180792127",
@@ -16341,6 +17589,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1698.56
+  },
+  {
+   "id": "1067914593",
+   "name": "LG Horno de microondas convencional modelo MS2096JSS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-ms2096jss/1067914593",
+   "img": "https://sp625.liverpool.com.mx/i/1067914593.jpg",
+   "category": "Microondas",
+   "price_old": 8099.0,
+   "price_new": 4999.0,
+   "pct": 38.3,
+   "amount": 3100.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4999.0
   },
   {
    "id": "1128255067",
@@ -16551,6 +17815,22 @@
    "h_min": 1099.0
   },
   {
+   "id": "1139376010",
+   "name": "QTOUCH Monitor standard full HD 19 pulgadas QT-1900",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-19-pulgadas-qt-1900/1139376010",
+   "img": "https://sp628.liverpool.com.mx/i/1139376010.jpg",
+   "category": "Monitores",
+   "price_old": 1499.0,
+   "price_new": 799.0,
+   "pct": 46.7,
+   "amount": 700.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 799.0
+  },
+  {
    "id": "1172660947",
    "name": "NUTRIBULLET LICUADORA PERSONAL FLIP INSULAT, NEGROI",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-personal-flip-insulat-negroi/1172660947",
@@ -16711,6 +17991,22 @@
    "h_min": 6890.0
   },
   {
+   "id": "1194876498",
+   "name": "SANSUI Monitor gamer Es-G27C1 Freesync Full HD 27 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-es-g27c1-freesync-full-hd-27-pulgadas/1194876498",
+   "img": "https://sp628.liverpool.com.mx/i/1194876498.jpg",
+   "category": "Monitores",
+   "price_old": 4990.0,
+   "price_new": 2990.0,
+   "pct": 40.1,
+   "amount": 2000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2990.0
+  },
+  {
    "id": "1142036700",
    "name": "JVC Pantalla Smart TV LCD de 50 pulgadas 4K SI50URF con Roku TV",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lcd-de-50-pulgadas-4k-si50urf-con-roku-tv/1142036700",
@@ -16725,6 +18021,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 5799.0
+  },
+  {
+   "id": "1144639711",
+   "name": "LG Horno de microondas con grill modelo MH1596DIR de 1.5 pies cúbicos",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-con-grill-modelo-mh1596dir-de-1-5-pies-c-bicos/1144639711",
+   "img": "https://sp625.liverpool.com.mx/i/1144639711.jpg",
+   "category": "Microondas",
+   "price_old": 6199.0,
+   "price_new": 3776.67,
+   "pct": 39.1,
+   "amount": 2422.33,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3776.67
+  },
+  {
+   "id": "99994810486",
+   "name": "APPLE Iphone 16 Plus Super Retina XDR 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-16-plus-super-retina-xdr-6-7-pulgadas/99994810486",
+   "img": "https://ss632.liverpool.com.mx/lg/1194815596.jpg",
+   "category": "Iphone",
+   "price_old": 25899.0,
+   "price_new": 17199.0,
+   "pct": 33.6,
+   "amount": 8700.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 17199.0
   },
   {
    "id": "999681356823",
@@ -17015,22 +18343,6 @@
    "h_min": 745.0
   },
   {
-   "id": "1209279289",
-   "name": "LG Pantalla smart tv mini led qned de 4k 65lx7.m7 con webos con ai picture",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-mini-led-qned-de-4k-65lx7-m7-con-webos-con-ai-picture/1209279289",
-   "img": "https://sp629.liverpool.com.mx/i/1209279289.jpg",
-   "category": "Pantallas",
-   "price_old": 47999.0,
-   "price_new": 32856.0,
-   "pct": 31.5,
-   "amount": 15143.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 32856.0
-  },
-  {
    "id": "1120665282",
    "name": "WHIRLPOOL Lavadora 20 kg automática carga superior 8mwtw-2024mjm",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-20-kg-autom-tica-carga-superior-8mwtw-2024mjm/1120665282",
@@ -17109,6 +18421,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 6380.0
+  },
+  {
+   "id": "1180273871",
+   "name": "DAEWOO Freidora de aire 4.5 L Daf-1886-Gris",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-4-5-l-daf-1886-gris/1180273871",
+   "img": "https://sp625.liverpool.com.mx/i/1180273871.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2659.0,
+   "price_new": 1519.0,
+   "pct": 42.9,
+   "amount": 1140.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1519.0
   },
   {
    "id": "1087814340",
@@ -17287,6 +18615,22 @@
    "h_min": 4399.0
   },
   {
+   "id": "1181378740",
+   "name": "APPLE iPhone 16 Plus 6.7 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-16-plus-6-7-pulgadas-super-retina-xdr-reacondicionado/1181378740",
+   "img": "https://ss632.liverpool.com.mx/lg/1181378740.jpg",
+   "category": "Iphone",
+   "price_old": 22599.0,
+   "price_new": 14999.0,
+   "pct": 33.6,
+   "amount": 7600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 14999.0
+  },
+  {
    "id": "1134544160",
    "name": "BARTECH LICUADORA BT-55-PL-B1-W BARTEC, BLANCO",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-bt-55-pl-b1-w-bartec-blanco/1134544160",
@@ -17381,22 +18725,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 729.0
-  },
-  {
-   "id": "1161240709",
-   "name": "KOBLENZ Lavadora doble tina 13 kg manual carga superior ldm-13blanca",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-13-kg-manual-carga-superior-ldm-13blanca/1161240709",
-   "img": "https://sp634.liverpool.com.mx/i/1161240709.jpg",
-   "category": "Lavadoras",
-   "price_old": 8558.0,
-   "price_new": 5379.0,
-   "pct": 37.1,
-   "amount": 3179.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 5379.0
   },
   {
    "id": "1162465976",
@@ -17509,6 +18837,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 6990.0
+  },
+  {
+   "id": "1128160236",
+   "name": "REVLON Secadora de cabello RVDR5224",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-rvdr5224/1128160236",
+   "img": "https://sp706.liverpool.com.mx/i/1128160236.jpg",
+   "category": "Secadoras",
+   "price_old": 1529.0,
+   "price_new": 836.99,
+   "pct": 45.3,
+   "amount": 692.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 836.99
   },
   {
    "id": "1135695081",
@@ -17959,6 +19303,22 @@
    "h_min": 10185.0
   },
   {
+   "id": "1158270192",
+   "name": "GENÉRICA Molde para freidora de aire",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/molde-para-freidora-de-aire/1158270192",
+   "img": "https://sp623.liverpool.com.mx/i/1158270192.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1119.0,
+   "price_new": 594.93,
+   "pct": 46.8,
+   "amount": 524.07,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 594.93
+  },
+  {
    "id": "999680450637",
    "name": "NUUR Campana de pared CAMEXPADECO39TUBO-N de acero inoxidable",
    "url": "https://www.liverpool.com.mx/tienda/pdp/campana-de-pared-camexpadeco39tubo-n-de-acero-inoxidable/999680450637",
@@ -18359,36 +19719,20 @@
    "h_min": 16347.6
   },
   {
-   "id": "1191572021",
-   "name": "ARMAF Set Eau de parfum Mandarin Sky para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-mandarin-sky-para-hombre/1191572021",
-   "img": "https://sp701.liverpool.com.mx/i/1191572021.jpg",
-   "category": "Perfumes",
-   "price_old": 1500.0,
-   "price_new": 829.4,
+   "id": "1189287913",
+   "name": "RED DEAD REDEMPTION estándar para Nintendo Switch",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/red-dead-redemption-est-ndar-para-nintendo-switch/1189287913",
+   "img": "https://ss423.liverpool.com.mx/lg/1189287913.jpg",
+   "category": "Consolas",
+   "price_old": 1499.0,
+   "price_new": 829.0,
    "pct": 44.7,
-   "amount": 670.6,
+   "amount": 670.0,
    "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 829.4
-  },
-  {
-   "id": "1155106979",
-   "name": "ACROS Estufa de piso a gas lp 76.2 cm AFR2110B de 6 quemadores",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-76-2-cm-afr2110b-de-6-quemadores/1155106979",
-   "img": "https://sp634.liverpool.com.mx/i/1155106979.jpg",
-   "category": "Estufas",
-   "price_old": 12748.0,
-   "price_new": 8329.0,
-   "pct": 34.7,
-   "amount": 4419.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 7859.0
+   "h_min": 829.0
   },
   {
    "id": "1156101130",
@@ -18503,6 +19847,22 @@
    "h_min": 10599.0
   },
   {
+   "id": "1164467801",
+   "name": "DAEWOO Secadora de cabello DW-SE3",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-se3/1164467801",
+   "img": "https://ss706.liverpool.com.mx/lg/1164467801.jpg",
+   "category": "Secadoras",
+   "price_old": 1199.0,
+   "price_new": 649.0,
+   "pct": 45.9,
+   "amount": 550.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 649.0
+  },
+  {
    "id": "1129243364",
    "name": "HP Laptop 240 G8 14 pulgadas HD Intel Core i3 Intel UHD Graphics 8 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240-g8-14-pulgadas-hd-intel-core-i3-intel-uhd-graphics-8-gb-ram-512-gb-ss/1129243364",
@@ -18549,6 +19909,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 757.22
+  },
+  {
+   "id": "99991849493",
+   "name": "APPLE Iphone 13 Pro Max Super Retina XDR 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-13-pro-max-super-retina-xdr-6-7-pulgadas/99991849493",
+   "img": "https://ss632.liverpool.com.mx/lg/1189580564.jpg",
+   "category": "Iphone",
+   "price_old": 15699.0,
+   "price_new": 10399.0,
+   "pct": 33.8,
+   "amount": 5300.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 10399.0
   },
   {
    "id": "1191389989",
@@ -18807,22 +20183,6 @@
    "h_min": 3096.0
   },
   {
-   "id": "1184294865",
-   "name": "XTELLAR Bocina recargable XTLLAR5785 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-xtllar5785-bluetooth/1184294865",
-   "img": "https://ss630.liverpool.com.mx/lg/1184294865.jpg",
-   "category": "Bocinas",
-   "price_old": 1133.0,
-   "price_new": 613.44,
-   "pct": 45.9,
-   "amount": 519.56,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 613.44
-  },
-  {
    "id": "999684025625",
    "name": "ASUS Laptop 14 pulgadas ExpertBook P1 Full HD AMD Radeon 16 GB RAM 512 GB",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-14-pulgadas-expertbook-p1-full-hd-amd-radeon-16-gb-ram-512-gb/999684025625",
@@ -18871,6 +20231,22 @@
    "h_min": 299.0
   },
   {
+   "id": "1179526839",
+   "name": "BOGNER Freidora de aire con compartimento único 3.3 L baf03",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-3-3-l-baf03/1179526839",
+   "img": "https://sp625.liverpool.com.mx/i/1179526839.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1679.0,
+   "price_new": 949.0,
+   "pct": 43.5,
+   "amount": 730.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 949.0
+  },
+  {
    "id": "1186697746",
    "name": "SWISS CODE Audífonos In-Ear Aura inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-aura-inal-mbricos/1186697746",
@@ -18903,6 +20279,54 @@
    "h_min": 339.0
   },
   {
+   "id": "99977679276",
+   "name": "APPLE iPhone 15 + 6.7 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-6-7-pulgadas-super-retina-xdr-reacondicionado/99977679276",
+   "img": "https://sp632.liverpool.com.mx/i/1166066073.jpg",
+   "category": "Iphone",
+   "price_old": 15799.0,
+   "price_new": 10499.0,
+   "pct": 33.5,
+   "amount": 5300.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 10499.0
+  },
+  {
+   "id": "9946797305",
+   "name": "MIDEA Horno de microondas convencional modelo MMDX11S2BW",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-mmdx11s2bw/9946797305",
+   "img": "https://sp101.liverpool.com.mx/i/1127422563.jpg",
+   "category": "Microondas",
+   "price_old": 4699.0,
+   "price_new": 2899.0,
+   "pct": 38.3,
+   "amount": 1800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2899.0
+  },
+  {
+   "id": "1161348241",
+   "name": "JRL Secadora de cabello Forte Pro FP 2020L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-forte-pro-fp-2020l/1161348241",
+   "img": "https://sp705.liverpool.com.mx/i/1161348241.jpg",
+   "category": "Secadoras",
+   "price_old": 2189.0,
+   "price_new": 1269.0,
+   "pct": 42.0,
+   "amount": 920.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1269.0
+  },
+  {
    "id": "99967335894",
    "name": "SWISS CODE Audífonos In-Ear Seed 2 inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-seed-2-inal-mbricos/99967335894",
@@ -18919,6 +20343,38 @@
    "h_min": 439.0
   },
   {
+   "id": "999674189063",
+   "name": "BABYLISS PRO Secadora de cabello nanotitanium bntpp79",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-nanotitanium-bntpp79/999674189063",
+   "img": "https://sp101.liverpool.com.mx/i/1200125921-babyliss-pro-nanotitanium-bn.jpg",
+   "category": "Secadoras",
+   "price_old": 7049.0,
+   "price_new": 4479.0,
+   "pct": 36.5,
+   "amount": 2570.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4479.0
+  },
+  {
+   "id": "1084200618",
+   "name": "GE Horno de microondas de convección neral Electric modelo M07SEJ",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-de-convecci-n-neral-electric-modelo-m07sej/1084200618",
+   "img": "https://sp625.liverpool.com.mx/i/1084200618.jpg",
+   "category": "Microondas",
+   "price_old": 3650.0,
+   "price_new": 2213.0,
+   "pct": 39.4,
+   "amount": 1437.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2213.0
+  },
+  {
    "id": "999681156204",
    "name": "TEDDY SMITH Tenis para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999681156204",
@@ -18933,6 +20389,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1755.99
+  },
+  {
+   "id": "1097997914",
+   "name": "CROC Secadora de cabello Ice",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-ice/1097997914",
+   "img": "https://sp706.liverpool.com.mx/i/1097997914.jpg",
+   "category": "Secadoras",
+   "price_old": 6470.0,
+   "price_new": 4089.0,
+   "pct": 36.8,
+   "amount": 2381.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4089.0
   },
   {
    "id": "999685764116",
@@ -18999,6 +20471,22 @@
    "h_min": 5999.4
   },
   {
+   "id": "999680366459",
+   "name": "JRL Secadora de cabello FP202L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-fp202l/999680366459",
+   "img": "https://sp101.liverpool.com.mx/i/1202009995.jpg",
+   "category": "Secadoras",
+   "price_old": 2199.0,
+   "price_new": 1279.0,
+   "pct": 41.8,
+   "amount": 920.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1279.0
+  },
+  {
    "id": "1176799818",
    "name": "FOSET Parrilla de inducción de vidrio templado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-de-inducci-n-de-vidrio-templado/1176799818",
@@ -19013,6 +20501,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 5636.44
+  },
+  {
+   "id": "1157293580",
+   "name": "SAMSUNG Monitor standard 4K 27 pulgadas LS27D700EALXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-4k-27-pulgadas-ls27d700ealxzx/1157293580",
+   "img": "https://sp628.liverpool.com.mx/i/1157293580.jpg",
+   "category": "Monitores",
+   "price_old": 8099.0,
+   "price_new": 5199.0,
+   "pct": 35.8,
+   "amount": 2900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5199.0
   },
   {
    "id": "1157494798",
@@ -19125,6 +20629,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2073.0
+  },
+  {
+   "id": "99963272972",
+   "name": "APPLE iPhone 13 Pro 6.1 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-13-pro-6-1-pulgadas-super-retina-xdr-reacondicionado/99963272972",
+   "img": "https://sp632.liverpool.com.mx/i/1142284762.jpg",
+   "category": "Iphone",
+   "price_old": 13599.0,
+   "price_new": 8999.0,
+   "pct": 33.8,
+   "amount": 4600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 8999.0
+  },
+  {
+   "id": "1115640191",
+   "name": "NINJA Freidora de aire Ag302",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-ag302/1115640191",
+   "img": "https://sp625.liverpool.com.mx/i/1115640191.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 13187.0,
+   "price_new": 8710.99,
+   "pct": 33.9,
+   "amount": 4476.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 8710.99
   },
   {
    "id": "999673637854",
@@ -19463,6 +20999,22 @@
    "h_min": 14999.0
   },
   {
+   "id": "1183404853",
+   "name": "BABYLISS PRO Secadora de cabello Nanotitanium",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-nanotitanium/1183404853",
+   "img": "https://ss706.liverpool.com.mx/lg/1183404853.jpg",
+   "category": "Secadoras",
+   "price_old": 3639.0,
+   "price_new": 2219.0,
+   "pct": 39.0,
+   "amount": 1420.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2219.0
+  },
+  {
    "id": "1135462426",
    "name": "ACROS Lavadora 15 kg manual carga superior alf1551er",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-15-kg-manual-carga-superior-alf1551er/1135462426",
@@ -19477,6 +21029,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 5169.0
+  },
+  {
+   "id": "99973551119",
+   "name": "APPLE iPhone 14 Pro 6.1 pulgadas Super Retina XDR Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-14-pro-6-1-pulgadas-super-retina-xdr-reacondicionado/99973551119",
+   "img": "https://sp632.liverpool.com.mx/i/1159245248.jpg",
+   "category": "Iphone",
+   "price_old": 14699.0,
+   "price_new": 9799.0,
+   "pct": 33.3,
+   "amount": 4900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 9799.0
   },
   {
    "id": "999674196407",
@@ -19509,6 +21077,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 3799.0
+  },
+  {
+   "id": "999682410837",
+   "name": "VIEWSONIC Monitor va3209m ips full hd 32 pulgadas va3209m",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-va3209m-ips-full-hd-32-pulgadas-va3209m/999682410837",
+   "img": "https://sp101.liverpool.com.mx/i/1204798318.jpg",
+   "category": "Monitores",
+   "price_old": 5999.99,
+   "price_new": 3799.99,
+   "pct": 36.7,
+   "amount": 2200.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3799.99
   },
   {
    "id": "999685957228",
@@ -19623,6 +21207,22 @@
    "h_min": 2199.0
   },
   {
+   "id": "1153009933",
+   "name": "FARBERWARE Freidora de aire 3 L Ft-45447",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-3-l-ft-45447/1153009933",
+   "img": "https://sp625.liverpool.com.mx/i/1153009933.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1900.0,
+   "price_new": 1100.0,
+   "pct": 42.1,
+   "amount": 800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1100.0
+  },
+  {
    "id": "1179906348",
    "name": "PARIS CORNER Eau de parfum Khair confection unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-khair-confection-unisex/1179906348",
@@ -19703,6 +21303,22 @@
    "h_min": 14999.0
   },
   {
+   "id": "1175726493",
+   "name": "LG MICROONDAS GRILL MS15, 1.5 PIES, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-grill-ms15-1-5-pies-negro/1175726493",
+   "img": "https://sp101.liverpool.com.mx/i/1175726493.jpg",
+   "category": "Microondas",
+   "price_old": 5299.0,
+   "price_new": 3332.23,
+   "pct": 37.1,
+   "amount": 1966.77,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3332.23
+  },
+  {
    "id": "1154094811",
    "name": "DICASA Set Recámara Lugo Red Roll de madera pino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-lugo-red-roll-de-madera-pino/1154094811",
@@ -19751,6 +21367,22 @@
    "h_min": 16799.0
   },
   {
+   "id": "1178699675",
+   "name": "NINJA Freidora de aire con compartimento doble 7.6 L Sl201",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-doble-7-6-l-sl201/1178699675",
+   "img": "https://sp625.liverpool.com.mx/i/1178699675.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 9199.0,
+   "price_new": 5999.0,
+   "pct": 34.8,
+   "amount": 3200.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5999.0
+  },
+  {
    "id": "1184988743",
    "name": "NINTENDO SWITCH Consola fija/portátil de 256 gb reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-fija-port-til-de-256-gb-reacondicionado/1184988743",
@@ -19797,6 +21429,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 1185.8
+  },
+  {
+   "id": "1191736881",
+   "name": "BELUG Secador para calzado eléctrico",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secador-para-calzado-el-ctrico/1191736881",
+   "img": "https://sp625.liverpool.com.mx/i/1191736881.jpg",
+   "category": "Secadoras",
+   "price_old": 1319.0,
+   "price_new": 738.68,
+   "pct": 44.0,
+   "amount": 580.32,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 738.68
   },
   {
    "id": "999680252833",
@@ -20053,6 +21701,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 9999.99
+  },
+  {
+   "id": "999686882529",
+   "name": "SAMSUNG Monitor gamer ls32fg502enxza ips qhd 32 pulgadas s32fg502en",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-ls32fg502enxza-ips-qhd-32-pulgadas-s32fg502en/999686882529",
+   "img": "https://sp101.liverpool.com.mx/i/1208651567.jpg",
+   "category": "Monitores",
+   "price_old": 8599.99,
+   "price_new": 5599.99,
+   "pct": 34.9,
+   "amount": 3000.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5599.99
+  },
+  {
+   "id": "999680482892",
+   "name": "KARMA BEAUTY Secadora de cabello multisecadora krm-975159",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-multisecadora-krm-975159/999680482892",
+   "img": "https://sp101.liverpool.com.mx/i/1202234654.jpg",
+   "category": "Secadoras",
+   "price_old": 5379.0,
+   "price_new": 3399.0,
+   "pct": 36.8,
+   "amount": 1980.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3399.0
   },
   {
    "id": "999680247994",
@@ -20407,6 +22087,38 @@
    "h_min": 999.0
   },
   {
+   "id": "1134578200",
+   "name": "KOBLENZ Horno eléctrico freidora HFKM-1400-IN Kitchen Magic 25 l",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-freidora-hfkm-1400-in-kitchen-magic-25-l/1134578200",
+   "img": "https://sp625.liverpool.com.mx/i/1134578200.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5890.0,
+   "price_new": 3755.0,
+   "pct": 36.2,
+   "amount": 2135.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3755.0
+  },
+  {
+   "id": "1053668352",
+   "name": "LG Horno de microondas convencional modelo MS1536GIS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-ms1536gis/1053668352",
+   "img": "https://sp625.liverpool.com.mx/i/1053668352.jpg",
+   "category": "Microondas",
+   "price_old": 5099.0,
+   "price_new": 3221.11,
+   "pct": 36.8,
+   "amount": 1877.89,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3221.11
+  },
+  {
    "id": "999681244972",
    "name": "HONOR 600E AMOLED 6.6 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/600e-amoled-6-6-pulgadas/999681244972",
@@ -20631,6 +22343,22 @@
    "h_min": 859.0
   },
   {
+   "id": "1171292162",
+   "name": "LUVO KOLLECTIF Secadora de cabello Beauty Teens",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-beauty-teens/1171292162",
+   "img": "https://ss706.liverpool.com.mx/lg/1171292162.jpg",
+   "category": "Secadoras",
+   "price_old": 2490.0,
+   "price_new": 1494.0,
+   "pct": 40.0,
+   "amount": 996.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1494.0
+  },
+  {
    "id": "1190632608",
    "name": "XTELLAR Audífonos in-Ear inalámbrica con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbrica-con-cancelaci-n-de-ruido/1190632608",
@@ -20759,26 +22487,26 @@
    "h_min": 549.0
   },
   {
+   "id": "999680248437",
+   "name": "BABYLISS PRO Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999680248437",
+   "img": "https://sp101.liverpool.com.mx/i/1201726391.jpg",
+   "category": "Secadoras",
+   "price_old": 5609.0,
+   "price_new": 3579.0,
+   "pct": 36.2,
+   "amount": 2030.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3579.0
+  },
+  {
    "id": "999683571816",
    "name": "PLAYSTATION Unidad de disco para consola PS5",
    "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571816",
    "img": "https://sp101.liverpool.com.mx/i/1205302600.jpg",
-   "category": "Consolas",
-   "price_old": 5199.0,
-   "price_new": 3299.0,
-   "pct": 36.5,
-   "amount": 1900.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 3299.0
-  },
-  {
-   "id": "999683571781",
-   "name": "PLAYSTATION Unidad de disco para consola PS5",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571781",
-   "img": "https://sp101.liverpool.com.mx/i/1205522138.jpg",
    "category": "Consolas",
    "price_old": 5199.0,
    "price_new": 3299.0,
@@ -20823,35 +22551,19 @@
    "h_min": 3299.0
   },
   {
-   "id": "999683571569",
+   "id": "999683571781",
    "name": "PLAYSTATION Unidad de disco para consola PS5",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571569",
-   "img": "https://sp101.liverpool.com.mx/i/1205824169.jpg",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571781",
+   "img": "https://sp101.liverpool.com.mx/i/1205522138.jpg",
    "category": "Consolas",
    "price_old": 5199.0,
    "price_new": 3299.0,
    "pct": 36.5,
    "amount": 1900.0,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1787593719.1367073,
    "in_stock": true,
-   "h_dias": 1,
-   "h_min": 3299.0
-  },
-  {
-   "id": "999683571826",
-   "name": "PLAYSTATION Unidad de disco para consola PS5",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571826",
-   "img": "https://sp101.liverpool.com.mx/i/1205303428.jpg",
-   "category": "Consolas",
-   "price_old": 5199.0,
-   "price_new": 3299.0,
-   "pct": 36.5,
-   "amount": 1900.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
+   "h_dias": 2,
    "h_min": 3299.0
   },
   {
@@ -20884,6 +22596,38 @@
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
+   "h_min": 3299.0
+  },
+  {
+   "id": "999683571826",
+   "name": "PLAYSTATION Unidad de disco para consola PS5",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571826",
+   "img": "https://sp101.liverpool.com.mx/i/1205303428.jpg",
+   "category": "Consolas",
+   "price_old": 5199.0,
+   "price_new": 3299.0,
+   "pct": 36.5,
+   "amount": 1900.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3299.0
+  },
+  {
+   "id": "999683571569",
+   "name": "PLAYSTATION Unidad de disco para consola PS5",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/unidad-de-disco-para-consola-ps5/999683571569",
+   "img": "https://sp101.liverpool.com.mx/i/1205824169.jpg",
+   "category": "Consolas",
+   "price_old": 5199.0,
+   "price_new": 3299.0,
+   "pct": 36.5,
+   "amount": 1900.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
    "h_min": 3299.0
   },
   {
@@ -21127,6 +22871,22 @@
    "h_min": 490.0
   },
   {
+   "id": "1189383777",
+   "name": "INSTANT POT Freidora de aire con compartimento único 3.8 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-3-8-l/1189383777",
+   "img": "https://sp625.liverpool.com.mx/i/1189383777.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 4299.0,
+   "price_new": 2699.0,
+   "pct": 37.2,
+   "amount": 1600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2699.0
+  },
+  {
    "id": "1189490042",
    "name": "CENTURFIT Bicicleta fija modelo mkz-bispinbasneg de acero",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-fija-modelo-mkz-bispinbasneg-de-acero/1189490042",
@@ -21141,22 +22901,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2499.0
-  },
-  {
-   "id": "1200691462",
-   "name": "SAMSUNG Galaxy A07 LCD 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/galaxy-a07-lcd-6-7-pulgadas/1200691462",
-   "img": "https://sp632.liverpool.com.mx/i/1200691462-samsung-galaxy-a07-lcd-6-7-p.jpg",
-   "category": "Celulares",
-   "price_old": 4999.0,
-   "price_new": 3172.0,
-   "pct": 36.5,
-   "amount": 1827.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 3172.0
   },
   {
    "id": "1191581896",
@@ -21269,6 +23013,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 13249.0
+  },
+  {
+   "id": "1161667770",
+   "name": "BABYLISS PRO Secadora de cabello Ceramix Extreme",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-ceramix-extreme/1161667770",
+   "img": "https://sp706.liverpool.com.mx/i/1161667770.jpg",
+   "category": "Secadoras",
+   "price_old": 4999.0,
+   "price_new": 3179.0,
+   "pct": 36.4,
+   "amount": 1820.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3179.0
   },
   {
    "id": "99982801392",
@@ -21543,6 +23303,22 @@
    "h_min": 6299.0
   },
   {
+   "id": "1167949157",
+   "name": "BABYLISS Secadora de cabello Ionic BNTC9200ES",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-ionic-bntc9200es/1167949157",
+   "img": "https://ss706.liverpool.com.mx/lg/1167949157_primaria.jpg",
+   "category": "Secadoras",
+   "price_old": 7880.0,
+   "price_new": 5169.0,
+   "pct": 34.4,
+   "amount": 2711.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5169.0
+  },
+  {
    "id": "99986791088",
    "name": "DICASA Set recámara Lugo Trini de madera pino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-lugo-trini-de-madera-pino/99986791088",
@@ -21655,6 +23431,22 @@
    "h_min": 13699.0
   },
   {
+   "id": "1192721055",
+   "name": "MABE Horno de microondas de convección modelo HMM09NJ de 0.9 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-de-convecci-n-modelo-hmm09nj-de-0-9-pies/1192721055",
+   "img": "https://sp625.liverpool.com.mx/i/1192721055.jpg",
+   "category": "Microondas",
+   "price_old": 4850.0,
+   "price_new": 3090.0,
+   "pct": 36.3,
+   "amount": 1760.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3090.0
+  },
+  {
    "id": "99993657348",
    "name": "ADIDAS Tenis para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99993657348",
@@ -21666,6 +23458,22 @@
    "amount": 738.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1061.0
+  },
+  {
+   "id": "99993444247",
+   "name": "ADIDAS Tenis Others para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-others-para-mujer/99993444247",
+   "img": "https://ss550.liverpool.com.mx/lg/1191663990.jpg",
+   "category": "Tenis",
+   "price_old": 1799.0,
+   "price_new": 1061.0,
+   "pct": 41.0,
+   "amount": 738.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1061.0
@@ -21863,6 +23671,38 @@
    "h_min": 999.0
   },
   {
+   "id": "1162367397",
+   "name": "CORTEX BEAUTY Secadora de cabello PNKV",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-pnkv/1162367397",
+   "img": "https://sp706.liverpool.com.mx/i/1162367397.jpg",
+   "category": "Secadoras",
+   "price_old": 4699.0,
+   "price_new": 2990.99,
+   "pct": 36.3,
+   "amount": 1708.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2990.99
+  },
+  {
+   "id": "1135463406",
+   "name": "DAEWOO Freidora de aire 4.5 L Daf-1886",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-4-5-l-daf-1886/1135463406",
+   "img": "https://sp623.liverpool.com.mx/i/1135463406.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2499.0,
+   "price_new": 1519.0,
+   "pct": 39.2,
+   "amount": 980.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1519.0
+  },
+  {
    "id": "999679505536",
    "name": "BOGNER Licuadora bsb04paq 8 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-bsb04paq-8-velocidades/999679505536",
@@ -21988,22 +23828,6 @@
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 3199.0
-  },
-  {
-   "id": "1123459233",
-   "name": "KEURIG CAFETERA CAPSULAS 5344818, MINI, NEGRO",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-5344818-mini-negro/1123459233",
-   "img": "https://sp101.liverpool.com.mx/i/1123459233.jpg",
-   "category": "Cafeteras",
-   "price_old": 4999.0,
-   "price_new": 3199.0,
-   "pct": 36.0,
-   "amount": 1800.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
    "h_min": 3199.0
   },
   {
@@ -22247,6 +24071,22 @@
    "h_min": 1198.99
   },
   {
+   "id": "999680762414",
+   "name": "RUCCI Secadora de cabello Multiglam Styler HD123",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-multiglam-styler-hd123/999680762414",
+   "img": "https://sp101.liverpool.com.mx/i/1202708974.jpg",
+   "category": "Secadoras",
+   "price_old": 1999.0,
+   "price_new": 1199.0,
+   "pct": 40.0,
+   "amount": 800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1199.0
+  },
+  {
    "id": "1163771361",
    "name": "JBL Audífonos Over-Ear Tune 770Nc inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-tune-770nc-inal-mbricos-con-cancelaci-n-de-ruido/1163771361",
@@ -22359,6 +24199,22 @@
    "h_min": 877.68
   },
   {
+   "id": "1153874511",
+   "name": "DICASA Set Recámara Capri Premier de madera pino",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-capri-premier-de-madera-pino/1153874511",
+   "img": "https://ss101.liverpool.com.mx/lg/1153874511.jpg",
+   "category": "Recamaras",
+   "price_old": 21838.6,
+   "price_new": 15199.0,
+   "pct": 30.4,
+   "amount": 6639.6,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 15199.0
+  },
+  {
    "id": "1153857331",
    "name": "DICASA Set Recámara Kami Vail de madera pino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-kami-vail-de-madera-pino/1153857331",
@@ -22373,6 +24229,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 15149.0
+  },
+  {
+   "id": "1193373221",
+   "name": "MABE Horno de microondas convencional modelo HMM07SJW de 0.7 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-hmm07sjw-de-0-7-pies/1193373221",
+   "img": "https://sp625.liverpool.com.mx/i/1193373221.jpg",
+   "category": "Microondas",
+   "price_old": 3850.0,
+   "price_new": 2433.0,
+   "pct": 36.8,
+   "amount": 1417.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2433.0
   },
   {
    "id": "99995232779",
@@ -22855,6 +24727,38 @@
    "h_min": 12039.0
   },
   {
+   "id": "1164456940",
+   "name": "DAEWOO Secadora de cabello DW-RZ1",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-rz1/1164456940",
+   "img": "https://ss706.liverpool.com.mx/lg/1164456940.jpg",
+   "category": "Secadoras",
+   "price_old": 1099.0,
+   "price_new": 629.0,
+   "pct": 42.8,
+   "amount": 470.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 629.0
+  },
+  {
+   "id": "1164467798",
+   "name": "DAEWOO Secadora de cabello DW-SE1",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-dw-se1/1164467798",
+   "img": "https://ss706.liverpool.com.mx/lg/1164467798.jpg",
+   "category": "Secadoras",
+   "price_old": 1209.0,
+   "price_new": 699.0,
+   "pct": 42.2,
+   "amount": 510.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 699.0
+  },
+  {
    "id": "1170116549",
    "name": "GETTTECH Audífonos True Wireless Sport Gue-Mssbt-01-Yw inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-sport-gue-mssbt-01-yw-inal-mbricos/1170116549",
@@ -23191,6 +25095,22 @@
    "h_min": 9999.0
   },
   {
+   "id": "1170019870",
+   "name": "GIGABYTE Monitor standard full HD 27 pulgadas GS27FC",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-27-pulgadas-gs27fc/1170019870",
+   "img": "https://sp628.liverpool.com.mx/i/1170019870.jpg",
+   "category": "Monitores",
+   "price_old": 5599.99,
+   "price_new": 3673.99,
+   "pct": 34.4,
+   "amount": 1926.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3673.99
+  },
+  {
    "id": "1189825125",
    "name": "DAEWOO Pantalla smart tv led de 70 pulgadas 4k daw70ur con roku tv",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-led-de-70-pulgadas-4k-daw70ur-con-roku-tv/1189825125",
@@ -23255,6 +25175,22 @@
    "h_min": 699.0
   },
   {
+   "id": "1170284611",
+   "name": "LACOSTE Funda para iPhone 15 Pro de poliuretano",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-15-pro-de-poliuretano/1170284611",
+   "img": "https://ss637.liverpool.com.mx/lg/1170284611.jpg",
+   "category": "Iphone",
+   "price_old": 1199.0,
+   "price_new": 699.0,
+   "pct": 41.7,
+   "amount": 500.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 699.0
+  },
+  {
    "id": "1109203994",
    "name": "AVERA Parrilla a gas lp empotrable",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-a-gas-lp-empotrable/1109203994",
@@ -23285,6 +25221,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 959.0
+  },
+  {
+   "id": "1190539667",
+   "name": "BABYLISS PRO Secadora de cabello BNTC9200MBES",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-bntc9200mbes/1190539667",
+   "img": "https://ss706.liverpool.com.mx/lg/1190539667.jpg",
+   "category": "Secadoras",
+   "price_old": 7890.0,
+   "price_new": 5289.0,
+   "pct": 33.0,
+   "amount": 2601.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5289.0
   },
   {
    "id": "1145535979",
@@ -23415,6 +25367,22 @@
    "h_min": 1555.0
   },
   {
+   "id": "1190980690",
+   "name": "SAMSUNG Monitor Standard Full HD 24 pulgadas LS24F334EALXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-24-pulgadas-ls24f334ealxzx/1190980690",
+   "img": "https://sp628.liverpool.com.mx/i/1190980690.jpg",
+   "category": "Monitores",
+   "price_old": 3299.0,
+   "price_new": 2099.0,
+   "pct": 36.4,
+   "amount": 1200.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2099.0
+  },
+  {
    "id": "999685606337",
    "name": "Aire acondicionado mini split Carrier frío 12000 BTU 53LVC123X 220 V",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-carrier-fr-o-12000-btu-53lvc123x-220-v/999685606337",
@@ -23463,6 +25431,22 @@
    "h_min": 1894.5
   },
   {
+   "id": "999686851560",
+   "name": "GENÉRICA Sopladora a eléctrico sopladora electrica 345 mph 290 cfm",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sopladora-a-el-ctrico-sopladora-electrica-345-mph-290-cfm/999686851560",
+   "img": "https://sp101.liverpool.com.mx/i/1208507725.jpg",
+   "category": "Aspiradoras",
+   "price_old": 1249.0,
+   "price_new": 734.13,
+   "pct": 41.2,
+   "amount": 514.87,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 734.13
+  },
+  {
    "id": "999686378397",
    "name": "GENÉRICA Cafetera portátil de 1.6 l",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-port-til-de-1-6-l/999686378397",
@@ -23508,6 +25492,22 @@
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
+   "h_min": 1899.0
+  },
+  {
+   "id": "1164922185",
+   "name": "CV DIRECTO Secadora de cabello Magic Styler S0694-00",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-magic-styler-s0694-00/1164922185",
+   "img": "https://sp706.liverpool.com.mx/i/1164922185.jpg",
+   "category": "Secadoras",
+   "price_old": 2999.0,
+   "price_new": 1899.0,
+   "pct": 36.7,
+   "amount": 1100.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
    "h_min": 1899.0
   },
   {
@@ -23607,6 +25607,22 @@
    "h_min": 9699.0
   },
   {
+   "id": "99987354871",
+   "name": "APPLE Iphone 13 Super Retina XDR 6.1 pulgadas desbloqueado reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-13-super-retina-xdr-6-1-pulgadas-desbloqueado-reacondicionado/99987354871",
+   "img": "https://ss632.liverpool.com.mx/lg/1181631178.jpg",
+   "category": "Iphone",
+   "price_old": 8299.0,
+   "price_new": 5599.0,
+   "pct": 32.5,
+   "amount": 2700.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5599.0
+  },
+  {
    "id": "1187895665",
    "name": "HISENSE Refrigerador top mount 14 pies cúbicos RT14N6CDX",
    "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-14-pies-c-bicos-rt14n6cdx/1187895665",
@@ -23621,6 +25637,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 12049.0
+  },
+  {
+   "id": "1099813926",
+   "name": "VORAGO Monitor standard HD 19.5 pulgadas LED-W19-204",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-hd-19-5-pulgadas-led-w19-204/1099813926",
+   "img": "https://ss628.liverpool.com.mx/lg/1099813926.jpg",
+   "category": "Monitores",
+   "price_old": 1499.0,
+   "price_new": 899.0,
+   "pct": 40.0,
+   "amount": 600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 899.0
   },
   {
    "id": "1185177075",
@@ -23719,6 +25751,38 @@
    "h_min": 8999.0
   },
   {
+   "id": "1183027871",
+   "name": "DAEWOO Freidora de aire 5.5 L Dafg-1895x",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-5-5-l-dafg-1895x/1183027871",
+   "img": "https://sp625.liverpool.com.mx/i/1183027871.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 4200.0,
+   "price_new": 2729.99,
+   "pct": 35.0,
+   "amount": 1470.01,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2729.99
+  },
+  {
+   "id": "999668516123",
+   "name": "MABE Horno de microondas convencional modelo HMM07BBW de 0.7 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-hmm07bbw-de-0-7-pies/999668516123",
+   "img": "https://sp101.liverpool.com.mx/i/1195147104.jpg",
+   "category": "Microondas",
+   "price_old": 3399.0,
+   "price_new": 2179.0,
+   "pct": 35.9,
+   "amount": 1220.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2179.0
+  },
+  {
    "id": "999684997209",
    "name": "Bocina portátil Signa alámbrica reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-signa-al-mbrica-reacondicionado/999684997209",
@@ -23749,6 +25813,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 496.54
+  },
+  {
+   "id": "1102807223",
+   "name": "RCA Freidora de aceite",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite/1102807223",
+   "img": "https://sp625.liverpool.com.mx/i/1102807223.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1449.0,
+   "price_new": 869.0,
+   "pct": 40.0,
+   "amount": 580.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 869.0
   },
   {
    "id": "1156952245",
@@ -23863,6 +25943,22 @@
    "h_min": 1110.13
   },
   {
+   "id": "1183390038",
+   "name": "BABYLISS PRO Secadora de cabello Nanotitanium bnt910",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-nanotitanium-bnt910/1183390038",
+   "img": "https://ss706.liverpool.com.mx/lg/1183390038.jpg",
+   "category": "Secadoras",
+   "price_old": 2730.0,
+   "price_new": 1729.0,
+   "pct": 36.7,
+   "amount": 1001.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1729.0
+  },
+  {
    "id": "999674335240",
    "name": "MAXIMS Aire acondicionado mini split minisplits frío convencional",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-minisplits-fr-o-convencional/999674335240",
@@ -23883,7 +25979,7 @@
    "name": "APPLE Laptop MacBook Air 8GB RAM 256GB SSD 13.3 pulgadas 2560 x 1600 M1 8 GB RAM 256 GB SSD reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-macbook-air-8gb-ram-256gb-ssd-13-3-pulgadas-2560-x-1600-m1-8-gb-ram-256-g/999683532209",
    "img": "https://sp101.liverpool.com.mx/i/1205424608.jpg",
-   "category": "Laptops",
+   "category": "Macbook",
    "price_old": 15713.0,
    "price_new": 10999.0,
    "pct": 30.0,
@@ -24021,6 +26117,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 10778.0
+  },
+  {
+   "id": "1192721039",
+   "name": "MABE Horno de microondas convencional modelo HMM11XPO de 1.1 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-hmm11xpo-de-1-1-pies/1192721039",
+   "img": "https://sp625.liverpool.com.mx/i/1192721039.jpg",
+   "category": "Microondas",
+   "price_old": 5985.0,
+   "price_new": 3990.0,
+   "pct": 33.3,
+   "amount": 1995.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3990.0
   },
   {
    "id": "1109368071",
@@ -24631,22 +26743,6 @@
    "h_min": 9189.0
   },
   {
-   "id": "1135672765",
-   "name": "ECOCINARE Parrilla a gas lp empotrable",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-a-gas-lp-empotrable/1135672765",
-   "img": "https://sp636.liverpool.com.mx/i/1135672765.jpg",
-   "category": "Estufas",
-   "price_old": 2499.0,
-   "price_new": 1589.0,
-   "pct": 36.4,
-   "amount": 910.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1589.0
-  },
-  {
    "id": "1178112780",
    "name": "Consola fija de 512 gb Xbox Series S",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-fija-de-512-gb-xbox-series-s/1178112780",
@@ -24987,7 +27083,7 @@
    "name": "APPLE MacBook Air Retina 13.3 pulgadas 2560 x 1600 Intel Core i3 Intel Iris Plus 8 GB RAM 256 GB",
    "url": "https://www.liverpool.com.mx/tienda/pdp/macbook-air-retina-13-3-pulgadas-2560-x-1600-intel-core-i3-intel-iris-plus-8-gb-/999683630806",
    "img": "https://sp101.liverpool.com.mx/i/1205326207.jpg",
-   "category": "Laptops",
+   "category": "Macbook",
    "price_old": 11783.0,
    "price_new": 8248.0,
    "pct": 30.0,
@@ -25031,22 +27127,6 @@
    "h_min": 639.0
   },
   {
-   "id": "999685880860",
-   "name": "Estufa de piso a iem 78 ei3020baps1 de quemadores",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-iem-78-ei3020baps1-de-quemadores/999685880860",
-   "img": "https://sp101.liverpool.com.mx/i/1207514329.jpg",
-   "category": "Estufas",
-   "price_old": 11179.0,
-   "price_new": 7819.0,
-   "pct": 30.1,
-   "amount": 3360.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 7819.0
-  },
-  {
    "id": "999671130788",
    "name": "COOKIT Licuadora personal cpb06 1 velocidad",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-personal-cpb06-1-velocidad/999671130788",
@@ -25061,6 +27141,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 659.4
+  },
+  {
+   "id": "1193929121",
+   "name": "BALAM RUSH Monitor gamer MXT32P freesync Full HD 32 pulgadas BR-942546",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-mxt32p-freesync-full-hd-32-pulgadas-br-942546/1193929121",
+   "img": "https://sp628.liverpool.com.mx/i/1193929121.jpg",
+   "category": "Monitores",
+   "price_old": 9000.0,
+   "price_new": 6228.0,
+   "pct": 30.8,
+   "amount": 2772.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6228.0
   },
   {
    "id": "1173150268",
@@ -25159,6 +27255,54 @@
    "h_min": 2699.4
   },
   {
+   "id": "1183797642",
+   "name": "XZEAL Monitor gamer XST-570-1 VA Full HD 23.8 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-xst-570-1-va-full-hd-23-8-pulgadas/1183797642",
+   "img": "https://ss628.liverpool.com.mx/lg/1183797642.jpg",
+   "category": "Monitores",
+   "price_old": 3499.0,
+   "price_new": 2299.0,
+   "pct": 34.3,
+   "amount": 1200.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2299.0
+  },
+  {
+   "id": "1177978392",
+   "name": "OSTER Freidora de aire 6 L Ckstaf60Wmdf",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-6-l-ckstaf60wmdf/1177978392",
+   "img": "https://sp623.liverpool.com.mx/i/1177978392.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2649.0,
+   "price_new": 1709.0,
+   "pct": 35.5,
+   "amount": 940.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1709.0
+  },
+  {
+   "id": "999680171122",
+   "name": "WESTINGHOUSE Freidora de aceite con compartimento único 4.2 l wccs0009d24mbb",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-con-compartimento-nico-4-2-l-wccs0009d24mbb/999680171122",
+   "img": "https://sp101.liverpool.com.mx/i/1201566581.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2959.0,
+   "price_new": 1923.35,
+   "pct": 35.0,
+   "amount": 1035.65,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1923.35
+  },
+  {
    "id": "999685097714",
    "name": "LENOVO Laptop IdeaPad Slim 3 15ITN9 83L7002FUS 15.6 pulgadas QHD Intel Celeron integradas 8 GB RAM 128 GB",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-ideapad-slim-3-15itn9-83l7002fus-15-6-pulgadas-qhd-intel-celeron-integrad/999685097714",
@@ -25189,6 +27333,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 7699.0
+  },
+  {
+   "id": "1157011207",
+   "name": "LIKËPINK Secadora de cabello HerBeauty KM-8896",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-herbeauty-km-8896/1157011207",
+   "img": "https://sp706.liverpool.com.mx/i/1157011207.jpg",
+   "category": "Secadoras",
+   "price_old": 1690.0,
+   "price_new": 1056.0,
+   "pct": 37.5,
+   "amount": 634.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1056.0
   },
   {
    "id": "999685649229",
@@ -25255,22 +27415,6 @@
    "h_min": 4999.0
   },
   {
-   "id": "1194044263",
-   "name": "JVC Pantalla Smart TV QLED de 50 pulgadas 4K/UHD 50QD65QV con Vidaa",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-50-pulgadas-4k-uhd-50qd65qv-con-vidaa/1194044263",
-   "img": "https://ss629.liverpool.com.mx/lg/1194044263.jpg",
-   "category": "Pantallas",
-   "price_old": 10529.0,
-   "price_new": 7369.0,
-   "pct": 30.0,
-   "amount": 3160.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 7369.0
-  },
-  {
    "id": "999681723043",
    "name": "REALME 11 Super AMOLED 6.4 pulgadas Desbloqueado Reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/11-super-amoled-6-4-pulgadas-desbloqueado-reacondicionado/999681723043",
@@ -25317,6 +27461,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1750.09
+  },
+  {
+   "id": "1194589171",
+   "name": "WHITE WESTINGHOUSE Horno de microondas convencional modelo WWCR3011OOMIRWE de 1.1 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-wwcr3011oomirwe-de-1-1-pies/1194589171",
+   "img": "https://ss625.liverpool.com.mx/lg/1194589171.jpg",
+   "category": "Microondas",
+   "price_old": 4199.0,
+   "price_new": 2799.0,
+   "pct": 33.3,
+   "amount": 1400.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2799.0
   },
   {
    "id": "1157440019",
@@ -25399,20 +27559,20 @@
    "h_min": 2099.0
   },
   {
-   "id": "1185131234",
-   "name": "TRUPER Aspiradora asp-04n 15 litros",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-asp-04n-15-litros/1185131234",
-   "img": "https://sp343.liverpool.com.mx/i/1185131234.jpg",
-   "category": "Aspiradoras",
-   "price_old": 3550.0,
-   "price_new": 2348.0,
-   "pct": 33.9,
-   "amount": 1202.0,
+   "id": "1192721047",
+   "name": "MABE Horno de microondas con grill modelo HMM11PJNX de 1.1 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-con-grill-modelo-hmm11pjnx-de-1-1-pies/1192721047",
+   "img": "https://ss625.liverpool.com.mx/lg/1192721047.jpg",
+   "category": "Microondas",
+   "price_old": 5950.0,
+   "price_new": 4050.0,
+   "pct": 31.9,
+   "amount": 1900.0,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 2348.0
+   "h_min": 4050.0
   },
   {
    "id": "999679382118",
@@ -25458,6 +27618,22 @@
    "amount": 600.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 999.0
+  },
+  {
+   "id": "999685020901",
+   "name": "SIGNA Freidora de aire con compartimento único 5 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-5-l/999685020901",
+   "img": "https://sp101.liverpool.com.mx/i/1206506284.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1599.0,
+   "price_new": 999.0,
+   "pct": 37.5,
+   "amount": 600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 999.0
@@ -25527,20 +27703,84 @@
    "h_min": 6990.0
   },
   {
+   "id": "1163943952",
+   "name": "BABYLISS PRO Secadora de cabello BabylissPro BABFRV1ES",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-babylisspro-babfrv1es/1163943952",
+   "img": "https://ss706.liverpool.com.mx/lg/1163943952.jpg",
+   "category": "Secadoras",
+   "price_old": 4469.0,
+   "price_new": 2997.0,
+   "pct": 32.9,
+   "amount": 1472.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2997.0
+  },
+  {
    "id": "999680251362",
    "name": "HONOR X7D LCD / TFT 6.7 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/x7d-lcd-tft-6-7-pulgadas/999680251362",
    "img": "https://sp101.liverpool.com.mx/i/1201715551.jpg",
    "category": "Celulares",
    "price_old": 6800.0,
-   "price_new": 4671.0,
+   "price_new": 4669.0,
    "pct": 31.3,
-   "amount": 2129.0,
+   "amount": 2131.0,
    "ends": "",
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 4671.0
+   "h_min": 4669.0
+  },
+  {
+   "id": "1189880908",
+   "name": "WMARK Secadora de cabello NG-1000",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-ng-1000/1189880908",
+   "img": "https://ss705.liverpool.com.mx/lg/1189880908.jpg",
+   "category": "Secadoras",
+   "price_old": 2619.0,
+   "price_new": 1699.0,
+   "pct": 35.1,
+   "amount": 920.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1699.0
+  },
+  {
+   "id": "1057443975",
+   "name": "GE PROFILE Horno de microondas con grill modelo PEB160SFSS de 1.6 pies cúbicos",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-con-grill-modelo-peb160sfss-de-1-6-pies-c-bicos/1057443975",
+   "img": "https://sp636.liverpool.com.mx/i/1057443975.jpg",
+   "category": "Microondas",
+   "price_old": 9860.0,
+   "price_new": 6899.0,
+   "pct": 30.0,
+   "amount": 2961.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6899.0
+  },
+  {
+   "id": "1205251347",
+   "name": "DISA HOME Secadora de Eléctrico de 5 ciclos SECEN-05",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-el-ctrico-de-5-ciclos-secen-05/1205251347",
+   "img": "https://sp101.liverpool.com.mx/i/1205251347.jpg",
+   "category": "Secadoras",
+   "price_old": 3999.99,
+   "price_new": 2669.99,
+   "pct": 33.3,
+   "amount": 1330.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2669.99
   },
   {
    "id": "1194914471",
@@ -25573,6 +27813,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 529.0
+  },
+  {
+   "id": "1194802915",
+   "name": "CUORY Monitor standard Full HD 24 pulgadas CUO MO24LED",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-24-pulgadas-cuo-mo24led/1194802915",
+   "img": "https://sp628.liverpool.com.mx/i/1194802915.jpg",
+   "category": "Monitores",
+   "price_old": 2699.0,
+   "price_new": 1757.0,
+   "pct": 34.9,
+   "amount": 942.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1757.0
   },
   {
    "id": "99979189932",
@@ -25655,6 +27911,38 @@
    "h_min": 999.0
   },
   {
+   "id": "1135567830",
+   "name": "ACROS MICROONDAS CONVENCIO, 0.7 PIES, BLANCO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-convencio-0-7-pies-blanco/1135567830",
+   "img": "https://sp101.liverpool.com.mx/i/1135567830.jpg",
+   "category": "Microondas",
+   "price_old": 3778.0,
+   "price_new": 2519.0,
+   "pct": 33.3,
+   "amount": 1259.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2519.0
+  },
+  {
+   "id": "1133054762",
+   "name": "RCA Secadora de cabello RC-P15",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-rc-p15/1133054762",
+   "img": "https://sp706.liverpool.com.mx/i/1133054762.jpg",
+   "category": "Secadoras",
+   "price_old": 809.0,
+   "price_new": 479.0,
+   "pct": 40.8,
+   "amount": 330.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 479.0
+  },
+  {
    "id": "1175055173",
    "name": "AL HARAMAIN Eau de parfum Amber Oud - Ruby Edition unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-amber-oud-ruby-edition-unisex/1175055173",
@@ -25669,6 +27957,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1578.01
+  },
+  {
+   "id": "1185557444",
+   "name": "MOBLUM Silla 1 pieza Mika de tela adulto",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/silla-1-pieza-mika-de-tela-adulto/1185557444",
+   "img": "https://ss101.liverpool.com.mx/lg/1185557444.jpg",
+   "category": "Microondas",
+   "price_old": 8721.57,
+   "price_new": 6099.0,
+   "pct": 30.1,
+   "amount": 2622.57,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 6099.0
   },
   {
    "id": "1096484263",
@@ -25730,6 +28034,22 @@
    "amount": 1200.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2399.0
+  },
+  {
+   "id": "1188246075",
+   "name": "STYLOS Monitor STPMOT8B VA Full HD 27 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-stpmot8b-va-full-hd-27-pulgadas/1188246075",
+   "img": "https://ss628.liverpool.com.mx/lg/1188246075.jpg",
+   "category": "Monitores",
+   "price_old": 3599.0,
+   "price_new": 2399.0,
+   "pct": 33.3,
+   "amount": 1200.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2399.0
@@ -25815,6 +28135,22 @@
    "h_min": 1699.0
   },
   {
+   "id": "999681618815",
+   "name": "ELITE GOURMET Freidora de aire 2.3 L EAF2305",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-2-3-l-eaf2305/999681618815",
+   "img": "https://sp101.liverpool.com.mx/i/1203371931.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2599.0,
+   "price_new": 1699.0,
+   "pct": 34.6,
+   "amount": 900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1699.0
+  },
+  {
    "id": "999685564029",
    "name": "LG Pantalla Smart TV LED de Full HD 43LB6500PSB con WebOS con AI",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-led-de-full-hd-43lb6500psb-con-webos-con-ai/999685564029",
@@ -25861,6 +28197,70 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 5949.0
+  },
+  {
+   "id": "1147998992",
+   "name": "LATTAFA Eau de parfum Badee Al Oud unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-badee-al-oud-unisex/1147998992",
+   "img": "https://sp701.liverpool.com.mx/i/1147998992.jpg",
+   "category": "Perfumes",
+   "price_old": 1999.0,
+   "price_new": 1285.3,
+   "pct": 35.7,
+   "amount": 713.7,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1285.3
+  },
+  {
+   "id": "1177978384",
+   "name": "OSTER Freidora de aire 4 L Ckstaf401Mdf",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-4-l-ckstaf401mdf/1177978384",
+   "img": "https://sp623.liverpool.com.mx/i/1177978384.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2099.0,
+   "price_new": 1359.0,
+   "pct": 35.3,
+   "amount": 740.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1359.0
+  },
+  {
+   "id": "1160807951",
+   "name": "NINJA Freidora de aire 17 L Af141",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-17-l-af141/1160807951",
+   "img": "https://ss625.liverpool.com.mx/lg/1160807951.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 7999.0,
+   "price_new": 5599.0,
+   "pct": 30.0,
+   "amount": 2400.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5599.0
+  },
+  {
+   "id": "1161679590",
+   "name": "MIRAGE Horno de microondas convencional modelo MWD020E-PLATA de 0.7 pies cúbicos",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-mwd020e-plata-de-0-7-pies-c-bicos/1161679590",
+   "img": "https://sp625.liverpool.com.mx/i/1161679590.jpg",
+   "category": "Microondas",
+   "price_old": 2799.0,
+   "price_new": 1848.0,
+   "pct": 34.0,
+   "amount": 951.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1848.0
   },
   {
    "id": "1180828130",
@@ -25911,6 +28311,22 @@
    "h_min": 5499.0
   },
   {
+   "id": "1112432961",
+   "name": "ELITE CUISINE FREIDORA DE AIRE EAF4617, 3.7 L, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-eaf4617-3-7-l-negro/1112432961",
+   "img": "https://sp101.liverpool.com.mx/i/1112432961.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2299.0,
+   "price_new": 1499.0,
+   "pct": 34.8,
+   "amount": 800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1499.0
+  },
+  {
    "id": "1175419451",
    "name": "PARIS HILTON Set Eau de parfum para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-para-mujer/1175419451",
@@ -25925,6 +28341,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 882.48
+  },
+  {
+   "id": "1072889611",
+   "name": "WHIRLPOOL Horno de microondas convencional modelo WM1514D",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-wm1514d/1072889611",
+   "img": "https://sp625.liverpool.com.mx/i/1072889611.jpg",
+   "category": "Microondas",
+   "price_old": 7770.0,
+   "price_new": 5442.0,
+   "pct": 30.0,
+   "amount": 2328.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 5442.0
+  },
+  {
+   "id": "999682509429",
+   "name": "GENÉRICA Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999682509429",
+   "img": "https://sp101.liverpool.com.mx/i/1204833652.jpg",
+   "category": "Secadoras",
+   "price_old": 1170.0,
+   "price_new": 725.37,
+   "pct": 38.0,
+   "amount": 444.63,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 725.37
   },
   {
    "id": "1174563671",
@@ -26052,22 +28500,6 @@
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 1999.0
-  },
-  {
-   "id": "99978481365",
-   "name": "BLU C9 LCD 6.6 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/c9-lcd-6-6-pulgadas/99978481365",
-   "img": "https://sp632.liverpool.com.mx/i/1167312400.jpg",
-   "category": "Celulares",
-   "price_old": 2999.0,
-   "price_new": 1999.0,
-   "pct": 33.3,
-   "amount": 1000.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
    "h_min": 1999.0
   },
   {
@@ -26247,6 +28679,22 @@
    "h_min": 4899.0
   },
   {
+   "id": "999684071450",
+   "name": "GENÉRICA Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999684071450",
+   "img": "https://sp101.liverpool.com.mx/i/1206163875.jpg",
+   "category": "Secadoras",
+   "price_old": 1500.0,
+   "price_new": 955.31,
+   "pct": 36.3,
+   "amount": 544.69,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 955.31
+  },
+  {
    "id": "999685005633",
    "name": "SIGNA Licuadora 4 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-4-velocidades/999685005633",
@@ -26277,6 +28725,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 860.37
+  },
+  {
+   "id": "1183958328",
+   "name": "PINK GARLIC Freidora de aire con compartimento único 5 L AFPE25",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-5-l-afpe25/1183958328",
+   "img": "https://sp625.liverpool.com.mx/i/1183958328.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2989.0,
+   "price_new": 1999.0,
+   "pct": 33.1,
+   "amount": 990.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1999.0
   },
   {
    "id": "1193553059",
@@ -26325,6 +28789,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 799.0
+  },
+  {
+   "id": "1178809721",
+   "name": "BABYLISS PRO Set alaciadora secadora 2 piezas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-alaciadora-secadora-2-piezas/1178809721",
+   "img": "https://sp706.liverpool.com.mx/i/1178809721.jpg",
+   "category": "Secadoras",
+   "price_old": 4759.0,
+   "price_new": 3279.0,
+   "pct": 31.1,
+   "amount": 1480.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3279.0
   },
   {
    "id": "1182516844",
@@ -26407,6 +28887,38 @@
    "h_min": 882.57
   },
   {
+   "id": "1170847616",
+   "name": "GOURMIA FREIDORA DE AIRE GAF858, 7.6 L, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-gaf858-7-6-l-negro/1170847616",
+   "img": "https://sp101.liverpool.com.mx/i/1170847616.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2889.0,
+   "price_new": 1941.3,
+   "pct": 32.8,
+   "amount": 947.7,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1941.3
+  },
+  {
+   "id": "1129078657",
+   "name": "COSORI Freidora de aire 4.7 L Caf-L501",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-4-7-l-caf-l501/1129078657",
+   "img": "https://sp625.liverpool.com.mx/i/1129078657.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 5999.0,
+   "price_new": 4199.0,
+   "pct": 30.0,
+   "amount": 1800.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 4199.0
+  },
+  {
    "id": "1193494630",
    "name": "DISA HOME Licuadora Pro 3 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-pro-3-velocidades/1193494630",
@@ -26487,6 +28999,54 @@
    "h_min": 918.91
   },
   {
+   "id": "1192721071",
+   "name": "MABE Horno de microondas convencional modelo HMM11RPO de 1.1 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-hmm11rpo-de-1-1-pies/1192721071",
+   "img": "https://sp625.liverpool.com.mx/i/1192721071.jpg",
+   "category": "Microondas",
+   "price_old": 5099.0,
+   "price_new": 3549.0,
+   "pct": 30.4,
+   "amount": 1550.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3549.0
+  },
+  {
+   "id": "1173464939",
+   "name": "LG MICROONDAS CONVENCION, 1.1 PIES, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-convencion-1-1-pies-negro/1173464939",
+   "img": "https://sp101.liverpool.com.mx/i/1173464939.jpg",
+   "category": "Microondas",
+   "price_old": 4799.0,
+   "price_new": 3332.23,
+   "pct": 30.6,
+   "amount": 1466.77,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3332.23
+  },
+  {
+   "id": "1112957819",
+   "name": "STYLOS Monitor standard HD 19.5 pulgadas STPMOT3B",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-hd-19-5-pulgadas-stpmot3b/1112957819",
+   "img": "https://ss628.liverpool.com.mx/lg/1112957819.jpg",
+   "category": "Monitores",
+   "price_old": 1399.0,
+   "price_new": 898.0,
+   "pct": 35.8,
+   "amount": 501.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 898.0
+  },
+  {
    "id": "1143867737",
    "name": "BOGNER Cafetera combi bdecm02/bcg01",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-combi-bdecm02-bcg01/1143867737",
@@ -26501,6 +29061,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 3599.0
+  },
+  {
+   "id": "1144639703",
+   "name": "GE MICROONDAS CONVENCIONA, 1.4 PIES, GRIS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-convenciona-1-4-pies-gris/1144639703",
+   "img": "https://sp101.liverpool.com.mx/i/1144639703.jpg",
+   "category": "Microondas",
+   "price_old": 5630.0,
+   "price_new": 3942.0,
+   "pct": 30.0,
+   "amount": 1688.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3942.0
   },
   {
    "id": "1194510922",
@@ -26613,6 +29189,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2899.0
+  },
+  {
+   "id": "999668931467",
+   "name": "WAHL Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999668931467",
+   "img": "https://sp101.liverpool.com.mx/i/1196830681.jpg",
+   "category": "Secadoras",
+   "price_old": 4929.0,
+   "price_new": 3433.0,
+   "pct": 30.4,
+   "amount": 1496.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3433.0
   },
   {
    "id": "999673991462",
@@ -26807,6 +29399,22 @@
    "h_min": 2762.0
   },
   {
+   "id": "1179472534",
+   "name": "MICROONDAS GE APPLIANCES HORNOS MICROOND",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-ge-appliances-hornos-microond/1179472534",
+   "img": "https://sp101.liverpool.com.mx/i/1179472534.jpg",
+   "category": "Microondas",
+   "price_old": 2999.0,
+   "price_new": 2039.0,
+   "pct": 32.0,
+   "amount": 960.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2039.0
+  },
+  {
    "id": "1144211282",
    "name": "Eau de toilette Cacharel Amor amor para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-toilette-cacharel-amor-amor-para-mujer/1144211282",
@@ -26855,6 +29463,38 @@
    "h_min": 766.6
   },
   {
+   "id": "1174239807",
+   "name": "SAMSUNG Monitor standard full HD 27 pulgadas LS27D390GALXZX",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-27-pulgadas-ls27d390galxzx/1174239807",
+   "img": "https://sp628.liverpool.com.mx/i/1174239807.jpg",
+   "category": "Monitores",
+   "price_old": 4999.0,
+   "price_new": 3499.0,
+   "pct": 30.0,
+   "amount": 1500.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3499.0
+  },
+  {
+   "id": "9959773651",
+   "name": "Audífonos True Wireless Skullcandy Indy Fuel inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-skullcandy-indy-fuel-inal-mbricos-con-cancelaci-n-de-rui/9959773651",
+   "img": "https://ss630.liverpool.com.mx/lg/1137795376.jpg",
+   "category": "Audifonos",
+   "price_old": 1485.0,
+   "price_new": 965.0,
+   "pct": 35.0,
+   "amount": 520.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 965.0
+  },
+  {
    "id": "1172465753",
    "name": "PARIS HILTON Eau de parfum Can Can Burlesque para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-can-can-burlesque-para-mujer/1172465753",
@@ -26869,6 +29509,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 638.1
+  },
+  {
+   "id": "1174905424",
+   "name": "WESTINGHOUSE Horno de microondas convencional modelo WWCMV10028WE de 1 pie cúbico",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-wwcmv10028we-de-1-pie-c-bico/1174905424",
+   "img": "https://sp625.liverpool.com.mx/i/1174905424.jpg",
+   "category": "Microondas",
+   "price_old": 3490.0,
+   "price_new": 2399.0,
+   "pct": 31.3,
+   "amount": 1091.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2399.0
   },
   {
    "id": "999684121981",
@@ -26901,6 +29557,54 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 699.0
+  },
+  {
+   "id": "1130959888",
+   "name": "DAEWOO Freidora de aire 3.6 L Daf-1858",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-3-6-l-daf-1858/1130959888",
+   "img": "https://sp623.liverpool.com.mx/i/1130959888.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2851.0,
+   "price_new": 1938.67,
+   "pct": 32.0,
+   "amount": 912.33,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1938.67
+  },
+  {
+   "id": "999686830340",
+   "name": "OSTER Horno eléctrico freidora tssttv35fdmaf 35 l",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-freidora-tssttv35fdmaf-35-l/999686830340",
+   "img": "https://sp101.liverpool.com.mx/i/1208493309.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 4759.0,
+   "price_new": 3329.0,
+   "pct": 30.0,
+   "amount": 1430.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3329.0
+  },
+  {
+   "id": "1188152119",
+   "name": "OSTER Freidora de aire con compartimento único 6 L CKSTAF60WDDF",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-6-l-ckstaf60wddf/1188152119",
+   "img": "https://sp625.liverpool.com.mx/i/1188152119.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2599.0,
+   "price_new": 1759.0,
+   "pct": 32.3,
+   "amount": 840.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1759.0
   },
   {
    "id": "999684064528",
@@ -27047,6 +29751,22 @@
    "h_min": 896.35
   },
   {
+   "id": "1190639688",
+   "name": "LAB.G Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1190639688",
+   "img": "https://ss706.liverpool.com.mx/lg/1190639688.jpg",
+   "category": "Secadoras",
+   "price_old": 2009.0,
+   "price_new": 1342.03,
+   "pct": 33.2,
+   "amount": 666.97,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1342.03
+  },
+  {
    "id": "1181950346",
    "name": "AFNAN Set eau de parfum Turathi Elecric unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-turathi-elecric-unisex/1181950346",
@@ -27095,6 +29815,38 @@
    "h_min": 499.0
   },
   {
+   "id": "999683588946",
+   "name": "IQ TECH Secadora de cabello 14040",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-14040/999683588946",
+   "img": "https://sp101.liverpool.com.mx/i/1205306770.jpg",
+   "category": "Secadoras",
+   "price_old": 800.0,
+   "price_new": 499.0,
+   "pct": 37.6,
+   "amount": 301.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 499.0
+  },
+  {
+   "id": "1165309894",
+   "name": "AURUS MICROONDAS CONVENC, 1.1 PIES, PLATEADO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-convenc-1-1-pies-plateado/1165309894",
+   "img": "https://sp101.liverpool.com.mx/i/1165309894.jpg",
+   "category": "Microondas",
+   "price_old": 3908.0,
+   "price_new": 2719.0,
+   "pct": 30.4,
+   "amount": 1189.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2719.0
+  },
+  {
    "id": "1190354764",
    "name": "BHARARA Eau de parfum Mast perfume rome extradose pour femme para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-mast-perfume-rome-extradose-pour-femme-para-mujer/1190354764",
@@ -27125,6 +29877,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2789.0
+  },
+  {
+   "id": "1119236831",
+   "name": "AVERA Freidora de aire 10 L Fehc01",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-10-l-fehc01/1119236831",
+   "img": "https://sp625.liverpool.com.mx/i/1119236831.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3399.0,
+   "price_new": 2349.0,
+   "pct": 30.9,
+   "amount": 1050.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2349.0
   },
   {
    "id": "999687086553",
@@ -27319,6 +30087,54 @@
    "h_min": 1199.0
   },
   {
+   "id": "999673700080",
+   "name": "SIGNA Freidora de aire 8 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-8-l/999673700080",
+   "img": "https://sp101.liverpool.com.mx/i/1199162302-freidora-aire-signa-8-l.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1799.0,
+   "price_new": 1199.0,
+   "pct": 33.4,
+   "amount": 600.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1199.0
+  },
+  {
+   "id": "1131408290",
+   "name": "ACROS Horno eléctrico AM1807D 20 l",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-am1807d-20-l/1131408290",
+   "img": "https://sp625.liverpool.com.mx/i/1131408290.jpg",
+   "category": "Microondas",
+   "price_old": 3118.0,
+   "price_new": 2149.0,
+   "pct": 31.1,
+   "amount": 969.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2149.0
+  },
+  {
+   "id": "1193713021",
+   "name": "XTELLAR Secadora de cabello xtllar12393",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-xtllar12393/1193713021",
+   "img": "https://sp706.liverpool.com.mx/i/1193713021.jpg",
+   "category": "Secadoras",
+   "price_old": 2600.0,
+   "price_new": 1774.31,
+   "pct": 31.8,
+   "amount": 825.69,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1774.31
+  },
+  {
    "id": "9935722281",
    "name": "GENÉRICA Audífonos True Wireless inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-inal-mbricos/9935722281",
@@ -27381,6 +30197,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2429.0
+  },
+  {
+   "id": "1193612977",
+   "name": "PANASONIC Horno de microondas convencional modelo NN-ST34QBRPH de 0.9 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-nn-st34qbrph-de-0-9-pies/1193612977",
+   "img": "https://sp625.liverpool.com.mx/i/1193612977.jpg",
+   "category": "Microondas",
+   "price_old": 4099.0,
+   "price_new": 2869.0,
+   "pct": 30.0,
+   "amount": 1230.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2869.0
   },
   {
    "id": "99991704691",
@@ -27703,6 +30535,22 @@
    "h_min": 573.38
   },
   {
+   "id": "1183206920",
+   "name": "PANASONIC Horno de microondas convencional modelo NN-SB25JMRUH de 0.7 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-nn-sb25jmruh-de-0-7-pies/1183206920",
+   "img": "https://ss636.liverpool.com.mx/lg/1183206920.jpg",
+   "category": "Microondas",
+   "price_old": 3559.0,
+   "price_new": 2489.0,
+   "pct": 30.1,
+   "amount": 1070.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2489.0
+  },
+  {
    "id": "999679504950",
    "name": "BOGNER Vaso licuadora",
    "url": "https://www.liverpool.com.mx/tienda/pdp/vaso-licuadora/999679504950",
@@ -27717,6 +30565,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 733.35
+  },
+  {
+   "id": "999686549051",
+   "name": "OSTER Freidora de aire con compartimento único 7.5 L CKSTAF75DSSD",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-7-5-l-ckstaf75dssd/999686549051",
+   "img": "https://sp101.liverpool.com.mx/i/1208098426.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3449.0,
+   "price_new": 2409.0,
+   "pct": 30.2,
+   "amount": 1040.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2409.0
   },
   {
    "id": "1186193021",
@@ -27751,6 +30615,22 @@
    "h_min": 899.79
   },
   {
+   "id": "1117290588",
+   "name": "HAMILTON BEACH Freidora de aire 35051",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-35051/1117290588",
+   "img": "https://sp625.liverpool.com.mx/i/1117290588.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3560.0,
+   "price_new": 2492.0,
+   "pct": 30.0,
+   "amount": 1068.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2492.0
+  },
+  {
    "id": "1115333981",
    "name": "Genérica Audífonos True Wireless Diablo inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-diablo-inal-mbricos-con-cancelaci-n-de-ruido/1115333981",
@@ -27781,6 +30661,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 987.6
+  },
+  {
+   "id": "1174911904",
+   "name": "WESTINGHOUSE Horno de microondas convencional modelo WWCMV092533WE de 0.9 pies cúbicos",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-modelo-wwcmv092533we-de-0-9-pies-c-bicos/1174911904",
+   "img": "https://sp625.liverpool.com.mx/i/1174911904.jpg",
+   "category": "Microondas",
+   "price_old": 3459.0,
+   "price_new": 2419.0,
+   "pct": 30.1,
+   "amount": 1040.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2419.0
   },
   {
    "id": "99982376901",
@@ -27879,6 +30775,22 @@
    "h_min": 999.0
   },
   {
+   "id": "1112345171",
+   "name": "HAMILTON BEACH FREIDORA DE AIRE 35050 HAMIL, 0, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-35050-hamil-0-negro/1112345171",
+   "img": "https://sp101.liverpool.com.mx/i/1112345171.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3390.0,
+   "price_new": 2372.0,
+   "pct": 30.0,
+   "amount": 1018.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2372.0
+  },
+  {
    "id": "1136530247",
    "name": "KATY PERRY Eau de parfum Meow para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-meow-para-mujer/1136530247",
@@ -27927,6 +30839,54 @@
    "h_min": 929.0
   },
   {
+   "id": "999683486296",
+   "name": "IQ TECH Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999683486296",
+   "img": "https://sp101.liverpool.com.mx/i/1205253293.jpg",
+   "category": "Secadoras",
+   "price_old": 900.0,
+   "price_new": 579.0,
+   "pct": 35.7,
+   "amount": 321.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 579.0
+  },
+  {
+   "id": "1130958768",
+   "name": "DAEWOO Freidora de aire 4.5 L Daf-1871",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-4-5-l-daf-1871/1130958768",
+   "img": "https://sp623.liverpool.com.mx/i/1130958768.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 3277.0,
+   "price_new": 2293.89,
+   "pct": 30.0,
+   "amount": 983.11,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2293.89
+  },
+  {
+   "id": "99993444843",
+   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
+   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
+   "category": "Tenis",
+   "price_old": 2499.0,
+   "price_new": 1724.0,
+   "pct": 31.0,
+   "amount": 775.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1225.0
+  },
+  {
    "id": "99993444360",
    "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444360",
@@ -27941,6 +30901,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1724.0
+  },
+  {
+   "id": "1169119385",
+   "name": "ADIDAS ORIGINALS Tenis campus para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-campus-para-mujer/1169119385",
+   "img": "https://ss550.liverpool.com.mx/lg/1169119385.jpg",
+   "category": "Tenis",
+   "price_old": 2499.0,
+   "price_new": 1724.0,
+   "pct": 31.0,
+   "amount": 775.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 975.0
   },
   {
    "id": "1120095346",
@@ -28007,6 +30983,38 @@
    "h_min": 2159.0
   },
   {
+   "id": "99993444929",
+   "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
+   "img": "https://ss550.liverpool.com.mx/lg/1191718441.jpg",
+   "category": "Tenis",
+   "price_old": 2399.0,
+   "price_new": 1655.0,
+   "pct": 31.0,
+   "amount": 744.0,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1176.0
+  },
+  {
+   "id": "1197312552",
+   "name": "JADE COOK Freidora de aire con 6.5 l C0536-00",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-6-5-l-c0536-00/1197312552",
+   "img": "https://sp436.liverpool.com.mx/i/1197312552.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2999.0,
+   "price_new": 2095.0,
+   "pct": 30.1,
+   "amount": 904.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2095.0
+  },
+  {
    "id": "1114728353",
    "name": "Genérica Smartwatch DT88 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-dt88-unisex/1114728353",
@@ -28069,6 +31077,70 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 1999.0
+  },
+  {
+   "id": "1145549988",
+   "name": "ASUS Monitor standard full HD 23.8 pulgadas VA24EHF",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-standard-full-hd-23-8-pulgadas-va24ehf/1145549988",
+   "img": "https://ss628.liverpool.com.mx/lg/1145549988.jpg",
+   "category": "Monitores",
+   "price_old": 2999.0,
+   "price_new": 2099.0,
+   "pct": 30.0,
+   "amount": 900.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2099.0
+  },
+  {
+   "id": "1191744230",
+   "name": "ELLE Freidora de aire 5 L EKAFP501WH",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-5-l-ekafp501wh/1191744230",
+   "img": "https://sp625.liverpool.com.mx/i/1191744230.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2999.0,
+   "price_new": 2099.29,
+   "pct": 30.0,
+   "amount": 899.71,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2099.29
+  },
+  {
+   "id": "1191744221",
+   "name": "ELLE Freidora de aire con compartimento único 5 L EKAFP501BU",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-5-l-ekafp501bu/1191744221",
+   "img": "https://ss625.liverpool.com.mx/lg/1191744221.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2999.0,
+   "price_new": 2099.29,
+   "pct": 30.0,
+   "amount": 899.71,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2099.29
+  },
+  {
+   "id": "1188874700",
+   "name": "REVLON Secadora de cabello Essential Rvdr5034",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-essential-rvdr5034/1188874700",
+   "img": "https://sp706.liverpool.com.mx/i/1188874700.jpg",
+   "category": "Secadoras",
+   "price_old": 990.0,
+   "price_new": 645.0,
+   "pct": 34.8,
+   "amount": 345.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 645.0
   },
   {
    "id": "1179242601",
@@ -28215,6 +31287,22 @@
    "h_min": 583.04
   },
   {
+   "id": "999680095865",
+   "name": "MERTEC Freidora de aire 62522 6.5 L MT-023SV",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-62522-6-5-l-mt-023sv/999680095865",
+   "img": "https://sp101.liverpool.com.mx/i/1201587171.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2671.84,
+   "price_new": 1868.42,
+   "pct": 30.1,
+   "amount": 803.42,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1868.42
+  },
+  {
    "id": "1141583413",
    "name": "HAMILTON BEACH Licuadora Sound Shield 950 8 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-sound-shield-950-8-velocidades/1141583413",
@@ -28229,6 +31317,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 1859.0
+  },
+  {
+   "id": "1123589684",
+   "name": "REVLON Secadora de cabello RV408-N",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-rv408-n/1123589684",
+   "img": "https://sp706.liverpool.com.mx/i/1123589684.jpg",
+   "category": "Secadoras",
+   "price_old": 1200.0,
+   "price_new": 799.0,
+   "pct": 33.4,
+   "amount": 401.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 799.0
   },
   {
    "id": "1177040254",
@@ -28279,6 +31383,22 @@
    "h_min": 899.0
   },
   {
+   "id": "99991531426",
+   "name": "LACOSTE Funda para Iphone de tpu",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-iphone-de-tpu/99991531426",
+   "img": "https://ss637.liverpool.com.mx/lg/1188859018.jpg",
+   "category": "Iphone",
+   "price_old": 1199.0,
+   "price_new": 799.0,
+   "pct": 33.4,
+   "amount": 400.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 799.0
+  },
+  {
    "id": "999686016687",
    "name": "JBL Audífonos On-Ear Tune 520 bt inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-on-ear-tune-520-bt-inal-mbricos/999686016687",
@@ -28293,6 +31413,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 799.0
+  },
+  {
+   "id": "1161048646",
+   "name": "BELUG Audífonos in-ear genérica inalámbrica con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-gen-rica-inal-mbrica-con-cancelaci-n-de-ruido/1161048646",
+   "img": "https://sp630.liverpool.com.mx/i/1161048646.jpg",
+   "category": "Audifonos",
+   "price_old": 1443.0,
+   "price_new": 974.13,
+   "pct": 32.5,
+   "amount": 468.87,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 974.13
   },
   {
    "id": "1164647567",
@@ -28455,20 +31591,20 @@
    "h_min": 1530.0
   },
   {
-   "id": "1147998992",
-   "name": "LATTAFA Eau de parfum Badee Al Oud unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-badee-al-oud-unisex/1147998992",
-   "img": "https://sp701.liverpool.com.mx/i/1147998992.jpg",
-   "category": "Perfumes",
-   "price_old": 1865.0,
-   "price_new": 1285.33,
-   "pct": 31.1,
-   "amount": 579.67,
+   "id": "999686930615",
+   "name": "SHARGE Cargador pared Retro 35W AC 35 W",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/cargador-pared-retro-35w-ac-35-w/999686930615",
+   "img": "https://sp101.liverpool.com.mx/i/1208687049.jpg",
+   "category": "Macbook",
+   "price_old": 1507.0,
+   "price_new": 1024.76,
+   "pct": 32.0,
+   "amount": 482.24,
    "ends": "",
-   "first_seen": 1789686242.9389071,
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 1285.33
+   "h_min": 1024.76
   },
   {
    "id": "1163168258",
@@ -28519,6 +31655,22 @@
    "h_min": 949.0
   },
   {
+   "id": "99996302583",
+   "name": "SIGNA Freidora de aceite con compartimento único 3.5 L",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-con-compartimento-nico-3-5-l/99996302583",
+   "img": "https://sp625.liverpool.com.mx/i/1197265902.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1399.0,
+   "price_new": 949.0,
+   "pct": 32.2,
+   "amount": 450.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 949.0
+  },
+  {
    "id": "1192490225",
    "name": "ADIDAS SPORTSWEAR Tenis Vl Court Bold para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-vl-court-bold-para-mujer/1192490225",
@@ -28535,6 +31687,22 @@
    "h_min": 1241.0
   },
   {
+   "id": "1156869011",
+   "name": "GENÉRICA Molde para freidora de aire",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/molde-para-freidora-de-aire/1156869011",
+   "img": "https://ss623.liverpool.com.mx/lg/1156869011.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 925.0,
+   "price_new": 610.51,
+   "pct": 34.0,
+   "amount": 314.49,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 610.51
+  },
+  {
    "id": "999683624259",
    "name": "GENÉRICA Audífonos In-Ear inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/999683624259",
@@ -28546,6 +31714,22 @@
    "amount": 350.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 699.0
+  },
+  {
+   "id": "999685201338",
+   "name": "Secadora de cabello GENÉRICA",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-gen-rica/999685201338",
+   "img": "https://sp101.liverpool.com.mx/i/1206875522.jpg",
+   "category": "Secadoras",
+   "price_old": 1049.0,
+   "price_new": 699.0,
+   "pct": 33.4,
+   "amount": 350.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 699.0
@@ -28663,22 +31847,6 @@
    "h_min": 1099.0
   },
   {
-   "id": "1181729135",
-   "name": "MAISON ALHAMBRA Eau de parfum Lovely Chérie unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-lovely-ch-rie-unisex/1181729135",
-   "img": "https://sp701.liverpool.com.mx/i/1181729135.jpg",
-   "category": "Perfumes",
-   "price_old": 1600.0,
-   "price_new": 1100.0,
-   "pct": 31.2,
-   "amount": 500.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1100.0
-  },
-  {
    "id": "1140371951",
    "name": "BILLBOARD Bocina portátil Chroma bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-chroma-bluetooth/1140371951",
@@ -28773,6 +31941,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1250.0
+  },
+  {
+   "id": "1112432953",
+   "name": "ELITE CUISINE FREIDORA DE AIRE EAF2612D, 2 L, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-eaf2612d-2-l-negro/1112432953",
+   "img": "https://sp101.liverpool.com.mx/i/1112432953.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1799.0,
+   "price_new": 1249.0,
+   "pct": 30.6,
+   "amount": 550.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1249.0
   },
   {
    "id": "1139709761",
@@ -28967,6 +32151,38 @@
    "h_min": 1245.26
   },
   {
+   "id": "1119117794",
+   "name": "KIRKLAND Palomitas para microondas 93.5 g",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/palomitas-para-microondas-93-5-g/1119117794",
+   "img": "https://sp392.liverpool.com.mx/i/1119117794.jpg",
+   "category": "Microondas",
+   "price_old": 1289.0,
+   "price_new": 879.0,
+   "pct": 31.8,
+   "amount": 410.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 879.0
+  },
+  {
+   "id": "1119117786",
+   "name": "KIRKLAND Palomitas para microondas sabor mantequilla 93.5 g",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/palomitas-para-microondas-sabor-mantequilla-93-5-g/1119117786",
+   "img": "https://sp392.liverpool.com.mx/i/1119117786.jpg",
+   "category": "Microondas",
+   "price_old": 1289.0,
+   "price_new": 879.0,
+   "pct": 31.8,
+   "amount": 410.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 879.0
+  },
+  {
    "id": "1192631994",
    "name": "HAMILTON BEACH Licuadora 58181J-GRIS 2 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-58181j-gris-2-velocidades/1192631994",
@@ -28981,6 +32197,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1349.0
+  },
+  {
+   "id": "88278356",
+   "name": "BABYLISS Secadora de cabello BABNT053TES",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-babnt053tes/88278356",
+   "img": "https://ss706.liverpool.com.mx/lg/88278356.jpg",
+   "category": "Secadoras",
+   "price_old": 1700.0,
+   "price_new": 1179.0,
+   "pct": 30.6,
+   "amount": 521.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1179.0
+  },
+  {
+   "id": "999680097562",
+   "name": "MERTEC Freidora de aire con compartimento único 4.2 l MT-001BV reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-4-2-l-mt-001bv-reacondicionado/999680097562",
+   "img": "https://sp101.liverpool.com.mx/i/1201587821.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1923.0,
+   "price_new": 1345.0,
+   "pct": 30.1,
+   "amount": 578.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1345.0
   },
   {
    "id": "1120639753",
@@ -29077,6 +32325,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1249.0
+  },
+  {
+   "id": "1151275482",
+   "name": "DAEWOO Freidora de aceite 3 L Ddf-364",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aceite-3-l-ddf-364/1151275482",
+   "img": "https://sp625.liverpool.com.mx/i/1151275482.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1829.0,
+   "price_new": 1279.0,
+   "pct": 30.1,
+   "amount": 550.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1279.0
   },
   {
    "id": "1107651230",
@@ -29511,22 +32775,6 @@
    "h_min": 680.32
   },
   {
-   "id": "1193926378",
-   "name": "XTELLAR Organizador para refrigerador",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/organizador-para-refrigerador/1193926378",
-   "img": "https://ss398.liverpool.com.mx/lg/1193926378.jpg",
-   "category": "Refrigeradores",
-   "price_old": 1538.91,
-   "price_new": 1077.24,
-   "pct": 30.0,
-   "amount": 461.67,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1077.24
-  },
-  {
    "id": "1142811274",
    "name": "LENOVO THINK Audífonos True Wireless Lp 40 Pro inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-lp-40-pro-inal-mbricos/1142811274",
@@ -29655,22 +32903,6 @@
    "h_min": 999.0
   },
   {
-   "id": "1190871289",
-   "name": "XTELLAR Set de bocinas bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-bocinas-bluetooth/1190871289",
-   "img": "https://ss630.liverpool.com.mx/lg/1190871289.jpg",
-   "category": "Bocinas",
-   "price_old": 1267.87,
-   "price_new": 880.05,
-   "pct": 30.6,
-   "amount": 387.82,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 880.05
-  },
-  {
    "id": "1183531910",
    "name": "HAMILTON BEACH LICUADORA 58148-MXR-NEG HAMILTO, NEGRO",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-58148-mxr-neg-hamilto-negro/1183531910",
@@ -29701,6 +32933,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 977.9
+  },
+  {
+   "id": "1134162127",
+   "name": "DAEWOO MICROONDAS CONVECCIÓN D, 2 PIES, NEGRO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/microondas-convecci-n-d-2-pies-negro/1134162127",
+   "img": "https://sp101.liverpool.com.mx/i/1134162127.jpg",
+   "category": "Microondas",
+   "price_old": 1379.0,
+   "price_new": 965.3,
+   "pct": 30.0,
+   "amount": 413.7,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 965.3
   },
   {
    "id": "1113348085",
@@ -29797,6 +33045,38 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 928.9
+  },
+  {
+   "id": "1115916650",
+   "name": "PROCTOR SILEX Freidora de aire 1.5 L 35055",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-1-5-l-35055/1115916650",
+   "img": "https://sp625.liverpool.com.mx/i/1115916650.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 1299.0,
+   "price_new": 909.0,
+   "pct": 30.0,
+   "amount": 390.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 909.0
+  },
+  {
+   "id": "1128643032",
+   "name": "CONAIR Secadora de cabello 237TES",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-237tes/1128643032",
+   "img": "https://sp706.liverpool.com.mx/i/1128643032.jpg",
+   "category": "Secadoras",
+   "price_old": 1240.0,
+   "price_new": 866.0,
+   "pct": 30.2,
+   "amount": 374.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 866.0
   },
   {
    "id": "1153472749",

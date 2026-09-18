@@ -1,6 +1,6 @@
 {
- "generated_at": 1789693442.3565245,
- "generated_at_str": "17/09/2026 19:10",
+ "generated_at": 1789697042.2913218,
+ "generated_at_str": "17/09/2026 20:10",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -661,22 +661,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 36759.0
-  },
-  {
-   "id": "1170575489",
-   "name": "SONY Audífonos Over-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-inal-mbricos-con-cancelaci-n-de-ruido/1170575489",
-   "img": "https://sp637.liverpool.com.mx/i/1170575489.jpg",
-   "category": "Audifonos",
-   "price_old": 6799.0,
-   "price_new": 2530.99,
-   "pct": 62.8,
-   "amount": 4268.01,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 2530.99
   },
   {
    "id": "999675773725",
@@ -1605,6 +1589,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 472.79
+  },
+  {
+   "id": "1157732109",
+   "name": "Genérica Audífonos Over-Ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-inal-mbricos-con-cancelaci-n-de-ruido/1157732109",
+   "img": "https://ss637.liverpool.com.mx/lg/1157732109.jpg",
+   "category": "Audifonos",
+   "price_old": 2299.0,
+   "price_new": 737.75,
+   "pct": 67.9,
+   "amount": 1561.25,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 737.75
   },
   {
    "id": "99991968912",
@@ -6183,22 +6183,6 @@
    "h_min": 14299.0
   },
   {
-   "id": "99984838362",
-   "name": "M & E MUEBLES Sala modular derecha",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha/99984838362",
-   "img": "https://sp101.liverpool.com.mx/i/1177157925.jpg",
-   "category": "Salas",
-   "price_old": 57000.0,
-   "price_new": 33500.0,
-   "pct": 41.2,
-   "amount": 23500.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 33500.0
-  },
-  {
    "id": "99968704335",
    "name": "1hora Bocina portátil BOC062 bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-boc062-bluetooth/99968704335",
@@ -6245,22 +6229,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 27999.0
-  },
-  {
-   "id": "1184729594",
-   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184729594",
-   "img": "https://sp637.liverpool.com.mx/i/1184729594.jpg",
-   "category": "Audifonos",
-   "price_old": 1673.95,
-   "price_new": 674.1,
-   "pct": 59.7,
-   "amount": 999.85,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 674.1
   },
   {
    "id": "1184332988",
@@ -6471,22 +6439,6 @@
    "h_min": 1499.0
   },
   {
-   "id": "99972915254",
-   "name": "APPLE iPhone 15 PRO MAX 6.7 pulgadas Super Retina XDR Reacondicionado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-pro-max-6-7-pulgadas-super-retina-xdr-reacondicionado/99972915254",
-   "img": "https://sp632.liverpool.com.mx/i/1158272977.jpg",
-   "category": "Iphone",
-   "price_old": 24999.0,
-   "price_new": 13996.0,
-   "pct": 44.0,
-   "amount": 11003.0,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 13996.0
-  },
-  {
    "id": "1187816935",
    "name": "DREAMETECH Aspiradora de mano z30 essential 800 ml",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-z30-essential-800-ml/1187816935",
@@ -6663,20 +6615,36 @@
    "h_min": 1349.0
   },
   {
+   "id": "1184618784",
+   "name": "BELUG Audífonos in-ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184618784",
+   "img": "https://sp101.liverpool.com.mx/i/1184618784.jpg",
+   "category": "Audifonos",
+   "price_old": 1860.0,
+   "price_new": 777.34,
+   "pct": 58.2,
+   "amount": 1082.66,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 578.68
+  },
+  {
    "id": "999679908322",
    "name": "GENÉRICA Audífonos de diadema alámbricos e inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-de-diadema-al-mbricos-e-inal-mbricos-con-cancelaci-n-de-ruido/999679908322",
    "img": "https://sp101.liverpool.com.mx/i/1201497635.jpg",
    "category": "Audifonos",
    "price_old": 1599.0,
-   "price_new": 651.4,
+   "price_new": 650.79,
    "pct": 59.3,
-   "amount": 947.6,
+   "amount": 948.21,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 651.4
+   "h_min": 650.79
   },
   {
    "id": "1192627806",
@@ -7623,22 +7591,6 @@
    "h_min": 7559.4
   },
   {
-   "id": "1184294865",
-   "name": "XTELLAR Bocina recargable XTLLAR5785 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-xtllar5785-bluetooth/1184294865",
-   "img": "https://ss630.liverpool.com.mx/lg/1184294865.jpg",
-   "category": "Bocinas",
-   "price_old": 1456.64,
-   "price_new": 613.25,
-   "pct": 57.9,
-   "amount": 843.39,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 613.25
-  },
-  {
    "id": "999683641867",
    "name": "EASY LIVING Set Recámara Oriana de madera",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-oriana-de-madera/999683641867",
@@ -7845,22 +7797,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2339.0
-  },
-  {
-   "id": "1177135719",
-   "name": "APPLE iPhone 15 6.1 pulgadas OLED Reacondicionado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-6-1-pulgadas-oled-reacondicionado/1177135719",
-   "img": "https://sp632.liverpool.com.mx/i/1177135719.jpg",
-   "category": "Iphone",
-   "price_old": 15999.0,
-   "price_new": 8989.0,
-   "pct": 43.8,
-   "amount": 7010.0,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 8989.0
   },
   {
    "id": "1189589898",
@@ -8119,22 +8055,6 @@
    "h_min": 23490.0
   },
   {
-   "id": "999680512682",
-   "name": "GENÉRICA Smartwatch para mujer con gps",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-mujer-con-gps/999680512682",
-   "img": "https://sp101.liverpool.com.mx/i/1202498571.jpg",
-   "category": "Smartwatch",
-   "price_old": 1763.18,
-   "price_new": 782.06,
-   "pct": 55.6,
-   "amount": 981.12,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 782.06
-  },
-  {
    "id": "1188894221",
    "name": "BABYLISS Secadora de cabello BNTC9200T45",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-bntc9200t45/1188894221",
@@ -8277,6 +8197,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 9099.99
+  },
+  {
+   "id": "999680512682",
+   "name": "GENÉRICA Smartwatch para mujer con gps",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-mujer-con-gps/999680512682",
+   "img": "https://sp101.liverpool.com.mx/i/1202498571.jpg",
+   "category": "Smartwatch",
+   "price_old": 1750.0,
+   "price_new": 782.05,
+   "pct": 55.3,
+   "amount": 967.95,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 782.05
   },
   {
    "id": "1187202571",
@@ -8535,20 +8471,20 @@
    "h_min": 18999.0
   },
   {
-   "id": "999682218938",
-   "name": "GENÉRICA Bocina gaming alámbrica",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-gaming-al-mbrica/999682218938",
-   "img": "https://sp101.liverpool.com.mx/i/1204228686.jpg",
-   "category": "Bocinas",
-   "price_old": 1986.58,
-   "price_new": 915.1,
-   "pct": 53.9,
-   "amount": 1071.48,
+   "id": "1184596055",
+   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184596055",
+   "img": "https://sp630.liverpool.com.mx/i/1184596055.jpg",
+   "category": "Audifonos",
+   "price_old": 1875.0,
+   "price_new": 856.22,
+   "pct": 54.3,
+   "amount": 1018.78,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 915.1
+   "h_min": 856.22
   },
   {
    "id": "1067891259",
@@ -8683,7 +8619,7 @@
    "name": "WÜND Secadora electrónica de 5 kg con 1 ciclo ANR2359",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-electr-nica-de-5-kg-con-1-ciclo-anr2359/1169366418",
    "img": "https://sp634.liverpool.com.mx/i/1169366418.jpg",
-   "category": "Secadoras",
+   "category": "Lavadoras",
    "price_old": 1056.64,
    "price_new": 441.51,
    "pct": 58.2,
@@ -8693,6 +8629,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 441.51
+  },
+  {
+   "id": "999683694305",
+   "name": "GENERICA Audífonos In-Ear Genérica inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-gen-rica-inal-mbricos-con-cancelaci-n-de-ruido/999683694305",
+   "img": "https://sp101.liverpool.com.mx/i/1205852693.jpg",
+   "category": "Audifonos",
+   "price_old": 1400.0,
+   "price_new": 615.03,
+   "pct": 56.1,
+   "amount": 784.97,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 615.03
   },
   {
    "id": "999673988206",
@@ -8725,22 +8677,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 3288.0
-  },
-  {
-   "id": "999683694305",
-   "name": "GENERICA Audífonos In-Ear Genérica inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-gen-rica-inal-mbricos-con-cancelaci-n-de-ruido/999683694305",
-   "img": "https://sp101.liverpool.com.mx/i/1205852693.jpg",
-   "category": "Audifonos",
-   "price_old": 1400.0,
-   "price_new": 615.64,
-   "pct": 56.0,
-   "amount": 784.36,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 615.64
   },
   {
    "id": "1136239356",
@@ -8949,6 +8885,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 2822.0
+  },
+  {
+   "id": "1183776637",
+   "name": "LAB.G Kit esterilizador de biberón para microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-esterilizador-de-biber-n-para-microondas/1183776637",
+   "img": "https://ss417.liverpool.com.mx/lg/1183776637.jpg",
+   "category": "Microondas",
+   "price_old": 2501.32,
+   "price_new": 1208.99,
+   "pct": 51.7,
+   "amount": 1292.33,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1208.99
   },
   {
    "id": "1185131234",
@@ -9335,6 +9287,22 @@
    "h_min": 13193.0
   },
   {
+   "id": "1174537395",
+   "name": "MODI SOFA Sala modular ADAPTI de poliéster",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-adapti-de-poli-ster/1174537395",
+   "img": "https://sp101.liverpool.com.mx/i/1174537395.jpg",
+   "category": "Salas",
+   "price_old": 40577.6,
+   "price_new": 25158.0,
+   "pct": 38.0,
+   "amount": 15419.6,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 25158.0
+  },
+  {
    "id": "1188109396",
    "name": "HP Laptop 240R 14 pulgadas Full HD Intel Core i5 Integradas 16 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240r-14-pulgadas-full-hd-intel-core-i5-integradas-16-gb-ram-512-gb-ssd/1188109396",
@@ -9445,6 +9413,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 18299.0
+  },
+  {
+   "id": "1184620037",
+   "name": "LAB.G Kit esterilizador de biberón para microondas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-esterilizador-de-biber-n-para-microondas/1184620037",
+   "img": "https://ss417.liverpool.com.mx/lg/1184620037.jpg",
+   "category": "Microondas",
+   "price_old": 2070.0,
+   "price_new": 989.0,
+   "pct": 52.2,
+   "amount": 1081.0,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 989.0
   },
   {
    "id": "99993444843",
@@ -9655,6 +9639,22 @@
    "h_min": 18999.0
   },
   {
+   "id": "1173334261",
+   "name": "LIKEPINK Aspiradora de mano iscan 0.45 litros",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-iscan-0-45-litros/1173334261",
+   "img": "https://sp625.liverpool.com.mx/i/1173334261.jpg",
+   "category": "Aspiradoras",
+   "price_old": 2100.0,
+   "price_new": 1009.47,
+   "pct": 51.9,
+   "amount": 1090.53,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1009.47
+  },
+  {
    "id": "99993444929",
    "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
@@ -9765,6 +9765,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 6599.0
+  },
+  {
+   "id": "999682218938",
+   "name": "GENÉRICA Bocina gaming alámbrica",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-gaming-al-mbrica/999682218938",
+   "img": "https://sp101.liverpool.com.mx/i/1204228686.jpg",
+   "category": "Bocinas",
+   "price_old": 1920.0,
+   "price_new": 915.09,
+   "pct": 52.3,
+   "amount": 1004.91,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 915.09
   },
   {
    "id": "1178476757",
@@ -9943,6 +9959,22 @@
    "h_min": 11983.0
   },
   {
+   "id": "999682128168",
+   "name": "GENÉRICA Audífonos In-Ear inalámbricos con cacelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cacelaci-n-de-ruido/999682128168",
+   "img": "https://sp101.liverpool.com.mx/i/1204213131.jpg",
+   "category": "Audifonos",
+   "price_old": 1800.0,
+   "price_new": 855.54,
+   "pct": 52.5,
+   "amount": 944.46,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 855.54
+  },
+  {
    "id": "1189423809",
    "name": "HP Laptop 240 G10 14 pulgadas Full HD Intel Core i5 Integradas 32 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-240-g10-14-pulgadas-full-hd-intel-core-i5-integradas-32-gb-ram-512-gb-ssd/1189423809",
@@ -10069,38 +10101,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 11999.0
-  },
-  {
-   "id": "999682128168",
-   "name": "GENÉRICA Audífonos In-Ear inalámbricos con cacelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cacelaci-n-de-ruido/999682128168",
-   "img": "https://sp101.liverpool.com.mx/i/1204213131.jpg",
-   "category": "Audifonos",
-   "price_old": 1800.0,
-   "price_new": 856.14,
-   "pct": 52.4,
-   "amount": 943.86,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 856.14
-  },
-  {
-   "id": "1189271006",
-   "name": "BELUG Aspiradora de mano 500 ml",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-500-ml/1189271006",
-   "img": "https://sp625.liverpool.com.mx/i/1189271006.jpg",
-   "category": "Aspiradoras",
-   "price_old": 2199.46,
-   "price_new": 1074.76,
-   "pct": 51.1,
-   "amount": 1124.7,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1074.76
   },
   {
    "id": "1184596063",
@@ -10517,6 +10517,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 299.0
+  },
+  {
+   "id": "999680483027",
+   "name": "GENÉRICA Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999680483027",
+   "img": "https://sp101.liverpool.com.mx/i/1202498945.jpg",
+   "category": "Secadoras",
+   "price_old": 2060.0,
+   "price_new": 1012.76,
+   "pct": 50.8,
+   "amount": 1047.24,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1012.76
   },
   {
    "id": "1169747136",
@@ -11685,6 +11701,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 34339.0
+  },
+  {
+   "id": "1168767303",
+   "name": "WÜND Set de bocinas alámbrica",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-bocinas-al-mbrica/1168767303",
+   "img": "https://sp637.liverpool.com.mx/i/1168767303.jpg",
+   "category": "Bocinas",
+   "price_old": 1799.0,
+   "price_new": 890.81,
+   "pct": 50.5,
+   "amount": 908.19,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 890.81
   },
   {
    "id": "1173911927",
@@ -13159,22 +13191,6 @@
    "h_min": 26159.0
   },
   {
-   "id": "1157067849",
-   "name": "GENÉRICA Smartwatch unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-unisex/1157067849",
-   "img": "https://ss376.liverpool.com.mx/lg/1157067849.jpg",
-   "category": "Smartwatch",
-   "price_old": 1618.1,
-   "price_new": 809.05,
-   "pct": 50.0,
-   "amount": 809.05,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 618.0
-  },
-  {
    "id": "1174023138",
    "name": "KESSA Set recámara Vanessa de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-vanessa-de-mdf/1174023138",
@@ -14333,14 +14349,14 @@
    "img": "https://ss630.liverpool.com.mx/lg/1194082513.jpg",
    "category": "Audifonos",
    "price_old": 1207.0,
-   "price_new": 590.6,
+   "price_new": 590.54,
    "pct": 51.1,
-   "amount": 616.4,
+   "amount": 616.46,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 590.6
+   "h_min": 590.54
   },
   {
    "id": "999680053609",
@@ -14557,14 +14573,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1203892108.jpg",
    "category": "Smartwatch",
    "price_old": 2400.0,
-   "price_new": 1280.44,
+   "price_new": 1280.43,
    "pct": 46.6,
-   "amount": 1119.56,
+   "amount": 1119.57,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 1280.44
+   "h_min": 1280.43
   },
   {
    "id": "1116421590",
@@ -15213,14 +15229,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1201504755.jpg",
    "category": "Audifonos",
    "price_old": 1399.0,
-   "price_new": 706.79,
+   "price_new": 706.19,
    "pct": 49.5,
-   "amount": 692.21,
+   "amount": 692.81,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 706.79
+   "h_min": 706.19
   },
   {
    "id": "1132845936",
@@ -16455,6 +16471,22 @@
    "h_min": 26049.0
   },
   {
+   "id": "1184729594",
+   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184729594",
+   "img": "https://sp637.liverpool.com.mx/i/1184729594.jpg",
+   "category": "Audifonos",
+   "price_old": 1314.0,
+   "price_new": 674.09,
+   "pct": 48.7,
+   "amount": 639.91,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 674.09
+  },
+  {
    "id": "1162392618",
    "name": "LENOVO Laptop Loq Gaming 15.6 pulgadas Full HD Intel Core i5 NVIDIA GeForce RTX 2050 8 GB RAM 512 GB SSD",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-loq-gaming-15-6-pulgadas-full-hd-intel-core-i5-nvidia-geforce-rtx-2050-8-/1162392618",
@@ -16567,6 +16599,22 @@
    "h_min": 2599.0
   },
   {
+   "id": "999682388611",
+   "name": "GENÉRICA Cubierta para mesa",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/cubierta-para-mesa/999682388611",
+   "img": "https://sp101.liverpool.com.mx/i/1204719272.jpg",
+   "category": "Lavadoras",
+   "price_old": 920.0,
+   "price_new": 450.41,
+   "pct": 51.0,
+   "amount": 469.59,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 450.41
+  },
+  {
    "id": "1156995548",
    "name": "BELUG Aspiradora de mano Genérica Removedor de polvo 500 ml",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-gen-rica-removedor-de-polvo-500-ml/1156995548",
@@ -16581,22 +16629,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 970.98
-  },
-  {
-   "id": "999682388611",
-   "name": "GENÉRICA Cubierta para mesa",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/cubierta-para-mesa/999682388611",
-   "img": "https://sp101.liverpool.com.mx/i/1204719272.jpg",
-   "category": "Lavadoras",
-   "price_old": 920.0,
-   "price_new": 451.01,
-   "pct": 51.0,
-   "amount": 468.99,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 451.01
   },
   {
    "id": "1186526241",
@@ -17735,22 +17767,6 @@
    "h_min": 11819.0
   },
   {
-   "id": "1157906093",
-   "name": "Genérica Smartwatch unisex con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-unisex-con-gps/1157906093",
-   "img": "https://ss376.liverpool.com.mx/lg/1157906093.jpg",
-   "category": "Smartwatch",
-   "price_old": 1323.14,
-   "price_new": 693.26,
-   "pct": 47.6,
-   "amount": 629.88,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 693.26
-  },
-  {
    "id": "999649441842",
    "name": "KESSA Set recamara de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-recamara-de-mdf/999649441842",
@@ -17925,6 +17941,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 1100.0
+  },
+  {
+   "id": "1189271006",
+   "name": "BELUG Aspiradora de mano 500 ml",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-500-ml/1189271006",
+   "img": "https://sp625.liverpool.com.mx/i/1189271006.jpg",
+   "category": "Aspiradoras",
+   "price_old": 1959.0,
+   "price_new": 1074.75,
+   "pct": 45.1,
+   "amount": 884.25,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1074.75
   },
   {
    "id": "999680037913",
@@ -18519,22 +18551,6 @@
    "h_min": 14479.0
   },
   {
-   "id": "1157732109",
-   "name": "Genérica Audífonos Over-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-inal-mbricos-con-cancelaci-n-de-ruido/1157732109",
-   "img": "https://ss637.liverpool.com.mx/lg/1157732109.jpg",
-   "category": "Audifonos",
-   "price_old": 1382.7,
-   "price_new": 737.76,
-   "pct": 46.6,
-   "amount": 644.94,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 737.76
-  },
-  {
    "id": "1157731935",
    "name": "BELUG Audífonos True Wireless inalámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-inal-mbricos-con-cancelaci-n-de-ruido/1157731935",
@@ -18693,22 +18709,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 4399.0
-  },
-  {
-   "id": "1181378740",
-   "name": "APPLE iPhone 16 Plus 6.7 pulgadas Super Retina XDR Reacondicionado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-16-plus-6-7-pulgadas-super-retina-xdr-reacondicionado/1181378740",
-   "img": "https://ss632.liverpool.com.mx/lg/1181378740.jpg",
-   "category": "Iphone",
-   "price_old": 22599.0,
-   "price_new": 14999.0,
-   "pct": 33.6,
-   "amount": 7600.0,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 14999.0
   },
   {
    "id": "1134544160",
@@ -18877,14 +18877,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1207572931.jpg",
    "category": "Aspiradoras",
    "price_old": 1125.0,
-   "price_new": 593.29,
+   "price_new": 593.28,
    "pct": 47.3,
-   "amount": 531.71,
+   "amount": 531.72,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 593.29
+   "h_min": 593.28
   },
   {
    "id": "1203993320",
@@ -18949,6 +18949,22 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 836.99
+  },
+  {
+   "id": "999680512742",
+   "name": "GENÉRICA Smartwatch para hombre con GPS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-hombre-con-gps/999680512742",
+   "img": "https://sp101.liverpool.com.mx/i/1203244939.jpg",
+   "category": "Smartwatch",
+   "price_old": 2210.0,
+   "price_new": 1256.24,
+   "pct": 43.2,
+   "amount": 953.76,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1256.24
   },
   {
    "id": "1135695081",
@@ -19335,6 +19351,22 @@
    "h_min": 1079.0
   },
   {
+   "id": "999680397911",
+   "name": "GENÉRICA Sopladora a batería recargable 90 mph 105 cfm",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sopladora-a-bater-a-recargable-90-mph-105-cfm/999680397911",
+   "img": "https://sp101.liverpool.com.mx/i/1202143462.jpg",
+   "category": "Aspiradoras",
+   "price_old": 2299.0,
+   "price_new": 1316.23,
+   "pct": 42.7,
+   "amount": 982.77,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1316.23
+  },
+  {
    "id": "1144711943",
    "name": "AVERA Aspiradora ciclónica asp03c 400 ml",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-cicl-nica-asp03c-400-ml/1144711943",
@@ -19621,22 +19653,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 1015.08
-  },
-  {
-   "id": "999680483027",
-   "name": "GENÉRICA Secadora de cabello",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999680483027",
-   "img": "https://sp101.liverpool.com.mx/i/1202498945.jpg",
-   "category": "Secadoras",
-   "price_old": 1802.32,
-   "price_new": 1012.77,
-   "pct": 43.8,
-   "amount": 789.55,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1012.77
   },
   {
    "id": "1116489186",
@@ -20213,6 +20229,22 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 897.53
+  },
+  {
+   "id": "1184294865",
+   "name": "XTELLAR Bocina recargable XTLLAR5785 bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-xtllar5785-bluetooth/1184294865",
+   "img": "https://ss630.liverpool.com.mx/lg/1184294865.jpg",
+   "category": "Bocinas",
+   "price_old": 1133.0,
+   "price_new": 613.16,
+   "pct": 45.9,
+   "amount": 519.84,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 613.16
   },
   {
    "id": "1178608190",
@@ -20807,22 +20839,6 @@
    "h_min": 9529.0
   },
   {
-   "id": "1156869011",
-   "name": "GENÉRICA Molde para freidora de aire",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/molde-para-freidora-de-aire/1156869011",
-   "img": "https://ss623.liverpool.com.mx/lg/1156869011.jpg",
-   "category": "Freidora De Aire",
-   "price_old": 1119.0,
-   "price_new": 609.91,
-   "pct": 45.5,
-   "amount": 509.09,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 609.91
-  },
-  {
    "id": "1139931932",
    "name": "SAMSUNG Smartwatch Galaxy Watch6 Classic unisex con GPS",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-galaxy-watch6-classic-unisex-con-gps/1139931932",
@@ -21287,6 +21303,22 @@
    "h_min": 1100.0
   },
   {
+   "id": "99979137957",
+   "name": "APPLE iPad 9 10 pulgadas 64 GB de 3 GB RAM Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/ipad-9-10-pulgadas-64-gb-de-3-gb-ram-reacondicionado/99979137957",
+   "img": "https://sp628.liverpool.com.mx/i/1168118828.jpg",
+   "category": "Tablets",
+   "price_old": 5999.0,
+   "price_new": 3801.0,
+   "pct": 36.6,
+   "amount": 2198.0,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 3801.0
+  },
+  {
    "id": "1179906348",
    "name": "PARIS CORNER Eau de parfum Khair confection unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-khair-confection-unisex/1179906348",
@@ -21714,6 +21746,22 @@
    "amount": 1080.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1619.0
+  },
+  {
+   "id": "999673667619",
+   "name": "GUESS Tenis para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999673667619",
+   "img": "https://sp101.liverpool.com.mx/i/1199321532.jpg",
+   "category": "Tenis",
+   "price_old": 2699.0,
+   "price_new": 1619.0,
+   "pct": 40.0,
+   "amount": 1080.0,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1619.0
@@ -22343,6 +22391,22 @@
    "h_min": 1499.9
   },
   {
+   "id": "1190632608",
+   "name": "XTELLAR Audífonos in-Ear inalámbrica con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbrica-con-cancelaci-n-de-ruido/1190632608",
+   "img": "https://ss377.liverpool.com.mx/lg/1190632608.jpg",
+   "category": "Audifonos",
+   "price_old": 1014.3,
+   "price_new": 557.48,
+   "pct": 45.0,
+   "amount": 456.82,
+   "ends": "",
+   "first_seen": 1789686242.9389071,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 557.48
+  },
+  {
    "id": "1175106525",
    "name": "SWISS CODE Smartwatch Lite 4 + Klara unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-lite-4-klara-unisex/1175106525",
@@ -22373,22 +22437,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 859.0
-  },
-  {
-   "id": "1190632608",
-   "name": "XTELLAR Audífonos in-Ear inalámbrica con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbrica-con-cancelaci-n-de-ruido/1190632608",
-   "img": "https://ss377.liverpool.com.mx/lg/1190632608.jpg",
-   "category": "Audifonos",
-   "price_old": 1014.3,
-   "price_new": 557.6,
-   "pct": 45.0,
-   "amount": 456.7,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 557.6
   },
   {
    "id": "1171292162",
@@ -24071,6 +24119,22 @@
    "h_min": 10890.0
   },
   {
+   "id": "1179139339",
+   "name": "KOBLENZ Hidrolavadora HL-145V 1450 psi",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/hidrolavadora-hl-145v-1450-psi/1179139339",
+   "img": "https://sp343.liverpool.com.mx/i/1179139339.jpg",
+   "category": "Lavadoras",
+   "price_old": 2668.0,
+   "price_new": 1639.0,
+   "pct": 38.6,
+   "amount": 1029.0,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1639.0
+  },
+  {
    "id": "999681260167",
    "name": "LITY Audífonos In-Ear analámbricos con cancelación de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-anal-mbricos-con-cancelaci-n-de-ruido/999681260167",
@@ -24557,14 +24621,14 @@
    "img": "https://sp610.liverpool.com.mx/i/1193551595.jpg",
    "category": "Bocinas",
    "price_old": 1149.0,
-   "price_new": 656.69,
+   "price_new": 656.68,
    "pct": 42.8,
-   "amount": 492.31,
+   "amount": 492.32,
    "ends": "",
    "first_seen": 1787593719.1367073,
    "in_stock": true,
    "h_dias": 2,
-   "h_min": 656.69
+   "h_min": 656.68
   },
   {
    "id": "1171148797",
@@ -25437,14 +25501,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1208507725.jpg",
    "category": "Aspiradoras",
    "price_old": 1249.0,
-   "price_new": 733.54,
+   "price_new": 733.53,
    "pct": 41.3,
-   "amount": 515.46,
+   "amount": 515.47,
    "ends": "",
    "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 733.54
+   "h_min": 733.53
   },
   {
    "id": "1156899301",
@@ -25581,14 +25645,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1208044628.jpg",
    "category": "Cafeteras",
    "price_old": 1250.0,
-   "price_new": 734.54,
+   "price_new": 734.53,
    "pct": 41.2,
-   "amount": 515.46,
+   "amount": 515.47,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 734.54
+   "h_min": 734.53
   },
   {
    "id": "999683719451",
@@ -25605,38 +25669,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 12599.0
-  },
-  {
-   "id": "999680085646",
-   "name": "GENÉRICA Smartwatch unisex con Gps",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-unisex-con-gps/999680085646",
-   "img": "https://sp101.liverpool.com.mx/i/1201878248.jpg",
-   "category": "Smartwatch",
-   "price_old": 1155.81,
-   "price_new": 675.17,
-   "pct": 41.6,
-   "amount": 480.64,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 558.35
-  },
-  {
-   "id": "1180364354",
-   "name": "ELEGO Smartwatch St2-G para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-st2-g-para-hombre/1180364354",
-   "img": "https://ss610.liverpool.com.mx/lg/1180364354.jpg",
-   "category": "Smartwatch",
-   "price_old": 1832.03,
-   "price_new": 1115.86,
-   "pct": 39.1,
-   "amount": 716.17,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1115.86
   },
   {
    "id": "1162415588",
@@ -25877,22 +25909,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 5651.0
-  },
-  {
-   "id": "1176997415",
-   "name": "XTELLAR Set de bocinas XTLLAR275 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-bocinas-xtllar275-bluetooth/1176997415",
-   "img": "https://ss637.liverpool.com.mx/lg/1176997415.jpg",
-   "category": "Bocinas",
-   "price_old": 1541.97,
-   "price_new": 928.67,
-   "pct": 39.8,
-   "amount": 613.3,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 928.67
   },
   {
    "id": "1163423011",
@@ -26775,6 +26791,22 @@
    "h_min": 4159.99
   },
   {
+   "id": "1177135719",
+   "name": "APPLE iPhone 15 6.1 pulgadas OLED Reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-6-1-pulgadas-oled-reacondicionado/1177135719",
+   "img": "https://sp632.liverpool.com.mx/i/1177135719.jpg",
+   "category": "Iphone",
+   "price_old": 12899.0,
+   "price_new": 8988.0,
+   "pct": 30.3,
+   "amount": 3911.0,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 8988.0
+  },
+  {
    "id": "999686814443",
    "name": "WINIA Refrigerador Top mount 9 pies cúbicos Smart Cooling WRT-M09GLFX",
    "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-9-pies-c-bicos-smart-cooling-wrt-m09glfx/999686814443",
@@ -27429,22 +27461,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 785.0
-  },
-  {
-   "id": "999681731376",
-   "name": "GENÉRICA Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/999681731376",
-   "img": "https://sp101.liverpool.com.mx/i/1203653332.jpg",
-   "category": "Audifonos",
-   "price_old": 1088.68,
-   "price_new": 653.55,
-   "pct": 40.0,
-   "amount": 435.13,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 490.37
   },
   {
    "id": "1188530849",
@@ -28589,14 +28605,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1204833652.jpg",
    "category": "Secadoras",
    "price_old": 1170.0,
-   "price_new": 724.78,
+   "price_new": 724.77,
    "pct": 38.1,
-   "amount": 445.22,
+   "amount": 445.23,
    "ends": "",
    "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 724.78
+   "h_min": 724.77
   },
   {
    "id": "999685934922",
@@ -28733,14 +28749,14 @@
    "img": "https://ss514.liverpool.com.mx/lg/1193068746.jpg",
    "category": "Audifonos",
    "price_old": 1529.0,
-   "price_new": 971.67,
+   "price_new": 971.59,
    "pct": 36.5,
-   "amount": 557.33,
+   "amount": 557.41,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 971.67
+   "h_min": 971.59
   },
   {
    "id": "1161850078",
@@ -28845,14 +28861,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1206163875.jpg",
    "category": "Secadoras",
    "price_old": 1500.0,
-   "price_new": 954.71,
+   "price_new": 954.7,
    "pct": 36.4,
-   "amount": 545.29,
+   "amount": 545.3,
    "ends": "",
    "first_seen": 1789689842.1416235,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 954.71
+   "h_min": 954.7
   },
   {
    "id": "1195535023",
@@ -29767,22 +29783,6 @@
    "h_min": 3499.0
   },
   {
-   "id": "9959773651",
-   "name": "Audífonos True Wireless Skullcandy Indy Fuel inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-skullcandy-indy-fuel-inal-mbricos-con-cancelaci-n-de-rui/9959773651",
-   "img": "https://ss630.liverpool.com.mx/lg/1137795376.jpg",
-   "category": "Audifonos",
-   "price_old": 1485.0,
-   "price_new": 965.0,
-   "pct": 35.0,
-   "amount": 520.0,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 965.0
-  },
-  {
    "id": "1172465753",
    "name": "PARIS HILTON Eau de parfum Can Can Burlesque para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-can-can-burlesque-para-mujer/1172465753",
@@ -29845,22 +29845,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 699.0
-  },
-  {
-   "id": "999680397911",
-   "name": "GENÉRICA Sopladora a batería recargable 90 mph 105 cfm",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sopladora-a-bater-a-recargable-90-mph-105-cfm/999680397911",
-   "img": "https://sp101.liverpool.com.mx/i/1202143462.jpg",
-   "category": "Aspiradoras",
-   "price_old": 1982.98,
-   "price_new": 1316.24,
-   "pct": 33.6,
-   "amount": 666.74,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1316.24
   },
   {
    "id": "1130959888",
@@ -30055,6 +30039,22 @@
    "h_min": 896.35
   },
   {
+   "id": "1190639688",
+   "name": "LAB.G Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1190639688",
+   "img": "https://ss706.liverpool.com.mx/lg/1190639688.jpg",
+   "category": "Secadoras",
+   "price_old": 2009.0,
+   "price_new": 1341.43,
+   "pct": 33.2,
+   "amount": 667.57,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1341.43
+  },
+  {
    "id": "1181950346",
    "name": "AFNAN Set eau de parfum Turathi Elecric unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-turathi-elecric-unisex/1181950346",
@@ -30117,22 +30117,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 499.0
-  },
-  {
-   "id": "1190639688",
-   "name": "LAB.G Secadora de cabello",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1190639688",
-   "img": "https://ss706.liverpool.com.mx/lg/1190639688.jpg",
-   "category": "Secadoras",
-   "price_old": 2004.48,
-   "price_new": 1341.44,
-   "pct": 33.1,
-   "amount": 663.04,
-   "ends": "",
-   "first_seen": 1789689842.1416235,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1341.44
   },
   {
    "id": "1165309894",
@@ -30269,9 +30253,9 @@
    "img": "https://sp101.liverpool.com.mx/i/1201877772.jpg",
    "category": "Smartwatch",
    "price_old": 1200.0,
-   "price_new": 775.17,
+   "price_new": 775.16,
    "pct": 35.4,
-   "amount": 424.83,
+   "amount": 424.84,
    "ends": "",
    "first_seen": 1787593719.1367073,
    "in_stock": true,
@@ -30533,22 +30517,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 2790.0
-  },
-  {
-   "id": "1193942641",
-   "name": "XTELLAR Audífonos in-ear XTLLAR7921 inalámbricos con cancelacion de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-xtllar7921-inal-mbricos-con-cancelacion-de-ruido/1193942641",
-   "img": "https://ss630.liverpool.com.mx/lg/1193942641.jpg",
-   "category": "Audifonos",
-   "price_old": 1695.91,
-   "price_new": 1127.03,
-   "pct": 33.5,
-   "amount": 568.88,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1127.03
   },
   {
    "id": "1135791748",
@@ -31143,22 +31111,6 @@
    "h_min": 929.0
   },
   {
-   "id": "1182830816",
-   "name": "XTELLAR Bocina portátil XTLLAR4581 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-xtllar4581-bluetooth/1182830816",
-   "img": "https://sp637.liverpool.com.mx/i/1182830816.jpg",
-   "category": "Bocinas",
-   "price_old": 1271.01,
-   "price_new": 838.33,
-   "pct": 34.0,
-   "amount": 432.68,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 838.33
-  },
-  {
    "id": "999683486296",
    "name": "IQ TECH Secadora de cabello",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/999683486296",
@@ -31173,22 +31125,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 579.0
-  },
-  {
-   "id": "999680512742",
-   "name": "GENÉRICA Smartwatch para hombre con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-hombre-con-gps/999680512742",
-   "img": "https://sp101.liverpool.com.mx/i/1203244939.jpg",
-   "category": "Smartwatch",
-   "price_old": 1855.57,
-   "price_new": 1256.25,
-   "pct": 32.3,
-   "amount": 599.32,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1256.25
   },
   {
    "id": "1130958768",
@@ -31751,6 +31687,22 @@
    "h_min": 799.0
   },
   {
+   "id": "1161048646",
+   "name": "BELUG Audífonos in-ear genérica inalámbrica con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-gen-rica-inal-mbrica-con-cancelaci-n-de-ruido/1161048646",
+   "img": "https://sp630.liverpool.com.mx/i/1161048646.jpg",
+   "category": "Audifonos",
+   "price_old": 1443.0,
+   "price_new": 973.5,
+   "pct": 32.5,
+   "amount": 469.5,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 973.5
+  },
+  {
    "id": "1164647567",
    "name": "KOBLENZ Aspiradora wet & dry wd-402 kg4 nii 11 litros",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-wet-dry-wd-402-kg4-nii-11-litros/1164647567",
@@ -31991,6 +31943,22 @@
    "h_min": 949.0
   },
   {
+   "id": "1156869011",
+   "name": "GENÉRICA Molde para freidora de aire",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/molde-para-freidora-de-aire/1156869011",
+   "img": "https://ss623.liverpool.com.mx/lg/1156869011.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 925.0,
+   "price_new": 609.9,
+   "pct": 34.1,
+   "amount": 315.1,
+   "ends": "",
+   "first_seen": 1789689842.1416235,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 609.9
+  },
+  {
    "id": "1192490225",
    "name": "ADIDAS SPORTSWEAR Tenis Vl Court Bold para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-vl-court-bold-para-mujer/1192490225",
@@ -32037,22 +32005,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 699.0
-  },
-  {
-   "id": "99993251545",
-   "name": "GUESS Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99993251545",
-   "img": "https://ss550.liverpool.com.mx/lg/1191348288.jpg",
-   "category": "Tenis",
-   "price_old": 2299.0,
-   "price_new": 1609.0,
-   "pct": 30.0,
-   "amount": 690.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1609.0
   },
   {
    "id": "1153929994",
@@ -32165,22 +32117,6 @@
    "in_stock": true,
    "h_dias": 1,
    "h_min": 1100.0
-  },
-  {
-   "id": "1184618784",
-   "name": "BELUG Audífonos in-ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184618784",
-   "img": "https://sp101.liverpool.com.mx/i/1184618784.jpg",
-   "category": "Audifonos",
-   "price_old": 1153.83,
-   "price_new": 777.35,
-   "pct": 32.6,
-   "amount": 376.48,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 578.68
   },
   {
    "id": "1140371951",
@@ -32855,22 +32791,6 @@
    "h_min": 1168.95
   },
   {
-   "id": "1184596055",
-   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184596055",
-   "img": "https://sp630.liverpool.com.mx/i/1184596055.jpg",
-   "category": "Audifonos",
-   "price_old": 1249.0,
-   "price_new": 856.23,
-   "pct": 31.4,
-   "amount": 392.77,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 856.23
-  },
-  {
    "id": "1145100425",
    "name": "T-FAL Licuadora LN8205MX 10 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ln8205mx-10-velocidades/1145100425",
@@ -33127,6 +33047,22 @@
    "h_min": 680.32
   },
   {
+   "id": "1193926378",
+   "name": "XTELLAR Organizador para refrigerador",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/organizador-para-refrigerador/1193926378",
+   "img": "https://ss398.liverpool.com.mx/lg/1193926378.jpg",
+   "category": "Refrigeradores",
+   "price_old": 1538.91,
+   "price_new": 1077.24,
+   "pct": 30.0,
+   "amount": 461.67,
+   "ends": "",
+   "first_seen": 1789697042.2913218,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1077.24
+  },
+  {
    "id": "1142811274",
    "name": "LENOVO THINK Audífonos True Wireless Lp 40 Pro inalámbricos",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-true-wireless-lp-40-pro-inal-mbricos/1142811274",
@@ -33285,22 +33221,6 @@
    "in_stock": true,
    "h_dias": 2,
    "h_min": 977.9
-  },
-  {
-   "id": "1193509475",
-   "name": "BELUG Smartwatch para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-para-mujer/1193509475",
-   "img": "https://ss376.liverpool.com.mx/lg/1193509475.jpg",
-   "category": "Smartwatch",
-   "price_old": 1386.45,
-   "price_new": 970.52,
-   "pct": 30.0,
-   "amount": 415.93,
-   "ends": "",
-   "first_seen": 1789693442.3565245,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 970.52
   },
   {
    "id": "1134162127",

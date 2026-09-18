@@ -1,6 +1,6 @@
 {
- "generated_at": 1789736715.0778973,
- "generated_at_str": "18/09/2026 07:05",
+ "generated_at": 1789740331.810371,
+ "generated_at_str": "18/09/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -24,25 +24,6 @@
    "h_min": 699.0,
    "h_ayer": 699.0,
    "h_min7": 699.0
-  },
-  {
-   "id": "648185",
-   "name": "KitchenAid Refrigerador 25' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/KitchenAid-Refrigerador-25-French-Door/p/648185",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/h3e/490070441525278.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 100999.0,
-   "price_new": 60799.0,
-   "pct": 39.8,
-   "amount": 40200.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789715129.54513,
-   "h_dias": 19,
-   "h_min": 60799.0,
-   "h_ayer": 89799.0,
-   "h_min7": 60799.0
   },
   {
    "id": "705331",
@@ -2685,6 +2666,24 @@
    "h_min7": 9499.0
   },
   {
+   "id": "1806250",
+   "name": "Toto, Asiento de Bidé",
+   "url": "https://www.costco.com.mx/Hogar-y-Bano/Bano/Inodoros/Toto-Asiento-de-Bide/p/1806250",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5d/h62/369351990738974.jpg",
+   "category": "Hogar y Bano",
+   "price_old": 10799.0,
+   "price_new": 7599.0,
+   "pct": 29.6,
+   "amount": 3200.0,
+   "starts": "2026-09-18T06:00:00.000Z",
+   "ends": "2026-09-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789740331.810371,
+   "h_dias": 9,
+   "h_min": 7599.0,
+   "h_min7": 7599.0
+  },
+  {
    "id": "673525",
    "name": "LG Secadora de Gas 22Kg Carga Frontal con Pedestal",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-22Kg-Carga-Frontal-con-Pedestal/p/673525",
@@ -3044,6 +3043,25 @@
    "h_min": 24999.0,
    "h_ayer": 24999.0,
    "h_min7": 24999.0
+  },
+  {
+   "id": "686463",
+   "name": "GE Centro de Lavado de Gas 23Kg/23Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-de-Lavado-de-Gas-23Kg23Kg/p/686463",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 27999.0,
+   "price_new": 19999.0,
+   "pct": 28.6,
+   "amount": 8000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789405542.5606837,
+   "h_dias": 40,
+   "h_min": 19999.0,
+   "h_ayer": 19999.0,
+   "h_min7": 19999.0
   },
   {
    "id": "674919",
@@ -3710,6 +3728,25 @@
    "h_min7": 10499.0
   },
   {
+   "id": "673524",
+   "name": "LG Lavadora 22Kg Carga Frontal con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/673524",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hc6/140652330385438.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 17999.0,
+   "pct": 28.0,
+   "amount": 7000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789405542.5606837,
+   "h_dias": 44,
+   "h_min": 17999.0,
+   "h_ayer": 17999.0,
+   "h_min7": 17999.0
+  },
+  {
    "id": "3603480",
    "name": "Ninja, Creami Deluxe Máquina para hacer helados, CN501CO",
    "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Otros-Electrodomesticos/Ninja-Creami-Deluxe-Maquina-para-hacer-helados-CN501CO/p/3603480",
@@ -3765,6 +3802,24 @@
    "h_min": 9599.0,
    "h_ayer": 9799.0,
    "h_min7": 9599.0
+  },
+  {
+   "id": "1819527",
+   "name": "H2OGO! Parque Acuático Inflable para Niños",
+   "url": "https://www.costco.com.mx/Deportes/Acuaticos/Inflables/H2OGO-Parque-Acuatico-Inflable-para-Ninos/p/1819527",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6a/hcf/386580197900318.jpg",
+   "category": "Deportes",
+   "price_old": 8999.0,
+   "price_new": 6499.0,
+   "pct": 27.8,
+   "amount": 2500.0,
+   "starts": "2026-09-18T06:00:00.000Z",
+   "ends": "2026-09-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789740331.810371,
+   "h_dias": 42,
+   "h_min": 6499.0,
+   "h_min7": 6499.0
   },
   {
    "id": "702267",
@@ -3918,7 +3973,7 @@
   {
    "id": "690474",
    "name": "Apple iPad Mini Wi-Fi + Celular 128GB Azul",
-   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Cellular-128GB-Azul/p/690474",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Mini-Wi-Fi-Celular-128GB-Azul/p/690474",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h81/ha9/292367631908894.jpg",
    "category": "Electronicos",
    "price_old": 17799.0,
@@ -4254,6 +4309,23 @@
    "h_dias": 2,
    "h_min": 2699.0,
    "h_ayer": 2699.0
+  },
+  {
+   "id": "697355",
+   "name": "Hunter, Ventilador Anza 52\"",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Ventiladores/Hunter-Ventilador-Anza-52/p/697355",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd7/h38/398628335616030.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 3699.0,
+   "price_new": 2699.0,
+   "pct": 27.0,
+   "amount": 1000.0,
+   "starts": "2026-09-18T06:00:00.000Z",
+   "ends": "2026-09-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789740331.810371,
+   "h_dias": 3,
+   "h_min": 2699.0
   },
   {
    "id": "659233",
@@ -8713,6 +8785,25 @@
    "h_min7": 2174.25
   },
   {
+   "id": "541523",
+   "name": "Omron, Monitor de Presión Arterial de Brazo EVOLV",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Monitores-de-Salud/Omron-Monitor-de-Presion-Arterial-de-Brazo-EVOLV/p/541523",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h0a/414310835453982.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 2799.0,
+   "price_new": 2099.25,
+   "pct": 25.0,
+   "amount": 699.75,
+   "starts": "2026-09-11T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789135548.5196664,
+   "h_dias": 35,
+   "h_min": 1784.25,
+   "h_ayer": 2099.25,
+   "h_min7": 1784.25
+  },
+  {
    "id": "710032",
    "name": "Coach 0HC8434U Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Coach-0HC8434U-Lentes-de-Sol/p/710032",
@@ -8977,25 +9068,6 @@
    "h_min": 1874.25,
    "h_ayer": 1874.25,
    "h_min7": 1874.25
-  },
-  {
-   "id": "541523",
-   "name": "Omron, Monitor de Presión Arterial de Brazo EVOLV",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Monitores-de-Salud/Omron-Monitor-de-Presion-Arterial-de-Brazo-EVOLV/p/541523",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h0a/414310835453982.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 2379.0,
-   "price_new": 1784.25,
-   "pct": 25.0,
-   "amount": 594.75,
-   "starts": "2026-09-11T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789715129.54513,
-   "h_dias": 35,
-   "h_min": 1784.25,
-   "h_ayer": 2099.25,
-   "h_min7": 1784.25
   },
   {
    "id": "598065",
@@ -10932,6 +11004,24 @@
    "h_min7": 25999.0
   },
   {
+   "id": "1694681",
+   "name": "Osaki OS-4D Pro Maestro Sillón De Masaje",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-del-Hogar/Sillones-y-Aparatos-de-Masaje/Osaki-OS-4D-Pro-Maestro-Sillon-De-Masaje/p/1694681",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h20/225762500476958.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 108999.0,
+   "price_new": 83999.0,
+   "pct": 22.9,
+   "amount": 25000.0,
+   "starts": "2026-09-18T06:00:00.000Z",
+   "ends": "2026-09-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789740331.810371,
+   "h_dias": 22,
+   "h_min": 83999.0,
+   "h_min7": 83999.0
+  },
+  {
    "id": "703472",
    "name": "Samsung Pantalla 75\" Neo QLED 4K Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-75-Neo-QLED-4K-Smart-TV/p/703472",
@@ -12158,6 +12248,25 @@
    "h_min": 6699.0,
    "h_ayer": 6699.0,
    "h_min7": 6699.0
+  },
+  {
+   "id": "2026996",
+   "name": "Centr Gimnasio Multifuncional Power Series SF6",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/Centr-Gimnasio-Multifuncional-Power-Series-SF6/p/2026996",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6d/h90/455027014729758.jpg",
+   "category": "Deportes",
+   "price_old": 94999.0,
+   "price_new": 74999.0,
+   "pct": 21.1,
+   "amount": 20000.0,
+   "starts": "2026-09-18T06:00:00.000Z",
+   "ends": "2026-09-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789740331.810371,
+   "h_dias": 24,
+   "h_min": 74999.0,
+   "h_ayer": 74999.0,
+   "h_min7": 74999.0
   },
   {
    "id": "704472",

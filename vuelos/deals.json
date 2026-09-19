@@ -1,6 +1,6 @@
 {
- "generated_at": 1789787043.464918,
- "generated_at_str": "18/09/2026 21:04",
+ "generated_at": 1789790643.9664557,
+ "generated_at_str": "18/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "42528241fb1572666b68affc04de9fcc",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1155.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-06T06:00:00-05:00",
-   "return_at": "",
-   "duration": 422,
-   "link": "https://www.aviasales.com/search/MEX0610TIJ1?t=Y417912664001791288120000422MEXMTYTIJ_42528241fb1572666b68affc04de9fcc_5655&search_date=18092026&expected_price_uuid=01a0b6d1-faab-8030-a4cc-f3a6c7b2161d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YGROPssDgH8A5cK7sGPRdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1155",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261006-42528241/"
-  },
   {
    "id": "f34aa3d24a6b0b20f9458379227b4cef",
    "kind": "flight",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX0910MAD1?t=AM17915823001791649800000645MEXMAD_dbba4fb1f45842bbe8aed069fc08735d_40666&search_date=18092026&expected_price_uuid=01a0b694-fde7-8040-af26-a45ab463ed37&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JPOa8IWdbpwKGkRcDiukhw&expected_price_source=share&expected_price_currency=mxn&expected_price=8322",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261009-dbba4fb1/"
+  },
+  {
+   "id": "31495d04774fc1d7e47870ad900f2516",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "SQ",
+   "airline_title": "Singapore Airlines",
+   "logo": "https://pics.avs.io/600/150/SQ.png",
+   "logo_tipo": "",
+   "price": 10175.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-18T05:50:00-06:00",
+   "return_at": "",
+   "duration": 1250,
+   "link": "https://www.aviasales.com/search/MEX1801TYO1?t=SQ18002514001800380400001250MEXLAXNRT_31495d04774fc1d7e47870ad900f2516_49840&search_date=19092026&expected_price_uuid=01a0b7c1-835b-8040-2a4f-a5839826e1e1&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=rqCF0dCBaH3nuxv_H38e6w&expected_price_source=share&expected_price_currency=mxn&expected_price=10175",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270118-31495d04/"
   },
   {
    "id": "c0671e64292fdf3dc92404766666d23b",

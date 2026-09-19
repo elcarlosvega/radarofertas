@@ -1,6 +1,6 @@
 {
- "generated_at": 1789797843.8617141,
- "generated_at_str": "19/09/2026 00:04",
+ "generated_at": 1789801444.2351222,
+ "generated_at_str": "19/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -108,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX2509HOU1?t=Y417903526001790364300000135MEXIAH_cf6ba5b6f488ce6acb50f11abb446fa8_20559&search_date=19092026&expected_price_uuid=01a0b7b4-da4f-8040-682a-68af98649b56&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4197",
    "title": "Flight deals from Mexico City to Houston",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260925-cf6ba5b6/"
+  },
+  {
+   "id": "3eaee25e9649e23795df47edf5a82a18",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MIL",
+   "destination_name": "Milán",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 9624.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-06T17:00:00-06:00",
+   "return_at": "",
+   "duration": 990,
+   "link": "https://www.aviasales.com/search/MEX0611MIL1?t=AM17939844001794069000000990MEXBCNMXP_3eaee25e9649e23795df47edf5a82a18_47143&search_date=19092026&expected_price_uuid=01a0b83f-4263-8050-e1fc-0208cbd2c45d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TrxtXjFIS-loo7eZUF654w&expected_price_source=share&expected_price_currency=mxn&expected_price=9624",
+   "title": "Flight deals from Mexico City to Milan",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-milan-20261106-3eaee25e/"
   },
   {
    "id": "31495d04774fc1d7e47870ad900f2516",

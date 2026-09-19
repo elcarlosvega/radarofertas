@@ -1,6 +1,6 @@
 {
- "generated_at": 1789844643.9128864,
- "generated_at_str": "19/09/2026 13:04",
+ "generated_at": 1789848244.2543967,
+ "generated_at_str": "19/09/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20260929-f96c7259/"
   },
   {
+   "id": "27b6265a8a174b6277791ab1a89ba09d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3404.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-29T07:00:00-05:00",
+   "return_at": "",
+   "duration": 166,
+   "link": "https://www.aviasales.com/search/MEX2909DFW1?t=Y417906652001790678760000166MEXDFW_27b6265a8a174b6277791ab1a89ba09d_16675&search_date=19092026&expected_price_uuid=01a0bb11-9c3c-8030-e466-0290e9bb45e9&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=BESz7v6PLswUJ10kt9eq6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3404",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20260929-27b6265a/"
+  },
+  {
    "id": "b0a522b35802c30e603c854f33a535fb",
    "kind": "flight",
    "origin": "MEX",
@@ -128,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX2910IST1?t=WS17932365001793398500002160MEXYYCCDGSAW_faa9239fa459cbde79c83f991229437a_34354&search_date=19092026&expected_price_uuid=01a0b9f9-cd8c-8050-67ab-0aa97f459f59&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cJBF7WTnkTQG6QOS-o7xAA&expected_price_source=share&expected_price_currency=mxn&expected_price=7012",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261029-faa9239f/"
+  },
+  {
+   "id": "7a65883fea8f38384432a3d6b392126b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 8734.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-05T11:20:00-06:00",
+   "return_at": "",
+   "duration": 635,
+   "link": "https://www.aviasales.com/search/MEX0501MAD1?t=AM17991480001799211300000635MEXMAD_7a65883fea8f38384432a3d6b392126b_42787&search_date=19092026&expected_price_uuid=01a0bb35-2d2c-8040-68cf-950e754adb6b&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=KLUo1J-OpEr3tAyeTh9yHg&expected_price_source=share&expected_price_currency=mxn&expected_price=8734",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20270105-7a65883f/"
   }
  ]
 }

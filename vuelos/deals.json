@@ -1,6 +1,6 @@
 {
- "generated_at": 1789823043.203105,
- "generated_at_str": "19/09/2026 07:04",
+ "generated_at": 1789826643.2580583,
+ "generated_at_str": "19/09/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "f1fc28a2414cea2fbc6488ffa1bc854f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1161.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-03T20:45:00-05:00",
+   "return_at": "",
+   "duration": 133,
+   "link": "https://www.aviasales.com/search/MEX0310CUN1?t=Y417910603001791071880000133MEXCUN_f1fc28a2414cea2fbc6488ffa1bc854f_5686&search_date=19092026&expected_price_uuid=01a0b9e6-c710-8050-aa54-e8b3e52f0324&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=87NSbmSsxjIae_2c7EiW1w&expected_price_source=share&expected_price_currency=mxn&expected_price=1161",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261003-f1fc28a2/"
+  },
   {
    "id": "9909daa99f819ea9ad1a81dcec5520dc",
    "kind": "flight",

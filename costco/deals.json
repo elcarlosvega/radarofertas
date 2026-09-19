@@ -1,6 +1,6 @@
 {
- "generated_at": 1789805127.1481178,
- "generated_at_str": "19/09/2026 02:05",
+ "generated_at": 1789808710.6229446,
+ "generated_at_str": "19/09/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -266,7 +266,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 16,
    "h_min": 15999.0,
    "h_ayer": 15999.0,
@@ -2964,7 +2964,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 45,
    "h_min": 24999.0,
    "h_ayer": 29999.0,
@@ -3439,7 +3439,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 1,
    "h_min": 2999.0
   },
@@ -3740,7 +3740,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 3,
    "h_min": 3599.0
   },
@@ -3964,7 +3964,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 40,
    "h_min": 12899.0,
    "h_min7": 12899.0
@@ -5268,7 +5268,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 49,
    "h_min": 17999.0,
    "h_min7": 17999.0
@@ -5305,7 +5305,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 49,
    "h_min": 14999.0,
    "h_min7": 14999.0
@@ -14011,7 +14011,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 1,
    "h_min": 27999.0
   },
@@ -14616,7 +14616,7 @@
    "starts": "2026-09-19T06:00:00.000Z",
    "ends": "2026-09-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1789805127.1481178,
+   "first_seen": 1789805135.8571105,
    "h_dias": 10,
    "h_min": 21999.0,
    "h_min7": 24999.0
@@ -14655,6 +14655,25 @@
    "in_stock": true,
    "first_seen": 1788681933.8660502,
    "h_dias": 37,
+   "h_min": 19999.0,
+   "h_ayer": 19999.0,
+   "h_min7": 19999.0
+  },
+  {
+   "id": "704309",
+   "name": "Montbrook Home, Rover, Sofá Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Montbrook-Home-Rover-Sofa-Reclinable/p/704309",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h32/h4a/435741563551774.jpg",
+   "category": "Muebles",
+   "price_old": 23999.0,
+   "price_new": 19999.0,
+   "pct": 16.7,
+   "amount": 4000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 30,
    "h_min": 19999.0,
    "h_ayer": 19999.0,
    "h_min7": 19999.0
@@ -15741,6 +15760,25 @@
    "h_min": 33799.0,
    "h_ayer": 33999.0,
    "h_min7": 33999.0
+  },
+  {
+   "id": "704308",
+   "name": "Montbrook Home, Saturno, Set de Sala",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Montbrook-Home-Saturno-Set-de-Sala/p/704308",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/h7b/435741559619614.jpg",
+   "category": "Muebles",
+   "price_old": 29999.0,
+   "price_new": 25499.0,
+   "pct": 15.0,
+   "amount": 4500.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 36,
+   "h_min": 24999.0,
+   "h_ayer": 25499.0,
+   "h_min7": 25499.0
   },
   {
    "id": "652706",

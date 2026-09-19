@@ -1,6 +1,6 @@
 {
- "generated_at": 1789801444.2351222,
- "generated_at_str": "19/09/2026 01:04",
+ "generated_at": 1789805044.1812105,
+ "generated_at_str": "19/09/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -148,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX1801TYO1?t=SQ18002514001800380400001250MEXLAXNRT_31495d04774fc1d7e47870ad900f2516_49840&search_date=19092026&expected_price_uuid=01a0b7c1-835b-8040-2a4f-a5839826e1e1&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=rqCF0dCBaH3nuxv_H38e6w&expected_price_source=share&expected_price_currency=mxn&expected_price=10175",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270118-31495d04/"
+  },
+  {
+   "id": "11a501fdbde122abaa966d2ffd0088e6",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "TAS",
+   "destination_name": "Taskent",
+   "airline": "EY",
+   "airline_title": "Etihad Airways",
+   "logo": "https://pics.avs.io/600/150/EY.png",
+   "logo_tipo": "",
+   "price": 12887.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-23T19:47:00-05:00",
+   "return_at": "",
+   "duration": 2598,
+   "link": "https://www.aviasales.com/search/MTY2309TAS1?t=EY17901928201790388300002598MTYQROORDAUHTAS_11a501fdbde122abaa966d2ffd0088e6_63126&search_date=19092026&expected_price_uuid=01a0b888-032d-8030-2770-30709c25efaf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=seeMc_QHQRdWegA4POdRnw&expected_price_source=share&expected_price_currency=mxn&expected_price=12887",
+   "title": "Flight deals from Monterrey to Tashkent",
+   "micro": "/oferta/vuelos/vuelo-monterrey-taskent-20260923-11a501fd/"
   }
  ]
 }

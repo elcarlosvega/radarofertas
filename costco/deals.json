@@ -1,6 +1,6 @@
 {
- "generated_at": 1789844726.5823247,
- "generated_at_str": "19/09/2026 13:05",
+ "generated_at": 1789848314.8520932,
+ "generated_at_str": "19/09/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -10096,25 +10096,6 @@
    "h_min7": 959.25
   },
   {
-   "id": "639729",
-   "name": "Revita Shampoo de 925 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Revita-Shampoo-de-925-ml/p/639729",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h87/haa/504881391927326.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1199.0,
-   "price_new": 899.0,
-   "pct": 25.0,
-   "amount": 300.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 10,
-   "h_min": 899.0,
-   "h_ayer": 899.0,
-   "h_min7": 899.0
-  },
-  {
    "id": "1939200",
    "name": "LEGO Pokémon, Eevee",
    "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juguetes/Lego/LEGO-Pokemon-Eevee/p/1939200",
@@ -13980,6 +13961,23 @@
    "h_min": 8799.0,
    "h_ayer": 9299.0,
    "h_min7": 9299.0
+  },
+  {
+   "id": "692165",
+   "name": "Apple iMac 24\" 256GB 4.5K Chip M4 Rosa CPU de 8 núcleos GPU de 8 núcleos Memoria unificada de 16GB.",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-iMac-24-256GB-45K-Chip-M4-Rosa-CPU-de-8-nucleos-GPU-de-8-nucleos-Memoria-unificada-de-16GB/p/692165",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h29/h10/344260423680030.jpg",
+   "category": "Electronicos",
+   "price_old": 33999.0,
+   "price_new": 27999.0,
+   "pct": 17.6,
+   "amount": 6000.0,
+   "starts": "2026-09-19T06:00:00.000Z",
+   "ends": "2026-09-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789805135.8571105,
+   "h_dias": 1,
+   "h_min": 27999.0
   },
   {
    "id": "690489",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789848244.2543967,
- "generated_at_str": "19/09/2026 14:04",
+ "generated_at": 1789851844.6966655,
+ "generated_at_str": "19/09/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,26 +30,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261003-f1fc28a2/"
   },
   {
-   "id": "3f7ec57d16dea32c5d10df4c1a571134",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ZLO",
-   "destination_name": "Manzanillo",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1826.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-24T12:23:00-05:00",
-   "return_at": "",
-   "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX2409ZLO1?t=VB17902525801790257500000082NLUZLO_3f7ec57d16dea32c5d10df4c1a571134_8945&search_date=19092026&expected_price_uuid=01a0b9fd-82d2-8050-ab4b-00fade8d5cd0&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=612dY8MVVL-dgANHWmDU4Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1826",
-   "title": "Flight deals from Mexico City to Manzanillo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-manzanillo-20260924-3f7ec57d/"
-  },
-  {
    "id": "204ac9185642b07c1d3044dc5c9c45e4",
    "kind": "flight",
    "origin": "GDL",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/GDL2909TIJ1?t=Y417906794801790701980000435GDLSJDTIJ_204ac9185642b07c1d3044dc5c9c45e4_10374&search_date=19092026&expected_price_uuid=01a0ba90-069e-8040-64a1-25460ddbc9c3&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=eFCJIw22LGcUDwcPAHi1XA&expected_price_source=share&expected_price_currency=mxn&expected_price=2118",
    "title": "Flight deals from Guadalajara to Tijuana",
    "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20260929-204ac918/"
+  },
+  {
+   "id": "7d4a76d778bd410bf4e4410aafdd0b74",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2808.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-10T12:52:00-05:00",
+   "return_at": "",
+   "duration": 568,
+   "link": "https://www.aviasales.com/search/MEX1010NYC1?t=VB17916367201791678000000568NLUMTYJFK_7d4a76d778bd410bf4e4410aafdd0b74_13756&search_date=19092026&expected_price_uuid=01a0bb63-80f2-8040-6a37-e2c7cf3b8da3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xOJ9WCr80DPKr0Wt6BEUUw&expected_price_source=share&expected_price_currency=mxn&expected_price=2808",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261010-7d4a76d7/"
   },
   {
    "id": "f96c7259b10fff63594b7ab16becb787",
@@ -130,27 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20260923-b0a522b3/"
   },
   {
-   "id": "faa9239fa459cbde79c83f991229437a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 7012.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-29T01:15:00-06:00",
-   "return_at": "",
-   "duration": 2160,
-   "link": "https://www.aviasales.com/search/MEX2910IST1?t=WS17932365001793398500002160MEXYYCCDGSAW_faa9239fa459cbde79c83f991229437a_34354&search_date=19092026&expected_price_uuid=01a0b9f9-cd8c-8050-67ab-0aa97f459f59&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cJBF7WTnkTQG6QOS-o7xAA&expected_price_source=share&expected_price_currency=mxn&expected_price=7012",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261029-faa9239f/"
-  },
-  {
-   "id": "7a65883fea8f38384432a3d6b392126b",
+   "id": "7cd4dacfeb3304c8c910933ad1bc2434",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -160,14 +140,34 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 8734.0,
+   "price": 7511.0,
    "currency": "MXN",
-   "departure_at": "2027-01-05T11:20:00-06:00",
+   "departure_at": "2026-10-10T21:45:00-05:00",
    "return_at": "",
-   "duration": 635,
-   "link": "https://www.aviasales.com/search/MEX0501MAD1?t=AM17991480001799211300000635MEXMAD_7a65883fea8f38384432a3d6b392126b_42787&search_date=19092026&expected_price_uuid=01a0bb35-2d2c-8040-68cf-950e754adb6b&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=KLUo1J-OpEr3tAyeTh9yHg&expected_price_source=share&expected_price_currency=mxn&expected_price=8734",
+   "duration": 645,
+   "link": "https://www.aviasales.com/search/MEX1010MAD1?t=AM17916687001791736200000645MEXMAD_7cd4dacfeb3304c8c910933ad1bc2434_36796&search_date=19092026&expected_price_uuid=01a0bb63-baaf-8040-6461-3b40ac9b5618&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JPOa8IWdbpwKGkRcDiukhw&expected_price_source=share&expected_price_currency=mxn&expected_price=7511",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20270105-7a65883f/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261010-7cd4dacf/"
+  },
+  {
+   "id": "0c39e4f4faa52a2eb2d1e61102ebccb9",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 10766.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-29T21:25:00-06:00",
+   "return_at": "",
+   "duration": 1075,
+   "link": "https://www.aviasales.com/search/MEX2910IST1?t=AM17933091001793406000001075MEXAMSSAW_0c39e4f4faa52a2eb2d1e61102ebccb9_52746&search_date=19092026&expected_price_uuid=01a0bb2d-5082-8040-2748-57b6bdbf160c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=pe1xj2RZ57MgfrdKgTw6TQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10766",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261029-0c39e4f4/"
   }
  ]
 }

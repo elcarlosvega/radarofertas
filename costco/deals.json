@@ -1,6 +1,6 @@
 {
- "generated_at": 1789790727.264386,
- "generated_at_str": "18/09/2026 22:05",
+ "generated_at": 1789794313.1231704,
+ "generated_at_str": "18/09/2026 23:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9164,6 +9164,25 @@
    "h_min7": 1499.25
   },
   {
+   "id": "707225",
+   "name": "Steve Madden VSD.05063.0PNK.55 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050630PNK55-Armazon-Oftalmico/p/707225",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h20/486353245929502.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-08-24T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1787555126.982376,
+   "h_dias": 26,
+   "h_min": 1499.25,
+   "h_ayer": 1499.25,
+   "h_min7": 1499.25
+  },
+  {
    "id": "707224",
    "name": "Steve Madden VSD.05063.0BRN.55 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050630BRN55-Armazon-Oftalmico/p/707224",
@@ -15642,6 +15661,25 @@
    "h_min": 17799.0,
    "h_ayer": 17799.0,
    "h_min7": 17799.0
+  },
+  {
+   "id": "677168",
+   "name": "Montbrook Home, Ixtapa, Sillón Reclinable, Color Marrón",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Ixtapa-Sillon-Reclinable-Color-Marron/p/677168",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6f/hca/140199216480286.jpg",
+   "category": "Muebles",
+   "price_old": 10499.0,
+   "price_new": 8899.0,
+   "pct": 15.2,
+   "amount": 1600.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 52,
+   "h_min": 7999.0,
+   "h_ayer": 8899.0,
+   "h_min7": 8899.0
   },
   {
    "id": "667915",

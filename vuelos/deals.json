@@ -1,6 +1,6 @@
 {
- "generated_at": 1789815843.451376,
- "generated_at_str": "19/09/2026 05:04",
+ "generated_at": 1789819443.6297407,
+ "generated_at_str": "19/09/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1802LIM1?t=DM18029451601802995260000775NLUPUJLIM_9909daa99f819ea9ad1a81dcec5520dc_19498&search_date=19092026&expected_price_uuid=01a0b8be-dcf6-8030-a9dd-fe56db24f11b&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=jvxhzKYaowt3eXGWY01Sqg&expected_price_source=share&expected_price_currency=mxn&expected_price=3980",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270218-9909daa9/"
+  },
+  {
+   "id": "43d7e0ca5c495f988fcbd99081fe5d1a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "TS",
+   "airline_title": "Air Transat",
+   "logo": "https://pics.avs.io/600/150/TS.png",
+   "logo_tipo": "",
+   "price": 9126.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-01T06:00:00-05:00",
+   "return_at": "",
+   "duration": 1765,
+   "link": "https://www.aviasales.com/search/MEX0110IST1?t=TS17908344001790972700001765NLUGDLYYZDUBSAW_43d7e0ca5c495f988fcbd99081fe5d1a_44709&search_date=19092026&expected_price_uuid=01a0b976-1231-8050-2bee-60f029f0261c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Rki_M_hthjkI6KM_y4-u1A&expected_price_source=share&expected_price_currency=mxn&expected_price=9126",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261001-43d7e0ca/"
   },
   {
    "id": "3eaee25e9649e23795df47edf5a82a18",

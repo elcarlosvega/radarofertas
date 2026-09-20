@@ -1,6 +1,6 @@
 {
- "generated_at": 1789934644.2314625,
- "generated_at_str": "20/09/2026 14:04",
+ "generated_at": 1789938244.2084415,
+ "generated_at_str": "20/09/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1401CUN1?t=Y417999082001799920020000137TLCCUN_9815f4ac54bce8eed5d60da800eef89e_3946&search_date=20092026&expected_price_uuid=01a0bfbd-ea30-8030-6f39-0f29cc7ae44b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=808",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270114-9815f4ac/"
-  },
-  {
-   "id": "8e7b5c51f3bde587e55ef3149d197073",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "TGZ",
-   "destination_name": "Tuxtla Gutiérrez",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 1292.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-30T12:15:00-05:00",
-   "return_at": "",
-   "duration": 394,
-   "link": "https://www.aviasales.com/search/MTY3009TGZ1?t=AM17907705001790794140000394MTYMEXTGZ_8e7b5c51f3bde587e55ef3149d197073_6307&search_date=20092026&expected_price_uuid=01a0bf33-c3c5-8040-69d9-de938b68707f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_MFX4tH_g97gUxdud804NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1292",
-   "title": "Flight deals from Monterrey to Tuxtla Gutierrez",
-   "micro": "/oferta/vuelos/vuelo-monterrey-tuxtla-gutierrez-20260930-8e7b5c51/"
   },
   {
    "id": "bc50f0c53ddb7b519fd261aeb5ebf20e",
@@ -110,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20270108-372e53ed/"
   },
   {
+   "id": "a86025bd3ad5dd1ef5b9a7be1d384be1",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2308.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-30T16:10:00-05:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX3009HOU1?t=Y417907846001790796300000135MEXIAH_a86025bd3ad5dd1ef5b9a7be1d384be1_11268&search_date=20092026&expected_price_uuid=01a0c066-85d6-8030-a4ea-376cbb7b7033&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2308",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20260930-a86025bd/"
+  },
+  {
    "id": "f34aa3d24a6b0b20f9458379227b4cef",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +148,26 @@
    "link": "https://www.aviasales.com/search/GDL3009SJC1?t=Y417907516001790761620000227GDLSJC_0031e51aebea380a7175b6329435b67c_26183&search_date=20092026&expected_price_uuid=01a0bfe0-2263-8030-ad84-b2dd4f5624b8&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=5364",
    "title": "Flight deals from Guadalajara to San Jose",
    "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20260930-0031e51a/"
+  },
+  {
+   "id": "309ed638cae53f12cb9583d43e413183",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 7545.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-11T21:45:00-05:00",
+   "return_at": "",
+   "duration": 645,
+   "link": "https://www.aviasales.com/search/MEX1110MAD1?t=AM17917551001791822600000645MEXMAD_309ed638cae53f12cb9583d43e413183_36837&search_date=20092026&expected_price_uuid=01a0c08b-82cf-8040-2769-8e42aa615079&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JPOa8IWdbpwKGkRcDiukhw&expected_price_source=share&expected_price_currency=mxn&expected_price=7545",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261011-309ed638/"
   },
   {
    "id": "b1109888e2ecc03ff966055abafe3a06",

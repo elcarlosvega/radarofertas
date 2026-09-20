@@ -1,6 +1,6 @@
 {
- "generated_at": 1789869844.3191526,
- "generated_at_str": "19/09/2026 20:04",
+ "generated_at": 1789873444.0407717,
+ "generated_at_str": "19/09/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -45,7 +45,7 @@
    "departure_at": "2026-09-29T06:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2909NYC1?t=VB17906616001790727600000980NLUMTYJFK_f34aa3d24a6b0b20f9458379227b4cef_11562&search_date=19092026&expected_price_uuid=01a0bc07-6dfe-8030-2433-29ce45a10f14&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWC9zUylaSg-rsK0eGZ7Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2360",
+   "link": "https://www.aviasales.com/search/MEX2909NYC1?t=VB17906616001790727600000980NLUMTYJFK_f34aa3d24a6b0b20f9458379227b4cef_11562&search_date=20092026&expected_price_uuid=01a0bc97-82a4-8040-a305-9f48e9755b69&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWC9zUylaSg-rsK0eGZ7Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2360",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260929-f34aa3d2/"
   },
@@ -68,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_24723&search_date=19092026&expected_price_uuid=01a0bbfc-243c-8040-276c-a55e53a3b64e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5046",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
-  },
-  {
-   "id": "7cd4dacfeb3304c8c910933ad1bc2434",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 7511.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-10T21:45:00-05:00",
-   "return_at": "",
-   "duration": 645,
-   "link": "https://www.aviasales.com/search/MEX1010MAD1?t=AM17916687001791736200000645MEXMAD_7cd4dacfeb3304c8c910933ad1bc2434_36796&search_date=19092026&expected_price_uuid=01a0bb63-baaf-8040-6461-3b40ac9b5618&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JPOa8IWdbpwKGkRcDiukhw&expected_price_source=share&expected_price_currency=mxn&expected_price=7511",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261010-7cd4dacf/"
   },
   {
    "id": "9c9f862caf5806bcc88aecb183f2af48",

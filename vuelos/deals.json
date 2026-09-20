@@ -1,6 +1,6 @@
 {
- "generated_at": 1789913044.1738536,
- "generated_at_str": "20/09/2026 08:04",
+ "generated_at": 1789916644.012181,
+ "generated_at_str": "20/09/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260923-ddf15d7a/"
   },
   {
-   "id": "790a190f5fc5f8a2cab00ea95b558222",
+   "id": "8e7b5c51f3bde587e55ef3149d197073",
    "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3586.0,
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "TGZ",
+   "destination_name": "Tuxtla Gutiérrez",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 1292.0,
    "currency": "MXN",
-   "departure_at": "2027-02-17T19:35:00-06:00",
+   "departure_at": "2026-09-30T12:15:00-05:00",
    "return_at": "",
-   "duration": 270,
-   "link": "https://www.aviasales.com/search/MEX1702BOG1?t=VB18028929001802912700000270NLUBOG_790a190f5fc5f8a2cab00ea95b558222_17505&search_date=20092026&expected_price_uuid=01a0bdf9-43d2-8050-e6cb-3f8a809f67c8&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ePUHkkdYDcSfA-Hm2g2wiw&expected_price_source=share&expected_price_currency=mxn&expected_price=3586",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20270217-790a190f/"
+   "duration": 394,
+   "link": "https://www.aviasales.com/search/MTY3009TGZ1?t=AM17907705001790794140000394MTYMEXTGZ_8e7b5c51f3bde587e55ef3149d197073_6307&search_date=20092026&expected_price_uuid=01a0bf33-c3c5-8040-69d9-de938b68707f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_MFX4tH_g97gUxdud804NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1292",
+   "title": "Flight deals from Monterrey to Tuxtla Gutierrez",
+   "micro": "/oferta/vuelos/vuelo-monterrey-tuxtla-gutierrez-20260930-8e7b5c51/"
   },
   {
    "id": "04a4e3e749763b3f0cdd1a26950c9c38",
@@ -70,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
   },
   {
-   "id": "ca00f5006c7a323bfc82eb20d04ff384",
+   "id": "ffd86b24091f13a997f8b19c18f4b985",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -80,14 +80,14 @@
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 6200.0,
+   "price": 6345.0,
    "currency": "MXN",
-   "departure_at": "2026-10-07T16:51:00-05:00",
+   "departure_at": "2027-03-31T16:51:00-06:00",
    "return_at": "",
    "duration": 849,
-   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_30375&search_date=20092026&expected_price_uuid=01a0bddb-b536-8050-e039-1b76d2fa997e&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6200",
+   "link": "https://www.aviasales.com/search/MEX3103BUE1?t=DM18065118601806573600000849NLUPUJEZE_ffd86b24091f13a997f8b19c18f4b985_30969&search_date=20092026&expected_price_uuid=01a0bf09-9a91-8050-e4a1-2c503f7d354b&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6345",
    "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270331-ffd86b24/"
   },
   {
    "id": "9abeedc4b4d0e1ae7b11b53bb60dce54",

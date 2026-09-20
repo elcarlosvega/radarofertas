@@ -1,6 +1,6 @@
 {
- "generated_at": 1789941842.7022073,
- "generated_at_str": "20/09/2026 16:10",
+ "generated_at": 1789945442.7225997,
+ "generated_at_str": "20/09/2026 17:10",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -13,14 +13,14 @@
    "img": "https://sp625.liverpool.com.mx/i/1110136141.jpg",
    "category": "Aspiradoras",
    "price_old": 8279.0,
-   "price_new": 1494.22,
+   "price_new": 1494.18,
    "pct": 82.0,
-   "amount": 6784.78,
+   "amount": 6784.82,
    "ends": "",
    "first_seen": 1789934642.7591014,
    "in_stock": true,
    "h_dias": 4,
-   "h_min": 1494.22,
+   "h_min": 1494.18,
    "h_ayer": 1497.47
   },
   {
@@ -1624,14 +1624,14 @@
    "img": "https://sp625.liverpool.com.mx/i/1154164878.jpg",
    "category": "Aspiradoras",
    "price_old": 3898.0,
-   "price_new": 1392.72,
+   "price_new": 1392.68,
    "pct": 64.3,
-   "amount": 2505.28,
+   "amount": 2505.32,
    "ends": "",
    "first_seen": 1789923842.7037783,
    "in_stock": true,
    "h_dias": 4,
-   "h_min": 1392.72,
+   "h_min": 1392.68,
    "h_ayer": 1396.44
   },
   {
@@ -1641,14 +1641,14 @@
    "img": "https://ss637.liverpool.com.mx/lg/1176997415.jpg",
    "category": "Bocinas",
    "price_old": 2763.0,
-   "price_new": 918.38,
+   "price_new": 918.16,
    "pct": 66.8,
-   "amount": 1844.62,
+   "amount": 1844.84,
    "ends": "",
    "first_seen": 1789927442.6752064,
    "in_stock": true,
    "h_dias": 4,
-   "h_min": 918.38,
+   "h_min": 918.16,
    "h_ayer": 920.93
   },
   {
@@ -6895,7 +6895,7 @@
    "name": "APPLE iPhone 15 Pro Max 6.6 pulgadas Super Retina XDR Reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-pro-max-6-6-pulgadas-super-retina-xdr-reacondicionado/1148867212",
    "img": "https://sp632.liverpool.com.mx/i/1148867212.jpg",
-   "category": "Iphone",
+   "category": "Celulares",
    "price_old": 25995.0,
    "price_new": 14499.0,
    "pct": 44.2,
@@ -8875,6 +8875,23 @@
    "h_ayer": 394.0
   },
   {
+   "id": "1178108651",
+   "name": "XTELLAR Kit de oganizadores para refrigerador",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-de-oganizadores-para-refrigerador/1178108651",
+   "img": "https://sp623.liverpool.com.mx/i/1178108651.jpg",
+   "category": "Refrigeradores",
+   "price_old": 2659.0,
+   "price_new": 1248.45,
+   "pct": 53.0,
+   "amount": 1410.55,
+   "ends": "",
+   "first_seen": 1789945442.7225997,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 1195.97,
+   "h_ayer": 1248.49
+  },
+  {
    "id": "1176763708",
    "name": "CONTOYSA Secador para calzado eléctrico ara 1 par",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secador-para-calzado-el-ctrico-ara-1-par/1176763708",
@@ -9354,14 +9371,14 @@
    "img": "https://sp101.liverpool.com.mx/i/1109862815.jpg",
    "category": "Aire Acondicionado",
    "price_old": 907.0,
-   "price_new": 364.87,
+   "price_new": 364.83,
    "pct": 59.8,
-   "amount": 542.13,
+   "amount": 542.17,
    "ends": "",
    "first_seen": 1789927442.6752064,
    "in_stock": true,
    "h_dias": 3,
-   "h_min": 364.87,
+   "h_min": 364.83,
    "h_ayer": 368.6
   },
   {
@@ -10500,23 +10517,6 @@
    "h_dias": 5,
    "h_min": 18299.0,
    "h_ayer": 18299.0
-  },
-  {
-   "id": "99993444843",
-   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
-   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
-   "category": "Tenis",
-   "price_old": 2499.0,
-   "price_new": 1225.0,
-   "pct": 51.0,
-   "amount": 1274.0,
-   "ends": "",
-   "first_seen": 1789801442.8495426,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1225.0,
-   "h_ayer": 1225.0
   },
   {
    "id": "1128456798",
@@ -14263,23 +14263,6 @@
    "h_ayer": 26129.0
   },
   {
-   "id": "1157067849",
-   "name": "GENÉRICA Smartwatch unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-unisex/1157067849",
-   "img": "https://ss376.liverpool.com.mx/lg/1157067849.jpg",
-   "category": "Smartwatch",
-   "price_old": 1617.18,
-   "price_new": 808.59,
-   "pct": 50.0,
-   "amount": 808.59,
-   "ends": "",
-   "first_seen": 1789931042.6438832,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 618.0,
-   "h_ayer": 808.13
-  },
-  {
    "id": "1118153282",
    "name": "KESSA Sala modular de lino",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-lino/1118153282",
@@ -14838,23 +14821,6 @@
    "h_dias": 5,
    "h_min": 23969.0,
    "h_ayer": 23969.0
-  },
-  {
-   "id": "1155109951",
-   "name": "ACROS Estufa de piso a gas natural/lp 76 cm AFR2110G de 6 quemadores",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-76-cm-afr2110g-de-6-quemadores/1155109951",
-   "img": "https://sp634.liverpool.com.mx/i/1155109951.jpg",
-   "category": "Estufas",
-   "price_old": 12188.0,
-   "price_new": 7409.0,
-   "pct": 39.2,
-   "amount": 4779.0,
-   "ends": "",
-   "first_seen": 1789938242.7830918,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 7299.0,
-   "h_ayer": 7409.0
   },
   {
    "id": "1188424895",
@@ -17404,23 +17370,6 @@
    "h_ayer": 3049.0
   },
   {
-   "id": "1140187123",
-   "name": "AVERA Parrilla eléctrica empotrable",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-el-ctrica-empotrable/1140187123",
-   "img": "https://sp636.liverpool.com.mx/i/1140187123.jpg",
-   "category": "Estufas",
-   "price_old": 6999.0,
-   "price_new": 4199.0,
-   "pct": 40.0,
-   "amount": 2800.0,
-   "ends": "",
-   "first_seen": 1789801442.8495426,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 3919.0,
-   "h_ayer": 4199.0
-  },
-  {
    "id": "1154162107",
    "name": "KIREI BLOOM Secadora de cabello KBS001",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-kbs001/1154162107",
@@ -17947,23 +17896,6 @@
    "h_ayer": 14499.0
   },
   {
-   "id": "1172674832",
-   "name": "ASUS Consola portátil Windows 11 512 GB edición estándar Rog Ally Z1 Extreme",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/consola-port-til-windows-11-512-gb-edici-n-est-ndar-rog-ally-z1-extreme/1172674832",
-   "img": "https://sp423.liverpool.com.mx/i/1172674832.jpg",
-   "category": "Consolas",
-   "price_old": 22307.0,
-   "price_new": 14499.0,
-   "pct": 35.0,
-   "amount": 7808.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 14499.0,
-   "h_ayer": 14499.0
-  },
-  {
    "id": "1119834038",
    "name": "KESSA Sala modular Italia de vinipiel",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-italia-de-vinipiel/1119834038",
@@ -18165,6 +18097,23 @@
    "h_dias": 4,
    "h_min": 14999.0,
    "h_ayer": 14999.0
+  },
+  {
+   "id": "999680039075",
+   "name": "DUVENTUS Aire acondicionado multisplit Nova Classic frío y calor 24000 BTU IVR/OVR9M241COO2 220 V",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-multisplit-nova-classic-fr-o-y-calor-24000-btu-ivr-ovr9m241co/999680039075",
+   "img": "https://sp101.liverpool.com.mx/i/1202077923.jpg",
+   "category": "Aire Acondicionado",
+   "price_old": 22990.0,
+   "price_new": 14990.0,
+   "pct": 34.8,
+   "amount": 8000.0,
+   "ends": "",
+   "first_seen": 1789945442.7225997,
+   "in_stock": true,
+   "h_dias": 5,
+   "h_min": 14990.0,
+   "h_ayer": 14990.0
   },
   {
    "id": "1128209341",
@@ -19046,6 +18995,23 @@
    "h_dias": 5,
    "h_min": 11929.0,
    "h_ayer": 11929.0
+  },
+  {
+   "id": "1136253171",
+   "name": "OSTER LICUADORA 2110673 2 VELOC, NEGRO5",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-2110673-2-veloc-negro5/1136253171",
+   "img": "https://sp101.liverpool.com.mx/i/1136253171.jpg",
+   "category": "Licuadoras",
+   "price_old": 1988.0,
+   "price_new": 1089.0,
+   "pct": 45.2,
+   "amount": 899.0,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 5,
+   "h_min": 977.0,
+   "h_ayer": 977.0
   },
   {
    "id": "1120990701",
@@ -21404,23 +21370,6 @@
    "h_ayer": 7305.35
   },
   {
-   "id": "1165420337",
-   "name": "AVERA Parrilla eléctrica empotrable",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-el-ctrica-empotrable/1165420337",
-   "img": "https://sp636.liverpool.com.mx/i/1165420337.jpg",
-   "category": "Estufas",
-   "price_old": 16999.0,
-   "price_new": 11299.0,
-   "pct": 33.5,
-   "amount": 5700.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 10589.0,
-   "h_ayer": 11299.0
-  },
-  {
    "id": "1165422283",
    "name": "AVERA Parrilla eléctrica empotrable",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-el-ctrica-empotrable/1165422283",
@@ -23123,14 +23072,14 @@
    "img": "https://ss630.liverpool.com.mx/lg/1157291706.jpg",
    "category": "Audifonos",
    "price_old": 1399.0,
-   "price_new": 788.43,
+   "price_new": 788.39,
    "pct": 43.6,
-   "amount": 610.57,
+   "amount": 610.61,
    "ends": "",
    "first_seen": 1789931042.6438832,
    "in_stock": true,
    "h_dias": 1,
-   "h_min": 788.43
+   "h_min": 788.39
   },
   {
    "id": "1137843231",
@@ -23182,6 +23131,23 @@
    "h_dias": 5,
    "h_min": 6490.0,
    "h_ayer": 6490.0
+  },
+  {
+   "id": "1184294865",
+   "name": "XTELLAR Bocina recargable XTLLAR5785 bluetooth",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-xtllar5785-bluetooth/1184294865",
+   "img": "https://ss630.liverpool.com.mx/lg/1184294865.jpg",
+   "category": "Bocinas",
+   "price_old": 1133.0,
+   "price_new": 625.96,
+   "pct": 44.8,
+   "amount": 507.04,
+   "ends": "",
+   "first_seen": 1787593719.1367073,
+   "in_stock": true,
+   "h_dias": 5,
+   "h_min": 609.82,
+   "h_ayer": 610.46
   },
   {
    "id": "1165506002",
@@ -23369,23 +23335,6 @@
    "h_dias": 5,
    "h_min": 16499.0,
    "h_ayer": 16499.0
-  },
-  {
-   "id": "1184294865",
-   "name": "XTELLAR Bocina recargable XTLLAR5785 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-recargable-xtllar5785-bluetooth/1184294865",
-   "img": "https://ss630.liverpool.com.mx/lg/1184294865.jpg",
-   "category": "Bocinas",
-   "price_old": 1133.0,
-   "price_new": 626.18,
-   "pct": 44.7,
-   "amount": 506.82,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 609.82,
-   "h_ayer": 610.46
   },
   {
    "id": "999683571781",
@@ -24745,6 +24694,22 @@
    "h_ayer": 20999.0
   },
   {
+   "id": "1166351771",
+   "name": "OSTER LICUADORA BLSTPYG1311NBG , ACERO",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-blstpyg1311nbg-acero/1166351771",
+   "img": "https://sp101.liverpool.com.mx/i/1166351771.jpg",
+   "category": "Licuadoras",
+   "price_old": 4628.0,
+   "price_new": 2929.0,
+   "pct": 36.7,
+   "amount": 1699.0,
+   "ends": "",
+   "first_seen": 1789945442.7225997,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 2929.0
+  },
+  {
    "id": "1186405125",
    "name": "APPLE iPhone 14 6.1 pulgadas Super Retina XDR Reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-14-6-1-pulgadas-super-retina-xdr-reacondicionado/1186405125",
@@ -25475,23 +25440,6 @@
    "h_min": 9499.0
   },
   {
-   "id": "1183135411",
-   "name": "MIDEA Frigobar MDRDR142FGM50 3 pies cúbicos",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/frigobar-mdrdr142fgm50-3-pies-c-bicos/1183135411",
-   "img": "https://sp634.liverpool.com.mx/i/1183135411.jpg",
-   "category": "Refrigeradores",
-   "price_old": 4999.0,
-   "price_new": 3199.0,
-   "pct": 36.0,
-   "amount": 1800.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 3199.0,
-   "h_ayer": 3199.0
-  },
-  {
    "id": "1095056268",
    "name": "CENTURFIT Bicicleta Spinning Fija 10 kg Negra",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-spinning-fija-10-kg-negra/1095056268",
@@ -25660,6 +25608,23 @@
    "h_dias": 5,
    "h_min": 559.0,
    "h_ayer": 559.0
+  },
+  {
+   "id": "1139547507",
+   "name": "Genérica Secadora de cabello",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello/1139547507",
+   "img": "https://ss706.liverpool.com.mx/lg/1139547507.jpg",
+   "category": "Secadoras",
+   "price_old": 1679.0,
+   "price_new": 990.59,
+   "pct": 41.0,
+   "amount": 688.41,
+   "ends": "",
+   "first_seen": 1789945442.7225997,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 990.59,
+   "h_ayer": 992.78
   },
   {
    "id": "999686323585",
@@ -26543,6 +26508,23 @@
    "h_ayer": 694.66
   },
   {
+   "id": "99993444172",
+   "name": "ADIDAS Tenis Run Era para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-run-era-para-mujer/99993444172",
+   "img": "https://sp550.liverpool.com.mx/i/1191663345.jpg",
+   "category": "Tenis",
+   "price_old": 1499.0,
+   "price_new": 884.0,
+   "pct": 41.0,
+   "amount": 615.0,
+   "ends": "",
+   "first_seen": 1789722241.8930385,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 884.0,
+   "h_ayer": 884.0
+  },
+  {
    "id": "999686831094",
    "name": "GENERIC Aspiradora 1 litro",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-1-litro/999686831094",
@@ -26711,22 +26693,6 @@
    "h_dias": 4,
    "h_min": 1084.99,
    "h_ayer": 1085.0
-  },
-  {
-   "id": "999674346131",
-   "name": "FOSET Parrilla de acero inoxidable",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-de-acero-inoxidable/999674346131",
-   "img": "https://sp101.liverpool.com.mx/i/1200661342.jpg",
-   "category": "Estufas",
-   "price_old": 3000.0,
-   "price_new": 1882.99,
-   "pct": 37.2,
-   "amount": 1117.01,
-   "ends": "",
-   "first_seen": 1789887842.7900312,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 1882.99
   },
   {
    "id": "1195076142",
@@ -30713,23 +30679,6 @@
    "h_ayer": 599.0
   },
   {
-   "id": "1175049092",
-   "name": "BHARARA Eau de parfum Rohit X Perfu-Adictos Azure unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-rohit-x-perfu-adictos-azure-unisex/1175049092",
-   "img": "https://ss701.liverpool.com.mx/lg/1175049092.jpg",
-   "category": "Perfumes",
-   "price_old": 1272.0,
-   "price_new": 796.47,
-   "pct": 37.4,
-   "amount": 475.53,
-   "ends": "",
-   "first_seen": 1789747442.6752715,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 796.47,
-   "h_ayer": 796.47
-  },
-  {
    "id": "1183386561",
    "name": "BABYLISS PRO Set eléctricos BNTP68 2 piezas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-el-ctricos-bntp68-2-piezas/1183386561",
@@ -31364,14 +31313,14 @@
    "img": "https://ss628.liverpool.com.mx/lg/1189091245.jpg",
    "category": "Tablets",
    "price_old": 3999.0,
-   "price_new": 2753.0,
+   "price_new": 2751.0,
    "pct": 31.2,
-   "amount": 1246.0,
+   "amount": 1248.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
    "in_stock": true,
    "h_dias": 4,
-   "h_min": 2753.0,
+   "h_min": 2751.0,
    "h_ayer": 2758.0
   },
   {
@@ -32248,14 +32197,14 @@
    "img": "https://ss630.liverpool.com.mx/lg/1193942641.jpg",
    "category": "Audifonos",
    "price_old": 1695.91,
-   "price_new": 1122.08,
+   "price_new": 1122.02,
    "pct": 33.8,
-   "amount": 573.83,
+   "amount": 573.89,
    "ends": "",
    "first_seen": 1789934642.7591014,
    "in_stock": true,
    "h_dias": 4,
-   "h_min": 1122.08,
+   "h_min": 1122.02,
    "h_ayer": 1123.03
   },
   {
@@ -33190,6 +33139,23 @@
    "h_dias": 4,
    "h_min": 2293.89,
    "h_ayer": 2293.89
+  },
+  {
+   "id": "99993444843",
+   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
+   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
+   "category": "Tenis",
+   "price_old": 2499.0,
+   "price_new": 1724.0,
+   "pct": 31.0,
+   "amount": 775.0,
+   "ends": "",
+   "first_seen": 1789801442.8495426,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 1225.0,
+   "h_ayer": 1225.0
   },
   {
    "id": "1120095346",
@@ -34279,23 +34245,6 @@
    "h_ayer": 603.91
   },
   {
-   "id": "1192739035",
-   "name": "XTELLAR Audífonos On-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-on-ear-inal-mbricos-con-cancelaci-n-de-ruido/1192739035",
-   "img": "https://ss377.liverpool.com.mx/lg/1192739035.jpg",
-   "category": "Audifonos",
-   "price_old": 1963.98,
-   "price_new": 1371.87,
-   "pct": 30.1,
-   "amount": 592.11,
-   "ends": "",
-   "first_seen": 1789934642.7591014,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 1371.87,
-   "h_ayer": 1372.91
-  },
-  {
    "id": "1178475157",
    "name": "SWISS CODE Kit smartwatch Square 2 + Amp unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-square-2-amp-unisex/1178475157",
@@ -34615,23 +34564,6 @@
    "h_min": 599.0
   },
   {
-   "id": "99993444172",
-   "name": "ADIDAS Tenis Run Era para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-run-era-para-mujer/99993444172",
-   "img": "https://sp550.liverpool.com.mx/i/1191663345.jpg",
-   "category": "Tenis",
-   "price_old": 1499.0,
-   "price_new": 1034.0,
-   "pct": 31.0,
-   "amount": 465.0,
-   "ends": "",
-   "first_seen": 1789722241.8930385,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 884.0,
-   "h_ayer": 884.0
-  },
-  {
    "id": "1181823115",
    "name": "DAEWOO Aspiradora wet & dry davc90-15l 15 litros",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-wet-dry-davc90-15l-15-litros/1181823115",
@@ -34749,23 +34681,6 @@
    "h_dias": 4,
    "h_min": 1254.0,
    "h_ayer": 1254.0
-  },
-  {
-   "id": "1191266532",
-   "name": "XTELLAR Audífonos inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-inal-mbricos-con-cancelaci-n-de-ruido/1191266532",
-   "img": "https://ss377.liverpool.com.mx/lg/1191266532.jpg",
-   "category": "Audifonos",
-   "price_old": 1693.44,
-   "price_new": 1181.54,
-   "pct": 30.2,
-   "amount": 511.9,
-   "ends": "",
-   "first_seen": 1789934642.7591014,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1181.54,
-   "h_ayer": 1182.6
   },
   {
    "id": "99993444157",
@@ -35088,23 +35003,6 @@
    "h_dias": 4,
    "h_min": 1005.0,
    "h_ayer": 1005.0
-  },
-  {
-   "id": "1136253171",
-   "name": "OSTER LICUADORA 2110673 2 VELOC, NEGRO5",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-2110673-2-veloc-negro5/1136253171",
-   "img": "https://sp101.liverpool.com.mx/i/1136253171.jpg",
-   "category": "Licuadoras",
-   "price_old": 1400.0,
-   "price_new": 977.0,
-   "pct": 30.2,
-   "amount": 423.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 977.0,
-   "h_ayer": 977.0
   },
   {
    "id": "1099398686",
@@ -35479,23 +35377,6 @@
    "h_dias": 5,
    "h_min": 738.39,
    "h_ayer": 738.39
-  },
-  {
-   "id": "1193712271",
-   "name": "XTELLAR Bocina portátil XTLLAR12394 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-xtllar12394-bluetooth/1193712271",
-   "img": "https://ss630.liverpool.com.mx/lg/1193712271.jpg",
-   "category": "Bocinas",
-   "price_old": 999.18,
-   "price_new": 697.85,
-   "pct": 30.2,
-   "amount": 301.33,
-   "ends": "",
-   "first_seen": 1789887842.7900312,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 697.85,
-   "h_ayer": 698.81
   },
   {
    "id": "1193180341",

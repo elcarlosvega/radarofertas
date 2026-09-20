@@ -1,6 +1,6 @@
 {
- "generated_at": 1789905927.692095,
- "generated_at_str": "20/09/2026 06:05",
+ "generated_at": 1789909531.91889,
+ "generated_at_str": "20/09/2026 07:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9992,25 +9992,6 @@
    "h_min7": 959.25
   },
   {
-   "id": "1939200",
-   "name": "LEGO Pokémon, Eevee",
-   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juguetes/Lego/LEGO-Pokemon-Eevee/p/1939200",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h8b/450526872469534.jpg",
-   "category": "Juguetes Regalos y Certificados",
-   "price_old": 1199.0,
-   "price_new": 899.0,
-   "pct": 25.0,
-   "amount": 300.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 22,
-   "h_min": 899.0,
-   "h_ayer": 899.0,
-   "h_min7": 899.0
-  },
-  {
    "id": "713629",
    "name": "Philips, Purificador de Agua para Grifo X-Guard Ultra",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Purificadores-y-Dispensadores-de-Agua/Philips-Purificador-de-Agua-para-Grifo-X-Guard-Ultra/p/713629",
@@ -10025,6 +10006,25 @@
    "in_stock": true,
    "first_seen": 1789373133.4759822,
    "h_dias": 15,
+   "h_min": 899.0,
+   "h_ayer": 899.0,
+   "h_min7": 899.0
+  },
+  {
+   "id": "1939200",
+   "name": "LEGO Pokémon, Eevee",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juguetes/Lego/LEGO-Pokemon-Eevee/p/1939200",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h8b/450526872469534.jpg",
+   "category": "Juguetes Regalos y Certificados",
+   "price_old": 1199.0,
+   "price_new": 899.0,
+   "pct": 25.0,
+   "amount": 300.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 22,
    "h_min": 899.0,
    "h_ayer": 899.0,
    "h_min7": 899.0

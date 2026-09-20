@@ -1,6 +1,6 @@
 {
- "generated_at": 1789887842.7900312,
- "generated_at_str": "20/09/2026 01:10",
+ "generated_at": 1789891442.723528,
+ "generated_at_str": "20/09/2026 02:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -1609,7 +1609,7 @@
    "name": "APPLE iPhone 14 6.1 pulgadas Super Retina XDR Reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-14-6-1-pulgadas-super-retina-xdr-reacondicionado/99972874924",
    "img": "https://sp632.liverpool.com.mx/i/1158245392.jpg",
-   "category": "Celulares",
+   "category": "Iphone",
    "price_old": 13999.0,
    "price_new": 6119.0,
    "pct": 56.3,
@@ -3644,23 +3644,6 @@
    "h_ayer": 14999.0
   },
   {
-   "id": "999682091734",
-   "name": "MI SOFA MX Sala modular cali de madera",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-cali-de-madera/999682091734",
-   "img": "https://sp101.liverpool.com.mx/i/1204117680.jpg",
-   "category": "Salas",
-   "price_old": 29980.0,
-   "price_new": 14990.0,
-   "pct": 50.0,
-   "amount": 14990.0,
-   "ends": "",
-   "first_seen": 1789841042.7111382,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 14990.0,
-   "h_ayer": 14990.0
-  },
-  {
    "id": "999668816733",
    "name": "SOCHIC Set Recámara Japandi de melamina",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-japandi-de-melamina/999668816733",
@@ -5562,23 +5545,6 @@
    "h_dias": 5,
    "h_min": 1690.0,
    "h_ayer": 1690.0
-  },
-  {
-   "id": "1169119385",
-   "name": "ADIDAS ORIGINALS Tenis campus para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-campus-para-mujer/1169119385",
-   "img": "https://ss550.liverpool.com.mx/lg/1169119385.jpg",
-   "category": "Tenis",
-   "price_old": 2499.0,
-   "price_new": 975.0,
-   "pct": 61.0,
-   "amount": 1524.0,
-   "ends": "",
-   "first_seen": 1789790641.8513465,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 975.0,
-   "h_ayer": 975.0
   },
   {
    "id": "1193415969",
@@ -8997,23 +8963,6 @@
    "h_ayer": 394.0
   },
   {
-   "id": "1181705449",
-   "name": "XTELLAR Audífonos on-ear inalámbricos",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-on-ear-inal-mbricos/1181705449",
-   "img": "https://ss377.liverpool.com.mx/lg/1181705449.jpg",
-   "category": "Audifonos",
-   "price_old": 1499.0,
-   "price_new": 644.96,
-   "pct": 57.0,
-   "amount": 854.04,
-   "ends": "",
-   "first_seen": 1789887842.7900312,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 644.96,
-   "h_ayer": 646.28
-  },
-  {
    "id": "1189483011",
    "name": "XTELLAR Bocina portátil XTLLAR9935 bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-xtllar9935-bluetooth/1189483011",
@@ -10696,23 +10645,6 @@
    "h_ayer": 463.55
   },
   {
-   "id": "99993444843",
-   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
-   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
-   "category": "Tenis",
-   "price_old": 2499.0,
-   "price_new": 1225.0,
-   "pct": 51.0,
-   "amount": 1274.0,
-   "ends": "",
-   "first_seen": 1789801442.8495426,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1225.0,
-   "h_ayer": 1225.0
-  },
-  {
    "id": "1128456798",
    "name": "WHIRLPOOL Lavadora 22 kg automática carga superior 8MWTW2241WJB",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-22-kg-autom-tica-carga-superior-8mwtw2241wjb/1128456798",
@@ -10881,6 +10813,23 @@
    "h_dias": 4,
    "h_min": 656.6,
    "h_ayer": 656.76
+  },
+  {
+   "id": "99993444929",
+   "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
+   "img": "https://ss550.liverpool.com.mx/lg/1191718441.jpg",
+   "category": "Tenis",
+   "price_old": 2399.0,
+   "price_new": 1176.0,
+   "pct": 51.0,
+   "amount": 1223.0,
+   "ends": "",
+   "first_seen": 1789794241.9039695,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 1176.0,
+   "h_ayer": 1176.0
   },
   {
    "id": "999684145454",
@@ -11884,23 +11833,6 @@
    "h_dias": 4,
    "h_min": 483.02,
    "h_ayer": 483.02
-  },
-  {
-   "id": "99981307966",
-   "name": "WESTIES Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99981307966",
-   "img": "https://ss550.liverpool.com.mx/lg/1170526470.jpg",
-   "category": "Tenis",
-   "price_old": 2299.0,
-   "price_new": 1150.0,
-   "pct": 50.0,
-   "amount": 1149.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1150.0,
-   "h_ayer": 1150.0
   },
   {
    "id": "999683760551",
@@ -15677,23 +15609,6 @@
    "h_ayer": 571.02
   },
   {
-   "id": "999683758123",
-   "name": "KESSA Set Recámara Lex de MDF",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-lex-de-mdf/999683758123",
-   "img": "https://sp101.liverpool.com.mx/i/1205876550.jpg",
-   "category": "Recamaras",
-   "price_old": 33679.0,
-   "price_new": 21869.0,
-   "pct": 35.1,
-   "amount": 11810.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 21869.0,
-   "h_ayer": 21869.0
-  },
-  {
    "id": "1189271006",
    "name": "BELUG Aspiradora de mano 500 ml",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-500-ml/1189271006",
@@ -19230,23 +19145,6 @@
    "h_ayer": 12249.0
   },
   {
-   "id": "1124294262",
-   "name": "BEYERDYNAMIC Audífonos Over-Ear Dt 770 Pro 32 Ohms alámbricos",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-over-ear-dt-770-pro-32-ohms-al-mbricos/1124294262",
-   "img": "https://ss630.liverpool.com.mx/lg/1124294262.jpg",
-   "category": "Audifonos",
-   "price_old": 10499.0,
-   "price_new": 6580.99,
-   "pct": 37.3,
-   "amount": 3918.01,
-   "ends": "",
-   "first_seen": 1789819441.7916286,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 6580.99,
-   "h_ayer": 6580.99
-  },
-  {
    "id": "1120054640",
    "name": "OSTER Licuadora BLSTKAP-RRD 2 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-blstkap-rrd-2-velocidades/1120054640",
@@ -22392,40 +22290,6 @@
    "h_ayer": 1990.09
   },
   {
-   "id": "999685957437",
-   "name": "GUESS Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999685957437",
-   "img": "https://sp101.liverpool.com.mx/i/1208057690.jpg",
-   "category": "Tenis",
-   "price_old": 3099.0,
-   "price_new": 1859.0,
-   "pct": 40.0,
-   "amount": 1240.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1859.0,
-   "h_ayer": 1859.0
-  },
-  {
-   "id": "1191011811",
-   "name": "GUESS Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/1191011811",
-   "img": "https://sp550.liverpool.com.mx/i/1191011828.jpg",
-   "category": "Tenis",
-   "price_old": 3099.0,
-   "price_new": 1859.0,
-   "pct": 40.0,
-   "amount": 1240.0,
-   "ends": "",
-   "first_seen": 1789887842.7900312,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1859.0,
-   "h_ayer": 1859.0
-  },
-  {
    "id": "999671130350",
    "name": "GUESS Tenis para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999671130350",
@@ -23002,23 +22866,6 @@
    "h_dias": 4,
    "h_min": 3799.99,
    "h_ayer": 3799.99
-  },
-  {
-   "id": "999685957228",
-   "name": "GUESS Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999685957228",
-   "img": "https://sp101.liverpool.com.mx/i/1208058076.jpg",
-   "category": "Tenis",
-   "price_old": 2899.0,
-   "price_new": 1739.0,
-   "pct": 40.0,
-   "amount": 1160.0,
-   "ends": "",
-   "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1739.0,
-   "h_ayer": 1739.0
   },
   {
    "id": "999686608880",
@@ -24857,38 +24704,20 @@
    "h_ayer": 3179.0
   },
   {
-   "id": "99994756490",
+   "id": "99994864955",
    "name": "GUESS Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99994756490",
-   "img": "https://sp550.liverpool.com.mx/i/1194280714.jpg",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99994864955",
+   "img": "https://ss550.liverpool.com.mx/lg/1194544819.jpg",
    "category": "Tenis",
    "price_old": 2299.0,
    "price_new": 1379.0,
    "pct": 40.0,
    "amount": 920.0,
    "ends": "",
-   "first_seen": 1787593719.1367073,
+   "first_seen": 1789891442.723528,
    "in_stock": true,
-   "h_dias": 5,
-   "h_min": 1379.0,
-   "h_ayer": 1379.0
-  },
-  {
-   "id": "99982801392",
-   "name": "GUESS Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99982801392",
-   "img": "https://ss550.liverpool.com.mx/lg/1173545211.jpg",
-   "category": "Tenis",
-   "price_old": 2299.0,
-   "price_new": 1379.0,
-   "pct": 40.0,
-   "amount": 920.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 1379.0,
-   "h_ayer": 1379.0
+   "h_dias": 1,
+   "h_min": 1379.0
   },
   {
    "id": "1192639715",
@@ -25276,23 +25105,6 @@
    "amount": 738.0,
    "ends": "",
    "first_seen": 1789686242.9389071,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1061.0,
-   "h_ayer": 1061.0
-  },
-  {
-   "id": "99993444247",
-   "name": "ADIDAS Tenis Others para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-others-para-mujer/99993444247",
-   "img": "https://ss550.liverpool.com.mx/lg/1191663990.jpg",
-   "category": "Tenis",
-   "price_old": 1799.0,
-   "price_new": 1061.0,
-   "pct": 41.0,
-   "amount": 738.0,
-   "ends": "",
-   "first_seen": 1789880642.6315713,
    "in_stock": true,
    "h_dias": 4,
    "h_min": 1061.0,
@@ -26097,17 +25909,17 @@
    "h_ayer": 1199.0
   },
   {
-   "id": "1157136501",
+   "id": "1157136382",
    "name": "WESTIES Tenis Wehabib para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-wehabib-para-mujer/1157136501",
-   "img": "https://sp550.liverpool.com.mx/i/1157136514.jpg",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-wehabib-para-mujer/1157136382",
+   "img": "https://ss550.liverpool.com.mx/lg/1157136382.jpg",
    "category": "Tenis",
    "price_old": 1999.0,
    "price_new": 1199.0,
    "pct": 40.0,
    "amount": 800.0,
    "ends": "",
-   "first_seen": 1787593719.1367073,
+   "first_seen": 1789891442.723528,
    "in_stock": true,
    "h_dias": 5,
    "h_min": 1199.0,
@@ -29885,6 +29697,22 @@
    "h_ayer": 599.0
   },
   {
+   "id": "1194426107",
+   "name": "CONTOYSA Audífonos In-Ear X66Pro inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-x66pro-inal-mbricos-con-cancelaci-n-de-ruido/1194426107",
+   "img": "https://ss637.liverpool.com.mx/lg/1194426107.jpg",
+   "category": "Audifonos",
+   "price_old": 999.0,
+   "price_new": 599.0,
+   "pct": 40.0,
+   "amount": 400.0,
+   "ends": "",
+   "first_seen": 1789891442.723528,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 599.0
+  },
+  {
    "id": "1195480768",
    "name": "AIWA Bocina portátil AWQ680 bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-awq680-bluetooth/1195480768",
@@ -32758,23 +32586,6 @@
    "h_ayer": 2799.0
   },
   {
-   "id": "99979736973",
-   "name": "360 FOOTWEAR Tenis Filadelfía para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-filadelf-a-para-mujer/99979736973",
-   "img": "https://ss550.liverpool.com.mx/lg/1169525851.jpg",
-   "category": "Tenis",
-   "price_old": 999.0,
-   "price_new": 639.0,
-   "pct": 36.0,
-   "amount": 360.0,
-   "ends": "",
-   "first_seen": 1789722241.8930385,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 639.0,
-   "h_ayer": 639.0
-  },
-  {
    "id": "1184147510",
    "name": "LATTAFA Set Eau de parfum Musamam & His Confession unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-musamam-his-confession-unisex/1184147510",
@@ -33301,6 +33112,23 @@
    "h_ayer": 2293.89
   },
   {
+   "id": "99993444843",
+   "name": "ADIDAS ORIGINALS Tenis Samba para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-samba-para-mujer/99993444843",
+   "img": "https://sp550.liverpool.com.mx/i/1191688763.jpg",
+   "category": "Tenis",
+   "price_old": 2499.0,
+   "price_new": 1724.0,
+   "pct": 31.0,
+   "amount": 775.0,
+   "ends": "",
+   "first_seen": 1789801442.8495426,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 1225.0,
+   "h_ayer": 1225.0
+  },
+  {
    "id": "1120095346",
    "name": "GADGETS & FUN Joystick p/consola inalámbrico",
    "url": "https://www.liverpool.com.mx/tienda/pdp/joystick-p-consola-inal-mbrico/1120095346",
@@ -33401,23 +33229,6 @@
    "h_dias": 5,
    "h_min": 649.0,
    "h_ayer": 649.0
-  },
-  {
-   "id": "99993444929",
-   "name": "ADIDAS ORIGINALS Tenis Handball Spezial para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-handball-spezial-para-mujer/99993444929",
-   "img": "https://ss550.liverpool.com.mx/lg/1191718441.jpg",
-   "category": "Tenis",
-   "price_old": 2399.0,
-   "price_new": 1655.0,
-   "pct": 31.0,
-   "amount": 744.0,
-   "ends": "",
-   "first_seen": 1789794241.9039695,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 1176.0,
-   "h_ayer": 1176.0
   },
   {
    "id": "1197312552",
@@ -34814,23 +34625,6 @@
    "h_ayer": 1259.0
   },
   {
-   "id": "99990355231",
-   "name": "JAIME IBIZA Tenis SNEAKERS para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-sneakers-para-mujer/99990355231",
-   "img": "https://sp550.liverpool.com.mx/i/1186887685.jpg",
-   "category": "Tenis",
-   "price_old": 1799.0,
-   "price_new": 1259.3,
-   "pct": 30.0,
-   "amount": 539.7,
-   "ends": "",
-   "first_seen": 1789819441.7916286,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 1259.3,
-   "h_ayer": 1259.3
-  },
-  {
    "id": "1167441820",
    "name": "ABERCROMBIE & FITCH Set de fragancia A&F Authentic para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-fragancia-a-f-authentic-para-mujer/1167441820",
@@ -35016,6 +34810,23 @@
    "h_dias": 5,
    "h_min": 1159.0,
    "h_ayer": 1159.0
+  },
+  {
+   "id": "999682510283",
+   "name": "GUESS Tenis para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999682510283",
+   "img": "https://sp101.liverpool.com.mx/i/1204539975.jpg",
+   "category": "Tenis",
+   "price_old": 1699.0,
+   "price_new": 1189.0,
+   "pct": 30.0,
+   "amount": 510.0,
+   "ends": "",
+   "first_seen": 1789891442.723528,
+   "in_stock": true,
+   "h_dias": 5,
+   "h_min": 1189.0,
+   "h_ayer": 1189.0
   },
   {
    "id": "9935259213",

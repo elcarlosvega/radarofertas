@@ -1,6 +1,6 @@
 {
- "generated_at": 1789902243.9255667,
- "generated_at_str": "20/09/2026 05:04",
+ "generated_at": 1789905844.0032191,
+ "generated_at_str": "20/09/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1702BOG1?t=VB18028929001802912700000270NLUBOG_790a190f5fc5f8a2cab00ea95b558222_17505&search_date=20092026&expected_price_uuid=01a0bdf9-43d2-8050-e6cb-3f8a809f67c8&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ePUHkkdYDcSfA-Hm2g2wiw&expected_price_source=share&expected_price_currency=mxn&expected_price=3586",
    "title": "Flight deals from Mexico City to Bogota",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20270217-790a190f/"
+  },
+  {
+   "id": "04a4e3e749763b3f0cdd1a26950c9c38",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PUJ",
+   "destination_name": "Punta Cana",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 4211.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-19T16:36:00-05:00",
+   "return_at": "",
+   "duration": 279,
+   "link": "https://www.aviasales.com/search/MEX1910PUJ1?t=DM17924277601792451700000279NLUPUJ_04a4e3e749763b3f0cdd1a26950c9c38_20556&search_date=20092026&expected_price_uuid=01a0bea0-a0ab-8051-28f2-5a622d993b1a&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Bk-waovL4x8RdU9iE3SyWw&expected_price_source=share&expected_price_currency=mxn&expected_price=4211",
+   "title": "Flight deals from Mexico City to Punta Cana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261019-04a4e3e7/"
   },
   {
    "id": "ca00f5006c7a323bfc82eb20d04ff384",

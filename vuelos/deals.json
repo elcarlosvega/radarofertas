@@ -1,6 +1,6 @@
 {
- "generated_at": 1789931044.140436,
- "generated_at_str": "20/09/2026 13:04",
+ "generated_at": 1789934644.2314625,
+ "generated_at_str": "20/09/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1401CUN1?t=Y417999082001799920020000137TLCCUN_9815f4ac54bce8eed5d60da800eef89e_3946&search_date=20092026&expected_price_uuid=01a0bfbd-ea30-8030-6f39-0f29cc7ae44b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=808",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270114-9815f4ac/"
-  },
-  {
-   "id": "ddf15d7a58617d731e73a33e18da6f9a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MTY",
-   "destination_name": "Monterrey",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 854.0,
-   "currency": "MXN",
-   "departure_at": "2026-09-23T18:00:00-05:00",
-   "return_at": "",
-   "duration": 98,
-   "link": "https://www.aviasales.com/search/MEX2309MTY1?t=Y417901864001790192280000098TLCMTY_ddf15d7a58617d731e73a33e18da6f9a_4170&search_date=20092026&expected_price_uuid=01a0bf06-ad9c-8040-ae7a-9eea4b4dc8cf&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=tloACGwwUgCeiniSaHA22Q&expected_price_source=share&expected_price_currency=mxn&expected_price=854",
-   "title": "Flight deals from Mexico City to Monterrey",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260923-ddf15d7a/"
   },
   {
    "id": "8e7b5c51f3bde587e55ef3149d197073",
@@ -168,26 +148,6 @@
    "link": "https://www.aviasales.com/search/GDL3009SJC1?t=Y417907516001790761620000227GDLSJC_0031e51aebea380a7175b6329435b67c_26183&search_date=20092026&expected_price_uuid=01a0bfe0-2263-8030-ad84-b2dd4f5624b8&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=5364",
    "title": "Flight deals from Guadalajara to San Jose",
    "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20260930-0031e51a/"
-  },
-  {
-   "id": "ffd86b24091f13a997f8b19c18f4b985",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 6345.0,
-   "currency": "MXN",
-   "departure_at": "2027-03-31T16:51:00-06:00",
-   "return_at": "",
-   "duration": 849,
-   "link": "https://www.aviasales.com/search/MEX3103BUE1?t=DM18065118601806573600000849NLUPUJEZE_ffd86b24091f13a997f8b19c18f4b985_30969&search_date=20092026&expected_price_uuid=01a0bf09-9a91-8050-e4a1-2c503f7d354b&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6345",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270331-ffd86b24/"
   },
   {
    "id": "b1109888e2ecc03ff966055abafe3a06",

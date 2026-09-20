@@ -1,6 +1,6 @@
 {
- "generated_at": 1789920243.951779,
- "generated_at_str": "20/09/2026 10:04",
+ "generated_at": 1789923844.0638406,
+ "generated_at_str": "20/09/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "9815f4ac54bce8eed5d60da800eef89e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 808.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-14T06:30:00-06:00",
+   "return_at": "",
+   "duration": 137,
+   "link": "https://www.aviasales.com/search/MEX1401CUN1?t=Y417999082001799920020000137TLCCUN_9815f4ac54bce8eed5d60da800eef89e_3946&search_date=20092026&expected_price_uuid=01a0bfbd-ea30-8030-6f39-0f29cc7ae44b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=808",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270114-9815f4ac/"
+  },
   {
    "id": "ddf15d7a58617d731e73a33e18da6f9a",
    "kind": "flight",
@@ -70,6 +90,46 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261030-11ad9853/"
   },
   {
+   "id": "372e53ed78299e2da53ba19e55c7a075",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GUA",
+   "destination_name": "Guatemala",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2021.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-08T06:33:00-06:00",
+   "return_at": "",
+   "duration": 454,
+   "link": "https://www.aviasales.com/search/MEX0801GUA1?t=Y417993899801799417220000454NLUGDLGUA_372e53ed78299e2da53ba19e55c7a075_9864&search_date=20092026&expected_price_uuid=01a0bfaa-029c-8030-e818-ceb8df73da78&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=UeYBPbZK07cNc2BmmtZIZw&expected_price_source=share&expected_price_currency=mxn&expected_price=2021",
+   "title": "Flight deals from Mexico City to Guatemala City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guatemala-20270108-372e53ed/"
+  },
+  {
+   "id": "f34aa3d24a6b0b20f9458379227b4cef",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2680.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-29T06:00:00-05:00",
+   "return_at": "",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2909NYC1?t=VB17906616001790727600000980NLUMTYJFK_f34aa3d24a6b0b20f9458379227b4cef_13080&search_date=20092026&expected_price_uuid=01a0bfaa-3a2e-8040-29e5-6b20a7b9f1ee&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWC9zUylaSg-rsK0eGZ7Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2680",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260929-f34aa3d2/"
+  },
+  {
    "id": "04a4e3e749763b3f0cdd1a26950c9c38",
    "kind": "flight",
    "origin": "MEX",
@@ -110,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270331-ffd86b24/"
   },
   {
-   "id": "9abeedc4b4d0e1ae7b11b53bb60dce54",
+   "id": "b1109888e2ecc03ff966055abafe3a06",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "IST",
    "destination_name": "Estambul",
-   "airline": "OR",
-   "airline_title": "TUIfly Netherlands",
-   "logo": "https://pics.avs.io/600/150/OR.png",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 11810.0,
+   "price": 21360.0,
    "currency": "MXN",
-   "departure_at": "2026-10-06T11:01:00-05:00",
+   "departure_at": "2026-09-24T09:00:00-05:00",
    "return_at": "",
-   "duration": 1579,
-   "link": "https://www.aviasales.com/search/MEX0610IST1?t=OR17912844601791411600001579NLUCUNAMSSAW_9abeedc4b4d0e1ae7b11b53bb60dce54_57648&search_date=20092026&expected_price_uuid=01a0bebd-f443-8051-2724-08565d7899e7&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=ZAGe3u3XUbAy2sczcSykpA&expected_price_source=share&expected_price_currency=mxn&expected_price=11810",
+   "duration": 980,
+   "link": "https://www.aviasales.com/search/MEX2409IST1?t=TK17902404001790331600000980MEXIST_b1109888e2ecc03ff966055abafe3a06_104262&search_date=20092026&expected_price_uuid=01a0bfbd-5677-8050-ac76-d49814d681f0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21360",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261006-9abeedc4/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260924-b1109888/"
   }
  ]
 }

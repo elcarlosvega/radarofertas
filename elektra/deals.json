@@ -1,6 +1,6 @@
 {
- "generated_at": 1789927442.6341128,
- "generated_at_str": "20/09/2026 12:12",
+ "generated_at": 1789931042.5036259,
+ "generated_at_str": "20/09/2026 13:12",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
@@ -308,6 +308,24 @@
    "h_min": 4999.0,
    "h_ayer": 4999.0,
    "h_min7": 4999.0
+  },
+  {
+   "id": "1302091615",
+   "name": "LG DUALCOOL AI Air 1 Ton Frío y Calor (Voltaje 110V / 60HZ)",
+   "url": "https://www.elektra.mx/lg-dualcool-ai-air-1-ton-frio-y-calor-voltaje-110v-60hz-1302091615/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/31764665/90497560.jpeg.jpg?v=639239204819600000",
+   "category": "Línea blanca",
+   "price_old": 26999.0,
+   "price_new": 12499.0,
+   "pct": 53.7,
+   "amount": 14500.0,
+   "ends": "",
+   "first_seen": 1789931042.5036259,
+   "in_stock": true,
+   "h_dias": 14,
+   "h_min": 12499.0,
+   "h_ayer": 12499.0,
+   "h_min7": 12499.0
   },
   {
    "id": "1302091655",
@@ -6643,24 +6661,6 @@
    "h_min7": 3399.0
   },
   {
-   "id": "1300910445",
-   "name": "Casco Kov Apolo Azul Integral Dot",
-   "url": "https://www.elektra.mx/casco-kov-apolo-azul-integral-dot-1300910445/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/18517473/APOLO-SKUALO-AZUL-CASCO-DE-MOTOCICLISTA-KOV-ABATIBLE-3.jpg?v=638961465049870000",
-   "category": "Motos",
-   "price_old": 2590.0,
-   "price_new": 1295.0,
-   "pct": 50.0,
-   "amount": 1295.0,
-   "ends": "",
-   "first_seen": 1789779841.861821,
-   "in_stock": true,
-   "h_dias": 54,
-   "h_min": 1295.0,
-   "h_ayer": 1295.0,
-   "h_min7": 1295.0
-  },
-  {
    "id": "1302052134",
    "name": "Cabecera King Size Rogga Sitka Crema RGH",
    "url": "https://www.elektra.mx/cabecera-king-size-rogga-sitka-crema-rgh-1302052134/p",
@@ -9667,24 +9667,6 @@
    "h_min": 599.0,
    "h_ayer": 599.0,
    "h_min7": 599.0
-  },
-  {
-   "id": "1302085820",
-   "name": "Fortalecedor De Mano Muñeca Y Antebrazo, Color Negro",
-   "url": "https://www.elektra.mx/fortalecedor-de-mano-muneca-y-antebrazo-color-negro-1302085820/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/31696763/7503057965948.jpg?v=639238007028770000",
-   "category": "Deportes",
-   "price_old": 729.0,
-   "price_new": 429.0,
-   "pct": 41.2,
-   "amount": 300.0,
-   "ends": "",
-   "first_seen": 1789927442.6341128,
-   "in_stock": true,
-   "h_dias": 14,
-   "h_min": 429.0,
-   "h_ayer": 429.0,
-   "h_min7": 429.0
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789891509.982776,
- "generated_at_str": "20/09/2026 02:05",
+ "generated_at": 1789895128.4758785,
+ "generated_at_str": "20/09/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4598,6 +4598,25 @@
    "h_min": 6899.0,
    "h_ayer": 7299.0,
    "h_min7": 7299.0
+  },
+  {
+   "id": "660426",
+   "name": "Maytag Lavadora 22Kg Carga Frontal con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/660426",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcb/h86/189685709471774.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 34499.0,
+   "price_new": 25499.0,
+   "pct": 26.1,
+   "amount": 9000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 46,
+   "h_min": 25499.0,
+   "h_ayer": 25499.0,
+   "h_min7": 25499.0
   },
   {
    "id": "664788",
@@ -10237,25 +10256,6 @@
    "h_min7": 10999.0
   },
   {
-   "id": "695246",
-   "name": "Thor Kitchen Cajón Caliente",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Hornos-Electricos-y-Microondas/Thor-Kitchen-Cajon-Caliente/p/695246",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/h2e/363894897475614.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 24999.0,
-   "price_new": 18999.0,
-   "pct": 24.0,
-   "amount": 6000.0,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-21T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 53,
-   "h_min": 17999.0,
-   "h_ayer": 18999.0,
-   "h_min7": 18999.0
-  },
-  {
    "id": "523500",
    "name": "Teka Cava de Vinos 51 Botellas",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Teka-Cava-de-Vinos-51-Botellas/p/523500",
@@ -10271,6 +10271,25 @@
    "first_seen": 1789373133.4759822,
    "h_dias": 48,
    "h_min": 18999.0,
+   "h_ayer": 18999.0,
+   "h_min7": 18999.0
+  },
+  {
+   "id": "695246",
+   "name": "Thor Kitchen Cajón Caliente",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Hornos-Electricos-y-Microondas/Thor-Kitchen-Cajon-Caliente/p/695246",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/h2e/363894897475614.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 24999.0,
+   "price_new": 18999.0,
+   "pct": 24.0,
+   "amount": 6000.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 53,
+   "h_min": 17999.0,
    "h_ayer": 18999.0,
    "h_min7": 18999.0
   },

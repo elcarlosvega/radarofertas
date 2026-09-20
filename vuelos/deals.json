@@ -1,6 +1,6 @@
 {
- "generated_at": 1789891444.0655272,
- "generated_at_str": "20/09/2026 02:04",
+ "generated_at": 1789895044.4841719,
+ "generated_at_str": "20/09/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,44 @@
  ],
  "deals": [
   {
-   "id": "f34aa3d24a6b0b20f9458379227b4cef",
+   "id": "790a190f5fc5f8a2cab00ea95b558222",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
    "airline": "VB",
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2360.0,
+   "price": 3586.0,
    "currency": "MXN",
-   "departure_at": "2026-09-29T06:00:00-05:00",
+   "departure_at": "2027-02-17T19:35:00-06:00",
    "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2909NYC1?t=VB17906616001790727600000980NLUMTYJFK_f34aa3d24a6b0b20f9458379227b4cef_11562&search_date=20092026&expected_price_uuid=01a0bc97-82a4-8040-a305-9f48e9755b69&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWC9zUylaSg-rsK0eGZ7Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2360",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20260929-f34aa3d2/"
+   "duration": 270,
+   "link": "https://www.aviasales.com/search/MEX1702BOG1?t=VB18028929001802912700000270NLUBOG_790a190f5fc5f8a2cab00ea95b558222_17505&search_date=20092026&expected_price_uuid=01a0bdf9-43d2-8050-e6cb-3f8a809f67c8&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ePUHkkdYDcSfA-Hm2g2wiw&expected_price_source=share&expected_price_currency=mxn&expected_price=3586",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20270217-790a190f/"
+  },
+  {
+   "id": "ca00f5006c7a323bfc82eb20d04ff384",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 6200.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-07T16:51:00-05:00",
+   "return_at": "",
+   "duration": 849,
+   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_30375&search_date=20092026&expected_price_uuid=01a0bddb-b536-8050-e039-1b76d2fa997e&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6200",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
   }
  ]
 }

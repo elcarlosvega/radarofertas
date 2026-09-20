@@ -1,6 +1,6 @@
 {
- "generated_at": 1789927444.1721244,
- "generated_at_str": "20/09/2026 12:04",
+ "generated_at": 1789931044.140436,
+ "generated_at_str": "20/09/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MTY3009TGZ1?t=AM17907705001790794140000394MTYMEXTGZ_8e7b5c51f3bde587e55ef3149d197073_6307&search_date=20092026&expected_price_uuid=01a0bf33-c3c5-8040-69d9-de938b68707f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_MFX4tH_g97gUxdud804NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1292",
    "title": "Flight deals from Monterrey to Tuxtla Gutierrez",
    "micro": "/oferta/vuelos/vuelo-monterrey-tuxtla-gutierrez-20260930-8e7b5c51/"
+  },
+  {
+   "id": "bc50f0c53ddb7b519fd261aeb5ebf20e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "Q4",
+   "airline_title": "Euroairlines",
+   "logo": "https://pics.avs.io/600/150/Q4.png",
+   "logo_tipo": "",
+   "price": 1740.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-02T21:55:00-05:00",
+   "return_at": "",
+   "duration": 210,
+   "link": "https://www.aviasales.com/search/MEX0210TIJ1?t=Q417909781001790987100000210NLUTIJ_bc50f0c53ddb7b519fd261aeb5ebf20e_8493&search_date=20092026&expected_price_uuid=01a0c019-fa69-8040-ac39-fa00fb93e649&static_fare_key=TY%7CP0%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=c8-x7sDS3myrUuIhWO4Hvw&expected_price_source=share&expected_price_currency=mxn&expected_price=1740",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261002-bc50f0c5/"
   },
   {
    "id": "11ad9853b03f36e18ae0f8650d009065",

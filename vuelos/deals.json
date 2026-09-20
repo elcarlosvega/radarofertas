@@ -1,6 +1,6 @@
 {
- "generated_at": 1789905844.0032191,
- "generated_at_str": "20/09/2026 06:04",
+ "generated_at": 1789909444.1770897,
+ "generated_at_str": "20/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_30375&search_date=20092026&expected_price_uuid=01a0bddb-b536-8050-e039-1b76d2fa997e&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6200",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
+  },
+  {
+   "id": "9abeedc4b4d0e1ae7b11b53bb60dce54",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "OR",
+   "airline_title": "TUIfly Netherlands",
+   "logo": "https://pics.avs.io/600/150/OR.png",
+   "logo_tipo": "",
+   "price": 11810.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-06T11:01:00-05:00",
+   "return_at": "",
+   "duration": 1579,
+   "link": "https://www.aviasales.com/search/MEX0610IST1?t=OR17912844601791411600001579NLUCUNAMSSAW_9abeedc4b4d0e1ae7b11b53bb60dce54_57648&search_date=20092026&expected_price_uuid=01a0bebd-f443-8051-2724-08565d7899e7&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=ZAGe3u3XUbAy2sczcSykpA&expected_price_source=share&expected_price_currency=mxn&expected_price=11810",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261006-9abeedc4/"
   }
  ]
 }

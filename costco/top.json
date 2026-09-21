@@ -1,7 +1,7 @@
 {
- "generated_at": 1789970713.650328,
- "generated_at_str": "21/09/2026 00:05",
- "total": 952,
+ "generated_at": 1789974323.5325415,
+ "generated_at_str": "21/09/2026 01:05",
+ "total": 1004,
  "deals": [
   {
    "id": "694502",
@@ -35,17 +35,6 @@
    "pct": 30.4,
    "amount": 21000.0,
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV/p/696517"
-  },
-  {
-   "id": "668513",
-   "name": "LG Torre de Lavado de Gas 22Kg/22Kg",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h74/h0d/364484857233438.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 37999.0,
-   "price_old": 54999.0,
-   "pct": 30.9,
-   "amount": 17000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Torre-de-Lavado-de-Gas-22Kg22Kg/p/668513"
   },
   {
    "id": "678653",
@@ -92,17 +81,6 @@
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Foundayz-08-mg-30-Tabletas/p/705331"
   },
   {
-   "id": "1136684",
-   "name": "Portofino, Motion Estate Colección Para Exterior de 7 piezas, Color Azul",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf7/he4/11033271271454.jpg",
-   "category": "Muebles",
-   "price_new": 48999.0,
-   "price_old": 68999.0,
-   "pct": 29.0,
-   "amount": 20000.0,
-   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/Portofino-Motion-Estate-Coleccion-Para-Exterior-de-7-piezas-Color-Azul/p/1136684"
-  },
-  {
    "id": "674600",
    "name": "Whirlpool Refrigerador 25' Side by Side",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h83/153444905582622.jpg",
@@ -114,17 +92,6 @@
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/674600"
   },
   {
-   "id": "665578",
-   "name": "Samsung Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hcc/h31/364484856512542.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 24899.0,
-   "price_old": 35999.0,
-   "pct": 30.8,
-   "amount": 11100.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/665578"
-  },
-  {
    "id": "674473",
    "name": "LG Lavasecadora Eléctrica 22Kg/13Kg + Mini Lavadora 3.5Kg",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hf9/hd0/364727724736542.jpg",
@@ -134,6 +101,39 @@
    "pct": 30.5,
    "amount": 11600.0,
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-Mini-Lavadora-35Kg/p/674473"
+  },
+  {
+   "id": "665578",
+   "name": "Samsung Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcc/h31/364484856512542.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 24999.0,
+   "price_old": 35999.0,
+   "pct": 30.6,
+   "amount": 11000.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/665578"
+  },
+  {
+   "id": "1014223",
+   "name": "Adidas Caminadora T23",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h59/h76/204641123467294.jpg",
+   "category": "Deportes",
+   "price_new": 27999.0,
+   "price_old": 39999.0,
+   "pct": 30.0,
+   "amount": 12000.0,
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/Adidas-Caminadora-T23/p/1014223"
+  },
+  {
+   "id": "704028",
+   "name": "Sole Elíptica Step Climber",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he0/h4a/455026963415070.jpg",
+   "category": "Deportes",
+   "price_new": 25899.0,
+   "price_old": 36999.0,
+   "pct": 30.0,
+   "amount": 11100.0,
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Elipticas/Sole-Eliptica-Step-Climber/p/704028"
   }
  ]
 }

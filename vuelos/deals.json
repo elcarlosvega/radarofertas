@@ -1,6 +1,6 @@
 {
- "generated_at": 1789995843.970477,
- "generated_at_str": "21/09/2026 07:04",
+ "generated_at": 1789999443.6355634,
+ "generated_at_str": "21/09/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -40,17 +40,17 @@
    "airline_title": "British Airways",
    "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 7875.0,
+   "price": 7873.0,
    "currency": "MXN",
    "departure_at": "2027-01-15T06:00:00-06:00",
    "return_at": "",
    "duration": 1590,
-   "link": "https://www.aviasales.com/search/MTY1501IST1?t=BA17999928001800120600001590MTYMIALHRIST_ac15eb0cd4743dda61aa3eae42aee092_38510&search_date=21092026&expected_price_uuid=01a0c3ec-66b3-8050-63a8-a89ba595bf44&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uDtGu0XTqO_NYv-6gTX2HA&expected_price_source=share&expected_price_currency=mxn&expected_price=7875",
+   "link": "https://www.aviasales.com/search/MTY1501IST1?t=BA17999928001800120600001590MTYMIALHRIST_ac15eb0cd4743dda61aa3eae42aee092_38510&search_date=21092026&expected_price_uuid=01a0c3ec-66b3-8050-63a8-a89ba595bf44&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uDtGu0XTqO_NYv-6gTX2HA&expected_price_source=share&expected_price_currency=mxn&expected_price=7873",
    "title": "Flight deals from Monterrey to Istanbul",
    "micro": "/oferta/vuelos/vuelo-monterrey-estambul-20270115-ac15eb0c/"
   },
   {
-   "id": "f1d770098fe891f6a3f0e1f1fa76e3f1",
+   "id": "f53ae8cf98a90cfd811d6234917cb2d2",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +60,14 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 14351.0,
+   "price": 17719.0,
    "currency": "MXN",
-   "departure_at": "2026-11-02T09:20:00-06:00",
+   "departure_at": "2026-09-30T09:00:00-05:00",
    "return_at": "",
-   "duration": 1305,
-   "link": "https://www.aviasales.com/search/MEX0211TBS1?t=TK17936112001793725500001305MEXISTTBS_f1d770098fe891f6a3f0e1f1fa76e3f1_70236&search_date=21092026&expected_price_uuid=01a0c2cb-44c9-8030-eaa4-046b4314b882&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=u6f94ze_aM8NLx7sOskY4Q&expected_price_source=share&expected_price_currency=mxn&expected_price=14351",
+   "duration": 1300,
+   "link": "https://www.aviasales.com/search/MEX3009TBS1?t=TK17907588001790872800001300MEXISTTBS_f53ae8cf98a90cfd811d6234917cb2d2_86842&search_date=21092026&expected_price_uuid=01a0c381-447a-8050-e609-54eadcca4194&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=rdhaQ39mBwX9-udNHRan2Q&expected_price_source=share&expected_price_currency=mxn&expected_price=17719",
    "title": "Flight deals from Mexico City to Tbilisi",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261102-f1d77009/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20260930-f53ae8cf/"
   },
   {
    "id": "a6079150df928644ea1d50a5888396ec",
@@ -80,12 +80,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 21094.0,
+   "price": 21088.0,
    "currency": "MXN",
    "departure_at": "2026-09-27T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2709IST1?t=TK17904996001790590800000980MEXIST_a6079150df928644ea1d50a5888396ec_103330&search_date=21092026&expected_price_uuid=01a0c3b5-670a-8051-2966-97e085220551&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21094",
+   "link": "https://www.aviasales.com/search/MEX2709IST1?t=TK17904996001790590800000980MEXIST_a6079150df928644ea1d50a5888396ec_103330&search_date=21092026&expected_price_uuid=01a0c3b5-670a-8051-2966-97e085220551&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L8AyQfUswtdIXIXrXTATNg&expected_price_source=share&expected_price_currency=mxn&expected_price=21088",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260927-a6079150/"
   }

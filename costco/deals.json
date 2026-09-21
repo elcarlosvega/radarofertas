@@ -1,6 +1,6 @@
 {
- "generated_at": 1790017532.2285328,
- "generated_at_str": "21/09/2026 13:05",
+ "generated_at": 1790021115.904966,
+ "generated_at_str": "21/09/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2696,7 +2696,7 @@
    "starts": "2026-09-21T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790017532.2285328,
+   "first_seen": 1790017540.4556568,
    "h_dias": 47,
    "h_min": 17999.0,
    "h_ayer": 17999.0,
@@ -2795,6 +2795,24 @@
    "h_min": 7499.0,
    "h_ayer": 7999.0,
    "h_min7": 7999.0
+  },
+  {
+   "id": "1752967",
+   "name": "Thomasville, Sofá Modular de Tela de 6 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Sofa-Modular-de-Tela-de-6-Piezas/p/1752967",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he5/heb/327616589529118.jpg",
+   "category": "Muebles",
+   "price_old": 36999.0,
+   "price_new": 27499.0,
+   "pct": 25.7,
+   "amount": 9500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789977926.0817127,
+   "h_dias": 10,
+   "h_min": 27499.0,
+   "h_min7": 27499.0
   },
   {
    "id": "1987608",
@@ -3421,6 +3439,24 @@
    "in_stock": true,
    "first_seen": 1789974333.001038,
    "h_dias": 16,
+   "h_min": 5999.0,
+   "h_min7": 5999.0
+  },
+  {
+   "id": "1752945",
+   "name": "Northridge Home, Sillón de Tela",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Northridge-Home-Sillon-de-Tela/p/1752945",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h08/h3a/308149373992990.jpg",
+   "category": "Muebles",
+   "price_old": 7999.0,
+   "price_new": 5999.0,
+   "pct": 25.0,
+   "amount": 2000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 29,
    "h_min": 5999.0,
    "h_min7": 5999.0
   },
@@ -4856,6 +4892,23 @@
    "h_min7": 1784.25
   },
   {
+   "id": "686102",
+   "name": "Pilopeptan Woman Proteokel c/4 Ampolletas 64 ml.",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Pilopeptan-Woman-Proteokel-c4-Ampolletas-64-ml/p/686102",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc8/hbc/261392883777566.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 2249.0,
+   "price_new": 1686.75,
+   "pct": 25.0,
+   "amount": 562.25,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 1,
+   "h_min": 1686.75
+  },
+  {
    "id": "538512",
    "name": "Celebrex 200mg 30 Cápsulas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Celebrex-200mg-30-Capsulas/p/538512",
@@ -5736,6 +5789,24 @@
    "h_dias": 50,
    "h_min": 12999.0,
    "h_min7": 12999.0
+  },
+  {
+   "id": "1695585",
+   "name": "Universal Broadmoore, Consola Decorativa",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Consolas-para-TV/Universal-Broadmoore-Consola-Decorativa/p/1695585",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/hf1/350710924115998.jpg",
+   "category": "Muebles",
+   "price_old": 16999.0,
+   "price_new": 12999.0,
+   "pct": 23.5,
+   "amount": 4000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 47,
+   "h_min": 12499.0,
+   "h_min7": 12499.0
   },
   {
    "id": "1934048",
@@ -8524,6 +8595,25 @@
    "h_min": 139999.0,
    "h_ayer": 154999.0,
    "h_min7": 154999.0
+  },
+  {
+   "id": "685450",
+   "name": "Samsung Refrigerador 32´ French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-32-French-Door/p/685450",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h21/ha2/238343290224670.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 25999.0,
+   "price_new": 23999.0,
+   "pct": 7.7,
+   "amount": 2000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789977926.0817127,
+   "h_dias": 55,
+   "h_min": 19999.0,
+   "h_ayer": 22999.0,
+   "h_min7": 22999.0
   }
  ]
 }

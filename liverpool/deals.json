@@ -1,6 +1,6 @@
 {
- "generated_at": 1789977842.5007648,
- "generated_at_str": "21/09/2026 02:10",
+ "generated_at": 1789981442.4814882,
+ "generated_at_str": "21/09/2026 03:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -2992,6 +2992,23 @@
    "amount": 15999.0,
    "ends": "",
    "first_seen": 1789934642.7591014,
+   "in_stock": true,
+   "h_dias": 6,
+   "h_min": 15999.0,
+   "h_ayer": 15999.0
+  },
+  {
+   "id": "1156900431",
+   "name": "GALO FURNITURE Sala 2 piezas Monse",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-monse/1156900431",
+   "img": "https://ss101.liverpool.com.mx/lg/1156900431.jpg",
+   "category": "Salas",
+   "price_old": 31998.0,
+   "price_new": 15999.0,
+   "pct": 50.0,
+   "amount": 15999.0,
+   "ends": "",
+   "first_seen": 1789981442.4814882,
    "in_stock": true,
    "h_dias": 6,
    "h_min": 15999.0,
@@ -10264,23 +10281,6 @@
    "h_dias": 5,
    "h_min": 999.75,
    "h_ayer": 999.75
-  },
-  {
-   "id": "1173684882",
-   "name": "RCA CAFETERA ELÉCTRICA RC-CA, 1.1 L, NEGRO",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-el-ctrica-rc-ca-1-1-l-negro/1173684882",
-   "img": "https://sp101.liverpool.com.mx/i/1173684882.jpg",
-   "category": "Cafeteras",
-   "price_old": 2099.0,
-   "price_new": 999.0,
-   "pct": 52.4,
-   "amount": 1100.0,
-   "ends": "",
-   "first_seen": 1787593719.1367073,
-   "in_stock": true,
-   "h_dias": 6,
-   "h_min": 999.0,
-   "h_ayer": 999.0
   },
   {
    "id": "1165884317",
@@ -23458,6 +23458,22 @@
    "h_ayer": 9999.99
   },
   {
+   "id": "999686882529",
+   "name": "SAMSUNG Monitor gamer ls32fg502enxza ips qhd 32 pulgadas s32fg502en",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-ls32fg502enxza-ips-qhd-32-pulgadas-s32fg502en/999686882529",
+   "img": "https://sp101.liverpool.com.mx/i/1208651567.jpg",
+   "category": "Monitores",
+   "price_old": 8599.99,
+   "price_new": 5599.99,
+   "pct": 34.9,
+   "amount": 3000.0,
+   "ends": "",
+   "first_seen": 1789981442.4814882,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 5599.99
+  },
+  {
    "id": "999680482892",
    "name": "KARMA BEAUTY Secadora de cabello multisecadora krm-975159",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-multisecadora-krm-975159/999680482892",
@@ -25237,23 +25253,6 @@
    "h_dias": 5,
    "h_min": 1061.0,
    "h_ayer": 1061.0
-  },
-  {
-   "id": "1192490225",
-   "name": "ADIDAS SPORTSWEAR Tenis Vl Court Bold para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-vl-court-bold-para-mujer/1192490225",
-   "img": "https://sp550.liverpool.com.mx/i/1192490231.jpg",
-   "category": "Tenis",
-   "price_old": 1799.0,
-   "price_new": 1061.0,
-   "pct": 41.0,
-   "amount": 738.0,
-   "ends": "",
-   "first_seen": 1789974242.4847517,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 1061.0,
-   "h_ayer": 1241.0
   },
   {
    "id": "1170629481",
@@ -35248,6 +35247,22 @@
    "h_dias": 5,
    "h_min": 999.0,
    "h_ayer": 999.0
+  },
+  {
+   "id": "999686684952",
+   "name": "GOSH Tenis para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999686684952",
+   "img": "https://sp101.liverpool.com.mx/i/1208267121.jpg",
+   "category": "Tenis",
+   "price_old": 1465.0,
+   "price_new": 1026.0,
+   "pct": 30.0,
+   "amount": 439.0,
+   "ends": "",
+   "first_seen": 1789981442.4814882,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 1026.0
   },
   {
    "id": "1113101454",

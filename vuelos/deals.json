@@ -1,6 +1,6 @@
 {
- "generated_at": 1789959843.498773,
- "generated_at_str": "20/09/2026 21:04",
+ "generated_at": 1789963444.2358055,
+ "generated_at_str": "20/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "8caa19defec3c49f1a4bd675b25aa4c1",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1187.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-11T17:05:00-06:00",
-   "return_at": "",
-   "duration": 140,
-   "link": "https://www.aviasales.com/search/MTY1112CUN1?t=VB17970087001797020700000140MTYCUN_8caa19defec3c49f1a4bd675b25aa4c1_5804&search_date=20092026&expected_price_uuid=01a0c0cf-3b43-8030-270c-ee21c5360cfb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Mk7fW0ELRPWeMCBAhjg7hA&expected_price_source=share&expected_price_currency=mxn&expected_price=1187",
-   "title": "Flight deals from Monterrey to Cancun",
-   "micro": "/oferta/vuelos/vuelo-monterrey-cancun-20261211-8caa19de/"
-  },
   {
    "id": "3194c23d2c403e5d82105fb94262d6bd",
    "kind": "flight",
@@ -40,12 +20,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2581.0,
+   "price": 2580.0,
    "currency": "MXN",
    "departure_at": "2026-10-08T16:35:00-05:00",
    "return_at": "",
    "duration": 440,
-   "link": "https://www.aviasales.com/search/MEX0810CHI1?t=Y417914773001791507300000440MEXGDLORD_3194c23d2c403e5d82105fb94262d6bd_12605&search_date=21092026&expected_price_uuid=01a0c1d5-41b6-8040-6ac5-da392329e153&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ga4gzTOycj2B9aK07gBWDA&expected_price_source=share&expected_price_currency=mxn&expected_price=2581",
+   "link": "https://www.aviasales.com/search/MEX0810CHI1?t=Y417914773001791507300000440MEXGDLORD_3194c23d2c403e5d82105fb94262d6bd_12605&search_date=21092026&expected_price_uuid=01a0c1d5-41b6-8040-6ac5-da392329e153&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ga4gzTOycj2B9aK07gBWDA&expected_price_source=share&expected_price_currency=mxn&expected_price=2580",
    "title": "Flight deals from Mexico City to Chicago",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261008-3194c23d/"
   },
@@ -100,12 +80,12 @@
    "airline_title": "Flair Airlines",
    "logo": "https://pics.avs.io/600/150/F8.png",
    "logo_tipo": "",
-   "price": 3183.0,
+   "price": 3182.0,
    "currency": "MXN",
    "departure_at": "2026-10-20T14:10:00-05:00",
    "return_at": "",
    "duration": 285,
-   "link": "https://www.aviasales.com/search/GDL2010YTO1?t=F817925054001792529700000285GDLYYZ_477af4aeeb0c490a3eac96653017e42e_15549&search_date=21092026&expected_price_uuid=01a0c19a-05cb-8040-a658-8a9968174dd1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7FNNkVyBo7CL1Q8EaoNefw&expected_price_source=share&expected_price_currency=mxn&expected_price=3183",
+   "link": "https://www.aviasales.com/search/GDL2010YTO1?t=F817925054001792529700000285GDLYYZ_477af4aeeb0c490a3eac96653017e42e_15549&search_date=21092026&expected_price_uuid=01a0c19a-05cb-8040-a658-8a9968174dd1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7FNNkVyBo7CL1Q8EaoNefw&expected_price_source=share&expected_price_currency=mxn&expected_price=3182",
    "title": "Flight deals from Guadalajara to Toronto",
    "micro": "/oferta/vuelos/vuelo-guadalajara-toronto-20261020-477af4ae/"
   },

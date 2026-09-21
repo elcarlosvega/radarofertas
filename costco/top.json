@@ -1,7 +1,7 @@
 {
- "generated_at": 1790021115.904966,
- "generated_at_str": "21/09/2026 14:05",
- "total": 463,
+ "generated_at": 1790024735.7618191,
+ "generated_at_str": "21/09/2026 15:05",
+ "total": 927,
  "deals": [
   {
    "id": "703474",
@@ -26,6 +26,17 @@
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV/p/696517"
   },
   {
+   "id": "678653",
+   "name": "Hoshizaki Frigobar 3.8'",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h32/hd5/155303795228702.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 41999.0,
+   "price_old": 59999.0,
+   "pct": 30.0,
+   "amount": 18000.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Frigobares/Hoshizaki-Frigobar-38/p/678653"
+  },
+  {
    "id": "694322",
    "name": "Samsung Pantalla 98\" UHD 4K Smart TV",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/h7a/435775071485982.jpg",
@@ -37,15 +48,37 @@
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-98-UHD-4K-Smart-TV/p/694322"
   },
   {
-   "id": "705331",
-   "name": "Foundayz 0.8 mg 30 Tabletas",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h38/h94/504860537454622.jpg",
-   "category": "Salud y Belleza",
-   "price_new": 2429.0,
-   "price_old": 3999.0,
-   "pct": 39.3,
-   "amount": 1570.0,
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Foundayz-08-mg-30-Tabletas/p/705331"
+   "id": "674600",
+   "name": "Whirlpool Refrigerador 25' Side by Side",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h83/153444905582622.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 24899.0,
+   "price_old": 35999.0,
+   "pct": 30.8,
+   "amount": 11100.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/674600"
+  },
+  {
+   "id": "665578",
+   "name": "Samsung Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hcc/h31/364484856512542.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 24999.0,
+   "price_old": 35999.0,
+   "pct": 30.6,
+   "amount": 11000.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/665578"
+  },
+  {
+   "id": "1014223",
+   "name": "Adidas Caminadora T23",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h59/h76/204641123467294.jpg",
+   "category": "Deportes",
+   "price_new": 27999.0,
+   "price_old": 39999.0,
+   "pct": 30.0,
+   "amount": 12000.0,
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Caminadoras/Adidas-Caminadora-T23/p/1014223"
   },
   {
    "id": "696881",
@@ -70,6 +103,28 @@
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Elipticas/Sole-Eliptica-Step-Climber/p/704028"
   },
   {
+   "id": "1902471",
+   "name": "Yardistry, Pérgola de Madera de 3.6 m x 3.06 m con Techo de Aluminio",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf4/h9b/83348139442206.jpg",
+   "category": "Patio y Jardin",
+   "price_new": 22999.0,
+   "price_old": 32999.0,
+   "pct": 30.3,
+   "amount": 10000.0,
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Pergola-de-Madera-de-36-m-x-306-m-con-Techo-de-Aluminio/p/1902471"
+  },
+  {
+   "id": "2047957",
+   "name": "Over & Back Juego de 4 Platos Hondos de Cerámica",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hab/he9/454720193789982.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 699.0,
+   "price_old": 1249.0,
+   "pct": 44.0,
+   "amount": 550.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Over-Back-Juego-de-4-Platos-Hondos-de-Ceramica/p/2047957"
+  },
+  {
    "id": "648093",
    "name": "ASUS Vivobook S16 Laptop 16\" WUXGA AMD Ryzen 9 270 16GB 512GB SSD",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h88/hed/490070493495326.jpg",
@@ -79,61 +134,6 @@
    "pct": 30.6,
    "amount": 8500.0,
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-S16-Laptop-16-WUXGA-AMD-Ryzen-9-270-16GB-512GB-SSD/p/648093"
-  },
-  {
-   "id": "703747",
-   "name": "LG Pantalla 98\" UHD 4K Smart TV",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6a/h31/488517751111710.jpg",
-   "category": "Electronicos",
-   "price_new": 28999.0,
-   "price_old": 40999.0,
-   "pct": 29.3,
-   "amount": 12000.0,
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/LG-Pantalla-98-UHD-4K-Smart-TV/p/703747"
-  },
-  {
-   "id": "660422",
-   "name": "Maytag Secadora de Gas 22Kg Carga Frontal con Pedestal",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h7a/h80/488517754257438.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 20999.0,
-   "price_old": 29999.0,
-   "pct": 30.0,
-   "amount": 9000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-22Kg-Carga-Frontal-con-Pedestal/p/660422"
-  },
-  {
-   "id": "682703",
-   "name": "Maytag Secadora Eléctrica 26Kg",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6f/hc1/364485062819870.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 15999.0,
-   "price_old": 22999.0,
-   "pct": 30.4,
-   "amount": 7000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-Electrica-26Kg/p/682703"
-  },
-  {
-   "id": "674473",
-   "name": "LG Lavasecadora Eléctrica 22Kg/13Kg + Mini Lavadora 3.5Kg",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf9/hd0/364727724736542.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 26999.0,
-   "price_old": 37999.0,
-   "pct": 28.9,
-   "amount": 11000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavasecadora-Electrica-22Kg13Kg-Mini-Lavadora-35Kg/p/674473"
-  },
-  {
-   "id": "656809",
-   "name": "Whirlpool Refrigerador 13' Bottom Mount",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h78/15941876351006.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 13499.0,
-   "price_old": 19499.0,
-   "pct": 30.8,
-   "amount": 6000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-13-Bottom-Mount/p/656809"
   }
  ]
 }

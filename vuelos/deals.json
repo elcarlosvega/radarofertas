@@ -1,6 +1,6 @@
 {
- "generated_at": 1789952644.214555,
- "generated_at_str": "20/09/2026 19:04",
+ "generated_at": 1789956244.3448217,
+ "generated_at_str": "20/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,6 +70,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20260930-6d20eae0/"
   },
   {
+   "id": "3f02aa01ca25f2ab1b3af5cc1ca5b279",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CHI",
+   "destination_name": "Chicago",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2671.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-01T18:45:00-05:00",
+   "return_at": "",
+   "duration": 242,
+   "link": "https://www.aviasales.com/search/MEX0110CHI1?t=Y417908803001790898420000242MEXORD_3f02aa01ca25f2ab1b3af5cc1ca5b279_13045&search_date=21092026&expected_price_uuid=01a0c18d-1107-8030-a3ee-0c8e59ef3217&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=awolrz4iYgm7AhV_7RNolA&expected_price_source=share&expected_price_currency=mxn&expected_price=2671",
+   "title": "Flight deals from Mexico City to Chicago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261001-3f02aa01/"
+  },
+  {
    "id": "2a577bc5cfa663d0c7c899a75d9c565e",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX3009MIA1?t=Y417907627001790781360000191MEXMIA_2a577bc5cfa663d0c7c899a75d9c565e_15398&search_date=20092026&expected_price_uuid=01a0c132-b9eb-8030-6d27-cc6e37706005&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=3149",
    "title": "Flight deals from Mexico City to Miami",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20260930-2a577bc5/"
+  },
+  {
+   "id": "477af4aeeb0c490a3eac96653017e42e",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "YTO",
+   "destination_name": "Toronto",
+   "airline": "F8",
+   "airline_title": "Flair Airlines",
+   "logo": "https://pics.avs.io/600/150/F8.png",
+   "logo_tipo": "",
+   "price": 3184.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-20T14:10:00-05:00",
+   "return_at": "",
+   "duration": 285,
+   "link": "https://www.aviasales.com/search/GDL2010YTO1?t=F817925054001792529700000285GDLYYZ_477af4aeeb0c490a3eac96653017e42e_15549&search_date=21092026&expected_price_uuid=01a0c19a-05cb-8040-a658-8a9968174dd1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7FNNkVyBo7CL1Q8EaoNefw&expected_price_source=share&expected_price_currency=mxn&expected_price=3184",
+   "title": "Flight deals from Guadalajara to Toronto",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-toronto-20261020-477af4ae/"
   },
   {
    "id": "4f213f9444bab9384566756fef741fa9",

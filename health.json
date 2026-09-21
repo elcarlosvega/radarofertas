@@ -54,13 +54,13 @@
    "micro_pages": 46
   },
   "elektra": {
-   "last_attempt": 1790006642.105435,
-   "items": 0,
-   "status": "down",
-   "reason": "HTTP Error 500: Internal Server Error",
+   "last_attempt": 1790010242.0992892,
+   "items": 533,
+   "status": "ok",
+   "reason": "",
    "host": "pc",
-   "last_complete_sweep": 1789999442.3143227,
-   "micro_pages": 0
+   "last_complete_sweep": 1790010242.0992892,
+   "micro_pages": 1
   },
   "liverpool": {
    "last_attempt": 1790010242.198436,
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1790010636.9165819
+ "updated_at": 1790010792.8625176
 }

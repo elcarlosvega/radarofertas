@@ -1,11 +1,27 @@
 {
- "generated_at": 1790039043.074087,
- "generated_at_str": "21/09/2026 19:16",
+ "generated_at": 1790042642.8880618,
+ "generated_at_str": "21/09/2026 20:13",
  "thresholds": {
   "min_pct": 40.0,
   "min_amount": 300.0
  },
  "deals": [
+  {
+   "id": "1300750549",
+   "name": "Aire Acondicionado LG DUALCOOL Inverter VM122C9 1 Tonelada",
+   "url": "https://www.elektra.mx/minisplit-inverter-lg-220v-1-ton-frio-vm122c9-12002774/p",
+   "img": "https://elektra.vteximg.com.br/arquivos/ids/31743394/12002774.jpg?v=639238880266800000",
+   "category": "Línea blanca",
+   "price_old": 14499.0,
+   "price_new": 3625.0,
+   "pct": 75.0,
+   "amount": 10874.0,
+   "ends": "",
+   "first_seen": 1790042642.8880618,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 3625.0
+  },
   {
    "id": "1301967964",
    "name": "Apple iPad 8ª Generación 32GB Wi-Fi Plata Reacondicionado",
@@ -41,23 +57,6 @@
    "h_min": 780.0,
    "h_ayer": 780.0,
    "h_min7": 780.0
-  },
-  {
-   "id": "1301111472",
-   "name": "Galaxy S22 128GB Morado Reacondicionado",
-   "url": "https://www.elektra.mx/galaxy-s22-128gb-morado-reacondicionado-1301111472/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/32541249/1711041129S22Ultra128GbMoradopng.jpg?v=639252695196530000",
-   "category": "Telefonía",
-   "price_old": 17999.0,
-   "price_new": 6499.0,
-   "pct": 63.9,
-   "amount": 11500.0,
-   "ends": "",
-   "first_seen": 1790017442.1614742,
-   "in_stock": true,
-   "h_dias": 41,
-   "h_min": 6499.0,
-   "h_min7": 6499.0
   },
   {
    "id": "1300833367",
@@ -309,24 +308,6 @@
    "h_min7": 4999.0
   },
   {
-   "id": "1302091615",
-   "name": "LG DUALCOOL AI Air 1 Ton Frío y Calor (Voltaje 110V / 60HZ)",
-   "url": "https://www.elektra.mx/lg-dualcool-ai-air-1-ton-frio-y-calor-voltaje-110v-60hz-1302091615/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/31764665/90497560.jpeg.jpg?v=639239204819600000",
-   "category": "Línea blanca",
-   "price_old": 26999.0,
-   "price_new": 12499.0,
-   "pct": 53.7,
-   "amount": 14500.0,
-   "ends": "",
-   "first_seen": 1789977842.400251,
-   "in_stock": true,
-   "h_dias": 15,
-   "h_min": 12499.0,
-   "h_ayer": 12499.0,
-   "h_min7": 12499.0
-  },
-  {
    "id": "1302091655",
    "name": "LG DUALCOOL AI Air 1 Ton Frío (Voltaje 110V / 60HZ)",
    "url": "https://www.elektra.mx/lg-dualcool-ai-air-1-ton-frio-voltaje-110v-60hz-1302091655/p",
@@ -466,24 +447,6 @@
    "first_seen": 1789779841.861821,
    "in_stock": true,
    "h_dias": 19,
-   "h_min": 6099.0,
-   "h_ayer": 6099.0,
-   "h_min7": 6099.0
-  },
-  {
-   "id": "1302091631",
-   "name": "Aire Acondicionado Minisplit LG ON/OFF 12000 BTU/h Frío y Calor (Voltaje 230V / 60HZ)",
-   "url": "https://www.elektra.mx/aire-acondicionado-minisplit-lg-onoff-12000-btuh-frio-y-calor-voltaje-230v-60hz-1302091631/p",
-   "img": "https://elektra.vteximg.com.br/arquivos/ids/31765361/c4160cc7.jpeg.jpg?v=639239206806570000",
-   "category": "Línea blanca",
-   "price_old": 13999.0,
-   "price_new": 6099.0,
-   "pct": 56.4,
-   "amount": 7900.0,
-   "ends": "",
-   "first_seen": 1789844642.4857087,
-   "in_stock": true,
-   "h_dias": 18,
    "h_min": 6099.0,
    "h_ayer": 6099.0,
    "h_min7": 6099.0

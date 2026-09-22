@@ -1,6 +1,6 @@
 {
- "generated_at": 1790042738.7645156,
- "generated_at_str": "21/09/2026 20:05",
+ "generated_at": 1790046328.6048603,
+ "generated_at_str": "21/09/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4888,6 +4888,24 @@
    "in_stock": true,
    "first_seen": 1789974333.001038,
    "h_dias": 16,
+   "h_min": 5999.0,
+   "h_min7": 5999.0
+  },
+  {
+   "id": "1783253",
+   "name": "Thomasville, Sillón de Tela con Detalles de Madera",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Thomasville-Sillon-de-Tela-con-Detalles-de-Madera/p/1783253",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0e/h4c/310037609742366.jpg",
+   "category": "Muebles",
+   "price_old": 7999.0,
+   "price_new": 5999.0,
+   "pct": 25.0,
+   "amount": 2000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 31,
    "h_min": 5999.0,
    "h_min7": 5999.0
   },

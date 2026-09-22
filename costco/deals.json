@@ -1,6 +1,6 @@
 {
- "generated_at": 1790039150.3144808,
- "generated_at_str": "21/09/2026 19:05",
+ "generated_at": 1790042738.7645156,
+ "generated_at_str": "21/09/2026 20:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4892,24 +4892,6 @@
    "h_min7": 5999.0
   },
   {
-   "id": "1783253",
-   "name": "Thomasville, Sillón de Tela con Detalles de Madera",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Thomasville-Sillon-de-Tela-con-Detalles-de-Madera/p/1783253",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0e/h4c/310037609742366.jpg",
-   "category": "Muebles",
-   "price_old": 7999.0,
-   "price_new": 5999.0,
-   "pct": 25.0,
-   "amount": 2000.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 31,
-   "h_min": 5999.0,
-   "h_min7": 5999.0
-  },
-  {
    "id": "1752945",
    "name": "Northridge Home, Sillón de Tela",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Northridge-Home-Sillon-de-Tela/p/1752945",
@@ -5601,24 +5583,6 @@
    "name": "Kate Spade Ks Seline 2/S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Kate-Spade-Ks-Seline-2S-Lentes-de-Sol/p/750330",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hcf/hc8/449966871281694.jpg",
-   "category": "Optica",
-   "price_old": 4699.0,
-   "price_new": 3524.25,
-   "pct": 25.0,
-   "amount": 1174.75,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 31,
-   "h_min": 3524.25,
-   "h_min7": 3524.25
-  },
-  {
-   "id": "750329",
-   "name": "Kate Spade Ks Lilah 2/G/S Lentes de Sol",
-   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Kate-Spade-Ks-Lilah-2GS-Lentes-de-Sol/p/750329",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h34/h16/449966868037662.jpg",
    "category": "Optica",
    "price_old": 4699.0,
    "price_new": 3524.25,
@@ -13062,23 +13026,6 @@
    "h_min7": 11999.0
   },
   {
-   "id": "1783252",
-   "name": "Thomasville, Gilroy, Sillón de Tela Con Otomano",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Thomasville-Gilroy-Sillon-de-Tela-Con-Otomano/p/1783252",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he5/hb1/503476514947102.jpg",
-   "category": "Muebles",
-   "price_old": 14999.0,
-   "price_new": 11999.0,
-   "pct": 20.0,
-   "amount": 3000.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 1,
-   "h_min": 11999.0
-  },
-  {
    "id": "521816",
    "name": "Sealy, Denver, Colchón Queen Size",
    "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-Queen-Size/p/521816",
@@ -13388,6 +13335,25 @@
    "h_min": 10799.0,
    "h_ayer": 10799.0,
    "h_min7": 10799.0
+  },
+  {
+   "id": "703976",
+   "name": "Hisense Pantalla 75\" Hi-QLED 4K Canvas Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Hi-QLED-4K-Canvas-Google-TV/p/703976",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h53/hb9/488166391676958.jpg",
+   "category": "Electronicos",
+   "price_old": 35999.0,
+   "price_new": 28999.0,
+   "pct": 19.4,
+   "amount": 7000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 55,
+   "h_min": 24999.0,
+   "h_ayer": 29999.0,
+   "h_min7": 28999.0
   },
   {
    "id": "660426",
@@ -17397,6 +17363,25 @@
    "h_min7": 65999.0
   },
   {
+   "id": "697407",
+   "name": "Sony Pantalla 65\" BRAVIA 8 II OLED 4K Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Sony-Pantalla-65-BRAVIA-8-II-OLED-4K-Google-TV/p/697407",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/hd3/437417266020382.jpg",
+   "category": "Electronicos",
+   "price_old": 49999.0,
+   "price_new": 43999.0,
+   "pct": 12.0,
+   "amount": 6000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 50,
+   "h_min": 42999.0,
+   "h_ayer": 42999.0,
+   "h_min7": 42999.0
+  },
+  {
    "id": "704713",
    "name": "Hisense Barra de Sonido HT Saturn",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/Hisense-Barra-de-Sonido-HT-Saturn/p/704713",
@@ -17809,25 +17794,6 @@
    "h_dias": 32,
    "h_min": 11999.0,
    "h_min7": 12299.0
-  },
-  {
-   "id": "702891",
-   "name": "Smeg Horno Eléctrico 76cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Horno-Electrico-76cm/p/702891",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3f/hb8/448978905006110.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 64999.0,
-   "price_new": 57999.0,
-   "pct": 10.8,
-   "amount": 7000.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 33,
-   "h_min": 49999.0,
-   "h_ayer": 49999.0,
-   "h_min7": 49999.0
   },
   {
    "id": "676566",
@@ -18653,6 +18619,25 @@
    "first_seen": 1789974333.001038,
    "h_dias": 1,
    "h_min": 19999.0
+  },
+  {
+   "id": "703974",
+   "name": "Hisense Pantalla 32\" FollowMe 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/32-a-48-pulgadas/Hisense-Pantalla-32-FollowMe-4K-Smart-TV/p/703974",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf6/hfe/468998913294366.jpg",
+   "category": "Electronicos",
+   "price_old": 21999.0,
+   "price_new": 19999.0,
+   "pct": 9.1,
+   "amount": 2000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 43,
+   "h_min": 19999.0,
+   "h_ayer": 20499.0,
+   "h_min7": 19999.0
   },
   {
    "id": "648074",

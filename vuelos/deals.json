@@ -1,6 +1,6 @@
 {
- "generated_at": 1790085865.3287034,
- "generated_at_str": "22/09/2026 08:04",
+ "generated_at": 1790089443.63623,
+ "generated_at_str": "22/09/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "472b3d804f63b398663fd42d234c1a2e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1952.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-30T08:06:00-06:00",
+   "return_at": "",
+   "duration": 994,
+   "link": "https://www.aviasales.com/search/MEX3010BOG1?t=VB17933475601793410800000994NLUGDLBOG_472b3d804f63b398663fd42d234c1a2e_9539&search_date=22092026&expected_price_uuid=01a0c990-dd24-8030-a4b4-34ac882e759e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dLKqgckYefXXHJouEvAI0A&expected_price_source=share&expected_price_currency=mxn&expected_price=1952",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261030-472b3d80/"
+  },
   {
    "id": "b5f931f0bec8cfa0bc32122a363a91eb",
    "kind": "flight",
@@ -20,12 +40,12 @@
    "airline_title": "American Airlines",
    "logo": "https://pics.avs.io/600/150/AA.png",
    "logo_tipo": "",
-   "price": 2528.0,
+   "price": 2529.0,
    "currency": "MXN",
    "departure_at": "2026-11-06T11:00:00-06:00",
    "return_at": "",
    "duration": 431,
-   "link": "https://www.aviasales.com/search/MEX0611HOU1?t=AA17939628001793988660000431MEXDFWIAH_b5f931f0bec8cfa0bc32122a363a91eb_12363&search_date=22092026&expected_price_uuid=01a0c913-89fd-8040-a75d-e870d2ebf82b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sJ1_FcGC6kx0dQlmJ1YaTg&expected_price_source=share&expected_price_currency=mxn&expected_price=2528",
+   "link": "https://www.aviasales.com/search/MEX0611HOU1?t=AA17939628001793988660000431MEXDFWIAH_b5f931f0bec8cfa0bc32122a363a91eb_12363&search_date=22092026&expected_price_uuid=01a0c913-89fd-8040-a75d-e870d2ebf82b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sJ1_FcGC6kx0dQlmJ1YaTg&expected_price_source=share&expected_price_currency=mxn&expected_price=2529",
    "title": "Flight deals from Mexico City to Houston",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261106-b5f931f0/"
   },
@@ -70,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-roma-20261003-dc6295d4/"
   },
   {
-   "id": "e933abd69e8b5d57f950e7a6e46e3f1a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "TW",
-   "airline_title": "T'way Air",
-   "logo": "https://pics.avs.io/600/150/TW.png",
-   "logo_tipo": "",
-   "price": 8652.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-22T00:30:00-05:00",
-   "return_at": "",
-   "duration": 2280,
-   "link": "https://www.aviasales.com/search/MEX2210SEL1?t=TW17926290001792819800002280MEXYVRICN_e933abd69e8b5d57f950e7a6e46e3f1a_41992&search_date=22092026&expected_price_uuid=01a0c844-c15f-8030-e0e7-5a966000ee3d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qdy4RIaf3YPIg60bQuVXdg&expected_price_source=share&expected_price_currency=mxn&expected_price=8652",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261022-e933abd6/"
-  },
-  {
    "id": "c8acdfc1aa4fb06ee21aef28542bbff7",
    "kind": "flight",
    "origin": "MEX",
@@ -100,12 +100,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 13558.0,
+   "price": 13559.0,
    "currency": "MXN",
    "departure_at": "2027-06-14T09:00:00-05:00",
    "return_at": "",
    "duration": 1345,
-   "link": "https://www.aviasales.com/search/MEX1406WAW1?t=TK18129636001813073100001345MEXISTWAW_c8acdfc1aa4fb06ee21aef28542bbff7_65800&search_date=22092026&expected_price_uuid=01a0c871-37ea-8030-24fd-2902adcacbc1&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=AydxKb-sJKlgRFgXfXV0Ig&expected_price_source=share&expected_price_currency=mxn&expected_price=13558",
+   "link": "https://www.aviasales.com/search/MEX1406WAW1?t=TK18129636001813073100001345MEXISTWAW_c8acdfc1aa4fb06ee21aef28542bbff7_65800&search_date=22092026&expected_price_uuid=01a0c871-37ea-8030-24fd-2902adcacbc1&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=AydxKb-sJKlgRFgXfXV0Ig&expected_price_source=share&expected_price_currency=mxn&expected_price=13559",
    "title": "Flight deals from Mexico City to Warsaw",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-varsovia-20270614-c8acdfc1/"
   },
@@ -120,12 +120,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 21320.0,
+   "price": 21322.0,
    "currency": "MXN",
    "departure_at": "2026-09-24T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2409IST1?t=TK17902404001790331600000980MEXIST_b1109888e2ecc03ff966055abafe3a06_104252&search_date=22092026&expected_price_uuid=01a0c8e9-3e3a-8050-6db5-9da607d03086&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21320",
+   "link": "https://www.aviasales.com/search/MEX2409IST1?t=TK17902404001790331600000980MEXIST_b1109888e2ecc03ff966055abafe3a06_104252&search_date=22092026&expected_price_uuid=01a0c8e9-3e3a-8050-6db5-9da607d03086&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21322",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260924-b1109888/"
   }

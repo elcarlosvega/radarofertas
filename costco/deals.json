@@ -1,6 +1,6 @@
 {
- "generated_at": 1790186707.4735239,
- "generated_at_str": "23/09/2026 12:05",
+ "generated_at": 1790190325.5796525,
+ "generated_at_str": "23/09/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1236,6 +1236,25 @@
    "h_min": 1049.3,
    "h_ayer": 1049.3,
    "h_min7": 1049.3
+  },
+  {
+   "id": "692959",
+   "name": "Dolce & Gabbana K Intense 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Dolce-Gabbana-K-Intense-100-ml/p/692959",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h60/he3/314760249704478.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1499.0,
+   "price_new": 1049.31,
+   "pct": 30.0,
+   "amount": 449.69,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 10,
+   "h_min": 1049.31,
+   "h_ayer": 1049.31,
+   "h_min7": 1049.31
   },
   {
    "id": "674518",
@@ -11368,25 +11387,6 @@
    "h_min7": 13199.0
   },
   {
-   "id": "683950",
-   "name": "LG Lavavajillas 60 cm 14 Servicios de Empotre",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/LG-Lavavajillas-60-cm-14-Servicios-de-Empotre/p/683950",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/he5/220575817465886.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13999.0,
-   "pct": 22.2,
-   "amount": 4000.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 52,
-   "h_min": 12699.0,
-   "h_ayer": 13999.0,
-   "h_min7": 13199.0
-  },
-  {
    "id": "685799",
    "name": "LG Secadora de Gas 25Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Secadora-de-Gas-25Kg/p/685799",
@@ -17223,6 +17223,25 @@
    "h_min": 95999.0,
    "h_ayer": 109999.0,
    "h_min7": 95999.0
+  },
+  {
+   "id": "1790706",
+   "name": "Osaki AI Vera 4D+ Sillón de Masaje",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-del-Hogar/Sillones-y-Aparatos-de-Masaje/Osaki-AI-Vera-4D-Sillon-de-Masaje/p/1790706",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h67/h39/226210963783710.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 74999.0,
+   "price_new": 65999.0,
+   "pct": 12.0,
+   "amount": 9000.0,
+   "starts": "2026-09-15T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789506348.411068,
+   "h_dias": 29,
+   "h_min": 59999.0,
+   "h_ayer": 65999.0,
+   "h_min7": 65999.0
   },
   {
    "id": "697407",

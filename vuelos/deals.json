@@ -1,6 +1,6 @@
 {
- "generated_at": 1790125443.7055893,
- "generated_at_str": "22/09/2026 19:04",
+ "generated_at": 1790129043.3604164,
+ "generated_at_str": "22/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261012-21ac7fec/"
   },
   {
-   "id": "011551f0e05cf585d31989f465a70553",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 5025.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-03T09:05:00-06:00",
-   "return_at": "",
-   "duration": 480,
-   "link": "https://www.aviasales.com/search/MEX0311HAV1?t=VB17936967001793729100000480TLCMTYHAV_011551f0e05cf585d31989f465a70553_24481&search_date=22092026&expected_price_uuid=01a0ca7d-70f9-8030-ec0f-b501e3424969&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b9hJrl59o_EPZ3229Oq6iA&expected_price_source=share&expected_price_currency=mxn&expected_price=5025",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261103-011551f0/"
-  },
-  {
    "id": "9ceb609142c8ba89d165da33fcfae7ec",
    "kind": "flight",
    "origin": "MEX",
@@ -130,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261203-9ceb6091/"
   },
   {
-   "id": "733a14c32a5ab8f4f138c65de8093bca",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 7609.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-13T21:45:00-05:00",
-   "return_at": "",
-   "duration": 645,
-   "link": "https://www.aviasales.com/search/MEX1310MAD1?t=AM17919279001791995400000645MEXMAD_733a14c32a5ab8f4f138c65de8093bca_37071&search_date=22092026&expected_price_uuid=01a0cadb-441f-8040-2e94-7a7122d31b62&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JPOa8IWdbpwKGkRcDiukhw&expected_price_source=share&expected_price_currency=mxn&expected_price=7609",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261013-733a14c3/"
-  },
-  {
    "id": "cfc044e4d4feb1da2fb5f62afe1069a3",
    "kind": "flight",
    "origin": "MEX",
@@ -168,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX0510IST1?t=WS17911629001791333900002310MEXYYCLHRSTNSAW_cfc044e4d4feb1da2fb5f62afe1069a3_40540&search_date=22092026&expected_price_uuid=01a0cb63-2d41-8030-a74a-d29fd8b10708&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ApU-F-lVJ_I_8GNJwl0LIQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8321",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261005-cfc044e4/"
+  },
+  {
+   "id": "9c8a2dc5645e075cffcb405d23592b5a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
+   "logo_tipo": "",
+   "price": 12641.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-26T14:00:00-05:00",
+   "return_at": "",
+   "duration": 890,
+   "link": "https://www.aviasales.com/search/MEX2609MAD1?t=BA17904312001790513400000890MEXMIAMAD_9c8a2dc5645e075cffcb405d23592b5a_61590&search_date=22092026&expected_price_uuid=01a0cae8-e6ec-8030-6e71-42b8280bc789&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=3gZIpKpGuMu9yviXN93vug&expected_price_source=share&expected_price_currency=mxn&expected_price=12641",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20260926-9c8a2dc5/"
   },
   {
    "id": "c0671e64292fdf3dc92404766666d23b",

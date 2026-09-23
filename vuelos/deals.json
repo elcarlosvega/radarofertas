@@ -1,6 +1,6 @@
 {
- "generated_at": 1790129043.3604164,
- "generated_at_str": "22/09/2026 20:04",
+ "generated_at": 1790132643.594528,
+ "generated_at_str": "22/09/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,7 +10,7 @@
  ],
  "deals": [
   {
-   "id": "c1ebe3d81c50dee51aa48fe5475f4f09",
+   "id": "f39495a61cc23c47dba62b1d4911a4c1",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -20,34 +20,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 922.0,
+   "price": 917.0,
    "currency": "MXN",
-   "departure_at": "2026-09-24T12:27:00-05:00",
+   "departure_at": "2026-10-17T12:27:00-05:00",
    "return_at": "",
    "duration": 245,
-   "link": "https://www.aviasales.com/search/MEX2409MTY1?t=Y417902528201790267520000245TLCPVRMTY_c1ebe3d81c50dee51aa48fe5475f4f09_4491&search_date=22092026&expected_price_uuid=01a0cacc-a4a8-8040-a0f3-102777be1657&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=1g6zWz2jfLfMopKqheaNyw&expected_price_source=share&expected_price_currency=mxn&expected_price=922",
+   "link": "https://www.aviasales.com/search/MEX1710MTY1?t=Y417922400201792254720000245TLCPVRMTY_f39495a61cc23c47dba62b1d4911a4c1_4466&search_date=23092026&expected_price_uuid=01a0cb99-0f45-8040-a4f8-a3b57f3a668d&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=1g6zWz2jfLfMopKqheaNyw&expected_price_source=share&expected_price_currency=mxn&expected_price=917",
    "title": "Flight deals from Mexico City to Monterrey",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20260924-c1ebe3d8/"
-  },
-  {
-   "id": "38a38fe76bc43c80cab68e923a574ebf",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "TGZ",
-   "destination_name": "Tuxtla Gutiérrez",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1626.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-07T06:00:00-05:00",
-   "return_at": "",
-   "duration": 374,
-   "link": "https://www.aviasales.com/search/MTY0710TGZ1?t=Y417913528001791375240000374MTYGDLTGZ_38a38fe76bc43c80cab68e923a574ebf_7920&search_date=22092026&expected_price_uuid=01a0cad8-4d65-8040-2f9f-a54d63a01e0d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZZVV-fjYNjUYrHcHnrq6lA&expected_price_source=share&expected_price_currency=mxn&expected_price=1626",
-   "title": "Flight deals from Monterrey to Tuxtla Gutierrez",
-   "micro": "/oferta/vuelos/vuelo-monterrey-tuxtla-gutierrez-20261007-38a38fe7/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20261017-f39495a6/"
   },
   {
    "id": "8d2ebe78762debef54911b81e5d21f9d",

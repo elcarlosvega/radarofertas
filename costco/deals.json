@@ -1,6 +1,6 @@
 {
- "generated_at": 1790129135.2419155,
- "generated_at_str": "22/09/2026 20:05",
+ "generated_at": 1790132716.0783877,
+ "generated_at_str": "22/09/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4888,6 +4888,24 @@
    "name": "Bayside Furnishings, Keeley, Consola Decorativa",
    "url": "https://www.costco.com.mx/Muebles/Recamara/Consolas-para-TV/Bayside-Furnishings-Keeley-Consola-Decorativa/p/1782766",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h94/heb/472881272160286.jpg",
+   "category": "Muebles",
+   "price_old": 13999.0,
+   "price_new": 10499.0,
+   "pct": 25.0,
+   "amount": 3500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 2,
+   "h_min": 10499.0,
+   "h_ayer": 10499.0
+  },
+  {
+   "id": "1987819",
+   "name": "Aiden & Ivy, Sillón Reclinable Manual de Cuero",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Aiden-Ivy-Sillon-Reclinable-Manual-de-Cuero/p/1987819",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h89/hf6/503476565671966.jpg",
    "category": "Muebles",
    "price_old": 13999.0,
    "price_new": 10499.0,
@@ -11836,25 +11854,6 @@
    "h_min7": 13199.0
   },
   {
-   "id": "683950",
-   "name": "LG Lavavajillas 60 cm 14 Servicios de Empotre",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/LG-Lavavajillas-60-cm-14-Servicios-de-Empotre/p/683950",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/he5/220575817465886.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13999.0,
-   "pct": 22.2,
-   "amount": 4000.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 51,
-   "h_min": 12699.0,
-   "h_ayer": 13199.0,
-   "h_min7": 13199.0
-  },
-  {
    "id": "685226",
    "name": "LG Lavadora 22Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Superior/p/685226",
@@ -12873,6 +12872,25 @@
    "h_dias": 40,
    "h_min": 6599.0,
    "h_min7": 6999.0
+  },
+  {
+   "id": "683655",
+   "name": "América, Class, Colchón Individual",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Individual/America-Class-Colchon-Individual/p/683655",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h2c/209659137163294.jpg",
+   "category": "Muebles",
+   "price_old": 9499.0,
+   "price_new": 7499.0,
+   "pct": 21.1,
+   "amount": 2000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 56,
+   "h_min": 7499.0,
+   "h_ayer": 7499.0,
+   "h_min7": 7499.0
   },
   {
    "id": "669642",
@@ -14574,6 +14592,25 @@
    "h_min": 36999.0,
    "h_ayer": 39999.0,
    "h_min7": 39999.0
+  },
+  {
+   "id": "683657",
+   "name": "América, Class, Colchón Queen Size",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Class-Colchon-Queen-Size/p/683657",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfb/h7e/209659139653662.jpg",
+   "category": "Muebles",
+   "price_old": 12499.0,
+   "price_new": 10199.0,
+   "pct": 18.4,
+   "amount": 2300.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 56,
+   "h_min": 9499.0,
+   "h_ayer": 9999.0,
+   "h_min7": 9999.0
   },
   {
    "id": "705350",
@@ -16922,6 +16959,23 @@
    "h_min": 35999.0,
    "h_ayer": 41499.0,
    "h_min7": 41499.0
+  },
+  {
+   "id": "692165",
+   "name": "Apple iMac 24\" 256GB 4.5K Chip M4 Rosa CPU de 8 núcleos GPU de 8 núcleos Memoria unificada de 16GB.",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Mac/Apple-iMac-24-256GB-45K-Chip-M4-Rosa-CPU-de-8-nucleos-GPU-de-8-nucleos-Memoria-unificada-de-16GB/p/692165",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h29/h10/344260423680030.jpg",
+   "category": "Electronicos",
+   "price_old": 33999.0,
+   "price_new": 28999.0,
+   "pct": 14.7,
+   "amount": 5000.0,
+   "starts": "2026-09-22T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790089542.1716993,
+   "h_dias": 3,
+   "h_min": 27999.0
   },
   {
    "id": "522695",

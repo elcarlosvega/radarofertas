@@ -1,6 +1,6 @@
 {
- "generated_at": 1790258722.1991525,
- "generated_at_str": "24/09/2026 08:05",
+ "generated_at": 1790262316.9923391,
+ "generated_at_str": "24/09/2026 09:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -62,6 +62,25 @@
    "h_min": 33999.0,
    "h_ayer": 33999.0,
    "h_min7": 33999.0
+  },
+  {
+   "id": "593501",
+   "name": "Maytag Lavadora 20Kg Carga Superior",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-20Kg-Carga-Superior/p/593501",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h72/14411389403166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16999.0,
+   "price_new": 10999.0,
+   "pct": 35.3,
+   "amount": 6000.0,
+   "starts": "2026-09-24T06:00:00.000Z",
+   "ends": "2026-09-25T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790262316.9923391,
+   "h_dias": 54,
+   "h_min": 10799.0,
+   "h_ayer": 12499.0,
+   "h_min7": 10999.0
   },
   {
    "id": "694462",
@@ -532,7 +551,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 48,
    "h_min": 69999.0,
    "h_min7": 69999.0
@@ -2709,7 +2728,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 35,
    "h_min": 20999.0,
    "h_min7": 20999.0
@@ -3236,7 +3255,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 40,
    "h_min": 5799.0,
    "h_min7": 5899.0
@@ -13692,7 +13711,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 26,
    "h_min": 37999.0,
    "h_min7": 38999.0
@@ -15663,7 +15682,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 26,
    "h_min": 10499.0,
    "h_min7": 11999.0
@@ -15890,10 +15909,28 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 40,
    "h_min": 38999.0,
    "h_min7": 39999.0
+  },
+  {
+   "id": "697357",
+   "name": "ASUS Vivobook 16 Laptop 16\" Snapdragon X 16GB 512 GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-16-Laptop-16-Snapdragon-X-16GB-512-GB-SSD/p/697357",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h29/h93/438149000364062.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 15799.0,
+   "price_new": 13799.0,
+   "pct": 12.7,
+   "amount": 2000.0,
+   "starts": "2026-09-24T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790262316.9923391,
+   "h_dias": 45,
+   "h_min": 10999.0,
+   "h_min7": 11799.0
   },
   {
    "id": "703956",
@@ -16839,7 +16876,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790258722.1991525,
+   "first_seen": 1790258743.616785,
    "h_dias": 48,
    "h_min": 36999.0,
    "h_min7": 39999.0

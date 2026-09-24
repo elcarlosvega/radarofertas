@@ -1,6 +1,6 @@
 {
- "generated_at": 1790262316.9923391,
- "generated_at_str": "24/09/2026 09:05",
+ "generated_at": 1790265922.977205,
+ "generated_at_str": "24/09/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -76,7 +76,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790262316.9923391,
+   "first_seen": 1790262325.2990642,
    "h_dias": 54,
    "h_min": 10799.0,
    "h_ayer": 12499.0,
@@ -15764,6 +15764,24 @@
    "h_min7": 12999.0
   },
   {
+   "id": "702846",
+   "name": "Samsung Pantalla 85\" QLED The Frame 4K Smart TV + Marco",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-QLED-The-Frame-4K-Smart-TV-Marco/p/702846",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h21/452879657107486.jpg",
+   "category": "Electronicos",
+   "price_old": 37999.0,
+   "price_new": 32999.0,
+   "pct": 13.2,
+   "amount": 5000.0,
+   "starts": "2026-09-22T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790265922.977205,
+   "h_dias": 45,
+   "h_min": 32999.0,
+   "h_min7": 32999.0
+  },
+  {
    "id": "1390070",
    "name": "Sealy, Aspen, Colchón King Size",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/Sealy-Aspen-Colchon-King-Size/p/1390070",
@@ -15927,7 +15945,7 @@
    "starts": "2026-09-24T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790262316.9923391,
+   "first_seen": 1790262325.2990642,
    "h_dias": 45,
    "h_min": 10999.0,
    "h_min7": 11799.0

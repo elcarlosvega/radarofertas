@@ -1,6 +1,6 @@
 {
- "generated_at": 1790287528.6825278,
- "generated_at_str": "24/09/2026 16:05",
+ "generated_at": 1790291111.389239,
+ "generated_at_str": "24/09/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1430,6 +1430,25 @@
    "h_min7": 839.0
   },
   {
+   "id": "682920",
+   "name": "Bharara King 100 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Bharara-King-100-ml/p/682920",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h07/hdc/189581868793886.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1199.0,
+   "price_new": 839.3,
+   "pct": 30.0,
+   "amount": 359.7,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789373133.4759822,
+   "h_dias": 11,
+   "h_min": 839.3,
+   "h_ayer": 839.3,
+   "h_min7": 839.3
+  },
+  {
    "id": "656320",
    "name": "Moschino Toy 100 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Moschino-Toy-100-ml/p/656320",
@@ -2840,7 +2859,7 @@
    "starts": "2026-09-21T06:00:00.000Z",
    "ends": "2026-09-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790287528.6825278,
+   "first_seen": 1790287538.3813827,
    "h_dias": 44,
    "h_min": 3799.0,
    "h_min7": 3999.0
@@ -3310,7 +3329,7 @@
    "starts": "2026-09-14T06:00:00.000Z",
    "ends": "2026-09-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790287528.6825278,
+   "first_seen": 1790287538.3813827,
    "h_dias": 52,
    "h_min": 5499.0,
    "h_ayer": 6499.0,
@@ -11824,25 +11843,6 @@
    "h_min7": 13499.0
   },
   {
-   "id": "648092",
-   "name": "ASUS Vivobook 16 Laptop 16\" WUXGA Intel Core Ultra 5 225H 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-16-Laptop-16-WUXGA-Intel-Core-Ultra-5-225H-16GB-1TB-SSD/p/648092",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6c/h4f/490070488317982.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 21999.0,
-   "price_new": 17499.0,
-   "pct": 20.5,
-   "amount": 4500.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789977926.0817127,
-   "h_dias": 33,
-   "h_min": 15299.0,
-   "h_ayer": 17499.0,
-   "h_min7": 15399.0
-  },
-  {
    "id": "669641",
    "name": "Luuna, Colchón One Memory Foam, Queen",
    "url": "https://www.costco.com.mx/c/Luuna-Colchon-One-Memory-Foam-Queen/p/669641",
@@ -11860,6 +11860,25 @@
    "h_min": 16999.0,
    "h_ayer": 17499.0,
    "h_min7": 17499.0
+  },
+  {
+   "id": "648092",
+   "name": "ASUS Vivobook 16 Laptop 16\" WUXGA Intel Core Ultra 5 225H 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ASUS-Vivobook-16-Laptop-16-WUXGA-Intel-Core-Ultra-5-225H-16GB-1TB-SSD/p/648092",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6c/h4f/490070488317982.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 21999.0,
+   "price_new": 17499.0,
+   "pct": 20.5,
+   "amount": 4500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789977926.0817127,
+   "h_dias": 33,
+   "h_min": 15299.0,
+   "h_ayer": 17499.0,
+   "h_min7": 15399.0
   },
   {
    "id": "695690",

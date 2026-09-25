@@ -1,6 +1,6 @@
 {
- "generated_at": 1790316260.4039693,
- "generated_at_str": "25/09/2026 00:04",
+ "generated_at": 1790319843.6248782,
+ "generated_at_str": "25/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "23d4a0c8166262bf8dcb9fe8eff59b7d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TQO",
-   "destination_name": "Municipio de Tulum",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 639.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-06T13:25:00-06:00",
-   "return_at": "",
-   "duration": 115,
-   "link": "https://www.aviasales.com/search/MEX0612TQO1?t=VB17965635001796574000000115NLUTQO_23d4a0c8166262bf8dcb9fe8eff59b7d_3060&search_date=25092026&expected_price_uuid=01a0d689-1544-8040-6490-60bc6d3dc755&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=639",
-   "title": "Flight deals from Mexico City to Tulum",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261206-23d4a0c8/"
-  },
   {
    "id": "fa19de09e84eb89b6efd09b06736d2b4",
    "kind": "flight",
@@ -50,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270112-fa19de09/"
   },
   {
-   "id": "62f53ed12f231f75435b890d7f83c1d1",
+   "id": "23d4a0c8166262bf8dcb9fe8eff59b7d",
    "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "MEX",
-   "destination_name": "Ciudad de México",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TQO",
+   "destination_name": "Municipio de Tulum",
    "airline": "VB",
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 922.0,
+   "price": 1160.0,
    "currency": "MXN",
-   "departure_at": "2026-10-04T08:35:00-05:00",
+   "departure_at": "2026-12-06T13:25:00-06:00",
    "return_at": "",
-   "duration": 85,
-   "link": "https://www.aviasales.com/search/MTY0410MEX1?t=VB17911029001791108000000085MTYTLC_62f53ed12f231f75435b890d7f83c1d1_4420&search_date=25092026&expected_price_uuid=01a0d600-06ba-8030-2b3a-01b8f141ec2e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rs9nkGUaIeEDLkfbe2HX1A&expected_price_source=share&expected_price_currency=mxn&expected_price=922",
-   "title": "Flight deals from Monterrey to Mexico City",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-mexico-20261004-62f53ed1/"
+   "duration": 115,
+   "link": "https://www.aviasales.com/search/MEX0612TQO1?t=VB17965635001796574000000115NLUTQO_23d4a0c8166262bf8dcb9fe8eff59b7d_5561&search_date=25092026&expected_price_uuid=01a0d72e-2c79-8040-ab90-851334f29368&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1160",
+   "title": "Flight deals from Mexico City to Tulum",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261206-23d4a0c8/"
   },
   {
    "id": "889457bd3ceae3736b861d6a2c76ab24",
@@ -140,12 +120,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 3051.0,
+   "price": 3050.0,
    "currency": "MXN",
    "departure_at": "2026-10-05T09:10:00-05:00",
    "return_at": "",
    "duration": 790,
-   "link": "https://www.aviasales.com/search/MEX0510NYC1?t=VB17911914001791246000000790TLCMTYJFK_3a4a1d1088963d20fa75c96a6e7b18ef_14620&search_date=25092026&expected_price_uuid=01a0d707-baa2-8030-a02d-4641ee4fa716&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L3Oh0gp2kqZqufQbkCShZw&expected_price_source=share&expected_price_currency=mxn&expected_price=3051",
+   "link": "https://www.aviasales.com/search/MEX0510NYC1?t=VB17911914001791246000000790TLCMTYJFK_3a4a1d1088963d20fa75c96a6e7b18ef_14620&search_date=25092026&expected_price_uuid=01a0d707-baa2-8030-a02d-4641ee4fa716&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=L3Oh0gp2kqZqufQbkCShZw&expected_price_source=share&expected_price_currency=mxn&expected_price=3050",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261005-3a4a1d10/"
   },
@@ -200,12 +180,12 @@
    "airline_title": "Turkish Airlines",
    "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 22993.0,
+   "price": 22992.0,
    "currency": "MXN",
    "departure_at": "2026-09-29T09:00:00-05:00",
    "return_at": "",
    "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2909IST1?t=TK17906724001790763600000980MEXIST_088f8f64fa9d81efe48b4beca8d4a9ca_110197&search_date=25092026&expected_price_uuid=01a0d653-1c5e-8040-2e4a-846a44fb18ae&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=22993",
+   "link": "https://www.aviasales.com/search/MEX2909IST1?t=TK17906724001790763600000980MEXIST_088f8f64fa9d81efe48b4beca8d4a9ca_110197&search_date=25092026&expected_price_uuid=01a0d653-1c5e-8040-2e4a-846a44fb18ae&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=J_5x41XxZytJIVi98jp55A&expected_price_source=share&expected_price_currency=mxn&expected_price=22992",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260929-088f8f64/"
   }

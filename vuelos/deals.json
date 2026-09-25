@@ -1,6 +1,6 @@
 {
- "generated_at": 1790291044.0747948,
- "generated_at_str": "24/09/2026 17:04",
+ "generated_at": 1790294644.0020044,
+ "generated_at_str": "24/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -45,7 +45,7 @@
    "departure_at": "2027-01-12T06:30:00-06:00",
    "return_at": "",
    "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX1201CUN1?t=Y417997354001799747220000137TLCCUN_fa19de09e84eb89b6efd09b06736d2b4_3060&search_date=24092026&expected_price_uuid=01a0d501-58f2-8030-ae7f-1d12753a402f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=638",
+   "link": "https://www.aviasales.com/search/MEX1201CUN1?t=Y417997354001799747220000137TLCCUN_fa19de09e84eb89b6efd09b06736d2b4_3060&search_date=24092026&expected_price_uuid=01a0d5af-25ae-8030-26c8-75581feaac07&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=638",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270112-fa19de09/"
   },
@@ -170,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261015-0abbe669/"
   },
   {
-   "id": "949ced21b7c291bf6002472366e5c228",
+   "id": "35dac74a09e10ac6040669f6936c8619",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TAS",
-   "destination_name": "Taskent",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
+   "destination": "OSA",
+   "destination_name": "Osaka",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 29530.0,
+   "price": 22822.0,
    "currency": "MXN",
-   "departure_at": "2026-10-02T09:00:00-05:00",
+   "departure_at": "2026-11-09T20:00:00-06:00",
    "return_at": "",
-   "duration": 1380,
-   "link": "https://www.aviasales.com/search/MEX0210TAS1?t=TK17909316001791054000001380MEXISTTAS_949ced21b7c291bf6002472366e5c228_141595&search_date=24092026&expected_price_uuid=01a0d46d-4470-8040-6a36-b02a91be45c7&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=P8Lz-vMafhWsnqAIePWxkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=29530",
-   "title": "Flight deals from Mexico City to Tashkent",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261002-949ced21/"
+   "duration": 1335,
+   "link": "https://www.aviasales.com/search/MEX0911OSA1?t=AM17942544001794388500001335MEXICNKIX_35dac74a09e10ac6040669f6936c8619_109432&search_date=24092026&expected_price_uuid=01a0d5bb-4f8a-8030-af88-977bd91b40a9&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=7Jt2YPyJZPdLAjtZ1J5uJA&expected_price_source=share&expected_price_currency=mxn&expected_price=22822",
+   "title": "Flight deals from Mexico City to Osaka",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-osaka-20261109-35dac74a/"
   }
  ]
 }

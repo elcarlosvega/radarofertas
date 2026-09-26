@@ -1,6 +1,6 @@
 {
- "generated_at": 1790442243.9818647,
- "generated_at_str": "26/09/2026 11:04",
+ "generated_at": 1790445844.5730672,
+ "generated_at_str": "26/09/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20270113-447df425/"
   },
   {
-   "id": "58915a45bcbc09858ee9be8d37cf7954",
+   "id": "c9a27b9f27f877f17621848ab282e577",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MXL",
-   "destination_name": "Mexicali",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2301.0,
+   "destination": "ORL",
+   "destination_name": "Orlando",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2723.0,
    "currency": "MXN",
-   "departure_at": "2026-10-17T18:40:00-05:00",
+   "departure_at": "2026-10-06T11:05:00-05:00",
    "return_at": "",
-   "duration": 1303,
-   "link": "https://www.aviasales.com/search/MEX1710MXL1?t=VB17922624001792336980001303NLUMTYMXL_58915a45bcbc09858ee9be8d37cf7954_10982&search_date=26092026&expected_price_uuid=01a0dde2-5dc4-8050-e24c-17cd4feb01f4&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=MHdiKwUD5PvkTQDGXgMQSg&expected_price_source=share&expected_price_currency=mxn&expected_price=2301",
-   "title": "Flight deals from Mexico City to Mexicali",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-mexicali-20261017-58915a45/"
+   "duration": 199,
+   "link": "https://www.aviasales.com/search/MEX0610ORL1?t=Y417912847001791303840000199MEXMCO_c9a27b9f27f877f17621848ab282e577_12996&search_date=26092026&expected_price_uuid=01a0deba-306a-8030-2049-44f81d8e349e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NWlFj8pBjOo5RN6yd6n98A&expected_price_source=share&expected_price_currency=mxn&expected_price=2723",
+   "title": "Flight deals from Mexico City to Orlando",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261006-c9a27b9f/"
   },
   {
    "id": "1c76890e2e38b5d5b3b2963049c8c247",
@@ -170,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261020-803cf462/"
   },
   {
-   "id": "6d02006eafc86c952e683b9f97c24cbd",
+   "id": "f6f3f1418a8d87caf3386f1326084fcf",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BKK",
-   "destination_name": "Bangkok",
-   "airline": "CZ",
-   "airline_title": "China Southern Airlines",
-   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "destination": "CPT",
+   "destination_name": "Ciudad del Cabo",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 22410.0,
+   "price": 16302.0,
    "currency": "MXN",
-   "departure_at": "2027-01-13T00:40:00-06:00",
+   "departure_at": "2027-03-03T23:05:00-06:00",
    "return_at": "",
-   "duration": 1715,
-   "link": "https://www.aviasales.com/search/MEX1301BKK1?t=CZ17998008001799950500001715MEXSZXBKK_6d02006eafc86c952e683b9f97c24cbd_106971&search_date=26092026&expected_price_uuid=01a0ddd7-f6e0-8051-2bbc-966e5af38967&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=22410",
-   "title": "Flight deals from Mexico City to Bangkok",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20270113-6d02006e/"
+   "duration": 1400,
+   "link": "https://www.aviasales.com/search/MEX0303CPT1?t=AF18041151001804227900001400MEXCDGCPT_f6f3f1418a8d87caf3386f1326084fcf_77815&search_date=26092026&expected_price_uuid=01a0dea8-0bb0-8030-2a1d-239ac8bd98e6&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=16302",
+   "title": "Flight deals from Mexico City to Cape Town",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-del-cabo-20270303-f6f3f141/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790438729.9189641,
- "generated_at_str": "26/09/2026 10:05",
+ "generated_at": 1790442317.8252316,
+ "generated_at_str": "26/09/2026 11:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -132,7 +132,7 @@
    "starts": "2026-09-26T06:00:00.000Z",
    "ends": "2026-09-29T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790438729.9189641,
+   "first_seen": 1790438742.6846645,
    "h_dias": 11,
    "h_min": 759.0,
    "h_ayer": 759.0,
@@ -2317,25 +2317,6 @@
    "h_min7": 7299.0
   },
   {
-   "id": "705168",
-   "name": "Samsung Galaxy A37 128GB Gris",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-A37-128GB-Gris/p/705168",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h03/h9f/502211888349214.jpg",
-   "category": "Electronicos",
-   "price_old": 6999.0,
-   "price_new": 4999.0,
-   "pct": 28.6,
-   "amount": 2000.0,
-   "starts": "2026-09-15T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789459528.7113776,
-   "h_dias": 20,
-   "h_min": 4999.0,
-   "h_ayer": 4999.0,
-   "h_min7": 4999.0
-  },
-  {
    "id": "1768239",
    "name": "Thirtieth Sense, Set Bistro de Madera de Eucalipto Plegable, 3 piezas",
    "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Thirtieth-Sense-Set-Bistro-de-Madera-de-Eucalipto-Plegable-3-piezas/p/1768239",
@@ -2543,6 +2524,25 @@
    "h_min": 9599.0,
    "h_ayer": 9799.0,
    "h_min7": 9799.0
+  },
+  {
+   "id": "684771",
+   "name": "Samsung Lavasecadora Eléctrica 20Kg/12Kg con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-20Kg12Kg-con-Pedestal/p/684771",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h5e/364485062950942.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 26999.0,
+   "price_new": 19499.0,
+   "pct": 27.8,
+   "amount": 7500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 59,
+   "h_min": 18999.0,
+   "h_ayer": 19499.0,
+   "h_min7": 18999.0
   },
   {
    "id": "1782784",
@@ -14876,6 +14876,25 @@
    "h_min7": 8499.0
   },
   {
+   "id": "702763",
+   "name": "Muebles Liz, Pinal, Sillón de Tela",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Muebles-Liz-Pinal-Sillon-de-Tela/p/702763",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0d/h95/453554903842846.jpg",
+   "category": "Muebles",
+   "price_old": 9999.0,
+   "price_new": 8499.0,
+   "pct": 15.0,
+   "amount": 1500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 21,
+   "h_min": 7999.0,
+   "h_ayer": 8499.0,
+   "h_min7": 8499.0
+  },
+  {
    "id": "682273",
    "name": "Montbrook Home, Lucan, Reclinable con Portavasos Extraíble, Color Gris",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Lucan-Reclinable-con-Portavasos-Extraible-Color-Gris/p/682273",
@@ -14949,6 +14968,25 @@
    "h_dias": 6,
    "h_min": 114999.0,
    "h_ayer": 114999.0
+  },
+  {
+   "id": "702768",
+   "name": "TCL Pantalla 75\" QLED 4K NXTVISION Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-75-QLED-4K-NXTVISION-Google-TV/p/702768",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/hff/507724390629406.jpg",
+   "category": "Electronicos",
+   "price_old": 26999.0,
+   "price_new": 22999.0,
+   "pct": 14.8,
+   "amount": 4000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 60,
+   "h_min": 17999.0,
+   "h_ayer": 22999.0,
+   "h_min7": 18699.0
   },
   {
    "id": "521895",

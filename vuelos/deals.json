@@ -1,6 +1,6 @@
 {
- "generated_at": 1790424244.2697372,
- "generated_at_str": "26/09/2026 06:04",
+ "generated_at": 1790427844.0314019,
+ "generated_at_str": "26/09/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "3e906488da4e6c1b01fb8c335ddc46f1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 760.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-06T18:50:00-05:00",
-   "return_at": "",
-   "duration": 109,
-   "link": "https://www.aviasales.com/search/MEX0610MID1?t=VB17913126001791319140000109NLUMID_3e906488da4e6c1b01fb8c335ddc46f1_3629&search_date=26092026&expected_price_uuid=01a0dc6e-2279-8040-252a-db6decb71490&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b7lDQ50eerk6t-1WVSKA7g&expected_price_source=share&expected_price_currency=mxn&expected_price=760",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261006-3e906488/"
-  },
   {
    "id": "c555b360d69c12924056734c89080b8a",
    "kind": "flight",
@@ -88,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MTY0610DFW1?t=VB17912854201791295560000109MTYDFW_9b72c6ab2c3129d9147ffa3216a11a88_12068&search_date=26092026&expected_price_uuid=01a0dcc5-c5bd-8030-e795-4d6e5721503a&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ngKqcAbQqT9zBChQ6NOOTw&expected_price_source=share&expected_price_currency=mxn&expected_price=2528",
    "title": "Flight deals from Monterrey to Dallas",
    "micro": "/oferta/vuelos/vuelo-monterrey-dallas-20261006-9b72c6ab/"
-  },
-  {
-   "id": "d3307914922f4c486f5260a1a8d2ee37",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TLL",
-   "destination_name": "Tallin",
-   "airline": "KL",
-   "airline_title": "KLM",
-   "logo": "https://pics.avs.io/600/150/KL.png",
-   "logo_tipo": "",
-   "price": 15328.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-14T20:05:00-05:00",
-   "return_at": "",
-   "duration": 890,
-   "link": "https://www.aviasales.com/search/MEX1410TLL1?t=KL17920083001792094100000890MEXAMSTLL_d3307914922f4c486f5260a1a8d2ee37_73164&search_date=26092026&expected_price_uuid=01a0dc44-0fe5-8030-6d42-d74c30956e4c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ADSF4a7AtXem28at_GZ9oA&expected_price_source=share&expected_price_currency=mxn&expected_price=15328",
-   "title": "Flight deals from Mexico City to Tallinn",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tallin-20261014-d3307914/"
   },
   {
    "id": "2247b694d3a94828ed46558cf955f768",

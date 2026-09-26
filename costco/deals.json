@@ -1,6 +1,6 @@
 {
- "generated_at": 1790460329.4157438,
- "generated_at_str": "26/09/2026 16:05",
+ "generated_at": 1790463921.4762661,
+ "generated_at_str": "26/09/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1045,25 +1045,6 @@
    "in_stock": true,
    "first_seen": 1789373133.4759822,
    "h_dias": 13,
-   "h_min": 1119.3,
-   "h_ayer": 1119.3,
-   "h_min7": 1119.3
-  },
-  {
-   "id": "675503",
-   "name": "Orientica Royal Amber 80 ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Orientica-Royal-Amber-80-ml/p/675503",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5b/h8d/133940784955422.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1599.0,
-   "price_new": 1119.3,
-   "pct": 30.0,
-   "amount": 479.7,
-   "starts": "2026-09-14T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789373133.4759822,
-   "h_dias": 21,
    "h_min": 1119.3,
    "h_ayer": 1119.3,
    "h_min7": 1119.3
@@ -3354,6 +3335,24 @@
    "h_dias": 59,
    "h_min": 7499.0,
    "h_ayer": 7999.0,
+   "h_min7": 7999.0
+  },
+  {
+   "id": "702807",
+   "name": "Samsung Galaxy A57 256GB Lila",
+   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-A57-256GB-Lila/p/702807",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hba/h09/453817270075422.jpg",
+   "category": "Electronicos",
+   "price_old": 10799.0,
+   "price_new": 7999.0,
+   "pct": 25.9,
+   "amount": 2800.0,
+   "starts": "2026-09-14T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789398336.590894,
+   "h_dias": 52,
+   "h_min": 6999.0,
    "h_min7": 7999.0
   },
   {
@@ -13032,25 +13031,6 @@
    "h_min": 17899.0,
    "h_ayer": 18799.0,
    "h_min7": 18499.0
-  },
-  {
-   "id": "523740",
-   "name": "Sealy, Montgomery, Colchón Matrimonial",
-   "url": "https://www.costco.com.mx/c/Sealy-Montgomery-Colchon-Matrimonial/p/523740",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1e/h9a/69509739249694.jpg",
-   "category": "Muebles",
-   "price_old": 17999.0,
-   "price_new": 14699.0,
-   "pct": 18.3,
-   "amount": 3300.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 60,
-   "h_min": 13999.0,
-   "h_ayer": 14699.0,
-   "h_min7": 14499.0
   },
   {
    "id": "521815",

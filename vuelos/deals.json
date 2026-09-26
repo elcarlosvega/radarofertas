@@ -1,6 +1,6 @@
 {
- "generated_at": 1790413444.150687,
- "generated_at_str": "26/09/2026 03:04",
+ "generated_at": 1790417044.3051856,
+ "generated_at_str": "26/09/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261006-3e906488/"
   },
   {
-   "id": "3bb3e01a3b5d9a8440c21a836e2ae77f",
+   "id": "c555b360d69c12924056734c89080b8a",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TAP",
-   "destination_name": "Tapachula de Córdova y Ordóñez",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1839.0,
+   "destination": "SJD",
+   "destination_name": "Los Cabos",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1784.0,
    "currency": "MXN",
-   "departure_at": "2026-10-05T19:55:00-05:00",
+   "departure_at": "2027-01-22T12:22:00-06:00",
    "return_at": "",
-   "duration": 105,
-   "link": "https://www.aviasales.com/search/MEX0510TAP1?t=Y417912301001791236400000105MEXTAP_3bb3e01a3b5d9a8440c21a836e2ae77f_8777&search_date=26092026&expected_price_uuid=01a0dbcb-eee1-8030-28b2-848bb020cce1&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AWwhUayAgjmSKJ59L_-TPg&expected_price_source=share&expected_price_currency=mxn&expected_price=1839",
-   "title": "Flight deals from Mexico City to Tapachula",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tapachula-de-cordova-y-ordonez-20261005-3bb3e01a/"
+   "duration": 1210,
+   "link": "https://www.aviasales.com/search/MEX2201SJD1?t=VB18006205201800689520001210NLUMTYSJD_c555b360d69c12924056734c89080b8a_8515&search_date=26092026&expected_price_uuid=01a0dd17-7e27-8030-2885-1c5b443286a4&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=1uuxtksMSLwKuuBtFK1lMg&expected_price_source=share&expected_price_currency=mxn&expected_price=1784",
+   "title": "Flight deals from Mexico City to San Jose Del Cabo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20270122-c555b360/"
   },
   {
    "id": "1f8b654f8c70b534fc1d4bb30dd8a56f",

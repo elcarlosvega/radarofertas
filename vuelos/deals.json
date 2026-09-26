@@ -1,6 +1,6 @@
 {
- "generated_at": 1790460243.903768,
- "generated_at_str": "26/09/2026 16:04",
+ "generated_at": 1790463843.7776885,
+ "generated_at_str": "26/09/2026 17:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "447df4259afe2bd3fabd4d5829edd83c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJO",
-   "destination_name": "San José",
-   "airline": "AS",
-   "airline_title": "Alaska Airlines",
-   "logo": "https://pics.avs.io/600/150/AS.png",
-   "logo_tipo": "",
-   "price": 1708.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-13T07:25:00-06:00",
-   "return_at": "",
-   "duration": 960,
-   "link": "https://www.aviasales.com/search/MEX1301SJO1?t=AS17998251001799882700000960MEXLAXSJO_447df4259afe2bd3fabd4d5829edd83c_8151&search_date=26092026&expected_price_uuid=01a0de9d-b4df-8050-ebb1-1c13afd8685e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bPqfFRxY9-CrnOAj5YM2ug&expected_price_source=share&expected_price_currency=mxn&expected_price=1708",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20270113-447df425/"
-  },
   {
    "id": "113be37f4ff2dbc7a7eaa21891363501",
    "kind": "flight",
@@ -130,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261006-c9a27b9f/"
   },
   {
+   "id": "740881902053d57feb6cebf648dc9c0d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAS",
+   "destination_name": "Las Vegas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2740.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-06T06:30:00-05:00",
+   "return_at": "",
+   "duration": 331,
+   "link": "https://www.aviasales.com/search/MEX0610LAS1?t=Y417912682001791284460000331NLUGDLLAS_740881902053d57feb6cebf648dc9c0d_13081&search_date=26092026&expected_price_uuid=01a0dfe9-579e-8030-a1fe-a8a345531476&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Kqt2XRQP9LKph80MereKLw&expected_price_source=share&expected_price_currency=mxn&expected_price=2740",
+   "title": "Flight deals from Mexico City to Las Vegas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261006-74088190/"
+  },
+  {
    "id": "97f1e42890864b0b649c8e7a82680673",
    "kind": "flight",
    "origin": "MEX",
@@ -170,6 +170,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-portland-20261006-157b953e/"
   },
   {
+   "id": "bb3e1c3b4ec6002761d2e54b5b44d836",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BCN",
+   "destination_name": "Barcelona",
+   "airline": "Z0",
+   "airline_title": "Norse Atlantic UK",
+   "logo": "https://pics.avs.io/600/150/Z0.png",
+   "logo_tipo": "",
+   "price": 6265.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-10T11:05:00-05:00",
+   "return_at": "",
+   "duration": 2265,
+   "link": "https://www.aviasales.com/search/MEX1010BCN1?t=Z017916303001791795000002265MEXMCOLGWLTNBCN_bb3e1c3b4ec6002761d2e54b5b44d836_29905&search_date=26092026&expected_price_uuid=01a0dfb6-f83d-8040-6161-5b1cd5083452&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b6mzL47R-hcDF9MP3Z_qdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6265",
+   "title": "Flight deals from Mexico City to Barcelona",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261010-bb3e1c3b/"
+  },
+  {
    "id": "8e9f78be718d3fb94614d9072643a39b",
    "kind": "flight",
    "origin": "MEX",
@@ -190,44 +210,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261017-8e9f78be/"
   },
   {
-   "id": "ebd4543e32703b6f94e65d3e84fe48d4",
+   "id": "f6f3f1418a8d87caf3386f1326084fcf",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TBS",
-   "destination_name": "Tiflis",
-   "airline": "N0",
-   "airline_title": "Norse Atlantic Airways",
-   "logo": "https://pics.avs.io/600/150/N0.png",
+   "destination": "CPT",
+   "destination_name": "Ciudad del Cabo",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 10277.0,
+   "price": 16302.0,
    "currency": "MXN",
-   "departure_at": "2026-10-01T06:00:00-05:00",
+   "departure_at": "2027-03-03T23:05:00-06:00",
    "return_at": "",
-   "duration": 3555,
-   "link": "https://www.aviasales.com/search/MEX0110TBS1?t=N017908344001791083700003555NLUMTYJFKATHTBS_ebd4543e32703b6f94e65d3e84fe48d4_49053&search_date=26092026&expected_price_uuid=01a0de69-e2d7-8040-63e3-31cf0f1268d2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hOdBGKcLIo_z4lSoVATRRw&expected_price_source=share&expected_price_currency=mxn&expected_price=10277",
-   "title": "Flight deals from Mexico City to Tbilisi",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261001-ebd4543e/"
-  },
-  {
-   "id": "803cf462d9ac29821c6e2be577ec881a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "PC",
-   "airline_title": "Pegasus Airlines",
-   "logo": "https://pics.avs.io/600/150/PC.png",
-   "logo_tipo": "",
-   "price": 12031.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-20T19:00:00-05:00",
-   "return_at": "",
-   "duration": 1090,
-   "link": "https://www.aviasales.com/search/MEX2010IST1?t=PC17925228001792620600001090MEXMADSAW_803cf462d9ac29821c6e2be577ec881a_57428&search_date=26092026&expected_price_uuid=01a0de8d-7e83-8040-a9dd-29e13f76754b&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=IFu9OPpNJyf8r9xTX4V_PQ&expected_price_source=share&expected_price_currency=mxn&expected_price=12031",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261020-803cf462/"
+   "duration": 1400,
+   "link": "https://www.aviasales.com/search/MEX0303CPT1?t=AF18041151001804227900001400MEXCDGCPT_f6f3f1418a8d87caf3386f1326084fcf_77815&search_date=26092026&expected_price_uuid=01a0dea8-0bb0-8030-2a1d-239ac8bd98e6&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=16302",
+   "title": "Flight deals from Mexico City to Cape Town",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-del-cabo-20270303-f6f3f141/"
   }
  ]
 }

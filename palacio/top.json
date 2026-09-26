@@ -1,8 +1,20 @@
 {
- "generated_at": 1790427893.6040812,
- "generated_at_str": "26/09/2026 07:04",
- "total": 978,
+ "generated_at": 1790431515.475817,
+ "generated_at_str": "26/09/2026 08:05",
+ "total": 1253,
  "deals": [
+  {
+   "id": "44562192",
+   "name": "Sala Esquinera Bari gris oxford",
+   "img": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dw5a99cda4/images/44562192/large/44562192_x1.jpg?sw=346&sh=394",
+   "category": "Hogar",
+   "price_new": 17577.0,
+   "price_old": 58590.0,
+   "pct": 70.0,
+   "amount": 41013.0,
+   "url": "https://www.elpalaciodehierro.com/violanti-sala-esquinera-bari-gris-oxford-44562192.html?cid=108",
+   "variants": 1
+  },
   {
    "id": "44705209",
    "name": "Pantalla 75 Pulgadas Plana QNED 4K webOS evo AI QNED9M",
@@ -100,6 +112,18 @@
    "variants": 1
   },
   {
+   "id": "43300053",
+   "name": "Colchón Queen Zenit",
+   "img": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dwc62bf533/images/43300053/large/43300053_x1.jpg?sw=346&sh=394",
+   "category": "Hogar",
+   "price_new": 31849.65,
+   "price_old": 90999.0,
+   "pct": 64.99999999999999,
+   "amount": 59149.35,
+   "url": "https://www.elpalaciodehierro.com/spring-air-colchon-queen-zenit-43300053.html?cid=108",
+   "variants": 1
+  },
+  {
    "id": "44988107",
    "name": "Blusa estampada manga corta Mujer",
    "img": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dw4647fcb4/images/44988107/BEIGE%20CON%20OTRO%20COLOR/large/44988108_x1.jpg?sw=346&sh=394",
@@ -121,30 +145,6 @@
    "pct": 64.99999999999999,
    "amount": 58889.35,
    "url": "https://www.elpalaciodehierro.com/america-colchon-beyond-max-individual-42662977.html?cid=108",
-   "variants": 1
-  },
-  {
-   "id": "39523941",
-   "name": "Colchón Mirage Matrimonial",
-   "img": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dwdc464f66/images/39523941/large/39523941_x1.jpg?sw=346&sh=394",
-   "category": "Hogar",
-   "price_new": 30687.65,
-   "price_old": 87679.0,
-   "pct": 64.99999999999999,
-   "amount": 56991.35,
-   "url": "https://www.elpalaciodehierro.com/sealy-colchon-mirage-matrimonial-39523941.html?cid=108",
-   "variants": 1
-  },
-  {
-   "id": "43300052",
-   "name": "Colchón Zenit Matrimonial",
-   "img": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Sites-palacio-master-catalog/default/dw3e346269/images/43300052/large/43300052_x1.jpg?sw=346&sh=394",
-   "category": "Hogar",
-   "price_new": 30484.65,
-   "price_old": 87099.0,
-   "pct": 64.99999999999999,
-   "amount": 56614.35,
-   "url": "https://www.elpalaciodehierro.com/spring-air-colchon-zenit-matrimonial-43300052.html?cid=108",
    "variants": 1
   }
  ]

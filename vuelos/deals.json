@@ -1,6 +1,6 @@
 {
- "generated_at": 1790384643.7138584,
- "generated_at_str": "25/09/2026 19:04",
+ "generated_at": 1790388244.2610686,
+ "generated_at_str": "25/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "da7a77cd9e7c7cf1ecf56d6c9152ea0f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1461.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-27T08:25:00-06:00",
+   "return_at": "",
+   "duration": 137,
+   "link": "https://www.aviasales.com/search/MEX2702CUN1?t=Y418037167001803728520000137TLCCUN_da7a77cd9e7c7cf1ecf56d6c9152ea0f_6972&search_date=25092026&expected_price_uuid=01a0daed-5bea-8030-2aa2-c49334452cd9&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=1461",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270227-da7a77cd/"
+  },
   {
    "id": "9b72c6ab2c3129d9147ffa3216a11a88",
    "kind": "flight",
@@ -208,26 +228,6 @@
    "link": "https://www.aviasales.com/search/MEX0911OSA1?t=AM17942544001794388500001335MEXICNKIX_35dac74a09e10ac6040669f6936c8619_108789&search_date=25092026&expected_price_uuid=01a0dadd-c3b9-8030-68f6-c55f8d3db0a3&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=7Jt2YPyJZPdLAjtZ1J5uJA&expected_price_source=share&expected_price_currency=mxn&expected_price=22798",
    "title": "Flight deals from Mexico City to Osaka",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-osaka-20261109-35dac74a/"
-  },
-  {
-   "id": "74f45c95110525186d1dc66444c457e5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MSQ",
-   "destination_name": "Minsk",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 30881.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-06T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1845,
-   "link": "https://www.aviasales.com/search/MEX0610MSQ1?t=TK17912772001791420300001845MEXISTMSQ_74f45c95110525186d1dc66444c457e5_146941&search_date=25092026&expected_price_uuid=01a0da02-f3ea-8040-a7ec-2b18f5f20bc4&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=1QwXcD6qqYLSILrg7rIZKQ&expected_price_source=share&expected_price_currency=mxn&expected_price=30881",
-   "title": "Flight deals from Mexico City to Minsk",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261006-74f45c95/"
   }
  ]
 }

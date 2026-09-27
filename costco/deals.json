@@ -1,6 +1,6 @@
 {
- "generated_at": 1790478320.0189962,
- "generated_at_str": "26/09/2026 21:05",
+ "generated_at": 1790481930.2023478,
+ "generated_at_str": "26/09/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3713,25 +3713,6 @@
    "h_min": 19999.0,
    "h_ayer": 20999.0,
    "h_min7": 19999.0
-  },
-  {
-   "id": "675431",
-   "name": "LG Refrigerador 29' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-29-French-Door/p/675431",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h68/h6d/133940739735582.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 27999.0,
-   "price_new": 20999.0,
-   "pct": 25.0,
-   "amount": 7000.0,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-09-28T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790107539.606813,
-   "h_dias": 52,
-   "h_min": 18099.0,
-   "h_ayer": 20999.0,
-   "h_min7": 20999.0
   },
   {
    "id": "1783024",
@@ -16369,6 +16350,25 @@
    "h_min": 15999.0,
    "h_ayer": 15999.0,
    "h_min7": 15999.0
+  },
+  {
+   "id": "521947",
+   "name": "Sealy, Winnipeg, Colchón y Box Individual",
+   "url": "https://www.costco.com.mx/c/Sealy-Winnipeg-Colchon-y-Box-Individual/p/521947",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h73/h6a/69509808357406.jpg",
+   "category": "Muebles",
+   "price_old": 13499.0,
+   "price_new": 11999.0,
+   "pct": 11.1,
+   "amount": 1500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 60,
+   "h_min": 11999.0,
+   "h_ayer": 11999.0,
+   "h_min7": 11999.0
   },
   {
    "id": "694421",

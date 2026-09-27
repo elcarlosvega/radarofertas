@@ -1,6 +1,6 @@
 {
- "generated_at": 1790525044.9776216,
- "generated_at_str": "27/09/2026 10:04",
+ "generated_at": 1790528644.8811288,
+ "generated_at_str": "27/09/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -170,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261009-7acc772d/"
   },
   {
-   "id": "9a38e6affa2112980275b52d925fb1c7",
+   "id": "a508500275c70390cf2082fc4601e5cc",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
+   "destination": "NQZ",
+   "destination_name": "Astaná",
+   "airline": "DE",
+   "airline_title": "Condor",
+   "logo": "https://pics.avs.io/600/150/DE.png",
    "logo_tipo": "",
-   "price": 25599.0,
+   "price": 13399.0,
    "currency": "MXN",
-   "departure_at": "2026-09-28T09:00:00-05:00",
+   "departure_at": "2026-10-11T11:01:00-05:00",
    "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX2809IST1?t=TK17905860001790677200000980MEXIST_9a38e6affa2112980275b52d925fb1c7_122131&search_date=27092026&expected_price_uuid=01a0e36a-aeca-8030-a117-bc8df714fee9&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=VZHHTmS7N0prGd0XNWJyCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=25599",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260928-9a38e6af/"
+   "duration": 3379,
+   "link": "https://www.aviasales.com/search/MEX1110NQZ1?t=DE17917164601791958800003379NLUCUNFRAESBNQZ_a508500275c70390cf2082fc4601e5cc_63926&search_date=27092026&expected_price_uuid=01a0e3c9-0dba-8040-a6c1-2177d8e4d7f2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uU0YE5qjQ3ETv1tsCgwjgA&expected_price_source=share&expected_price_currency=mxn&expected_price=13399",
+   "title": "Flight deals from Mexico City to Astana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20261011-a5085002/"
   }
  ]
 }

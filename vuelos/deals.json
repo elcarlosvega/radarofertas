@@ -1,6 +1,6 @@
 {
- "generated_at": 1790478244.066096,
- "generated_at_str": "26/09/2026 21:04",
+ "generated_at": 1790481844.304327,
+ "generated_at_str": "26/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,44 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261003-f8ee9c2f/"
   },
   {
-   "id": "63af1958c434954602820fbfaa678b2c",
+   "id": "847911c6a0381e292668e9c1a10bd4fd",
    "kind": "flight",
    "origin": "MTY",
    "origin_name": "Monterrey",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1980.0,
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2457.0,
    "currency": "MXN",
-   "departure_at": "2026-10-06T15:35:00-05:00",
+   "departure_at": "2026-10-01T11:36:00-05:00",
    "return_at": "",
-   "duration": 144,
-   "link": "https://www.aviasales.com/search/MTY0610CUN1?t=Y417913009001791313140000144MTYCUN_63af1958c434954602820fbfaa678b2c_9452&search_date=27092026&expected_price_uuid=01a0e08b-32c5-8030-ae46-8434f20582ca&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=CzEwxFYjCfqK7zmxZKktbA&expected_price_source=share&expected_price_currency=mxn&expected_price=1980",
-   "title": "Flight deals from Monterrey to Cancun",
-   "micro": "/oferta/vuelos/vuelo-monterrey-cancun-20261006-63af1958/"
-  },
-  {
-   "id": "395c45a1e9cdd2c69afbffea87ac4336",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HOU",
-   "destination_name": "Houston",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2546.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-07T16:10:00-05:00",
-   "return_at": "",
-   "duration": 135,
-   "link": "https://www.aviasales.com/search/MEX0710HOU1?t=Y417913894001791401100000135MEXIAH_395c45a1e9cdd2c69afbffea87ac4336_12152&search_date=27092026&expected_price_uuid=01a0e06d-9f5a-8030-e523-e1dfe870654f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2546",
-   "title": "Flight deals from Mexico City to Houston",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261007-395c45a1/"
+   "duration": 109,
+   "link": "https://www.aviasales.com/search/MTY0110DFW1?t=VB17908545601790864700000109MTYDFW_847911c6a0381e292668e9c1a10bd4fd_11730&search_date=27092026&expected_price_uuid=01a0e0e2-b2b8-8040-a49e-2b82647869a4&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=K9hBVjjJiiUoOeCbU0cZvg&expected_price_source=share&expected_price_currency=mxn&expected_price=2457",
+   "title": "Flight deals from Monterrey to Dallas",
+   "micro": "/oferta/vuelos/vuelo-monterrey-dallas-20261001-847911c6/"
   },
   {
    "id": "740881902053d57feb6cebf648dc9c0d",
@@ -268,6 +248,26 @@
    "link": "https://www.aviasales.com/search/MEX1010BCN1?t=Z017916303001791795000002265MEXMCOLGWLTNBCN_bb3e1c3b4ec6002761d2e54b5b44d836_29905&search_date=26092026&expected_price_uuid=01a0dfb6-f83d-8040-6161-5b1cd5083452&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b6mzL47R-hcDF9MP3Z_qdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6265",
    "title": "Flight deals from Mexico City to Barcelona",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261010-bb3e1c3b/"
+  },
+  {
+   "id": "1466c088a0784baa7e97e904dbe2b52e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 6914.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-30T16:51:00-05:00",
+   "return_at": "",
+   "duration": 849,
+   "link": "https://www.aviasales.com/search/MEX3009BUE1?t=DM17907870601790848800000849NLUPUJEZE_1466c088a0784baa7e97e904dbe2b52e_33003&search_date=27092026&expected_price_uuid=01a0e0fb-e448-8040-2cee-2fc3ca6e0855&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6914",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20260930-1466c088/"
   }
  ]
 }

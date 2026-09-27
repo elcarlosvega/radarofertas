@@ -1,6 +1,6 @@
 {
- "generated_at": 1790535844.3279834,
- "generated_at_str": "27/09/2026 13:04",
+ "generated_at": 1790539444.4607677,
+ "generated_at_str": "27/09/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "a410282ad69fa1b15c3a2cdb9cbbcd80",
+   "id": "e5fb04f1336d67181c0a8ca9451744ca",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2705.0,
+   "destination": "SAT",
+   "destination_name": "San Antonio",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2546.0,
    "currency": "MXN",
-   "departure_at": "2026-12-05T06:00:00-06:00",
+   "departure_at": "2026-10-05T07:10:00-05:00",
    "return_at": "",
-   "duration": 390,
-   "link": "https://www.aviasales.com/search/MEX0512MIA1?t=VB17964504001796477400000390NLUMTYMIA_a410282ad69fa1b15c3a2cdb9cbbcd80_12905&search_date=27092026&expected_price_uuid=01a0e2f0-7a49-8040-a55a-869791072b02&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TqTu7zGYKY8BOxJUzLocjA&expected_price_source=share&expected_price_currency=mxn&expected_price=2705",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261205-a410282a/"
+   "duration": 125,
+   "link": "https://www.aviasales.com/search/MEX0510SAT1?t=Y417911842001791195300000125MEXSAT_e5fb04f1336d67181c0a8ca9451744ca_12146&search_date=27092026&expected_price_uuid=01a0e456-bba5-8040-66b4-b3cb5caa47e9&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=goURa9O7SLirGNebZuvGHA&expected_price_source=share&expected_price_currency=mxn&expected_price=2546",
+   "title": "Flight deals from Mexico City to San Antonio",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-antonio-20261005-e5fb04f1/"
   },
   {
    "id": "395c45a1e9cdd2c69afbffea87ac4336",

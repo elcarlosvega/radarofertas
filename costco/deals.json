@@ -1,6 +1,6 @@
 {
- "generated_at": 1790535961.4560363,
- "generated_at_str": "27/09/2026 13:06",
+ "generated_at": 1790539514.4344463,
+ "generated_at_str": "27/09/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -591,6 +591,25 @@
    "first_seen": 1789977926.0817127,
    "h_dias": 33,
    "h_min": 13899.0,
+   "h_ayer": 13999.0,
+   "h_min7": 13999.0
+  },
+  {
+   "id": "702165",
+   "name": "Hisense Lavasecadora Eléctrica 16Kg/10Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Hisense-Lavasecadora-Electrica-16Kg10Kg/p/702165",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/hce/434737796251678.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 13999.0,
+   "pct": 30.0,
+   "amount": 6000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-09-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 55,
+   "h_min": 13999.0,
    "h_ayer": 13999.0,
    "h_min7": 13999.0
   },

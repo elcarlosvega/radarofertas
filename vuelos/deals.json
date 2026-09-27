@@ -1,6 +1,6 @@
 {
- "generated_at": 1790489044.0789158,
- "generated_at_str": "27/09/2026 00:04",
+ "generated_at": 1790492644.4633217,
+ "generated_at_str": "27/09/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -150,7 +150,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261007-fe52f4e1/"
   },
   {
-   "id": "c9a27b9f27f877f17621848ab282e577",
+   "id": "c01f34653b36a1fd0f2cd7243b16bfdc",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -160,14 +160,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2758.0,
+   "price": 2899.0,
    "currency": "MXN",
-   "departure_at": "2026-10-06T11:05:00-05:00",
+   "departure_at": "2026-10-07T11:05:00-05:00",
    "return_at": "",
    "duration": 199,
-   "link": "https://www.aviasales.com/search/MEX0610ORL1?t=Y417912847001791303840000199MEXMCO_c9a27b9f27f877f17621848ab282e577_13165&search_date=26092026&expected_price_uuid=01a0e027-a2cb-8030-e3b7-5805b44ebeaf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NWlFj8pBjOo5RN6yd6n98A&expected_price_source=share&expected_price_currency=mxn&expected_price=2758",
+   "link": "https://www.aviasales.com/search/MEX0710ORL1?t=Y417913711001791390240000199MEXMCO_c01f34653b36a1fd0f2cd7243b16bfdc_13840&search_date=27092026&expected_price_uuid=01a0e167-6095-8030-a98a-56a6186cd489&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NWlFj8pBjOo5RN6yd6n98A&expected_price_source=share&expected_price_currency=mxn&expected_price=2899",
    "title": "Flight deals from Mexico City to Orlando",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261006-c9a27b9f/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261007-c01f3465/"
   },
   {
    "id": "2c5c968b7bbeffaebdfdda3afc3ee730",
@@ -185,7 +185,7 @@
    "departure_at": "2026-10-07T10:05:00-05:00",
    "return_at": "",
    "duration": 191,
-   "link": "https://www.aviasales.com/search/MEX0710MIA1?t=Y417913675001791386160000191MEXMIA_2c5c968b7bbeffaebdfdda3afc3ee730_14262&search_date=27092026&expected_price_uuid=01a0e079-410d-8030-a139-1aa9a8506151&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=2988",
+   "link": "https://www.aviasales.com/search/MEX0710MIA1?t=Y417913675001791386160000191MEXMIA_2c5c968b7bbeffaebdfdda3afc3ee730_14262&search_date=27092026&expected_price_uuid=01a0e18c-9865-8030-e7a8-7bdaafdca7d4&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cqqDC5c2dOBLZdJDMild6w&expected_price_source=share&expected_price_currency=mxn&expected_price=2988",
    "title": "Flight deals from Mexico City to Miami",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261007-2c5c968b/"
   },

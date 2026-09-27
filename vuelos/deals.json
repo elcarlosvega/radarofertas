@@ -1,6 +1,6 @@
 {
- "generated_at": 1790463843.7776885,
- "generated_at_str": "26/09/2026 17:04",
+ "generated_at": 1790467444.21132,
+ "generated_at_str": "26/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261018-5cf39796/"
   },
   {
-   "id": "c9a27b9f27f877f17621848ab282e577",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ORL",
-   "destination_name": "Orlando",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2723.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-06T11:05:00-05:00",
-   "return_at": "",
-   "duration": 199,
-   "link": "https://www.aviasales.com/search/MEX0610ORL1?t=Y417912847001791303840000199MEXMCO_c9a27b9f27f877f17621848ab282e577_12996&search_date=26092026&expected_price_uuid=01a0df49-4d54-8030-2490-2d2776b411a7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NWlFj8pBjOo5RN6yd6n98A&expected_price_source=share&expected_price_currency=mxn&expected_price=2723",
-   "title": "Flight deals from Mexico City to Orlando",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261006-c9a27b9f/"
-  },
-  {
    "id": "740881902053d57feb6cebf648dc9c0d",
    "kind": "flight",
    "origin": "MEX",
@@ -128,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX0610LAS1?t=Y417912682001791284460000331NLUGDLLAS_740881902053d57feb6cebf648dc9c0d_13081&search_date=26092026&expected_price_uuid=01a0dfe9-579e-8030-a1fe-a8a345531476&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Kqt2XRQP9LKph80MereKLw&expected_price_source=share&expected_price_currency=mxn&expected_price=2740",
    "title": "Flight deals from Mexico City to Las Vegas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261006-74088190/"
+  },
+  {
+   "id": "c9a27b9f27f877f17621848ab282e577",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ORL",
+   "destination_name": "Orlando",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2758.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-06T11:05:00-05:00",
+   "return_at": "",
+   "duration": 199,
+   "link": "https://www.aviasales.com/search/MEX0610ORL1?t=Y417912847001791303840000199MEXMCO_c9a27b9f27f877f17621848ab282e577_13165&search_date=26092026&expected_price_uuid=01a0e019-ae3f-8030-207f-3730100deaac&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NWlFj8pBjOo5RN6yd6n98A&expected_price_source=share&expected_price_currency=mxn&expected_price=2758",
+   "title": "Flight deals from Mexico City to Orlando",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261006-c9a27b9f/"
   },
   {
    "id": "97f1e42890864b0b649c8e7a82680673",
@@ -170,6 +170,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-portland-20261006-157b953e/"
   },
   {
+   "id": "f177c92902c85c3f6d0051c5ba0d0f17",
+   "kind": "flight",
+   "origin": "VER",
+   "origin_name": "Veracruz",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4508.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-06T08:28:00-05:00",
+   "return_at": "",
+   "duration": 541,
+   "link": "https://www.aviasales.com/search/VER0610DFW1?t=Y417912752801791311340000541VERQRODFW_f177c92902c85c3f6d0051c5ba0d0f17_21519&search_date=26092026&expected_price_uuid=01a0e010-443e-8030-ae82-ca915742c129&static_fare_key=TY%7CP0%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=JC4SKqIM_UPNjmNU18gBeA&expected_price_source=share&expected_price_currency=mxn&expected_price=4508",
+   "title": "Flight deals from Veracruz to Dallas",
+   "micro": "/oferta/vuelos/vuelo-veracruz-dallas-20261006-f177c929/"
+  },
+  {
    "id": "bb3e1c3b4ec6002761d2e54b5b44d836",
    "kind": "flight",
    "origin": "MEX",
@@ -190,6 +210,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261010-bb3e1c3b/"
   },
   {
+   "id": "6379fb1995b626e4b6ac54be8e1e4203",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "Z0",
+   "airline_title": "Norse Atlantic UK",
+   "logo": "https://pics.avs.io/600/150/Z0.png",
+   "logo_tipo": "",
+   "price": 7113.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-07T11:05:00-05:00",
+   "return_at": "",
+   "duration": 955,
+   "link": "https://www.aviasales.com/search/MEX0710LON1?t=Z017913711001791453600000955MEXMCOLGW_6379fb1995b626e4b6ac54be8e1e4203_33954&search_date=26092026&expected_price_uuid=01a0df18-5eae-8040-a443-817430a141ef&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Bnvq7n89YjqzXf39MIPICA&expected_price_source=share&expected_price_currency=mxn&expected_price=7113",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261007-6379fb19/"
+  },
+  {
    "id": "8e9f78be718d3fb94614d9072643a39b",
    "kind": "flight",
    "origin": "MEX",
@@ -208,26 +248,6 @@
    "link": "https://www.aviasales.com/search/MEX1710MAD1?t=IB17922495001792328700000840TLCMTYMAD_8e9f78be718d3fb94614d9072643a39b_42954&search_date=26092026&expected_price_uuid=01a0df70-6882-8040-661d-8dc25755ab3c&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wizm2UBa8hNQgsGBlC063g&expected_price_source=share&expected_price_currency=mxn&expected_price=8999",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261017-8e9f78be/"
-  },
-  {
-   "id": "f6f3f1418a8d87caf3386f1326084fcf",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CPT",
-   "destination_name": "Ciudad del Cabo",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 16302.0,
-   "currency": "MXN",
-   "departure_at": "2027-03-03T23:05:00-06:00",
-   "return_at": "",
-   "duration": 1400,
-   "link": "https://www.aviasales.com/search/MEX0303CPT1?t=AF18041151001804227900001400MEXCDGCPT_f6f3f1418a8d87caf3386f1326084fcf_77815&search_date=26092026&expected_price_uuid=01a0dea8-0bb0-8030-2a1d-239ac8bd98e6&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=16302",
-   "title": "Flight deals from Mexico City to Cape Town",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-del-cabo-20270303-f6f3f141/"
   }
  ]
 }

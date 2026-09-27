@@ -1,6 +1,6 @@
 {
- "generated_at": 1790474643.9984171,
- "generated_at_str": "26/09/2026 20:04",
+ "generated_at": 1790478244.066096,
+ "generated_at_str": "26/09/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "3b98afc174aab1727e67b812f660a0ed",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MEX",
+   "destination_name": "Ciudad de México",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 760.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-06T15:45:00-05:00",
+   "return_at": "",
+   "duration": 79,
+   "link": "https://www.aviasales.com/search/GDL0610MEX1?t=VB17913015001791306240000079GDLNLU_3b98afc174aab1727e67b812f660a0ed_3629&search_date=27092026&expected_price_uuid=01a0e0c0-1ae3-8030-68d0-b826f2d1d4ec&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RVr7gAHj0IOw02xVtd5Gzw&expected_price_source=share&expected_price_currency=mxn&expected_price=760",
+   "title": "Flight deals from Guadalajara to Mexico City",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20261006-3b98afc1/"
+  },
   {
    "id": "14290276e888a1e62138dd9ce1327c9f",
    "kind": "flight",
@@ -90,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-monterrey-cancun-20261006-63af1958/"
   },
   {
-   "id": "0c2b71bc44dff1f7634ac093a088bae4",
+   "id": "395c45a1e9cdd2c69afbffea87ac4336",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2422.0,
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2546.0,
    "currency": "MXN",
-   "departure_at": "2026-10-17T12:52:00-05:00",
+   "departure_at": "2026-10-07T16:10:00-05:00",
    "return_at": "",
-   "duration": 568,
-   "link": "https://www.aviasales.com/search/MEX1710NYC1?t=VB17922415201792282800000568NLUMTYJFK_0c2b71bc44dff1f7634ac093a088bae4_11562&search_date=26092026&expected_price_uuid=01a0df70-3731-8040-22f5-d0a64125dde5&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xOJ9WCr80DPKr0Wt6BEUUw&expected_price_source=share&expected_price_currency=mxn&expected_price=2422",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261017-0c2b71bc/"
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX0710HOU1?t=Y417913894001791401100000135MEXIAH_395c45a1e9cdd2c69afbffea87ac4336_12152&search_date=27092026&expected_price_uuid=01a0e06d-9f5a-8030-e523-e1dfe870654f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2546",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261007-395c45a1/"
   },
   {
    "id": "740881902053d57feb6cebf648dc9c0d",
@@ -190,6 +210,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-sacramento-20261007-308fac26/"
   },
   {
+   "id": "c744959424cd8300f870c82de932eeb4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3377.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-06T12:52:00-05:00",
+   "return_at": "",
+   "duration": 568,
+   "link": "https://www.aviasales.com/search/MEX0610NYC1?t=VB17912911201791332400000568NLUMTYJFK_c744959424cd8300f870c82de932eeb4_16118&search_date=26092026&expected_price_uuid=01a0dfe9-6740-8030-eb91-d38840ffbb68&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xOJ9WCr80DPKr0Wt6BEUUw&expected_price_source=share&expected_price_currency=mxn&expected_price=3377",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261006-c7449594/"
+  },
+  {
    "id": "f177c92902c85c3f6d0051c5ba0d0f17",
    "kind": "flight",
    "origin": "VER",
@@ -228,26 +268,6 @@
    "link": "https://www.aviasales.com/search/MEX1010BCN1?t=Z017916303001791795000002265MEXMCOLGWLTNBCN_bb3e1c3b4ec6002761d2e54b5b44d836_29905&search_date=26092026&expected_price_uuid=01a0dfb6-f83d-8040-6161-5b1cd5083452&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b6mzL47R-hcDF9MP3Z_qdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6265",
    "title": "Flight deals from Mexico City to Barcelona",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261010-bb3e1c3b/"
-  },
-  {
-   "id": "8e9f78be718d3fb94614d9072643a39b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "IB",
-   "airline_title": "Iberia",
-   "logo": "https://pics.avs.io/600/150/IB.png",
-   "logo_tipo": "",
-   "price": 8999.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-17T15:05:00-05:00",
-   "return_at": "",
-   "duration": 840,
-   "link": "https://www.aviasales.com/search/MEX1710MAD1?t=IB17922495001792328700000840TLCMTYMAD_8e9f78be718d3fb94614d9072643a39b_42954&search_date=26092026&expected_price_uuid=01a0df70-6882-8040-661d-8dc25755ab3c&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wizm2UBa8hNQgsGBlC063g&expected_price_source=share&expected_price_currency=mxn&expected_price=8999",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261017-8e9f78be/"
   }
  ]
 }

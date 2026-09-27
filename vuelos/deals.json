@@ -1,6 +1,6 @@
 {
- "generated_at": 1790528644.8811288,
- "generated_at_str": "27/09/2026 11:04",
+ "generated_at": 1790532244.520113,
+ "generated_at_str": "27/09/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "a410282ad69fa1b15c3a2cdb9cbbcd80",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2705.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-05T06:00:00-06:00",
-   "return_at": "",
-   "duration": 390,
-   "link": "https://www.aviasales.com/search/MEX0512MIA1?t=VB17964504001796477400000390NLUMTYMIA_a410282ad69fa1b15c3a2cdb9cbbcd80_12905&search_date=27092026&expected_price_uuid=01a0e2f0-7a49-8040-a55a-869791072b02&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TqTu7zGYKY8BOxJUzLocjA&expected_price_source=share&expected_price_currency=mxn&expected_price=2705",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261205-a410282a/"
-  },
   {
    "id": "c01f34653b36a1fd0f2cd7243b16bfdc",
    "kind": "flight",
@@ -168,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX0910LON1?t=WS17915085001791633900001670MEXYYCLHR_7acc772d48c61692665c4d1e2ad164ef_34758&search_date=27092026&expected_price_uuid=01a0e383-49ee-8050-6a01-02f8aa5f1bc8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=br09M5vHoYb7kIwQDrGIHw&expected_price_source=share&expected_price_currency=mxn&expected_price=7285",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261009-7acc772d/"
+  },
+  {
+   "id": "827c9326f9ad997d699c9bb28642ca09",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "QR",
+   "airline_title": "Qatar Airways",
+   "logo": "https://pics.avs.io/600/150/QR.png",
+   "logo_tipo": "",
+   "price": 12004.0,
+   "currency": "MXN",
+   "departure_at": "2026-09-29T17:12:00-05:00",
+   "return_at": "",
+   "duration": 2023,
+   "link": "https://www.aviasales.com/search/MEX2909IST1?t=QR17907019201790855700002023MEXDFWDOHIST_827c9326f9ad997d699c9bb28642ca09_57272&search_date=27092026&expected_price_uuid=01a0e3ea-a9bf-8040-6690-b0504203eb24&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=BLmYzDSjul-y2Bq2G3bSaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=12004",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20260929-827c9326/"
   },
   {
    "id": "a508500275c70390cf2082fc4601e5cc",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790618715.815753,
- "generated_at_str": "28/09/2026 12:05",
+ "generated_at": 1790622329.6702132,
+ "generated_at_str": "28/09/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6284,25 +6284,6 @@
    "h_min7": 1874.25
   },
   {
-   "id": "704291",
-   "name": "Perry Ellis PE 1319-2 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Perry-Ellis-PE-1319-2-Armazon-Oftalmico/p/704291",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hec/hfb/466270574018590.jpg",
-   "category": "Optica",
-   "price_old": 2499.0,
-   "price_new": 1874.25,
-   "pct": 25.0,
-   "amount": 624.75,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 35,
-   "h_min": 1874.25,
-   "h_ayer": 1874.25,
-   "h_min7": 1874.25
-  },
-  {
    "id": "704290",
    "name": "Perry Ellis PE 1318-2 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Perry-Ellis-PE-1318-2-Armazon-Oftalmico/p/704290",
@@ -12218,6 +12199,23 @@
    "h_min7": 12499.0
   },
   {
+   "id": "704306",
+   "name": "Poundex, Brisa, Sofá Cama Daybed",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Literas/Poundex-Brisa-Sofa-Cama-Daybed/p/704306",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb1/hc4/435741555359774.jpg",
+   "category": "Muebles",
+   "price_old": 11999.0,
+   "price_new": 9999.0,
+   "pct": 16.7,
+   "amount": 2000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790622329.6702132,
+   "h_dias": 1,
+   "h_min": 9999.0
+  },
+  {
    "id": "689582",
    "name": "Generac, Hidrolavadora de Gasolina 3400 PSI",
    "url": "https://www.costco.com.mx/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Limpieza-Automotriz/Generac-Hidrolavadora-de-Gasolina-3400-PSI/p/689582",
@@ -12592,6 +12590,25 @@
    "h_min": 9999.0,
    "h_ayer": 10699.0,
    "h_min7": 10499.0
+  },
+  {
+   "id": "671496",
+   "name": "Smeg Parrilla Eléctrica 4 Zonas de Cocción 75 cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Parrilla-Electrica-4-Zonas-de-Coccion-75-cm/p/671496",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h19/hf1/365808518201374.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21999.0,
+   "price_new": 18499.0,
+   "pct": 15.9,
+   "amount": 3500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790622329.6702132,
+   "h_dias": 57,
+   "h_min": 15199.0,
+   "h_ayer": 18999.0,
+   "h_min7": 18499.0
   },
   {
    "id": "688022",
@@ -15361,6 +15378,24 @@
    "h_min7": 17499.0
   },
   {
+   "id": "694441",
+   "name": "Violanti, Sofá Cama de 3 Plazas Beige",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama-de-3-Plazas-Beige/p/694441",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h01/he4/436931142418462.jpg",
+   "category": "Muebles",
+   "price_old": 24999.0,
+   "price_new": 21999.0,
+   "pct": 12.0,
+   "amount": 3000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790622329.6702132,
+   "h_dias": 41,
+   "h_min": 21999.0,
+   "h_min7": 21999.0
+  },
+  {
    "id": "693642",
    "name": "América, Ryan, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Ryan-Colchon-Matrimonial/p/693642",
@@ -15727,6 +15762,24 @@
    "h_dias": 61,
    "h_min": 22999.0,
    "h_ayer": 22999.0,
+   "h_min7": 22999.0
+  },
+  {
+   "id": "694442",
+   "name": "Violanti, Sala Esquinera con Sofá Cama",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Violanti-Sala-Esquinera-con-Sofa-Cama/p/694442",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h0f/436931137896478.jpg",
+   "category": "Muebles",
+   "price_old": 25999.0,
+   "price_new": 22999.0,
+   "pct": 11.5,
+   "amount": 3000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790622329.6702132,
+   "h_dias": 45,
+   "h_min": 22999.0,
    "h_min7": 22999.0
   },
   {
@@ -16190,6 +16243,24 @@
    "h_min": 12799.0,
    "h_ayer": 15499.0,
    "h_min7": 15499.0
+  },
+  {
+   "id": "685720",
+   "name": "Violanti, Sofá Cama De Tres Plazas y Taburete",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama-De-Tres-Plazas-y-Taburete/p/685720",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h89/h60/436931002007582.jpg",
+   "category": "Muebles",
+   "price_old": 18499.0,
+   "price_new": 16499.0,
+   "pct": 10.8,
+   "amount": 2000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790622329.6702132,
+   "h_dias": 45,
+   "h_min": 14999.0,
+   "h_min7": 16499.0
   },
   {
    "id": "648099",

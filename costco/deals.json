@@ -1,6 +1,6 @@
 {
- "generated_at": 1790625919.153448,
- "generated_at_str": "28/09/2026 14:05",
+ "generated_at": 1790629531.1473897,
+ "generated_at_str": "28/09/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -432,7 +432,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-09-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790625919.153448,
+   "first_seen": 1790625939.1316106,
    "h_dias": 17,
    "h_min": 779.0,
    "h_min7": 779.0
@@ -6509,6 +6509,24 @@
    "h_min7": 1686.75
   },
   {
+   "id": "991082",
+   "name": "Guess GU7842-S@5833W Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Guess-GU7842-S5833W-Lentes-de-Sol/p/991082",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h48/h9f/277151649955870.jpg",
+   "category": "Optica",
+   "price_old": 2199.0,
+   "price_new": 1649.25,
+   "pct": 25.0,
+   "amount": 549.75,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 9,
+   "h_min": 1649.25,
+   "h_min7": 1649.25
+  },
+  {
    "id": "538512",
    "name": "Celebrex 200mg 30 Cápsulas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Celebrex-200mg-30-Capsulas/p/538512",
@@ -6684,25 +6702,6 @@
    "name": "Steve Madden VSD.05031.0BRN.54 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050310BRN54-Armazon-Oftalmico/p/700294",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h6c/h2c/396587118362654.jpg",
-   "category": "Optica",
-   "price_old": 1999.0,
-   "price_new": 1499.25,
-   "pct": 25.0,
-   "amount": 499.75,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 36,
-   "h_min": 1499.25,
-   "h_ayer": 1499.25,
-   "h_min7": 1499.25
-  },
-  {
-   "id": "741123",
-   "name": "Steve Madden VSD.05074.0SLV.56 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050740SLV56-Armazon-Oftalmico/p/741123",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h70/hde/434737888985118.jpg",
    "category": "Optica",
    "price_old": 1999.0,
    "price_new": 1499.25,
@@ -11673,25 +11672,6 @@
    "h_min7": 32999.0
   },
   {
-   "id": "685725",
-   "name": "Violanti,Sala esquinera de tres plazas",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/ViolantiSala-esquinera-de-tres-plazas/p/685725",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5d/he1/258438194888734.jpg",
-   "category": "Muebles",
-   "price_old": 23999.0,
-   "price_new": 19799.0,
-   "pct": 17.5,
-   "amount": 4200.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-10-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 47,
-   "h_min": 19799.0,
-   "h_ayer": 19799.0,
-   "h_min7": 19799.0
-  },
-  {
    "id": "704655",
    "name": "DELL 15 DC15250 Laptop 15.6\" Full HD Intel Core i7 16GB 1TB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-15-DC15250-Laptop-156-Full-HD-Intel-Core-i7-16GB-1TB-SSD/p/704655",
@@ -16631,7 +16611,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790625919.153448,
+   "first_seen": 1790625939.1316106,
    "h_dias": 1,
    "h_min": 21499.0
   },
@@ -16648,7 +16628,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790625919.153448,
+   "first_seen": 1790625939.1316106,
    "h_dias": 9,
    "h_min": 20999.0,
    "h_min7": 21499.0

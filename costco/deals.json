@@ -1,6 +1,6 @@
 {
- "generated_at": 1790683531.8393486,
- "generated_at_str": "29/09/2026 06:05",
+ "generated_at": 1790687134.7775323,
+ "generated_at_str": "29/09/2026 07:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2733,6 +2733,24 @@
    "h_min": 13899.0,
    "h_ayer": 13999.0,
    "h_min7": 13999.0
+  },
+  {
+   "id": "1694813",
+   "name": "Suncast, Modernist Cobertizo de Almacenamiento de 1.8 m x 1.5 m",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cobertizos/Suncast-Modernist-Cobertizo-de-Almacenamiento-de-18-m-x-15-m/p/1694813",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hca/h8e/332864586022942.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 19999.0,
+   "price_new": 14999.0,
+   "pct": 25.0,
+   "amount": 5000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790687134.7775323,
+   "h_dias": 29,
+   "h_min": 14999.0,
+   "h_min7": 14999.0
   },
   {
    "id": "688027",
@@ -17240,6 +17258,23 @@
    "h_min": 29999.0,
    "h_ayer": 29999.0,
    "h_min7": 29999.0
+  },
+  {
+   "id": "1861803",
+   "name": "Barcalounger, Seccional Reclinable Eléctrico de Tela con Reposacabezas Eléctrico",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Barcalounger-Seccional-Reclinable-Electrico-de-Tela-con-Reposacabezas-Electrico/p/1861803",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hba/he6/473756998107166.jpg",
+   "category": "Muebles",
+   "price_old": 39999.0,
+   "price_new": 35999.0,
+   "pct": 10.0,
+   "amount": 4000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-09-30T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790687134.7775323,
+   "h_dias": 3,
+   "h_min": 27999.0
   },
   {
    "id": "1414578",

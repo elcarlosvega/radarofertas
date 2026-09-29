@@ -1,6 +1,6 @@
 {
- "generated_at": 1790712331.0404449,
- "generated_at_str": "29/09/2026 14:05",
+ "generated_at": 1790715936.8268917,
+ "generated_at_str": "29/09/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1703,7 +1703,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790712331.0404449,
+   "first_seen": 1790712339.3543878,
    "h_dias": 42,
    "h_min": 11199.0,
    "h_min7": 11499.0
@@ -8448,7 +8448,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790712331.0404449,
+   "first_seen": 1790712339.3543878,
    "h_dias": 50,
    "h_min": 15199.0,
    "h_min7": 15999.0
@@ -8549,25 +8549,6 @@
    "h_min7": 7399.0
   },
   {
-   "id": "666558",
-   "name": "Samsung Secadora de Gas 24Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Secadora-de-Gas-24Kg/p/666558",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/h5a/504676862296094.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 16999.0,
-   "price_new": 12999.0,
-   "pct": 23.5,
-   "amount": 4000.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-10-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 62,
-   "h_min": 11999.0,
-   "h_ayer": 12999.0,
-   "h_min7": 12999.0
-  },
-  {
    "id": "704945",
    "name": "ACER Aspire Lite 16 Laptop 15.6\" Full HD AMD Ryzen 5 40 16GB 512Gb SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/ACER-Aspire-Lite-16-Laptop-156-Full-HD-AMD-Ryzen-5-40-16GB-512Gb-SSD/p/704945",
@@ -8583,6 +8564,25 @@
    "first_seen": 1790579140.5283954,
    "h_dias": 37,
    "h_min": 12999.0,
+   "h_ayer": 12999.0,
+   "h_min7": 12999.0
+  },
+  {
+   "id": "666558",
+   "name": "Samsung Secadora de Gas 24Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Secadora-de-Gas-24Kg/p/666558",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/h5a/504676862296094.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16999.0,
+   "price_new": 12999.0,
+   "pct": 23.5,
+   "amount": 4000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 62,
+   "h_min": 11999.0,
    "h_ayer": 12999.0,
    "h_min7": 12999.0
   },
@@ -8901,7 +8901,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790712331.0404449,
+   "first_seen": 1790712339.3543878,
    "h_dias": 57,
    "h_min": 13899.0,
    "h_min7": 13999.0
@@ -9698,7 +9698,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790712331.0404449,
+   "first_seen": 1790712339.3543878,
    "h_dias": 58,
    "h_min": 10599.0,
    "h_ayer": 11299.0,
@@ -12729,6 +12729,23 @@
    "h_min7": 7499.0
   },
   {
+   "id": "682274",
+   "name": "Coaster, Tabby, Consola de TV, Color Mango",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Consolas-para-TV/Coaster-Tabby-Consola-de-TV-Color-Mango/p/682274",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/hd9/186102262923294.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 7499.0,
+   "pct": 16.7,
+   "amount": 1500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790715936.8268917,
+   "h_dias": 1,
+   "h_min": 7499.0
+  },
+  {
    "id": "660426",
    "name": "Maytag Lavadora 22Kg Carga Frontal con Pedestal",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/660426",
@@ -13616,6 +13633,23 @@
    "h_ayer": 32299.0
   },
   {
+   "id": "704313",
+   "name": "Bobkona, Owen, Seccional de 4 Piezas",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Bobkona-Owen-Seccional-de-4-Piezas/p/704313",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7f/h7e/435741575807006.jpg",
+   "category": "Muebles",
+   "price_old": 29999.0,
+   "price_new": 25499.0,
+   "pct": 15.0,
+   "amount": 4500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790715936.8268917,
+   "h_dias": 1,
+   "h_min": 25499.0
+  },
+  {
    "id": "704308",
    "name": "Montbrook Home, Saturno, Set de Sala",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Montbrook-Home-Saturno-Set-de-Sala/p/704308",
@@ -13633,6 +13667,40 @@
    "h_min": 24999.0,
    "h_ayer": 25499.0,
    "h_min7": 25499.0
+  },
+  {
+   "id": "704307",
+   "name": "Bobkona, Owen, Seccional 4 Piezas, Color Marfil",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Bobkona-Owen-Seccional-4-Piezas-Color-Marfil/p/704307",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h83/hb5/435741559029790.jpg",
+   "category": "Muebles",
+   "price_old": 29999.0,
+   "price_new": 25499.0,
+   "pct": 15.0,
+   "amount": 4500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790715936.8268917,
+   "h_dias": 1,
+   "h_min": 25499.0
+  },
+  {
+   "id": "704302",
+   "name": "Coaster, Seccional Convertible",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Coaster-Seccional-Convertible/p/704302",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha8/hc6/435741546315806.jpg",
+   "category": "Muebles",
+   "price_old": 29999.0,
+   "price_new": 25499.0,
+   "pct": 15.0,
+   "amount": 4500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790715936.8268917,
+   "h_dias": 1,
+   "h_min": 25499.0
   },
   {
    "id": "687769",
@@ -13709,6 +13777,23 @@
    "h_min": 19999.0,
    "h_ayer": 19999.0,
    "h_min7": 19999.0
+  },
+  {
+   "id": "704301",
+   "name": "Bobkona, Eva, Sofá Cama Seccional Reversible",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Bobkona-Eva-Sofa-Cama-Seccional-Reversible/p/704301",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha4/h49/435741544939550.jpg",
+   "category": "Muebles",
+   "price_old": 23999.0,
+   "price_new": 20399.0,
+   "pct": 15.0,
+   "amount": 3600.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790715936.8268917,
+   "h_dias": 1,
+   "h_min": 20399.0
   },
   {
    "id": "697588",
@@ -14625,7 +14710,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-05T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790712331.0404449,
+   "first_seen": 1790712339.3543878,
    "h_dias": 36,
    "h_min": 11999.0,
    "h_min7": 12499.0

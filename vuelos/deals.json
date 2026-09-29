@@ -1,6 +1,6 @@
 {
- "generated_at": 1790636644.4040463,
- "generated_at_str": "28/09/2026 17:04",
+ "generated_at": 1790640244.3879287,
+ "generated_at_str": "28/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-filadelfia-20261006-092cd007/"
   },
   {
-   "id": "1ee077096d416e361cdc938ebbf71ff1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "N0",
-   "airline_title": "Norse Atlantic Airways",
-   "logo": "https://pics.avs.io/600/150/N0.png",
-   "logo_tipo": "",
-   "price": 8397.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-12T06:00:00-05:00",
-   "return_at": "",
-   "duration": 3560,
-   "link": "https://www.aviasales.com/search/MEX1210IST1?t=N017917848001792030800003560NLUMTYJFKATHIST_1ee077096d416e361cdc938ebbf71ff1_39444&search_date=28092026&expected_price_uuid=01a0e96c-4802-8050-60d0-60831b987caf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2H7yRuJV1WQOcKXuubqi3g&expected_price_source=share&expected_price_currency=mxn&expected_price=8397",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261012-1ee07709/"
-  },
-  {
    "id": "a2d0851b28f48b53b59c5cf6f226ef96",
    "kind": "flight",
    "origin": "MEX",
@@ -168,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX1604BCN1?t=IB18079197001807996800000805MEXMADBCN_a2d0851b28f48b53b59c5cf6f226ef96_40987&search_date=28092026&expected_price_uuid=01a0e961-a866-8040-6d92-d96ee2ee806d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PRRkh3r7yHnjX-uCZNk_dA&expected_price_source=share&expected_price_currency=mxn&expected_price=8725",
    "title": "Flight deals from Mexico City to Barcelona",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270416-a2d0851b/"
+  },
+  {
+   "id": "1bedf0077badf334d5c1c3157c122e1e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
+   "logo_tipo": "",
+   "price": 10711.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-22T21:00:00-06:00",
+   "return_at": "",
+   "duration": 1085,
+   "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_50312&search_date=28092026&expected_price_uuid=01a0ea47-ed13-8030-ad6c-16cc2e604175&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=10711",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
   },
   {
    "id": "9fa48e9cd6be81146fd02dddf17fd7b5",

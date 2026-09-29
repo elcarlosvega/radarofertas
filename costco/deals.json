@@ -1,11 +1,47 @@
 {
- "generated_at": 1790690715.6283576,
- "generated_at_str": "29/09/2026 08:05",
+ "generated_at": 1790694329.1856675,
+ "generated_at_str": "29/09/2026 09:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
  },
  "deals": [
+  {
+   "id": "1812550",
+   "name": "Simon Li Furniture, Sillón de Piel",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Simon-Li-Furniture-Sillon-de-Piel/p/1812550",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1d/h8d/326559121932318.jpg",
+   "category": "Muebles",
+   "price_old": 13999.0,
+   "price_new": 6999.0,
+   "pct": 50.0,
+   "amount": 7000.0,
+   "starts": "2026-09-29T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 44,
+   "h_min": 6999.0,
+   "h_min7": 6999.0
+  },
+  {
+   "id": "1783022",
+   "name": "Simon Li Furniture, Sillón Reclinable de Piel con Sistema Eléctrico",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Simon-Li-Furniture-Sillon-Reclinable-de-Piel-con-Sistema-Electrico/p/1783022",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h4a/385220088725534.jpg",
+   "category": "Muebles",
+   "price_old": 14999.0,
+   "price_new": 7999.0,
+   "pct": 46.7,
+   "amount": 7000.0,
+   "starts": "2026-09-29T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 49,
+   "h_min": 7999.0,
+   "h_min7": 7999.0
+  },
   {
    "id": "2047957",
    "name": "Over & Back Juego de 4 Platos Hondos de Cerámica",
@@ -142,7 +178,7 @@
   {
    "id": "678459",
    "name": "Lenovo IdeaPad Gaming 3 Laptop 15.6\" NVIDIA GeForce RTX 3050 Intel Core i5-12450H 8GB 512SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/Lenovo-IdeaPad-Gaming-3-Laptop-156-Intel-Core-i5-12450H-8GB-512SSD/p/678459",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/Lenovo-IdeaPad-Gaming-3-Laptop-156-NVIDIA-GeForce-RTX-3050-Intel-Core-i5-12450H-8GB-512SSD/p/678459",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hee/ha8/438148991352862.jpg",
    "category": "Computadoras y Tablets",
    "price_old": 25999.0,
@@ -649,6 +685,25 @@
    "h_min": 20799.0,
    "h_ayer": 20999.0,
    "h_min7": 20999.0
+  },
+  {
+   "id": "692507",
+   "name": "Perrier Jouet Belle Epoque Vino Espumoso 1.5 L",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Espumoso-y-Champagne/Perrier-Jouet-Belle-Epoque-Vino-Espumoso-15-L/p/692507",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/hce/298563164078110.jpg",
+   "category": "Vinos",
+   "price_old": 15699.0,
+   "price_new": 10989.3,
+   "pct": 30.0,
+   "amount": 4709.7,
+   "starts": "2026-09-29T06:00:00.000Z",
+   "ends": "2026-10-06T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 37,
+   "h_min": 10989.3,
+   "h_ayer": 11699.0,
+   "h_min7": 10989.3
   },
   {
    "id": "648097",
@@ -4264,6 +4319,24 @@
    "h_min7": 2999.25
   },
   {
+   "id": "677787",
+   "name": "Le Dome 2018 Vino Tinto 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Le-Dome-2018-Vino-Tinto-750-ml/p/677787",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h82/hf1/187371557683230.jpg",
+   "category": "Vinos",
+   "price_old": 3999.0,
+   "price_new": 2999.25,
+   "pct": 25.0,
+   "amount": 999.75,
+   "starts": "2026-09-29T06:00:00.000Z",
+   "ends": "2026-10-06T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 9,
+   "h_min": 2999.0,
+   "h_min7": 2999.25
+  },
+  {
    "id": "750304",
    "name": "Carolina Herrera Her 0340/S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carolina-Herrera-Her-0340S-Lentes-de-Sol/p/750304",
@@ -7531,6 +7604,23 @@
    "h_min7": 1124.25
   },
   {
+   "id": "675671",
+   "name": "Rock Angel Vino Rosado 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Rosado/Rock-Angel-Vino-Rosado-750-ml/p/675671",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h07/132861840785438.jpg",
+   "category": "Vinos",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-09-29T06:00:00.000Z",
+   "ends": "2026-10-06T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 1,
+   "h_min": 1124.25
+  },
+  {
    "id": "707208",
    "name": "Aeropostale VAE.L12YL.0RED.56 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Aeropostale-VAEL12YL0RED56-Armazon-Oftalmico/p/707208",
@@ -10166,6 +10256,24 @@
    "h_min": 15799.0,
    "h_ayer": 15799.0,
    "h_min7": 15799.0
+  },
+  {
+   "id": "656847",
+   "name": "Smeg Horno Eléctrico 60cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Horno-Electrico-60cm/p/656847",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7f/h50/365038764621854.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 52,
+   "h_min": 13999.0,
+   "h_min7": 15999.0
   },
   {
    "id": "522046",
@@ -15542,6 +15650,24 @@
    "h_dias": 5,
    "h_min": 15499.0,
    "h_ayer": 17999.0
+  },
+  {
+   "id": "677725",
+   "name": "Samsung Bespoke AI Refrigerador 28' Side by Side",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Bespoke-AI-Refrigerador-28-Side-by-Side/p/677725",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf0/he5/260887936794654.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 32999.0,
+   "price_new": 28999.0,
+   "pct": 12.1,
+   "amount": 4000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790694329.1856675,
+   "h_dias": 56,
+   "h_min": 25999.0,
+   "h_min7": 28999.0
   },
   {
    "id": "677228",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790640244.3879287,
- "generated_at_str": "28/09/2026 18:04",
+ "generated_at": 1790643844.3481326,
+ "generated_at_str": "28/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "3cc9417d96fc551858f246f870e85f54",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJO",
-   "destination_name": "San José",
-   "airline": "Q6",
-   "airline_title": "Volaris Costa Rica",
-   "logo": "https://pics.avs.io/600/150/Q6.png",
-   "logo_tipo": "",
-   "price": 1960.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-07T18:55:00-05:00",
-   "return_at": "",
-   "duration": 181,
-   "link": "https://www.aviasales.com/search/MEX0710SJO1?t=Q617913993001791410160000181MEXSJO_3cc9417d96fc551858f246f870e85f54_9207&search_date=28092026&expected_price_uuid=01a0e92e-fb24-8050-e2fa-80a2b2fdfe4e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rmLcpaFBJsz4thiO6PmWUg&expected_price_source=share&expected_price_currency=mxn&expected_price=1960",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261007-3cc9417d/"
-  },
   {
    "id": "3463f5e5b7c5d3c84af103cb51ace85d",
    "kind": "flight",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1604BCN1?t=IB18079197001807996800000805MEXMADBCN_a2d0851b28f48b53b59c5cf6f226ef96_40987&search_date=28092026&expected_price_uuid=01a0e961-a866-8040-6d92-d96ee2ee806d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PRRkh3r7yHnjX-uCZNk_dA&expected_price_source=share&expected_price_currency=mxn&expected_price=8725",
    "title": "Flight deals from Mexico City to Barcelona",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270416-a2d0851b/"
+  },
+  {
+   "id": "f983cee44f551d330e56ee7fbb01206e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NAS",
+   "destination_name": "Nasáu",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
+   "logo_tipo": "",
+   "price": 8899.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-15T01:20:00-05:00",
+   "return_at": "",
+   "duration": 492,
+   "link": "https://www.aviasales.com/search/MEX1510NAS1?t=CM17920272001792063920000492MEXPTYNAS_f983cee44f551d330e56ee7fbb01206e_41831&search_date=29092026&expected_price_uuid=01a0ea95-7775-8050-6af0-d446d708d21d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3ai0z0t3PP38rJaNMMvlmg&expected_price_source=share&expected_price_currency=mxn&expected_price=8899",
+   "title": "Flight deals from Mexico City to Nassau",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nasau-20261015-f983cee4/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

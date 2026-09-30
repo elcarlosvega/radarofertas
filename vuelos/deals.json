@@ -1,6 +1,6 @@
 {
- "generated_at": 1790723043.9791112,
- "generated_at_str": "29/09/2026 17:04",
+ "generated_at": 1790726643.801508,
+ "generated_at_str": "29/09/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261020-864f1c97/"
   },
   {
-   "id": "888f6b8daa18848a0442809427cb3aab",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SDQ",
-   "destination_name": "Santo Domingo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3288.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-14T23:34:00-05:00",
-   "return_at": "",
-   "duration": 265,
-   "link": "https://www.aviasales.com/search/MEX1410SDQ1?t=DM17920208401792043940000265NLUSDQ_888f6b8daa18848a0442809427cb3aab_15259&search_date=29092026&expected_price_uuid=01a0ee34-0ca3-8030-acdc-6ebee2de955d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=USQTGVkDD8pILbKSnd1fQA&expected_price_source=share&expected_price_currency=mxn&expected_price=3288",
-   "title": "Flight deals from Mexico City to Santo Domingo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20261014-888f6b8d/"
-  },
-  {
    "id": "01ec8e81e32cb3be4b9d993abed02f8b",
    "kind": "flight",
    "origin": "MEX",
@@ -128,26 +108,6 @@
    "link": "https://www.aviasales.com/search/MEX0101BUE1?t=LA17988330001798886400000710MEXSCLEZE_01ec8e81e32cb3be4b9d993abed02f8b_25895&search_date=29092026&expected_price_uuid=01a0eebe-0488-8050-a0e5-da786fa87fbf&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5581",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270101-01ec8e81/"
-  },
-  {
-   "id": "c377e96a12585fc988f0c26cabd32f59",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SLC",
-   "destination_name": "Salt Lake City",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5808.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-09T11:21:00-05:00",
-   "return_at": "",
-   "duration": 224,
-   "link": "https://www.aviasales.com/search/GDL0910SLC1?t=Y417915448601791558300000224GDLSLC_c377e96a12585fc988f0c26cabd32f59_26947&search_date=29092026&expected_price_uuid=01a0ee44-3a51-8030-e70a-7ffd3fd95d94&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=EGoOzT0nBsm3lNG2uTQ7Rw&expected_price_source=share&expected_price_currency=mxn&expected_price=5808",
-   "title": "Flight deals from Guadalajara to Salt Lake City",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261009-c377e96a/"
   },
   {
    "id": "9af1a51f4a14466a354cf2f3ee1dd1fa",
@@ -228,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX1510NAS1?t=CM17920272001792063920000492MEXPTYNAS_f983cee44f551d330e56ee7fbb01206e_41503&search_date=29092026&expected_price_uuid=01a0ef39-e75d-8040-67c1-1c010eed6b6e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3ai0z0t3PP38rJaNMMvlmg&expected_price_source=share&expected_price_currency=mxn&expected_price=8944",
    "title": "Flight deals from Mexico City to Nassau",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nasau-20261015-f983cee4/"
+  },
+  {
+   "id": "c1f24cd851e4b271777a76d6e7e4b733",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BKK",
+   "destination_name": "Bangkok",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 21071.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-09T00:40:00-06:00",
+   "return_at": "",
+   "duration": 1715,
+   "link": "https://www.aviasales.com/search/MEX0912BKK1?t=CZ17967768001796926500001715MEXSZXBKK_c1f24cd851e4b271777a76d6e7e4b733_97775&search_date=29092026&expected_price_uuid=01a0ef69-67d8-8040-a94b-19b2e9849e2e&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=21071",
+   "title": "Flight deals from Mexico City to Bangkok",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261209-c1f24cd8/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790730244.0399084,
- "generated_at_str": "29/09/2026 19:04",
+ "generated_at": 1790733844.3349116,
+ "generated_at_str": "29/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -20,17 +20,17 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 1156.0,
+   "price": 1155.0,
    "currency": "MXN",
    "departure_at": "2026-10-05T21:41:00-05:00",
    "return_at": "",
    "duration": 1558,
-   "link": "https://www.aviasales.com/search/GDL0510TIJ1?t=AM17912364601791326340001558GDLMEXTIJ_9b5fa8c2c567643839ad48e59fd6a2da_5361&search_date=30092026&expected_price_uuid=01a0efc3-ccb7-8040-ae28-ca4cdf5dbe46&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wiLX3Ql4oRT0dp7rABq2Lw&expected_price_source=share&expected_price_currency=mxn&expected_price=1156",
+   "link": "https://www.aviasales.com/search/GDL0510TIJ1?t=AM17912364601791326340001558GDLMEXTIJ_9b5fa8c2c567643839ad48e59fd6a2da_5361&search_date=30092026&expected_price_uuid=01a0efc3-ccb7-8040-ae28-ca4cdf5dbe46&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wiLX3Ql4oRT0dp7rABq2Lw&expected_price_source=share&expected_price_currency=mxn&expected_price=1155",
    "title": "Flight deals from Guadalajara to Tijuana",
    "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20261005-9b5fa8c2/"
   },
   {
-   "id": "24340bb8dd08dec9030a89a2ede4b292",
+   "id": "fb75411c7a1fb8036322224fbb3916e9",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -40,14 +40,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2276.0,
+   "price": 2545.0,
    "currency": "MXN",
-   "departure_at": "2026-10-10T16:10:00-05:00",
+   "departure_at": "2026-10-09T16:10:00-05:00",
    "return_at": "",
    "duration": 135,
-   "link": "https://www.aviasales.com/search/MEX1010HOU1?t=Y417916486001791660300000135MEXIAH_24340bb8dd08dec9030a89a2ede4b292_10553&search_date=30092026&expected_price_uuid=01a0efca-da51-8030-eb53-2cce3efb6724&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2276",
+   "link": "https://www.aviasales.com/search/MEX0910HOU1?t=Y417915622001791573900000135MEXIAH_fb75411c7a1fb8036322224fbb3916e9_11809&search_date=29092026&expected_price_uuid=01a0ef4f-ba41-8030-e6fd-ae6ca9146f64&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2545",
    "title": "Flight deals from Mexico City to Houston",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261010-24340bb8/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261009-fb75411c/"
   },
   {
    "id": "bca831cf627ea08f1be7d3680fcf7c3b",

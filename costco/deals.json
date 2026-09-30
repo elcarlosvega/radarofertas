@@ -1,6 +1,6 @@
 {
- "generated_at": 1790755512.2328231,
- "generated_at_str": "30/09/2026 02:05",
+ "generated_at": 1790759114.2765727,
+ "generated_at_str": "30/09/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -309,6 +309,25 @@
    "h_min": 899.0,
    "h_ayer": 899.0,
    "h_min7": 899.0
+  },
+  {
+   "id": "542026",
+   "name": "Whisky Johnnie Walker Black Label Blended Scotch 1L",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Whisky-Johnnie-Walker-Black-Label-Blended-Scotch-1L/p/542026",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbb/h69/277018918584350.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 1499.0,
+   "price_new": 1039.0,
+   "pct": 30.7,
+   "amount": 460.0,
+   "starts": "2026-09-02T06:00:00.000Z",
+   "ends": "2026-10-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1788249935.758993,
+   "h_dias": 64,
+   "h_min": 1039.0,
+   "h_ayer": 1039.0,
+   "h_min7": 1039.0
   },
   {
    "id": "674600",
@@ -1555,7 +1574,7 @@
    "starts": "2026-09-28T06:00:00.000Z",
    "ends": "2026-10-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1790755512.2328231,
+   "first_seen": 1790755524.1032612,
    "h_dias": 50,
    "h_min": 3799.0,
    "h_ayer": 3999.0,
@@ -9164,6 +9183,25 @@
    "h_min7": 10999.0
   },
   {
+   "id": "1768239",
+   "name": "Thirtieth Sense, Set Bistro de Madera de Eucalipto Plegable, 3 piezas",
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Sets-Bistro/Thirtieth-Sense-Set-Bistro-de-Madera-de-Eucalipto-Plegable-3-piezas/p/1768239",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h65/h1a/227621204557854.jpg",
+   "category": "Muebles",
+   "price_old": 6999.0,
+   "price_new": 5499.0,
+   "pct": 21.4,
+   "amount": 1500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 47,
+   "h_min": 4999.0,
+   "h_ayer": 5499.0,
+   "h_min7": 4999.0
+  },
+  {
    "id": "702345",
    "name": "Klipsch Promedia Lumina 2.1",
    "url": "https://www.costco.com.mx/Electronicos/Audio/Bocinas/Klipsch-Promedia-Lumina-21/p/702345",
@@ -15705,25 +15743,6 @@
    "h_min7": 12299.0
   },
   {
-   "id": "1987535",
-   "name": "Thomasville, Seccional Modular de Tela de 6 Piezas",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Seccional-Modular-de-Tela-de-6-Piezas/p/1987535",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6d/h03/473757022748702.jpg",
-   "category": "Muebles",
-   "price_old": 36999.0,
-   "price_new": 32999.0,
-   "pct": 10.8,
-   "amount": 4000.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-09-30T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 48,
-   "h_min": 27999.0,
-   "h_ayer": 32999.0,
-   "h_min7": 27999.0
-  },
-  {
    "id": "704028",
    "name": "Sole Elíptica Step Climber",
    "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Elipticas/Sole-Eliptica-Step-Climber/p/704028",
@@ -15987,25 +16006,6 @@
    "h_min": 20999.0,
    "h_ayer": 21499.0,
    "h_min7": 21499.0
-  },
-  {
-   "id": "1812515",
-   "name": "Thomasville, Juego de Comedor de 9 piezas",
-   "url": "https://www.costco.com.mx/Muebles/Mesas-y-Escritorios/Mesas-de-Comedor/Thomasville-Juego-de-Comedor-de-9-piezas/p/1812515",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h33/h44/327621363630110.jpg",
-   "category": "Muebles",
-   "price_old": 28999.0,
-   "price_new": 25999.0,
-   "pct": 10.3,
-   "amount": 3000.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-09-30T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 12,
-   "h_min": 21999.0,
-   "h_ayer": 25999.0,
-   "h_min7": 21999.0
   },
   {
    "id": "683259",

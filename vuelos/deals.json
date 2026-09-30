@@ -1,6 +1,6 @@
 {
- "generated_at": 1790755443.487103,
- "generated_at_str": "30/09/2026 02:04",
+ "generated_at": 1790759044.334282,
+ "generated_at_str": "30/09/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "9815f4ac54bce8eed5d60da800eef89e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 779.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-14T06:30:00-06:00",
-   "return_at": "",
-   "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX1401CUN1?t=Y417999082001799920020000137TLCCUN_9815f4ac54bce8eed5d60da800eef89e_3611&search_date=30092026&expected_price_uuid=01a0f0c5-f3b0-8050-a603-62052bcf8dca&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=779",
-   "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270114-9815f4ac/"
-  },
   {
    "id": "f48c71acfa782da3de9e68309894dce4",
    "kind": "flight",
@@ -130,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261010-d3797a6b/"
   },
   {
+   "id": "9ebf18b2417fff982a92deb452aeafe4",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "SAC",
+   "destination_name": "Sacramento",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3612.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-10T15:30:00-05:00",
+   "return_at": "",
+   "duration": 239,
+   "link": "https://www.aviasales.com/search/GDL1010SAC1?t=Y417916462001791656940000239GDLSMF_9ebf18b2417fff982a92deb452aeafe4_16807&search_date=30092026&expected_price_uuid=01a0f177-16c1-8030-eb01-94babb00c973&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=InNoIl9Lub0pCHIP-8GWfg&expected_price_source=share&expected_price_currency=mxn&expected_price=3612",
+   "title": "Flight deals from Guadalajara to Sacramento",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-sacramento-20261010-9ebf18b2/"
+  },
+  {
    "id": "997a388ab5a2ef927f5092cce572d45f",
    "kind": "flight",
    "origin": "MEX",
@@ -150,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-baltimore-20261010-997a388a/"
   },
   {
+   "id": "dbf046bed16a9ed5b33ee3cc3564f889",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "ATL",
+   "destination_name": "Atlanta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4985.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-10T07:04:00-05:00",
+   "return_at": "",
+   "duration": 770,
+   "link": "https://www.aviasales.com/search/GDL1010ATL1?t=Y417916158401791669240000770GDLIAHATL_dbf046bed16a9ed5b33ee3cc3564f889_23185&search_date=30092026&expected_price_uuid=01a0f166-c941-8030-2003-835848eac9bf&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=QwFILf4J5HmkrIHfmx9ZfQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4985",
+   "title": "Flight deals from Guadalajara to Atlanta",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-atlanta-20261010-dbf046be/"
+  },
+  {
    "id": "01ec8e81e32cb3be4b9d993abed02f8b",
    "kind": "flight",
    "origin": "MEX",
@@ -168,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX0101BUE1?t=LA17988330001798886400000710MEXSCLEZE_01ec8e81e32cb3be4b9d993abed02f8b_24286&search_date=30092026&expected_price_uuid=01a0f044-ce63-8040-a1b5-2fc34b502c85&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5238",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270101-01ec8e81/"
+  },
+  {
+   "id": "73bdb2985563eb9ee37a91e5034baa93",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 10238.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-25T17:40:00-06:00",
+   "return_at": "",
+   "duration": 650,
+   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929500001793014200000650MEXMAD_73bdb2985563eb9ee37a91e5034baa93_47638&search_date=30092026&expected_price_uuid=01a0f175-d0e9-8040-635f-8ee05de0e38b&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=nne_TS31iTOJsbBrsvCztw&expected_price_source=share&expected_price_currency=mxn&expected_price=10238",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261025-73bdb298/"
   },
   {
    "id": "e9649a857d684ff4999d7cc842c411f1",

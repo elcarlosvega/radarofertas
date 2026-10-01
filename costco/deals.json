@@ -1,6 +1,6 @@
 {
- "generated_at": 1790877918.0786166,
- "generated_at_str": "01/10/2026 12:05",
+ "generated_at": 1790881519.0283718,
+ "generated_at_str": "01/10/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4468,6 +4468,23 @@
    "h_min": 2624.25,
    "h_ayer": 2624.25,
    "h_min7": 2624.25
+  },
+  {
+   "id": "700807",
+   "name": "All Saints SAS.05020.0291.52 Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/All-Saints-SAS05020029152-Lentes-de-Sol/p/700807",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9a/he4/413711598125086.jpg",
+   "category": "Optica",
+   "price_old": 3499.0,
+   "price_new": 2624.25,
+   "pct": 25.0,
+   "amount": 874.75,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790881519.0283718,
+   "h_dias": 1,
+   "h_min": 2624.25
   },
   {
    "id": "700806",

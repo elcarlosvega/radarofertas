@@ -1,6 +1,6 @@
 {
- "generated_at": 1790816643.5342977,
- "generated_at_str": "30/09/2026 19:04",
+ "generated_at": 1790820243.7974062,
+ "generated_at_str": "30/09/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261021-6aa8cd27/"
   },
   {
-   "id": "0e7f8edb23b61e36e64f44a8ac830483",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SDQ",
-   "destination_name": "Santo Domingo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3390.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-15T23:34:00-05:00",
-   "return_at": "",
-   "duration": 265,
-   "link": "https://www.aviasales.com/search/MEX1510SDQ1?t=DM17921072401792130340000265NLUSDQ_0e7f8edb23b61e36e64f44a8ac830483_15642&search_date=30092026&expected_price_uuid=01a0f3d4-e56f-8050-a93a-efb82c3a7568&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZAxdlY4ZctgCU3-zg-89FA&expected_price_source=share&expected_price_currency=mxn&expected_price=3390",
-   "title": "Flight deals from Mexico City to Santo Domingo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20261015-0e7f8edb/"
-  },
-  {
    "id": "284a10172844bfc10c5644fddd706c86",
    "kind": "flight",
    "origin": "VER",
@@ -150,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-veracruz-san-antonio-20261001-284a1017/"
   },
   {
-   "id": "9a77b455174ffc6191dc6f2800e01bf6",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SLC",
-   "destination_name": "Salt Lake City",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5687.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-09T11:51:00-05:00",
-   "return_at": "",
-   "duration": 453,
-   "link": "https://www.aviasales.com/search/GDL0910SLC1?t=Y417915466601791573840000453GDLLASSLC_9a77b455174ffc6191dc6f2800e01bf6_26237&search_date=30092026&expected_price_uuid=01a0f3e5-18fd-8040-6277-355574580c2e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=4JPPtzoOcjTZix33nLoI_w&expected_price_source=share&expected_price_currency=mxn&expected_price=5687",
-   "title": "Flight deals from Guadalajara to Salt Lake City",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261009-9a77b455/"
-  },
-  {
    "id": "ca00f5006c7a323bfc82eb20d04ff384",
    "kind": "flight",
    "origin": "MEX",
@@ -180,12 +140,12 @@
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 6976.0,
+   "price": 6983.0,
    "currency": "MXN",
    "departure_at": "2026-10-07T16:51:00-05:00",
    "return_at": "",
    "duration": 849,
-   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_32184&search_date=01102026&expected_price_uuid=01a0f4c5-a36b-8030-e037-b41eb9ecd877&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6976",
+   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_32184&search_date=01102026&expected_price_uuid=01a0f4c5-a36b-8030-e037-b41eb9ecd877&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6983",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
   },

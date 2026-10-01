@@ -1,6 +1,6 @@
 {
- "generated_at": 1790813044.3844998,
- "generated_at_str": "30/09/2026 18:04",
+ "generated_at": 1790816643.5342977,
+ "generated_at_str": "30/09/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0901CUN1?t=Y417994831001799494920000137TLCCUN_8ca9e6818d295f7f5eebbd143c1f76b8_4056&search_date=30092026&expected_price_uuid=01a0f49f-720e-8030-66f2-40bda21becda&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=879",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270109-8ca9e681/"
-  },
-  {
-   "id": "684041b1bac2a64c0dd00de1547cb44d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJD",
-   "destination_name": "Los Cabos",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 886.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-03T17:55:00-05:00",
-   "return_at": "",
-   "duration": 129,
-   "link": "https://www.aviasales.com/search/MEX0310SJD1?t=Y417910501001791054240000129MEXSJD_684041b1bac2a64c0dd00de1547cb44d_4086&search_date=30092026&expected_price_uuid=01a0f38e-cb3f-8040-67c0-e6c3bf093de6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b7zRHOjz7XU97nXYBB7Acg&expected_price_source=share&expected_price_currency=mxn&expected_price=886",
-   "title": "Flight deals from Mexico City to San Jose Del Cabo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261003-684041b1/"
   },
   {
    "id": "b0d451503eb25beec2e0a7db7cc1da86",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/GDL0910SLC1?t=Y417915466601791573840000453GDLLASSLC_9a77b455174ffc6191dc6f2800e01bf6_26237&search_date=30092026&expected_price_uuid=01a0f3e5-18fd-8040-6277-355574580c2e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=4JPPtzoOcjTZix33nLoI_w&expected_price_source=share&expected_price_currency=mxn&expected_price=5687",
    "title": "Flight deals from Guadalajara to Salt Lake City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261009-9a77b455/"
+  },
+  {
+   "id": "ca00f5006c7a323bfc82eb20d04ff384",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 6976.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-07T16:51:00-05:00",
+   "return_at": "",
+   "duration": 849,
+   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_32184&search_date=01102026&expected_price_uuid=01a0f4c5-a36b-8030-e037-b41eb9ecd877&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6976",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
   },
   {
    "id": "5376e90dafdbce791e865af2bfb06918",

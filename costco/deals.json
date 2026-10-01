@@ -1,6 +1,6 @@
 {
- "generated_at": 1790827532.5246518,
- "generated_at_str": "30/09/2026 22:05",
+ "generated_at": 1790831124.9204082,
+ "generated_at_str": "30/09/2026 23:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2276,25 +2276,6 @@
    "h_min7": 13999.0
   },
   {
-   "id": "693621",
-   "name": "TCL Q75H Barra de Sonido 5.1.2 Canales",
-   "url": "https://www.costco.com.mx/Electronicos/Audio/Barras-de-Sonido/TCL-Q75H-Barra-de-Sonido-512-Canales/p/693621",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h15/ha4/332063246778398.jpg",
-   "category": "Electronicos",
-   "price_old": 9899.0,
-   "price_new": 7299.0,
-   "pct": 26.3,
-   "amount": 2600.0,
-   "starts": "2026-09-01T06:00:00.000Z",
-   "ends": "2026-10-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1788275144.1433065,
-   "h_dias": 62,
-   "h_min": 6899.0,
-   "h_ayer": 7299.0,
-   "h_min7": 7299.0
-  },
-  {
    "id": "682698",
    "name": "Maytag Lavadora 25Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-25Kg-Carga-Superior/p/682698",
@@ -3180,6 +3161,25 @@
    "in_stock": true,
    "first_seen": 1789974333.001038,
    "h_dias": 58,
+   "h_min": 3749.25,
+   "h_ayer": 3749.25,
+   "h_min7": 3749.25
+  },
+  {
+   "id": "750278",
+   "name": "Carrera 8927 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-8927-Armazon-Oftalmico/p/750278",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he6/hf0/449966538850334.jpg",
+   "category": "Optica",
+   "price_old": 4999.0,
+   "price_new": 3749.25,
+   "pct": 25.0,
+   "amount": 1249.75,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 53,
    "h_min": 3749.25,
    "h_ayer": 3749.25,
    "h_min7": 3749.25
@@ -8494,25 +8494,6 @@
    "h_min7": 12999.0
   },
   {
-   "id": "1934130",
-   "name": "Agio, Phoenix Sala para Exterior de 5 piezas",
-   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/Agio-Phoenix-Sala-para-Exterior-de-5-piezas/p/1934130",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he6/h6f/506415176908830.jpg",
-   "category": "Muebles",
-   "price_old": 59999.0,
-   "price_new": 45999.0,
-   "pct": 23.3,
-   "amount": 14000.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-10-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 15,
-   "h_min": 45999.0,
-   "h_ayer": 45999.0,
-   "h_min7": 45999.0
-  },
-  {
    "id": "1934065",
    "name": "SunVilla, Violet Sala para Exterior de 4 Piezas",
    "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/SunVilla-Violet-Sala-para-Exterior-de-4-Piezas/p/1934065",
@@ -12601,25 +12582,6 @@
    "h_ayer": 7999.0
   },
   {
-   "id": "695340",
-   "name": "LG Congelador Vertical 6'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Congelador-Vertical-6/p/695340",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h73/hf2/378352713596958.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 9499.0,
-   "price_new": 7999.0,
-   "pct": 15.8,
-   "amount": 1500.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-10-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 48,
-   "h_min": 6599.0,
-   "h_ayer": 7999.0,
-   "h_min7": 7499.0
-  },
-  {
    "id": "687342",
    "name": "Set Tempur One + Ease King Size",
    "url": "https://www.costco.com.mx/c/Set-Tempur-One-Ease-King-Size/p/687342",
@@ -13953,6 +13915,25 @@
    "h_min": 35999.0,
    "h_ayer": 36999.0,
    "h_min7": 36999.0
+  },
+  {
+   "id": "648183",
+   "name": "Kitchenaid Lavavajillas Empotrable de 60 cm 15 Servicios",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Kitchenaid-Lavavajillas-Empotrable-de-60-cm-15-Servicios/p/648183",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/he0/506030097006622.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 21499.0,
+   "pct": 14.0,
+   "amount": 3500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 13,
+   "h_min": 19499.0,
+   "h_ayer": 21499.0,
+   "h_min7": 20999.0
   },
   {
    "id": "702762",

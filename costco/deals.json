@@ -1,6 +1,6 @@
 {
- "generated_at": 1790823924.498731,
- "generated_at_str": "30/09/2026 21:05",
+ "generated_at": 1790827532.5246518,
+ "generated_at_str": "30/09/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -3180,25 +3180,6 @@
    "in_stock": true,
    "first_seen": 1789974333.001038,
    "h_dias": 58,
-   "h_min": 3749.25,
-   "h_ayer": 3749.25,
-   "h_min7": 3749.25
-  },
-  {
-   "id": "750278",
-   "name": "Carrera 8927 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carrera-8927-Armazon-Oftalmico/p/750278",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/he6/hf0/449966538850334.jpg",
-   "category": "Optica",
-   "price_old": 4999.0,
-   "price_new": 3749.25,
-   "pct": 25.0,
-   "amount": 1249.75,
-   "starts": "2026-09-21T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1789974333.001038,
-   "h_dias": 53,
    "h_min": 3749.25,
    "h_ayer": 3749.25,
    "h_min7": 3749.25
@@ -9651,6 +9632,25 @@
    "h_min7": 13499.0
   },
   {
+   "id": "665116",
+   "name": "Teka Campana de Isla 107cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Campana-de-Isla-107cm/p/665116",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hee/63415022977054.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16999.0,
+   "price_new": 13499.0,
+   "pct": 20.6,
+   "amount": 3500.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 53,
+   "h_min": 11499.0,
+   "h_ayer": 13499.0,
+   "h_min7": 13499.0
+  },
+  {
    "id": "694433",
    "name": "Violanti, Sofá Cama",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama/p/694433",
@@ -13955,25 +13955,6 @@
    "h_min7": 36999.0
   },
   {
-   "id": "648183",
-   "name": "Kitchenaid Lavavajillas Empotrable de 60 cm 15 Servicios",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Kitchenaid-Lavavajillas-Empotrable-de-60-cm-15-Servicios/p/648183",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/he0/506030097006622.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 24999.0,
-   "price_new": 21499.0,
-   "pct": 14.0,
-   "amount": 3500.0,
-   "starts": "2026-09-28T06:00:00.000Z",
-   "ends": "2026-10-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790579140.5283954,
-   "h_dias": 13,
-   "h_min": 19499.0,
-   "h_ayer": 21499.0,
-   "h_min7": 20999.0
-  },
-  {
    "id": "702762",
    "name": "Muebles Liz, Volpi, Sillón Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Muebles-Liz-Volpi-Sillon-Reclinable/p/702762",
@@ -16523,6 +16504,25 @@
    "h_min": 18999.0,
    "h_ayer": 18999.0,
    "h_min7": 18999.0
+  },
+  {
+   "id": "693639",
+   "name": "América, Bari, Colchón Queen Size",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Queen-Size/America-Bari-Colchon-Queen-Size/p/693639",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3b/h61/365808522493982.jpg",
+   "category": "Muebles",
+   "price_old": 52999.0,
+   "price_new": 47999.0,
+   "pct": 9.4,
+   "amount": 5000.0,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 59,
+   "h_min": 47999.0,
+   "h_ayer": 47999.0,
+   "h_min7": 47999.0
   },
   {
    "id": "703426",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790823844.189213,
- "generated_at_str": "30/09/2026 21:04",
+ "generated_at": 1790827444.1457613,
+ "generated_at_str": "30/09/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0901CUN1?t=Y417994831001799494920000137TLCCUN_8ca9e6818d295f7f5eebbd143c1f76b8_4056&search_date=30092026&expected_price_uuid=01a0f49f-720e-8030-66f2-40bda21becda&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=879",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270109-8ca9e681/"
-  },
-  {
-   "id": "b0d451503eb25beec2e0a7db7cc1da86",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "OAX",
-   "destination_name": "Oaxaca de Juárez",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 976.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-03T14:46:00-05:00",
-   "return_at": "",
-   "duration": 71,
-   "link": "https://www.aviasales.com/search/MEX0310OAX1?t=AM17910387601791043020000071NLUOAX_b0d451503eb25beec2e0a7db7cc1da86_4533&search_date=30092026&expected_price_uuid=01a0f446-b42b-8040-6318-ccc2866cf9f9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=e-B63iED2iiGuEqM9LoSIA&expected_price_source=share&expected_price_currency=mxn&expected_price=976",
-   "title": "Flight deals from Mexico City to Oaxaca",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261003-b0d45150/"
   },
   {
    "id": "06b02bc3ec5b459a28e11e0ea3784399",
@@ -100,12 +80,12 @@
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 6984.0,
+   "price": 6988.0,
    "currency": "MXN",
    "departure_at": "2026-10-07T16:51:00-05:00",
    "return_at": "",
    "duration": 849,
-   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_32184&search_date=01102026&expected_price_uuid=01a0f4c5-a36b-8030-e037-b41eb9ecd877&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6984",
+   "link": "https://www.aviasales.com/search/MEX0710BUE1?t=DM17913918601791453600000849NLUPUJEZE_ca00f5006c7a323bfc82eb20d04ff384_32184&search_date=01102026&expected_price_uuid=01a0f4c5-a36b-8030-e037-b41eb9ecd877&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ht5Poqx-VAi8yt2PprY6UA&expected_price_source=share&expected_price_currency=mxn&expected_price=6988",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261007-ca00f500/"
   },
@@ -128,26 +108,6 @@
    "link": "https://www.aviasales.com/search/MEX1910PAR1?t=TX17924082001792493400000940MEXCUNORY_2342986ed3a0c053a69a93b050e99ba3_44754&search_date=30092026&expected_price_uuid=01a0f496-377d-8030-a1f1-fb56c226ed25&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SIJSU4xyFeO5bV8OYcZiJw&expected_price_source=share&expected_price_currency=mxn&expected_price=9701",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261019-2342986e/"
-  },
-  {
-   "id": "19d933a4b89dc469e1e9e208c8c4da4d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CPT",
-   "destination_name": "Ciudad del Cabo",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 16480.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-15T23:05:00-06:00",
-   "return_at": "",
-   "duration": 1400,
-   "link": "https://www.aviasales.com/search/MEX1501CPT1?t=AF18000543001800167100001400MEXCDGCPT_19d933a4b89dc469e1e9e208c8c4da4d_76032&search_date=30092026&expected_price_uuid=01a0f436-d59b-8030-af7f-506241780a7b&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=16480",
-   "title": "Flight deals from Mexico City to Cape Town",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-del-cabo-20270115-19d933a4/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790852642.6712384,
- "generated_at_str": "01/10/2026 05:10",
+ "generated_at": 1790856242.6499877,
+ "generated_at_str": "01/10/2026 06:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -1513,16 +1513,16 @@
    "img": "https://ss637.liverpool.com.mx/lg/1176997415.jpg",
    "category": "Bocinas",
    "price_old": 2763.0,
-   "price_new": 890.28,
+   "price_new": 890.07,
    "pct": 67.8,
-   "amount": 1872.72,
+   "amount": 1872.93,
    "ends": "",
    "first_seen": 1790751842.530557,
    "in_stock": true,
    "h_dias": 15,
-   "h_min": 890.28,
+   "h_min": 890.07,
    "h_ayer": 891.63,
-   "h_min7": 890.28
+   "h_min7": 890.07
   },
   {
    "id": "999681957532",
@@ -3101,16 +3101,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1185294478.jpg",
    "category": "Audifonos",
    "price_old": 1770.0,
-   "price_new": 555.22,
+   "price_new": 555.01,
    "pct": 68.6,
-   "amount": 1214.78,
+   "amount": 1214.99,
    "ends": "",
    "first_seen": 1790805841.4801035,
    "in_stock": true,
    "h_dias": 7,
-   "h_min": 555.22,
+   "h_min": 555.01,
    "h_ayer": 556.57,
-   "h_min7": 555.22
+   "h_min7": 555.01
   },
   {
    "id": "1187268229",
@@ -8455,16 +8455,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1202498945.jpg",
    "category": "Secadoras",
    "price_old": 2060.0,
-   "price_new": 892.11,
+   "price_new": 891.9,
    "pct": 56.7,
-   "amount": 1167.89,
+   "amount": 1168.1,
    "ends": "",
    "first_seen": 1790737442.8456147,
    "in_stock": true,
    "h_dias": 15,
-   "h_min": 892.11,
+   "h_min": 891.9,
    "h_ayer": 893.46,
-   "h_min7": 892.11
+   "h_min7": 891.9
   },
   {
    "id": "999682412678",
@@ -11617,16 +11617,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1196843082.jpg",
    "category": "Audifonos",
    "price_old": 1493.0,
-   "price_new": 685.72,
+   "price_new": 685.51,
    "pct": 54.1,
-   "amount": 807.28,
+   "amount": 807.49,
    "ends": "",
    "first_seen": 1790521442.4163353,
    "in_stock": true,
    "h_dias": 15,
-   "h_min": 685.72,
+   "h_min": 685.51,
    "h_ayer": 687.07,
-   "h_min7": 685.72
+   "h_min7": 685.51
   },
   {
    "id": "1178707082",
@@ -13592,16 +13592,16 @@
    "img": "https://ss630.liverpool.com.mx/lg/1194082513.jpg",
    "category": "Audifonos",
    "price_old": 1207.0,
-   "price_new": 561.98,
+   "price_new": 561.9,
    "pct": 53.4,
-   "amount": 645.02,
+   "amount": 645.1,
    "ends": "",
    "first_seen": 1790841842.6084666,
    "in_stock": true,
    "h_dias": 12,
-   "h_min": 561.98,
+   "h_min": 561.9,
    "h_ayer": 562.4,
-   "h_min7": 561.98
+   "h_min7": 561.9
   },
   {
    "id": "1173214436",
@@ -17171,6 +17171,22 @@
    "h_min7": 2969.0
   },
   {
+   "id": "1184729594",
+   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184729594",
+   "img": "https://sp637.liverpool.com.mx/i/1184729594.jpg",
+   "category": "Audifonos",
+   "price_old": 1314.0,
+   "price_new": 653.28,
+   "pct": 50.3,
+   "amount": 660.72,
+   "ends": "",
+   "first_seen": 1790845442.5776105,
+   "in_stock": true,
+   "h_dias": 5,
+   "h_min": 653.28
+  },
+  {
    "id": "1116421590",
    "name": "KESSA Set Recámara",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara/1116421590",
@@ -17205,22 +17221,6 @@
    "h_min": 20769.0,
    "h_ayer": 20769.0,
    "h_min7": 20769.0
-  },
-  {
-   "id": "1184729594",
-   "name": "BELUG Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/1184729594",
-   "img": "https://sp637.liverpool.com.mx/i/1184729594.jpg",
-   "category": "Audifonos",
-   "price_old": 1314.0,
-   "price_new": 653.49,
-   "pct": 50.3,
-   "amount": 660.51,
-   "ends": "",
-   "first_seen": 1790845442.5776105,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 653.49
   },
   {
    "id": "999686993020",
@@ -20830,16 +20830,16 @@
    "img": "https://sp625.liverpool.com.mx/i/1156995548.jpg",
    "category": "Aspiradoras",
    "price_old": 1723.0,
-   "price_new": 933.89,
+   "price_new": 933.68,
    "pct": 45.8,
-   "amount": 789.11,
+   "amount": 789.32,
    "ends": "",
    "first_seen": 1790849042.6113844,
    "in_stock": true,
    "h_dias": 15,
-   "h_min": 933.89,
+   "h_min": 933.68,
    "h_ayer": 935.24,
-   "h_min7": 933.89
+   "h_min7": 933.68
   },
   {
    "id": "9959923534",
@@ -22092,6 +22092,24 @@
    "h_ayer": 999.0
   },
   {
+   "id": "1137946331",
+   "name": "Genérica Juego de puntas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/juego-de-puntas/1137946331",
+   "img": "https://ss610.liverpool.com.mx/lg/1137946331.jpg",
+   "category": "Tablets",
+   "price_old": 952.0,
+   "price_new": 491.58,
+   "pct": 48.4,
+   "amount": 460.42,
+   "ends": "",
+   "first_seen": 1790521442.4163353,
+   "in_stock": true,
+   "h_dias": 16,
+   "h_min": 398.29,
+   "h_ayer": 493.14,
+   "h_min7": 398.29
+  },
+  {
    "id": "1176317953",
    "name": "RCA Parrilla de inducción RC-12A6 de cristal templado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-de-inducci-n-rc-12a6-de-cristal-templado/1176317953",
@@ -22142,24 +22160,6 @@
    "h_dias": 3,
    "h_min": 3499.0,
    "h_ayer": 3499.0
-  },
-  {
-   "id": "1137946331",
-   "name": "Genérica Juego de puntas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/juego-de-puntas/1137946331",
-   "img": "https://ss610.liverpool.com.mx/lg/1137946331.jpg",
-   "category": "Tablets",
-   "price_old": 952.0,
-   "price_new": 491.79,
-   "pct": 48.3,
-   "amount": 460.21,
-   "ends": "",
-   "first_seen": 1790521442.4163353,
-   "in_stock": true,
-   "h_dias": 16,
-   "h_min": 398.29,
-   "h_ayer": 493.14,
-   "h_min7": 398.29
   },
   {
    "id": "1128160236",
@@ -29339,24 +29339,6 @@
    "h_min": 11949.0,
    "h_ayer": 11949.0,
    "h_min7": 11949.0
-  },
-  {
-   "id": "1138902451",
-   "name": "BOGNER Cafetera espresso bdecm02",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-bdecm02/1138902451",
-   "img": "https://sp625.liverpool.com.mx/i/1138902451.jpg",
-   "category": "Cafeteras",
-   "price_old": 4299.0,
-   "price_new": 2794.35,
-   "pct": 35.0,
-   "amount": 1504.65,
-   "ends": "",
-   "first_seen": 1790712242.4613245,
-   "in_stock": true,
-   "h_dias": 16,
-   "h_min": 2794.35,
-   "h_ayer": 2794.35,
-   "h_min7": 2794.35
   },
   {
    "id": "999687901567",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790838244.540572,
- "generated_at_str": "01/10/2026 01:04",
+ "generated_at": 1790841844.9132974,
+ "generated_at_str": "01/10/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -40,12 +40,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 1788.0,
+   "price": 1789.0,
    "currency": "MXN",
    "departure_at": "2026-10-10T06:30:00-05:00",
    "return_at": "",
    "duration": 550,
-   "link": "https://www.aviasales.com/search/MEX1010TAP1?t=Y417916138001791646800000550NLUGDLTAP_92df970bf306d91899c6eaa0a10c6231_8247&search_date=01102026&expected_price_uuid=01a0f5c4-7f9a-8040-a11e-392ce16efd5a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=o5SdCkNkKVS6fis5G3aF6w&expected_price_source=share&expected_price_currency=mxn&expected_price=1788",
+   "link": "https://www.aviasales.com/search/MEX1010TAP1?t=Y417916138001791646800000550NLUGDLTAP_92df970bf306d91899c6eaa0a10c6231_8247&search_date=01102026&expected_price_uuid=01a0f5c4-7f9a-8040-a11e-392ce16efd5a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=o5SdCkNkKVS6fis5G3aF6w&expected_price_source=share&expected_price_currency=mxn&expected_price=1789",
    "title": "Flight deals from Mexico City to Tapachula",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tapachula-de-cordova-y-ordonez-20261010-92df970b/"
   },
@@ -60,34 +60,14 @@
    "airline_title": "British Airways",
    "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 16561.0,
+   "price": 16563.0,
    "currency": "MXN",
    "departure_at": "2026-10-02T22:00:00-05:00",
    "return_at": "",
    "duration": 1040,
-   "link": "https://www.aviasales.com/search/MEX0210IST1?t=BA17909784001791073200001040MEXLHRIST_666ce0a346053a42e1e5861ed5784bd1_76364&search_date=01102026&expected_price_uuid=01a0f61e-54a0-8040-afd9-2c4a7c20c8a9&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=W5m4yt2wZZSAVTOFWKg2MA&expected_price_source=share&expected_price_currency=mxn&expected_price=16561",
+   "link": "https://www.aviasales.com/search/MEX0210IST1?t=BA17909784001791073200001040MEXLHRIST_666ce0a346053a42e1e5861ed5784bd1_76364&search_date=01102026&expected_price_uuid=01a0f61e-54a0-8040-afd9-2c4a7c20c8a9&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=W5m4yt2wZZSAVTOFWKg2MA&expected_price_source=share&expected_price_currency=mxn&expected_price=16563",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261002-666ce0a3/"
-  },
-  {
-   "id": "35a54285eff22773fd2327f4c971079c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TAS",
-   "destination_name": "Taskent",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 36886.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-01T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1380,
-   "link": "https://www.aviasales.com/search/MEX0110TAS1?t=TK17908452001790967600001380MEXISTTAS_35a54285eff22773fd2327f4c971079c_170080&search_date=01102026&expected_price_uuid=01a0f63b-447e-8040-2441-991fb12b2543&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=2jIqBkI4C3rPDlMMTx1kLA&expected_price_source=share&expected_price_currency=mxn&expected_price=36886",
-   "title": "Flight deals from Mexico City to Tashkent",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261001-35a54285/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1790935444.2566407,
- "generated_at_str": "02/10/2026 04:04",
+ "generated_at": 1790939044.2546456,
+ "generated_at_str": "02/10/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "508959fe4eae6fdaad9a2e3d4724eb54",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJD",
+   "destination_name": "Los Cabos",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 790.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-26T18:16:00-06:00",
+   "return_at": "",
+   "duration": 128,
+   "link": "https://www.aviasales.com/search/MEX2610SJD1?t=VB17930385601793042640000128NLUSJD_508959fe4eae6fdaad9a2e3d4724eb54_3613&search_date=02102026&expected_price_uuid=01a0fc1d-88de-8050-e461-163628242cf6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ag8B4FpQPvywncxolpDjIw&expected_price_source=share&expected_price_currency=mxn&expected_price=790",
+   "title": "Flight deals from Mexico City to San Jose Del Cabo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261026-508959fe/"
+  },
   {
    "id": "24fef17c5365b6c8dca780ca7326d4f4",
    "kind": "flight",
@@ -88,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX2402SAO1?t=DM18034887001803546600000785NLUPUJGRU_d62dd4a618f3f56fdd5ad066913bb873_26782&search_date=02102026&expected_price_uuid=01a0fbcf-7b0d-8030-ab6a-4d49caf894bd&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dCjMmViKRed9YYGt9y9Hbw&expected_price_source=share&expected_price_currency=mxn&expected_price=5863",
    "title": "Flight deals from Mexico City to Sao Paulo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270224-d62dd4a6/"
+  },
+  {
+   "id": "997f6dbce494ff0efb836bb8c477e81c",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 8490.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-26T22:05:00-06:00",
+   "return_at": "",
+   "duration": 635,
+   "link": "https://www.aviasales.com/search/MEX2610MAD1?t=AM17930523001793115600000635MEXMAD_997f6dbce494ff0efb836bb8c477e81c_38888&search_date=02102026&expected_price_uuid=01a0fc33-3034-8030-a41f-784d2575d42e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8490",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261026-997f6dbc/"
   },
   {
    "id": "4b33e630c1441725ba94e1ead85d9989",

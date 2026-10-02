@@ -1,6 +1,6 @@
 {
- "generated_at": 1790903044.266465,
- "generated_at_str": "01/10/2026 19:04",
+ "generated_at": 1790906644.4141424,
+ "generated_at_str": "01/10/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261022-73a612ad/"
   },
   {
-   "id": "1e0d6cf09e75d51c24f38fb2e7c0c392",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "HOU",
-   "destination_name": "Houston",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2581.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-11T06:01:00-05:00",
-   "return_at": "",
-   "duration": 95,
-   "link": "https://www.aviasales.com/search/MTY1110HOU1?t=VB17916984601791707760000095MTYIAH_1e0d6cf09e75d51c24f38fb2e7c0c392_11756&search_date=01102026&expected_price_uuid=01a0f8e4-a072-8030-a727-57cf8577e9d8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AcUgW4nFL9xIiDlnkMJSCA&expected_price_source=share&expected_price_currency=mxn&expected_price=2581",
-   "title": "Flight deals from Monterrey to Houston",
-   "micro": "/oferta/vuelos/vuelo-monterrey-houston-20261011-1e0d6cf0/"
-  },
-  {
    "id": "975db6fd74eab3c0cbcf2e5e3cae4309",
    "kind": "flight",
    "origin": "MTY",
@@ -148,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MTY1210AUS1?t=VB17918037001791812400000085MTYAUS_975db6fd74eab3c0cbcf2e5e3cae4309_13614&search_date=01102026&expected_price_uuid=01a0f9af-d11c-8040-2ca3-2262ccedeb0e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sW0oJ9NbpHDW7bjE2XOeVQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2989",
    "title": "Flight deals from Monterrey to Austin",
    "micro": "/oferta/vuelos/vuelo-monterrey-austin-20261012-975db6fd/"
-  },
-  {
-   "id": "82cb401a8501e614a994c1d04533fe17",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "CHI",
-   "destination_name": "Chicago",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3093.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-11T07:03:00-05:00",
-   "return_at": "",
-   "duration": 246,
-   "link": "https://www.aviasales.com/search/GDL1110CHI1?t=Y417917021801791720540000246GDLORD_82cb401a8501e614a994c1d04533fe17_14091&search_date=01102026&expected_price_uuid=01a0f902-1b74-8030-6549-22fa62e58e32&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=C--1gUte8OclmwFJ_4ztpA&expected_price_source=share&expected_price_currency=mxn&expected_price=3093",
-   "title": "Flight deals from Guadalajara to Chicago",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261011-82cb401a/"
   },
   {
    "id": "71a126fe0c54344d80eb5eadda860f48",

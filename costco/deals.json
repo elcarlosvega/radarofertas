@@ -1,6 +1,6 @@
 {
- "generated_at": 1790964309.744741,
- "generated_at_str": "02/10/2026 12:05",
+ "generated_at": 1790967893.3095284,
+ "generated_at_str": "02/10/2026 13:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -24,25 +24,6 @@
    "h_min": 6999.0,
    "h_ayer": 6999.0,
    "h_min7": 6999.0
-  },
-  {
-   "id": "1783022",
-   "name": "Simon Li Furniture, Sillón Reclinable de Piel con Sistema Eléctrico",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Simon-Li-Furniture-Sillon-Reclinable-de-Piel-con-Sistema-Electrico/p/1783022",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h4a/385220088725534.jpg",
-   "category": "Muebles",
-   "price_old": 14999.0,
-   "price_new": 7999.0,
-   "pct": 46.7,
-   "amount": 7000.0,
-   "starts": "2026-09-29T06:00:00.000Z",
-   "ends": "2026-10-05T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1790694338.1861818,
-   "h_dias": 52,
-   "h_min": 7999.0,
-   "h_ayer": 7999.0,
-   "h_min7": 7999.0
   },
   {
    "id": "2047957",
@@ -7666,6 +7647,25 @@
    "name": "Bulova Twist Titanium Montanelli Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Montanelli-Armazon-Oftalmico/p/701530",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hba/he8/414734034403358.jpg",
+   "category": "Optica",
+   "price_old": 1299.0,
+   "price_new": 974.25,
+   "pct": 25.0,
+   "amount": 324.75,
+   "starts": "2026-09-28T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790579140.5283954,
+   "h_dias": 41,
+   "h_min": 974.25,
+   "h_ayer": 974.25,
+   "h_min7": 974.25
+  },
+  {
+   "id": "701529",
+   "name": "Bulova Twist Titanium Cafferty Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Cafferty-Armazon-Oftalmico/p/701529",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/hd3/414734031650846.jpg",
    "category": "Optica",
    "price_old": 1299.0,
    "price_new": 974.25,

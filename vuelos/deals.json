@@ -1,6 +1,6 @@
 {
- "generated_at": 1790899444.3809266,
- "generated_at_str": "01/10/2026 18:04",
+ "generated_at": 1790903044.266465,
+ "generated_at_str": "01/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "1e902f156722e4185f545615fc5af9c6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TGZ",
+   "destination_name": "Tuxtla Gutiérrez",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 771.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-11T08:25:00-06:00",
+   "return_at": "",
+   "duration": 375,
+   "link": "https://www.aviasales.com/search/MEX1101TGZ1?t=Y417996559001799678400000375TLCCUNTGZ_1e902f156722e4185f545615fc5af9c6_3511&search_date=02102026&expected_price_uuid=01a0fa06-c5e6-8030-2568-4a8bcf709efb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wr5cWJRl4wazSZ9Lcdn2-w&expected_price_source=share&expected_price_currency=mxn&expected_price=771",
+   "title": "Flight deals from Mexico City to Tuxtla Gutierrez",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tuxtla-gutierrez-20270111-1e902f15/"
+  },
   {
    "id": "d806c85ab604d72c5a8444f4df85cd2f",
    "kind": "flight",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/GDL1110CHI1?t=Y417917021801791720540000246GDLORD_82cb401a8501e614a994c1d04533fe17_14091&search_date=01102026&expected_price_uuid=01a0f902-1b74-8030-6549-22fa62e58e32&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=C--1gUte8OclmwFJ_4ztpA&expected_price_source=share&expected_price_currency=mxn&expected_price=3093",
    "title": "Flight deals from Guadalajara to Chicago",
    "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261011-82cb401a/"
-  },
-  {
-   "id": "813495b978bc486d56fbb8389b426330",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4940.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T10:30:00-06:00",
-   "return_at": "",
-   "duration": 395,
-   "link": "https://www.aviasales.com/search/MEX0112HAV1?t=VB17961210001796148300000395NLUMTYHAV_813495b978bc486d56fbb8389b426330_22503&search_date=01102026&expected_price_uuid=01a0f9bf-3e66-8050-e074-642d81e2af21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=avNyDtwASs-W0srJI6xQNg&expected_price_source=share&expected_price_currency=mxn&expected_price=4940",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261201-813495b9/"
   },
   {
    "id": "71a126fe0c54344d80eb5eadda860f48",

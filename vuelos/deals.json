@@ -1,6 +1,6 @@
 {
- "generated_at": 1791065044.092059,
- "generated_at_str": "03/10/2026 16:04",
+ "generated_at": 1791068643.676571,
+ "generated_at_str": "03/10/2026 17:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tapachula-de-cordova-y-ordonez-20261013-94c9d403/"
   },
   {
+   "id": "77f4852a0ebbefd2739d2364b9354ce7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "UIO",
+   "destination_name": "Quito",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 4046.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-30T13:35:00-06:00",
+   "return_at": "",
+   "duration": 282,
+   "link": "https://www.aviasales.com/search/MEX3012UIO1?t=AM17986377001798658220000282MEXUIO_77f4852a0ebbefd2739d2364b9354ce7_18634&search_date=03102026&expected_price_uuid=01a103d0-f16a-8030-a414-b4188cd7cb23&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wEcq1XAzM4RqaDnb9Tyt1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=4046",
+   "title": "Flight deals from Mexico City to Quito",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-quito-20261230-77f4852a/"
+  },
+  {
    "id": "820a73243242360ebbb8159391e2e7f4",
    "kind": "flight",
    "origin": "MEX",
@@ -88,26 +108,6 @@
    "link": "https://www.aviasales.com/search/MEX0801BUE1?t=LA17994378001799491200000710MEXSCLEZE_288438524c64a47c6b3c29cc562a5516_26021&search_date=03102026&expected_price_uuid=01a10347-78cb-8040-6df5-2aecde238450&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5650",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270108-28843852/"
-  },
-  {
-   "id": "1d01c7affed72f534e1018d15306afbb",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 8494.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-07T01:15:00-06:00",
-   "return_at": "",
-   "duration": 2630,
-   "link": "https://www.aviasales.com/search/MEX0712IST1?t=WS17966061001796796300002630MEXYYCLHRSTNSAW_1d01c7affed72f534e1018d15306afbb_39115&search_date=03102026&expected_price_uuid=01a10382-3866-8030-e129-bda755df1de7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=UQsC_tTq_37kTPujkRMCfw&expected_price_source=share&expected_price_currency=mxn&expected_price=8494",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261207-1d01c7af/"
   },
   {
    "id": "dbcfe276fff43a74c0b8a7d08622a7bb",

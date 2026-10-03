@@ -1,6 +1,6 @@
 {
- "generated_at": 1791039843.6843793,
- "generated_at_str": "03/10/2026 09:04",
+ "generated_at": 1791043444.0561209,
+ "generated_at_str": "03/10/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1910NYC1?t=VB17924223001792455600000435TLCMTYJFK_39e7e7caade3a85b0e4e4c2de2f40132_13010&search_date=03102026&expected_price_uuid=01a101b5-022e-8040-6df7-2d3217035690&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1M7XxMEGjWjbcf0cU_b1rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2825",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261019-39e7e7ca/"
+  },
+  {
+   "id": "f0f4bb058dcc043959e0f988dc1be8d2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CHI",
+   "destination_name": "Chicago",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2997.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-13T19:25:00-05:00",
+   "return_at": "",
+   "duration": 1117,
+   "link": "https://www.aviasales.com/search/MEX1310CHI1?t=VB17919195001791990120001117NLUMTYORD_f0f4bb058dcc043959e0f988dc1be8d2_13800&search_date=03102026&expected_price_uuid=01a1025a-44e8-8030-622a-3ee21482d463&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Wy6qsYPVvWvNQ8rvkzFwlg&expected_price_source=share&expected_price_currency=mxn&expected_price=2997",
+   "title": "Flight deals from Mexico City to Chicago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261013-f0f4bb05/"
   },
   {
    "id": "888f6b8daa18848a0442809427cb3aab",

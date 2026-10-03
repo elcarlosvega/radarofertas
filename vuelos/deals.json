@@ -1,6 +1,6 @@
 {
- "generated_at": 1790982244.735719,
- "generated_at_str": "02/10/2026 17:04",
+ "generated_at": 1790985844.034904,
+ "generated_at_str": "02/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,24 +70,44 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261206-23d4a0c8/"
   },
   {
-   "id": "ffd0aa44e983b1426ccfe4b98c498eb7",
+   "id": "b48bf21871adfbaaaaa8e8a382cf3d43",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4287.0,
+   "destination": "BOG",
+   "destination_name": "Bogotá",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3905.0,
    "currency": "MXN",
-   "departure_at": "2026-12-08T09:09:00-06:00",
+   "departure_at": "2026-10-26T00:32:00-06:00",
    "return_at": "",
-   "duration": 476,
-   "link": "https://www.aviasales.com/search/MEX0812HAV1?t=VB17967209401796753100000476TLCMTYHAV_ffd0aa44e983b1426ccfe4b98c498eb7_19777&search_date=02102026&expected_price_uuid=01a0fdaf-8c74-8040-ac08-f4bd32e1f6af&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1PLFTmlQJU3ZCxJ74kGeDA&expected_price_source=share&expected_price_currency=mxn&expected_price=4287",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261208-ffd0aa44/"
+   "duration": 277,
+   "link": "https://www.aviasales.com/search/MEX2610BOG1?t=Y417929747201792994940000277NLUBOG_b48bf21871adfbaaaaa8e8a382cf3d43_18012&search_date=02102026&expected_price_uuid=01a0fe3d-acae-8040-6b47-18ef92acddeb&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=lV6xjvlOgUDAIdA2WxG7GQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3905",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261026-b48bf218/"
+  },
+  {
+   "id": "e6959e7a9ec684da416416463e5f3e35",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PHL",
+   "destination_name": "Filadelfia",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 6740.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-04T00:50:00-05:00",
+   "return_at": "",
+   "duration": 479,
+   "link": "https://www.aviasales.com/search/MEX0410PHL1?t=Y417910750001791110940000479MEXORDPHL_e6959e7a9ec684da416416463e5f3e35_31089&search_date=02102026&expected_price_uuid=01a0fe50-c9bd-8040-202f-a71f854fc775&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=u5Yek_jkPkIsZhOmIV5qIQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6740",
+   "title": "Flight deals from Mexico City to Philadelphia",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-filadelfia-20261004-e6959e7a/"
   },
   {
    "id": "05ef4efb1c6a7b337d174eebbd9f1732",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2310MAD1?t=AM17927919001792859400000645MEXMAD_a2055dcc45205402d34dee004bdb3255_55092&search_date=02102026&expected_price_uuid=01a0fe56-94c6-8040-a6f2-2966f2ae8df1&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=JPOa8IWdbpwKGkRcDiukhw&expected_price_source=share&expected_price_currency=mxn&expected_price=11943",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261023-a2055dcc/"
-  },
-  {
-   "id": "19d933a4b89dc469e1e9e208c8c4da4d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CPT",
-   "destination_name": "Ciudad del Cabo",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 16604.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-15T23:05:00-06:00",
-   "return_at": "",
-   "duration": 1400,
-   "link": "https://www.aviasales.com/search/MEX1501CPT1?t=AF18000543001800167100001400MEXCDGCPT_19d933a4b89dc469e1e9e208c8c4da4d_76593&search_date=02102026&expected_price_uuid=01a0fdb2-8ccc-8030-a883-1131c812dd97&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=16604",
-   "title": "Flight deals from Mexico City to Cape Town",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-del-cabo-20270115-19d933a4/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791043444.0561209,
- "generated_at_str": "03/10/2026 10:04",
+ "generated_at": 1791047044.1922357,
+ "generated_at_str": "03/10/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,6 +110,46 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20270420-0d66034d/"
   },
   {
+   "id": "4627ffa752a674f1e99d87ab7db73e3b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 13408.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-04T04:55:00-06:00",
+   "return_at": "",
+   "duration": 1080,
+   "link": "https://www.aviasales.com/search/MEX0412BJS1?t=HU17963601001796475300001080MEXTIJPEK_4627ffa752a674f1e99d87ab7db73e3b_61747&search_date=03102026&expected_price_uuid=01a102aa-b4b5-8030-a462-70a7a71a04d7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=rx7DJudiBgmlr2YFLZzj9A&expected_price_source=share&expected_price_currency=mxn&expected_price=13408",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261204-4627ffa7/"
+  },
+  {
+   "id": "09a683c3366ff9fc33a8557bd9ef7c51",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SZX",
+   "destination_name": "Shenzhen",
+   "airline": "3U",
+   "airline_title": "Sichuan Airlines",
+   "logo": "https://pics.avs.io/600/150/3U.png",
+   "logo_tipo": "",
+   "price": 13430.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-01T07:59:00-06:00",
+   "return_at": "",
+   "duration": 2726,
+   "link": "https://www.aviasales.com/search/MEX0112SZX1?t=3U17961119401796325900002726TLCGDLLAXTFUSZX_09a683c3366ff9fc33a8557bd9ef7c51_61846&search_date=03102026&expected_price_uuid=01a102aa-bd80-8030-a5d7-fa51e711d034&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=b-Q5vWMskTZNqSwEy0O8Gw&expected_price_source=share&expected_price_currency=mxn&expected_price=13430",
+   "title": "Flight deals from Mexico City to Shenzhen",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shenzhen-20261201-09a683c3/"
+  },
+  {
    "id": "5a0b841d2ef2bdd117d8a981beaecef0",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2010NQZ1?t=TK17924868001792616100001495MEXISTNQZ_94d68811249a93497c3b8c78ca734c58_123598&search_date=03102026&expected_price_uuid=01a101b6-4d1e-8051-2759-290571a3d73d&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=hp_ZxOqa8r13206yIikCNg&expected_price_source=share&expected_price_currency=mxn&expected_price=26839",
    "title": "Flight deals from Mexico City to Astana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20261020-94d68811/"
-  },
-  {
-   "id": "a8303f0992bced92436b6be91d445909",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TAS",
-   "destination_name": "Taskent",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 33547.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-06T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1380,
-   "link": "https://www.aviasales.com/search/MEX0610TAS1?t=TK17912772001791399600001380MEXISTTAS_a8303f0992bced92436b6be91d445909_154489&search_date=03102026&expected_price_uuid=01a1012d-e0f2-8051-2818-8d3c6d2e3882&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWYw0oAm7COIW71giDn3oA&expected_price_source=share&expected_price_currency=mxn&expected_price=33547",
-   "title": "Flight deals from Mexico City to Tashkent",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261006-a8303f09/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791032712.779306,
- "generated_at_str": "03/10/2026 07:05",
+ "generated_at": 1791036316.0274262,
+ "generated_at_str": "03/10/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -11075,6 +11075,23 @@
    "h_min7": 17499.0
   },
   {
+   "id": "705209",
+   "name": "Smeg Refrigerador 18' Cuatro Puertas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Smeg-Refrigerador-18-Cuatro-Puertas/p/705209",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h50/he5/502211934060574.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 50999.0,
+   "price_new": 41999.0,
+   "pct": 17.6,
+   "amount": 9000.0,
+   "starts": "2026-10-03T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791036316.0274262,
+   "h_dias": 1,
+   "h_min": 41999.0
+  },
+  {
    "id": "682441",
    "name": "Whirlpool Lavadora 24Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-24Kg-Carga-Superior/p/682441",
@@ -13815,6 +13832,23 @@
    "h_min7": 24999.0
   },
   {
+   "id": "705484",
+   "name": "Smeg Combo de Campana 90 cm + Parrilla Eléctrica 5 Zonas de Cocción 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-de-Campana-90-cm-Parrilla-Electrica-5-Zonas-de-Coccion-90cm/p/705484",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h40/hcb/507429121228830.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 25999.0,
+   "pct": 13.3,
+   "amount": 4000.0,
+   "starts": "2026-10-03T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791036316.0274262,
+   "h_dias": 1,
+   "h_min": 25999.0
+  },
+  {
    "id": "684611",
    "name": "Smeg Lavavajillas 60 cm Acero",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Smeg-Lavavajillas-60-cm-Acero/p/684611",
@@ -14098,6 +14132,40 @@
    "h_min7": 24999.0
   },
   {
+   "id": "705488",
+   "name": "Smeg Combo Eléctrico de Campana de 90 cm + Parrilla de 4 Quemadores + Horno de 90 cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-Electrico-de-Campana-de-90-cm-Parrilla-de-4-Quemadores-Horno-de-90-cm/p/705488",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h96/506872201936926.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 62999.0,
+   "price_new": 54999.0,
+   "pct": 12.7,
+   "amount": 8000.0,
+   "starts": "2026-10-03T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791036316.0274262,
+   "h_dias": 1,
+   "h_min": 54999.0
+  },
+  {
+   "id": "705487",
+   "name": "Smeg Combo de Campana de 90cm + Parrilla de Gas de 6 Quemadores + Horno de Gas de 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-de-Campana-de-90cm-Parrilla-de-Gas-de-6-Quemadores-Horno-de-Gas-de-90cm/p/705487",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9a/h21/507429083742238.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 62999.0,
+   "price_new": 54999.0,
+   "pct": 12.7,
+   "amount": 8000.0,
+   "starts": "2026-10-03T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791036316.0274262,
+   "h_dias": 1,
+   "h_min": 54999.0
+  },
+  {
    "id": "703473",
    "name": "Samsung Pantalla 83\" OLED 4K Smart TV",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV/p/703473",
@@ -14286,6 +14354,23 @@
    "h_min": 29999.0,
    "h_ayer": 31499.0,
    "h_min7": 31499.0
+  },
+  {
+   "id": "705211",
+   "name": "Smeg Combo de Campana 90 cm + Parrilla de Gas de 5 Quemadores de 86 cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-de-Campana-90-cm-Parrilla-de-Gas-de-5-Quemadores-de-86-cm/p/705211",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he4/h4f/502218392109086.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 31999.0,
+   "price_new": 27999.0,
+   "pct": 12.5,
+   "amount": 4000.0,
+   "starts": "2026-10-03T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791036316.0274262,
+   "h_dias": 1,
+   "h_min": 27999.0
   },
   {
    "id": "653128",
@@ -14511,6 +14596,23 @@
    "h_dias": 6,
    "h_min": 10499.0,
    "h_ayer": 10499.0
+  },
+  {
+   "id": "705478",
+   "name": "Smeg Combo de Parrilla de 6 Quemadores de Gas + Campana de 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-de-Parrilla-de-6-Quemadores-de-Gas-Campana-de-90cm/p/705478",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hee/h75/507429123194910.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 64999.0,
+   "price_new": 56999.0,
+   "pct": 12.3,
+   "amount": 8000.0,
+   "starts": "2026-10-03T06:00:00.000Z",
+   "ends": "2026-10-05T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791036316.0274262,
+   "h_dias": 1,
+   "h_min": 56999.0
   },
   {
    "id": "702891",

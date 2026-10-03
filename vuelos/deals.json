@@ -1,6 +1,6 @@
 {
- "generated_at": 1791021843.76714,
- "generated_at_str": "03/10/2026 04:04",
+ "generated_at": 1791025443.7512388,
+ "generated_at_str": "03/10/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -170,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
-   "id": "9e1fef9bb8b78bb068e4572d530f9583",
+   "id": "a8303f0992bced92436b6be91d445909",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "destination": "TAS",
+   "destination_name": "Taskent",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
    "logo_tipo": "",
-   "price": 20666.0,
+   "price": 33548.0,
    "currency": "MXN",
-   "departure_at": "2027-06-08T22:05:00-05:00",
+   "departure_at": "2026-10-06T09:00:00-05:00",
    "return_at": "",
-   "duration": 1045,
-   "link": "https://www.aviasales.com/search/MEX0806TYO1?t=AM18124923001812609000001045MEXNRT_9e1fef9bb8b78bb068e4572d530f9583_95167&search_date=03102026&expected_price_uuid=01a1008d-4733-8051-23ce-056b73312a83&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=FVqT1gru24-W7qUQr180bg&expected_price_source=share&expected_price_currency=mxn&expected_price=20666",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270608-9e1fef9b/"
+   "duration": 1380,
+   "link": "https://www.aviasales.com/search/MEX0610TAS1?t=TK17912772001791399600001380MEXISTTAS_a8303f0992bced92436b6be91d445909_154489&search_date=03102026&expected_price_uuid=01a1012d-e0f2-8051-2818-8d3c6d2e3882&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWYw0oAm7COIW71giDn3oA&expected_price_source=share&expected_price_currency=mxn&expected_price=33548",
+   "title": "Flight deals from Mexico City to Tashkent",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261006-a8303f09/"
   }
  ]
 }

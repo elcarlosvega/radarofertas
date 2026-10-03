@@ -1,6 +1,6 @@
 {
- "generated_at": 1791000246.0580213,
- "generated_at_str": "02/10/2026 22:04",
+ "generated_at": 1791003844.1585617,
+ "generated_at_str": "02/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,26 +30,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270110-736622f4/"
   },
   {
-   "id": "e4e9e6f2ee68f5fd63a1259316944960",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Q4",
-   "airline_title": "Euroairlines",
-   "logo": "https://pics.avs.io/600/150/Q4.png",
-   "logo_tipo": "",
-   "price": 1478.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-09T06:50:00-06:00",
-   "return_at": "",
-   "duration": 110,
-   "link": "https://www.aviasales.com/search/MEX0912MID1?t=Q417967990001796805600000110NLUMID_e4e9e6f2ee68f5fd63a1259316944960_6820&search_date=02102026&expected_price_uuid=01a0feb5-1503-8030-67d9-41f23c292309&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=EgaAfaRxxSeEp508qwUf6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1478",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261209-e4e9e6f2/"
-  },
-  {
    "id": "053d004b9f3c4fa623920ac2cc2f482a",
    "kind": "flight",
    "origin": "MEX",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0410SJO1?t=Q617911401001791150960000181MEXSJO_053d004b9f3c4fa623920ac2cc2f482a_13533&search_date=03102026&expected_price_uuid=01a0ffc6-8dde-8050-289e-17b8be77c24e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rmLcpaFBJsz4thiO6PmWUg&expected_price_source=share&expected_price_currency=mxn&expected_price=2939",
    "title": "Flight deals from Mexico City to San Jose",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261004-053d004b/"
+  },
+  {
+   "id": "25e4957176508ad57e2f78b4ca848bf2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3084.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-08T06:00:00-05:00",
+   "return_at": "",
+   "duration": 1065,
+   "link": "https://www.aviasales.com/search/MEX0810BOG1?t=VB17914392001791506700001065NLUMTYBOG_25e4957176508ad57e2f78b4ca848bf2_14199&search_date=02102026&expected_price_uuid=01a0feef-3277-8050-6eed-d142bebdaa81&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q-3oMO67JV-vg6lTTMj5bg&expected_price_source=share&expected_price_currency=mxn&expected_price=3084",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261008-25e49571/"
   },
   {
    "id": "ef02d8ec04d775e4aa538958fff65e6f",
@@ -128,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_37468&search_date=03102026&expected_price_uuid=01a0ff3f-7697-8040-6671-dc6fc3326f25&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8136",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
-  },
-  {
-   "id": "db18fbd96e424e38bace61334d9cf20c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ROM",
-   "destination_name": "Roma",
-   "airline": "IB",
-   "airline_title": "Iberia",
-   "logo": "https://pics.avs.io/600/150/IB.png",
-   "logo_tipo": "",
-   "price": 9130.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-11T20:30:00-06:00",
-   "return_at": "",
-   "duration": 880,
-   "link": "https://www.aviasales.com/search/MEX1102ROM1?t=IB18023778001802455800000880MEXMADFCO_db18fbd96e424e38bace61334d9cf20c_42114&search_date=02102026&expected_price_uuid=01a0fea6-fbd0-8040-a7ef-b0411ef385d0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=4vTMe0QmELKw03AfAMjcDQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9130",
-   "title": "Flight deals from Mexico City to Rome",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-roma-20270211-db18fbd9/"
   },
   {
    "id": "6d1cbdb589a330137ad638349f6ecf30",

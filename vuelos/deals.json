@@ -1,6 +1,6 @@
 {
- "generated_at": 1791047044.1922357,
- "generated_at_str": "03/10/2026 11:04",
+ "generated_at": 1791050643.826495,
+ "generated_at_str": "03/10/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "0fa7f8778da09440a53ce43c9bb9f149",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 949.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-13T06:17:00-06:00",
+   "return_at": "",
+   "duration": 133,
+   "link": "https://www.aviasales.com/search/MEX1302CUN1?t=VB18024994201802511000000133TLCCUN_0fa7f8778da09440a53ce43c9bb9f149_4368&search_date=03102026&expected_price_uuid=01a102be-fc6d-8050-a6bf-36a48d72de31&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wQHOrEQYvjk9bZfHdgS-Ew&expected_price_source=share&expected_price_currency=mxn&expected_price=949",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270213-0fa7f877/"
+  },
   {
    "id": "39e7e7caade3a85b0e4e4c2de2f40132",
    "kind": "flight",
@@ -70,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20261014-888f6b8d/"
   },
   {
-   "id": "b32b2a80c1f3288a54a0bca737f85513",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LON",
-   "destination_name": "Londres",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 6179.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T01:15:00-06:00",
-   "return_at": "",
-   "duration": 1775,
-   "link": "https://www.aviasales.com/search/MEX0112LON1?t=WS17960877001796215800001775MEXYYCLHR_b32b2a80c1f3288a54a0bca737f85513_28457&search_date=03102026&expected_price_uuid=01a1017e-0bc2-8050-a423-a5ef86263c8a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6179",
-   "title": "Flight deals from Mexico City to London",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261201-b32b2a80/"
-  },
-  {
    "id": "0d66034dff16b8bf555e064641d184c4",
    "kind": "flight",
    "origin": "MEX",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20270420-0d66034d/"
   },
   {
+   "id": "1b68507485d84bed2e5e82ccbfda4dfd",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 13150.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-09T18:55:00-06:00",
+   "return_at": "",
+   "duration": 1215,
+   "link": "https://www.aviasales.com/search/MEX0912SEL1?t=AM17968425001796969400001215MEXMTYICN_1b68507485d84bed2e5e82ccbfda4dfd_60560&search_date=03102026&expected_price_uuid=01a102b6-52e3-8030-e5d5-0893429fc14d&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=bBz1UNTcG7sU7etrK7r8IQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13150",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261209-1b685074/"
+  },
+  {
    "id": "4627ffa752a674f1e99d87ab7db73e3b",
    "kind": "flight",
    "origin": "MEX",
@@ -128,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX0412BJS1?t=HU17963601001796475300001080MEXTIJPEK_4627ffa752a674f1e99d87ab7db73e3b_61747&search_date=03102026&expected_price_uuid=01a102aa-b4b5-8030-a462-70a7a71a04d7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=rx7DJudiBgmlr2YFLZzj9A&expected_price_source=share&expected_price_currency=mxn&expected_price=13408",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261204-4627ffa7/"
-  },
-  {
-   "id": "09a683c3366ff9fc33a8557bd9ef7c51",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SZX",
-   "destination_name": "Shenzhen",
-   "airline": "3U",
-   "airline_title": "Sichuan Airlines",
-   "logo": "https://pics.avs.io/600/150/3U.png",
-   "logo_tipo": "",
-   "price": 13430.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T07:59:00-06:00",
-   "return_at": "",
-   "duration": 2726,
-   "link": "https://www.aviasales.com/search/MEX0112SZX1?t=3U17961119401796325900002726TLCGDLLAXTFUSZX_09a683c3366ff9fc33a8557bd9ef7c51_61846&search_date=03102026&expected_price_uuid=01a102aa-bd80-8030-a5d7-fa51e711d034&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=b-Q5vWMskTZNqSwEy0O8Gw&expected_price_source=share&expected_price_currency=mxn&expected_price=13430",
-   "title": "Flight deals from Mexico City to Shenzhen",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shenzhen-20261201-09a683c3/"
   },
   {
    "id": "5a0b841d2ef2bdd117d8a981beaecef0",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791018243.7615585,
- "generated_at_str": "03/10/2026 03:04",
+ "generated_at": 1791021843.76714,
+ "generated_at_str": "03/10/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20261014-0c739388/"
   },
   {
-   "id": "053d004b9f3c4fa623920ac2cc2f482a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJO",
-   "destination_name": "San José",
-   "airline": "Q6",
-   "airline_title": "Volaris Costa Rica",
-   "logo": "https://pics.avs.io/600/150/Q6.png",
-   "logo_tipo": "",
-   "price": 2939.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-04T18:55:00-05:00",
-   "return_at": "",
-   "duration": 181,
-   "link": "https://www.aviasales.com/search/MEX0410SJO1?t=Q617911401001791150960000181MEXSJO_053d004b9f3c4fa623920ac2cc2f482a_13533&search_date=03102026&expected_price_uuid=01a0ffc6-8dde-8050-289e-17b8be77c24e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rmLcpaFBJsz4thiO6PmWUg&expected_price_source=share&expected_price_currency=mxn&expected_price=2939",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261004-053d004b/"
-  },
-  {
    "id": "4d754f9e93cf02ae30c517e21b49b656",
    "kind": "flight",
    "origin": "MEX",
@@ -110,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261019-4d754f9e/"
   },
   {
-   "id": "ef02d8ec04d775e4aa538958fff65e6f",
+   "id": "44c4dadcb6dfab713bbeeb2c2ec631b4",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4108.0,
+   "destination": "LAS",
+   "destination_name": "Las Vegas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3778.0,
    "currency": "MXN",
-   "departure_at": "2026-10-13T23:36:00-05:00",
+   "departure_at": "2026-10-13T06:30:00-05:00",
    "return_at": "",
-   "duration": 874,
-   "link": "https://www.aviasales.com/search/MEX1310MIA1?t=DM17919345601791994200000874NLUPUJMIA_ef02d8ec04d775e4aa538958fff65e6f_18917&search_date=03102026&expected_price_uuid=01a0ffbb-84fe-8030-a081-4d76e02abc3d&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=TteUjvZTSQbcfG2zfPNWWQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4108",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261013-ef02d8ec/"
+   "duration": 516,
+   "link": "https://www.aviasales.com/search/MEX1310LAS1?t=Y417918730001791900360000516NLUGDLLAS_44c4dadcb6dfab713bbeeb2c2ec631b4_17396&search_date=03102026&expected_price_uuid=01a10102-ce40-8030-a6a6-755136c7857f&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=oP4_fmWUJOeFKcDXyUCq3Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3778",
+   "title": "Flight deals from Mexico City to Las Vegas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261013-44c4dadc/"
   },
   {
    "id": "820a73243242360ebbb8159391e2e7f4",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_34207&search_date=03102026&expected_price_uuid=01a100ef-2ff8-8040-a676-8348f0064f89&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7428",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
+  },
+  {
+   "id": "9e1fef9bb8b78bb068e4572d530f9583",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 20666.0,
+   "currency": "MXN",
+   "departure_at": "2027-06-08T22:05:00-05:00",
+   "return_at": "",
+   "duration": 1045,
+   "link": "https://www.aviasales.com/search/MEX0806TYO1?t=AM18124923001812609000001045MEXNRT_9e1fef9bb8b78bb068e4572d530f9583_95167&search_date=03102026&expected_price_uuid=01a1008d-4733-8051-23ce-056b73312a83&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=FVqT1gru24-W7qUQr180bg&expected_price_source=share&expected_price_currency=mxn&expected_price=20666",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270608-9e1fef9b/"
   }
  ]
 }

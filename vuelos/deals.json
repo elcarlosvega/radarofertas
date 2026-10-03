@@ -1,6 +1,6 @@
 {
- "generated_at": 1791007444.123674,
- "generated_at_str": "03/10/2026 00:04",
+ "generated_at": 1791011043.99403,
+ "generated_at_str": "03/10/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cusco-20270201-af2fdb86/"
   },
   {
+   "id": "9ceb609142c8ba89d165da33fcfae7ec",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PAR",
+   "destination_name": "París",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 6279.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-03T01:15:00-06:00",
+   "return_at": "",
+   "duration": 1635,
+   "link": "https://www.aviasales.com/search/MEX0312PAR1?t=WS17962605001796383800001635MEXYYCCDG_9ceb609142c8ba89d165da33fcfae7ec_28917&search_date=03102026&expected_price_uuid=01a10068-e066-8030-e749-025ac22e40f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6279",
+   "title": "Flight deals from Mexico City to Paris",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261203-9ceb6091/"
+  },
+  {
    "id": "b391d20080704d1ebd858e012e92319b",
    "kind": "flight",
    "origin": "MEX",
@@ -148,46 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX1210YTO1?t=AC17917857001791828720000597MEXYULYYZ_b391d20080704d1ebd858e012e92319b_31696&search_date=03102026&expected_price_uuid=01a10036-0242-8050-6c53-1757b711f303&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=BfRuVAb5USDM9ULbybqwJg&expected_price_source=share&expected_price_currency=mxn&expected_price=6883",
    "title": "Flight deals from Mexico City to Toronto",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20261012-b391d200/"
-  },
-  {
-   "id": "ae45761ccf238e119263d1ed0d110f7d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PAR",
-   "destination_name": "París",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 8136.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T01:15:00-06:00",
-   "return_at": "",
-   "duration": 1635,
-   "link": "https://www.aviasales.com/search/MEX0112PAR1?t=WS17960877001796211000001635MEXYYCCDG_ae45761ccf238e119263d1ed0d110f7d_37468&search_date=03102026&expected_price_uuid=01a0ff3f-7697-8040-6671-dc6fc3326f25&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8136",
-   "title": "Flight deals from Mexico City to Paris",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
-  },
-  {
-   "id": "6d1cbdb589a330137ad638349f6ecf30",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 12244.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-18T22:05:00-06:00",
-   "return_at": "",
-   "duration": 1020,
-   "link": "https://www.aviasales.com/search/MEX1811IST1?t=AM17950395001795133100001020MEXMADIST_6d1cbdb589a330137ad638349f6ecf30_56369&search_date=02102026&expected_price_uuid=01a0ff0c-a40b-8040-a1d1-1c97a023889c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jmOEdb3bCPnvAbmmgIdaFA&expected_price_source=share&expected_price_currency=mxn&expected_price=12244",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261118-6d1cbdb5/"
   }
  ]
 }

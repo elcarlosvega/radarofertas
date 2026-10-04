@@ -1,6 +1,6 @@
 {
- "generated_at": 1791075844.0747514,
- "generated_at_str": "03/10/2026 19:04",
+ "generated_at": 1791079443.583517,
+ "generated_at_str": "03/10/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "94c9d4036f6493ea73551a2f5a30cb46",
+   "id": "b93f4a5d4bfbeffc6b2646b66017ec45",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TAP",
-   "destination_name": "Tapachula de Córdova y Ordóñez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1253.0,
+   "destination": "HMO",
+   "destination_name": "Hermosillo",
+   "airline": "XN",
+   "airline_title": "XpressAir",
+   "logo": "https://pics.avs.io/600/150/XN.png",
+   "logo_tipo": "",
+   "price": 2513.0,
    "currency": "MXN",
-   "departure_at": "2026-10-13T10:32:00-05:00",
+   "departure_at": "2026-10-12T08:20:00-05:00",
    "return_at": "",
-   "duration": 290,
-   "link": "https://www.aviasales.com/search/MEX1310TAP1?t=VB17918875201791904920000290NLUMTYTAP_94c9d4036f6493ea73551a2f5a30cb46_5771&search_date=03102026&expected_price_uuid=01a10346-71e2-8040-6097-591a0599ceaf&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zDW14tkqeYKvw4WcA0d9sw&expected_price_source=share&expected_price_currency=mxn&expected_price=1253",
-   "title": "Flight deals from Mexico City to Tapachula",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tapachula-de-cordova-y-ordonez-20261013-94c9d403/"
+   "duration": 145,
+   "link": "https://www.aviasales.com/search/MEX1210HMO1?t=XN17917932001791798300000145NLUHMO_b93f4a5d4bfbeffc6b2646b66017ec45_11572&search_date=03102026&expected_price_uuid=01a10406-9198-8030-ecd6-366b292da76f&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=jS2ciZYp5AfsUp9bxq51tQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2513",
+   "title": "Flight deals from Mexico City to Hermosillo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hermosillo-20261012-b93f4a5d/"
   },
   {
    "id": "767c3c44f258a6f486cc55048a3c57ae",
@@ -88,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX0701LIM1?t=Y417993592001799384100000355MEXLIM_820a73243242360ebbb8159391e2e7f4_20986&search_date=03102026&expected_price_uuid=01a10375-085a-8050-26f6-b2fd26702795&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4557",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270107-820a7324/"
-  },
-  {
-   "id": "288438524c64a47c6b3c29cc562a5516",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "LA",
-   "airline_title": "LATAM Airlines Group",
-   "logo": "https://pics.avs.io/600/150/LA.png",
-   "logo_tipo": "",
-   "price": 5650.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-08T19:50:00-06:00",
-   "return_at": "",
-   "duration": 710,
-   "link": "https://www.aviasales.com/search/MEX0801BUE1?t=LA17994378001799491200000710MEXSCLEZE_288438524c64a47c6b3c29cc562a5516_26021&search_date=03102026&expected_price_uuid=01a10347-78cb-8040-6df5-2aecde238450&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5650",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270108-28843852/"
   },
   {
    "id": "96af262758e5fb8c05d76c251fafced8",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1601BUH1?t=AM18001380001800227700001015MEXCDGOTP_4434293c390ca8f341a22c0a6eeb1dd9_60089&search_date=03102026&expected_price_uuid=01a10414-2d11-8030-6f38-b5082d447b1d&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=qwL_7OmkvPvEywvJXQCkVw&expected_price_source=share&expected_price_currency=mxn&expected_price=13048",
    "title": "Flight deals from Mexico City to Bucharest",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bucarest-20270116-4434293c/"
+  },
+  {
+   "id": "c0671e64292fdf3dc92404766666d23b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 16297.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-15T19:55:00-06:00",
+   "return_at": "",
+   "duration": 1265,
+   "link": "https://www.aviasales.com/search/MEX1502DXB1?t=AF18027213001802833200001265MEXCDGDXB_c0671e64292fdf3dc92404766666d23b_75051&search_date=03102026&expected_price_uuid=01a10410-8c1a-8030-66c7-ec92906f552a&static_fare_key=TY%7CP0%7CH0%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=16297",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270215-c0671e64/"
   }
  ]
 }

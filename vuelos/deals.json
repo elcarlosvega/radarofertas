@@ -1,6 +1,6 @@
 {
- "generated_at": 1791126243.9303532,
- "generated_at_str": "04/10/2026 09:04",
+ "generated_at": 1791129844.1425395,
+ "generated_at_str": "04/10/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-vancouver-20261208-4228e88a/"
   },
   {
-   "id": "1537b42fa34a90e8ffe393e3478042cb",
+   "id": "2bb09634da5c5f2f0781f8eeec482114",
    "kind": "flight",
    "origin": "MTY",
    "origin_name": "Monterrey",
    "destination": "HAV",
    "destination_name": "La Habana",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
    "logo_tipo": "",
-   "price": 3840.0,
+   "price": 4209.0,
    "currency": "MXN",
-   "departure_at": "2027-01-01T07:53:00-06:00",
+   "departure_at": "2027-02-01T01:00:00-06:00",
    "return_at": "",
-   "duration": 367,
-   "link": "https://www.aviasales.com/search/MTY0101HAV1?t=AM17987899801798815600000367MTYMEXHAV_1537b42fa34a90e8ffe393e3478042cb_17615&search_date=04102026&expected_price_uuid=01a10659-274b-8030-641b-91ef72c2ea27&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=c78q4tNELueYPJuMFlDAGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3840",
+   "duration": 616,
+   "link": "https://www.aviasales.com/search/MTY0102HAV1?t=CM18014436001801484160000616MTYPTYHAV_2bb09634da5c5f2f0781f8eeec482114_19309&search_date=04102026&expected_price_uuid=01a1066c-aeff-8030-a78c-9d8f2b25e0e2&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=X105CCi3qbPiUcAJ7qHlbw&expected_price_source=share&expected_price_currency=mxn&expected_price=4209",
    "title": "Flight deals from Monterrey to Havana",
-   "micro": "/oferta/vuelos/vuelo-monterrey-la-habana-20270101-1537b42f/"
+   "micro": "/oferta/vuelos/vuelo-monterrey-la-habana-20270201-2bb09634/"
   },
   {
    "id": "a8367cbe43fe199e79694e5b54885b61",
@@ -168,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0911DPS1?t=3U17942202601794521400004179NLUMTYLAXTFUDPS_466ef7f8118fb0e9d85a6c5ebd5edf48_42071&search_date=04102026&expected_price_uuid=01a10674-2b4e-8040-2931-a69c82b8bc76&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IbdVg1HzbiThFCrjFo9upA&expected_price_source=share&expected_price_currency=mxn&expected_price=9171",
    "title": "Flight deals from Mexico City to Denpasar (Bali)",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261109-466ef7f8/"
+  },
+  {
+   "id": "ac8eadc449c5ed7dbe8c996df649213e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Almaty",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 30987.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-09T09:20:00-06:00",
+   "return_at": "",
+   "duration": 1405,
+   "link": "https://www.aviasales.com/search/MEX0911ALA1?t=TK17942160001794339900001405MEXISTALA_ac8eadc449c5ed7dbe8c996df649213e_142146&search_date=04102026&expected_price_uuid=01a10791-2d5d-8030-2491-dea908882de5&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=ShsttV05fVSpZjClcOu-rw&expected_price_source=share&expected_price_currency=mxn&expected_price=30987",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20261109-ac8eadc4/"
   }
  ]
 }

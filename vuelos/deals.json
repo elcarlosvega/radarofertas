@@ -1,6 +1,6 @@
 {
- "generated_at": 1791086643.5079372,
- "generated_at_str": "03/10/2026 22:04",
+ "generated_at": 1791090243.3103898,
+ "generated_at_str": "03/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0511MIA1?t=VB17939171401793971980000854NLUMTYMIA_767c3c44f258a6f486cc55048a3c57ae_13253&search_date=04102026&expected_price_uuid=01a10455-70b4-8040-a59d-247d33bf282c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=S_zwnQL5scPiiDSDGhGPqA&expected_price_source=share&expected_price_currency=mxn&expected_price=2878",
    "title": "Flight deals from Mexico City to Miami",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261105-767c3c44/"
-  },
-  {
-   "id": "77f4852a0ebbefd2739d2364b9354ce7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "UIO",
-   "destination_name": "Quito",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 4046.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-30T13:35:00-06:00",
-   "return_at": "",
-   "duration": 282,
-   "link": "https://www.aviasales.com/search/MEX3012UIO1?t=AM17986377001798658220000282MEXUIO_77f4852a0ebbefd2739d2364b9354ce7_18634&search_date=03102026&expected_price_uuid=01a103d0-f16a-8030-a414-b4188cd7cb23&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wEcq1XAzM4RqaDnb9Tyt1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=4046",
-   "title": "Flight deals from Mexico City to Quito",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-quito-20261230-77f4852a/"
   },
   {
    "id": "7b693d69b9bbd4952adef0e418eb18eb",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1502DXB1?t=AF18027213001802833200001265MEXCDGDXB_c0671e64292fdf3dc92404766666d23b_75051&search_date=03102026&expected_price_uuid=01a10410-8c1a-8030-66c7-ec92906f552a&static_fare_key=TY%7CP0%7CH0%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=16297",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270215-c0671e64/"
+  },
+  {
+   "id": "36e5df746aa2d70483277fd01b09b995",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SHA",
+   "destination_name": "Shanghái",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 23064.0,
+   "currency": "MXN",
+   "departure_at": "2027-08-01T04:50:00-05:00",
+   "return_at": "",
+   "duration": 1370,
+   "link": "https://www.aviasales.com/search/MEX0108SHA1?t=HU18170958001817228400001370MEXPEKSHA_36e5df746aa2d70483277fd01b09b995_106212&search_date=04102026&expected_price_uuid=01a10537-522c-8030-6f45-d62dfde50ace&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=IfFsPYtEFfpjTJ9DqMsnVA&expected_price_source=share&expected_price_currency=mxn&expected_price=23064",
+   "title": "Flight deals from Mexico City to Shanghai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20270801-36e5df74/"
   }
  ]
 }

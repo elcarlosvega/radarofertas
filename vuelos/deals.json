@@ -1,6 +1,6 @@
 {
- "generated_at": 1791072243.8776655,
- "generated_at_str": "03/10/2026 18:04",
+ "generated_at": 1791075844.0747514,
+ "generated_at_str": "03/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tapachula-de-cordova-y-ordonez-20261013-94c9d403/"
   },
   {
-   "id": "b93f4a5d4bfbeffc6b2646b66017ec45",
+   "id": "767c3c44f258a6f486cc55048a3c57ae",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "HMO",
-   "destination_name": "Hermosillo",
-   "airline": "XN",
-   "airline_title": "XpressAir",
-   "logo": "https://pics.avs.io/600/150/XN.png",
-   "logo_tipo": "",
-   "price": 2513.0,
+   "destination": "MIA",
+   "destination_name": "Miami",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2878.0,
    "currency": "MXN",
-   "departure_at": "2026-10-12T08:20:00-05:00",
+   "departure_at": "2026-11-05T22:19:00-06:00",
    "return_at": "",
-   "duration": 145,
-   "link": "https://www.aviasales.com/search/MEX1210HMO1?t=XN17917932001791798300000145NLUHMO_b93f4a5d4bfbeffc6b2646b66017ec45_11572&search_date=03102026&expected_price_uuid=01a10406-9198-8030-ecd6-366b292da76f&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=jS2ciZYp5AfsUp9bxq51tQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2513",
-   "title": "Flight deals from Mexico City to Hermosillo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hermosillo-20261012-b93f4a5d/"
+   "duration": 854,
+   "link": "https://www.aviasales.com/search/MEX0511MIA1?t=VB17939171401793971980000854NLUMTYMIA_767c3c44f258a6f486cc55048a3c57ae_13253&search_date=04102026&expected_price_uuid=01a10455-70b4-8040-a59d-247d33bf282c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=S_zwnQL5scPiiDSDGhGPqA&expected_price_source=share&expected_price_currency=mxn&expected_price=2878",
+   "title": "Flight deals from Mexico City to Miami",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261105-767c3c44/"
   },
   {
    "id": "77f4852a0ebbefd2739d2364b9354ce7",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270108-28843852/"
   },
   {
+   "id": "96af262758e5fb8c05d76c251fafced8",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DPS",
+   "destination_name": "Denpasar (Bali)",
+   "airline": "3U",
+   "airline_title": "Sichuan Airlines",
+   "logo": "https://pics.avs.io/600/150/3U.png",
+   "logo_tipo": "",
+   "price": 9146.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-09T12:22:00-06:00",
+   "return_at": "",
+   "duration": 4068,
+   "link": "https://www.aviasales.com/search/MEX0911DPS1?t=3U17942269201794521400004068NLUMTYLAXTFUDPS_96af262758e5fb8c05d76c251fafced8_42117&search_date=04102026&expected_price_uuid=01a10456-adbf-8040-aa0d-ac650efaa6cb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=teT8CUwpfqj3VLue0eW-Yg&expected_price_source=share&expected_price_currency=mxn&expected_price=9146",
+   "title": "Flight deals from Mexico City to Denpasar (Bali)",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261109-96af2627/"
+  },
+  {
    "id": "dbcfe276fff43a74c0b8a7d08622a7bb",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX1601BUH1?t=AM18001380001800227700001015MEXCDGOTP_4434293c390ca8f341a22c0a6eeb1dd9_60089&search_date=03102026&expected_price_uuid=01a10414-2d11-8030-6f38-b5082d447b1d&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=qwL_7OmkvPvEywvJXQCkVw&expected_price_source=share&expected_price_currency=mxn&expected_price=13048",
    "title": "Flight deals from Mexico City to Bucharest",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bucarest-20270116-4434293c/"
-  },
-  {
-   "id": "c0671e64292fdf3dc92404766666d23b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
-   "logo_tipo": "",
-   "price": 16297.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-15T19:55:00-06:00",
-   "return_at": "",
-   "duration": 1265,
-   "link": "https://www.aviasales.com/search/MEX1502DXB1?t=AF18027213001802833200001265MEXCDGDXB_c0671e64292fdf3dc92404766666d23b_75051&search_date=03102026&expected_price_uuid=01a10410-8c1a-8030-66c7-ec92906f552a&static_fare_key=TY%7CP0%7CH0%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=16297",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270215-c0671e64/"
   }
  ]
 }

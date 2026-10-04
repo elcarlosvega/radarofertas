@@ -1,6 +1,6 @@
 {
- "generated_at": 1791108243.6816385,
- "generated_at_str": "04/10/2026 04:04",
+ "generated_at": 1791111843.3534985,
+ "generated_at_str": "04/10/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "3488af0a7a5c8ca0b7619cac1201be3e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAT",
-   "destination_name": "San Antonio",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2143.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-14T07:10:00-05:00",
-   "return_at": "",
-   "duration": 125,
-   "link": "https://www.aviasales.com/search/MEX1410SAT1?t=Y417919618001791972900000125MEXSAT_3488af0a7a5c8ca0b7619cac1201be3e_9869&search_date=04102026&expected_price_uuid=01a10541-ae6b-8030-e809-e414c656ef1a&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=goURa9O7SLirGNebZuvGHA&expected_price_source=share&expected_price_currency=mxn&expected_price=2143",
-   "title": "Flight deals from Mexico City to San Antonio",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-antonio-20261014-3488af0a/"
-  },
   {
    "id": "39e7e7caade3a85b0e4e4c2de2f40132",
    "kind": "flight",
@@ -110,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261205-859daef7/"
   },
   {
+   "id": "466ef7f8118fb0e9d85a6c5ebd5edf48",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DPS",
+   "destination_name": "Denpasar (Bali)",
+   "airline": "3U",
+   "airline_title": "Sichuan Airlines",
+   "logo": "https://pics.avs.io/600/150/3U.png",
+   "logo_tipo": "",
+   "price": 9171.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-09T10:31:00-06:00",
+   "return_at": "",
+   "duration": 4179,
+   "link": "https://www.aviasales.com/search/MEX0911DPS1?t=3U17942202601794521400004179NLUMTYLAXTFUDPS_466ef7f8118fb0e9d85a6c5ebd5edf48_42071&search_date=04102026&expected_price_uuid=01a10674-2b4e-8040-2931-a69c82b8bc76&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IbdVg1HzbiThFCrjFo9upA&expected_price_source=share&expected_price_currency=mxn&expected_price=9171",
+   "title": "Flight deals from Mexico City to Denpasar (Bali)",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261109-466ef7f8/"
+  },
+  {
    "id": "4d47639562f36bc4166848ba6d878a58",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX2601IST1?t=AM18009990001801094100001045MEXAMSIST_e4f77e0081a244547b93a7760e4a76a2_97423&search_date=04102026&expected_price_uuid=01a1060e-7fb3-8050-6290-aa6deb6c380f&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Uu5c-SsN88VbYK4w1EvjOw&expected_price_source=share&expected_price_currency=mxn&expected_price=21238",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270126-e4f77e00/"
-  },
-  {
-   "id": "36e5df746aa2d70483277fd01b09b995",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SHA",
-   "destination_name": "Shanghái",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
-   "logo_tipo": "",
-   "price": 23064.0,
-   "currency": "MXN",
-   "departure_at": "2027-08-01T04:50:00-05:00",
-   "return_at": "",
-   "duration": 1370,
-   "link": "https://www.aviasales.com/search/MEX0108SHA1?t=HU18170958001817228400001370MEXPEKSHA_36e5df746aa2d70483277fd01b09b995_106212&search_date=04102026&expected_price_uuid=01a10537-522c-8030-6f45-d62dfde50ace&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH1%7CR1%7CTBC1&itinerary_key=IfFsPYtEFfpjTJ9DqMsnVA&expected_price_source=share&expected_price_currency=mxn&expected_price=23064",
-   "title": "Flight deals from Mexico City to Shanghai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shanghai-20270801-36e5df74/"
   }
  ]
 }

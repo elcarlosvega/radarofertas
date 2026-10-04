@@ -1,6 +1,6 @@
 {
- "generated_at": 1791122644.224185,
- "generated_at_str": "04/10/2026 08:04",
+ "generated_at": 1791126243.9303532,
+ "generated_at_str": "04/10/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0207CUN1?t=Y418145167001814528520000137TLCCUN_5b26df8ac92f978979d0f90ea5329869_5219&search_date=04102026&expected_price_uuid=01a106cf-e932-8050-a586-a57afa4d3931&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=1138",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270702-5b26df8a/"
+  },
+  {
+   "id": "eead3b7a7b986e4634084b0c8626c0f5",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MID",
+   "destination_name": "Mérida",
+   "airline": "Q4",
+   "airline_title": "Euroairlines",
+   "logo": "https://pics.avs.io/600/150/Q4.png",
+   "logo_tipo": "",
+   "price": 1706.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-25T06:50:00-06:00",
+   "return_at": "",
+   "duration": 110,
+   "link": "https://www.aviasales.com/search/MEX2511MID1?t=Q417955894001795596000000110NLUMID_eead3b7a7b986e4634084b0c8626c0f5_7824&search_date=04102026&expected_price_uuid=01a10749-0b5c-8051-2473-3173da7a10e9&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=EgaAfaRxxSeEp508qwUf6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1706",
+   "title": "Flight deals from Mexico City to Merida",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261125-eead3b7a/"
   },
   {
    "id": "4228e88a25f7e9ba9a236db3a0cd9bb1",
@@ -68,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MTY0101HAV1?t=AM17987899801798815600000367MTYMEXHAV_1537b42fa34a90e8ffe393e3478042cb_17615&search_date=04102026&expected_price_uuid=01a10659-274b-8030-641b-91ef72c2ea27&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=c78q4tNELueYPJuMFlDAGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3840",
    "title": "Flight deals from Monterrey to Havana",
    "micro": "/oferta/vuelos/vuelo-monterrey-la-habana-20270101-1537b42f/"
+  },
+  {
+   "id": "a8367cbe43fe199e79694e5b54885b61",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVU",
+   "destination_name": "Provo",
+   "airline": "AA",
+   "airline_title": "American Airlines",
+   "logo": "https://pics.avs.io/600/150/AA.png",
+   "logo_tipo": "",
+   "price": 4900.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-15T05:00:00-05:00",
+   "return_at": "",
+   "duration": 507,
+   "link": "https://www.aviasales.com/search/MEX1510PVU1?t=AA17920404001792070820000507MEXDFWPVU_a8367cbe43fe199e79694e5b54885b61_22476&search_date=04102026&expected_price_uuid=01a10754-7d92-8040-2a7e-a0da9b89ca37&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=R6W046p7e8DG7j5pH9MKgA&expected_price_source=share&expected_price_currency=mxn&expected_price=4900",
+   "title": "Flight deals from Mexico City to Provo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-provo-20261015-a8367cbe/"
   },
   {
    "id": "ca00f5006c7a323bfc82eb20d04ff384",
@@ -128,46 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX0911DPS1?t=3U17942202601794521400004179NLUMTYLAXTFUDPS_466ef7f8118fb0e9d85a6c5ebd5edf48_42071&search_date=04102026&expected_price_uuid=01a10674-2b4e-8040-2931-a69c82b8bc76&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IbdVg1HzbiThFCrjFo9upA&expected_price_source=share&expected_price_currency=mxn&expected_price=9171",
    "title": "Flight deals from Mexico City to Denpasar (Bali)",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261109-466ef7f8/"
-  },
-  {
-   "id": "4d47639562f36bc4166848ba6d878a58",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "TW",
-   "airline_title": "T'way Air",
-   "logo": "https://pics.avs.io/600/150/TW.png",
-   "logo_tipo": "",
-   "price": 9521.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-29T00:25:00-06:00",
-   "return_at": "",
-   "duration": 2285,
-   "link": "https://www.aviasales.com/search/MEX2910SEL1?t=TW17932335001793424600002285MEXYVRICN_4d47639562f36bc4166848ba6d878a58_43844&search_date=04102026&expected_price_uuid=01a10609-6b2c-8050-e0ca-a96b73a330a5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HzqT6ot7D6vTdydGDvSpQg&expected_price_source=share&expected_price_currency=mxn&expected_price=9521",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261029-4d476395/"
-  },
-  {
-   "id": "e4f77e0081a244547b93a7760e4a76a2",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 21238.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-26T21:30:00-06:00",
-   "return_at": "",
-   "duration": 1045,
-   "link": "https://www.aviasales.com/search/MEX2601IST1?t=AM18009990001801094100001045MEXAMSIST_e4f77e0081a244547b93a7760e4a76a2_97423&search_date=04102026&expected_price_uuid=01a1060e-7fb3-8050-6290-aa6deb6c380f&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Uu5c-SsN88VbYK4w1EvjOw&expected_price_source=share&expected_price_currency=mxn&expected_price=21238",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270126-e4f77e00/"
   }
  ]
 }

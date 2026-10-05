@@ -1,6 +1,6 @@
 {
- "generated_at": 1791158644.2696438,
- "generated_at_str": "04/10/2026 18:04",
+ "generated_at": 1791162248.9398136,
+ "generated_at_str": "04/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261222-e4f004f0/"
   },
   {
+   "id": "5957dffc963831615cc6548f69eb524b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SDQ",
+   "destination_name": "Santo Domingo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3407.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-15T23:34:00-06:00",
+   "return_at": "",
+   "duration": 255,
+   "link": "https://www.aviasales.com/search/MEX1501SDQ1?t=DM18000560401800078540000255NLUSDQ_5957dffc963831615cc6548f69eb524b_15658&search_date=05102026&expected_price_uuid=01a10981-4047-8051-2af1-961ceb294df3&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=3407",
+   "title": "Flight deals from Mexico City to Santo Domingo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270115-5957dffc/"
+  },
+  {
    "id": "ae45761ccf238e119263d1ed0d110f7d",
    "kind": "flight",
    "origin": "MEX",
@@ -110,7 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
-   "id": "73bdb2985563eb9ee37a91e5034baa93",
+   "id": "2e08e9b7d1c8a1e93fee5b516e1cb40f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +140,14 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 10052.0,
+   "price": 8498.0,
    "currency": "MXN",
-   "departure_at": "2026-10-25T17:40:00-06:00",
+   "departure_at": "2026-10-25T22:05:00-06:00",
    "return_at": "",
-   "duration": 650,
-   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929500001793014200000650MEXMAD_73bdb2985563eb9ee37a91e5034baa93_46074&search_date=04102026&expected_price_uuid=01a108a5-2157-8040-a04a-00a44d5444b8&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=nne_TS31iTOJsbBrsvCztw&expected_price_source=share&expected_price_currency=mxn&expected_price=10052",
+   "duration": 635,
+   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929659001793029200000635MEXMAD_2e08e9b7d1c8a1e93fee5b516e1cb40f_39036&search_date=05102026&expected_price_uuid=01a10977-8c97-8030-67c5-a7fc69a76ef9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8498",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261025-73bdb298/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261025-2e08e9b7/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

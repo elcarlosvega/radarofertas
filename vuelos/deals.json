@@ -1,6 +1,6 @@
 {
- "generated_at": 1791165843.6891239,
- "generated_at_str": "04/10/2026 20:04",
+ "generated_at": 1791169444.6347904,
+ "generated_at_str": "04/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX1410SAT1?t=Y417919618001791972900000125MEXSAT_3488af0a7a5c8ca0b7619cac1201be3e_9585&search_date=04102026&expected_price_uuid=01a1090b-3efe-8030-eaf2-5c76613fd5e6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=goURa9O7SLirGNebZuvGHA&expected_price_source=share&expected_price_currency=mxn&expected_price=2091",
    "title": "Flight deals from Mexico City to San Antonio",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-antonio-20261014-3488af0a/"
-  },
-  {
-   "id": "4d754f9e93cf02ae30c517e21b49b656",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2868.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-19T19:25:00-05:00",
-   "return_at": "",
-   "duration": 260,
-   "link": "https://www.aviasales.com/search/MEX1910MDE1?t=VB17924379001792457100000260NLUMDE_4d754f9e93cf02ae30c517e21b49b656_13145&search_date=04102026&expected_price_uuid=01a108a6-cbe0-8040-21c4-d7ad8fa2cabc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oHpxtJMH38wE-JPhxHLK9A&expected_price_source=share&expected_price_currency=mxn&expected_price=2868",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261019-4d754f9e/"
   },
   {
    "id": "e4f004f0dcb7fc49d4db01599f42a276",
@@ -130,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261201-ae45761c/"
   },
   {
+   "id": "8908c69392eaf4574648935de8c00c18",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SCL",
+   "destination_name": "Santiago de Chile",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 6540.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-11T09:55:00-06:00",
+   "return_at": "",
+   "duration": 500,
+   "link": "https://www.aviasales.com/search/MEX1101SCL1?t=AM17996613001799702100000500MEXSCL_8908c69392eaf4574648935de8c00c18_30055&search_date=05102026&expected_price_uuid=01a109ce-4148-8040-666d-028951ff6b88&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ORFk7zeErKhiMXOCLgEbtg&expected_price_source=share&expected_price_currency=mxn&expected_price=6540",
+   "title": "Flight deals from Mexico City to Santiago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270111-8908c693/"
+  },
+  {
    "id": "2e08e9b7d1c8a1e93fee5b516e1cb40f",
    "kind": "flight",
    "origin": "MEX",
@@ -140,12 +140,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 8509.0,
+   "price": 8506.0,
    "currency": "MXN",
    "departure_at": "2026-10-25T22:05:00-06:00",
    "return_at": "",
    "duration": 635,
-   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929659001793029200000635MEXMAD_2e08e9b7d1c8a1e93fee5b516e1cb40f_39036&search_date=05102026&expected_price_uuid=01a10977-8c97-8030-67c5-a7fc69a76ef9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8509",
+   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929659001793029200000635MEXMAD_2e08e9b7d1c8a1e93fee5b516e1cb40f_39036&search_date=05102026&expected_price_uuid=01a10977-8c97-8030-67c5-a7fc69a76ef9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8506",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261025-2e08e9b7/"
   },

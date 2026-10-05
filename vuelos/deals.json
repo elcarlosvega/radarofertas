@@ -1,6 +1,6 @@
 {
- "generated_at": 1791162248.9398136,
- "generated_at_str": "04/10/2026 19:04",
+ "generated_at": 1791165843.6891239,
+ "generated_at_str": "04/10/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -100,12 +100,12 @@
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 3407.0,
+   "price": 3411.0,
    "currency": "MXN",
    "departure_at": "2027-01-15T23:34:00-06:00",
    "return_at": "",
    "duration": 255,
-   "link": "https://www.aviasales.com/search/MEX1501SDQ1?t=DM18000560401800078540000255NLUSDQ_5957dffc963831615cc6548f69eb524b_15658&search_date=05102026&expected_price_uuid=01a10981-4047-8051-2af1-961ceb294df3&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=3407",
+   "link": "https://www.aviasales.com/search/MEX1501SDQ1?t=DM18000560401800078540000255NLUSDQ_5957dffc963831615cc6548f69eb524b_15658&search_date=05102026&expected_price_uuid=01a10981-4047-8051-2af1-961ceb294df3&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=3411",
    "title": "Flight deals from Mexico City to Santo Domingo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270115-5957dffc/"
   },
@@ -140,12 +140,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 8498.0,
+   "price": 8509.0,
    "currency": "MXN",
    "departure_at": "2026-10-25T22:05:00-06:00",
    "return_at": "",
    "duration": 635,
-   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929659001793029200000635MEXMAD_2e08e9b7d1c8a1e93fee5b516e1cb40f_39036&search_date=05102026&expected_price_uuid=01a10977-8c97-8030-67c5-a7fc69a76ef9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8498",
+   "link": "https://www.aviasales.com/search/MEX2510MAD1?t=AM17929659001793029200000635MEXMAD_2e08e9b7d1c8a1e93fee5b516e1cb40f_39036&search_date=05102026&expected_price_uuid=01a10977-8c97-8030-67c5-a7fc69a76ef9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8509",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261025-2e08e9b7/"
   },
@@ -168,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_46847&search_date=04102026&expected_price_uuid=01a1093c-f785-8030-2865-3bb68866bd05&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=10221",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
-  },
-  {
-   "id": "d2e3a68903c69cfbaa27ac57189bceeb",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ALA",
-   "destination_name": "Almaty",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 28874.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-14T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1435,
-   "link": "https://www.aviasales.com/search/MEX1410ALA1?t=TK17919684001792094100001435MEXISTALA_d2e3a68903c69cfbaa27ac57189bceeb_132293&search_date=04102026&expected_price_uuid=01a10841-ff42-8030-e1d7-4ff0869c6d07&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=n-gC1cfuEpZIjajmsRTGvQ&expected_price_source=share&expected_price_currency=mxn&expected_price=28874",
-   "title": "Flight deals from Mexico City to Almaty",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20261014-d2e3a689/"
   }
  ]
 }

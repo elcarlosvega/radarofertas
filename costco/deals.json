@@ -1,6 +1,6 @@
 {
- "generated_at": 1791324286.0829768,
- "generated_at_str": "06/10/2026 16:04",
+ "generated_at": 1791327922.461033,
+ "generated_at_str": "06/10/2026 17:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1198,6 +1198,25 @@
    "h_dias": 2,
    "h_min": 1119.3,
    "h_ayer": 1119.3
+  },
+  {
+   "id": "675503",
+   "name": "Orientica Royal Amber 80 ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/Orientica-Royal-Amber-80-ml/p/675503",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5b/h8d/133940784955422.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1599.0,
+   "price_new": 1119.3,
+   "pct": 30.0,
+   "amount": 479.7,
+   "starts": "2026-10-05T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791187536.198832,
+   "h_dias": 23,
+   "h_min": 1119.3,
+   "h_ayer": 1119.3,
+   "h_min7": 1119.3
   },
   {
    "id": "675504",
@@ -12478,6 +12497,24 @@
    "h_min7": 15999.0
   },
   {
+   "id": "656847",
+   "name": "Smeg Horno Eléctrico 60cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Smeg-Horno-Electrico-60cm/p/656847",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7f/h50/365038764621854.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 15999.0,
+   "pct": 20.0,
+   "amount": 4000.0,
+   "starts": "2026-10-05T06:00:00.000Z",
+   "ends": "2026-10-12T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791327922.461033,
+   "h_dias": 54,
+   "h_min": 13999.0,
+   "h_min7": 15999.0
+  },
+  {
    "id": "1987546",
    "name": "Northridge Home, Aurora Falls, Juego de Comedor de 5 Piezas",
    "url": "https://www.costco.com.mx/Muebles/Mesas-y-Escritorios/Mesas-de-Comedor/Northridge-Home-Aurora-Falls-Juego-de-Comedor-de-5-Piezas/p/1987546",
@@ -13481,25 +13518,6 @@
    "h_min7": 16999.0
   },
   {
-   "id": "1862123",
-   "name": "Fresh Industries, Sofá de Tela",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Fresh-Industries-Sofa-de-Tela/p/1862123",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h91/h25/467497134194718.jpg",
-   "category": "Muebles",
-   "price_old": 15999.0,
-   "price_new": 12999.0,
-   "pct": 18.8,
-   "amount": 3000.0,
-   "starts": "2026-10-05T06:00:00.000Z",
-   "ends": "2026-10-12T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1791194729.0859287,
-   "h_dias": 50,
-   "h_min": 11999.0,
-   "h_ayer": 12999.0,
-   "h_min7": 12999.0
-  },
-  {
    "id": "705188",
    "name": "Samsung Lavadora 23Kg Carga Superior",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavadora-23Kg-Carga-Superior/p/705188",
@@ -13515,6 +13533,25 @@
    "first_seen": 1791194729.0859287,
    "h_dias": 11,
    "h_min": 12999.0,
+   "h_ayer": 12999.0,
+   "h_min7": 12999.0
+  },
+  {
+   "id": "1862123",
+   "name": "Fresh Industries, Sofá de Tela",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Fresh-Industries-Sofa-de-Tela/p/1862123",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h91/h25/467497134194718.jpg",
+   "category": "Muebles",
+   "price_old": 15999.0,
+   "price_new": 12999.0,
+   "pct": 18.8,
+   "amount": 3000.0,
+   "starts": "2026-10-05T06:00:00.000Z",
+   "ends": "2026-10-12T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791194729.0859287,
+   "h_dias": 50,
+   "h_min": 11999.0,
    "h_ayer": 12999.0,
    "h_min7": 12999.0
   },
@@ -14920,6 +14957,25 @@
    "h_min": 27999.0,
    "h_ayer": 28999.0,
    "h_min7": 28999.0
+  },
+  {
+   "id": "685720",
+   "name": "Violanti, Sofá Cama De Tres Plazas y Taburete",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama-De-Tres-Plazas-y-Taburete/p/685720",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h89/h60/436931002007582.jpg",
+   "category": "Muebles",
+   "price_old": 18499.0,
+   "price_new": 15499.0,
+   "pct": 16.2,
+   "amount": 3000.0,
+   "starts": "2026-10-05T06:00:00.000Z",
+   "ends": "2026-10-12T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791187536.198832,
+   "h_dias": 53,
+   "h_min": 14999.0,
+   "h_ayer": 15499.0,
+   "h_min7": 15499.0
   },
   {
    "id": "697969",

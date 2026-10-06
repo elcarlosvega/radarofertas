@@ -36,11 +36,11 @@
    "micro_pages": 250
   },
   "ml": {
-   "last_attempt": 1791227111.3746145,
+   "last_attempt": 1791315000.7459867,
    "last_complete_sweep": 1791227111.3746145,
-   "items": 570,
-   "status": "ok",
-   "reason": "",
+   "items": 0,
+   "status": "degraded",
+   "reason": "pagina 1 sin ofertas parseables",
    "host": "pc",
    "micro_pages": 250
   },
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1791314991.3808548
+ "updated_at": 1791315002.1617467
 }

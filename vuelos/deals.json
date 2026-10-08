@@ -1,6 +1,6 @@
 {
- "generated_at": 1791428644.165958,
- "generated_at_str": "07/10/2026 21:04",
+ "generated_at": 1791432244.2854872,
+ "generated_at_str": "07/10/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "9ad0b36629c6d85aa47449c773bbd068",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "OAX",
-   "destination_name": "Oaxaca de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1530.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-23T18:52:00-06:00",
-   "return_at": "",
-   "duration": 69,
-   "link": "https://www.aviasales.com/search/MEX2311OAX1?t=VB17954599201795464060000069NLUOAX_9ad0b36629c6d85aa47449c773bbd068_7276&search_date=07102026&expected_price_uuid=01a11833-7f15-8030-2283-93700bced39d&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=an3ILzfLC167Y5vZMd9wvg&expected_price_source=share&expected_price_currency=mxn&expected_price=1530",
-   "title": "Flight deals from Mexico City to Oaxaca",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261123-9ad0b366/"
-  },
   {
    "id": "3488af0a7a5c8ca0b7619cac1201be3e",
    "kind": "flight",
@@ -40,12 +20,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 1726.0,
+   "price": 1724.0,
    "currency": "MXN",
    "departure_at": "2026-10-14T07:10:00-05:00",
    "return_at": "",
    "duration": 125,
-   "link": "https://www.aviasales.com/search/MEX1410SAT1?t=Y417919618001791972900000125MEXSAT_3488af0a7a5c8ca0b7619cac1201be3e_8209&search_date=08102026&expected_price_uuid=01a1193c-263f-8040-a608-9db52d4a1e0c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=goURa9O7SLirGNebZuvGHA&expected_price_source=share&expected_price_currency=mxn&expected_price=1726",
+   "link": "https://www.aviasales.com/search/MEX1410SAT1?t=Y417919618001791972900000125MEXSAT_3488af0a7a5c8ca0b7619cac1201be3e_8209&search_date=08102026&expected_price_uuid=01a1193c-263f-8040-a608-9db52d4a1e0c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=goURa9O7SLirGNebZuvGHA&expected_price_source=share&expected_price_currency=mxn&expected_price=1724",
    "title": "Flight deals from Mexico City to San Antonio",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-antonio-20261014-3488af0a/"
   },
@@ -90,27 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261017-975a7094/"
   },
   {
-   "id": "39cf13170794999e520cd46093eed630",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SDQ",
-   "destination_name": "Santo Domingo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3481.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-22T23:34:00-06:00",
-   "return_at": "",
-   "duration": 255,
-   "link": "https://www.aviasales.com/search/MEX2202SDQ1?t=DM18033392401803361740000255NLUSDQ_39cf13170794999e520cd46093eed630_16547&search_date=07102026&expected_price_uuid=01a1184c-5607-8050-6450-45c2cd9f53b7&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=3481",
-   "title": "Flight deals from Mexico City to Santo Domingo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270222-39cf1317/"
-  },
-  {
-   "id": "099221e5525acd6c72abf29c2bd17218",
+   "id": "fff64723b93193a9821c9011694f6b6d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +80,14 @@
    "airline_title": "LATAM Airlines Group",
    "logo": "https://pics.avs.io/600/150/LA.png",
    "logo_tipo": "",
-   "price": 6621.0,
+   "price": 6659.0,
    "currency": "MXN",
-   "departure_at": "2027-01-26T19:50:00-06:00",
+   "departure_at": "2027-02-01T19:50:00-06:00",
    "return_at": "",
    "duration": 490,
-   "link": "https://www.aviasales.com/search/MEX2601SCL1?t=LA18009930001801033200000490MEXSCL_099221e5525acd6c72abf29c2bd17218_31478&search_date=07102026&expected_price_uuid=01a1184a-d156-8050-af3e-eb21ee6702b1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1pFcySK97OOku3pC-iBKVA&expected_price_source=share&expected_price_currency=mxn&expected_price=6621",
+   "link": "https://www.aviasales.com/search/MEX0102SCL1?t=LA18015114001801551600000490MEXSCL_fff64723b93193a9821c9011694f6b6d_31659&search_date=07102026&expected_price_uuid=01a1186d-a58c-8030-adfc-77b5d3954398&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=1pFcySK97OOku3pC-iBKVA&expected_price_source=share&expected_price_currency=mxn&expected_price=6659",
    "title": "Flight deals from Mexico City to Santiago",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270126-099221e5/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270201-fff64723/"
   },
   {
    "id": "997f6dbce494ff0efb836bb8c477e81c",
@@ -160,12 +120,12 @@
    "airline_title": "Gulf Air",
    "logo": "https://pics.avs.io/600/150/GF.png",
    "logo_tipo": "",
-   "price": 9677.0,
+   "price": 9664.0,
    "currency": "MXN",
    "departure_at": "2027-01-16T12:22:00-06:00",
    "return_at": "",
    "duration": 2263,
-   "link": "https://www.aviasales.com/search/MEX1601DXB1?t=GF18001021201800273900002263NLUMTYJFKBAHDXB_1f8ba3adccbe0af80e6e825e6339676a_46024&search_date=08102026&expected_price_uuid=01a1190f-a8f4-8040-2161-4f153e0bc146&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=touYYAJtKN1_fVaS3X7o8w&expected_price_source=share&expected_price_currency=mxn&expected_price=9677",
+   "link": "https://www.aviasales.com/search/MEX1601DXB1?t=GF18001021201800273900002263NLUMTYJFKBAHDXB_1f8ba3adccbe0af80e6e825e6339676a_46024&search_date=08102026&expected_price_uuid=01a1190f-a8f4-8040-2161-4f153e0bc146&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=touYYAJtKN1_fVaS3X7o8w&expected_price_source=share&expected_price_currency=mxn&expected_price=9664",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20270116-1f8ba3ad/"
   },
@@ -180,12 +140,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 19649.0,
+   "price": 19622.0,
    "currency": "MXN",
    "departure_at": "2027-01-16T22:20:00-06:00",
    "return_at": "",
    "duration": 1030,
-   "link": "https://www.aviasales.com/search/MEX1601IST1?t=AM18001380001800232200001030MEXCDGIST_a0d91bbf9fde21df75059d5463a0375b_93448&search_date=08102026&expected_price_uuid=01a11910-ad96-8040-ac50-d93ecc4d5425&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=19649",
+   "link": "https://www.aviasales.com/search/MEX1601IST1?t=AM18001380001800232200001030MEXCDGIST_a0d91bbf9fde21df75059d5463a0375b_93448&search_date=08102026&expected_price_uuid=01a11910-ad96-8040-ac50-d93ecc4d5425&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=19622",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270116-a0d91bbf/"
   }

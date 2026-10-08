@@ -1,6 +1,6 @@
 {
- "generated_at": 1791471891.818241,
- "generated_at_str": "08/10/2026 09:04",
+ "generated_at": 1791475511.3529353,
+ "generated_at_str": "08/10/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -717,7 +717,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 58,
    "h_min": 13999.0,
    "h_min7": 13999.0
@@ -2547,7 +2547,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 72,
    "h_min": 14299.0,
    "h_ayer": 20499.0,
@@ -2566,7 +2566,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 67,
    "h_min": 14299.0,
    "h_ayer": 20499.0,
@@ -2585,7 +2585,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 71,
    "h_min": 14299.0,
    "h_ayer": 20499.0,
@@ -2680,7 +2680,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 60,
    "h_min": 6799.0,
    "h_min7": 7279.0
@@ -3281,7 +3281,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 1,
    "h_min": 3299.0
   },
@@ -4713,7 +4713,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 41,
    "h_min": 5799.0,
    "h_min7": 5949.0
@@ -5229,6 +5229,24 @@
    "h_dias": 72,
    "h_min": 5499.0,
    "h_ayer": 5999.0,
+   "h_min7": 5999.0
+  },
+  {
+   "id": "1274071",
+   "name": "Wine Enthusiast Cava de Vinos 36 Botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-36-Botellas/p/1274071",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h14/h9a/380664148099102.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 7999.0,
+   "price_new": 5999.0,
+   "pct": 25.0,
+   "amount": 2000.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 18,
+   "h_min": 4999.0,
    "h_min7": 5999.0
   },
   {
@@ -9162,7 +9180,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 9,
    "h_min": 999.0,
    "h_min7": 1199.0
@@ -9799,6 +9817,25 @@
    "h_min": 996.75,
    "h_ayer": 996.75,
    "h_min7": 996.75
+  },
+  {
+   "id": "523142",
+   "name": "Pilopeptan 904 mg 60 Cápsulas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/Pilopeptan-904-mg-60-Capsulas/p/523142",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he4/hf1/226719015272478.jpg",
+   "category": "Grocery",
+   "price_old": 1319.0,
+   "price_new": 989.25,
+   "pct": 25.0,
+   "amount": 329.75,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 18,
+   "h_min": 989.25,
+   "h_ayer": 989.25,
+   "h_min7": 989.25
   },
   {
    "id": "680733",
@@ -15081,7 +15118,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 43,
    "h_min": 11999.0,
    "h_min7": 11999.0
@@ -15799,7 +15836,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 65,
    "h_min": 10599.0,
    "h_min7": 11299.0
@@ -18444,7 +18481,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 31,
    "h_min": 19499.0,
    "h_ayer": 25499.0,
@@ -20105,7 +20142,7 @@
    "starts": "2026-10-08T06:00:00.000Z",
    "ends": "2026-10-12T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791471891.818241,
+   "first_seen": 1791471901.5302272,
    "h_dias": 8,
    "h_min": 14999.0,
    "h_min7": 14999.0

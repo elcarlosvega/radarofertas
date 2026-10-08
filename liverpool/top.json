@@ -1,8 +1,41 @@
 {
- "generated_at": 1791428642.5996866,
- "generated_at_str": "07/10/2026 21:11",
- "total": 1001,
+ "generated_at": 1791432242.5913408,
+ "generated_at_str": "07/10/2026 22:11",
+ "total": 941,
  "deals": [
+  {
+   "id": "1177719575",
+   "name": "SAMSUNG Monitor gamer standard 4K 27 pulgadas LS27FG900XNXZX",
+   "img": "https://sp628.liverpool.com.mx/i/1177719575.jpg",
+   "category": "Monitores",
+   "price_new": 17999.0,
+   "price_old": 54999.0,
+   "pct": 67.3,
+   "amount": 37000.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-gamer-standard-4k-27-pulgadas-ls27fg900xnxzx/1177719575"
+  },
+  {
+   "id": "999681611510",
+   "name": "VANIGLAM Sala 3 piezas sala aria de poliestireno",
+   "img": "https://sp101.liverpool.com.mx/i/1204112351.jpeg",
+   "category": "Salas",
+   "price_new": 25900.0,
+   "price_old": 66500.0,
+   "pct": 61.1,
+   "amount": 40600.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-sala-aria-de-poliestireno/999681611510"
+  },
+  {
+   "id": "999683486356",
+   "name": "EASY LIVING Sala modular de poliéster",
+   "img": "https://sp101.liverpool.com.mx/i/1204813252.jpg",
+   "category": "Salas",
+   "price_new": 17999.0,
+   "price_old": 47999.0,
+   "pct": 62.5,
+   "amount": 30000.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-de-poli-ster/999683486356"
+  },
   {
    "id": "1169598513",
    "name": "VELOCI Bicicleta infantil rodada 16 para niña",
@@ -37,28 +70,6 @@
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-ruta-rodada-28-unisex/1180808988"
   },
   {
-   "id": "1185609215",
-   "name": "KASHBILL Horno eléctrico H10 puerta francesa 30 L",
-   "img": "https://ss625.liverpool.com.mx/lg/1185609215.jpg",
-   "category": "Freidora De Aire",
-   "price_new": 3299.0,
-   "price_old": 9999.0,
-   "pct": 67.0,
-   "amount": 6700.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-h10-puerta-francesa-30-l/1185609215"
-  },
-  {
-   "id": "1165948790",
-   "name": "SOCHIC Consola Pori de MDF",
-   "img": "https://sp101.liverpool.com.mx/i/1165948790.jpg",
-   "category": "Consolas",
-   "price_new": 8999.0,
-   "price_old": 22499.0,
-   "pct": 60.0,
-   "amount": 13500.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/consola-pori-de-mdf/1165948790"
-  },
-  {
    "id": "1180825947",
    "name": "KIESLECT Smartwatch Actor Leading con GPS",
    "img": "https://sp632.liverpool.com.mx/i/1180825947.jpg",
@@ -68,17 +79,6 @@
    "pct": 68.9,
    "amount": 3100.0,
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-actor-leading-con-gps/1180825947"
-  },
-  {
-   "id": "1185609525",
-   "name": "KASHBILL HORNO ELÉCTRICO H20 KA, 30 L, PLATEADO",
-   "img": "https://sp101.liverpool.com.mx/i/1185609525.jpg",
-   "category": "Freidora De Aire",
-   "price_new": 3499.0,
-   "price_old": 9599.0,
-   "pct": 63.5,
-   "amount": 6100.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-el-ctrico-h20-ka-30-l-plateado/1185609525"
   },
   {
    "id": "1128884706",
@@ -92,6 +92,28 @@
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-navin-plus-vintage-de-mdf/1128884706"
   },
   {
+   "id": "99974340263",
+   "name": "MR FIX Sala modular derecha Thalia de madera pino",
+   "img": "https://sp101.liverpool.com.mx/i/1160936742.jpg",
+   "category": "Salas",
+   "price_new": 17090.0,
+   "price_old": 37980.0,
+   "pct": 55.0,
+   "amount": 20890.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-thalia-de-madera-pino/99974340263"
+  },
+  {
+   "id": "99969788776",
+   "name": "MR FIX Sala modular derecha",
+   "img": "https://sp101.liverpool.com.mx/i/1153929781.jpg",
+   "category": "Salas",
+   "price_new": 17090.0,
+   "price_old": 37980.0,
+   "pct": 55.0,
+   "amount": 20890.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha/99969788776"
+  },
+  {
    "id": "999681574620",
    "name": "X-RUSH Bicicleta de spinning modelo",
    "img": "https://sp101.liverpool.com.mx/i/1203627501.jpg",
@@ -103,37 +125,15 @@
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-spinning-modelo/999681574620"
   },
   {
-   "id": "1188157463",
-   "name": "MASTERCHEF Freidora de aire 12 L Mk-afo-12dt",
-   "img": "https://sp625.liverpool.com.mx/i/1188157463.jpg",
-   "category": "Freidora De Aire",
-   "price_new": 3898.99,
-   "price_old": 10065.0,
-   "pct": 61.3,
-   "amount": 6166.01,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-12-l-mk-afo-12dt/1188157463"
-  },
-  {
-   "id": "1180277460",
-   "name": "KIESLECT Smartwatch Lora Reno 3 con GPS",
-   "img": "https://sp632.liverpool.com.mx/i/1180277460.jpg",
-   "category": "Smartwatch",
-   "price_new": 1299.0,
-   "price_old": 3999.0,
-   "pct": 67.5,
-   "amount": 2700.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-lora-reno-3-con-gps/1180277460"
-  },
-  {
-   "id": "1188342899",
-   "name": "VELOCI Bicicleta de montaña rodada 29 unisex",
-   "img": "https://sp201.liverpool.com.mx/i/1188342899.jpg",
-   "category": "Bicicletas",
-   "price_new": 3999.0,
-   "price_old": 10198.0,
-   "pct": 60.8,
-   "amount": 6199.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29-unisex/1188342899"
+   "id": "99974974561",
+   "name": "MR FIX Sala modular derecha de poliéster",
+   "img": "https://sp101.liverpool.com.mx/i/1161678569.jpg",
+   "category": "Salas",
+   "price_new": 14390.0,
+   "price_old": 31980.0,
+   "pct": 55.0,
+   "amount": 17590.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-de-poli-ster/99974974561"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791504244.1303456,
- "generated_at_str": "08/10/2026 18:04",
+ "generated_at": 1791507845.0780706,
+ "generated_at_str": "08/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,26 +30,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261018-4e2071e1/"
   },
   {
-   "id": "d7bfc794306a38b6fc285f224bfec43b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Q4",
-   "airline_title": "Euroairlines",
-   "logo": "https://pics.avs.io/600/150/Q4.png",
-   "logo_tipo": "",
-   "price": 1498.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-16T06:50:00-06:00",
-   "return_at": "",
-   "duration": 110,
-   "link": "https://www.aviasales.com/search/MEX1611MID1?t=Q417948118001794818400000110NLUMID_d7bfc794306a38b6fc285f224bfec43b_7002&search_date=08102026&expected_price_uuid=01a11cc4-5c80-8031-6315-283c763ea15c&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=EgaAfaRxxSeEp508qwUf6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1498",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261116-d7bfc794/"
-  },
-  {
    "id": "f800bf2bc5b8189c8d1a77935c984c95",
    "kind": "flight",
    "origin": "MEX",
@@ -70,7 +50,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261214-f800bf2b/"
   },
   {
-   "id": "59edce3d8e5710c74b8ee51491758cf0",
+   "id": "cdb6746b789308522f1870c75cb34a80",
    "kind": "flight",
    "origin": "GDL",
    "origin_name": "Guadalajara",
@@ -82,12 +62,12 @@
    "logo_tipo": "",
    "price": 2517.0,
    "currency": "MXN",
-   "departure_at": "2026-10-20T20:50:00-05:00",
+   "departure_at": "2026-10-20T07:59:00-05:00",
    "return_at": "",
    "duration": 196,
-   "link": "https://www.aviasales.com/search/GDL2010LAX1?t=Y417925294001792537560000196GDLLAX_59edce3d8e5710c74b8ee51491758cf0_11768&search_date=08102026&expected_price_uuid=01a11dc8-e852-8040-a6b7-c9242c235374&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ASDn2TT3qLTt3-aF0WQWpw&expected_price_source=share&expected_price_currency=mxn&expected_price=2517",
+   "link": "https://www.aviasales.com/search/GDL2010LAX1?t=Y417924831401792491300000196GDLLAX_cdb6746b789308522f1870c75cb34a80_11767&search_date=09102026&expected_price_uuid=01a11e0e-58a4-8040-a52d-bae2d807d60e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bQRztaMP8SvSAp3FZwF3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2517",
    "title": "Flight deals from Guadalajara to Los Angeles",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261020-59edce3d/"
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261020-cdb6746b/"
   },
   {
    "id": "67bc1f4388b6bb939e5556d4bb01de04",

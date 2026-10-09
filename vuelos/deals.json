@@ -1,6 +1,6 @@
 {
- "generated_at": 1791511445.4544983,
- "generated_at_str": "08/10/2026 20:04",
+ "generated_at": 1791515066.2835324,
+ "generated_at_str": "08/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -60,12 +60,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2518.0,
+   "price": 2516.0,
    "currency": "MXN",
    "departure_at": "2026-10-20T07:59:00-05:00",
    "return_at": "",
    "duration": 196,
-   "link": "https://www.aviasales.com/search/GDL2010LAX1?t=Y417924831401792491300000196GDLLAX_cdb6746b789308522f1870c75cb34a80_11767&search_date=09102026&expected_price_uuid=01a11e0e-58a4-8040-a52d-bae2d807d60e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bQRztaMP8SvSAp3FZwF3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2518",
+   "link": "https://www.aviasales.com/search/GDL2010LAX1?t=Y417924831401792491300000196GDLLAX_cdb6746b789308522f1870c75cb34a80_11767&search_date=09102026&expected_price_uuid=01a11e0e-58a4-8040-a52d-bae2d807d60e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bQRztaMP8SvSAp3FZwF3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2516",
    "title": "Flight deals from Guadalajara to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261020-cdb6746b/"
   },
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261021-67bc1f43/"
   },
   {
-   "id": "19fface87689b72e6f2e11e63aff73bb",
+   "id": "df2a9caec4b09687379a366c9955229d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "MAD",
    "destination_name": "Ciudad de Madrid",
-   "airline": "UX",
-   "airline_title": "Air Europa",
-   "logo": "https://pics.avs.io/600/150/UX.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 8178.0,
+   "price": 8293.0,
    "currency": "MXN",
-   "departure_at": "2026-10-29T16:53:00-06:00",
+   "departure_at": "2026-11-11T11:20:00-06:00",
    "return_at": "",
-   "duration": 812,
-   "link": "https://www.aviasales.com/search/MEX2910MAD1?t=UX17932927801793366700000812NLUCUNMAD_19fface87689b72e6f2e11e63aff73bb_38229&search_date=08102026&expected_price_uuid=01a11d3d-0922-8040-24b6-e52b313c5af1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-pxNAcn21vmSW8zAA9AS7g&expected_price_source=share&expected_price_currency=mxn&expected_price=8178",
+   "duration": 640,
+   "link": "https://www.aviasales.com/search/MEX1111MAD1?t=AM17943960001794459600000640MEXMAD_df2a9caec4b09687379a366c9955229d_38767&search_date=08102026&expected_price_uuid=01a11d78-f912-8040-ac20-fd215a4fd2d2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kIAvI0vgvte4V7uZPMHxCw&expected_price_source=share&expected_price_currency=mxn&expected_price=8293",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261029-19fface8/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261111-df2a9cae/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",
@@ -148,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX2311LON1?t=AM17954724001795532700000645MEXLHR_da546519d1c8a370e02125247a2bcd2f_53242&search_date=08102026&expected_price_uuid=01a11dec-6013-8031-6b0c-a046eaedd6b3&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HSzK4K8yFlMlz38hp-2-9Q&expected_price_source=share&expected_price_currency=mxn&expected_price=11389",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261123-da546519/"
+  },
+  {
+   "id": "ac8eadc449c5ed7dbe8c996df649213e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Almaty",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 27157.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-09T09:20:00-06:00",
+   "return_at": "",
+   "duration": 1405,
+   "link": "https://www.aviasales.com/search/MEX0911ALA1?t=TK17942160001794339900001405MEXISTALA_ac8eadc449c5ed7dbe8c996df649213e_127001&search_date=09102026&expected_price_uuid=01a11e6c-0954-8030-e39e-d79cfd709035&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FPGGXYRPn63L1mARfBL2xQ&expected_price_source=share&expected_price_currency=mxn&expected_price=27157",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20261109-ac8eadc4/"
   }
  ]
 }

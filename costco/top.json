@@ -1,8 +1,41 @@
 {
- "generated_at": 1791554716.3284273,
- "generated_at_str": "09/10/2026 08:05",
- "total": 1088,
+ "generated_at": 1791558305.1251042,
+ "generated_at_str": "09/10/2026 09:05",
+ "total": 1092,
  "deals": [
+  {
+   "id": "1812550",
+   "name": "Simon Li Furniture, Sillón de Piel",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1d/h8d/326559121932318.jpg",
+   "category": "Muebles",
+   "price_new": 6999.0,
+   "price_old": 13999.0,
+   "pct": 50.0,
+   "amount": 7000.0,
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Simon-Li-Furniture-Sillon-de-Piel/p/1812550"
+  },
+  {
+   "id": "1851578",
+   "name": "Disney Escena del Puente de Halloween de Stitch con Luces y Música",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/h05/454720016449566.jpg",
+   "category": "Articulos de Temporada",
+   "price_new": 999.0,
+   "price_old": 2499.0,
+   "pct": 60.0,
+   "amount": 1500.0,
+   "url": "https://www.costco.com.mx/Articulos-de-Temporada/Dia-de-Muertos-y-Halloween/Decoracion-para-Interiores/Disney-Escena-del-Puente-de-Halloween-de-Stitch-con-Luces-y-Musica/p/1851578"
+  },
+  {
+   "id": "1783022",
+   "name": "Simon Li Furniture, Sillón Reclinable de Piel con Sistema Eléctrico",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h4a/385220088725534.jpg",
+   "category": "Muebles",
+   "price_new": 7999.0,
+   "price_old": 14999.0,
+   "pct": 46.7,
+   "amount": 7000.0,
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Simon-Li-Furniture-Sillon-Reclinable-de-Piel-con-Sistema-Electrico/p/1783022"
+  },
   {
    "id": "1851585",
    "name": "Mayordomo Animado 1.8m",
@@ -24,6 +57,17 @@
    "pct": 35.8,
    "amount": 19000.0,
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-100-ULED-MiniLed-4K-Fire-TV-100QD7QFM/p/694502"
+  },
+  {
+   "id": "1851622",
+   "name": "Disney Calabaza LED de Mickey de 1.1m con Espejos Infinitos",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h92/he3/437792126697502.jpg",
+   "category": "Articulos de Temporada",
+   "price_new": 3999.0,
+   "price_old": 6999.0,
+   "pct": 42.9,
+   "amount": 3000.0,
+   "url": "https://www.costco.com.mx/Articulos-de-Temporada/Dia-de-Muertos-y-Halloween/Decoracion-para-Exteriores/Disney-Calabaza-LED-de-Mickey-de-11m-con-Espejos-Infinitos/p/1851622"
   },
   {
    "id": "648185",
@@ -90,50 +134,6 @@
    "pct": 30.4,
    "amount": 21000.0,
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV-QN83S90FAEXZX/p/696517"
-  },
-  {
-   "id": "665578",
-   "name": "Samsung Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hcc/h31/364484856512542.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 23999.0,
-   "price_old": 34999.0,
-   "pct": 31.4,
-   "amount": 11000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/665578"
-  },
-  {
-   "id": "681794",
-   "name": "LG Torre de Lavado Eléctrica 22Kg/22Kg",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h2f/h0d/364485061574686.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 34999.0,
-   "price_old": 49999.0,
-   "pct": 30.0,
-   "amount": 15000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Torre-de-Lavado-Electrica-22Kg22Kg/p/681794"
-  },
-  {
-   "id": "674600",
-   "name": "Whirlpool Refrigerador 25' Side by Side",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h83/153444905582622.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 24899.0,
-   "price_old": 35999.0,
-   "pct": 30.8,
-   "amount": 11100.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/674600"
-  },
-  {
-   "id": "684220",
-   "name": "LG Combo Estufa de Gas 5 quemadores 76 cm y Campana de Pared 90 cm",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd2/h25/364485062688798.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 24999.0,
-   "price_old": 35999.0,
-   "pct": 30.6,
-   "amount": 11000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/LG-Combo-Estufa-de-Gas-5-quemadores-76-cm-y-Campana-de-Pared-90-cm/p/684220"
   }
  ]
 }

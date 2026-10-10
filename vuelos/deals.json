@@ -1,6 +1,6 @@
 {
- "generated_at": 1791633843.6563103,
- "generated_at_str": "10/10/2026 06:04",
+ "generated_at": 1791637443.621234,
+ "generated_at_str": "10/10/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "2a5929795d3b0ca8d988a58314e42ca4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 755.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-12T10:45:00-05:00",
+   "return_at": "",
+   "duration": 84,
+   "link": "https://www.aviasales.com/search/MEX1210PVR1?t=VB17918019001791806940000084TLCPVR_2a5929795d3b0ca8d988a58314e42ca4_3490&search_date=10102026&expected_price_uuid=01a125c1-3de0-8030-2f6b-81002cca9467&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=755",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261012-2a592979/"
+  },
   {
    "id": "e4e9e6f2ee68f5fd63a1259316944960",
    "kind": "flight",
@@ -130,7 +150,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270102-6d48dc8b/"
   },
   {
-   "id": "1bedf0077badf334d5c1c3157c122e1e",
+   "id": "4184c04d87b1b8db6bd5f8e2511cf77f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -140,34 +160,14 @@
    "airline_title": "British Airways",
    "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 10369.0,
+   "price": 16620.0,
    "currency": "MXN",
-   "departure_at": "2027-02-22T21:00:00-06:00",
+   "departure_at": "2026-10-23T22:00:00-05:00",
    "return_at": "",
-   "duration": 1085,
-   "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_47953&search_date=10102026&expected_price_uuid=01a124ab-5b12-8030-eab2-2618e86484f1&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=10369",
+   "duration": 1040,
+   "link": "https://www.aviasales.com/search/MEX2310IST1?t=BA17927928001792887600001040MEXLHRIST_4184c04d87b1b8db6bd5f8e2511cf77f_76864&search_date=10102026&expected_price_uuid=01a125b5-dd22-8031-6876-781023e9a2cd&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=W5m4yt2wZZSAVTOFWKg2MA&expected_price_source=share&expected_price_currency=mxn&expected_price=16620",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
-  },
-  {
-   "id": "48c3c90e80308389316ab2f793d286df",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "AA",
-   "airline_title": "American Airlines",
-   "logo": "https://pics.avs.io/600/150/AA.png",
-   "logo_tipo": "",
-   "price": 14318.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-12T07:00:00-06:00",
-   "return_at": "",
-   "duration": 1225,
-   "link": "https://www.aviasales.com/search/MEX1202TYO1?t=AA18024156001802543100001225MEXDFWHND_48c3c90e80308389316ab2f793d286df_66215&search_date=10102026&expected_price_uuid=01a124df-5425-8040-2315-5fcf79a5c8ba&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=xm-jx7ZYH4CKhd3yOhzuqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14318",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270212-48c3c90e/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261023-4184c04d/"
   },
   {
    "id": "a5a6c903560f2a5dd4d54840b03a9274",

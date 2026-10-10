@@ -1,6 +1,6 @@
 {
- "generated_at": 1791637443.621234,
- "generated_at_str": "10/10/2026 07:04",
+ "generated_at": 1791641044.052968,
+ "generated_at_str": "10/10/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1210PVR1?t=VB17918019001791806940000084TLCPVR_2a5929795d3b0ca8d988a58314e42ca4_3490&search_date=10102026&expected_price_uuid=01a125c1-3de0-8030-2f6b-81002cca9467&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=755",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261012-2a592979/"
-  },
-  {
-   "id": "e4e9e6f2ee68f5fd63a1259316944960",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Q4",
-   "airline_title": "Euroairlines",
-   "logo": "https://pics.avs.io/600/150/Q4.png",
-   "logo_tipo": "",
-   "price": 1522.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-09T06:50:00-06:00",
-   "return_at": "",
-   "duration": 110,
-   "link": "https://www.aviasales.com/search/MEX0912MID1?t=Q417967990001796805600000110NLUMID_e4e9e6f2ee68f5fd63a1259316944960_7040&search_date=10102026&expected_price_uuid=01a124c2-c375-8040-6628-c1b319e2a86a&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=EgaAfaRxxSeEp508qwUf6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1522",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261209-e4e9e6f2/"
   },
   {
    "id": "23d4a0c8166262bf8dcb9fe8eff59b7d",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX0201BUE1?t=CM17988810001798937520000762MEXPTYEZE_6d48dc8be57a4c355aa7a6d4cf7f088b_26923&search_date=10102026&expected_price_uuid=01a12543-3c24-8030-28a4-091ad430ead7&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rZ21DWv5_Ua-5yosSl-0FQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5822",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270102-6d48dc8b/"
+  },
+  {
+   "id": "cb9662ee9cb561551af87c97f5c16ffd",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BER",
+   "destination_name": "Berlín",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 8708.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-16T21:25:00-06:00",
+   "return_at": "",
+   "duration": 795,
+   "link": "https://www.aviasales.com/search/MEX1611BER1?t=AM17948643001794937200000795MEXAMSBER_cb9662ee9cb561551af87c97f5c16ffd_40271&search_date=10102026&expected_price_uuid=01a12605-71d4-8040-64e5-2da919115534&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=-QSK0uDj9dte9nbdh7fuGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8708",
+   "title": "Flight deals from Mexico City to Berlin",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20261116-cb9662ee/"
   },
   {
    "id": "4184c04d87b1b8db6bd5f8e2511cf77f",

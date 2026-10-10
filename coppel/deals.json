@@ -1,6 +1,6 @@
 {
- "generated_at": 1791652464.8319116,
- "generated_at_str": "10/10/2026 11:14",
+ "generated_at": 1791655814.6928258,
+ "generated_at_str": "10/10/2026 12:10",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -7290,7 +7290,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791652464.8319116,
+   "first_seen": 1791652477.9416928,
    "h_dias": 67,
    "h_min": 2849.0,
    "h_ayer": 4299.0,
@@ -30980,25 +30980,6 @@
    "h_min7": 20900.0
   },
   {
-   "id": "72401149",
-   "name": "Aire Acondicionado Midea Portatil   1 Ton  Sólo Frío  127v MAP12C1PAE",
-   "url": "https://www.coppel.com/pdp/aire-acondicionado-midea-portatil-1-ton-solo-frio-127v-map12c1pae-mkp-72401149",
-   "img": "https://cdn5.coppel.com/mkp/72401149-1.jpg",
-   "category": "Aires acond.",
-   "price_old": 8599.0,
-   "price_new": 4999.0,
-   "pct": 41.9,
-   "amount": 3600.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1788441261.3403132,
-   "h_dias": 60,
-   "h_min": 4999.0,
-   "h_ayer": 4999.0,
-   "h_min7": 4999.0
-  },
-  {
    "id": "670634",
    "name": "Refrigerador Aspix Una Puerta 7 Pies Blanco RSDS7PA",
    "url": "https://www.coppel.com/pdp/refrigerador-aspix-una-puerta-7-pies-blanco-rsds7pa-pm-6706343",
@@ -31510,6 +31491,23 @@
    "h_min": 9499.0,
    "h_ayer": 13999.0,
    "h_min7": 12199.0
+  },
+  {
+   "id": "72411514",
+   "name": "Aire Acondicionado Tradicional Solo Frío Mabe 12k Btus 115v",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-tradicional-solo-frio-mabe-12k-btus-115v-mkp-72411514",
+   "img": "https://cdn5.coppel.com/mkp/72411514-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 11990.0,
+   "price_new": 6999.0,
+   "pct": 41.6,
+   "amount": 4991.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6999.0
   },
   {
    "id": "4901068",
@@ -33028,6 +33026,23 @@
    "h_min7": 9799.0
   },
   {
+   "id": "72391326",
+   "name": "Minisplit 1.5 Ton. United Appliances  Solo Frio 220v Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-15-ton-united-appliances-solo-frio-220v-wifi-mkp-72391326",
+   "img": "https://cdn5.coppel.com/mkp/72391326-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 14300.0,
+   "price_new": 8490.0,
+   "pct": 40.6,
+   "amount": 5810.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 8490.0
+  },
+  {
    "id": "749511432",
    "name": "Bocina Edifier M60 color negro",
    "url": "https://www.coppel.com/pdp/bocina-edifier-m60-color-negro-mkp-749511432",
@@ -33370,6 +33385,40 @@
    "h_min7": 6849.0
   },
   {
+   "id": "72391341",
+   "name": "Aire Acondicionado Inverter Zmartech 12k Btus 110v Blanco",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-inverter-zmartech-12k-btus-110v-blanco-mkp-72391341",
+   "img": "https://cdn5.coppel.com/mkp/72391341-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 10899.0,
+   "price_new": 6497.0,
+   "pct": 40.4,
+   "amount": 4402.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6497.0
+  },
+  {
+   "id": "72411519",
+   "name": "Aire Acond Zmartech Inverter 12 Btus Blanco Mini Split",
+   "url": "https://www.coppel.com/pdp/aire-acond-zmartech-inverter-12-btus-blanco-mini-split-mkp-72411519",
+   "img": "https://cdn5.coppel.com/mkp/72411519-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 10899.0,
+   "price_new": 6497.0,
+   "pct": 40.4,
+   "amount": 4402.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6497.0
+  },
+  {
    "id": "747946410",
    "name": "Tablet Honor Pad X7 8.7'' 4gb Ram 128gb Rom Space Gray",
    "url": "https://www.coppel.com/pdp/tablet-honor-pad-x7-87-4gb-ram-128gb-rom-space-gray-mkp-747946410",
@@ -33382,7 +33431,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791652464.8319116,
+   "first_seen": 1791652477.9416928,
    "h_dias": 50,
    "h_min": 2589.0,
    "h_ayer": 2849.0,
@@ -38539,7 +38588,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791652464.8319116,
+   "first_seen": 1791652477.9416928,
    "h_dias": 1,
    "h_min": 1849.0
   },
@@ -42253,6 +42302,23 @@
    "h_min": 8999.0,
    "h_ayer": 10299.0,
    "h_min7": 10299.0
+  },
+  {
+   "id": "72411521",
+   "name": "Aire Acond Zmartech Inverter 18 Btus 220w Blanco Mini Split",
+   "url": "https://www.coppel.com/pdp/aire-acond-zmartech-inverter-18-btus-220w-blanco-mini-split-mkp-72411521",
+   "img": "https://cdn5.coppel.com/mkp/72411521-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 15799.0,
+   "price_new": 10047.0,
+   "pct": 36.4,
+   "amount": 5752.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 10047.0
   },
   {
    "id": "86231110",
@@ -48323,6 +48389,23 @@
    "h_min7": 10899.0
   },
   {
+   "id": "72391322",
+   "name": "Minisplit Inverter 1.5 Ton. United Appliances  220v Solo Frio Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-inverter-15-ton-united-appliances-220v-solo-frio-wifi-mkp-72391322",
+   "img": "https://cdn5.coppel.com/mkp/72391322-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 14300.0,
+   "price_new": 9390.0,
+   "pct": 34.3,
+   "amount": 4910.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 9390.0
+  },
+  {
    "id": "748021810",
    "name": "Motorola Edge 70 Fusion Fifa World Cup 26 256gb 8gb Azul",
    "url": "https://www.coppel.com/pdp/motorola-edge-70-fusion-fifa-world-cup-26-256gb-8gb-azul-mkp-748021810",
@@ -49022,6 +49105,23 @@
    "h_min": 21129.0,
    "h_ayer": 21129.0,
    "h_min7": 21129.0
+  },
+  {
+   "id": "72391309",
+   "name": "Minisplit Inverter Carrier 1 Ton 220v solo frio Puron X32",
+   "url": "https://www.coppel.com/pdp/minisplit-inverter-carrier-1-ton-220v-solo-frio-puron-x32-mkp-72391309",
+   "img": "https://cdn5.coppel.com/mkp/72391309-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 14990.0,
+   "price_new": 9890.0,
+   "pct": 34.0,
+   "amount": 5100.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 9890.0
   },
   {
    "id": "747635257",
@@ -51927,6 +52027,23 @@
    "h_min7": 19999.0
   },
   {
+   "id": "72411421",
+   "name": "Aux Minisplit Aurus Inverter Aru-36a2/inv 220v Wifi Serie L",
+   "url": "https://www.coppel.com/pdp/minisplit-aurus-inverter-aru-36a2/inv-220v-wifi-serie-l-mkp-72411421",
+   "img": "https://cdn5.coppel.com/mkp/72411421-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 29849.0,
+   "price_new": 19899.0,
+   "pct": 33.3,
+   "amount": 9950.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 19899.0
+  },
+  {
    "id": "747715940",
    "name": "Whirlpool Lavadora  Whirlpoo Mod. 8MWTW 2654 26kg Xpert",
    "url": "https://www.coppel.com/pdp/lavadora-whirlpoo-mod-8mwtw-2654-26kg-xpert-mkp-747715940",
@@ -52229,6 +52346,23 @@
    "h_min": 5999.0,
    "h_ayer": 6199.0,
    "h_min7": 6199.0
+  },
+  {
+   "id": "72411478",
+   "name": "Minisplit Classic Whirlpool 1 Tonelada Solo Frío de 110v Bco",
+   "url": "https://www.coppel.com/pdp/minisplit-classic-whirlpool-1-tonelada-solo-frio-de-110v-bco-mkp-72411478",
+   "img": "https://cdn5.coppel.com/mkp/72411478-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 10199.0,
+   "price_new": 6799.0,
+   "pct": 33.3,
+   "amount": 3400.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6799.0
   },
   {
    "id": "748998919",
@@ -53408,6 +53542,23 @@
    "h_min7": 14699.0
   },
   {
+   "id": "72391371",
+   "name": "Aire Acondicionado minisplit Midea Ecosaver-32 Inverter 2 Ton 220v 24000 Btu Frio y Calor",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-minisplit-midea-ecosaver-32-inverter-2-ton-220v-24000-btu-frio-y-calor-mkp-72391371",
+   "img": "https://cdn5.coppel.com/mkp/72391371-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 21099.0,
+   "price_new": 14099.0,
+   "pct": 33.2,
+   "amount": 7000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 14099.0
+  },
+  {
    "id": "747727714",
    "name": "Celular Samsung Galaxy S26+ Liberado 512gb 12gb Ram Blanco",
    "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-s26-liberado-512gb-12gb-ram-blanco-mkp-747727714",
@@ -53501,6 +53652,40 @@
    "h_min": 8999.0,
    "h_ayer": 8999.0,
    "h_min7": 8999.0
+  },
+  {
+   "id": "72391306",
+   "name": "Aire Acondicionado United Appliances Split Frío/calor 12000 Btu 220v",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-united-appliances-split-frio/calor-12000-btu-220v-mkp-72391306",
+   "img": "https://cdn5.coppel.com/mkp/72391306-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 8650.0,
+   "price_new": 5790.0,
+   "pct": 33.1,
+   "amount": 2860.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 5790.0
+  },
+  {
+   "id": "72391351",
+   "name": "Aire Acondicionado Minisplit Midea Care 1 Ton 220v 12000 Btu solo Frio",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-minisplit-midea-care-1-ton-220v-12000-btu-solo-frio-mkp-72391351",
+   "img": "https://cdn5.coppel.com/mkp/72391351-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 8500.0,
+   "price_new": 5690.0,
+   "pct": 33.1,
+   "amount": 2810.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 5690.0
   },
   {
    "id": "73901930",
@@ -53710,6 +53895,40 @@
    "h_min": 6699.0,
    "h_ayer": 6699.0,
    "h_min7": 6699.0
+  },
+  {
+   "id": "72391321",
+   "name": "Minisplit Inverter 1 Ton. 110v United Appliances  Solo Frio Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-inverter-1-ton-110v-united-appliances-solo-frio-wifi-mkp-72391321",
+   "img": "https://cdn5.coppel.com/mkp/72391321-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 9990.0,
+   "price_new": 6690.0,
+   "pct": 33.0,
+   "amount": 3300.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6690.0
+  },
+  {
+   "id": "72391330",
+   "name": "Minisplit 1 Ton. United Appliances  220v Solo Frio Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-1-ton-united-appliances-220v-solo-frio-wifi-mkp-72391330",
+   "img": "https://cdn5.coppel.com/mkp/72391330-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 7900.0,
+   "price_new": 5290.0,
+   "pct": 33.0,
+   "amount": 2610.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 5290.0
   },
   {
    "id": "74626986",
@@ -55208,6 +55427,23 @@
    "h_min": 17299.0,
    "h_ayer": 18999.0,
    "h_min7": 18999.0
+  },
+  {
+   "id": "72411503",
+   "name": "Aire Acondicionado Minisplit Hisense 1 Tonelada 11000 Btu 110v Sólo Frío At121ck",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-minisplit-hisense-1-tonelada-11000-btu-110v-solo-frio-at121ck-mkp-72411503",
+   "img": "https://cdn5.coppel.com/mkp/72411503-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 9697.0,
+   "price_new": 6589.0,
+   "pct": 32.1,
+   "amount": 3108.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6589.0
   },
   {
    "id": "747477353",
@@ -56968,6 +57204,23 @@
    "h_min": 5299.0,
    "h_ayer": 5499.0,
    "h_min7": 5499.0
+  },
+  {
+   "id": "72411484",
+   "name": "Aire Acondicionado United Appliances 12000btu 220v Frio Wifi",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-united-appliances-12000btu-220v-frio-wifi-mkp-72411484",
+   "img": "https://cdn5.coppel.com/mkp/72411484-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 7700.0,
+   "price_new": 5290.0,
+   "pct": 31.3,
+   "amount": 2410.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 5290.0
   },
   {
    "id": "747477354",
@@ -59475,6 +59728,23 @@
    "h_min7": 16399.0
   },
   {
+   "id": "72391327",
+   "name": "Minisplit Inverter 2 Ton. United Appliances  220v Solo Frio Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-inverter-2-ton-united-appliances-220v-solo-frio-wifi-mkp-72391327",
+   "img": "https://cdn5.coppel.com/mkp/72391327-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 18700.0,
+   "price_new": 12990.0,
+   "pct": 30.5,
+   "amount": 5710.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 12990.0
+  },
+  {
    "id": "747746433",
    "name": "Celular Tecno Camon 50 Pro Liberado 256gb Negro",
    "url": "https://www.coppel.com/pdp/celular-tecno-camon-50-pro-liberado-256gb-negro-mkp-747746433",
@@ -59750,7 +60020,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791652464.8319116,
+   "first_seen": 1791652477.9416928,
    "h_dias": 15,
    "h_min": 3199.0,
    "h_ayer": 3399.0,
@@ -62024,6 +62294,23 @@
    "first_seen": 1791623768.0181646,
    "h_dias": 1,
    "h_min": 6999.0
+  },
+  {
+   "id": "72391335",
+   "name": "Minisplit Gree Ultra Advance 1 Ton 220 V Frio y Calor 12000 Btu Blanco",
+   "url": "https://www.coppel.com/pdp/minisplit-gree-ultra-advance-1-ton-220-v-frio-y-calor-12000-btu-blanco-mkp-72391335",
+   "img": "https://cdn5.coppel.com/mkp/72391335-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 9990.0,
+   "price_new": 6990.0,
+   "pct": 30.0,
+   "amount": 3000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6990.0
   },
   {
    "id": "747729302",
@@ -64827,7 +65114,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791652464.8319116,
+   "first_seen": 1791652477.9416928,
    "h_dias": 1,
    "h_min": 699.0
   },
@@ -65394,7 +65681,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791652464.8319116,
+   "first_seen": 1791652477.9416928,
    "h_dias": 1,
    "h_min": 6099.0
   },
@@ -66529,6 +66816,23 @@
    "h_min7": 10999.0
   },
   {
+   "id": "72391318",
+   "name": "United Appliances Minisplit Inverter 1.5 Ton. United Frio/calor 220v Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-inverter-15-ton-united-frio/calor-220v-wifi-mkp-72391318",
+   "img": "https://cdn5.coppel.com/mkp/72391318-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 14900.0,
+   "price_new": 10590.0,
+   "pct": 28.9,
+   "amount": 4310.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 10590.0
+  },
+  {
    "id": "748020448",
    "name": "Celular Infinix Note Edge Liberado 256gb Naranja",
    "url": "https://www.coppel.com/pdp/celular-infinix-note-edge-liberado-256gb-naranja-mkp-748020448",
@@ -66546,6 +66850,23 @@
    "h_min": 6399.0,
    "h_ayer": 6399.0,
    "h_min7": 6399.0
+  },
+  {
+   "id": "72391270",
+   "name": "United Appliances Minisplit United 1 Ton. Frio/calor 110v Wifi  12000 Btu",
+   "url": "https://www.coppel.com/pdp/minisplit-united-1-ton-frio/calor-110v-wifi-12000-btu-mkp-72391270",
+   "img": "https://cdn5.coppel.com/mkp/72391270-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 8990.0,
+   "price_new": 6390.0,
+   "pct": 28.9,
+   "amount": 2600.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 6390.0
   },
   {
    "id": "5811082",
@@ -67699,6 +68020,23 @@
    "h_min7": 8799.0
   },
   {
+   "id": "72391329",
+   "name": "United Appliances Minisplit Inverter 1 Ton. 220v Frio/calor United Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-inverter-1-ton-220v-frio/calor-united-wifi-mkp-72391329",
+   "img": "https://cdn5.coppel.com/mkp/72391329-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 10200.0,
+   "price_new": 7290.0,
+   "pct": 28.5,
+   "amount": 2910.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 7290.0
+  },
+  {
    "id": "226257",
    "name": "Audífonos True Wireless Samsung Galaxy Buds4 Pro con Cancelación de Ruido",
    "url": "https://www.coppel.com/pdp/audifonos-true-wireless-samsung-galaxy-buds4-pro-con-cancelacion-de-ruido-pm-2262573",
@@ -67922,6 +68260,23 @@
    "h_min": 6449.0,
    "h_ayer": 6449.0,
    "h_min7": 6449.0
+  },
+  {
+   "id": "72411483",
+   "name": "Aire Acondicionado United Appliances 12000btu 110v Frio Wifi",
+   "url": "https://www.coppel.com/pdp/aire-acondicionado-united-appliances-12000btu-110v-frio-wifi-mkp-72411483",
+   "img": "https://cdn5.coppel.com/mkp/72411483-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 7800.0,
+   "price_new": 5590.0,
+   "pct": 28.3,
+   "amount": 2210.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 5590.0
   },
   {
    "id": "74621854",
@@ -72536,6 +72891,23 @@
    "h_min": 7339.0,
    "h_ayer": 7339.0,
    "h_min7": 7339.0
+  },
+  {
+   "id": "72391324",
+   "name": "Minisplit 1 Ton. United Appliances  Solo Frio 110v Wifi",
+   "url": "https://www.coppel.com/pdp/minisplit-1-ton-united-appliances-solo-frio-110v-wifi-mkp-72391324",
+   "img": "https://cdn5.coppel.com/mkp/72391324-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 7600.0,
+   "price_new": 5590.0,
+   "pct": 26.4,
+   "amount": 2010.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 5590.0
   },
   {
    "id": "73881305",
@@ -78041,6 +78413,23 @@
    "h_min": 8999.0,
    "h_ayer": 8999.0,
    "h_min7": 8999.0
+  },
+  {
+   "id": "72391282",
+   "name": "Minisplit Aire Acondicionado Mirage X32 Inverter Frío/calor 110v 1 Ton **leer Condiciones** -  **sin Devoluciones**",
+   "url": "https://www.coppel.com/pdp/minisplit-aire-acondicionado-mirage-x32-inverter-frio/calor-110v-1-ton-leer-condiciones-sin-devoluciones-mkp-72391282",
+   "img": "https://cdn5.coppel.com/mkp/72391282-1.jpg",
+   "category": "Aires acond.",
+   "price_old": 11999.0,
+   "price_new": 8999.0,
+   "pct": 25.0,
+   "amount": 3000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791655814.6928258,
+   "h_dias": 1,
+   "h_min": 8999.0
   },
   {
    "id": "671169",

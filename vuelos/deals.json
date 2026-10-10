@@ -1,6 +1,6 @@
 {
- "generated_at": 1791612243.6832592,
- "generated_at_str": "10/10/2026 00:04",
+ "generated_at": 1791615865.3541899,
+ "generated_at_str": "10/10/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,7 +90,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-71e4292f/"
   },
   {
-   "id": "ba187abde7dc723076abf34ca8b3b33a",
+   "id": "cf01d3e00ce540b93ce1f3532104c4db",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -100,14 +100,14 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 11348.0,
+   "price": 19031.0,
    "currency": "MXN",
-   "departure_at": "2026-11-25T21:25:00-06:00",
+   "departure_at": "2026-10-11T22:20:00-05:00",
    "return_at": "",
-   "duration": 2380,
-   "link": "https://www.aviasales.com/search/MEX2511IST1?t=AM17956419001795817100002380MEXAMSBERSAW_ba187abde7dc723076abf34ca8b3b33a_52483&search_date=10102026&expected_price_uuid=01a12411-2569-8030-a92e-c62d589799a4&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=Yu7YT3bsD0MhHN1jztikSg&expected_price_source=share&expected_price_currency=mxn&expected_price=11348",
+   "duration": 960,
+   "link": "https://www.aviasales.com/search/MEX1110IST1?t=AM17917572001791847200000960MEXAMSIST_cf01d3e00ce540b93ce1f3532104c4db_88011&search_date=10102026&expected_price_uuid=01a1248b-a609-8030-6163-38e66af12eca&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_7q5VgEjfRsoCDTzz18yBg&expected_price_source=share&expected_price_currency=mxn&expected_price=19031",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261125-ba187abd/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261011-cf01d3e0/"
   }
  ]
 }

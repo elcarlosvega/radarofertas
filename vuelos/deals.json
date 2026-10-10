@@ -1,6 +1,6 @@
 {
- "generated_at": 1791619444.3659394,
- "generated_at_str": "10/10/2026 02:04",
+ "generated_at": 1791623043.8920398,
+ "generated_at_str": "10/10/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0912MID1?t=Q417967990001796805600000110NLUMID_e4e9e6f2ee68f5fd63a1259316944960_7040&search_date=10102026&expected_price_uuid=01a124c2-c375-8040-6628-c1b319e2a86a&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=EgaAfaRxxSeEp508qwUf6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1522",
    "title": "Flight deals from Mexico City to Merida",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261209-e4e9e6f2/"
+  },
+  {
+   "id": "23d4a0c8166262bf8dcb9fe8eff59b7d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TQO",
+   "destination_name": "Municipio de Tulum",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1669.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-06T13:25:00-06:00",
+   "return_at": "",
+   "duration": 115,
+   "link": "https://www.aviasales.com/search/MEX0612TQO1?t=VB17965635001796574000000115NLUTQO_23d4a0c8166262bf8dcb9fe8eff59b7d_7717&search_date=10102026&expected_price_uuid=01a124e0-10f9-8030-20f7-736ba80f65e3&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1669",
+   "title": "Flight deals from Mexico City to Tulum",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261206-23d4a0c8/"
   },
   {
    "id": "2c61d59d2645a7138568ea9a3e7b7d4c",
@@ -125,7 +145,7 @@
    "departure_at": "2027-02-12T07:00:00-06:00",
    "return_at": "",
    "duration": 1225,
-   "link": "https://www.aviasales.com/search/MEX1202TYO1?t=AA18024156001802543100001225MEXDFWHND_48c3c90e80308389316ab2f793d286df_66215&search_date=10102026&expected_price_uuid=01a124a0-aee5-8040-692d-ad31653960af&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=xm-jx7ZYH4CKhd3yOhzuqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14318",
+   "link": "https://www.aviasales.com/search/MEX1202TYO1?t=AA18024156001802543100001225MEXDFWHND_48c3c90e80308389316ab2f793d286df_66215&search_date=10102026&expected_price_uuid=01a124df-5425-8040-2315-5fcf79a5c8ba&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=xm-jx7ZYH4CKhd3yOhzuqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14318",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270212-48c3c90e/"
   }

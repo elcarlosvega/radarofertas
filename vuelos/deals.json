@@ -1,6 +1,6 @@
 {
- "generated_at": 1791615865.3541899,
- "generated_at_str": "10/10/2026 01:04",
+ "generated_at": 1791619444.3659394,
+ "generated_at_str": "10/10/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "9d23a478a4829e2df9c3454769b1ec08",
+   "id": "e4e9e6f2ee68f5fd63a1259316944960",
    "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "CHI",
-   "destination_name": "Chicago",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MID",
+   "destination_name": "Mérida",
+   "airline": "Q4",
+   "airline_title": "Euroairlines",
+   "logo": "https://pics.avs.io/600/150/Q4.png",
    "logo_tipo": "",
-   "price": 2504.0,
+   "price": 1522.0,
    "currency": "MXN",
-   "departure_at": "2026-10-15T19:49:00-05:00",
+   "departure_at": "2026-12-09T06:50:00-06:00",
    "return_at": "",
-   "duration": 246,
-   "link": "https://www.aviasales.com/search/GDL1510CHI1?t=Y417920937401792112100000246GDLORD_9d23a478a4829e2df9c3454769b1ec08_11582&search_date=10102026&expected_price_uuid=01a1237b-d64b-8040-640d-cb832f81ecfb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hix3GNxYUbaldM3rDstvnA&expected_price_source=share&expected_price_currency=mxn&expected_price=2504",
-   "title": "Flight deals from Guadalajara to Chicago",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261015-9d23a478/"
+   "duration": 110,
+   "link": "https://www.aviasales.com/search/MEX0912MID1?t=Q417967990001796805600000110NLUMID_e4e9e6f2ee68f5fd63a1259316944960_7040&search_date=10102026&expected_price_uuid=01a124c2-c375-8040-6628-c1b319e2a86a&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH1%7CR0%7CTBC1&itinerary_key=EgaAfaRxxSeEp508qwUf6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1522",
+   "title": "Flight deals from Mexico City to Merida",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261209-e4e9e6f2/"
   },
   {
    "id": "2c61d59d2645a7138568ea9a3e7b7d4c",
@@ -70,6 +70,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261109-96af2627/"
   },
   {
+   "id": "1bedf0077badf334d5c1c3157c122e1e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
+   "logo_tipo": "",
+   "price": 10369.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-22T21:00:00-06:00",
+   "return_at": "",
+   "duration": 1085,
+   "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_47953&search_date=10102026&expected_price_uuid=01a124ab-5b12-8030-eab2-2618e86484f1&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=10369",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
+  },
+  {
    "id": "71e4292f66fe02aaab32c7b56df9956f",
    "kind": "flight",
    "origin": "MEX",
@@ -90,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-71e4292f/"
   },
   {
-   "id": "cf01d3e00ce540b93ce1f3532104c4db",
+   "id": "48c3c90e80308389316ab2f793d286df",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "AA",
+   "airline_title": "American Airlines",
+   "logo": "https://pics.avs.io/600/150/AA.png",
    "logo_tipo": "",
-   "price": 19031.0,
+   "price": 14318.0,
    "currency": "MXN",
-   "departure_at": "2026-10-11T22:20:00-05:00",
+   "departure_at": "2027-02-12T07:00:00-06:00",
    "return_at": "",
-   "duration": 960,
-   "link": "https://www.aviasales.com/search/MEX1110IST1?t=AM17917572001791847200000960MEXAMSIST_cf01d3e00ce540b93ce1f3532104c4db_88011&search_date=10102026&expected_price_uuid=01a1248b-a609-8030-6163-38e66af12eca&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_7q5VgEjfRsoCDTzz18yBg&expected_price_source=share&expected_price_currency=mxn&expected_price=19031",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261011-cf01d3e0/"
+   "duration": 1225,
+   "link": "https://www.aviasales.com/search/MEX1202TYO1?t=AA18024156001802543100001225MEXDFWHND_48c3c90e80308389316ab2f793d286df_66215&search_date=10102026&expected_price_uuid=01a124a0-aee5-8040-692d-ad31653960af&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=xm-jx7ZYH4CKhd3yOhzuqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14318",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270212-48c3c90e/"
   }
  ]
 }

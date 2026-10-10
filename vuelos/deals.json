@@ -1,6 +1,6 @@
 {
- "generated_at": 1791597844.8747513,
- "generated_at_str": "09/10/2026 20:04",
+ "generated_at": 1791601444.1564312,
+ "generated_at_str": "09/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261207-d3d8f95d/"
   },
   {
-   "id": "109c1ea56b93d0ceaec2ff6222680339",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 10773.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-30T11:20:00-06:00",
-   "return_at": "",
-   "duration": 640,
-   "link": "https://www.aviasales.com/search/MEX3010MAD1?t=AM17933592001793422800000640MEXMAD_109c1ea56b93d0ceaec2ff6222680339_49789&search_date=09102026&expected_price_uuid=01a12263-7e72-8040-a542-d3229703981e&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=kIAvI0vgvte4V7uZPMHxCw&expected_price_source=share&expected_price_currency=mxn&expected_price=10773",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261030-109c1ea5/"
-  },
-  {
    "id": "bdabc7b0649c46ff8f0a79aed04eea12",
    "kind": "flight",
    "origin": "MEX",
@@ -110,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261109-bdabc7b0/"
   },
   {
-   "id": "ead41ee394cc3a5f97390331f8cf71df",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11360.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-09T21:25:00-06:00",
-   "return_at": "",
-   "duration": 2175,
-   "link": "https://www.aviasales.com/search/MEX0911IST1?t=AM17942595001794422400002175MEXAMSBERSAW_ead41ee394cc3a5f97390331f8cf71df_52499&search_date=09102026&expected_price_uuid=01a12292-f10a-8030-6ad1-27fdda083023&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH1%7CR0%7CTBC1&itinerary_key=Bv8Pa9M943hsmHfhJRU7wQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11360",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261109-ead41ee3/"
-  },
-  {
    "id": "09593fd5909370f0e28b5145bffebfea",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX0911EVN1?t=AM17942595001794492900003290MEXAMSBERBTSEVN_09593fd5909370f0e28b5145bffebfea_57016&search_date=09102026&expected_price_uuid=01a122fe-a4a2-8040-aca5-455d487f5f9d&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=E5HkBB8Zg6C6IHk4np1emw&expected_price_source=share&expected_price_currency=mxn&expected_price=12328",
    "title": "Flight deals from Mexico City to Yerevan",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261109-09593fd5/"
+  },
+  {
+   "id": "fcf3aa54151506d93f645133bddef094",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 20522.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-12T22:15:00-06:00",
+   "return_at": "",
+   "duration": 1035,
+   "link": "https://www.aviasales.com/search/MEX1211IST1?t=AM17945217001794616200001035MEXCDGIST_fcf3aa54151506d93f645133bddef094_94909&search_date=09102026&expected_price_uuid=01a122ec-dbfb-8031-2eae-d1816351bfea&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=0vK_cZTgn7IN5wtzpSUoGA&expected_price_source=share&expected_price_currency=mxn&expected_price=20522",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261112-fcf3aa54/"
   }
  ]
 }

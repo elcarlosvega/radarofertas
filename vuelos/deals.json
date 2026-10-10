@@ -1,6 +1,6 @@
 {
- "generated_at": 1791641044.052968,
- "generated_at_str": "10/10/2026 08:04",
+ "generated_at": 1791644644.4587266,
+ "generated_at_str": "10/10/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX1210PVR1?t=VB17918019001791806940000084TLCPVR_2a5929795d3b0ca8d988a58314e42ca4_3490&search_date=10102026&expected_price_uuid=01a125c1-3de0-8030-2f6b-81002cca9467&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=755",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261012-2a592979/"
-  },
-  {
-   "id": "23d4a0c8166262bf8dcb9fe8eff59b7d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TQO",
-   "destination_name": "Municipio de Tulum",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1669.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-06T13:25:00-06:00",
-   "return_at": "",
-   "duration": 115,
-   "link": "https://www.aviasales.com/search/MEX0612TQO1?t=VB17965635001796574000000115NLUTQO_23d4a0c8166262bf8dcb9fe8eff59b7d_7717&search_date=10102026&expected_price_uuid=01a124e0-10f9-8030-20f7-736ba80f65e3&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1669",
-   "title": "Flight deals from Mexico City to Tulum",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261206-23d4a0c8/"
   },
   {
    "id": "b78fc0a6418939ecf7944c45edbb23a3",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX1611BER1?t=AM17948643001794937200000795MEXAMSBER_cb9662ee9cb561551af87c97f5c16ffd_40271&search_date=10102026&expected_price_uuid=01a12605-71d4-8040-64e5-2da919115534&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=-QSK0uDj9dte9nbdh7fuGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8708",
    "title": "Flight deals from Mexico City to Berlin",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-berlin-20261116-cb9662ee/"
+  },
+  {
+   "id": "28edff877ce0afded930a63183065ffa",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "VIE",
+   "destination_name": "Viena",
+   "airline": "DE",
+   "airline_title": "Condor",
+   "logo": "https://pics.avs.io/600/150/DE.png",
+   "logo_tipo": "",
+   "price": 12370.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-22T16:53:00-05:00",
+   "return_at": "",
+   "duration": 1197,
+   "link": "https://www.aviasales.com/search/MEX2210VIE1?t=DE17926879801792788600001197NLUCUNFRAVIE_28edff877ce0afded930a63183065ffa_57208&search_date=10102026&expected_price_uuid=01a125f7-50cb-8030-22e6-e95f9fe0b003&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=3T6ixrriULa5Jvhbq_j3qw&expected_price_source=share&expected_price_currency=mxn&expected_price=12370",
+   "title": "Flight deals from Mexico City to Vienna",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-viena-20261022-28edff87/"
   },
   {
    "id": "4184c04d87b1b8db6bd5f8e2511cf77f",

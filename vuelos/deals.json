@@ -1,6 +1,6 @@
 {
- "generated_at": 1791590644.2273905,
- "generated_at_str": "09/10/2026 18:04",
+ "generated_at": 1791594244.8248475,
+ "generated_at_str": "09/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "4d14a68e3d730107d181a3fb4194cf3c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJD",
-   "destination_name": "Los Cabos",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 715.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-16T12:09:00-05:00",
-   "return_at": "",
-   "duration": 126,
-   "link": "https://www.aviasales.com/search/MEX1610SJD1?t=Y417921525401792156500000126NLUSJD_4d14a68e3d730107d181a3fb4194cf3c_3303&search_date=09102026&expected_price_uuid=01a121ce-4f1b-8040-a027-1b9da278b49d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=10mG2awsYNL5v8jaaK0Udg&expected_price_source=share&expected_price_currency=mxn&expected_price=715",
-   "title": "Flight deals from Mexico City to San Jose Del Cabo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261016-4d14a68e/"
-  },
   {
    "id": "b2bc8ceded6ae4993253632108000b3e",
    "kind": "flight",
@@ -48,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX2002CUN1?t=VB18031053601803117000000134NLUCUN_b2bc8ceded6ae4993253632108000b3e_6375&search_date=09102026&expected_price_uuid=01a1230c-eae2-8031-677a-44fc5c4448a5&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=og_qsbQuv8bc6oQsPyz9NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1378",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270220-b2bc8ced/"
-  },
-  {
-   "id": "7b188bbeb4a53dfe4e3b1a51d1f6e660",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJO",
-   "destination_name": "San José",
-   "airline": "AS",
-   "airline_title": "Alaska Airlines",
-   "logo": "https://pics.avs.io/600/150/AS.png",
-   "logo_tipo": "",
-   "price": 1952.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-05T09:20:00-06:00",
-   "return_at": "",
-   "duration": 845,
-   "link": "https://www.aviasales.com/search/MEX0502SJO1?t=AS18018192001801869900000845MEXLAXSJO_7b188bbeb4a53dfe4e3b1a51d1f6e660_9021&search_date=09102026&expected_price_uuid=01a121f0-2e7a-8040-a7c5-798e40ed0623&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nzhIl7T1Cy-Q-4TGIlIy-Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1952",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20270205-7b188bbe/"
   },
   {
    "id": "9d23a478a4829e2df9c3454769b1ec08",
@@ -108,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX1910LAX1?t=VB17924253001792502100001340NLUMTYLAX_1614579c4bc76173d6487af2ecb8e4f8_17360&search_date=09102026&expected_price_uuid=01a12216-7350-8031-6902-5effda16d800&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=T160zEo2BYF8Ep5ACMTEwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3757",
    "title": "Flight deals from Mexico City to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261019-1614579c/"
+  },
+  {
+   "id": "d3d8f95d25256013ef974444fc1c3b43",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BKK",
+   "destination_name": "Bangkok",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 10080.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-07T05:30:00-06:00",
+   "return_at": "",
+   "duration": 2380,
+   "link": "https://www.aviasales.com/search/MEX0712BKK1?t=CZ17966214001796811000002380MEXLAXCANBKK_d3d8f95d25256013ef974444fc1c3b43_46619&search_date=09102026&expected_price_uuid=01a122fa-409f-8040-6896-9a1f42a429d1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kZiIZevdulqoR4uSwc3mGQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10080",
+   "title": "Flight deals from Mexico City to Bangkok",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261207-d3d8f95d/"
   },
   {
    "id": "109c1ea56b93d0ceaec2ff6222680339",
@@ -188,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX0911EVN1?t=AM17942595001794492900003290MEXAMSBERBTSEVN_09593fd5909370f0e28b5145bffebfea_57016&search_date=09102026&expected_price_uuid=01a122fe-a4a2-8040-aca5-455d487f5f9d&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=E5HkBB8Zg6C6IHk4np1emw&expected_price_source=share&expected_price_currency=mxn&expected_price=12328",
    "title": "Flight deals from Mexico City to Yerevan",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261109-09593fd5/"
-  },
-  {
-   "id": "77b08564419f323ccbaa5a9f6b10a759",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ALA",
-   "destination_name": "Almaty",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 32009.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-20T09:20:00-06:00",
-   "return_at": "",
-   "duration": 1405,
-   "link": "https://www.aviasales.com/search/MEX2001ALA1?t=TK18004368001800560700001405MEXISTALA_77b08564419f323ccbaa5a9f6b10a759_147927&search_date=09102026&expected_price_uuid=01a121cb-8741-8030-262b-70f7698142a1&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=eBw45waJgiRzGAmBGt8XhQ&expected_price_source=share&expected_price_currency=mxn&expected_price=32009",
-   "title": "Flight deals from Mexico City to Almaty",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20270120-77b08564/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791623043.8920398,
- "generated_at_str": "10/10/2026 03:04",
+ "generated_at": 1791626643.7206738,
+ "generated_at_str": "10/10/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "2a5929795d3b0ca8d988a58314e42ca4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1268.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-12T10:45:00-05:00",
+   "return_at": "",
+   "duration": 84,
+   "link": "https://www.aviasales.com/search/MEX1210PVR1?t=VB17918019001791806940000084TLCPVR_2a5929795d3b0ca8d988a58314e42ca4_5862&search_date=10102026&expected_price_uuid=01a1250b-5250-8031-2126-35d8fb6e2ba4&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=1268",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261012-2a592979/"
+  },
   {
    "id": "e4e9e6f2ee68f5fd63a1259316944960",
    "kind": "flight",
@@ -148,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1202TYO1?t=AA18024156001802543100001225MEXDFWHND_48c3c90e80308389316ab2f793d286df_66215&search_date=10102026&expected_price_uuid=01a124df-5425-8040-2315-5fcf79a5c8ba&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=xm-jx7ZYH4CKhd3yOhzuqQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14318",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270212-48c3c90e/"
+  },
+  {
+   "id": "a5a6c903560f2a5dd4d54840b03a9274",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BKK",
+   "destination_name": "Bangkok",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 21990.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-24T00:40:00-06:00",
+   "return_at": "",
+   "duration": 1715,
+   "link": "https://www.aviasales.com/search/MEX2402BKK1?t=CZ18034296001803579300001715MEXSZXBKK_a5a6c903560f2a5dd4d54840b03a9274_101698&search_date=10102026&expected_price_uuid=01a12516-39ab-8031-2b53-c49ea2dee343&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=21990",
+   "title": "Flight deals from Mexico City to Bangkok",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20270224-a5a6c903/"
   }
  ]
 }

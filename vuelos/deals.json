@@ -1,6 +1,6 @@
 {
- "generated_at": 1791698643.745584,
- "generated_at_str": "11/10/2026 00:04",
+ "generated_at": 1791702244.2063446,
+ "generated_at_str": "11/10/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX2010PVR1?t=Y417924992201792504140000082TLCPVR_8772c460e58d14b29f6de93ad1740b51_4940&search_date=11102026&expected_price_uuid=01a128ff-d82f-8031-6042-3b8e9a33690e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=1068",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261020-8772c460/"
+  },
+  {
+   "id": "358718bed1d19db86cf0861202b7e1ad",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJD",
+   "destination_name": "Los Cabos",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1602.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-17T14:59:00-05:00",
+   "return_at": "",
+   "duration": 120,
+   "link": "https://www.aviasales.com/search/MEX1710SJD1?t=Y417922491401792252740000120TLCSJD_358718bed1d19db86cf0861202b7e1ad_7409&search_date=11102026&expected_price_uuid=01a129a1-8b25-8030-a2d6-68f69070fca1&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=NDwa-I5o45x6z7H5yqu5eQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1602",
+   "title": "Flight deals from Mexico City to San Jose Del Cabo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261017-358718be/"
   },
   {
    "id": "c9f1f113875a070e879abeb759cbcad2",
@@ -188,26 +208,6 @@
    "link": "https://www.aviasales.com/search/MEX2010IST1?t=BA17925045001792620600001395MEXMIAMADSAW_961ddc6681e9d347ef6d34182723ec2f_63125&search_date=11102026&expected_price_uuid=01a1295f-0477-8040-a55a-e8c68d74e8b3&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=MBLtWA4avJtewjZDwM77RQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13650",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261020-961ddc66/"
-  },
-  {
-   "id": "d29f5cff7a9234d8ee754b385cd7ec4c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 20721.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-30T21:45:00-06:00",
-   "return_at": "",
-   "duration": 1065,
-   "link": "https://www.aviasales.com/search/MEX3011TYO1?t=AM17960751001796193000001065MEXNRT_d29f5cff7a9234d8ee754b385cd7ec4c_95829&search_date=11102026&expected_price_uuid=01a12876-021c-8040-abac-27a1dfc50b93&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Gn9gwIFHaNltnylTu5aW8w&expected_price_source=share&expected_price_currency=mxn&expected_price=20721",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261130-d29f5cff/"
   }
  ]
 }

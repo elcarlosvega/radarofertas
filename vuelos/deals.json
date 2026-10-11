@@ -1,6 +1,6 @@
 {
- "generated_at": 1791745444.0705907,
- "generated_at_str": "11/10/2026 13:04",
+ "generated_at": 1791749044.0701697,
+ "generated_at_str": "11/10/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX2401CUN1?t=Y418007791001800790920000137TLCCUN_3bc703b3572a720c7a7e0498fce75810_3542&search_date=11102026&expected_price_uuid=01a12b74-d7e9-8031-25f6-ba717d2c6744&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=758",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270124-3bc703b3/"
-  },
-  {
-   "id": "5a0c5f53a6c52214d6b867b4740b6458",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "OAX",
-   "destination_name": "Oaxaca de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1018.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-25T18:52:00-06:00",
-   "return_at": "",
-   "duration": 69,
-   "link": "https://www.aviasales.com/search/MEX2511OAX1?t=VB17956327201795636860000069NLUOAX_5a0c5f53a6c52214d6b867b4740b6458_4757&search_date=11102026&expected_price_uuid=01a12b13-fe8b-8030-e1b4-1791a9fab9e6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=an3ILzfLC167Y5vZMd9wvg&expected_price_source=share&expected_price_currency=mxn&expected_price=1018",
-   "title": "Flight deals from Mexico City to Oaxaca",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261125-5a0c5f53/"
   },
   {
    "id": "8ee3f31efa357280ec779177e7f41b9b",
@@ -90,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261026-a51cf70b/"
   },
   {
-   "id": "f77b9de43c4a4b6d009cea14726daab8",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DFW",
-   "destination_name": "Dallas",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3413.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-15T07:00:00-05:00",
-   "return_at": "",
-   "duration": 166,
-   "link": "https://www.aviasales.com/search/MEX1510DFW1?t=Y417920476001792061160000166MEXDFW_f77b9de43c4a4b6d009cea14726daab8_15948&search_date=11102026&expected_price_uuid=01a12b2f-f4db-8040-adf4-34288432634c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BESz7v6PLswUJ10kt9eq6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3413",
-   "title": "Flight deals from Mexico City to Dallas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20261015-f77b9de4/"
-  },
-  {
    "id": "74cddbc42e1a7b4496381099334ac331",
    "kind": "flight",
    "origin": "MEX",
@@ -128,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX0901BUE1?t=LA17995242001799577600000710MEXSCLEZE_74cddbc42e1a7b4496381099334ac331_26177&search_date=11102026&expected_price_uuid=01a12c31-99be-8030-607c-a23c63114a48&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5603",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270109-74cddbc4/"
+  },
+  {
+   "id": "b83ffdf468f00e5ab3e3ee8e3629c528",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 10890.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-22T01:15:00-05:00",
+   "return_at": "",
+   "duration": 1670,
+   "link": "https://www.aviasales.com/search/MEX2210LON1?t=WS17926317001792757100001670MEXYYCLHR_b83ffdf468f00e5ab3e3ee8e3629c528_50875&search_date=11102026&expected_price_uuid=01a12c2f-c541-8040-a9dc-784eb6b10a0a&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=br09M5vHoYb7kIwQDrGIHw&expected_price_source=share&expected_price_currency=mxn&expected_price=10890",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261022-b83ffdf4/"
   },
   {
    "id": "940a547b21d10985a33a8ea58080a548",
@@ -170,7 +150,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-montevideo-20270109-5799da3a/"
   },
   {
-   "id": "c1979935b1c97e836218331a4e4aad8e",
+   "id": "2693ca426df5d29a381ff0cd6887a4f7",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -180,14 +160,14 @@
    "airline_title": "Air France",
    "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 16196.0,
+   "price": 15620.0,
    "currency": "MXN",
-   "departure_at": "2026-12-06T23:05:00-06:00",
+   "departure_at": "2026-12-07T19:55:00-06:00",
    "return_at": "",
-   "duration": 1165,
-   "link": "https://www.aviasales.com/search/MEX0612DXB1?t=AF17965983001796704200001165MEXCDGDXB_c1979935b1c97e836218331a4e4aad8e_75683&search_date=11102026&expected_price_uuid=01a12b37-eae3-8030-6c2c-99e312666fd3&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=16196",
+   "duration": 1265,
+   "link": "https://www.aviasales.com/search/MEX0712DXB1?t=AF17966733001796785200001265MEXCDGDXB_2693ca426df5d29a381ff0cd6887a4f7_72990&search_date=11102026&expected_price_uuid=01a12b43-09d3-8030-68ec-c31cae821e72&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=15620",
    "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261206-c1979935/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261207-2693ca42/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791738244.3334098,
- "generated_at_str": "11/10/2026 11:04",
+ "generated_at": 1791741844.096573,
+ "generated_at_str": "11/10/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tuxtla-gutierrez-20270122-8ee3f31e/"
   },
   {
-   "id": "d2e5f18cfbb2fc0de7046413056f213a",
+   "id": "a51cf70bc0c7d0b037cd2e94e54450c1",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "SJO",
    "destination_name": "San José",
-   "airline": "Q6",
-   "airline_title": "Volaris Costa Rica",
-   "logo": "https://pics.avs.io/600/150/Q6.png",
-   "logo_tipo": "",
-   "price": 2400.0,
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2412.0,
    "currency": "MXN",
-   "departure_at": "2027-03-10T18:55:00-06:00",
+   "departure_at": "2026-10-26T06:00:00-06:00",
    "return_at": "",
-   "duration": 177,
-   "link": "https://www.aviasales.com/search/MEX1003SJO1?t=Q618047049001804715520000177MEXSJO_d2e5f18cfbb2fc0de7046413056f213a_11214&search_date=11102026&expected_price_uuid=01a12ac4-fa56-8031-632f-ee429ce0d1c1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HRC-ZrkGYUw0tkoF3RBazw&expected_price_source=share&expected_price_currency=mxn&expected_price=2400",
+   "duration": 375,
+   "link": "https://www.aviasales.com/search/MEX2610SJO1?t=VB17929944001793016900000375NLUMTYSJO_a51cf70bc0c7d0b037cd2e94e54450c1_11267&search_date=11102026&expected_price_uuid=01a12bfd-83ec-8030-6d7f-31df362198af&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9Tcxfcd5Rf-U1OapjNK3LA&expected_price_source=share&expected_price_currency=mxn&expected_price=2412",
    "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20270310-d2e5f18c/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261026-a51cf70b/"
   },
   {
    "id": "1fd1fe710e66ca1dde23a5b6ee9f197f",
@@ -170,7 +170,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270414-940a547b/"
   },
   {
-   "id": "409a3648041e04f9c275f9dbbc7b6574",
+   "id": "c1979935b1c97e836218331a4e4aad8e",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -180,14 +180,14 @@
    "airline_title": "Air France",
    "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 15620.0,
+   "price": 16196.0,
    "currency": "MXN",
-   "departure_at": "2026-12-02T23:05:00-06:00",
+   "departure_at": "2026-12-06T23:05:00-06:00",
    "return_at": "",
    "duration": 1165,
-   "link": "https://www.aviasales.com/search/MEX0212DXB1?t=AF17962527001796358600001165MEXCDGDXB_409a3648041e04f9c275f9dbbc7b6574_72990&search_date=11102026&expected_price_uuid=01a12aa3-d4c2-8031-2a6c-d84417969084&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=15620",
+   "link": "https://www.aviasales.com/search/MEX0612DXB1?t=AF17965983001796704200001165MEXCDGDXB_c1979935b1c97e836218331a4e4aad8e_75683&search_date=11102026&expected_price_uuid=01a12b37-eae3-8030-6c2c-99e312666fd3&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=16196",
    "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261202-409a3648/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261206-c1979935/"
   }
  ]
 }

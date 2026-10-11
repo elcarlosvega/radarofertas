@@ -1,6 +1,6 @@
 {
- "generated_at": 1791734644.2546155,
- "generated_at_str": "11/10/2026 10:04",
+ "generated_at": 1791738244.3334098,
+ "generated_at_str": "11/10/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20270310-d2e5f18c/"
   },
   {
-   "id": "8bc91bb4e694cf9c76f9aea06ce9384d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2652.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-22T20:53:00-05:00",
-   "return_at": "",
-   "duration": 1667,
-   "link": "https://www.aviasales.com/search/MEX2210BOG1?t=VB17927023801792806000001667NLUGDLBOG_8bc91bb4e694cf9c76f9aea06ce9384d_12392&search_date=11102026&expected_price_uuid=01a12a72-545d-8030-e0a9-04066a248f39&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RwHwy_A5j8ykoL9vBleUPw&expected_price_source=share&expected_price_currency=mxn&expected_price=2652",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261022-8bc91bb4/"
-  },
-  {
    "id": "1fd1fe710e66ca1dde23a5b6ee9f197f",
    "kind": "flight",
    "origin": "MEX",
@@ -128,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX1710NYC1?t=VB17922495001792282800000435TLCMTYJFK_1fd1fe710e66ca1dde23a5b6ee9f197f_13173&search_date=11102026&expected_price_uuid=01a12ad5-1f69-8030-632f-1304fd7b0e26&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1M7XxMEGjWjbcf0cU_b1rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2819",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261017-1fd1fe71/"
+  },
+  {
+   "id": "f77b9de43c4a4b6d009cea14726daab8",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DFW",
+   "destination_name": "Dallas",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3413.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-15T07:00:00-05:00",
+   "return_at": "",
+   "duration": 166,
+   "link": "https://www.aviasales.com/search/MEX1510DFW1?t=Y417920476001792061160000166MEXDFW_f77b9de43c4a4b6d009cea14726daab8_15948&search_date=11102026&expected_price_uuid=01a12b2f-f4db-8040-adf4-34288432634c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BESz7v6PLswUJ10kt9eq6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3413",
+   "title": "Flight deals from Mexico City to Dallas",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20261015-f77b9de4/"
   },
   {
    "id": "9325af75cda80f770412f84b0d659627",

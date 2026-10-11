@@ -1,6 +1,6 @@
 {
- "generated_at": 1791727444.6132503,
- "generated_at_str": "11/10/2026 08:04",
+ "generated_at": 1791731043.4592621,
+ "generated_at_str": "11/10/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "3bc703b3572a720c7a7e0498fce75810",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 766.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-24T08:25:00-06:00",
+   "return_at": "",
+   "duration": 137,
+   "link": "https://www.aviasales.com/search/MEX2401CUN1?t=Y418007791001800790920000137TLCCUN_3bc703b3572a720c7a7e0498fce75810_3542&search_date=11102026&expected_price_uuid=01a12b74-d7e9-8031-25f6-ba717d2c6744&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=766",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270124-3bc703b3/"
+  },
   {
    "id": "5a0c5f53a6c52214d6b867b4740b6458",
    "kind": "flight",
@@ -30,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261125-5a0c5f53/"
   },
   {
-   "id": "8503fda6f53f2cf669f6c29907b6e0dd",
+   "id": "8ee3f31efa357280ec779177e7f41b9b",
    "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SJD",
-   "destination_name": "Los Cabos",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TGZ",
+   "destination_name": "Tuxtla Gutiérrez",
    "airline": "VB",
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1782.0,
+   "price": 1453.0,
    "currency": "MXN",
-   "departure_at": "2027-02-15T15:24:00-06:00",
+   "departure_at": "2027-01-22T11:44:00-06:00",
    "return_at": "",
-   "duration": 96,
-   "link": "https://www.aviasales.com/search/GDL1502SJD1?t=VB18027050401802707200000096GDLSJD_8503fda6f53f2cf669f6c29907b6e0dd_8239&search_date=11102026&expected_price_uuid=01a12a20-3c3a-8031-648e-aa645cd62bb7&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=iTMVd3Xg8HXjtFsazDKiyw&expected_price_source=share&expected_price_currency=mxn&expected_price=1782",
-   "title": "Flight deals from Guadalajara to San Jose Del Cabo",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-los-cabos-20270215-8503fda6/"
+   "duration": 90,
+   "link": "https://www.aviasales.com/search/MEX2201TGZ1?t=VB18006182401800623640000090NLUTGZ_8ee3f31efa357280ec779177e7f41b9b_6720&search_date=11102026&expected_price_uuid=01a12b45-9e3e-8031-2ecd-fd7c59fbcf29&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=8q4dk7NAYIAFOYAGM1MeJg&expected_price_source=share&expected_price_currency=mxn&expected_price=1453",
+   "title": "Flight deals from Mexico City to Tuxtla Gutierrez",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tuxtla-gutierrez-20270122-8ee3f31e/"
   },
   {
    "id": "d2e5f18cfbb2fc0de7046413056f213a",
@@ -110,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261017-1fd1fe71/"
   },
   {
-   "id": "f77b9de43c4a4b6d009cea14726daab8",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DFW",
-   "destination_name": "Dallas",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3448.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-15T07:00:00-05:00",
-   "return_at": "",
-   "duration": 166,
-   "link": "https://www.aviasales.com/search/MEX1510DFW1?t=Y417920476001792061160000166MEXDFW_f77b9de43c4a4b6d009cea14726daab8_15948&search_date=11102026&expected_price_uuid=01a12b2f-f4db-8040-adf4-34288432634c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BESz7v6PLswUJ10kt9eq6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3448",
-   "title": "Flight deals from Mexico City to Dallas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20261015-f77b9de4/"
-  },
-  {
    "id": "9325af75cda80f770412f84b0d659627",
    "kind": "flight",
    "origin": "MEX",
@@ -150,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261122-9325af75/"
   },
   {
+   "id": "940a547b21d10985a33a8ea58080a548",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 11888.0,
+   "currency": "MXN",
+   "departure_at": "2027-04-14T04:50:00-05:00",
+   "return_at": "",
+   "duration": 1550,
+   "link": "https://www.aviasales.com/search/MEX1404SEL1?t=HU18076782001807825200001550MEXPEKICN_940a547b21d10985a33a8ea58080a548_54980&search_date=11102026&expected_price_uuid=01a12b55-a070-8030-27ba-4a9b07fb7c96&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=AU5Zma67fu2VSVvPd4LILA&expected_price_source=share&expected_price_currency=mxn&expected_price=11888",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270414-940a547b/"
+  },
+  {
    "id": "409a3648041e04f9c275f9dbbc7b6574",
    "kind": "flight",
    "origin": "MEX",
@@ -168,46 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX0212DXB1?t=AF17962527001796358600001165MEXCDGDXB_409a3648041e04f9c275f9dbbc7b6574_72990&search_date=11102026&expected_price_uuid=01a12aa3-d4c2-8031-2a6c-d84417969084&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=15783",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261202-409a3648/"
-  },
-  {
-   "id": "7c64e12fcd7a1ad4808e3deb928deff4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 20740.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-06T22:05:00-06:00",
-   "return_at": "",
-   "duration": 1045,
-   "link": "https://www.aviasales.com/search/MEX0612IST1?t=AM17965947001796689800001045MEXCDGIST_7c64e12fcd7a1ad4808e3deb928deff4_95916&search_date=11102026&expected_price_uuid=01a12b36-7075-8030-ecc5-46596ac39ce0&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=20740",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261206-7c64e12f/"
-  },
-  {
-   "id": "19466811d84fcdc2d2964348b5cac068",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MSQ",
-   "destination_name": "Minsk",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 31299.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-21T09:00:00-05:00",
-   "return_at": "",
-   "duration": 1530,
-   "link": "https://www.aviasales.com/search/MEX2110MSQ1?t=TK17925732001792697400001530MEXISTMSQ_19466811d84fcdc2d2964348b5cac068_144748&search_date=11102026&expected_price_uuid=01a12a2d-d72f-8040-6ea1-275d446af00b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zqkQq3Btm2WgSy8Etlc1Kg&expected_price_source=share&expected_price_currency=mxn&expected_price=31299",
-   "title": "Flight deals from Mexico City to Minsk",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261021-19466811/"
   }
  ]
 }

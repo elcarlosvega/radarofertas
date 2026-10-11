@@ -1,6 +1,6 @@
 {
- "generated_at": 1791709443.973268,
- "generated_at_str": "11/10/2026 03:04",
+ "generated_at": 1791713044.4932873,
+ "generated_at_str": "11/10/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-escondido-20261018-d299d962/"
   },
   {
-   "id": "8772c460e58d14b29f6de93ad1740b51",
+   "id": "eab27d3ac6e2223b6b51b90e64c11e98",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -40,14 +40,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 1068.0,
+   "price": 1160.0,
    "currency": "MXN",
-   "departure_at": "2026-10-20T12:27:00-05:00",
+   "departure_at": "2026-10-19T12:27:00-05:00",
    "return_at": "",
    "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX2010PVR1?t=Y417924992201792504140000082TLCPVR_8772c460e58d14b29f6de93ad1740b51_4940&search_date=11102026&expected_price_uuid=01a128ff-d82f-8031-6042-3b8e9a33690e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=1068",
+   "link": "https://www.aviasales.com/search/MEX1910PVR1?t=Y417924128201792417740000082TLCPVR_eab27d3ac6e2223b6b51b90e64c11e98_5366&search_date=11102026&expected_price_uuid=01a12919-9863-8030-615a-cc9a3395362e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=1160",
    "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261020-8772c460/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261019-eab27d3a/"
   },
   {
    "id": "f5a0e24acb317a8d6102f8baa638b832",
@@ -150,26 +150,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20261026-ad9bb101/"
   },
   {
-   "id": "acd39b92ffef2f51d9fecc9a831bb6ab",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CHI",
-   "destination_name": "Chicago",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4208.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-21T05:45:00-05:00",
-   "return_at": "",
-   "duration": 255,
-   "link": "https://www.aviasales.com/search/MEX2110CHI1?t=VB17925615001792580400000255MEXORD_acd39b92ffef2f51d9fecc9a831bb6ab_19463&search_date=11102026&expected_price_uuid=01a12901-989e-8031-25eb-797bd384d387&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=A2lh_89mEx_zoUu7so0qOQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4208",
-   "title": "Flight deals from Mexico City to Chicago",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chicago-20261021-acd39b92/"
-  },
-  {
    "id": "c52fc5e3e5dc1d68e3eda3bab46239c5",
    "kind": "flight",
    "origin": "MEX",
@@ -208,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2010IST1?t=BA17925045001792620600001395MEXMIAMADSAW_961ddc6681e9d347ef6d34182723ec2f_63125&search_date=11102026&expected_price_uuid=01a1295f-0477-8040-a55a-e8c68d74e8b3&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=MBLtWA4avJtewjZDwM77RQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13650",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261020-961ddc66/"
+  },
+  {
+   "id": "19466811d84fcdc2d2964348b5cac068",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MSQ",
+   "destination_name": "Minsk",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 31299.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-21T09:00:00-05:00",
+   "return_at": "",
+   "duration": 1530,
+   "link": "https://www.aviasales.com/search/MEX2110MSQ1?t=TK17925732001792697400001530MEXISTMSQ_19466811d84fcdc2d2964348b5cac068_144748&search_date=11102026&expected_price_uuid=01a12a2d-d72f-8040-6ea1-275d446af00b&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zqkQq3Btm2WgSy8Etlc1Kg&expected_price_source=share&expected_price_currency=mxn&expected_price=31299",
+   "title": "Flight deals from Mexico City to Minsk",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261021-19466811/"
   }
  ]
 }

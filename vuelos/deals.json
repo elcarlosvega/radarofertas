@@ -1,6 +1,6 @@
 {
- "generated_at": 1791705844.6807995,
- "generated_at_str": "11/10/2026 02:04",
+ "generated_at": 1791709443.973268,
+ "generated_at_str": "11/10/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -88,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX1710SJD1?t=Y417922491401792252740000120TLCSJD_358718bed1d19db86cf0861202b7e1ad_7409&search_date=11102026&expected_price_uuid=01a129a1-8b25-8030-a2d6-68f69070fca1&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=NDwa-I5o45x6z7H5yqu5eQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1602",
    "title": "Flight deals from Mexico City to San Jose Del Cabo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261017-358718be/"
+  },
+  {
+   "id": "8503fda6f53f2cf669f6c29907b6e0dd",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "SJD",
+   "destination_name": "Los Cabos",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1782.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-15T15:24:00-06:00",
+   "return_at": "",
+   "duration": 96,
+   "link": "https://www.aviasales.com/search/GDL1502SJD1?t=VB18027050401802707200000096GDLSJD_8503fda6f53f2cf669f6c29907b6e0dd_8239&search_date=11102026&expected_price_uuid=01a12a20-3c3a-8031-648e-aa645cd62bb7&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=iTMVd3Xg8HXjtFsazDKiyw&expected_price_source=share&expected_price_currency=mxn&expected_price=1782",
+   "title": "Flight deals from Guadalajara to San Jose Del Cabo",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-cabos-20270215-8503fda6/"
   },
   {
    "id": "339078f8fc4431d645cc0382a345c445",

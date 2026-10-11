@@ -1,6 +1,6 @@
 {
- "generated_at": 1791720244.0556183,
- "generated_at_str": "11/10/2026 06:04",
+ "generated_at": 1791723844.3112006,
+ "generated_at_str": "11/10/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/GDL2010MEX1?t=Y417925237001792528200000075GDLNLU_f5a0e24acb317a8d6102f8baa638b832_5962&search_date=11102026&expected_price_uuid=01a129cf-2bec-8040-63e3-714364e1ea9a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ft4eyfYojfAiUJ3-mrwoAA&expected_price_source=share&expected_price_currency=mxn&expected_price=1289",
    "title": "Flight deals from Guadalajara to Mexico City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20261020-f5a0e24a/"
-  },
-  {
-   "id": "358718bed1d19db86cf0861202b7e1ad",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJD",
-   "destination_name": "Los Cabos",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1602.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-17T14:59:00-05:00",
-   "return_at": "",
-   "duration": 120,
-   "link": "https://www.aviasales.com/search/MEX1710SJD1?t=Y417922491401792252740000120TLCSJD_358718bed1d19db86cf0861202b7e1ad_7409&search_date=11102026&expected_price_uuid=01a129a1-8b25-8030-a2d6-68f69070fca1&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=NDwa-I5o45x6z7H5yqu5eQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1602",
-   "title": "Flight deals from Mexico City to San Jose Del Cabo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261017-358718be/"
   },
   {
    "id": "8503fda6f53f2cf669f6c29907b6e0dd",
@@ -130,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261022-8bc91bb4/"
   },
   {
+   "id": "1fd1fe710e66ca1dde23a5b6ee9f197f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2848.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-17T15:05:00-05:00",
+   "return_at": "",
+   "duration": 435,
+   "link": "https://www.aviasales.com/search/MEX1710NYC1?t=VB17922495001792282800000435TLCMTYJFK_1fd1fe710e66ca1dde23a5b6ee9f197f_13173&search_date=11102026&expected_price_uuid=01a12ad5-1f69-8030-632f-1304fd7b0e26&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1M7XxMEGjWjbcf0cU_b1rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2848",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261017-1fd1fe71/"
+  },
+  {
    "id": "339078f8fc4431d645cc0382a345c445",
    "kind": "flight",
    "origin": "MEX",
@@ -168,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX2301ASU1?t=AM18007008001800759600000800MEXLIMASU_c77a032d82514152eec1ccb62b9b2754_43921&search_date=11102026&expected_price_uuid=01a12a9a-a950-8030-e7d3-4689ff080abb&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=HDha_AVZrKfg455O-JgGYw&expected_price_source=share&expected_price_currency=mxn&expected_price=9497",
    "title": "Flight deals from Mexico City to Asuncion",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-asuncion-20270123-c77a032d/"
+  },
+  {
+   "id": "9325af75cda80f770412f84b0d659627",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 10954.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-22T22:20:00-06:00",
+   "return_at": "",
+   "duration": 645,
+   "link": "https://www.aviasales.com/search/MEX2211LON1?t=AM17953860001795446300000645MEXLHR_9325af75cda80f770412f84b0d659627_50660&search_date=11102026&expected_price_uuid=01a12add-98c3-8030-22cc-0ef6e186f6bb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HSzK4K8yFlMlz38hp-2-9Q&expected_price_source=share&expected_price_currency=mxn&expected_price=10954",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261122-9325af75/"
   },
   {
    "id": "409a3648041e04f9c275f9dbbc7b6574",

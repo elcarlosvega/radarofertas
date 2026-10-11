@@ -1,6 +1,6 @@
 {
- "generated_at": 1791680917.6421258,
- "generated_at_str": "10/10/2026 19:08",
+ "generated_at": 1791684799.8065681,
+ "generated_at_str": "10/10/2026 20:13",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6022,6 +6022,25 @@
    "h_min": 959.0,
    "h_ayer": 959.0,
    "h_min7": 959.0
+  },
+  {
+   "id": "42875004",
+   "name": "Audifonos Skullcandy Modelo Ma26894",
+   "url": "https://www.coppel.com/pdp/audifonos-skullcandy-modelo-ma26894-mkp-42875004",
+   "img": "https://cdn5.coppel.com/mkp/42875004-1.jpg",
+   "category": "Audifonos",
+   "price_old": 1099.0,
+   "price_new": 529.0,
+   "pct": 51.9,
+   "amount": 570.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1790273222.1028342,
+   "h_dias": 48,
+   "h_min": 529.0,
+   "h_ayer": 529.0,
+   "h_min7": 529.0
   },
   {
    "id": "747956696",
@@ -19157,25 +19176,6 @@
    "h_min": 1049.0,
    "h_ayer": 1049.0,
    "h_min7": 1049.0
-  },
-  {
-   "id": "747909711",
-   "name": "Teclado Numérico Inalámbrico Archy 2.4 GHz para Laptop y PC",
-   "url": "https://www.coppel.com/pdp/teclado-numerico-inalambrico-archy-24-ghz-para-laptop-y-pc-mkp-747909711",
-   "img": "https://cdn5.coppel.com/mkp/747909711-1.jpg",
-   "category": "PC Gaming",
-   "price_old": 1199.0,
-   "price_new": 629.0,
-   "pct": 47.5,
-   "amount": 570.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 62,
-   "h_min": 629.0,
-   "h_ayer": 629.0,
-   "h_min7": 629.0
   },
   {
    "id": "78911302",
@@ -35736,10 +35736,10 @@
    "h_min7": 3999.0
   },
   {
-   "id": "239024",
-   "name": "Celular Samsung Galaxy A27 5G Liberado 128 GB Rosa Claro",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a27-5g-liberado-128-gb-rosa-claro-pm-2390243",
-   "img": "https://cdn5.coppel.com/pm/2390243-1.jpg",
+   "id": "239014",
+   "name": "Celular Samsung Galaxy A27 5G Liberado 128 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a27-5g-liberado-128-gb-azul-pm-2390143",
+   "img": "https://cdn5.coppel.com/pm/2390143-1.jpg",
    "category": "Celulares",
    "price_old": 6599.0,
    "price_new": 3999.0,
@@ -35748,8 +35748,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1789218780.4355931,
-   "h_dias": 29,
+   "first_seen": 1789197167.4086807,
+   "h_dias": 33,
    "h_min": 3499.0,
    "h_min7": 3999.0
   },
@@ -40812,6 +40812,24 @@
    "h_min7": 7249.0
   },
   {
+   "id": "749176118",
+   "name": "Laptop Dell Latitude 5420 I5-1145g7 16gb Ram 256gb Ssd 14 Pulgadas Windows 11 Pro - Venta Internacional.",
+   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5420-i5-1145g7-16gb-ram-256gb-ssd-14-pulgadas-windows-11-pro-venta-internacional-mkp-749176118",
+   "img": "https://cdn5.coppel.com/mkp/749176118-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 6299.0,
+   "pct": 37.0,
+   "amount": 3700.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791515719.6472943,
+   "h_dias": 3,
+   "h_min": 6299.0,
+   "h_ayer": 6299.0
+  },
+  {
    "id": "749849827",
    "name": "Laptop Dell Latitude 5410 14\" Intel Core I5 10210u 8gb Ram 256gb Ssd Windows 11 Pro Teclado Retroiluminado Reacondicionado",
    "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5410-14-intel-core-i5-10210u-8gb-ram-256gb-ssd-windows-11-pro-teclado-retroiluminado-reacondicionado-mkp-749849827",
@@ -40829,24 +40847,6 @@
    "h_min": 5999.0,
    "h_ayer": 5999.0,
    "h_min7": 5999.0
-  },
-  {
-   "id": "749176118",
-   "name": "Laptop Dell Latitude 5420 I5-1145g7 16gb Ram 256gb Ssd 14 Pulgadas Windows 11 Pro - Venta Internacional.",
-   "url": "https://www.coppel.com/pdp/laptop-dell-latitude-5420-i5-1145g7-16gb-ram-256gb-ssd-14-pulgadas-windows-11-pro-venta-internacional-mkp-749176118",
-   "img": "https://cdn5.coppel.com/mkp/749176118-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 6299.0,
-   "pct": 37.0,
-   "amount": 3700.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1791515719.6472943,
-   "h_dias": 3,
-   "h_min": 6299.0,
-   "h_ayer": 6299.0
   },
   {
    "id": "749117539",
@@ -45381,10 +45381,10 @@
    "h_min7": 20799.0
   },
   {
-   "id": "202872",
-   "name": "Celular Google Pixel 10 Pro XL Liberado 256 GB Blanco",
-   "url": "https://www.coppel.com/pdp/celular-google-pixel-10-pro-xl-liberado-256-gb-blanco-pm-2028723",
-   "img": "https://cdn5.coppel.com/pm/2028723-1.jpg",
+   "id": "202889",
+   "name": "Celular Google Pixel 10 Pro XL Liberado 256 GB Verde",
+   "url": "https://www.coppel.com/pdp/celular-google-pixel-10-pro-xl-liberado-256-gb-verde-pm-2028893",
+   "img": "https://cdn5.coppel.com/pm/2028893-1.jpg",
    "category": "Celulares",
    "price_old": 30999.0,
    "price_new": 20149.0,
@@ -45393,7 +45393,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1791220408.3781276,
+   "first_seen": 1791205870.9838684,
    "h_dias": 6,
    "h_min": 20149.0,
    "h_ayer": 20149.0
@@ -49909,6 +49909,25 @@
    "h_min7": 1799.0
   },
   {
+   "id": "79291557",
+   "name": "Cuory Silla Gamer Ergonómica Reposapiés Reclinable Gaming Oficina Negro Con Gris",
+   "url": "https://www.coppel.com/pdp/silla-gamer-ergonomica-reposapies-reclinable-gaming-oficina-negro-con-gris-mkp-79291557",
+   "img": "https://cdn5.coppel.com/mkp/79291557-1.jpg",
+   "category": "PC Gaming",
+   "price_old": 2999.0,
+   "price_new": 1988.0,
+   "pct": 33.7,
+   "amount": 1011.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1790626440.6195524,
+   "h_dias": 46,
+   "h_min": 1799.0,
+   "h_ayer": 1988.0,
+   "h_min7": 1799.0
+  },
+  {
    "id": "73891149",
    "name": "Licuadora  T-fal LN2838MX color Negro 2 Velocidades Vaso de Vidrio",
    "url": "https://www.coppel.com/pdp/licuadora-t-fal-ln2838mx-color-negro-2-velocidades-vaso-de-vidrio-mkp-73891149",
@@ -52088,6 +52107,25 @@
    "h_dias": 62,
    "h_min": 9999.0,
    "h_ayer": 9999.0,
+   "h_min7": 9999.0
+  },
+  {
+   "id": "36403554",
+   "name": "Bocina JBL Partybox Stage 320",
+   "url": "https://www.coppel.com/pdp/bocina-jbl-partybox-stage-320-mkp-36403554",
+   "img": "https://cdn5.coppel.com/mkp/36403554-1.jpg",
+   "category": "Bocinas",
+   "price_old": 14999.0,
+   "price_new": 9999.0,
+   "pct": 33.3,
+   "amount": 5000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1790370746.0440297,
+   "h_dias": 28,
+   "h_min": 9979.0,
+   "h_ayer": 10999.0,
    "h_min7": 9999.0
   },
   {
@@ -71604,25 +71642,6 @@
    "h_min7": 10999.0
   },
   {
-   "id": "36403554",
-   "name": "Bocina JBL Partybox Stage 320",
-   "url": "https://www.coppel.com/pdp/bocina-jbl-partybox-stage-320-mkp-36403554",
-   "img": "https://cdn5.coppel.com/mkp/36403554-1.jpg",
-   "category": "Bocinas",
-   "price_old": 14999.0,
-   "price_new": 10999.0,
-   "pct": 26.7,
-   "amount": 4000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1790198135.31984,
-   "h_dias": 28,
-   "h_min": 9979.0,
-   "h_ayer": 10999.0,
-   "h_min7": 9999.0
-  },
-  {
    "id": "747068837",
    "name": "Sala Esquinera Salvanto Paris Gris",
    "url": "https://www.coppel.com/pdp/sala-esquinera-salvanto-paris-gris-mkp-747068837",
@@ -77934,10 +77953,10 @@
    "h_min7": 9099.0
   },
   {
-   "id": "229035",
-   "name": "Celular Samsung Galaxy A57 5G Liberado 256 GB Gris",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a57-5g-liberado-256-gb-gris-pm-2290353",
-   "img": "https://cdn5.coppel.com/pm/2290353-1.jpg",
+   "id": "229002",
+   "name": "Celular Samsung Galaxy A57 Liberado 256 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a57-liberado-256-gb-azul-pm-2290023",
+   "img": "https://cdn5.coppel.com/pm/2290023-1.jpg",
    "category": "Celulares",
    "price_old": 11999.0,
    "price_new": 8999.0,
@@ -77946,9 +77965,10 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1789211593.8770578,
-   "h_dias": 24,
+   "first_seen": 1789197167.4086807,
+   "h_dias": 36,
    "h_min": 7499.0,
+   "h_ayer": 8999.0,
    "h_min7": 8999.0
   },
   {

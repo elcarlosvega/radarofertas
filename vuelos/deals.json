@@ -1,6 +1,6 @@
 {
- "generated_at": 1791767052.5230644,
- "generated_at_str": "11/10/2026 19:04",
+ "generated_at": 1791770644.1294634,
+ "generated_at_str": "11/10/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261105-86c14b60/"
   },
   {
-   "id": "c9f1f113875a070e879abeb759cbcad2",
+   "id": "864f1c9750c8c8d51896342c5e40b804",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -40,14 +40,34 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2844.0,
+   "price": 2561.0,
    "currency": "MXN",
-   "departure_at": "2026-10-17T06:00:00-05:00",
+   "departure_at": "2026-10-20T12:52:00-05:00",
    "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1710NYC1?t=VB17922168001792282800000980NLUMTYJFK_c9f1f113875a070e879abeb759cbcad2_13168&search_date=11102026&expected_price_uuid=01a12cae-5985-8040-ad78-914382d5217c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWC9zUylaSg-rsK0eGZ7Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2844",
+   "duration": 568,
+   "link": "https://www.aviasales.com/search/MEX2010NYC1?t=VB17925007201792542000000568NLUMTYJFK_864f1c9750c8c8d51896342c5e40b804_11841&search_date=12102026&expected_price_uuid=01a12d96-e067-8040-a8d0-8f36e7c62a2b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xOJ9WCr80DPKr0Wt6BEUUw&expected_price_source=share&expected_price_currency=mxn&expected_price=2561",
    "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261017-c9f1f113/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261020-864f1c97/"
+  },
+  {
+   "id": "776e49cae466139a55605c9267b3b2e0",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "SJC",
+   "destination_name": "San José",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2727.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-15T07:00:00-05:00",
+   "return_at": "",
+   "duration": 227,
+   "link": "https://www.aviasales.com/search/GDL1510SJC1?t=Y417920476001792057620000227GDLSJC_776e49cae466139a55605c9267b3b2e0_12596&search_date=12102026&expected_price_uuid=01a12dbc-c4c5-8040-2421-82429bf42c38&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=2727",
+   "title": "Flight deals from Guadalajara to San Jose",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20261015-776e49ca/"
   },
   {
    "id": "68aa951f533a2133a12515d39127e57a",
@@ -70,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261012-68aa951f/"
   },
   {
+   "id": "efe2ca6057934d2d46b41b152f7d36cc",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "OAK",
+   "destination_name": "Oakland",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4829.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-15T15:39:00-05:00",
+   "return_at": "",
+   "duration": 235,
+   "link": "https://www.aviasales.com/search/GDL1510OAK1?t=Y417920787401792089240000235GDLOAK_efe2ca6057934d2d46b41b152f7d36cc_22306&search_date=12102026&expected_price_uuid=01a12dbc-c4c5-8040-2421-82429bf42c38&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=kD32vse2-039ZK6tf5WcxA&expected_price_source=share&expected_price_currency=mxn&expected_price=4829",
+   "title": "Flight deals from Guadalajara to Oakland",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-oakland-20261015-efe2ca60/"
+  },
+  {
    "id": "5ac5b963079106192e3b77afa89976eb",
    "kind": "flight",
    "origin": "MTY",
@@ -90,7 +130,7 @@
    "micro": "/oferta/vuelos/vuelo-monterrey-salt-lake-city-20261118-5ac5b963/"
   },
   {
-   "id": "dbd244c93356a629a7283ee5769345d7",
+   "id": "d76ee82ef3eb0e0d22fead37afd202d8",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -100,14 +140,14 @@
    "airline_title": "ZIPAIR",
    "logo": "https://pics.avs.io/600/150/ZG.png",
    "logo_tipo": "",
-   "price": 9456.0,
+   "price": 8386.0,
    "currency": "MXN",
-   "departure_at": "2026-12-02T06:00:00-06:00",
+   "departure_at": "2027-01-21T00:25:00-06:00",
    "return_at": "",
-   "duration": 2385,
-   "link": "https://www.aviasales.com/search/MEX0212TYO1?t=ZG17961912001796388300002385NLUGDLYVRNRT_dbd244c93356a629a7283ee5769345d7_43782&search_date=11102026&expected_price_uuid=01a12cf8-c0d6-8031-2236-7fbc3522bb9c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Skesmmc45NK38GFRKZlfSg&expected_price_source=share&expected_price_currency=mxn&expected_price=9456",
+   "duration": 1280,
+   "link": "https://www.aviasales.com/search/MEX2101TYO1?t=ZG18004911001800621900001280MEXYVRNRT_d76ee82ef3eb0e0d22fead37afd202d8_38774&search_date=12102026&expected_price_uuid=01a12db0-e9d0-8031-2bcc-c04ba9b74195&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FSk-frJTCOYPSAnVz876nA&expected_price_source=share&expected_price_currency=mxn&expected_price=8386",
    "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261202-dbd244c9/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270121-d76ee82e/"
   },
   {
    "id": "405deacd33e1a67a9e8c2cb3eb18fec9",
@@ -128,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0111MAD1?t=IB17935161001793599800000975MEXDFWMAD_405deacd33e1a67a9e8c2cb3eb18fec9_52215&search_date=11102026&expected_price_uuid=01a12cb0-210d-8040-2ef7-1f1c5aa662cb&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Kt05L703uYclexK_WuZe2Q&expected_price_source=share&expected_price_currency=mxn&expected_price=11279",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261101-405deacd/"
+  },
+  {
+   "id": "d43d6a5b6dd16ddfe7e72baea1c676ec",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MVD",
+   "destination_name": "Montevideo",
+   "airline": "AV",
+   "airline_title": "avianca airlines",
+   "logo": "https://pics.avs.io/600/150/AV.png",
+   "logo_tipo": "",
+   "price": 13378.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-27T13:50:00-06:00",
+   "return_at": "",
+   "duration": 800,
+   "link": "https://www.aviasales.com/search/MEX2710MVD1?t=AV17931090001793167800000800MEXBOGMVD_d43d6a5b6dd16ddfe7e72baea1c676ec_61855&search_date=12102026&expected_price_uuid=01a12dad-75d8-8040-afbd-78897807f2e9&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=GJH8vURG09N6PCm_YzlMuA&expected_price_source=share&expected_price_currency=mxn&expected_price=13378",
+   "title": "Flight deals from Mexico City to Montevideo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-montevideo-20261027-d43d6a5b/"
   },
   {
    "id": "8bd824b4c459c401e94c81290cbc79e9",

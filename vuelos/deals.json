@@ -1,6 +1,6 @@
 {
- "generated_at": 1791759843.9648228,
- "generated_at_str": "11/10/2026 17:04",
+ "generated_at": 1791763444.1239266,
+ "generated_at_str": "11/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/GDL0511LAX1?t=Y417938656001793870520000202GDLLAX_86c14b60136426d0fdc534fe2ecd5684_11258&search_date=11102026&expected_price_uuid=01a12d31-0aff-8040-291b-34a16b3f9c37&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nfvGyeEkVjtgx-3e914fuA&expected_price_source=share&expected_price_currency=mxn&expected_price=2433",
    "title": "Flight deals from Guadalajara to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261105-86c14b60/"
-  },
-  {
-   "id": "a51cf70bc0c7d0b037cd2e94e54450c1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJO",
-   "destination_name": "San José",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2439.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-26T06:00:00-06:00",
-   "return_at": "",
-   "duration": 375,
-   "link": "https://www.aviasales.com/search/MEX2610SJO1?t=VB17929944001793016900000375NLUMTYSJO_a51cf70bc0c7d0b037cd2e94e54450c1_11267&search_date=11102026&expected_price_uuid=01a12bfd-83ec-8030-6d7f-31df362198af&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9Tcxfcd5Rf-U1OapjNK3LA&expected_price_source=share&expected_price_currency=mxn&expected_price=2439",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261026-a51cf70b/"
   },
   {
    "id": "c9f1f113875a070e879abeb759cbcad2",
@@ -248,6 +228,26 @@
    "link": "https://www.aviasales.com/search/MEX0412BKK1?t=CZ17963487001796494500001650MEXSZXBKK_c9dd8a3f02579aa5d16eb47dd0bad6b3_107153&search_date=11102026&expected_price_uuid=01a12cf4-19f3-8031-2320-64c194832787&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QIJ4M8cWFOPXiqlw8WRCeg&expected_price_source=share&expected_price_currency=mxn&expected_price=23143",
    "title": "Flight deals from Mexico City to Bangkok",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261204-c9dd8a3f/"
+  },
+  {
+   "id": "4335c1ff11512f7fa18631192160cf29",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MSQ",
+   "destination_name": "Minsk",
+   "airline": "LH",
+   "airline_title": "Lufthansa",
+   "logo": "https://pics.avs.io/600/150/LH.png",
+   "logo_tipo": "",
+   "price": 25931.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-10T21:00:00-06:00",
+   "return_at": "",
+   "duration": 2360,
+   "link": "https://www.aviasales.com/search/MEX1011MSQ1?t=LH17943444001794518400002360MEXFRAISTMSQ_4335c1ff11512f7fa18631192160cf29_119944&search_date=11102026&expected_price_uuid=01a12d52-d4ab-8030-6980-325ea7096a8a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Csld9H6g5awrUPRxNSh6Kw&expected_price_source=share&expected_price_currency=mxn&expected_price=25931",
+   "title": "Flight deals from Mexico City to Minsk",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261110-4335c1ff/"
   }
  ]
 }

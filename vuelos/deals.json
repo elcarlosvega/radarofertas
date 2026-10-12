@@ -1,6 +1,6 @@
 {
- "generated_at": 1791763444.1239266,
- "generated_at_str": "11/10/2026 18:04",
+ "generated_at": 1791767052.5230644,
+ "generated_at_str": "11/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261012-68aa951f/"
   },
   {
-   "id": "74cddbc42e1a7b4496381099334ac331",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "LA",
-   "airline_title": "LATAM Airlines Group",
-   "logo": "https://pics.avs.io/600/150/LA.png",
-   "logo_tipo": "",
-   "price": 5667.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-09T19:50:00-06:00",
-   "return_at": "",
-   "duration": 710,
-   "link": "https://www.aviasales.com/search/MEX0901BUE1?t=LA17995242001799577600000710MEXSCLEZE_74cddbc42e1a7b4496381099334ac331_26177&search_date=11102026&expected_price_uuid=01a12c31-99be-8030-607c-a23c63114a48&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5666",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270109-74cddbc4/"
-  },
-  {
    "id": "5ac5b963079106192e3b77afa89976eb",
    "kind": "flight",
    "origin": "MTY",
@@ -130,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261202-dbd244c9/"
   },
   {
-   "id": "b83ffdf468f00e5ab3e3ee8e3629c528",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LON",
-   "destination_name": "Londres",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 11013.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-22T01:15:00-05:00",
-   "return_at": "",
-   "duration": 1670,
-   "link": "https://www.aviasales.com/search/MEX2210LON1?t=WS17926317001792757100001670MEXYYCLHR_b83ffdf468f00e5ab3e3ee8e3629c528_50875&search_date=11102026&expected_price_uuid=01a12c2f-c541-8040-a9dc-784eb6b10a0a&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=br09M5vHoYb7kIwQDrGIHw&expected_price_source=share&expected_price_currency=mxn&expected_price=11013",
-   "title": "Flight deals from Mexico City to London",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261022-b83ffdf4/"
-  },
-  {
    "id": "405deacd33e1a67a9e8c2cb3eb18fec9",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX0111MAD1?t=IB17935161001793599800000975MEXDFWMAD_405deacd33e1a67a9e8c2cb3eb18fec9_52215&search_date=11102026&expected_price_uuid=01a12cb0-210d-8040-2ef7-1f1c5aa662cb&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Kt05L703uYclexK_WuZe2Q&expected_price_source=share&expected_price_currency=mxn&expected_price=11279",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261101-405deacd/"
-  },
-  {
-   "id": "5799da3ab700c24ad2b5a69c64e9a6b7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MVD",
-   "destination_name": "Montevideo",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11930.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-09T10:50:00-06:00",
-   "return_at": "",
-   "duration": 810,
-   "link": "https://www.aviasales.com/search/MEX0901MVD1?t=AM17994918001799551200000810MEXLIMMVD_5799da3ab700c24ad2b5a69c64e9a6b7_55112&search_date=11102026&expected_price_uuid=01a12c2f-d23c-8030-6ac4-45936368b52e&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=9MYH7VHU8kCxykKURnu8fw&expected_price_source=share&expected_price_currency=mxn&expected_price=11930",
-   "title": "Flight deals from Mexico City to Montevideo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-montevideo-20270109-5799da3a/"
   },
   {
    "id": "8bd824b4c459c401e94c81290cbc79e9",

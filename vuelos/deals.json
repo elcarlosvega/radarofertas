@@ -1,6 +1,6 @@
 {
- "generated_at": 1791781444.3948383,
- "generated_at_str": "11/10/2026 23:04",
+ "generated_at": 1791785044.1747072,
+ "generated_at_str": "12/10/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270121-d76ee82e/"
   },
   {
-   "id": "1bedf0077badf334d5c1c3157c122e1e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 10852.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-22T21:00:00-06:00",
-   "return_at": "",
-   "duration": 1085,
-   "link": "https://www.aviasales.com/search/MEX2202IST1?t=BA18033300001803427500001085MEXLHRIST_1bedf0077badf334d5c1c3157c122e1e_50189&search_date=12102026&expected_price_uuid=01a12e2c-c763-8030-25c5-4a0baf400fa9&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=9QUhW0UP1ltBXU0eSs6Dfg&expected_price_source=share&expected_price_currency=mxn&expected_price=10852",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270222-1bedf007/"
-  },
-  {
    "id": "2c61d59d2645a7138568ea9a3e7b7d4c",
    "kind": "flight",
    "origin": "MEX",
@@ -220,14 +200,34 @@
    "airline_title": "Iberia",
    "logo": "https://pics.avs.io/600/150/IB.png",
    "logo_tipo": "",
-   "price": 14968.0,
+   "price": 14973.0,
    "currency": "MXN",
    "departure_at": "2026-10-12T23:55:00-05:00",
    "return_at": "",
    "duration": 840,
-   "link": "https://www.aviasales.com/search/MEX1210RJL1?t=IB17918493001791928500000840MEXMADRJL_c167c404b88adbd3e1a22f85819a003f_69229&search_date=12102026&expected_price_uuid=01a12e30-7956-8040-2d92-bc850b14b9e7&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=iwNLQu1lzFT4JfYZ-BfFyQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14968",
+   "link": "https://www.aviasales.com/search/MEX1210RJL1?t=IB17918493001791928500000840MEXMADRJL_c167c404b88adbd3e1a22f85819a003f_69230&search_date=12102026&expected_price_uuid=01a12e8b-ea36-8040-afdf-a87c1508052c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=iwNLQu1lzFT4JfYZ-BfFyQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14973",
    "title": "Flight deals from Mexico City to Logrono",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-logrono-20261012-c167c404/"
+  },
+  {
+   "id": "806304f575f344c15ee6ab154dc1f361",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 15803.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-03T19:55:00-06:00",
+   "return_at": "",
+   "duration": 1265,
+   "link": "https://www.aviasales.com/search/MEX0312DXB1?t=AF17963277001796439600001265MEXCDGDXB_806304f575f344c15ee6ab154dc1f361_73068&search_date=12102026&expected_price_uuid=01a12e7e-e300-8040-2f10-66e088fa2d3a&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=15803",
+   "title": "Flight deals from Mexico City to Dubai",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261203-806304f5/"
   }
  ]
 }

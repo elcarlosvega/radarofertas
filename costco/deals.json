@@ -1,6 +1,6 @@
 {
- "generated_at": 1791846313.9353495,
- "generated_at_str": "12/10/2026 17:05",
+ "generated_at": 1791849888.28386,
+ "generated_at_str": "12/10/2026 18:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1015,7 +1015,7 @@
    "starts": "2026-10-05T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 8,
    "h_min": 1609.3,
    "h_ayer": 1609.3,
@@ -1281,7 +1281,7 @@
    "starts": "2026-10-05T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 8,
    "h_min": 1189.3,
    "h_ayer": 1189.3,
@@ -1471,7 +1471,7 @@
    "starts": "2026-10-05T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 8,
    "h_min": 1049.3,
    "h_ayer": 1049.3,
@@ -1642,7 +1642,7 @@
    "starts": "2026-10-05T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 45,
    "h_min": 979.3,
    "h_ayer": 979.3,
@@ -3522,7 +3522,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 62,
    "h_min": 12499.0,
    "h_min7": 12999.0
@@ -3540,7 +3540,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 41,
    "h_min": 9599.0,
    "h_min7": 10399.0
@@ -4269,7 +4269,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 38,
    "h_min": 8999.0,
    "h_min7": 9499.0
@@ -8873,7 +8873,7 @@
    "starts": "2026-10-05T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 8,
    "h_min": 1274.25,
    "h_ayer": 1274.25,
@@ -10535,7 +10535,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 63,
    "h_min": 21999.0,
    "h_min7": 22999.0
@@ -11946,7 +11946,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 69,
    "h_min": 19899.0,
    "h_min7": 27999.0
@@ -12798,6 +12798,25 @@
    "h_min7": 21999.0
   },
   {
+   "id": "684847",
+   "name": "Smeg Lavavajillas 60cm 13 Servicios de Empotre",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/Smeg-Lavavajillas-60cm-13-Servicios-de-Empotre/p/684847",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha8/h8a/221877238005790.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 26999.0,
+   "price_new": 21999.0,
+   "pct": 18.5,
+   "amount": 5000.0,
+   "starts": "2026-10-12T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791792328.4345086,
+   "h_dias": 75,
+   "h_min": 18999.0,
+   "h_ayer": 21999.0,
+   "h_min7": 21999.0
+  },
+  {
    "id": "522646",
    "name": "Sealy, Kodiak, Colchón Individual",
    "url": "https://www.costco.com.mx/c/Sealy-Kodiak-Colchon-Individual/p/522646",
@@ -13410,7 +13429,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 48,
    "h_min": 12299.0,
    "h_min7": 12799.0
@@ -13616,7 +13635,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 21,
    "h_min": 12999.0,
    "h_min7": 12999.0
@@ -13653,7 +13672,7 @@
    "starts": "2026-10-01T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 56,
    "h_min": 10499.0,
    "h_min7": 11499.0
@@ -15379,7 +15398,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 67,
    "h_min": 21499.0,
    "h_min7": 23999.0
@@ -15511,7 +15530,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791846313.9353495,
+   "first_seen": 1791846323.1207974,
    "h_dias": 18,
    "h_min": 19499.0,
    "h_min7": 21499.0

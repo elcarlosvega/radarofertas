@@ -1,7 +1,7 @@
 {
- "generated_at": 1791849841.980426,
- "generated_at_str": "12/10/2026 18:08",
- "total": 2082,
+ "generated_at": 1791853442.0064516,
+ "generated_at_str": "12/10/2026 19:10",
+ "total": 2092,
  "deals": [
   {
    "id": "1162660949",
@@ -13,28 +13,6 @@
    "pct": 69.2,
    "amount": 18000.0,
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-sala/1162660949"
-  },
-  {
-   "id": "999681611510",
-   "name": "VANIGLAM Sala 3 piezas sala aria de poliestireno",
-   "img": "https://sp101.liverpool.com.mx/i/1204112351.jpeg",
-   "category": "Salas",
-   "price_new": 25900.0,
-   "price_old": 66500.0,
-   "pct": 61.1,
-   "amount": 40600.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-sala-aria-de-poliestireno/999681611510"
-  },
-  {
-   "id": "999681613054",
-   "name": "VANIGLAM Sala 3 piezas sala danna de poliestireno",
-   "img": "https://sp101.liverpool.com.mx/i/1204111908.jpeg",
-   "category": "Salas",
-   "price_new": 25900.0,
-   "price_old": 66500.0,
-   "pct": 61.1,
-   "amount": 40600.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-sala-danna-de-poliestireno/999681613054"
   },
   {
    "id": "1180247285",
@@ -70,26 +48,37 @@
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-16/1169598513"
   },
   {
+   "id": "999681611510",
+   "name": "VANIGLAM Sala 3 piezas sala aria de poliestireno",
+   "img": "https://sp101.liverpool.com.mx/i/1204112351.jpeg",
+   "category": "Salas",
+   "price_new": 26500.0,
+   "price_old": 66500.0,
+   "pct": 60.2,
+   "amount": 40000.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-sala-aria-de-poliestireno/999681611510"
+  },
+  {
+   "id": "999681613054",
+   "name": "VANIGLAM Sala 3 piezas sala danna de poliestireno",
+   "img": "https://sp101.liverpool.com.mx/i/1204111908.jpeg",
+   "category": "Salas",
+   "price_new": 26500.0,
+   "price_old": 66500.0,
+   "pct": 60.2,
+   "amount": 40000.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-sala-danna-de-poliestireno/999681613054"
+  },
+  {
    "id": "1190677512",
    "name": "BELUG Aspirador nasal",
    "img": "https://ss417.liverpool.com.mx/lg/1190677512.jpg",
    "category": "Aspiradoras",
-   "price_new": 1689.59,
+   "price_new": 1689.47,
    "price_old": 6699.0,
    "pct": 74.8,
-   "amount": 5009.41,
+   "amount": 5009.53,
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspirador-nasal/1190677512"
-  },
-  {
-   "id": "999681682675",
-   "name": "VANIGLAM Sala 2 piezas Victoria",
-   "img": "https://sp101.liverpool.com.mx/i/1204210001.jpeg",
-   "category": "Salas",
-   "price_new": 27700.0,
-   "price_old": 68900.0,
-   "pct": 59.8,
-   "amount": 41200.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-victoria/999681682675"
   },
   {
    "id": "1158643801",
@@ -125,15 +114,26 @@
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-robot-roomba-j7-0-5-litros/1125472890"
   },
   {
-   "id": "1180808988",
-   "name": "INFINITÉ Bicicleta de ruta rodada 28",
-   "img": "https://sp201.liverpool.com.mx/i/1180808988.jpg",
-   "category": "Bicicletas",
-   "price_new": 3499.0,
-   "price_old": 10799.0,
-   "pct": 67.6,
-   "amount": 7300.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-ruta-rodada-28/1180808988"
+   "id": "1110136141",
+   "name": "EUREKA Aspiradora 3 En 1 NES210",
+   "img": "https://sp625.liverpool.com.mx/i/1110136141.jpg",
+   "category": "Aspiradoras",
+   "price_new": 1490.69,
+   "price_old": 5733.0,
+   "pct": 74.0,
+   "amount": 4242.31,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-3-en-1-nes210/1110136141"
+  },
+  {
+   "id": "999681682675",
+   "name": "VANIGLAM Sala 2 piezas Victoria",
+   "img": "https://sp101.liverpool.com.mx/i/1204210001.jpeg",
+   "category": "Salas",
+   "price_new": 28800.0,
+   "price_old": 68900.0,
+   "pct": 58.2,
+   "amount": 40100.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-victoria/999681682675"
   }
  ]
 }

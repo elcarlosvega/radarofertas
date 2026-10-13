@@ -1,6 +1,6 @@
 {
- "generated_at": 1791878696.8480222,
- "generated_at_str": "13/10/2026 02:04",
+ "generated_at": 1791882300.7994955,
+ "generated_at_str": "13/10/2026 03:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2751,7 +2751,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-26T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791878696.8480222,
+   "first_seen": 1791878724.5905704,
    "h_dias": 77,
    "h_min": 36999.0,
    "h_ayer": 41999.0,
@@ -4843,7 +4843,7 @@
    "starts": "2026-10-13T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791878696.8480222,
+   "first_seen": 1791878724.5905704,
    "h_dias": 3,
    "h_min": 4099.0
   },
@@ -4860,7 +4860,7 @@
    "starts": "2026-10-13T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791878696.8480222,
+   "first_seen": 1791878724.5905704,
    "h_dias": 11,
    "h_min": 3999.0,
    "h_min7": 4099.0
@@ -4931,7 +4931,7 @@
    "starts": "2026-10-13T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791878696.8480222,
+   "first_seen": 1791878724.5905704,
    "h_dias": 19,
    "h_min": 4399.0,
    "h_min7": 4399.0
@@ -12882,7 +12882,7 @@
    "starts": "2026-10-12T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791878696.8480222,
+   "first_seen": 1791878724.5905704,
    "h_dias": 70,
    "h_min": 20799.0,
    "h_ayer": 22999.0,
@@ -15213,7 +15213,7 @@
    "starts": "2026-10-13T06:00:00.000Z",
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1791878696.8480222,
+   "first_seen": 1791878724.5905704,
    "h_dias": 48,
    "h_min": 6999.0,
    "h_ayer": 6999.0,
@@ -16658,25 +16658,6 @@
    "h_min": 10499.0,
    "h_ayer": 10999.0,
    "h_min7": 10999.0
-  },
-  {
-   "id": "524201",
-   "name": "Whirlpool Parrilla de Gas 5 Quemadores 86cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Whirlpool-Parrilla-de-Gas-5-Quemadores-86cm/p/524201",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd2/h30/364628646166558.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 10499.0,
-   "price_new": 8999.0,
-   "pct": 14.3,
-   "amount": 1500.0,
-   "starts": "2026-10-12T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1791792328.4345086,
-   "h_dias": 49,
-   "h_min": 8999.0,
-   "h_ayer": 8999.0,
-   "h_min7": 8999.0
   },
   {
    "id": "1987781",

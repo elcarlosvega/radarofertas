@@ -1,6 +1,6 @@
 {
- "generated_at": 1791882300.7994955,
- "generated_at_str": "13/10/2026 03:05",
+ "generated_at": 1791885897.680288,
+ "generated_at_str": "13/10/2026 04:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1431,25 +1431,6 @@
    "h_min7": 1049.0
   },
   {
-   "id": "518849",
-   "name": "Versace Eros Pour Femme 100ml",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Versace-Eros-Pour-Femme-100ml/p/518849",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h85/hfd/11085417938974.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1499.0,
-   "price_new": 1049.3,
-   "pct": 30.0,
-   "amount": 449.7,
-   "starts": "2026-10-05T06:00:00.000Z",
-   "ends": "2026-10-14T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1791846323.1207974,
-   "h_dias": 9,
-   "h_min": 1049.3,
-   "h_ayer": 1049.3,
-   "h_min7": 1049.3
-  },
-  {
    "id": "644232",
    "name": "Versace Bright Crystal Absolu 90 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Versace-Bright-Crystal-Absolu-90-ml/p/644232",
@@ -1463,6 +1444,25 @@
    "ends": "2026-10-14T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1791839127.9903622,
+   "h_dias": 9,
+   "h_min": 1049.3,
+   "h_ayer": 1049.3,
+   "h_min7": 1049.3
+  },
+  {
+   "id": "518849",
+   "name": "Versace Eros Pour Femme 100ml",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/Versace-Eros-Pour-Femme-100ml/p/518849",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h85/hfd/11085417938974.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1499.0,
+   "price_new": 1049.3,
+   "pct": 30.0,
+   "amount": 449.7,
+   "starts": "2026-10-05T06:00:00.000Z",
+   "ends": "2026-10-14T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791846323.1207974,
    "h_dias": 9,
    "h_min": 1049.3,
    "h_ayer": 1049.3,
@@ -16658,6 +16658,25 @@
    "h_min": 10499.0,
    "h_ayer": 10999.0,
    "h_min7": 10999.0
+  },
+  {
+   "id": "524201",
+   "name": "Whirlpool Parrilla de Gas 5 Quemadores 86cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Whirlpool-Parrilla-de-Gas-5-Quemadores-86cm/p/524201",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd2/h30/364628646166558.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 10499.0,
+   "price_new": 8999.0,
+   "pct": 14.3,
+   "amount": 1500.0,
+   "starts": "2026-10-12T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791792328.4345086,
+   "h_dias": 49,
+   "h_min": 8999.0,
+   "h_ayer": 8999.0,
+   "h_min7": 8999.0
   },
   {
    "id": "1987781",

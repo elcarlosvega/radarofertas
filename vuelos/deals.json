@@ -1,6 +1,6 @@
 {
- "generated_at": 1791950644.9724183,
- "generated_at_str": "13/10/2026 22:04",
+ "generated_at": 1791954243.6716576,
+ "generated_at_str": "13/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261016-ad58c804/"
   },
   {
-   "id": "2d7a730974470249b961028c4fb9c928",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MGA",
-   "destination_name": "Managua",
-   "airline": "CM",
-   "airline_title": "Copa Airlines",
-   "logo": "https://pics.avs.io/600/150/CM.png",
-   "logo_tipo": "",
-   "price": 5770.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-20T05:50:00-05:00",
-   "return_at": "",
-   "duration": 419,
-   "link": "https://www.aviasales.com/search/MEX2010MGA1?t=CM17924754001792500540000419MEXPTYMGA_2d7a730974470249b961028c4fb9c928_26487&search_date=13102026&expected_price_uuid=01a13764-ae78-8040-2235-9c8255668bea&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=d5WoVGW3-7tpr-QQEz5tRQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5770",
-   "title": "Flight deals from Mexico City to Managua",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-managua-20261020-2d7a7309/"
-  },
-  {
    "id": "6d760ee01a2accaf8b166bfbed126ce3",
    "kind": "flight",
    "origin": "MEX",
@@ -100,12 +80,12 @@
    "airline_title": "Air Canada",
    "logo": "https://pics.avs.io/600/78/AC.png",
    "logo_tipo": "",
-   "price": 16147.0,
+   "price": 16154.0,
    "currency": "MXN",
    "departure_at": "2027-01-22T07:15:00-06:00",
    "return_at": "",
    "duration": 1265,
-   "link": "https://www.aviasales.com/search/MEX2201BJS1?t=AC18006021001800728400001265MEXYVRPEK_6d760ee01a2accaf8b166bfbed126ce3_73750&search_date=14102026&expected_price_uuid=01a13874-e9a8-8031-2056-d43e76ca44de&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=5QikUD5TjWz2N1mdjJOY5w&expected_price_source=share&expected_price_currency=mxn&expected_price=16147",
+   "link": "https://www.aviasales.com/search/MEX2201BJS1?t=AC18006021001800728400001265MEXYVRPEK_6d760ee01a2accaf8b166bfbed126ce3_73750&search_date=14102026&expected_price_uuid=01a13874-e9a8-8031-2056-d43e76ca44de&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=5QikUD5TjWz2N1mdjJOY5w&expected_price_source=share&expected_price_currency=mxn&expected_price=16154",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20270122-6d760ee0/"
   },
@@ -120,12 +100,12 @@
    "airline_title": "China Southern Airlines",
    "logo": "https://pics.avs.io/600/150/CZ.png",
    "logo_tipo": "",
-   "price": 22321.0,
+   "price": 22330.0,
    "currency": "MXN",
    "departure_at": "2026-11-18T00:40:00-06:00",
    "return_at": "",
    "duration": 1715,
-   "link": "https://www.aviasales.com/search/MEX1811BKK1?t=CZ17949624001795112100001715MEXSZXBKK_6103bc511b3343b82927854971e03f6e_101946&search_date=14102026&expected_price_uuid=01a13841-5010-8040-a056-885723ab1c92&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=22321",
+   "link": "https://www.aviasales.com/search/MEX1811BKK1?t=CZ17949624001795112100001715MEXSZXBKK_6103bc511b3343b82927854971e03f6e_101946&search_date=14102026&expected_price_uuid=01a13841-5010-8040-a056-885723ab1c92&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=22330",
    "title": "Flight deals from Mexico City to Bangkok",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261118-6103bc51/"
   }

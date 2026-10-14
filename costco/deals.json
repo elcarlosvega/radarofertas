@@ -1,6 +1,6 @@
 {
- "generated_at": 1791968710.792432,
- "generated_at_str": "14/10/2026 03:05",
+ "generated_at": 1791972289.2405517,
+ "generated_at_str": "14/10/2026 04:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2479,24 +2479,6 @@
    "h_dias": 10,
    "h_min": 25999.0,
    "h_min7": 26999.0
-  },
-  {
-   "id": "1933933",
-   "name": "Fire Sense, Calentador de Gas para Exterior Color Gris",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Calentadores/Fire-Sense-Calentador-de-Gas-para-Exterior-Color-Gris/p/1933933",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hca/h86/471761659101214.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 3699.0,
-   "price_new": 2699.0,
-   "pct": 27.0,
-   "amount": 1000.0,
-   "starts": "2026-10-12T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1791792328.4345086,
-   "h_dias": 3,
-   "h_min": 2699.0,
-   "h_ayer": 2699.0
   },
   {
    "id": "697437",
@@ -6596,6 +6578,25 @@
    "in_stock": true,
    "first_seen": 1791792328.4345086,
    "h_dias": 39,
+   "h_min": 1499.25,
+   "h_ayer": 1499.25,
+   "h_min7": 1499.25
+  },
+  {
+   "id": "703545",
+   "name": "Cloe CLE.10038.0PNK.55 Armazón Oftálmico + Clip Solar Polarizado",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-CLE100380PNK55-Armazon-Oftalmico-Clip-Solar-Polarizado/p/703545",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h98/h49/452433228562462.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 40,
    "h_min": 1499.25,
    "h_ayer": 1499.25,
    "h_min7": 1499.25

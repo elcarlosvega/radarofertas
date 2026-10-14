@@ -1,6 +1,6 @@
 {
- "generated_at": 1791936243.986597,
- "generated_at_str": "13/10/2026 18:04",
+ "generated_at": 1791939844.184487,
+ "generated_at_str": "13/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "840279a89d4fb18e94a62e5ef1b7d887",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 577.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-20T19:52:00-05:00",
+   "return_at": "",
+   "duration": 69,
+   "link": "https://www.aviasales.com/search/MEX2010GDL1?t=Y417925259201792530060000069TLCGDL_840279a89d4fb18e94a62e5ef1b7d887_2649&search_date=14102026&expected_price_uuid=01a137e1-afc3-8030-2dc3-0eafac81d214&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaMWokBvOE0EMF_kdOTOEg&expected_price_source=share&expected_price_currency=mxn&expected_price=577",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20261020-840279a8/"
+  },
   {
    "id": "1bf958e48449a3d4b5ecc32cfed5520b",
    "kind": "flight",
@@ -128,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX1510MAD1?t=IB17920767001792155900000840TLCMTYMAD_0abbe669a0d5837bf525116d10effd14_42889&search_date=13102026&expected_price_uuid=01a136d1-043d-8040-6b88-24a971fd25c7&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wizm2UBa8hNQgsGBlC063g&expected_price_source=share&expected_price_currency=mxn&expected_price=9342",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261015-0abbe669/"
-  },
-  {
-   "id": "1a46e262bfb37e6110dad8d32523203e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
-   "logo_tipo": "",
-   "price": 13459.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-09T04:55:00-06:00",
-   "return_at": "",
-   "duration": 1080,
-   "link": "https://www.aviasales.com/search/MEX0911BJS1?t=HU17942001001794315300001080MEXTIJPEK_1a46e262bfb37e6110dad8d32523203e_61790&search_date=13102026&expected_price_uuid=01a13688-2e4a-8031-654c-a42b08ba119c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=rx7DJudiBgmlr2YFLZzj9A&expected_price_source=share&expected_price_currency=mxn&expected_price=13459",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261109-1a46e262/"
   },
   {
    "id": "dcd62aa38e0f2e929362efdaf0b92e5d",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1791943444.1829975,
- "generated_at_str": "13/10/2026 20:04",
+ "generated_at": 1791947047.5636363,
+ "generated_at_str": "13/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261021-57ff5e73/"
   },
   {
-   "id": "e89dafeb124be0a059717efb9ca54222",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2418.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-30T06:00:00-06:00",
-   "return_at": "",
-   "duration": 1120,
-   "link": "https://www.aviasales.com/search/MEX3010BOG1?t=VB17933400001793410800001120NLUGDLBOG_e89dafeb124be0a059717efb9ca54222_11102&search_date=13102026&expected_price_uuid=01a13701-2465-8030-2c1b-5751ab8553ac&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0eCkDcLCrJpMGqaaSBhtjw&expected_price_source=share&expected_price_currency=mxn&expected_price=2418",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261030-e89dafeb/"
-  },
-  {
    "id": "ad58c8040acb1e0950746a6890973183",
    "kind": "flight",
    "origin": "MEX",
@@ -110,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261016-ad58c804/"
   },
   {
-   "id": "31e020e6df435fb57d5c30ae600c4301",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MIA",
-   "destination_name": "Miami",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3748.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-16T08:53:00-06:00",
-   "return_at": "",
-   "duration": 302,
-   "link": "https://www.aviasales.com/search/MEX1602MIA1?t=VB18027679801802789700000302TLCMIDMIA_31e020e6df435fb57d5c30ae600c4301_17206&search_date=13102026&expected_price_uuid=01a136fd-0a37-8030-e3fa-1aa50e587614&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=22Gy9aQU7o8vM5yzE_E1Xw&expected_price_source=share&expected_price_currency=mxn&expected_price=3748",
-   "title": "Flight deals from Mexico City to Miami",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20270216-31e020e6/"
-  },
-  {
    "id": "2708919862958906c303a9f978801094",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +108,26 @@
    "link": "https://www.aviasales.com/search/MEX2412BUE1?t=LA17981280001798184400000760MEXLIMAEP_2708919862958906c303a9f978801094_32855&search_date=13102026&expected_price_uuid=01a1372f-2305-8040-21d2-9dce07942651&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oS90tZEeBrb8ZJg6LIpaYg&expected_price_source=share&expected_price_currency=mxn&expected_price=7158",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20261224-27089198/"
+  },
+  {
+   "id": "204ef2868cb04a7810074c9af405bd54",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SAO",
+   "destination_name": "São Paulo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 8880.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-03T17:05:00-06:00",
+   "return_at": "",
+   "duration": 785,
+   "link": "https://www.aviasales.com/search/MEX0302SAO1?t=DM18016743001801732200000785NLUPUJGRU_204ef2868cb04a7810074c9af405bd54_40767&search_date=13102026&expected_price_uuid=01a1370c-2bc9-8031-6496-bb48f0392404&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=dCjMmViKRed9YYGt9y9Hbw&expected_price_source=share&expected_price_currency=mxn&expected_price=8880",
+   "title": "Flight deals from Mexico City to Sao Paulo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270203-204ef286/"
   },
   {
    "id": "7e22916c7268c00489915a187c8a5a0e",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0412IST1?t=AM17964219001796517000001045MEXCDGIST_3d726c3b7fe999c1602d9618a0701e14_94976&search_date=13102026&expected_price_uuid=01a1372b-9aa8-8031-6c44-6cc7a6831836&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=20689",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261204-3d726c3b/"
+  },
+  {
+   "id": "6103bc511b3343b82927854971e03f6e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BKK",
+   "destination_name": "Bangkok",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 22334.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-18T00:40:00-06:00",
+   "return_at": "",
+   "duration": 1715,
+   "link": "https://www.aviasales.com/search/MEX1811BKK1?t=CZ17949624001795112100001715MEXSZXBKK_6103bc511b3343b82927854971e03f6e_101946&search_date=14102026&expected_price_uuid=01a13841-5010-8040-a056-885723ab1c92&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=22334",
+   "title": "Flight deals from Mexico City to Bangkok",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261118-6103bc51/"
   }
  ]
 }

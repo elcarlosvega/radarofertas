@@ -1,6 +1,6 @@
 {
- "generated_at": 1792019044.296753,
- "generated_at_str": "14/10/2026 17:04",
+ "generated_at": 1792022644.057599,
+ "generated_at_str": "14/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-oakland-20261021-d05aaaea/"
   },
   {
+   "id": "c8bea4fbecdacc4a8efd4f2d4dd6cd4f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 3588.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-24T16:10:00-05:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX2410HOU1?t=Y417928582001792869900000135MEXIAH_c8bea4fbecdacc4a8efd4f2d4dd6cd4f_16225&search_date=14102026&expected_price_uuid=01a13cbf-48e7-8031-2511-95f160c36293&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3588",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261024-c8bea4fb/"
+  },
+  {
    "id": "28bdddcab1da7da633cddfb089f4a0f8",
    "kind": "flight",
    "origin": "GDL",
@@ -120,12 +140,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 3643.0,
+   "price": 3606.0,
    "currency": "MXN",
    "departure_at": "2026-10-25T22:05:00-06:00",
    "return_at": "",
    "duration": 295,
-   "link": "https://www.aviasales.com/search/GDL2510NYC1?t=Y417929659001792990800000295GDLEWR_28bdddcab1da7da633cddfb089f4a0f8_16475&search_date=14102026&expected_price_uuid=01a13c62-0a95-8040-62f3-75237d766736&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3eZJMbd-TO_fAcPAG5OGMw&expected_price_source=share&expected_price_currency=mxn&expected_price=3643",
+   "link": "https://www.aviasales.com/search/GDL2510NYC1?t=Y417929659001792990800000295GDLEWR_28bdddcab1da7da633cddfb089f4a0f8_16308&search_date=14102026&expected_price_uuid=01a13cb1-175b-8040-2439-5d1a42de6706&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3eZJMbd-TO_fAcPAG5OGMw&expected_price_source=share&expected_price_currency=mxn&expected_price=3606",
    "title": "Flight deals from Guadalajara to New York",
    "micro": "/oferta/vuelos/vuelo-guadalajara-nueva-york-20261025-28bdddca/"
   },
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/GDL2110SJC1?t=Y417925660001792576020000227GDLSJC_7a71099987eea66baf57ec170b87db94_21748&search_date=14102026&expected_price_uuid=01a13c29-3b82-8030-a26a-cd21575edca8&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=4809",
    "title": "Flight deals from Guadalajara to San Jose",
    "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20261021-7a710999/"
-  },
-  {
-   "id": "36a989b2d73f2d7c1f7f88fa60893897",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAN",
-   "destination_name": "San Diego",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5455.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-24T11:55:00-05:00",
-   "return_at": "",
-   "duration": 476,
-   "link": "https://www.aviasales.com/search/MEX2410SAN1?t=Y417928429001792867860000476MEXLASSAN_36a989b2d73f2d7c1f7f88fa60893897_24671&search_date=14102026&expected_price_uuid=01a13b5c-3bf3-8030-ad4e-b1cfb5b14931&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jzfNq7MCHNSYRG0g13Rdkw&expected_price_source=share&expected_price_currency=mxn&expected_price=5455",
-   "title": "Flight deals from Mexico City to San Diego",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-diego-20261024-36a989b2/"
   },
   {
    "id": "d7529606c7b6379ea4795c91ae9c0f0d",

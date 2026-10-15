@@ -1,6 +1,6 @@
 {
- "generated_at": 1792022644.057599,
- "generated_at_str": "14/10/2026 18:04",
+ "generated_at": 1792026244.0959268,
+ "generated_at_str": "14/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20270212-2ca44486/"
   },
   {
-   "id": "3b8016bfe8ea67e2cdaa4d74a6ea5ee7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2078.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-23T06:00:00-05:00",
-   "return_at": "",
-   "duration": 1120,
-   "link": "https://www.aviasales.com/search/MEX2310BOG1?t=VB17927352001792806000001120NLUGDLBOG_3b8016bfe8ea67e2cdaa4d74a6ea5ee7_9398&search_date=14102026&expected_price_uuid=01a13b98-c5b8-8030-eb62-c065e8aeec9c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0eCkDcLCrJpMGqaaSBhtjw&expected_price_source=share&expected_price_currency=mxn&expected_price=2078",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261023-3b8016bf/"
-  },
-  {
    "id": "0ba627137dfe7a284f875298b9b1cae8",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX2010NYC1?t=VB17925087001792542000000435TLCMTYJFK_0ba627137dfe7a284f875298b9b1cae8_12934&search_date=14102026&expected_price_uuid=01a13c5b-f391-8030-2f8c-3fbf5379c86e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1M7XxMEGjWjbcf0cU_b1rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2860",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261020-0ba62713/"
+  },
+  {
+   "id": "d5e6b8d67a233825eae32bdd597f9644",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJC",
+   "destination_name": "San José",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 3037.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-30T14:55:00-06:00",
+   "return_at": "",
+   "duration": 480,
+   "link": "https://www.aviasales.com/search/MEX3010SJC1?t=AM17933721001793397300000480MEXSLCSJC_d5e6b8d67a233825eae32bdd597f9644_13736&search_date=14102026&expected_price_uuid=01a13c67-5cd1-8040-685b-15db81a97716&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QjZytjRO4UBqBTz77bPx7w&expected_price_source=share&expected_price_currency=mxn&expected_price=3037",
+   "title": "Flight deals from Mexico City to San Jose",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261030-d5e6b8d6/"
   },
   {
    "id": "d05aaaea5230ddf0b28c1cbfc050effd",

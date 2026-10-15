@@ -1,6 +1,6 @@
 {
- "generated_at": 1792076696.4460676,
- "generated_at_str": "15/10/2026 09:04",
+ "generated_at": 1792080317.8986812,
+ "generated_at_str": "15/10/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -513,7 +513,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-16T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 73,
    "h_min": 729.0,
    "h_min7": 729.0
@@ -945,7 +945,7 @@
    "price_new": 2239.3,
    "pct": 30.0,
    "amount": 959.7,
-   "starts": "2026-10-11T06:00:00.000Z",
+   "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1791702323.4105484,
@@ -2150,7 +2150,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 15,
    "h_min": 3599.0,
    "h_min7": 3599.0
@@ -3182,6 +3182,24 @@
    "h_min7": 36999.0
   },
   {
+   "id": "673524",
+   "name": "LG Lavadora 22Kg Carga Frontal con Pedestal",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/673524",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h54/hc6/140652330385438.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24999.0,
+   "price_new": 18499.0,
+   "pct": 26.0,
+   "amount": 6500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790017540.4556568,
+   "h_dias": 57,
+   "h_min": 17999.0,
+   "h_min7": 18499.0
+  },
+  {
    "id": "704860",
    "name": "MSI Raider 16 Max Laptop Gaming 16\" QHD+ GeForce RTX 5080 Intel Core Ulta 9 290 HX 32GB 1TB SSD.",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Raider-16-Max-Laptop-Gaming-16-QHD-GeForce-RTX-5080-Intel-Core-Ulta-9-290-HX-32GB-1TB-SSD/p/704860",
@@ -3592,11 +3610,30 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-16T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 17,
    "h_min": 20999.0,
    "h_ayer": 20999.0,
    "h_min7": 20999.0
+  },
+  {
+   "id": "686785",
+   "name": "LG Refrigerador 25' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-25-French-Door/p/686785",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h62/h53/259626817519646.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 25999.0,
+   "price_new": 19499.0,
+   "pct": 25.0,
+   "amount": 6500.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1790107539.606813,
+   "h_dias": 61,
+   "h_min": 17699.0,
+   "h_ayer": 19499.0,
+   "h_min7": 19499.0
   },
   {
    "id": "668728",
@@ -7831,6 +7868,23 @@
    "h_min7": 1049.0
   },
   {
+   "id": "648261",
+   "name": "Pilopeptan Woman 5αR 30 Comprimidos",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Pilopeptan-Woman-5R-30-Comprimidos/p/648261",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdb/hac/502697988096030.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1379.0,
+   "price_new": 1034.25,
+   "pct": 25.0,
+   "amount": 344.75,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792080317.8986812,
+   "h_dias": 1,
+   "h_min": 1034.25
+  },
+  {
    "id": "635656",
    "name": "Pilopeptan Woman 30 Comprimidos",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Dermatologicos/Pilopeptan-Woman-30-Comprimidos/p/635656",
@@ -8930,6 +8984,25 @@
    "h_min": 19999.0,
    "h_ayer": 20999.0,
    "h_min7": 20999.0
+  },
+  {
+   "id": "683950",
+   "name": "LG Lavavajillas 60 cm 14 Servicios de Empotre",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/LG-Lavavajillas-60-cm-14-Servicios-de-Empotre/p/683950",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/he5/220575817465886.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17999.0,
+   "price_new": 13999.0,
+   "pct": 22.2,
+   "amount": 4000.0,
+   "starts": "2026-10-12T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791792328.4345086,
+   "h_dias": 66,
+   "h_min": 12699.0,
+   "h_ayer": 13999.0,
+   "h_min7": 13499.0
   },
   {
    "id": "685799",
@@ -11507,7 +11580,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-16T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 70,
    "h_min": 9999.0,
    "h_ayer": 11499.0,
@@ -11645,6 +11718,25 @@
    "h_min": 39999.0,
    "h_ayer": 44999.0,
    "h_min7": 39999.0
+  },
+  {
+   "id": "696357",
+   "name": "DELL Alienware ACT 1250 Desktop Gaming Tower NVIDIA GeForce RTX 4060 Ti Intel Core Ultra 7 32GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-ACT-1250-Desktop-Gaming-Tower-NVIDIA-GeForce-RTX-4060-Ti-Intel-Core-Ultra-7-32GB-1TB-SSD/p/696357",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/he1/505006886289438.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 54999.0,
+   "price_new": 44999.0,
+   "pct": 18.2,
+   "amount": 10000.0,
+   "starts": "2026-10-12T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1791792328.4345086,
+   "h_dias": 57,
+   "h_min": 38499.0,
+   "h_ayer": 44999.0,
+   "h_min7": 43999.0
   },
   {
    "id": "648019",
@@ -15264,7 +15356,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 25,
    "h_min": 11999.0,
    "h_min7": 12499.0
@@ -15586,7 +15678,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 51,
    "h_min": 13999.0,
    "h_min7": 15799.0
@@ -15946,7 +16038,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 11,
    "h_min": 23999.0,
    "h_min7": 25499.0
@@ -16097,7 +16189,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 29,
    "h_min": 14199.0,
    "h_min7": 15399.0
@@ -16115,7 +16207,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 18,
    "h_min": 13999.0,
    "h_min7": 14499.0
@@ -16171,7 +16263,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 31,
    "h_min": 19999.0,
    "h_min7": 21799.0
@@ -16207,7 +16299,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 32,
    "h_min": 13599.0,
    "h_min7": 14899.0
@@ -16491,7 +16583,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 43,
    "h_min": 15999.0,
    "h_min7": 17999.0
@@ -16509,7 +16601,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 44,
    "h_min": 14599.0,
    "h_min7": 14599.0
@@ -16638,7 +16730,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 31,
    "h_min": 13999.0,
    "h_min7": 14999.0
@@ -16656,7 +16748,7 @@
    "starts": "2026-10-15T06:00:00.000Z",
    "ends": "2026-10-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792076696.4460676,
+   "first_seen": 1792076711.4592867,
    "h_dias": 31,
    "h_min": 13999.0,
    "h_min7": 14999.0

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792026244.0959268,
- "generated_at_str": "14/10/2026 19:04",
+ "generated_at": 1792029844.1725056,
+ "generated_at_str": "14/10/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "6362b9e5d7272f0b9489dcd097b58823",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "OAX",
+   "destination_name": "Oaxaca de Juárez",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1348.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-19T06:40:00-05:00",
+   "return_at": "",
+   "duration": 67,
+   "link": "https://www.aviasales.com/search/MEX1910OAX1?t=VB17923920001792396020000067NLUOAX_6362b9e5d7272f0b9489dcd097b58823_6103&search_date=15102026&expected_price_uuid=01a13d25-4da7-8040-219b-48ad0bf2a29f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=u2RCrbuqGTwjRCXiikLb7w&expected_price_source=share&expected_price_currency=mxn&expected_price=1348",
+   "title": "Flight deals from Mexico City to Oaxaca",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261019-6362b9e5/"
+  },
   {
    "id": "256eca46a02f7bb2665b8b35cdcdec38",
    "kind": "flight",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX2010NYC1?t=VB17925087001792542000000435TLCMTYJFK_0ba627137dfe7a284f875298b9b1cae8_12934&search_date=14102026&expected_price_uuid=01a13c5b-f391-8030-2f8c-3fbf5379c86e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1M7XxMEGjWjbcf0cU_b1rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2860",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261020-0ba62713/"
-  },
-  {
-   "id": "d5e6b8d67a233825eae32bdd597f9644",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJC",
-   "destination_name": "San José",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 3037.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-30T14:55:00-06:00",
-   "return_at": "",
-   "duration": 480,
-   "link": "https://www.aviasales.com/search/MEX3010SJC1?t=AM17933721001793397300000480MEXSLCSJC_d5e6b8d67a233825eae32bdd597f9644_13736&search_date=14102026&expected_price_uuid=01a13c67-5cd1-8040-685b-15db81a97716&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QjZytjRO4UBqBTz77bPx7w&expected_price_source=share&expected_price_currency=mxn&expected_price=3037",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261030-d5e6b8d6/"
   },
   {
    "id": "d05aaaea5230ddf0b28c1cbfc050effd",
@@ -150,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-nueva-york-20261025-28bdddca/"
   },
   {
+   "id": "fee6e046c75b2d17051fce5ea3dbbe16",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "YTO",
+   "destination_name": "Toronto",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 3749.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-22T10:06:00-05:00",
+   "return_at": "",
+   "duration": 709,
+   "link": "https://www.aviasales.com/search/MEX2210YTO1?t=DM17926635601792713300000709NLUPUJYYZ_fee6e046c75b2d17051fce5ea3dbbe16_16976&search_date=15102026&expected_price_uuid=01a13d33-b611-8040-6fe2-f570998d9c08&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9PZO0yYkY541_fpDaWCb7Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3749",
+   "title": "Flight deals from Mexico City to Toronto",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20261022-fee6e046/"
+  },
+  {
    "id": "7a71099987eea66baf57ec170b87db94",
    "kind": "flight",
    "origin": "GDL",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/GDL2110SJC1?t=Y417925660001792576020000227GDLSJC_7a71099987eea66baf57ec170b87db94_21748&search_date=14102026&expected_price_uuid=01a13c29-3b82-8030-a26a-cd21575edca8&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=sxmbnvM0B3bs83R7I7Uqdg&expected_price_source=share&expected_price_currency=mxn&expected_price=4809",
    "title": "Flight deals from Guadalajara to San Jose",
    "micro": "/oferta/vuelos/vuelo-guadalajara-san-jose-20261021-7a710999/"
-  },
-  {
-   "id": "d7529606c7b6379ea4795c91ae9c0f0d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "YTO",
-   "destination_name": "Toronto",
-   "airline": "AC",
-   "airline_title": "Air Canada",
-   "logo": "https://pics.avs.io/600/78/AC.png",
-   "logo_tipo": "",
-   "price": 6343.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-16T06:15:00-05:00",
-   "return_at": "",
-   "duration": 1655,
-   "link": "https://www.aviasales.com/search/MEX1610YTO1?t=AC17921313001792237800001655MEXYULYTZ_d7529606c7b6379ea4795c91ae9c0f0d_28684&search_date=14102026&expected_price_uuid=01a13bd9-0d72-8040-2d3b-f26f2ba330f1&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=I0sJV350Dt5qJ2j6MGD0pg&expected_price_source=share&expected_price_currency=mxn&expected_price=6343",
-   "title": "Flight deals from Mexico City to Toronto",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20261016-d7529606/"
   },
   {
    "id": "bb4fb3c1d7b51be6722074a9ae19e761",

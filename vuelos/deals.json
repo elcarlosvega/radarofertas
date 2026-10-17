@@ -1,6 +1,6 @@
 {
- "generated_at": 1792253057.2955732,
- "generated_at_str": "17/10/2026 10:04",
+ "generated_at": 1792256644.743158,
+ "generated_at_str": "17/10/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "c8bea4fbecdacc4a8efd4f2d4dd6cd4f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2219.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-24T16:10:00-05:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX2410HOU1?t=Y417928582001792869900000135MEXIAH_c8bea4fbecdacc4a8efd4f2d4dd6cd4f_9916&search_date=17102026&expected_price_uuid=01a14a92-d6c5-8030-e0e7-bfa2607398b6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iR7axiAv7JmT2K0mYNYLCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2219",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261024-c8bea4fb/"
+  },
   {
    "id": "bf3a86e164307094ff0a6ede8a4a278a",
    "kind": "flight",
@@ -185,7 +205,7 @@
    "departure_at": "2026-11-14T18:35:00-06:00",
    "return_at": "",
    "duration": 1125,
-   "link": "https://www.aviasales.com/search/MTY1411DXB1?t=AF17946813001794784800001125MTYCDGDXB_f3cd8b5852bf40f66c84509496239e34_95398&search_date=17102026&expected_price_uuid=01a14a88-d68f-8030-a211-63e919a3b4b6&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=IiRT5Dzx3UPfRXCLM8Cr2w&expected_price_source=share&expected_price_currency=mxn&expected_price=21350",
+   "link": "https://www.aviasales.com/search/MTY1411DXB1?t=AF17946813001794784800001125MTYCDGDXB_f3cd8b5852bf40f66c84509496239e34_95398&search_date=17102026&expected_price_uuid=01a14abe-c842-8030-ee85-92a7231d9cd0&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=IiRT5Dzx3UPfRXCLM8Cr2w&expected_price_source=share&expected_price_currency=mxn&expected_price=21350",
    "title": "Flight deals from Monterrey to Dubai",
    "micro": "/oferta/vuelos/vuelo-monterrey-dubai-20261114-f3cd8b58/"
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792267466.835955,
- "generated_at_str": "17/10/2026 14:04",
+ "generated_at": 1792271044.626214,
+ "generated_at_str": "17/10/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX2001CUN1?t=Y418004266001800438420000137TLCCUN_25c61bd4c983def6866a213996fa5ff7_3223&search_date=17102026&expected_price_uuid=01a14aed-2d36-8031-6b68-e224daaa6220&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=721",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270120-25c61bd4/"
+  },
+  {
+   "id": "ca49baa198d50d3650d99c390b73e0f9",
+   "kind": "flight",
+   "origin": "VER",
+   "origin_name": "Veracruz",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 1165.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-26T18:59:00-06:00",
+   "return_at": "",
+   "duration": 760,
+   "link": "https://www.aviasales.com/search/VER2610GDL1?t=AM17930411401793086740000760VERMEXGDL_ca49baa198d50d3650d99c390b73e0f9_5206&search_date=17102026&expected_price_uuid=01a14b79-2185-8040-a761-1112a6e12134&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RlCZHYoOS2pCmZtYZKUFxw&expected_price_source=share&expected_price_currency=mxn&expected_price=1165",
+   "title": "Flight deals from Veracruz to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-veracruz-guadalajara-20261026-ca49baa1/"
   },
   {
    "id": "d065559b784c1a8aa923468ae804b155",
@@ -85,7 +105,7 @@
    "departure_at": "2027-03-20T07:39:00-06:00",
    "return_at": "",
    "duration": 111,
-   "link": "https://www.aviasales.com/search/VER2003CUN1?t=VB18055283401805538600000111VERCUN_9893007d3b34e6389fd8788d08af29ec_10335&search_date=17102026&expected_price_uuid=01a14a43-b312-8030-a4ed-ad0ca4f83484&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=D6hGkcrOT64dvsWm5HsP5w&expected_price_source=share&expected_price_currency=mxn&expected_price=2313",
+   "link": "https://www.aviasales.com/search/VER2003CUN1?t=VB18055283401805538600000111VERCUN_9893007d3b34e6389fd8788d08af29ec_10335&search_date=17102026&expected_price_uuid=01a14b85-bddb-8040-283c-493cf7654ce4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=D6hGkcrOT64dvsWm5HsP5w&expected_price_source=share&expected_price_currency=mxn&expected_price=2313",
    "title": "Flight deals from Veracruz to Cancun",
    "micro": "/oferta/vuelos/vuelo-veracruz-cancun-20270320-9893007d/"
   },
@@ -130,26 +150,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-raleigh-20261027-7b6c82b0/"
   },
   {
-   "id": "418ae4f53112d62bf56280c1ee189838",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "YTO",
-   "destination_name": "Toronto",
-   "airline": "AC",
-   "airline_title": "Air Canada",
-   "logo": "https://pics.avs.io/600/78/AC.png",
-   "logo_tipo": "",
-   "price": 6158.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-20T07:00:00-05:00",
-   "return_at": "",
-   "duration": 1285,
-   "link": "https://www.aviasales.com/search/MEX2010YTO1?t=AC17924796001792563900001285MEXYVRYOWYYZ_418ae4f53112d62bf56280c1ee189838_27517&search_date=17102026&expected_price_uuid=01a14aef-a49e-8040-6f6a-eae9ae2f0840&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=-6u3md_GXrLjGUCz122KJg&expected_price_source=share&expected_price_currency=mxn&expected_price=6158",
-   "title": "Flight deals from Mexico City to Toronto",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20261020-418ae4f5/"
-  },
-  {
    "id": "09bb71b74e02437c3bd598a921eacc14",
    "kind": "flight",
    "origin": "MEX",
@@ -168,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1011DPS1?t=3U17942923801794521400002977NLUGDLLAXTFUDPS_09bb71b74e02437c3bd598a921eacc14_43960&search_date=17102026&expected_price_uuid=01a14af3-3044-8040-247d-0b48b08c7826&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YmtP5DTqQcDHDlxsepEUyg&expected_price_source=share&expected_price_currency=mxn&expected_price=9838",
    "title": "Flight deals from Mexico City to Denpasar (Bali)",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261110-09bb71b7/"
+  },
+  {
+   "id": "87660f110251726e6be8a6a8deaad49b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "IB",
+   "airline_title": "Iberia",
+   "logo": "https://pics.avs.io/600/150/IB.png",
+   "logo_tipo": "",
+   "price": 10474.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-07T15:05:00-06:00",
+   "return_at": "",
+   "duration": 940,
+   "link": "https://www.aviasales.com/search/MEX0711MAD1?t=IB17940639001794145500000940TLCMTYMAD_87660f110251726e6be8a6a8deaad49b_46802&search_date=17102026&expected_price_uuid=01a14b96-be2e-8040-69f4-f7bd5c27503b&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=68PtEBO7zU_oB3TqakFlOw&expected_price_source=share&expected_price_currency=mxn&expected_price=10474",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261107-87660f11/"
   },
   {
    "id": "9ed14ae68238ee1d7b5ebcf114235b6f",

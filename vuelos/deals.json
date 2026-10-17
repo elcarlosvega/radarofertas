@@ -1,6 +1,6 @@
 {
- "generated_at": 1792191844.3059516,
- "generated_at_str": "16/10/2026 17:04",
+ "generated_at": 1792195444.3683817,
+ "generated_at_str": "16/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,24 +30,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20270214-33da1472/"
   },
   {
-   "id": "02d46a2dee378232e78666be0f247a3a",
+   "id": "472b3d804f63b398663fd42d234c1a2e",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "CUN",
-   "destination_name": "Cancún",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
    "airline": "VB",
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1368.0,
+   "price": 2090.0,
    "currency": "MXN",
-   "departure_at": "2026-11-24T17:44:00-06:00",
+   "departure_at": "2026-10-30T08:06:00-06:00",
    "return_at": "",
-   "duration": 136,
-   "link": "https://www.aviasales.com/search/MEX2411CUN1?t=VB17955422401795554000000136TLCCUN_02d46a2dee378232e78666be0f247a3a_6147&search_date=16102026&expected_price_uuid=01a14636-97fc-8040-68df-86059aab4ea2&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=1368",
-   "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261124-02d46a2d/"
+   "duration": 994,
+   "link": "https://www.aviasales.com/search/MEX3010BOG1?t=VB17933475601793410800000994NLUGDLBOG_472b3d804f63b398663fd42d234c1a2e_9338&search_date=16102026&expected_price_uuid=01a1471a-0c51-8040-264d-84fd0f0d2f0f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dLKqgckYefXXHJouEvAI0A&expected_price_source=share&expected_price_currency=mxn&expected_price=2090",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261030-472b3d80/"
   },
   {
    "id": "43e3e38a2908e2fb2411828fbc4710b8",
@@ -100,12 +100,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 4771.0,
+   "price": 4142.0,
    "currency": "MXN",
    "departure_at": "2026-10-26T12:05:00-06:00",
    "return_at": "",
    "duration": 466,
-   "link": "https://www.aviasales.com/search/MEX2610SAN1?t=Y417930163001793040660000466MEXLASSAN_b8177631390c7ac79f6af936b64ecb43_21434&search_date=16102026&expected_price_uuid=01a145de-05f2-8030-2778-60bfbeab62bf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m2Y8a9FsSH3ZE7FSjpbIWg&expected_price_source=share&expected_price_currency=mxn&expected_price=4771",
+   "link": "https://www.aviasales.com/search/MEX2610SAN1?t=Y417930163001793040660000466MEXLASSAN_b8177631390c7ac79f6af936b64ecb43_18510&search_date=16102026&expected_price_uuid=01a1471a-fbc3-8030-ec88-ade9998b492e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m2Y8a9FsSH3ZE7FSjpbIWg&expected_price_source=share&expected_price_currency=mxn&expected_price=4142",
    "title": "Flight deals from Mexico City to San Diego",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-diego-20261026-b8177631/"
   },

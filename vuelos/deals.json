@@ -1,6 +1,6 @@
 {
- "generated_at": 1792249444.081361,
- "generated_at_str": "17/10/2026 09:04",
+ "generated_at": 1792253057.2955732,
+ "generated_at_str": "17/10/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "bf3a86e164307094ff0a6ede8a4a278a",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2256.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T13:42:00-06:00",
+   "return_at": "",
+   "duration": 202,
+   "link": "https://www.aviasales.com/search/GDL0212LAX1?t=Y417962189201796223840000202GDLLAX_bf3a86e164307094ff0a6ede8a4a278a_10082&search_date=17102026&expected_price_uuid=01a14a8f-a12e-8040-2e23-b3466606a7f3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dpRFyWLEUOk8j7MoHXPdQw&expected_price_source=share&expected_price_currency=mxn&expected_price=2256",
+   "title": "Flight deals from Guadalajara to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261202-bf3a86e1/"
+  },
   {
    "id": "9893007d3b34e6389fd8788d08af29ec",
    "kind": "flight",
@@ -28,6 +48,46 @@
    "link": "https://www.aviasales.com/search/VER2003CUN1?t=VB18055283401805538600000111VERCUN_9893007d3b34e6389fd8788d08af29ec_10335&search_date=17102026&expected_price_uuid=01a14a43-b312-8030-a4ed-ad0ca4f83484&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=D6hGkcrOT64dvsWm5HsP5w&expected_price_source=share&expected_price_currency=mxn&expected_price=2313",
    "title": "Flight deals from Veracruz to Cancun",
    "micro": "/oferta/vuelos/vuelo-veracruz-cancun-20270320-9893007d/"
+  },
+  {
+   "id": "5d6c8e2ecc59a10d6b41cfd83a11f298",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "ONT",
+   "destination_name": "Ontario",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2404.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T21:02:00-06:00",
+   "return_at": "",
+   "duration": 193,
+   "link": "https://www.aviasales.com/search/GDL0212ONT1?t=Y417962453201796249700000193GDLONT_5d6c8e2ecc59a10d6b41cfd83a11f298_10743&search_date=17102026&expected_price_uuid=01a14a8f-a12e-8040-2e23-b3466606a7f3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaS9NWEX9ZpwJoLnwJIjzA&expected_price_source=share&expected_price_currency=mxn&expected_price=2404",
+   "title": "Flight deals from Guadalajara to Ontario",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20261202-5d6c8e2e/"
+  },
+  {
+   "id": "682bc3a5f44edfcb70c28024120fd0a2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SAN",
+   "destination_name": "San Diego",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 4401.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-27T06:00:00-06:00",
+   "return_at": "",
+   "duration": 821,
+   "link": "https://www.aviasales.com/search/MEX2710SAN1?t=VB17930808001793126460000821NLUMTYLASSAN_682bc3a5f44edfcb70c28024120fd0a2_19667&search_date=17102026&expected_price_uuid=01a14a87-8337-8030-630d-a74c87ee2a4e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EKzWyTWw0j4W-eDQRQMkoA&expected_price_source=share&expected_price_currency=mxn&expected_price=4401",
+   "title": "Flight deals from Mexico City to San Diego",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-diego-20261027-682bc3a5/"
   },
   {
    "id": "f6949c621ab321fa52a9522e615612a6",
@@ -108,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0102CMN1?t=AF18015117001801587900000910MEXCDGCMN_e91fc19aa759913e4792d39597fee369_52802&search_date=17102026&expected_price_uuid=01a14995-1ed0-8031-6631-4cae9443bad3&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=zd3eFi1iZO9fpsti3qhnGw&expected_price_source=share&expected_price_currency=mxn&expected_price=11817",
    "title": "Flight deals from Mexico City to Casablanca",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-casablanca-20270201-e91fc19a/"
+  },
+  {
+   "id": "f3cd8b5852bf40f66c84509496239e34",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "DXB",
+   "destination_name": "Dubái",
+   "airline": "AF",
+   "airline_title": "Air France",
+   "logo": "https://pics.avs.io/600/150/AF.png",
+   "logo_tipo": "",
+   "price": 21350.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-14T18:35:00-06:00",
+   "return_at": "",
+   "duration": 1125,
+   "link": "https://www.aviasales.com/search/MTY1411DXB1?t=AF17946813001794784800001125MTYCDGDXB_f3cd8b5852bf40f66c84509496239e34_95398&search_date=17102026&expected_price_uuid=01a14a88-d68f-8030-a211-63e919a3b4b6&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=IiRT5Dzx3UPfRXCLM8Cr2w&expected_price_source=share&expected_price_currency=mxn&expected_price=21350",
+   "title": "Flight deals from Monterrey to Dubai",
+   "micro": "/oferta/vuelos/vuelo-monterrey-dubai-20261114-f3cd8b58/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792238666.5180013,
- "generated_at_str": "17/10/2026 06:04",
+ "generated_at": 1792242244.3126106,
+ "generated_at_str": "17/10/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "32ed57eea34fad3d2d30c75a5c39108c",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1586.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-26T11:01:00-06:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX2610CUN1?t=Y417930124601793024160000135NLUCUN_32ed57eea34fad3d2d30c75a5c39108c_7085&search_date=17102026&expected_price_uuid=01a149e9-2398-8031-27e8-fb7d93e2086e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JIV4bUQhAgKk9eNQlt92RQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1586",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261026-32ed57ee/"
+  },
   {
    "id": "bf3a86e164307094ff0a6ede8a4a278a",
    "kind": "flight",
@@ -85,7 +105,7 @@
    "departure_at": "2026-11-24T00:25:00-06:00",
    "return_at": "",
    "duration": 2645,
-   "link": "https://www.aviasales.com/search/MEX2411SZX1?t=AC17954799001795689000002645MEXYVRPVGSZX_96e21fc61cb842a5413f29b7342c35c0_51358&search_date=17102026&expected_price_uuid=01a149af-54b9-8030-601d-572d2dbcf7e9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fzCwM9imbfAGzEwH0BjAtw&expected_price_source=share&expected_price_currency=mxn&expected_price=11494",
+   "link": "https://www.aviasales.com/search/MEX2411SZX1?t=AC17954799001795689000002645MEXYVRPVGSZX_96e21fc61cb842a5413f29b7342c35c0_51358&search_date=17102026&expected_price_uuid=01a149e2-e9ef-8031-2af8-2b7f1c3b4aad&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fzCwM9imbfAGzEwH0BjAtw&expected_price_source=share&expected_price_currency=mxn&expected_price=11494",
    "title": "Flight deals from Mexico City to Shenzhen",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shenzhen-20261124-96e21fc6/"
   },

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792242244.3126106,
- "generated_at_str": "17/10/2026 07:04",
+ "generated_at": 1792245844.337483,
+ "generated_at_str": "17/10/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/GDL0212ONT1?t=Y417962453201796249700000193GDLONT_5d6c8e2ecc59a10d6b41cfd83a11f298_11073&search_date=17102026&expected_price_uuid=01a14905-9241-8040-aeb0-221f3c1b75f7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaS9NWEX9ZpwJoLnwJIjzA&expected_price_source=share&expected_price_currency=mxn&expected_price=2478",
    "title": "Flight deals from Guadalajara to Ontario",
    "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20261202-5d6c8e2e/"
+  },
+  {
+   "id": "f6949c621ab321fa52a9522e615612a6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4720.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-13T22:00:00-06:00",
+   "return_at": "",
+   "duration": 355,
+   "link": "https://www.aviasales.com/search/MEX1301LIM1?t=Y417998776001799902500000355MEXLIM_f6949c621ab321fa52a9522e615612a6_21088&search_date=17102026&expected_price_uuid=01a149ee-ffbb-8030-6d1f-405e7afc5d10&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH1%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4719",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270113-f6949c62/"
   },
   {
    "id": "e70b3a792f2eb17388fcae8edaef3564",

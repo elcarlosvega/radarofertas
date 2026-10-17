@@ -1,6 +1,6 @@
 {
- "generated_at": 1792220644.4762554,
- "generated_at_str": "17/10/2026 01:04",
+ "generated_at": 1792224244.2837887,
+ "generated_at_str": "17/10/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "4f322c24650c4921d14d4e6c969f80d4",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1267.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-18T10:45:00-05:00",
-   "return_at": "",
-   "duration": 84,
-   "link": "https://www.aviasales.com/search/MEX1810PVR1?t=VB17923203001792325340000084TLCPVR_4f322c24650c4921d14d4e6c969f80d4_5662&search_date=17102026&expected_price_uuid=01a1475e-070c-8030-a5cb-24872d220d28&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=1267",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261018-4f322c24/"
-  },
   {
    "id": "fff580b8bfbbeca1178f2d2561c83c58",
    "kind": "flight",
@@ -90,46 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20261202-5d6c8e2e/"
   },
   {
-   "id": "4ed186bef26f8abe16b10cd2821f9bdb",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "ORL",
-   "destination_name": "Orlando",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3921.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-23T09:00:00-06:00",
-   "return_at": "",
-   "duration": 208,
-   "link": "https://www.aviasales.com/search/GDL2312ORL1?t=Y417980164001798032480000208GDLMCO_4ed186bef26f8abe16b10cd2821f9bdb_17518&search_date=17102026&expected_price_uuid=01a14771-ff54-8040-6cf0-1556329057ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3yu9G9HUj18vQABQiYdFEw&expected_price_source=share&expected_price_currency=mxn&expected_price=3921",
-   "title": "Flight deals from Guadalajara to Orlando",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-orlando-20261223-4ed186be/"
-  },
-  {
-   "id": "7539bf0ceb8c0d9da4b16a4f233a0273",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "HOU",
-   "destination_name": "Houston",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3958.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-27T06:01:00-06:00",
-   "return_at": "",
-   "duration": 95,
-   "link": "https://www.aviasales.com/search/MTY2710HOU1?t=VB17930808601793090160000095MTYIAH_7539bf0ceb8c0d9da4b16a4f233a0273_17684&search_date=17102026&expected_price_uuid=01a1482a-534c-8031-2a00-8b660a35d398&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AcUgW4nFL9xIiDlnkMJSCA&expected_price_source=share&expected_price_currency=mxn&expected_price=3958",
-   "title": "Flight deals from Monterrey to Houston",
-   "micro": "/oferta/vuelos/vuelo-monterrey-houston-20261027-7539bf0c/"
-  },
-  {
    "id": "b0dfb81eca5207daec77c5352a27377f",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX2710SAN1?t=VB17930988001793121360000436MEXLASSAN_b0dfb81eca5207daec77c5352a27377f_20328&search_date=17102026&expected_price_uuid=01a14863-1adc-8031-6815-05d8a6950664&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_seNG8fn27z-S4HfPAefIg&expected_price_source=share&expected_price_currency=mxn&expected_price=4549",
    "title": "Flight deals from Mexico City to San Diego",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-diego-20261027-b0dfb81e/"
-  },
-  {
-   "id": "1cbb7a8fc5d7a1eed103810f117f2e2a",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 9087.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-04T17:25:00-06:00",
-   "return_at": "",
-   "duration": 1960,
-   "link": "https://www.aviasales.com/search/MTY0411MAD1?t=BA17938131001793955900001960MTYDFWMCOMAD_1cbb7a8fc5d7a1eed103810f117f2e2a_40602&search_date=17102026&expected_price_uuid=01a14779-0438-8040-6747-38852e7ec31b&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=gxf2Psse1-1TMcIvEhmN1w&expected_price_source=share&expected_price_currency=mxn&expected_price=9087",
-   "title": "Flight deals from Monterrey to Madrid",
-   "micro": "/oferta/vuelos/vuelo-monterrey-ciudad-de-madrid-20261104-1cbb7a8f/"
   }
  ]
 }

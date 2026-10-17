@@ -1,6 +1,6 @@
 {
- "generated_at": 1792231444.6176577,
- "generated_at_str": "17/10/2026 04:04",
+ "generated_at": 1792235045.2581692,
+ "generated_at_str": "17/10/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "fff580b8bfbbeca1178f2d2561c83c58",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1298.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-12T22:33:00-06:00",
-   "return_at": "",
-   "duration": 106,
-   "link": "https://www.aviasales.com/search/MEX1201MID1?t=VB17997931801799799540000106NLUMID_fff580b8bfbbeca1178f2d2561c83c58_5798&search_date=17102026&expected_price_uuid=01a1482b-13b3-8030-aba2-013b3d1e3869&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Sj0irl9n-NK9UX4qLBHhPw&expected_price_source=share&expected_price_currency=mxn&expected_price=1298",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20270112-fff580b8/"
-  },
   {
    "id": "bf3a86e164307094ff0a6ede8a4a278a",
    "kind": "flight",

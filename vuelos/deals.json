@@ -1,6 +1,6 @@
 {
- "generated_at": 1792202644.1675692,
- "generated_at_str": "16/10/2026 20:04",
+ "generated_at": 1792206244.2255738,
+ "generated_at_str": "16/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,46 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "909b445621af922ac1730c784bd37c00",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1184.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-18T06:30:00-05:00",
+   "return_at": "",
+   "duration": 74,
+   "link": "https://www.aviasales.com/search/MEX1810GDL1?t=Y417923050001792309440000074NLUGDL_909b445621af922ac1730c784bd37c00_5317&search_date=16102026&expected_price_uuid=01a146a7-a196-8031-6880-eff72da431b5&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=YyHf0dpd2HB7XfW7eX9cHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1184",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20261018-909b4456/"
+  },
+  {
+   "id": "4f322c24650c4921d14d4e6c969f80d4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1267.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-18T10:45:00-05:00",
+   "return_at": "",
+   "duration": 84,
+   "link": "https://www.aviasales.com/search/MEX1810PVR1?t=VB17923203001792325340000084TLCPVR_4f322c24650c4921d14d4e6c969f80d4_5662&search_date=17102026&expected_price_uuid=01a1475e-070c-8030-a5cb-24872d220d28&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=2mmQMP352qjfF6QI9xuG1A&expected_price_source=share&expected_price_currency=mxn&expected_price=1267",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261018-4f322c24/"
+  },
   {
    "id": "d061c9e82157dd527de6529f0d547424",
    "kind": "flight",
@@ -50,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261030-472b3d80/"
   },
   {
+   "id": "bf3a86e164307094ff0a6ede8a4a278a",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2256.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T13:42:00-06:00",
+   "return_at": "",
+   "duration": 202,
+   "link": "https://www.aviasales.com/search/GDL0212LAX1?t=Y417962189201796223840000202GDLLAX_bf3a86e164307094ff0a6ede8a4a278a_10082&search_date=17102026&expected_price_uuid=01a147b8-5ff4-8040-22d2-0b066ff7b408&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dpRFyWLEUOk8j7MoHXPdQw&expected_price_source=share&expected_price_currency=mxn&expected_price=2256",
+   "title": "Flight deals from Guadalajara to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261202-bf3a86e1/"
+  },
+  {
    "id": "d9bc507455643aa5d4b97929db4f13cd",
    "kind": "flight",
    "origin": "MEX",
@@ -70,7 +130,27 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261027-d9bc5074/"
   },
   {
-   "id": "c9f1f113875a070e879abeb759cbcad2",
+   "id": "5d6c8e2ecc59a10d6b41cfd83a11f298",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "ONT",
+   "destination_name": "Ontario",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2404.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T21:02:00-06:00",
+   "return_at": "",
+   "duration": 193,
+   "link": "https://www.aviasales.com/search/GDL0212ONT1?t=Y417962453201796249700000193GDLONT_5d6c8e2ecc59a10d6b41cfd83a11f298_10743&search_date=17102026&expected_price_uuid=01a147b8-5ff4-8040-22d2-0b066ff7b408&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaS9NWEX9ZpwJoLnwJIjzA&expected_price_source=share&expected_price_currency=mxn&expected_price=2404",
+   "title": "Flight deals from Guadalajara to Ontario",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20261202-5d6c8e2e/"
+  },
+  {
+   "id": "0ba627137dfe7a284f875298b9b1cae8",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -80,14 +160,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2571.0,
+   "price": 3347.0,
    "currency": "MXN",
-   "departure_at": "2026-10-17T06:00:00-05:00",
+   "departure_at": "2026-10-20T15:05:00-05:00",
    "return_at": "",
-   "duration": 980,
-   "link": "https://www.aviasales.com/search/MEX1710NYC1?t=VB17922168001792282800000980NLUMTYJFK_c9f1f113875a070e879abeb759cbcad2_11548&search_date=16102026&expected_price_uuid=01a14664-4024-8040-2dfe-02595dd6b055&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=nWC9zUylaSg-rsK0eGZ7Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2571",
+   "duration": 435,
+   "link": "https://www.aviasales.com/search/MEX2010NYC1?t=VB17925087001792542000000435TLCMTYJFK_0ba627137dfe7a284f875298b9b1cae8_14957&search_date=16102026&expected_price_uuid=01a1471c-152b-8040-2fd5-52da977232c7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1M7XxMEGjWjbcf0cU_b1rQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3347",
    "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261017-c9f1f113/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261020-0ba62713/"
   },
   {
    "id": "4ed186bef26f8abe16b10cd2821f9bdb",
@@ -108,26 +188,6 @@
    "link": "https://www.aviasales.com/search/GDL2312ORL1?t=Y417980164001798032480000208GDLMCO_4ed186bef26f8abe16b10cd2821f9bdb_17518&search_date=17102026&expected_price_uuid=01a14771-ff54-8040-6cf0-1556329057ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3yu9G9HUj18vQABQiYdFEw&expected_price_source=share&expected_price_currency=mxn&expected_price=3921",
    "title": "Flight deals from Guadalajara to Orlando",
    "micro": "/oferta/vuelos/vuelo-guadalajara-orlando-20261223-4ed186be/"
-  },
-  {
-   "id": "7539bf0ceb8c0d9da4b16a4f233a0273",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "HOU",
-   "destination_name": "Houston",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3958.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-27T06:01:00-06:00",
-   "return_at": "",
-   "duration": 95,
-   "link": "https://www.aviasales.com/search/MTY2710HOU1?t=VB17930808601793090160000095MTYIAH_7539bf0ceb8c0d9da4b16a4f233a0273_17684&search_date=17102026&expected_price_uuid=01a14777-b2be-8030-2c08-8438c8dcfcdd&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AcUgW4nFL9xIiDlnkMJSCA&expected_price_source=share&expected_price_currency=mxn&expected_price=3958",
-   "title": "Flight deals from Monterrey to Houston",
-   "micro": "/oferta/vuelos/vuelo-monterrey-houston-20261027-7539bf0c/"
   },
   {
    "id": "b8177631390c7ac79f6af936b64ecb43",
@@ -210,26 +270,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261017-8e9f78be/"
   },
   {
-   "id": "fcb64b4ed355e4480c4a0b7688bd39e0",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HKG",
-   "destination_name": "Hong Kong",
-   "airline": "AC",
-   "airline_title": "Air Canada",
-   "logo": "https://pics.avs.io/600/78/AC.png",
-   "logo_tipo": "",
-   "price": 9658.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-06T11:00:00-06:00",
-   "return_at": "",
-   "duration": 1690,
-   "link": "https://www.aviasales.com/search/MEX0602HKG1?t=AC18019116001802063400001690MEXLASSFOYVRHKG_fcb64b4ed355e4480c4a0b7688bd39e0_43390&search_date=16102026&expected_price_uuid=01a14658-b47c-8030-2785-e224b092a3f2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VTj5M2FHV-CAdy7KWGcNDw&expected_price_source=share&expected_price_currency=mxn&expected_price=9658",
-   "title": "Flight deals from Mexico City to Hong Kong",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20270206-fcb64b4e/"
-  },
-  {
    "id": "c9dd8a3f02579aa5d16eb47dd0bad6b3",
    "kind": "flight",
    "origin": "MEX",
@@ -248,26 +288,6 @@
    "link": "https://www.aviasales.com/search/MEX0412BKK1?t=CZ17963487001796494500001650MEXSZXBKK_c9dd8a3f02579aa5d16eb47dd0bad6b3_101168&search_date=17102026&expected_price_uuid=01a1475c-1d0e-8030-a3cd-9698c882816b&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=QIJ4M8cWFOPXiqlw8WRCeg&expected_price_source=share&expected_price_currency=mxn&expected_price=22641",
    "title": "Flight deals from Mexico City to Bangkok",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261204-c9dd8a3f/"
-  },
-  {
-   "id": "4273cd439801c0a0028fbc25890c2716",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "KUL",
-   "destination_name": "Kuala Lumpur",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 28726.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-06T22:15:00-06:00",
-   "return_at": "",
-   "duration": 1720,
-   "link": "https://www.aviasales.com/search/MEX0602KUL1?t=AM18019521001802105700001720MEXNRTKUL_4273cd439801c0a0028fbc25890c2716_129053&search_date=16102026&expected_price_uuid=01a1465c-7ffb-8030-677b-a4415c56338c&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=-jx-H-qhww5LLw7KVx8kng&expected_price_source=share&expected_price_currency=mxn&expected_price=28726",
-   "title": "Flight deals from Mexico City to Kuala Lumpur",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-kuala-lumpur-20270206-4273cd43/"
   }
  ]
 }

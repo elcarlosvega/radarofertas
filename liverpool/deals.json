@@ -1,6 +1,6 @@
 {
- "generated_at": 1792346642.8289466,
- "generated_at_str": "18/10/2026 12:10",
+ "generated_at": 1792350242.8269887,
+ "generated_at_str": "18/10/2026 13:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -399,6 +399,24 @@
    "h_min": 3499.0,
    "h_ayer": 3999.0,
    "h_min7": 3499.0
+  },
+  {
+   "id": "100000025803",
+   "name": "CASAGORA Recámara Palermo",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/rec-mara-palermo/100000025803",
+   "img": "https://cm3.liverpool.com.mx/lg/100000025803.jpg",
+   "category": "Recamaras",
+   "price_old": 17579.0,
+   "price_new": 7031.6,
+   "pct": 60.0,
+   "amount": 10547.4,
+   "ends": "",
+   "first_seen": 1792350242.8269887,
+   "in_stock": true,
+   "h_dias": 11,
+   "h_min": 7031.6,
+   "h_ayer": 7031.6,
+   "h_min7": 7031.6
   },
   {
    "id": "1185609525",
@@ -1742,24 +1760,6 @@
    "h_min": 21349.0,
    "h_ayer": 21349.0,
    "h_min7": 21349.0
-  },
-  {
-   "id": "1154164878",
-   "name": "EUREKA Aspiradora de mano nes215a 650 ml",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-nes215a-650-ml/1154164878",
-   "img": "https://sp625.liverpool.com.mx/i/1154164878.jpg",
-   "category": "Aspiradoras",
-   "price_old": 3898.0,
-   "price_new": 1414.42,
-   "pct": 63.7,
-   "amount": 2483.58,
-   "ends": "",
-   "first_seen": 1791846241.964371,
-   "in_stock": true,
-   "h_dias": 15,
-   "h_min": 1369.98,
-   "h_ayer": 1415.52,
-   "h_min7": 1414.42
   },
   {
    "id": "1181568506",
@@ -8539,24 +8539,6 @@
    "h_min7": 11299.0
   },
   {
-   "id": "999680512682",
-   "name": "GENÉRICA Smartwatch con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999680512682",
-   "img": "https://sp101.liverpool.com.mx/i/1202498571.jpg",
-   "category": "Smartwatch",
-   "price_old": 1763.18,
-   "price_new": 759.0,
-   "pct": 57.0,
-   "amount": 1004.18,
-   "ends": "",
-   "first_seen": 1792260242.8871381,
-   "in_stock": true,
-   "h_dias": 33,
-   "h_min": 675.96,
-   "h_ayer": 768.93,
-   "h_min7": 759.0
-  },
-  {
    "id": "1162415588",
    "name": "STF Bocina portátil bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-bluetooth/1162415588",
@@ -9650,6 +9632,24 @@
    "h_min7": 893.95
   },
   {
+   "id": "999680512682",
+   "name": "GENÉRICA Smartwatch con GPS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999680512682",
+   "img": "https://sp101.liverpool.com.mx/i/1202498571.jpg",
+   "category": "Smartwatch",
+   "price_old": 1750.0,
+   "price_new": 785.77,
+   "pct": 55.1,
+   "amount": 964.23,
+   "ends": "",
+   "first_seen": 1792260242.8871381,
+   "in_stock": true,
+   "h_dias": 33,
+   "h_min": 675.96,
+   "h_ayer": 768.93,
+   "h_min7": 759.0
+  },
+  {
    "id": "999686815890",
    "name": "BAZAR STORE Sofá Atlanta",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sof-atlanta/999686815890",
@@ -9936,6 +9936,24 @@
    "h_min": 7899.0,
    "h_ayer": 8199.0,
    "h_min7": 8199.0
+  },
+  {
+   "id": "1154164878",
+   "name": "EUREKA Aspiradora de mano nes215a 650 ml",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-nes215a-650-ml/1154164878",
+   "img": "https://sp625.liverpool.com.mx/i/1154164878.jpg",
+   "category": "Aspiradoras",
+   "price_old": 2899.0,
+   "price_new": 1414.33,
+   "pct": 51.2,
+   "amount": 1484.67,
+   "ends": "",
+   "first_seen": 1791846241.964371,
+   "in_stock": true,
+   "h_dias": 15,
+   "h_min": 1369.98,
+   "h_ayer": 1415.52,
+   "h_min7": 1414.33
   },
   {
    "id": "999673988206",
@@ -10411,16 +10429,16 @@
    "img": "https://sp343.liverpool.com.mx/i/1185131242.jpg",
    "category": "Aspiradoras",
    "price_old": 3165.0,
-   "price_new": 1579.79,
+   "price_new": 1579.0,
    "pct": 50.1,
-   "amount": 1585.21,
+   "amount": 1586.0,
    "ends": "",
    "first_seen": 1790521442.4163353,
    "in_stock": true,
    "h_dias": 32,
-   "h_min": 1579.79,
+   "h_min": 1579.0,
    "h_ayer": 1579.79,
-   "h_min7": 1579.79
+   "h_min7": 1579.0
   },
   {
    "id": "999683531765",
@@ -11100,6 +11118,24 @@
    "h_dias": 5,
    "h_min": 1799.0,
    "h_ayer": 1799.0
+  },
+  {
+   "id": "1181478591",
+   "name": "LENOVO Laptop gamer 83F5000KLM 16 pulgadas WQXGA Intel core ultra 9 NVIDIA GeForce RTX 5090 32 GB RAM 2 TB",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-gamer-83f5000klm-16-pulgadas-wqxga-intel-core-ultra-9-nvidia-geforce-rtx-/1181478591",
+   "img": "https://sp628.liverpool.com.mx/i/1181478591-laptop-gamer-lenovo-83f5000k.jpg",
+   "category": "Laptops",
+   "price_old": 155999.0,
+   "price_new": 103999.2,
+   "pct": 33.3,
+   "amount": 51999.8,
+   "ends": "",
+   "first_seen": 1792350242.8269887,
+   "in_stock": true,
+   "h_dias": 7,
+   "h_min": 103999.2,
+   "h_ayer": 103999.2,
+   "h_min7": 103999.2
   },
   {
    "id": "1146204194",
@@ -14349,16 +14385,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1200775089.jpg",
    "category": "Aspiradoras",
    "price_old": 2800.0,
-   "price_new": 1481.79,
+   "price_new": 1481.0,
    "pct": 47.1,
-   "amount": 1318.21,
+   "amount": 1319.0,
    "ends": "",
    "first_seen": 1790629442.8263323,
    "in_stock": true,
    "h_dias": 32,
-   "h_min": 1481.79,
+   "h_min": 1481.0,
    "h_ayer": 1481.79,
-   "h_min7": 1481.79
+   "h_min7": 1481.0
   },
   {
    "id": "1169645295",
@@ -17279,24 +17315,6 @@
    "h_min": 1130.75,
    "h_ayer": 1130.75,
    "h_min7": 1130.75
-  },
-  {
-   "id": "999679469398",
-   "name": "TRUPER Aspiradora Linea Hepa de solidos y liquidos 15 litros",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-linea-hepa-de-solidos-y-liquidos-15-litros/999679469398",
-   "img": "https://sp101.liverpool.com.mx/i/1200775968.jpg",
-   "category": "Aspiradoras",
-   "price_old": 3153.84,
-   "price_new": 1740.79,
-   "pct": 44.8,
-   "amount": 1413.05,
-   "ends": "",
-   "first_seen": 1792253043.016252,
-   "in_stock": true,
-   "h_dias": 33,
-   "h_min": 1450.0,
-   "h_ayer": 1740.79,
-   "h_min7": 1740.79
   },
   {
    "id": "999673624907",
@@ -20967,6 +20985,24 @@
    "h_min": 6650.0,
    "h_ayer": 6650.0,
    "h_min7": 6650.0
+  },
+  {
+   "id": "999679469398",
+   "name": "TRUPER Aspiradora Linea Hepa de solidos y liquidos 15 litros",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-linea-hepa-de-solidos-y-liquidos-15-litros/999679469398",
+   "img": "https://sp101.liverpool.com.mx/i/1200775968.jpg",
+   "category": "Aspiradoras",
+   "price_old": 2999.0,
+   "price_new": 1740.0,
+   "pct": 42.0,
+   "amount": 1259.0,
+   "ends": "",
+   "first_seen": 1792253043.016252,
+   "in_stock": true,
+   "h_dias": 33,
+   "h_min": 1450.0,
+   "h_ayer": 1740.79,
+   "h_min7": 1740.0
   },
   {
    "id": "1155932283",

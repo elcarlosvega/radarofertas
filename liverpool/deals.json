@@ -1,6 +1,6 @@
 {
- "generated_at": 1792285442.6768708,
- "generated_at_str": "17/10/2026 19:08",
+ "generated_at": 1792289042.9009035,
+ "generated_at_str": "17/10/2026 20:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -157,16 +157,16 @@
    "img": "https://sp625.liverpool.com.mx/i/1110136141.jpg",
    "category": "Aspiradoras",
    "price_old": 5733.0,
-   "price_new": 1490.51,
+   "price_new": 1490.49,
    "pct": 74.0,
-   "amount": 4242.49,
+   "amount": 4242.51,
    "ends": "",
    "first_seen": 1792256642.8165865,
    "in_stock": true,
    "h_dias": 21,
-   "h_min": 1490.51,
+   "h_min": 1490.49,
    "h_ayer": 1490.57,
-   "h_min7": 1490.51
+   "h_min7": 1490.49
   },
   {
    "id": "999681682675",
@@ -973,24 +973,6 @@
    "h_min7": 30169.0
   },
   {
-   "id": "1157218766",
-   "name": "GENÉRICA Smartwatch",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch/1157218766",
-   "img": "https://sp376.liverpool.com.mx/i/1157218766.jpg",
-   "category": "Smartwatch",
-   "price_old": 2000.0,
-   "price_new": 582.79,
-   "pct": 70.9,
-   "amount": 1417.21,
-   "ends": "",
-   "first_seen": 1792249442.7314909,
-   "in_stock": true,
-   "h_dias": 32,
-   "h_min": 578.21,
-   "h_ayer": 583.34,
-   "h_min7": 581.89
-  },
-  {
    "id": "999680620349",
    "name": "SOCHIC Sala 3 piezas de madera",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-de-madera/999680620349",
@@ -1582,24 +1564,6 @@
    "h_min7": 24990.0
   },
   {
-   "id": "999683745123",
-   "name": "XTELLAR Funda control de consola para Nintendo Switch",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/funda-control-de-consola-para-nintendo-switch/999683745123",
-   "img": "https://sp101.liverpool.com.mx/i/1206553266.jpg",
-   "category": "Consolas",
-   "price_old": 2382.0,
-   "price_new": 752.28,
-   "pct": 68.4,
-   "amount": 1629.72,
-   "ends": "",
-   "first_seen": 1792274642.8327544,
-   "in_stock": true,
-   "h_dias": 13,
-   "h_min": 670.47,
-   "h_ayer": 754.88,
-   "h_min7": 670.47
-  },
-  {
    "id": "1181512683",
    "name": "SOCHIC Set recámara Van Gogh de melamina",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-van-gogh-de-melamina/1181512683",
@@ -1850,6 +1814,24 @@
    "h_min": 21349.0,
    "h_ayer": 21349.0,
    "h_min7": 21349.0
+  },
+  {
+   "id": "1154164878",
+   "name": "EUREKA Aspiradora de mano nes215a 650 ml",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-nes215a-650-ml/1154164878",
+   "img": "https://sp625.liverpool.com.mx/i/1154164878.jpg",
+   "category": "Aspiradoras",
+   "price_old": 3898.0,
+   "price_new": 1415.76,
+   "pct": 63.7,
+   "amount": 2482.24,
+   "ends": "",
+   "first_seen": 1791846241.964371,
+   "in_stock": true,
+   "h_dias": 14,
+   "h_min": 1369.98,
+   "h_ayer": 1417.38,
+   "h_min7": 1415.76
   },
   {
    "id": "1181568506",
@@ -3679,6 +3661,24 @@
    "h_min": 585.81,
    "h_ayer": 658.5,
    "h_min7": 658.5
+  },
+  {
+   "id": "1181478574",
+   "name": "LENOVO Laptop 82X700FVLM 15.6 pulgadas Full HD Intel Core i3 Integradas 8 GB RAM 512 GB",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-82x700fvlm-15-6-pulgadas-full-hd-intel-core-i3-integradas-8-gb-ram-512-gb/1181478574",
+   "img": "https://sp628.liverpool.com.mx/i/1181478574.jpg",
+   "category": "Laptops",
+   "price_old": 19999.0,
+   "price_new": 9599.2,
+   "pct": 52.0,
+   "amount": 10399.8,
+   "ends": "",
+   "first_seen": 1791875042.1256337,
+   "in_stock": true,
+   "h_dias": 17,
+   "h_min": 9599.2,
+   "h_ayer": 9599.2,
+   "h_min7": 9599.2
   },
   {
    "id": "999682056993",
@@ -6132,6 +6132,24 @@
    "h_min7": 37990.0
   },
   {
+   "id": "1188464510",
+   "name": "LATTAFA Eau de parfum Give me gourmand unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-give-me-gourmand-unisex/1188464510",
+   "img": "https://sp701.liverpool.com.mx/i/1188464510.jpg",
+   "category": "Perfumes",
+   "price_old": 2199.0,
+   "price_new": 850.05,
+   "pct": 61.3,
+   "amount": 1348.95,
+   "ends": "",
+   "first_seen": 1792256642.8165865,
+   "in_stock": true,
+   "h_dias": 31,
+   "h_min": 850.05,
+   "h_ayer": 929.0,
+   "h_min7": 850.05
+  },
+  {
    "id": "999680510412",
    "name": "V INDUSTRIES Bicicleta de montaña rodada 29",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-29/999680510412",
@@ -6184,24 +6202,6 @@
    "h_min": 7559.0,
    "h_ayer": 7559.0,
    "h_min7": 7559.0
-  },
-  {
-   "id": "1188464510",
-   "name": "LATTAFA Eau de parfum Give me gourmand unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-give-me-gourmand-unisex/1188464510",
-   "img": "https://sp701.liverpool.com.mx/i/1188464510.jpg",
-   "category": "Perfumes",
-   "price_old": 2199.0,
-   "price_new": 850.55,
-   "pct": 61.3,
-   "amount": 1348.45,
-   "ends": "",
-   "first_seen": 1792256642.8165865,
-   "in_stock": true,
-   "h_dias": 31,
-   "h_min": 850.55,
-   "h_ayer": 929.0,
-   "h_min7": 850.55
   },
   {
    "id": "99985232973",
@@ -6706,23 +6706,6 @@
    "h_min7": 1799.0
   },
   {
-   "id": "1068509439",
-   "name": "TEKA Estufa de piso a gas LP 89.5 cm FS3RS965GGXL de 5 quemadores",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-89-5-cm-fs3rs965ggxl-de-5-quemadores/1068509439",
-   "img": "https://sp634.liverpool.com.mx/i/1068509439.jpg",
-   "category": "Estufas",
-   "price_old": 45899.0,
-   "price_new": 25818.19,
-   "pct": 43.7,
-   "amount": 20080.81,
-   "ends": "",
-   "first_seen": 1792285442.6768708,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 25818.19,
-   "h_ayer": 25818.19
-  },
-  {
    "id": "1176936572",
    "name": "GHOST Bicicleta de montaña rodada 20",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-de-monta-a-rodada-20/1176936572",
@@ -6921,23 +6904,6 @@
    "h_min7": 2389.0
   },
   {
-   "id": "1188874351",
-   "name": "LG Lavadora 18 kg automática carga superior wt18dv6",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-18-kg-autom-tica-carga-superior-wt18dv6/1188874351",
-   "img": "https://sp634.liverpool.com.mx/i/1188874351.jpg",
-   "category": "Lavadoras",
-   "price_old": 15399.0,
-   "price_new": 7999.0,
-   "pct": 48.1,
-   "amount": 7400.0,
-   "ends": "",
-   "first_seen": 1792253043.016252,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 7999.0,
-   "h_ayer": 7999.0
-  },
-  {
    "id": "1193379229",
    "name": "SANSUI Monitor ES-27F2 Freesync Full HD 27 pulgadas",
    "url": "https://www.liverpool.com.mx/tienda/pdp/monitor-es-27f2-freesync-full-hd-27-pulgadas/1193379229",
@@ -6978,14 +6944,14 @@
    "img": "https://sp701.liverpool.com.mx/i/1188451418.jpg",
    "category": "Perfumes",
    "price_old": 1999.0,
-   "price_new": 796.0,
+   "price_new": 795.5,
    "pct": 60.2,
-   "amount": 1203.0,
+   "amount": 1203.5,
    "ends": "",
    "first_seen": 1792249442.7314909,
    "in_stock": true,
    "h_dias": 6,
-   "h_min": 796.0,
+   "h_min": 795.5,
    "h_ayer": 798.0
   },
   {
@@ -8240,6 +8206,22 @@
    "h_ayer": 274.0
   },
   {
+   "id": "1195509227",
+   "name": "HISENSE Pantalla Smart TV Mini LED de 55 pulgadas 4k 55U7SFM con Fire OS con AI Smooth Motion",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-mini-led-de-55-pulgadas-4k-55u7sfm-con-fire-os-con-ai-smooth-m/1195509227",
+   "img": "https://sp629.liverpool.com.mx/i/1195509227-pantalla-smart-tv-hisense-mi.jpg",
+   "category": "Pantallas",
+   "price_old": 22999.0,
+   "price_new": 12999.0,
+   "pct": 43.5,
+   "amount": 10000.0,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 12999.0
+  },
+  {
    "id": "999673615245",
    "name": "OSOJI ROBOTICS Aspiradora 870+ 0.6 l",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-870-0-6-l/999673615245",
@@ -8300,16 +8282,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1196843082.jpg",
    "category": "Audifonos",
    "price_old": 1493.0,
-   "price_new": 615.28,
+   "price_new": 615.24,
    "pct": 58.8,
-   "amount": 877.72,
+   "amount": 877.76,
    "ends": "",
    "first_seen": 1790521442.4163353,
    "in_stock": true,
    "h_dias": 31,
-   "h_min": 615.28,
+   "h_min": 615.24,
    "h_ayer": 616.81,
-   "h_min7": 615.28
+   "h_min7": 615.24
   },
   {
    "id": "1162765694",
@@ -8382,6 +8364,22 @@
    "h_min": 9899.0,
    "h_ayer": 9899.0,
    "h_min7": 9899.0
+  },
+  {
+   "id": "1197752251",
+   "name": "HISENSE Pantalla Smart TV Mini LED 50 pulgadas 4K/UHD 50QD8SFM con AI Smooth Motion",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
+   "img": "https://sp629.liverpool.com.mx/i/1197752251.jpg",
+   "category": "Pantallas",
+   "price_old": 16299.0,
+   "price_new": 8998.8,
+   "pct": 44.8,
+   "amount": 7300.2,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 7746.2
   },
   {
    "id": "1118966259",
@@ -9620,6 +9618,24 @@
    "h_min7": 4299.0
   },
   {
+   "id": "999681636273",
+   "name": "HONOR Smartphone X7D LCD / TFT 6.7 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartphone-x7d-lcd-tft-6-7-pulgadas/999681636273",
+   "img": "https://sp101.liverpool.com.mx/i/1203371582.jpg",
+   "category": "Celulares",
+   "price_old": 8990.0,
+   "price_new": 4884.0,
+   "pct": 45.7,
+   "amount": 4106.0,
+   "ends": "",
+   "first_seen": 1792263842.8640234,
+   "in_stock": true,
+   "h_dias": 31,
+   "h_min": 4585.0,
+   "h_ayer": 4885.0,
+   "h_min7": 4649.0
+  },
+  {
    "id": "1140385847",
    "name": "FURNITURER Consola Sharon de madera",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-sharon-de-madera/1140385847",
@@ -9671,24 +9687,6 @@
    "h_min": 1179.0,
    "h_ayer": 1179.0,
    "h_min7": 1179.0
-  },
-  {
-   "id": "1174960352",
-   "name": "ARMAF Eau de parfum Club de Nuit para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-club-de-nuit-para-hombre/1174960352",
-   "img": "https://ss701.liverpool.com.mx/lg/1174960352.jpg",
-   "category": "Perfumes",
-   "price_old": 2199.0,
-   "price_new": 1020.0,
-   "pct": 53.6,
-   "amount": 1179.0,
-   "ends": "",
-   "first_seen": 1792253043.016252,
-   "in_stock": true,
-   "h_dias": 19,
-   "h_min": 1020.0,
-   "h_ayer": 1037.4,
-   "h_min7": 1020.0
   },
   {
    "id": "999686815890",
@@ -10013,24 +10011,6 @@
    "h_min": 7899.0,
    "h_ayer": 8199.0,
    "h_min7": 8199.0
-  },
-  {
-   "id": "1154164878",
-   "name": "EUREKA Aspiradora de mano nes215a 650 ml",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-nes215a-650-ml/1154164878",
-   "img": "https://sp625.liverpool.com.mx/i/1154164878.jpg",
-   "category": "Aspiradoras",
-   "price_old": 2899.0,
-   "price_new": 1415.91,
-   "pct": 51.2,
-   "amount": 1483.09,
-   "ends": "",
-   "first_seen": 1791846241.964371,
-   "in_stock": true,
-   "h_dias": 14,
-   "h_min": 1369.98,
-   "h_ayer": 1417.38,
-   "h_min7": 1415.91
   },
   {
    "id": "999673988206",
@@ -10823,6 +10803,22 @@
    "h_min7": 6499.0
   },
   {
+   "id": "1197753044",
+   "name": "HISENSE Pantalla Smart TV QLED de 50 pulgadas 4K/UHD 50QD6SFM con AI Smooth Motion",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044",
+   "img": "https://sp629.liverpool.com.mx/i/1197753044-television-hisense-qled-4k-u.jpg",
+   "category": "Pantallas",
+   "price_old": 11899.0,
+   "price_new": 6799.2,
+   "pct": 42.9,
+   "amount": 5099.8,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 6799.2
+  },
+  {
    "id": "1150331443",
    "name": "AVERA Horno a gas natural HE03DLP capacidad 55 L",
    "url": "https://www.liverpool.com.mx/tienda/pdp/horno-a-gas-natural-he03dlp-capacidad-55-l/1150331443",
@@ -11036,6 +11032,24 @@
    "h_min": 1449.0,
    "h_ayer": 1449.0,
    "h_min7": 1449.0
+  },
+  {
+   "id": "999680303209",
+   "name": "MOTOROLA Smartphone moto g06 ips 6.8 pulgadas",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartphone-moto-g06-ips-6-8-pulgadas/999680303209",
+   "img": "https://sp101.liverpool.com.mx/i/1201895886.jpg",
+   "category": "Celulares",
+   "price_old": 5999.0,
+   "price_new": 3246.0,
+   "pct": 45.9,
+   "amount": 2753.0,
+   "ends": "",
+   "first_seen": 1792256642.8165865,
+   "in_stock": true,
+   "h_dias": 32,
+   "h_min": 2822.0,
+   "h_ayer": 3248.0,
+   "h_min7": 3246.0
   },
   {
    "id": "999680483027",
@@ -11394,24 +11408,6 @@
    "h_min": 52429.0,
    "h_ayer": 52429.0,
    "h_min7": 52429.0
-  },
-  {
-   "id": "1181478574",
-   "name": "LENOVO Laptop 82X700FVLM 15.6 pulgadas Full HD Intel Core i3 Integradas 8 GB RAM 512 GB",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-82x700fvlm-15-6-pulgadas-full-hd-intel-core-i3-integradas-8-gb-ram-512-gb/1181478574",
-   "img": "https://sp628.liverpool.com.mx/i/1181478574.jpg",
-   "category": "Laptops",
-   "price_old": 19999.0,
-   "price_new": 11999.0,
-   "pct": 40.0,
-   "amount": 8000.0,
-   "ends": "",
-   "first_seen": 1791875042.1256337,
-   "in_stock": true,
-   "h_dias": 17,
-   "h_min": 9599.2,
-   "h_ayer": 9599.2,
-   "h_min7": 9599.2
   },
   {
    "id": "1182668784",
@@ -12209,9 +12205,9 @@
    "img": "https://sp610.liverpool.com.mx/i/1134833137.jpg",
    "category": "Smartwatch",
    "price_old": 1312.0,
-   "price_new": 608.42,
+   "price_new": 608.36,
    "pct": 53.6,
-   "amount": 703.58,
+   "amount": 703.64,
    "ends": "",
    "first_seen": 1792281842.6355228,
    "in_stock": true,
@@ -12879,6 +12875,24 @@
    "h_min7": 37689.0
   },
   {
+   "id": "999680085418",
+   "name": "GENÉRICA Smartwatch con GPS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999680085418",
+   "img": "https://sp101.liverpool.com.mx/i/1201877772.jpg",
+   "category": "Smartwatch",
+   "price_old": 1200.0,
+   "price_new": 555.86,
+   "pct": 53.7,
+   "amount": 644.14,
+   "ends": "",
+   "first_seen": 1791921842.2467265,
+   "in_stock": true,
+   "h_dias": 32,
+   "h_min": 555.86,
+   "h_ayer": 557.5,
+   "h_min7": 555.86
+  },
+  {
    "id": "1157438707",
    "name": "LATTAFA Eau de parfum Ejaazi unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-ejaazi-unisex/1157438707",
@@ -12964,24 +12978,6 @@
    "h_min": 36929.0,
    "h_ayer": 36929.0,
    "h_min7": 36929.0
-  },
-  {
-   "id": "999680085418",
-   "name": "GENÉRICA Smartwatch con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999680085418",
-   "img": "https://sp101.liverpool.com.mx/i/1201877772.jpg",
-   "category": "Smartwatch",
-   "price_old": 1200.0,
-   "price_new": 556.96,
-   "pct": 53.6,
-   "amount": 643.04,
-   "ends": "",
-   "first_seen": 1791921842.2467265,
-   "in_stock": true,
-   "h_dias": 32,
-   "h_min": 555.86,
-   "h_ayer": 557.5,
-   "h_min7": 555.86
   },
   {
    "id": "999695243382",
@@ -13197,6 +13193,24 @@
    "h_min7": 399.0
   },
   {
+   "id": "89840147",
+   "name": "KATY PERRY Eau de parfum Purr para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-purr-para-mujer/89840147",
+   "img": "https://sp701.liverpool.com.mx/i/89840147.jpg",
+   "category": "Perfumes",
+   "price_old": 999.0,
+   "price_new": 451.9,
+   "pct": 54.8,
+   "amount": 547.1,
+   "ends": "",
+   "first_seen": 1792195442.8378165,
+   "in_stock": true,
+   "h_dias": 16,
+   "h_min": 424.99,
+   "h_ayer": 439.4,
+   "h_min7": 439.4
+  },
+  {
    "id": "1173214436",
    "name": "KESSA Set Recámara Amelia de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-amelia-de-mdf/1173214436",
@@ -13321,24 +13335,6 @@
    "h_min": 999.5,
    "h_ayer": 999.5,
    "h_min7": 999.5
-  },
-  {
-   "id": "89840147",
-   "name": "KATY PERRY Eau de parfum Purr para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-purr-para-mujer/89840147",
-   "img": "https://sp701.liverpool.com.mx/i/89840147.jpg",
-   "category": "Perfumes",
-   "price_old": 999.0,
-   "price_new": 452.4,
-   "pct": 54.7,
-   "amount": 546.6,
-   "ends": "",
-   "first_seen": 1792195442.8378165,
-   "in_stock": true,
-   "h_dias": 16,
-   "h_min": 424.99,
-   "h_ayer": 439.4,
-   "h_min7": 439.4
   },
   {
    "id": "999688253853",
@@ -13840,24 +13836,6 @@
    "h_min": 32319.0,
    "h_ayer": 32319.0,
    "h_min7": 32319.0
-  },
-  {
-   "id": "1176997415",
-   "name": "XTELLAR Set de bocinas XTLLAR275 bluetooth",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-bocinas-xtllar275-bluetooth/1176997415",
-   "img": "https://ss637.liverpool.com.mx/lg/1176997415.jpg",
-   "category": "Bocinas",
-   "price_old": 1710.0,
-   "price_new": 844.04,
-   "pct": 50.6,
-   "amount": 865.96,
-   "ends": "",
-   "first_seen": 1792242242.8024461,
-   "in_stock": true,
-   "h_dias": 31,
-   "h_min": 844.04,
-   "h_ayer": 845.67,
-   "h_min7": 844.04
   },
   {
    "id": "1167945321",
@@ -15439,24 +15417,6 @@
    "h_min7": 25399.0
   },
   {
-   "id": "1182927631",
-   "name": "SABRINA CARPENTER Eau de parfum Sweet Tooth para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-sweet-tooth-para-mujer/1182927631",
-   "img": "https://sp701.liverpool.com.mx/i/1182927631.jpg",
-   "category": "Perfumes",
-   "price_old": 1800.0,
-   "price_new": 915.0,
-   "pct": 49.2,
-   "amount": 885.0,
-   "ends": "",
-   "first_seen": 1792253043.016252,
-   "in_stock": true,
-   "h_dias": 8,
-   "h_min": 900.0,
-   "h_ayer": 915.0,
-   "h_min7": 900.0
-  },
-  {
    "id": "1189002731",
    "name": "KESSA Set recámara Emilia de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-emilia-de-mdf/1189002731",
@@ -15956,24 +15916,6 @@
    "h_min7": 5999.4
   },
   {
-   "id": "1160933808",
-   "name": "ACROS Lavadora doble tina 10 kg semiautomática carga superior ald1035je",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-10-kg-semiautom-tica-carga-superior-ald1035je/1160933808",
-   "img": "https://sp634.liverpool.com.mx/i/1160933808.jpg",
-   "category": "Lavadoras",
-   "price_old": 11508.0,
-   "price_new": 6969.0,
-   "pct": 39.4,
-   "amount": 4539.0,
-   "ends": "",
-   "first_seen": 1792256642.8165865,
-   "in_stock": true,
-   "h_dias": 31,
-   "h_min": 6969.0,
-   "h_ayer": 6969.0,
-   "h_min7": 6969.0
-  },
-  {
    "id": "1135886935",
    "name": "WHIRLPOOL Lavadora 17 kg automática carga superior 8mwtw-1713mjq",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-17-kg-autom-tica-carga-superior-8mwtw-1713mjq/1135886935",
@@ -16082,6 +16024,22 @@
    "h_min7": 2599.0
   },
   {
+   "id": "1132736819",
+   "name": "LATTAFA Eau de parfum Qaed Al Fursan Unlimited unisex",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-qaed-al-fursan-unlimited-unisex/1132736819",
+   "img": "https://sp701.liverpool.com.mx/i/1132736819.jpg",
+   "category": "Perfumes",
+   "price_old": 899.0,
+   "price_new": 418.5,
+   "pct": 53.4,
+   "amount": 480.5,
+   "ends": "",
+   "first_seen": 1792278242.7502851,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 418.5
+  },
+  {
    "id": "999685749665",
    "name": "KESSA Set recámara lex de mdf",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-lex-de-mdf/999685749665",
@@ -16134,22 +16092,6 @@
    "h_min": 1181.0,
    "h_ayer": 1181.0,
    "h_min7": 1181.0
-  },
-  {
-   "id": "1132736819",
-   "name": "LATTAFA Eau de parfum Qaed Al Fursan Unlimited unisex",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-qaed-al-fursan-unlimited-unisex/1132736819",
-   "img": "https://sp701.liverpool.com.mx/i/1132736819.jpg",
-   "category": "Perfumes",
-   "price_old": 899.0,
-   "price_new": 419.0,
-   "pct": 53.4,
-   "amount": 480.0,
-   "ends": "",
-   "first_seen": 1792278242.7502851,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 419.0
   },
   {
    "id": "1116098683",
@@ -18284,6 +18226,24 @@
    "h_min7": 16819.0
   },
   {
+   "id": "1157218766",
+   "name": "GENÉRICA Smartwatch",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch/1157218766",
+   "img": "https://sp376.liverpool.com.mx/i/1157218766.jpg",
+   "category": "Smartwatch",
+   "price_old": 1165.18,
+   "price_new": 581.89,
+   "pct": 50.1,
+   "amount": 583.29,
+   "ends": "",
+   "first_seen": 1792249442.7314909,
+   "in_stock": true,
+   "h_dias": 32,
+   "h_min": 578.21,
+   "h_ayer": 583.34,
+   "h_min7": 581.89
+  },
+  {
    "id": "1177037547",
    "name": "MYRVA Consola fija/portátil tetris",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-fija-port-til-tetris/1177037547",
@@ -19551,6 +19511,24 @@
    "h_ayer": 6899.0
   },
   {
+   "id": "999680513345",
+   "name": "GENÉRICA Smartwatch con GPS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999680513345",
+   "img": "https://sp101.liverpool.com.mx/i/1202497914.jpg",
+   "category": "Smartwatch",
+   "price_old": 2455.0,
+   "price_new": 1367.88,
+   "pct": 44.3,
+   "amount": 1087.12,
+   "ends": "",
+   "first_seen": 1792231442.7643874,
+   "in_stock": true,
+   "h_dias": 25,
+   "h_min": 1193.42,
+   "h_ayer": 1369.7,
+   "h_min7": 1367.88
+  },
+  {
    "id": "1157936391",
    "name": "UNITED APPLIANCE Aire acondicionado mini split inverter Frío 24000 BTU UAWC24-DD3C2 220 V",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-fr-o-24000-btu-uawc24-dd3c2-220-v/1157936391",
@@ -19692,24 +19670,6 @@
    "h_min": 2649.99,
    "h_ayer": 2650.0,
    "h_min7": 2650.0
-  },
-  {
-   "id": "999680513345",
-   "name": "GENÉRICA Smartwatch con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999680513345",
-   "img": "https://sp101.liverpool.com.mx/i/1202497914.jpg",
-   "category": "Smartwatch",
-   "price_old": 2455.0,
-   "price_new": 1369.58,
-   "pct": 44.2,
-   "amount": 1085.42,
-   "ends": "",
-   "first_seen": 1792231442.7643874,
-   "in_stock": true,
-   "h_dias": 25,
-   "h_min": 1193.42,
-   "h_ayer": 1369.7,
-   "h_min7": 1368.04
   },
   {
    "id": "999683571646",
@@ -21321,6 +21281,24 @@
    "h_ayer": 10499.0
   },
   {
+   "id": "1175053502",
+   "name": "MAISON ALHAMBRA Eau de parfum Jean Lowe para hombre",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-jean-lowe-para-hombre/1175053502",
+   "img": "https://ss701.liverpool.com.mx/lg/1175053502.jpg",
+   "category": "Perfumes",
+   "price_old": 1299.0,
+   "price_new": 699.5,
+   "pct": 46.2,
+   "amount": 599.5,
+   "ends": "",
+   "first_seen": 1792249442.7314909,
+   "in_stock": true,
+   "h_dias": 19,
+   "h_min": 699.5,
+   "h_ayer": 768.0,
+   "h_min7": 699.5
+  },
+  {
    "id": "1175286221",
    "name": "JVC Pantalla LED de 43 pulgadas Full HD SI43FRF con Roku TV",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-led-de-43-pulgadas-full-hd-si43frf-con-roku-tv/1175286221",
@@ -21462,24 +21440,6 @@
    "h_min": 3350.0,
    "h_ayer": 3350.0,
    "h_min7": 3350.0
-  },
-  {
-   "id": "1175053502",
-   "name": "MAISON ALHAMBRA Eau de parfum Jean Lowe para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-jean-lowe-para-hombre/1175053502",
-   "img": "https://ss701.liverpool.com.mx/lg/1175053502.jpg",
-   "category": "Perfumes",
-   "price_old": 1299.0,
-   "price_new": 700.0,
-   "pct": 46.1,
-   "amount": 599.0,
-   "ends": "",
-   "first_seen": 1792249442.7314909,
-   "in_stock": true,
-   "h_dias": 19,
-   "h_min": 700.0,
-   "h_ayer": 768.0,
-   "h_min7": 700.0
   },
   {
    "id": "999685675621",
@@ -22323,6 +22283,23 @@
    "h_min": 11999.0,
    "h_ayer": 11999.0,
    "h_min7": 11999.0
+  },
+  {
+   "id": "99991874829",
+   "name": "APPLE iPhone 16 PRO MAX 6.9 pulgadas Super Retina XDR reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-16-pro-max-6-9-pulgadas-super-retina-xdr-reacondicionado/99991874829",
+   "img": "https://sp632.liverpool.com.mx/i/1188865930.jpg",
+   "category": "Iphone",
+   "price_old": 27299.0,
+   "price_new": 18599.0,
+   "pct": 31.9,
+   "amount": 8700.0,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 21,
+   "h_min": 16299.0,
+   "h_min7": 18299.0
   },
   {
    "id": "99961085072",
@@ -23771,23 +23748,6 @@
    "h_min": 699.0,
    "h_ayer": 699.0,
    "h_min7": 699.0
-  },
-  {
-   "id": "999695617179",
-   "name": "HONOR Choice T10 LCD IPS 6.75 pulgadas Desbloqueado",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/choice-t10-lcd-ips-6-75-pulgadas-desbloqueado/999695617179",
-   "img": "https://sp632.liverpool.com.mx/i/1210822298.jpg",
-   "category": "Celulares",
-   "price_old": 3599.0,
-   "price_new": 2217.0,
-   "pct": 38.4,
-   "amount": 1382.0,
-   "ends": "",
-   "first_seen": 1792256642.8165865,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 2171.0,
-   "h_ayer": 2218.0
   },
   {
    "id": "1134578200",
@@ -26169,24 +26129,6 @@
    "h_min7": 6760.0
   },
   {
-   "id": "999680303209",
-   "name": "MOTOROLA Smartphone moto g06 ips 6.8 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartphone-moto-g06-ips-6-8-pulgadas/999680303209",
-   "img": "https://sp101.liverpool.com.mx/i/1201895886.jpg",
-   "category": "Celulares",
-   "price_old": 4999.0,
-   "price_new": 3247.0,
-   "pct": 35.0,
-   "amount": 1752.0,
-   "ends": "",
-   "first_seen": 1792256642.8165865,
-   "in_stock": true,
-   "h_dias": 32,
-   "h_min": 2822.0,
-   "h_ayer": 3248.0,
-   "h_min7": 3247.0
-  },
-  {
    "id": "1143867737",
    "name": "BOGNER Cafetera combi bdecm02/bcg01",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-combi-bdecm02-bcg01/1143867737",
@@ -27060,23 +27002,6 @@
    "h_ayer": 699.0
   },
   {
-   "id": "999680452378",
-   "name": "LATTAFA PERFUMES Eau de parfum Khamrah Waha para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-khamrah-waha-para-hombre/999680452378",
-   "img": "https://sp101.liverpool.com.mx/i/1202125332.jpg",
-   "category": "Perfumes",
-   "price_old": 1900.0,
-   "price_new": 1163.9,
-   "pct": 38.7,
-   "amount": 736.1,
-   "ends": "",
-   "first_seen": 1792274642.8327544,
-   "in_stock": true,
-   "h_dias": 18,
-   "h_min": 1163.9,
-   "h_min7": 1163.9
-  },
-  {
    "id": "1163423011",
    "name": "BENOTTO Bicicleta infantil rodada 16 Agressor",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-16-agressor/1163423011",
@@ -27880,24 +27805,6 @@
    "h_min7": 1375.0
   },
   {
-   "id": "999683719142",
-   "name": "TECNO Smartphone Spark Go3 LCD IPS 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartphone-spark-go3-lcd-ips-6-7-pulgadas/999683719142",
-   "img": "https://sp101.liverpool.com.mx/i/1205282013.jpg",
-   "category": "Celulares",
-   "price_old": 3999.0,
-   "price_new": 2619.0,
-   "pct": 34.5,
-   "amount": 1380.0,
-   "ends": "",
-   "first_seen": 1792263842.8640234,
-   "in_stock": true,
-   "h_dias": 18,
-   "h_min": 2619.0,
-   "h_ayer": 2621.0,
-   "h_min7": 2619.0
-  },
-  {
    "id": "999687105708",
    "name": "MIRAGE Aire acondicionado mini split Frío SETCLC120T",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-fr-o-setclc120t/999687105708",
@@ -28240,6 +28147,24 @@
    "h_min7": 5929.0
   },
   {
+   "id": "999681762036",
+   "name": "GENÉRICA Smartwatch con GPS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999681762036",
+   "img": "https://sp101.liverpool.com.mx/i/1203655017.jpg",
+   "category": "Smartwatch",
+   "price_old": 2270.19,
+   "price_new": 1440.21,
+   "pct": 36.6,
+   "amount": 829.98,
+   "ends": "",
+   "first_seen": 1792263842.8640234,
+   "in_stock": true,
+   "h_dias": 23,
+   "h_min": 1440.21,
+   "h_ayer": 1441.78,
+   "h_min7": 1440.21
+  },
+  {
    "id": "1171964683",
    "name": "GENERICO Organizador para refrigerador",
    "url": "https://www.liverpool.com.mx/tienda/pdp/organizador-para-refrigerador/1171964683",
@@ -28309,24 +28234,6 @@
    "h_dias": 19,
    "h_min": 399.0,
    "h_min7": 399.0
-  },
-  {
-   "id": "999680251362",
-   "name": "HONOR Smartphone X7D LCD / TFT 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartphone-x7d-lcd-tft-6-7-pulgadas/999680251362",
-   "img": "https://sp101.liverpool.com.mx/i/1201715551.jpg",
-   "category": "Celulares",
-   "price_old": 7165.0,
-   "price_new": 4885.0,
-   "pct": 31.8,
-   "amount": 2280.0,
-   "ends": "",
-   "first_seen": 1792256642.8165865,
-   "in_stock": true,
-   "h_dias": 32,
-   "h_min": 4585.0,
-   "h_ayer": 4885.0,
-   "h_min7": 4649.0
   },
   {
    "id": "999687901505",
@@ -28688,24 +28595,6 @@
    "h_min7": 2299.0
   },
   {
-   "id": "999686602460",
-   "name": "LENOVO Laptop IdeaPad Slim 3i 15.6\" 15.6 pulgadas Full HD Intel Celeron Integradas 8 GB RAM 128 GB",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-ideapad-slim-3i-15-6-15-6-pulgadas-full-hd-intel-celeron-integradas-8-gb-/999686602460",
-   "img": "https://sp101.liverpool.com.mx/i/1208112801.jpg",
-   "category": "Laptops",
-   "price_old": 10999.0,
-   "price_new": 7699.0,
-   "pct": 30.0,
-   "amount": 3300.0,
-   "ends": "",
-   "first_seen": 1790521442.4163353,
-   "in_stock": true,
-   "h_dias": 31,
-   "h_min": 7699.0,
-   "h_ayer": 7699.0,
-   "h_min7": 7699.0
-  },
-  {
    "id": "1157011207",
    "name": "LIKËPINK Secadora de cabello HerBeauty KM-8896",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-herbeauty-km-8896/1157011207",
@@ -28865,24 +28754,6 @@
    "h_min": 4050.0,
    "h_ayer": 4050.0,
    "h_min7": 4050.0
-  },
-  {
-   "id": "999681762036",
-   "name": "GENÉRICA Smartwatch con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999681762036",
-   "img": "https://sp101.liverpool.com.mx/i/1203655017.jpg",
-   "category": "Smartwatch",
-   "price_old": 2250.0,
-   "price_new": 1441.24,
-   "pct": 35.9,
-   "amount": 808.76,
-   "ends": "",
-   "first_seen": 1792263842.8640234,
-   "in_stock": true,
-   "h_dias": 23,
-   "h_min": 1440.21,
-   "h_ayer": 1441.78,
-   "h_min7": 1440.21
   },
   {
    "id": "1117589575",
@@ -29544,6 +29415,22 @@
    "h_min": 5499.0,
    "h_ayer": 5499.0,
    "h_min7": 5499.0
+  },
+  {
+   "id": "999680106152",
+   "name": "GENÉRICA Bolsa lavandería",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/bolsa-lavander-a/999680106152",
+   "img": "https://sp101.liverpool.com.mx/i/1201879881.jpg",
+   "category": "Lavadoras",
+   "price_old": 1256.45,
+   "price_new": 775.89,
+   "pct": 38.2,
+   "amount": 480.56,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 775.89
   },
   {
    "id": "999681306967",
@@ -30278,24 +30165,6 @@
    "h_min": 1043.03,
    "h_ayer": 1106.79,
    "h_min7": 1043.03
-  },
-  {
-   "id": "999681636273",
-   "name": "HONOR Smartphone X7D LCD / TFT 6.7 pulgadas",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartphone-x7d-lcd-tft-6-7-pulgadas/999681636273",
-   "img": "https://sp101.liverpool.com.mx/i/1203371582.jpg",
-   "category": "Celulares",
-   "price_old": 6999.0,
-   "price_new": 4885.0,
-   "pct": 30.2,
-   "amount": 2114.0,
-   "ends": "",
-   "first_seen": 1792263842.8640234,
-   "in_stock": true,
-   "h_dias": 31,
-   "h_min": 4585.0,
-   "h_ayer": 4885.0,
-   "h_min7": 4649.0
   },
   {
    "id": "999680446650",
@@ -31475,6 +31344,24 @@
    "h_min7": 729.0
   },
   {
+   "id": "1177980974",
+   "name": "FRAGRANCE WORLD Perfume Aether para hombre",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/perfume-aether-para-hombre/1177980974",
+   "img": "https://sp701.liverpool.com.mx/i/1177980974.jpg",
+   "category": "Perfumes",
+   "price_old": 1399.0,
+   "price_new": 899.5,
+   "pct": 35.7,
+   "amount": 499.5,
+   "ends": "",
+   "first_seen": 1792256642.8165865,
+   "in_stock": true,
+   "h_dias": 30,
+   "h_min": 877.0,
+   "h_ayer": 919.0,
+   "h_min7": 877.0
+  },
+  {
    "id": "1144970400",
    "name": "MIG TECH Consola fija",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-fija/1144970400",
@@ -31526,24 +31413,6 @@
    "h_dias": 6,
    "h_min": 2899.0,
    "h_ayer": 2899.0
-  },
-  {
-   "id": "1177980974",
-   "name": "FRAGRANCE WORLD Perfume Aether para hombre",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/perfume-aether-para-hombre/1177980974",
-   "img": "https://sp701.liverpool.com.mx/i/1177980974.jpg",
-   "category": "Perfumes",
-   "price_old": 1399.0,
-   "price_new": 900.0,
-   "pct": 35.7,
-   "amount": 499.0,
-   "ends": "",
-   "first_seen": 1792256642.8165865,
-   "in_stock": true,
-   "h_dias": 30,
-   "h_min": 877.0,
-   "h_ayer": 919.0,
-   "h_min7": 877.0
   },
   {
    "id": "1132683715",
@@ -31710,14 +31579,14 @@
    "img": "https://sp632.liverpool.com.mx/i/1183642321.jpg",
    "category": "Audifonos",
    "price_old": 900.0,
-   "price_new": 560.98,
+   "price_new": 560.92,
    "pct": 37.7,
-   "amount": 339.02,
+   "amount": 339.08,
    "ends": "",
    "first_seen": 1792238642.8302312,
    "in_stock": true,
    "h_dias": 6,
-   "h_min": 560.98,
+   "h_min": 560.92,
    "h_ayer": 562.06
   },
   {
@@ -31789,6 +31658,24 @@
    "h_min": 609.0,
    "h_ayer": 628.95,
    "h_min7": 628.95
+  },
+  {
+   "id": "1141418323",
+   "name": "AFNAN Perfume Fatima Pink para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/perfume-fatima-pink-para-mujer/1141418323",
+   "img": "https://sp701.liverpool.com.mx/i/1141418323.jpg",
+   "category": "Perfumes",
+   "price_old": 999.0,
+   "price_new": 629.5,
+   "pct": 37.0,
+   "amount": 369.5,
+   "ends": "",
+   "first_seen": 1792195442.8378165,
+   "in_stock": true,
+   "h_dias": 8,
+   "h_min": 629.5,
+   "h_ayer": 652.45,
+   "h_min7": 629.5
   },
   {
    "id": "999688530164",
@@ -31986,24 +31873,6 @@
    "h_min7": 3339.0
   },
   {
-   "id": "1141418323",
-   "name": "AFNAN Perfume Fatima Pink para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/perfume-fatima-pink-para-mujer/1141418323",
-   "img": "https://sp701.liverpool.com.mx/i/1141418323.jpg",
-   "category": "Perfumes",
-   "price_old": 999.0,
-   "price_new": 630.0,
-   "pct": 36.9,
-   "amount": 369.0,
-   "ends": "",
-   "first_seen": 1792195442.8378165,
-   "in_stock": true,
-   "h_dias": 8,
-   "h_min": 630.0,
-   "h_ayer": 652.45,
-   "h_min7": 630.0
-  },
-  {
    "id": "1140371951",
    "name": "BILLBOARD Bocina portátil Chroma bluetooth",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-chroma-bluetooth/1140371951",
@@ -32128,24 +31997,6 @@
    "h_min": 812.04,
    "h_ayer": 812.04,
    "h_min7": 812.04
-  },
-  {
-   "id": "1171786416",
-   "name": "PERRY ELLIS Kit Eau de parfum 360° Coral para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/kit-eau-de-parfum-360-coral-para-mujer/1171786416",
-   "img": "https://sp701.liverpool.com.mx/i/1171786416.jpg",
-   "category": "Perfumes",
-   "price_old": 1174.0,
-   "price_new": 753.28,
-   "pct": 35.8,
-   "amount": 420.72,
-   "ends": "",
-   "first_seen": 1792285442.6768708,
-   "in_stock": true,
-   "h_dias": 14,
-   "h_min": 709.88,
-   "h_ayer": 753.28,
-   "h_min7": 709.88
   },
   {
    "id": "1177502649",
@@ -32309,6 +32160,24 @@
    "h_min7": 499.0
   },
   {
+   "id": "1193104980",
+   "name": "BELUG Smartwatch",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch/1193104980",
+   "img": "https://sp610.liverpool.com.mx/i/1193104980.jpg",
+   "category": "Smartwatch",
+   "price_old": 1300.0,
+   "price_new": 844.3,
+   "pct": 35.1,
+   "amount": 455.7,
+   "ends": "",
+   "first_seen": 1792238642.8302312,
+   "in_stock": true,
+   "h_dias": 26,
+   "h_min": 735.22,
+   "h_ayer": 845.93,
+   "h_min7": 844.3
+  },
+  {
    "id": "1165309894",
    "name": "AURUS Horno de microondas convencional de 1.1 pies",
    "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-de-1-1-pies/1165309894",
@@ -32415,24 +32284,6 @@
    "h_min": 499.0,
    "h_ayer": 499.0,
    "h_min7": 499.0
-  },
-  {
-   "id": "1193104980",
-   "name": "BELUG Smartwatch",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch/1193104980",
-   "img": "https://sp610.liverpool.com.mx/i/1193104980.jpg",
-   "category": "Smartwatch",
-   "price_old": 1300.0,
-   "price_new": 845.39,
-   "pct": 35.0,
-   "amount": 454.61,
-   "ends": "",
-   "first_seen": 1792238642.8302312,
-   "in_stock": true,
-   "h_dias": 26,
-   "h_min": 735.22,
-   "h_ayer": 845.93,
-   "h_min7": 844.3
   },
   {
    "id": "1139240703",
@@ -32721,6 +32572,22 @@
    "h_min7": 2799.0
   },
   {
+   "id": "1208101362",
+   "name": "TURMIX Extractor de jugos 600 W",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/extractor-de-jugos-600-w/1208101362",
+   "img": "https://sp625.liverpool.com.mx/i/1208101362.jpg",
+   "category": "Licuadoras",
+   "price_old": 3999.0,
+   "price_new": 2799.3,
+   "pct": 30.0,
+   "amount": 1199.7,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 2799.3
+  },
+  {
    "id": "1112826200",
    "name": "Eau de parfum Viktor&Rolf Bonbon para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-viktor-rolf-bonbon-para-mujer/1112826200",
@@ -32790,24 +32657,6 @@
    "h_dias": 3,
    "h_min": 849.0,
    "h_ayer": 849.0
-  },
-  {
-   "id": "1061606081",
-   "name": "PARIS HILTON Eau de parfum Rose Rush para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-rose-rush-para-mujer/1061606081",
-   "img": "https://sp701.liverpool.com.mx/i/1061606081.jpg",
-   "category": "Perfumes",
-   "price_old": 1011.0,
-   "price_new": 649.3,
-   "pct": 35.8,
-   "amount": 361.7,
-   "ends": "",
-   "first_seen": 1792285442.6768708,
-   "in_stock": true,
-   "h_dias": 31,
-   "h_min": 625.5,
-   "h_ayer": 649.3,
-   "h_min7": 625.5
   },
   {
    "id": "1159883961",
@@ -33152,6 +33001,23 @@
    "h_min7": 2299.0
   },
   {
+   "id": "1185596105",
+   "name": "OSTER Freidora de aire con compartimento único 4L CKSTAF40WDDF",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-con-compartimento-nico-4l-ckstaf40wddf/1185596105",
+   "img": "https://sp623.liverpool.com.mx/i/1185596105.jpg",
+   "category": "Freidora De Aire",
+   "price_old": 2489.0,
+   "price_new": 1708.0,
+   "pct": 31.4,
+   "amount": 781.0,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 17,
+   "h_min": 1687.0,
+   "h_min7": 1687.0
+  },
+  {
    "id": "1057248048",
    "name": "PARIS HILTON Eau de parfum para hombre",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-para-hombre/1057248048",
@@ -33240,6 +33106,24 @@
    "h_min": 2449.3,
    "h_ayer": 2449.3,
    "h_min7": 2449.3
+  },
+  {
+   "id": "1192672810",
+   "name": "XTELLAR Audífonos On-Ear 5514 inalámbricos con cancelacion de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-on-ear-5514-inal-mbricos-con-cancelacion-de-ruido/1192672810",
+   "img": "https://sp630.liverpool.com.mx/i/1192672810.jpg",
+   "category": "Audifonos",
+   "price_old": 2097.8,
+   "price_new": 1426.13,
+   "pct": 32.0,
+   "amount": 671.67,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 24,
+   "h_min": 1343.19,
+   "h_ayer": 1427.29,
+   "h_min7": 1426.13
   },
   {
    "id": "99974942095",
@@ -33739,24 +33623,6 @@
    "h_min7": 2099.0
   },
   {
-   "id": "99994762847",
-   "name": "ADIDAS ORIGINALS Tenis Campus para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-campus-para-mujer/99994762847",
-   "img": "https://sp550.liverpool.com.mx/i/1194285244.jpg",
-   "category": "Tenis",
-   "price_old": 2299.0,
-   "price_new": 1586.0,
-   "pct": 31.0,
-   "amount": 713.0,
-   "ends": "",
-   "first_seen": 1792281842.6355228,
-   "in_stock": true,
-   "h_dias": 24,
-   "h_min": 1126.0,
-   "h_ayer": 1586.0,
-   "h_min7": 1586.0
-  },
-  {
    "id": "1097146949",
    "name": "KOBLENZ Aspiradora ciclónica WD-405 B KG4 21 litros",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-cicl-nica-wd-405-b-kg4-21-litros/1097146949",
@@ -34240,6 +34106,24 @@
    "h_min7": 949.0
   },
   {
+   "id": "999686834316",
+   "name": "GENÉRICA Smartwatch con GPS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999686834316",
+   "img": "https://sp610.liverpool.com.mx/i/1208496804.jpg",
+   "category": "Smartwatch",
+   "price_old": 899.0,
+   "price_new": 591.47,
+   "pct": 34.2,
+   "amount": 307.53,
+   "ends": "",
+   "first_seen": 1791839041.954306,
+   "in_stock": true,
+   "h_dias": 25,
+   "h_min": 591.47,
+   "h_ayer": 593.1,
+   "h_min7": 591.47
+  },
+  {
    "id": "99993657348",
    "name": "ADIDAS Tenis Modern Classics para mujer",
    "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-modern-classics-para-mujer/99993657348",
@@ -34310,24 +34194,6 @@
    "h_min": 1379.0,
    "h_ayer": 1609.0,
    "h_min7": 1609.0
-  },
-  {
-   "id": "999686834316",
-   "name": "GENÉRICA Smartwatch con GPS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-con-gps/999686834316",
-   "img": "https://sp610.liverpool.com.mx/i/1208496804.jpg",
-   "category": "Smartwatch",
-   "price_old": 899.0,
-   "price_new": 592.56,
-   "pct": 34.1,
-   "amount": 306.44,
-   "ends": "",
-   "first_seen": 1791839041.954306,
-   "in_stock": true,
-   "h_dias": 25,
-   "h_min": 591.47,
-   "h_ayer": 593.1,
-   "h_min7": 591.47
   },
   {
    "id": "1107651230",
@@ -34720,6 +34586,24 @@
    "h_ayer": 834.36
   },
   {
+   "id": "1191266532",
+   "name": "XTELLAR Audífonos inalámbricos con cancelacion de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-inal-mbricos-con-cancelacion-de-ruido/1191266532",
+   "img": "https://sp377.liverpool.com.mx/i/1191266532.jpg",
+   "category": "Audifonos",
+   "price_old": 1693.44,
+   "price_new": 1175.22,
+   "pct": 30.6,
+   "amount": 518.22,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 22,
+   "h_min": 1119.93,
+   "h_ayer": 1178.06,
+   "h_min7": 1175.22
+  },
+  {
    "id": "999686378423",
    "name": "IQ TECH Cafetera de goteo iq124",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-iq124/999686378423",
@@ -34874,22 +34758,6 @@
    "h_ayer": 599.0
   },
   {
-   "id": "999695571327",
-   "name": "GENÉRICA Audífonos In-Ear inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelaci-n-de-ruido/999695571327",
-   "img": "https://sp630.liverpool.com.mx/i/1210526982.jpg",
-   "category": "Audifonos",
-   "price_old": 899.0,
-   "price_new": 599.0,
-   "pct": 33.4,
-   "amount": 300.0,
-   "ends": "",
-   "first_seen": 1792278242.7502851,
-   "in_stock": true,
-   "h_dias": 1,
-   "h_min": 599.0
-  },
-  {
    "id": "1117589001",
    "name": "GADGETS & FUN Bocina portátil para ducha",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bocina-port-til-para-ducha/1117589001",
@@ -34906,6 +34774,24 @@
    "h_min": 599.0,
    "h_ayer": 599.0,
    "h_min7": 599.0
+  },
+  {
+   "id": "1192017803",
+   "name": "XTELLAR Aspiradora de mano 1 litro",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-de-mano-1-litro/1192017803",
+   "img": "https://sp625.liverpool.com.mx/i/1192017803.jpg",
+   "category": "Aspiradoras",
+   "price_old": 1751.14,
+   "price_new": 1219.37,
+   "pct": 30.4,
+   "amount": 531.77,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 21,
+   "h_min": 1139.31,
+   "h_ayer": 1221.39,
+   "h_min7": 1219.37
   },
   {
    "id": "1151275482",
@@ -34932,16 +34818,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1203446183.jpg",
    "category": "Secadoras",
    "price_old": 957.0,
-   "price_new": 642.29,
+   "price_new": 642.23,
    "pct": 32.9,
-   "amount": 314.71,
+   "amount": 314.77,
    "ends": "",
    "first_seen": 1792238642.8302312,
    "in_stock": true,
    "h_dias": 13,
-   "h_min": 642.29,
+   "h_min": 642.23,
    "h_ayer": 643.3,
-   "h_min7": 642.29
+   "h_min7": 642.23
   },
   {
    "id": "1179168746",
@@ -35013,6 +34899,22 @@
    "h_dias": 6,
    "h_min": 1229.0,
    "h_ayer": 1229.0
+  },
+  {
+   "id": "1208101371",
+   "name": "TURMIX Exprimidor y extractor 600 W",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/exprimidor-y-extractor-600-w/1208101371",
+   "img": "https://sp625.liverpool.com.mx/i/1208101371.jpg",
+   "category": "Licuadoras",
+   "price_old": 1799.0,
+   "price_new": 1259.3,
+   "pct": 30.0,
+   "amount": 539.7,
+   "ends": "",
+   "first_seen": 1792289042.9009035,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1259.3
   },
   {
    "id": "1087036789",
@@ -35682,9 +35584,9 @@
    "img": "https://ss377.liverpool.com.mx/lg/1193180350.jpg",
    "category": "Tablets",
    "price_old": 1054.83,
-   "price_new": 737.09,
+   "price_new": 737.03,
    "pct": 30.1,
-   "amount": 317.74,
+   "amount": 317.8,
    "ends": "",
    "first_seen": 1791810242.805921,
    "in_stock": true,
@@ -35752,9 +35654,9 @@
    "img": "https://sp377.liverpool.com.mx/i/1193832535.jpg",
    "category": "Tablets",
    "price_old": 1011.2,
-   "price_new": 707.39,
+   "price_new": 707.44,
    "pct": 30.0,
-   "amount": 303.81,
+   "amount": 303.76,
    "ends": "",
    "first_seen": 1791806642.738197,
    "in_stock": true,

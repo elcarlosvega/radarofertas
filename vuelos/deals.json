@@ -1,6 +1,6 @@
 {
- "generated_at": 1792339445.127846,
- "generated_at_str": "18/10/2026 10:04",
+ "generated_at": 1792343043.780232,
+ "generated_at_str": "18/10/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,24 +130,24 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-atlanta-20261028-009a4095/"
   },
   {
-   "id": "61b20dbba650a962f82e44a32e44cf35",
+   "id": "7f8f422aafad2ee9647ead74d5e5337d",
    "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "CHI",
+   "destination_name": "Chicago",
    "airline": "Y4",
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 3301.0,
+   "price": 3273.0,
    "currency": "MXN",
-   "departure_at": "2026-10-21T00:32:00-05:00",
+   "departure_at": "2026-10-19T19:49:00-05:00",
    "return_at": "",
-   "duration": 277,
-   "link": "https://www.aviasales.com/search/MEX2110BOG1?t=Y417925427201792562940000277NLUBOG_61b20dbba650a962f82e44a32e44cf35_15020&search_date=18102026&expected_price_uuid=01a14e7c-405b-8030-253a-637ec78acc9d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lV6xjvlOgUDAIdA2WxG7GQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3301",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261021-61b20dbb/"
+   "duration": 246,
+   "link": "https://www.aviasales.com/search/GDL1910CHI1?t=Y417924393401792457700000246GDLORD_7f8f422aafad2ee9647ead74d5e5337d_14892&search_date=18102026&expected_price_uuid=01a14fef-7f1e-8040-a8ee-abd12f4c5602&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hix3GNxYUbaldM3rDstvnA&expected_price_source=share&expected_price_currency=mxn&expected_price=3273",
+   "title": "Flight deals from Guadalajara to Chicago",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261019-7f8f422a/"
   },
   {
    "id": "e91d5ff3786261ce8307506ab18af184",
@@ -165,7 +165,7 @@
    "departure_at": "2026-10-28T19:34:00-06:00",
    "return_at": "",
    "duration": 86,
-   "link": "https://www.aviasales.com/search/MTY2810HOU1?t=VB17932160401793224800000086MTYIAH_e91d5ff3786261ce8307506ab18af184_18342&search_date=18102026&expected_price_uuid=01a14f86-fbf5-8030-6d0c-21f696b2c374&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=CIK0LzEzhs_4AQUlN7wHQg&expected_price_source=share&expected_price_currency=mxn&expected_price=4032",
+   "link": "https://www.aviasales.com/search/MTY2810HOU1?t=VB17932160401793224800000086MTYIAH_e91d5ff3786261ce8307506ab18af184_18342&search_date=18102026&expected_price_uuid=01a14ff2-be65-8030-ef25-baef26c23f2d&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=CIK0LzEzhs_4AQUlN7wHQg&expected_price_source=share&expected_price_currency=mxn&expected_price=4032",
    "title": "Flight deals from Monterrey to Houston",
    "micro": "/oferta/vuelos/vuelo-monterrey-houston-20261028-e91d5ff3/"
   },
@@ -188,26 +188,6 @@
    "link": "https://www.aviasales.com/search/GDL2810SLC1?t=Y417931864601793199900000224GDLSLC_4e7e499f160baaa66928b45519c8e653_21876&search_date=18102026&expected_price_uuid=01a14f14-2fe2-8030-abe1-974487123af7&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=EGoOzT0nBsm3lNG2uTQ7Rw&expected_price_source=share&expected_price_currency=mxn&expected_price=4808",
    "title": "Flight deals from Guadalajara to Salt Lake City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261028-4e7e499f/"
-  },
-  {
-   "id": "3ca35cc7b662f0f0ba4c04dd163949a7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAN",
-   "destination_name": "San Diego",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5278.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-28T08:20:00-06:00",
-   "return_at": "",
-   "duration": 571,
-   "link": "https://www.aviasales.com/search/MEX2810SAN1?t=Y417931756001793206260000571MEXOAKSAN_3ca35cc7b662f0f0ba4c04dd163949a7_24013&search_date=18102026&expected_price_uuid=01a14f17-5a1c-8031-25a5-f49dac70ca85&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fzXNzLCdcwUK-rB4ucZkCw&expected_price_source=share&expected_price_currency=mxn&expected_price=5278",
-   "title": "Flight deals from Mexico City to San Diego",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-diego-20261028-3ca35cc7/"
   },
   {
    "id": "528d9dfe85641cbd5c0da4a6cb56a62a",
@@ -288,6 +268,26 @@
    "link": "https://www.aviasales.com/search/MEX1111IST1?t=AM17944353001794529800001035MEXCDGIST_de002cc640c9d5008acffcb0b4062f78_94428&search_date=18102026&expected_price_uuid=01a14f87-62e1-8031-6595-190466983d74&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=0vK_cZTgn7IN5wtzpSUoGA&expected_price_source=share&expected_price_currency=mxn&expected_price=20755",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261111-de002cc6/"
+  },
+  {
+   "id": "77b08564419f323ccbaa5a9f6b10a759",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ALA",
+   "destination_name": "Almaty",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 30953.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-20T09:20:00-06:00",
+   "return_at": "",
+   "duration": 1405,
+   "link": "https://www.aviasales.com/search/MEX2001ALA1?t=TK18004368001800560700001405MEXISTALA_77b08564419f323ccbaa5a9f6b10a759_140825&search_date=18102026&expected_price_uuid=01a14fbd-a870-8030-63b5-f8ce30066ce9&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=eBw45waJgiRzGAmBGt8XhQ&expected_price_source=share&expected_price_currency=mxn&expected_price=30953",
+   "title": "Flight deals from Mexico City to Almaty",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-almaty-20270120-77b08564/"
   }
  ]
 }

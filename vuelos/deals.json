@@ -1,6 +1,6 @@
 {
- "generated_at": 1792281844.1385875,
- "generated_at_str": "17/10/2026 18:04",
+ "generated_at": 1792285444.1293137,
+ "generated_at_str": "17/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -140,12 +140,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 2626.0,
+   "price": 3107.0,
    "currency": "MXN",
    "departure_at": "2026-10-20T10:32:00-05:00",
    "return_at": "",
    "duration": 708,
-   "link": "https://www.aviasales.com/search/MEX2010NYC1?t=VB17924923201792542000000708NLUMTYJFK_4b08630b57fa165fc718dde720ad412f_11734&search_date=17102026&expected_price_uuid=01a14b31-3e25-8040-642b-390068ba0964&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WHS3e1niCCGqzaqvh3cMpg&expected_price_source=share&expected_price_currency=mxn&expected_price=2626",
+   "link": "https://www.aviasales.com/search/MEX2010NYC1?t=VB17924923201792542000000708NLUMTYJFK_4b08630b57fa165fc718dde720ad412f_13883&search_date=17102026&expected_price_uuid=01a14c4d-8ad2-8040-2833-8541038265ed&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WHS3e1niCCGqzaqvh3cMpg&expected_price_source=share&expected_price_currency=mxn&expected_price=3107",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261020-4b08630b/"
   },
@@ -230,26 +230,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-male-20270219-9ed14ae6/"
   },
   {
-   "id": "dcbdf938fdc6f8f298731b2293724bca",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "HU",
-   "airline_title": "Hainan Airlines",
-   "logo": "https://pics.avs.io/600/150/HU.png",
-   "logo_tipo": "",
-   "price": 15514.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-14T04:55:00-06:00",
-   "return_at": "",
-   "duration": 1085,
-   "link": "https://www.aviasales.com/search/MEX1412BJS1?t=HU17972241001797339600001085MEXTIJPEK_dcbdf938fdc6f8f298731b2293724bca_69319&search_date=17102026&expected_price_uuid=01a14b24-5cdd-8030-2f9b-c4f11632c054&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=WCk7YH5Pr6uDsJubYrMUUA&expected_price_source=share&expected_price_currency=mxn&expected_price=15514",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261214-dcbdf938/"
-  },
-  {
    "id": "5bdd83363952c7ebaf11f250a78d8075",
    "kind": "flight",
    "origin": "MEX",
@@ -268,6 +248,26 @@
    "link": "https://www.aviasales.com/search/MEX0806IST1?t=AM18124932001812583200000960MEXAMSIST_5bdd83363952c7ebaf11f250a78d8075_86527&search_date=17102026&expected_price_uuid=01a14bd0-2bfa-8030-6917-c67223c23a2c&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=ZBpRWzZQfRX2QS-ZEtMm0A&expected_price_source=share&expected_price_currency=mxn&expected_price=19365",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270608-5bdd8336/"
+  },
+  {
+   "id": "47b77be676111604105e9111ca398e15",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
+   "logo_tipo": "",
+   "price": 21278.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-22T04:50:00-05:00",
+   "return_at": "",
+   "duration": 1100,
+   "link": "https://www.aviasales.com/search/MEX2210BJS1?t=HU17926446001792761000001100MEXTIJPEK_47b77be676111604105e9111ca398e15_95077&search_date=17102026&expected_price_uuid=01a14b7f-a350-8040-2f70-7794e53032c8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=bbQFwYvDD-f8mXdhM6ZV6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=21278",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261022-47b77be6/"
   }
  ]
 }

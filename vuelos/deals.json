@@ -1,6 +1,6 @@
 {
- "generated_at": 1792299844.272685,
- "generated_at_str": "17/10/2026 23:04",
+ "generated_at": 1792303444.301607,
+ "generated_at_str": "18/10/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261208-1e1a6c7f/"
   },
   {
-   "id": "d9bc507455643aa5d4b97929db4f13cd",
+   "id": "77ef20e8714ae621206b14418307fa2d",
    "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LAS",
-   "destination_name": "Las Vegas",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2127.0,
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1923.0,
    "currency": "MXN",
-   "departure_at": "2026-10-27T12:05:00-06:00",
+   "departure_at": "2026-12-12T19:50:00-06:00",
    "return_at": "",
-   "duration": 233,
-   "link": "https://www.aviasales.com/search/MEX2710LAS1?t=Y417931027001793113080000233MEXLAS_d9bc507455643aa5d4b97929db4f13cd_9503&search_date=17102026&expected_price_uuid=01a14c44-2f05-8031-6a79-acdae5a4c1d6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WmmVtZR1n-Br-5OA2jt3zA&expected_price_source=share&expected_price_currency=mxn&expected_price=2127",
-   "title": "Flight deals from Mexico City to Las Vegas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261027-d9bc5074/"
+   "duration": 182,
+   "link": "https://www.aviasales.com/search/GDL1212TIJ1?t=VB17971050001797108720000182GDLTIJ_77ef20e8714ae621206b14418307fa2d_8594&search_date=18102026&expected_price_uuid=01a14d75-fce3-8040-6897-499e5b86c821&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=5hv6bh9H9avsHo-F3F_KNA&expected_price_source=share&expected_price_currency=mxn&expected_price=1923",
+   "title": "Flight deals from Guadalajara to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20261212-77ef20e8/"
   },
   {
    "id": "214af3e0a212986a7fdf0a4acf469de1",
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20261023-214af3e0/"
   },
   {
-   "id": "57096d13f4b91169df233f8cc8c7c2f0",
+   "id": "ced111b83bd58f9ff9a245db193d9ca7",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "DFW",
-   "destination_name": "Dallas",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
    "airline": "Y4",
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2756.0,
+   "price": 2922.0,
    "currency": "MXN",
-   "departure_at": "2026-10-27T07:00:00-06:00",
+   "departure_at": "2026-10-28T05:30:00-06:00",
    "return_at": "",
-   "duration": 164,
-   "link": "https://www.aviasales.com/search/MEX2710DFW1?t=Y417930844001793097840000164MEXDFW_57096d13f4b91169df233f8cc8c7c2f0_12313&search_date=17102026&expected_price_uuid=01a14c30-98bd-8031-6ea2-1edfcd128686&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_P4v9CMpuYeqf5K0HwrFxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2756",
-   "title": "Flight deals from Mexico City to Dallas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20261027-57096d13/"
+   "duration": 245,
+   "link": "https://www.aviasales.com/search/MEX2810LAX1?t=Y417931654001793176500000245MEXLAX_ced111b83bd58f9ff9a245db193d9ca7_13056&search_date=18102026&expected_price_uuid=01a14d89-fbfa-8030-6247-09ebb651fb71&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZPS01thix1Z8ee_Bp6SCAw&expected_price_source=share&expected_price_currency=mxn&expected_price=2922",
+   "title": "Flight deals from Mexico City to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261028-ced111b8/"
   },
   {
    "id": "4b08630b57fa165fc718dde720ad412f",
@@ -188,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX0101MAD1?t=BA17987619001798823400000605MEXMAD_94c78aa01bf49a4c75ddd9be47f2711b_36750&search_date=18102026&expected_price_uuid=01a14d0d-93c9-8040-a430-a122357057ad&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=WWy_K9iuApNHID9VQHphgQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8225",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20270101-94c78aa0/"
+  },
+  {
+   "id": "c12755e9ca66cdcc10b511068b71ca52",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HKG",
+   "destination_name": "Hong Kong",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 18448.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-03T20:10:00-06:00",
+   "return_at": "",
+   "duration": 1625,
+   "link": "https://www.aviasales.com/search/MEX0303HKG1?t=AM18041046001804252500001625MEXICNHKG_c12755e9ca66cdcc10b511068b71ca52_82431&search_date=18102026&expected_price_uuid=01a14d81-99e0-8030-a14d-d6dba058ba3f&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=YuFl8vbSPgcgfupoeSK6eQ&expected_price_source=share&expected_price_currency=mxn&expected_price=18448",
+   "title": "Flight deals from Mexico City to Hong Kong",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20270303-c12755e9/"
   }
  ]
 }

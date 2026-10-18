@@ -1,6 +1,6 @@
 {
- "generated_at": 1792332274.395364,
- "generated_at_str": "18/10/2026 08:04",
+ "generated_at": 1792335865.0207124,
+ "generated_at_str": "18/10/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "8772c460e58d14b29f6de93ad1740b51",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 577.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-20T12:27:00-05:00",
+   "return_at": "",
+   "duration": 82,
+   "link": "https://www.aviasales.com/search/MEX2010PVR1?t=Y417924992201792504140000082TLCPVR_8772c460e58d14b29f6de93ad1740b51_2624&search_date=18102026&expected_price_uuid=01a14f78-2243-8040-6e70-da9b17a66277&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=577",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261020-8772c460/"
+  },
   {
    "id": "87345a581c0d4ffaad34a153b8d1084c",
    "kind": "flight",
@@ -70,24 +90,44 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261208-1e1a6c7f/"
   },
   {
-   "id": "0086ab70b2166ec1cd28da771661859b",
+   "id": "07d7809cae1f7ce4cfaeea8c880cb312",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "DFW",
-   "destination_name": "Dallas",
+   "destination": "HOU",
+   "destination_name": "Houston",
    "airline": "Y4",
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2811.0,
+   "price": 2275.0,
    "currency": "MXN",
-   "departure_at": "2026-10-28T07:00:00-06:00",
+   "departure_at": "2026-10-28T06:05:00-06:00",
    "return_at": "",
-   "duration": 164,
-   "link": "https://www.aviasales.com/search/MEX2810DFW1?t=Y417931708001793184240000164MEXDFW_0086ab70b2166ec1cd28da771661859b_12789&search_date=18102026&expected_price_uuid=01a14f26-4c20-8030-23f4-7d796733025f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_P4v9CMpuYeqf5K0HwrFxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2811",
-   "title": "Flight deals from Mexico City to Dallas",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20261028-0086ab70/"
+   "duration": 134,
+   "link": "https://www.aviasales.com/search/MEX2810HOU1?t=Y417931675001793179140000134MEXIAH_07d7809cae1f7ce4cfaeea8c880cb312_10349&search_date=18102026&expected_price_uuid=01a14f52-4642-8030-695f-fc8afca2d60d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zltFR4nhEDFyO25lEIH5NA&expected_price_source=share&expected_price_currency=mxn&expected_price=2275",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261028-07d7809c/"
+  },
+  {
+   "id": "ced111b83bd58f9ff9a245db193d9ca7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2922.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-28T05:30:00-06:00",
+   "return_at": "",
+   "duration": 245,
+   "link": "https://www.aviasales.com/search/MEX2810LAX1?t=Y417931654001793176500000245MEXLAX_ced111b83bd58f9ff9a245db193d9ca7_13294&search_date=18102026&expected_price_uuid=01a14f4f-0d30-8030-e131-ecf495d94ec6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZPS01thix1Z8ee_Bp6SCAw&expected_price_source=share&expected_price_currency=mxn&expected_price=2922",
+   "title": "Flight deals from Mexico City to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261028-ced111b8/"
   },
   {
    "id": "009a40955567efda19c5382212a56bcf",
@@ -145,7 +185,7 @@
    "departure_at": "2026-10-28T19:34:00-06:00",
    "return_at": "",
    "duration": 86,
-   "link": "https://www.aviasales.com/search/MTY2810HOU1?t=VB17932160401793224800000086MTYIAH_e91d5ff3786261ce8307506ab18af184_18342&search_date=18102026&expected_price_uuid=01a14f43-e8e0-8031-25c5-332a96c5014a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=CIK0LzEzhs_4AQUlN7wHQg&expected_price_source=share&expected_price_currency=mxn&expected_price=4032",
+   "link": "https://www.aviasales.com/search/MTY2810HOU1?t=VB17932160401793224800000086MTYIAH_e91d5ff3786261ce8307506ab18af184_18342&search_date=18102026&expected_price_uuid=01a14f86-fbf5-8030-6d0c-21f696b2c374&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=CIK0LzEzhs_4AQUlN7wHQg&expected_price_source=share&expected_price_currency=mxn&expected_price=4032",
    "title": "Flight deals from Monterrey to Houston",
    "micro": "/oferta/vuelos/vuelo-monterrey-houston-20261028-e91d5ff3/"
   },

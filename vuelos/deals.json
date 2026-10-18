@@ -1,6 +1,6 @@
 {
- "generated_at": 1792278244.2757354,
- "generated_at_str": "17/10/2026 17:04",
+ "generated_at": 1792281844.1385875,
+ "generated_at_str": "17/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "25c61bd4c983def6866a213996fa5ff7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "CUN",
-   "destination_name": "Cancún",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 721.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-20T06:30:00-06:00",
-   "return_at": "",
-   "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX2001CUN1?t=Y418004266001800438420000137TLCCUN_25c61bd4c983def6866a213996fa5ff7_3223&search_date=17102026&expected_price_uuid=01a14aed-2d36-8031-6b68-e224daaa6220&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=721",
-   "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270120-25c61bd4/"
-  },
   {
    "id": "ca49baa198d50d3650d99c390b73e0f9",
    "kind": "flight",
@@ -85,7 +65,7 @@
    "departure_at": "2026-10-27T12:05:00-06:00",
    "return_at": "",
    "duration": 233,
-   "link": "https://www.aviasales.com/search/MEX2710LAS1?t=Y417931027001793113080000233MEXLAS_d9bc507455643aa5d4b97929db4f13cd_9503&search_date=17102026&expected_price_uuid=01a14bc6-fa1c-8030-23de-008eb06a6a7c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WmmVtZR1n-Br-5OA2jt3zA&expected_price_source=share&expected_price_currency=mxn&expected_price=2127",
+   "link": "https://www.aviasales.com/search/MEX2710LAS1?t=Y417931027001793113080000233MEXLAS_d9bc507455643aa5d4b97929db4f13cd_9503&search_date=17102026&expected_price_uuid=01a14c44-2f05-8031-6a79-acdae5a4c1d6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WmmVtZR1n-Br-5OA2jt3zA&expected_price_source=share&expected_price_currency=mxn&expected_price=2127",
    "title": "Flight deals from Mexico City to Las Vegas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261027-d9bc5074/"
   },
@@ -228,6 +208,26 @@
    "link": "https://www.aviasales.com/search/MEX0711MAD1?t=IB17940639001794145500000940TLCMTYMAD_87660f110251726e6be8a6a8deaad49b_46802&search_date=17102026&expected_price_uuid=01a14b96-be2e-8040-69f4-f7bd5c27503b&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=68PtEBO7zU_oB3TqakFlOw&expected_price_source=share&expected_price_currency=mxn&expected_price=10474",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261107-87660f11/"
+  },
+  {
+   "id": "9ed14ae68238ee1d7b5ebcf114235b6f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MLE",
+   "destination_name": "Malé",
+   "airline": "WK",
+   "airline_title": "Edelweiss Air",
+   "logo": "https://pics.avs.io/600/150/WK.png",
+   "logo_tipo": "",
+   "price": 14083.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-19T09:40:00-06:00",
+   "return_at": "",
+   "duration": 2115,
+   "link": "https://www.aviasales.com/search/MEX1902MLE1?t=WK18030300001803196500002115MEXIADZRHMLE_9ed14ae68238ee1d7b5ebcf114235b6f_62926&search_date=17102026&expected_price_uuid=01a14b4e-da34-8030-6442-ac275ffb10c7&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=YoTSGb8ijSLBeSDPTlBHLA&expected_price_source=share&expected_price_currency=mxn&expected_price=14083",
+   "title": "Flight deals from Mexico City to Male",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-male-20270219-9ed14ae6/"
   },
   {
    "id": "dcbdf938fdc6f8f298731b2293724bca",

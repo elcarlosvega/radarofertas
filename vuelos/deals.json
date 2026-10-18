@@ -1,6 +1,6 @@
 {
- "generated_at": 1792353844.2074442,
- "generated_at_str": "18/10/2026 14:04",
+ "generated_at": 1792357444.5608604,
+ "generated_at_str": "18/10/2026 15:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "8772c460e58d14b29f6de93ad1740b51",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 577.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-20T12:27:00-05:00",
-   "return_at": "",
-   "duration": 82,
-   "link": "https://www.aviasales.com/search/MEX2010PVR1?t=Y417924992201792504140000082TLCPVR_8772c460e58d14b29f6de93ad1740b51_2624&search_date=18102026&expected_price_uuid=01a14f78-2243-8040-6e70-da9b17a66277&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_wt4wM-HyrBwjrZIyCvKCg&expected_price_source=share&expected_price_currency=mxn&expected_price=577",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261020-8772c460/"
-  },
   {
    "id": "c959165d148fa6009783c69dada5aa0f",
    "kind": "flight",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX2110LAP1?t=VB17926014001792606020000137NLULAP_74cbfd13c48d0920fd78d419a0b48386_7468&search_date=18102026&expected_price_uuid=01a15063-433a-8030-ecd4-e535bf84bc22&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=lNy5Oj7dG7vjpiDB7nUCfA&expected_price_source=share&expected_price_currency=mxn&expected_price=1641",
    "title": "Flight deals from Mexico City to La Paz",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20261021-74cbfd13/"
+  },
+  {
+   "id": "bfc32790bdbd54e7b032c334e8cb64f1",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "CUN",
+   "destination_name": "Cancún",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1647.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-09T17:42:00-06:00",
+   "return_at": "",
+   "duration": 133,
+   "link": "https://www.aviasales.com/search/MEX0912CUN1?t=VB17968381201796849700000133TLCCUN_bfc32790bdbd54e7b032c334e8cb64f1_7492&search_date=18102026&expected_price_uuid=01a150ba-2e20-8030-e53c-e50854399db5&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=bFhvq8tY2kGzLRLq_iTBxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1647",
+   "title": "Flight deals from Mexico City to Cancun",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261209-bfc32790/"
   },
   {
    "id": "07d7809cae1f7ce4cfaeea8c880cb312",
@@ -150,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20270121-3427a40e/"
   },
   {
-   "id": "f311e1400bbe7fcfe1abc323fc0f7831",
+   "id": "8652154d996dbe97d27c7a3bf8aba0ca",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "MAD",
    "destination_name": "Ciudad de Madrid",
-   "airline": "KL",
-   "airline_title": "KLM",
-   "logo": "https://pics.avs.io/600/150/KL.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 11417.0,
+   "price": 8119.0,
    "currency": "MXN",
-   "departure_at": "2026-10-22T20:05:00-05:00",
+   "departure_at": "2026-11-08T11:20:00-06:00",
    "return_at": "",
-   "duration": 930,
-   "link": "https://www.aviasales.com/search/MEX2210MAD1?t=KL17926995001792784100000930MEXAMSMAD_f311e1400bbe7fcfe1abc323fc0f7831_51942&search_date=18102026&expected_price_uuid=01a14f4b-27a3-8030-aa92-2ccb441f082a&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=iIlgfeE01JqiuAXAMpxdyQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11417",
+   "duration": 640,
+   "link": "https://www.aviasales.com/search/MEX0811MAD1?t=AM17941368001794200400000640MEXMAD_8652154d996dbe97d27c7a3bf8aba0ca_36936&search_date=18102026&expected_price_uuid=01a150be-dbce-8040-6506-b3be11aac1a0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kIAvI0vgvte4V7uZPMHxCw&expected_price_source=share&expected_price_currency=mxn&expected_price=8119",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261022-f311e140/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261108-8652154d/"
   },
   {
    "id": "de002cc640c9d5008acffcb0b4062f78",

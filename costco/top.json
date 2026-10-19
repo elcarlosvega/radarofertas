@@ -1,40 +1,18 @@
 {
- "generated_at": 1792393508.824725,
- "generated_at_str": "19/10/2026 01:05",
- "total": 836,
+ "generated_at": 1792397094.2406688,
+ "generated_at_str": "19/10/2026 02:04",
+ "total": 877,
  "deals": [
   {
    "id": "1812550",
    "name": "Simon Li Furniture, Sillón de Piel",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h1d/h8d/326559121932318.jpg",
    "category": "Muebles",
-   "price_new": 6999.0,
-   "price_old": 13999.0,
-   "pct": 50.0,
-   "amount": 7000.0,
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Simon-Li-Furniture-Sillon-de-Piel/p/1812550"
-  },
-  {
-   "id": "1851578",
-   "name": "Disney Escena del Puente de Halloween de Stitch con Luces y Música",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/h05/454720016449566.jpg",
-   "category": "Articulos de Temporada",
-   "price_new": 999.0,
-   "price_old": 2499.0,
-   "pct": 60.0,
-   "amount": 1500.0,
-   "url": "https://www.costco.com.mx/Articulos-de-Temporada/Dia-de-Muertos-y-Halloween/Decoracion-para-Interiores/Disney-Escena-del-Puente-de-Halloween-de-Stitch-con-Luces-y-Musica/p/1851578"
-  },
-  {
-   "id": "1851622",
-   "name": "Disney Calabaza LED de Mickey de 1.1m con Espejos Infinitos",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h92/he3/437792126697502.jpg",
-   "category": "Articulos de Temporada",
-   "price_new": 3999.0,
+   "price_new": 2999.0,
    "price_old": 6999.0,
-   "pct": 42.9,
-   "amount": 3000.0,
-   "url": "https://www.costco.com.mx/Articulos-de-Temporada/Dia-de-Muertos-y-Halloween/Decoracion-para-Exteriores/Disney-Calabaza-LED-de-Mickey-de-11m-con-Espejos-Infinitos/p/1851622"
+   "pct": 57.2,
+   "amount": 4000.0,
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Simon-Li-Furniture-Sillon-de-Piel/p/1812550"
   },
   {
    "id": "694502",
@@ -48,17 +26,6 @@
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Hisense-Pantalla-100-ULED-MiniLed-4K-Fire-TV-100QD7QFM/p/694502"
   },
   {
-   "id": "648185",
-   "name": "KitchenAid Refrigerador 25' French Door",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/h3e/490070441525278.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 90999.0,
-   "price_old": 129999.0,
-   "pct": 30.0,
-   "amount": 39000.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/KitchenAid-Refrigerador-25-French-Door/p/648185"
-  },
-  {
    "id": "705331",
    "name": "Foundayz 0.8 mg 30 Tabletas",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h38/h94/504860537454622.jpg",
@@ -68,6 +35,17 @@
    "pct": 41.8,
    "amount": 1670.0,
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Medicamentos/Especialidades-Medicas/Foundayz-08-mg-30-Tabletas/p/705331"
+  },
+  {
+   "id": "2047957",
+   "name": "Over & Back Juego de 4 Platos Hondos de Cerámica",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hab/he9/454720193789982.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 649.0,
+   "price_old": 1249.0,
+   "pct": 48.0,
+   "amount": 600.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Over-Back-Juego-de-4-Platos-Hondos-de-Ceramica/p/2047957"
   },
   {
    "id": "703474",
@@ -92,6 +70,39 @@
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-83-OLED-4K-Smart-TV-QN83S90FAEXZX/p/696517"
   },
   {
+   "id": "648185",
+   "name": "KitchenAid Refrigerador 25' French Door",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha9/h3e/490070441525278.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_new": 93999.0,
+   "price_old": 129999.0,
+   "pct": 27.7,
+   "amount": 36000.0,
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/KitchenAid-Refrigerador-25-French-Door/p/648185"
+  },
+  {
+   "id": "1807250",
+   "name": "Agio, Trinity Sala Modular para Exterior de 4 piezas",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/h24/314330076020766.jpg",
+   "category": "Muebles",
+   "price_new": 27999.0,
+   "price_old": 39999.0,
+   "pct": 30.0,
+   "amount": 12000.0,
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/Agio-Trinity-Sala-Modular-para-Exterior-de-4-piezas/p/1807250"
+  },
+  {
+   "id": "1807201",
+   "name": "Agio, Stinsley Sala para Exterior de 4 piezas",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h09/he2/413711750004766.jpg",
+   "category": "Muebles",
+   "price_new": 27999.0,
+   "price_old": 39999.0,
+   "pct": 30.0,
+   "amount": 12000.0,
+   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Salas-para-Exterior/Agio-Stinsley-Sala-para-Exterior-de-4-piezas/p/1807201"
+  },
+  {
    "id": "703471",
    "name": "Samsung Pantalla 77\" OLED 4K Smart TV QN77S90HAEXZX",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h29/h79/452879718383646.jpg",
@@ -114,26 +125,15 @@
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-22Kg-Carga-Frontal-con-Pedestal/p/660426"
   },
   {
-   "id": "702373",
-   "name": "Teka Cafetera Empotrable Color Negro",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha7/h21/437400673255454.jpg",
-   "category": "Electrodomesticos",
-   "price_new": 33999.0,
-   "price_old": 47999.0,
-   "pct": 29.2,
-   "amount": 14000.0,
-   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Cafeteras-y-Teteras/Teka-Cafetera-Empotrable-Color-Negro/p/702373"
-  },
-  {
-   "id": "2047957",
-   "name": "Over & Back Juego de 4 Platos Hondos de Cerámica",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hab/he9/454720193789982.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_new": 699.0,
-   "price_old": 1249.0,
-   "pct": 44.0,
-   "amount": 550.0,
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/Over-Back-Juego-de-4-Platos-Hondos-de-Ceramica/p/2047957"
+   "id": "1987779",
+   "name": "Thomasville, Fallon, Seccional Modular de Tela de 6 piezas con Otomano",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h19/h45/492371287736350.jpg",
+   "category": "Muebles",
+   "price_new": 22999.0,
+   "price_old": 32999.0,
+   "pct": 30.3,
+   "amount": 10000.0,
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Fallon-Seccional-Modular-de-Tela-de-6-piezas-con-Otomano/p/1987779"
   }
  ]
 }

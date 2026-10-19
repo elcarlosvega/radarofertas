@@ -1,6 +1,6 @@
 {
- "generated_at": 1792371920.3178763,
- "generated_at_str": "18/10/2026 19:05",
+ "generated_at": 1792375498.8282826,
+ "generated_at_str": "18/10/2026 20:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -517,25 +517,6 @@
    "h_min": 7499.0,
    "h_ayer": 7499.0,
    "h_min7": 7499.0
-  },
-  {
-   "id": "25347",
-   "name": "Kirkland Signature Alimento para Perro Adulto con Pollo y Arroz 18.1kg",
-   "url": "https://www.costco.com.mx/Mascotas/Alimentos-y-Premios/Kirkland-Signature-Alimento-para-Perro-Adulto-con-Pollo-y-Arroz-181kg/p/25347",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h52/h10/299004898803742.jpg",
-   "category": "Mascotas",
-   "price_old": 1149.0,
-   "price_new": 799.0,
-   "pct": 30.5,
-   "amount": 350.0,
-   "starts": "2026-10-12T06:00:00.000Z",
-   "ends": "2026-10-19T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1791792328.4345086,
-   "h_dias": 33,
-   "h_min": 779.0,
-   "h_ayer": 799.0,
-   "h_min7": 799.0
   },
   {
    "id": "696517",
@@ -6721,6 +6702,24 @@
    "h_dias": 44,
    "h_min": 1959.3,
    "h_ayer": 2099.0,
+   "h_min7": 2099.0
+  },
+  {
+   "id": "1997319",
+   "name": "Ninja, Licuadora Portátil BlendBOSS 1200W + 2 Vasos portátiles 770 ml",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Licuadoras-y-Procesadores/Ninja-Licuadora-Portatil-BlendBOSS-1200W-2-Vasos-portatiles-770-ml/p/1997319",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h48/he0/472881290248222.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 2799.0,
+   "price_new": 2099.0,
+   "pct": 25.0,
+   "amount": 700.0,
+   "starts": "2026-09-21T06:00:00.000Z",
+   "ends": "2026-10-19T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1789974333.001038,
+   "h_dias": 14,
+   "h_min": 2099.0,
    "h_min7": 2099.0
   },
   {

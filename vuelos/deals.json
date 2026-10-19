@@ -1,6 +1,6 @@
 {
- "generated_at": 1792400644.2352445,
- "generated_at_str": "19/10/2026 03:04",
+ "generated_at": 1792404243.8749907,
+ "generated_at_str": "19/10/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "cf45582cba794c58d3387ea08d46088d",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 979.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-27T08:41:00-06:00",
-   "return_at": "",
-   "duration": 91,
-   "link": "https://www.aviasales.com/search/MEX2710PVR1?t=VB17930904601793095920000091NLUPVR_cf45582cba794c58d3387ea08d46088d_4465&search_date=19102026&expected_price_uuid=01a15225-00d0-8040-6bcd-0a1137aa438e&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=3FlZjqXeojJA22erkZOAng&expected_price_source=share&expected_price_currency=mxn&expected_price=979",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261027-cf45582c/"
-  },
   {
    "id": "20dd70fce4eec517b353a4cdead4a6c3",
    "kind": "flight",

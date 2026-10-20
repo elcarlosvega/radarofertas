@@ -1,6 +1,6 @@
 {
- "generated_at": 1792501514.1672351,
- "generated_at_str": "20/10/2026 07:05",
+ "generated_at": 1792505118.0992823,
+ "generated_at_str": "20/10/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -138,6 +138,25 @@
    "h_min": 10499.0,
    "h_ayer": 10999.0,
    "h_min7": 10999.0
+  },
+  {
+   "id": "694538",
+   "name": "Hisense Refrigerador 20' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-20-French-Door/p/694538",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/hd3/366045327327262.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 57999.0,
+   "price_new": 39999.0,
+   "pct": 31.0,
+   "amount": 18000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 60,
+   "h_min": 39999.0,
+   "h_ayer": 43999.0,
+   "h_min7": 39999.0
   },
   {
    "id": "682703",
@@ -401,6 +420,24 @@
    "h_dias": 4,
    "h_min": 2299.0,
    "h_ayer": 2299.0
+  },
+  {
+   "id": "660433",
+   "name": "Teka Frigobar 4'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Frigobares/Teka-Frigobar-4/p/660433",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h7e/hc4/31414590406686.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 6299.0,
+   "price_new": 4399.0,
+   "pct": 30.2,
+   "amount": 1900.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 7,
+   "h_min": 4399.0,
+   "h_min7": 4399.0
   },
   {
    "id": "695390",
@@ -2403,6 +2440,24 @@
    "h_min7": 7999.0
   },
   {
+   "id": "700974",
+   "name": "Teka Horno de Gas 60cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/Teka-Horno-de-Gas-60cm/p/700974",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd4/h1a/483839856640030.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 10999.0,
+   "price_new": 7999.0,
+   "pct": 27.3,
+   "amount": 3000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-11-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 16,
+   "h_min": 6999.0,
+   "h_min7": 7999.0
+  },
+  {
    "id": "683660",
    "name": "América, Nova, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/America-Nova-Colchon-Matrimonial/p/683660",
@@ -2476,6 +2531,24 @@
    "h_dias": 53,
    "h_min": 3799.0,
    "h_min7": 3999.0
+  },
+  {
+   "id": "686097",
+   "name": "Canon Powershot V10",
+   "url": "https://www.costco.com.mx/Electronicos/Fotografia/Camaras-Digitales/Canon-Powershot-V10/p/686097",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9e/hdf/242039916724254.jpg",
+   "category": "Electronicos",
+   "price_old": 8499.0,
+   "price_new": 6199.0,
+   "pct": 27.1,
+   "amount": 2300.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 66,
+   "h_min": 6199.0,
+   "h_min7": 6199.0
   },
   {
    "id": "703465",
@@ -2668,24 +2741,6 @@
    "h_min7": 2199.0
   },
   {
-   "id": "1327688",
-   "name": "Mikasa, Vajilla de Porcelana Fina de 20 piezas",
-   "url": "https://www.costco.com.mx/c/Mikasa-Vajilla-de-Porcelana-Fina-de-20-piezas/p/1327688",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/h30/491490906243102.jpg",
-   "category": "Otros",
-   "price_old": 1499.0,
-   "price_new": 1099.0,
-   "pct": 26.7,
-   "amount": 400.0,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-10-26T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792397107.232639,
-   "h_dias": 2,
-   "h_min": 1099.0,
-   "h_ayer": 1099.0
-  },
-  {
    "id": "704638",
    "name": "Rice & Shine, Kit Facial con 2 Aceites Faciales + Guasha de Acero+ 3 Muestras de Cuidado Facial",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Rice-Shine-Kit-Facial-con-2-Aceites-Faciales-Guasha-de-Acero-3-Muestras-de-Cuidado-Facial/p/704638",
@@ -2703,6 +2758,24 @@
    "h_min": 1099.0,
    "h_ayer": 1099.0,
    "h_min7": 1099.0
+  },
+  {
+   "id": "1327688",
+   "name": "Mikasa, Vajilla de Porcelana Fina de 20 piezas",
+   "url": "https://www.costco.com.mx/c/Mikasa-Vajilla-de-Porcelana-Fina-de-20-piezas/p/1327688",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha2/h30/491490906243102.jpg",
+   "category": "Otros",
+   "price_old": 1499.0,
+   "price_new": 1099.0,
+   "pct": 26.7,
+   "amount": 400.0,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792397107.232639,
+   "h_dias": 2,
+   "h_min": 1099.0,
+   "h_ayer": 1099.0
   },
   {
    "id": "702556",
@@ -6678,6 +6751,24 @@
    "h_min": 2046.75,
    "h_ayer": 2046.75,
    "h_min7": 2046.75
+  },
+  {
+   "id": "685491",
+   "name": "Taylor's 20 años Oporto 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vinos-Fortificados/Taylors-20-anos-Oporto-750-ml/p/685491",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/h79/227096003444766.jpg",
+   "category": "Vinos",
+   "price_old": 2599.0,
+   "price_new": 1949.25,
+   "pct": 25.0,
+   "amount": 649.75,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-30T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 9,
+   "h_min": 1949.25,
+   "h_min7": 1949.25
   },
   {
    "id": "751118",
@@ -12096,6 +12187,23 @@
    "h_min7": 9499.0
   },
   {
+   "id": "1863012",
+   "name": "Aretes de Perlas Cultivadas, Oro Blanco de 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Aretes/Aretes-de-Perlas/Aretes-de-Perlas-Cultivadas-Oro-Blanco-de-14K/p/1863012",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/hcb/349262996570142.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 8599.0,
+   "price_new": 7099.0,
+   "pct": 17.4,
+   "amount": 1500.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 1,
+   "h_min": 7099.0
+  },
+  {
    "id": "693650",
    "name": "Krups, Cafetera Automática Arábica, Incluye kit de mantenimiento",
    "url": "https://www.costco.com.mx/Electrodomesticos/Electrodomesticos-de-Cocina/Maquinas-de-Espresso/Krups-Cafetera-Automatica-Arabica-Incluye-kit-de-mantenimiento/p/693650",
@@ -12322,6 +12430,23 @@
    "h_min": 8699.0,
    "h_ayer": 8699.0,
    "h_min7": 8699.0
+  },
+  {
+   "id": "1863016",
+   "name": "Dije de Perla Cultivada, 8-8.5mm, Oro Amarillo de 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Collares/Collares-de-Perlas/Dije-de-Perla-Cultivada-8-85mm-Oro-Amarillo-de-14K/p/1863016",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/h6d/349262999552030.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 8799.0,
+   "price_new": 7299.0,
+   "pct": 17.0,
+   "amount": 1500.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 1,
+   "h_min": 7299.0
   },
   {
    "id": "1934130",
@@ -12889,6 +13014,23 @@
    "h_min7": 26799.0
   },
   {
+   "id": "1565659",
+   "name": "Collar, Corazón, Oro Amarillo de 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Collares/Collares-de-Oro/Collar-Corazon-Oro-Amarillo-de-14K/p/1565659",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc6/h23/416375749541918.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 24499.0,
+   "price_new": 20499.0,
+   "pct": 16.3,
+   "amount": 4000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 1,
+   "h_min": 20499.0
+  },
+  {
    "id": "687771",
    "name": "Montbrook Home, Ashlyn, Sofá Cama Seccional con Puerto USB",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Montbrook-Home-Ashlyn-Sofa-Cama-Seccional-con-Puerto-USB/p/687771",
@@ -13341,6 +13483,23 @@
    "h_min": 21999.0,
    "h_ayer": 21999.0,
    "h_min7": 21999.0
+  },
+  {
+   "id": "1845299",
+   "name": "Aretes Colgantes de Diamantes 0.70ctw, en Oro Blanco 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Aretes/Aretes-de-Diamantes/Aretes-Colgantes-de-Diamantes-070ctw-en-Oro-Blanco-14K/p/1845299",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h66/h31/298563241836574.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 25999.0,
+   "price_new": 21999.0,
+   "pct": 15.4,
+   "amount": 4000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 1,
+   "h_min": 21999.0
   },
   {
    "id": "695690",
@@ -14195,6 +14354,24 @@
    "h_min7": 12999.0
   },
   {
+   "id": "1290154",
+   "name": "Argolla de Matrimonio, Comfort Fit, 5mm, Oro Amarillo de 14K, Talla 7",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Anillos/Anillos-de-Oro/Argolla-de-Matrimonio-Comfort-Fit-5mm-Oro-Amarillo-de-14K-Talla-7/p/1290154",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h15/99299114090526.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 13599.0,
+   "price_new": 11599.0,
+   "pct": 14.7,
+   "amount": 2000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 9,
+   "h_min": 11099.0,
+   "h_min7": 11599.0
+  },
+  {
    "id": "702007",
    "name": "Foreo, FAQ 202 Máscara Facial LED + Primer Manuka Honey P1 30 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Foreo-FAQ-202-Mascara-Facial-LED-Primer-Manuka-Honey-P1-30-ml/p/702007",
@@ -14707,6 +14884,24 @@
    "h_min7": 17499.0
   },
   {
+   "id": "986696",
+   "name": "Aretes de Diamantes 0.50ctw, Oro Blanco de 14K, Corte Redondo",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Aretes/Aretes-de-Diamantes/Aretes-de-Diamantes-050ctw-Oro-Blanco-de-14K-Corte-Redondo/p/986696",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h31/h94/11039153651742.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 21999.0,
+   "price_new": 18999.0,
+   "pct": 13.6,
+   "amount": 3000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 11,
+   "h_min": 18999.0,
+   "h_min7": 18999.0
+  },
+  {
    "id": "670431",
    "name": "Elica Campana de Pared 90cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Elica-Campana-de-Pared-90cm/p/670431",
@@ -14779,6 +14974,25 @@
    "h_min": 30999.0,
    "h_ayer": 31999.0,
    "h_min7": 31999.0
+  },
+  {
+   "id": "521310",
+   "name": "Teka Refrigerador 19' Cuatro Puertas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Teka-Refrigerador-19-Cuatro-Puertas/p/521310",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h04/h0e/260584487387166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 17299.0,
+   "pct": 13.5,
+   "amount": 2700.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-23T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 80,
+   "h_min": 15999.0,
+   "h_ayer": 17499.0,
+   "h_min7": 17299.0
   },
   {
    "id": "522695",
@@ -16142,6 +16356,23 @@
    "h_min7": 32999.0
   },
   {
+   "id": "1580463",
+   "name": "Anillo de Zafiro Azul, Oro Blanco de 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Anillos/Anillos-de-Piedras-Preciosas/Anillo-de-Zafiro-Azul-Oro-Blanco-de-14K/p/1580463",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdb/h4e/84064587874334.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 36999.0,
+   "price_new": 32999.0,
+   "pct": 10.8,
+   "amount": 4000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 1,
+   "h_min": 32999.0
+  },
+  {
    "id": "696649",
    "name": "Apple Watch Series 11 (GPS + Celular) 46mm Titanio Oro + Correa Milanese Color Oro - Talla S/M",
    "url": "https://www.costco.com.mx/Electronicos/Apple/Apple-Watch/Apple-Watch-Series-11-GPS-Celular-46mm-Titanio-Oro-Correa-Milanese-Color-Oro-Talla-SM/p/696649",
@@ -16595,6 +16826,24 @@
    "h_min7": 24999.0
   },
   {
+   "id": "1597120",
+   "name": "Anillo de Zafiro Azul y Diamantes 0.25ctw, Oro Blanco de 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Anillos/Anillos-de-Piedras-Preciosas/Anillo-de-Zafiro-Azul-y-Diamantes-025ctw-Oro-Blanco-de-14K/p/1597120",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/h17/83893086421022.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 28999.0,
+   "price_new": 25999.0,
+   "pct": 10.3,
+   "amount": 3000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 12,
+   "h_min": 25999.0,
+   "h_min7": 25999.0
+  },
+  {
    "id": "705884",
    "name": "Nintendo Switch 2 Bundle: Mario Kart World + 3 Meses Nintendo Switch Online",
    "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Bundle-Mario-Kart-World-3-Meses-Nintendo-Switch-Online/p/705884",
@@ -16668,6 +16917,23 @@
    "h_dias": 7,
    "h_min": 45499.0,
    "h_min7": 53999.0
+  },
+  {
+   "id": "1994799",
+   "name": "Anillo de Compromiso, 1.00ctw Diamantes, Oro Blanco 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Anillos/Anillos-de-Diamantes/Anillo-de-Compromiso-100ctw-Diamantes-Oro-Blanco-14K/p/1994799",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/h37/413478142115870.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 49999.0,
+   "price_new": 44999.0,
+   "pct": 10.0,
+   "amount": 5000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 1,
+   "h_min": 44999.0
   },
   {
    "id": "701736",
@@ -17159,6 +17425,23 @@
    "h_min7": 86999.0
   },
   {
+   "id": "652713",
+   "name": "Despensa Básica Pallet de 75 cajas",
+   "url": "https://www.costco.com.mx/Articulos-de-Temporada/Despensas-Canastas-y-Regalos/Regalos/Despensa-Basica-Pallet-de-75-cajas/p/652713",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/h9b/503606544695326.jpg",
+   "category": "Articulos de Temporada",
+   "price_old": 31999.0,
+   "price_new": 28999.0,
+   "pct": 9.4,
+   "amount": 3000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 3,
+   "h_min": 28799.0
+  },
+  {
    "id": "703426",
    "name": "Sony Pantalla 100\" BRAVIA 3 II UHD 4K Smart TV K-100XR30M2",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Sony-Pantalla-100-BRAVIA-3-II-UHD-4K-Smart-TV-K-100XR30M2/p/703426",
@@ -17346,6 +17629,24 @@
    "h_dias": 68,
    "h_min": 13499.0,
    "h_ayer": 20999.0,
+   "h_min7": 20999.0
+  },
+  {
+   "id": "1996571",
+   "name": "Pulsera de Eslabones Pantera, Oro Amarillo 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Oro/Pulsera-de-Eslabones-Pantera-Oro-Amarillo-14K/p/1996571",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/hc7/416801613217822.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 22999.0,
+   "price_new": 20999.0,
+   "pct": 8.7,
+   "amount": 2000.0,
+   "starts": "2026-10-20T06:00:00.000Z",
+   "ends": "2026-10-21T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792505118.0992823,
+   "h_dias": 7,
+   "h_min": 20999.0,
    "h_min7": 20999.0
   },
   {

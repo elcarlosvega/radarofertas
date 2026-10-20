@@ -1,6 +1,6 @@
 {
- "generated_at": 1792451043.4109542,
- "generated_at_str": "19/10/2026 17:04",
+ "generated_at": 1792454643.459729,
+ "generated_at_str": "19/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,46 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "0e6c63bbc2aa3e751db201fee04065c9",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1198.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-21T06:30:00-05:00",
+   "return_at": "",
+   "duration": 74,
+   "link": "https://www.aviasales.com/search/MEX2110GDL1?t=Y417925642001792568640000074NLUGDL_0e6c63bbc2aa3e751db201fee04065c9_5380&search_date=19102026&expected_price_uuid=01a1568a-8c3c-8030-6861-6161c781d0fe&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=YyHf0dpd2HB7XfW7eX9cHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1198",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20261021-0e6c63bb/"
+  },
+  {
+   "id": "562a26d3ccf006aff7dbc7cf539cd690",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "Q4",
+   "airline_title": "Euroairlines",
+   "logo": "https://pics.avs.io/600/150/Q4.png",
+   "logo_tipo": "",
+   "price": 2064.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-31T21:55:00-06:00",
+   "return_at": "",
+   "duration": 210,
+   "link": "https://www.aviasales.com/search/MEX3110TIJ1?t=Q417934837001793492700000210NLUTIJ_562a26d3ccf006aff7dbc7cf539cd690_9269&search_date=19102026&expected_price_uuid=01a15686-c25b-8040-6800-2dfdb4d47160&static_fare_key=TY%7CP0%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=c8-x7sDS3myrUuIhWO4Hvw&expected_price_source=share&expected_price_currency=mxn&expected_price=2064",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261031-562a26d3/"
+  },
   {
    "id": "416ddbce9d5a43e97d586fce5d0f6bc5",
    "kind": "flight",
@@ -108,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX0102SDQ1?t=DM18015248401801547340000255NLUSDQ_a6a7e93a9b8ba4c5b7ad8267937e38fa_19467&search_date=19102026&expected_price_uuid=01a155e1-75f0-8030-e079-c7c2fecede12&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=4336",
    "title": "Flight deals from Mexico City to Santo Domingo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270201-a6a7e93a/"
-  },
-  {
-   "id": "15c2dfe1308c4802d01380863085c0a5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAO",
-   "destination_name": "São Paulo",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 5978.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-24T20:55:00-06:00",
-   "return_at": "",
-   "duration": 600,
-   "link": "https://www.aviasales.com/search/MEX2412SAO1?t=AM17981457001798192500000600MEXGRU_15c2dfe1308c4802d01380863085c0a5_26839&search_date=19102026&expected_price_uuid=01a1552e-fd19-8030-e398-4ab99a468462&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cMXgF3ji1Cv9qJ3A1ZS07g&expected_price_source=share&expected_price_currency=mxn&expected_price=5978",
-   "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261224-15c2dfe1/"
   },
   {
    "id": "afa85f0890c606874dd0ea5486e4d10b",

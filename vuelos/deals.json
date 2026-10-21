@@ -1,6 +1,6 @@
 {
- "generated_at": 1792551863.6344416,
- "generated_at_str": "20/10/2026 21:04",
+ "generated_at": 1792555443.7988527,
+ "generated_at_str": "20/10/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -65,7 +65,7 @@
    "departure_at": "2026-10-29T20:42:00-06:00",
    "return_at": "",
    "duration": 92,
-   "link": "https://www.aviasales.com/search/MEX2910MTY1?t=VB17933065201793312040000092NLUMTY_61b08e62d0bb23048c9fa6f701586f1d_4129&search_date=21102026&expected_price_uuid=01a15bed-6e57-8040-a85c-4846004ad566&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ACG8QuBbLbAkMoGObkjE9A&expected_price_source=share&expected_price_currency=mxn&expected_price=918",
+   "link": "https://www.aviasales.com/search/MEX2910MTY1?t=VB17933065201793312040000092NLUMTY_61b08e62d0bb23048c9fa6f701586f1d_4129&search_date=21102026&expected_price_uuid=01a15bed-6e57-8040-a85c-4846004ad566&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ACG8QuBbLbAkMoGObkjE9A&expected_price_source=share&expected_price_currency=mxn&expected_price=919",
    "title": "Flight deals from Mexico City to Monterrey",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20261029-61b08e62/"
   },
@@ -100,12 +100,12 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 1768.0,
+   "price": 1769.0,
    "currency": "MXN",
    "departure_at": "2026-10-27T06:05:00-06:00",
    "return_at": "",
    "duration": 134,
-   "link": "https://www.aviasales.com/search/MEX2710HOU1?t=Y417930811001793092740000134MEXIAH_d065559b784c1a8aa923468ae804b155_7949&search_date=21102026&expected_price_uuid=01a15c3d-6046-8040-689a-067306f13148&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zltFR4nhEDFyO25lEIH5NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1768",
+   "link": "https://www.aviasales.com/search/MEX2710HOU1?t=Y417930811001793092740000134MEXIAH_d065559b784c1a8aa923468ae804b155_7949&search_date=21102026&expected_price_uuid=01a15c3d-6046-8040-689a-067306f13148&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zltFR4nhEDFyO25lEIH5NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1769",
    "title": "Flight deals from Mexico City to Houston",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261027-d065559b/"
   },
@@ -128,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX2310NYC1?t=VB17927928601792887600001459NLUMTYJFK_ee0800c4008fe55634d4d23e50976ad3_12012&search_date=20102026&expected_price_uuid=01a15b97-12f8-8030-e2ed-4a6424728c5c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fJb_x6a7OochX3Or3z5zMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2673",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261023-ee0800c4/"
+  },
+  {
+   "id": "f1a00c1d01d5c6c10ebc359917810c1b",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3943.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-31T06:01:00-06:00",
+   "return_at": "",
+   "duration": 95,
+   "link": "https://www.aviasales.com/search/MTY3110HOU1?t=VB17934264601793435760000095MTYIAH_f1a00c1d01d5c6c10ebc359917810c1b_17656&search_date=21102026&expected_price_uuid=01a15c91-26c2-8031-2947-8aa9915a9c14&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AcUgW4nFL9xIiDlnkMJSCA&expected_price_source=share&expected_price_currency=mxn&expected_price=3943",
+   "title": "Flight deals from Monterrey to Houston",
+   "micro": "/oferta/vuelos/vuelo-monterrey-houston-20261031-f1a00c1d/"
   },
   {
    "id": "24a55e810a926eeffad984de542e2ed3",

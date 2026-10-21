@@ -1,6 +1,6 @@
 {
- "generated_at": 1792548243.8634489,
- "generated_at_str": "20/10/2026 20:04",
+ "generated_at": 1792551863.6344416,
+ "generated_at_str": "20/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,46 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "f0082e5e4ce4f960f94f35dec0b4596a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "VSA",
+   "destination_name": "Villahermosa",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 548.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-24T06:10:00-05:00",
+   "return_at": "",
+   "duration": 86,
+   "link": "https://www.aviasales.com/search/MEX2410VSA1?t=Y417928222001792827360000086MEXVSA_f0082e5e4ce4f960f94f35dec0b4596a_2464&search_date=21102026&expected_price_uuid=01a15c37-044c-8040-2238-70bf1473c835&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EEqjSE2nCo-g5AGMtvzC7w&expected_price_source=share&expected_price_currency=mxn&expected_price=548",
+   "title": "Flight deals from Mexico City to Villahermosa",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20261024-f0082e5e/"
+  },
+  {
+   "id": "ef72526be4e11e586b117517457afef9",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJD",
+   "destination_name": "Los Cabos",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 682.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-28T13:45:00-06:00",
+   "return_at": "",
+   "duration": 135,
+   "link": "https://www.aviasales.com/search/MEX2810SJD1?t=Y417931951001793199600000135MEXSJD_ef72526be4e11e586b117517457afef9_3064&search_date=21102026&expected_price_uuid=01a15c2a-7824-8040-6d15-148d968d71c2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=06aN9cJs92_0puiFGjVTHA&expected_price_source=share&expected_price_currency=mxn&expected_price=682",
+   "title": "Flight deals from Mexico City to San Jose Del Cabo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20261028-ef72526b/"
+  },
   {
    "id": "61b08e62d0bb23048c9fa6f701586f1d",
    "kind": "flight",
@@ -25,29 +65,9 @@
    "departure_at": "2026-10-29T20:42:00-06:00",
    "return_at": "",
    "duration": 92,
-   "link": "https://www.aviasales.com/search/MEX2910MTY1?t=VB17933065201793312040000092NLUMTY_61b08e62d0bb23048c9fa6f701586f1d_4129&search_date=21102026&expected_price_uuid=01a15bed-6e57-8040-a85c-4846004ad566&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ACG8QuBbLbAkMoGObkjE9A&expected_price_source=share&expected_price_currency=mxn&expected_price=919",
+   "link": "https://www.aviasales.com/search/MEX2910MTY1?t=VB17933065201793312040000092NLUMTY_61b08e62d0bb23048c9fa6f701586f1d_4129&search_date=21102026&expected_price_uuid=01a15bed-6e57-8040-a85c-4846004ad566&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ACG8QuBbLbAkMoGObkjE9A&expected_price_source=share&expected_price_currency=mxn&expected_price=918",
    "title": "Flight deals from Mexico City to Monterrey",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20261029-61b08e62/"
-  },
-  {
-   "id": "96ebf482ebe0dc6f7d71cf532081b304",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "VSA",
-   "destination_name": "Villahermosa",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1064.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-06T08:12:00-06:00",
-   "return_at": "",
-   "duration": 85,
-   "link": "https://www.aviasales.com/search/MEX0611VSA1?t=VB17939527201793957820000085NLUVSA_96ebf482ebe0dc6f7d71cf532081b304_4780&search_date=20102026&expected_price_uuid=01a15b9a-cd0f-8031-6f5d-4238c806b967&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=xt7VL8MPVbsS7q3huUXjmg&expected_price_source=share&expected_price_currency=mxn&expected_price=1064",
-   "title": "Flight deals from Mexico City to Villahermosa",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20261106-96ebf482/"
   },
   {
    "id": "efd3da5eef185e1275b34cb5c53ec0ac",
@@ -70,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261204-efd3da5e/"
   },
   {
+   "id": "d065559b784c1a8aa923468ae804b155",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HOU",
+   "destination_name": "Houston",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1768.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-27T06:05:00-06:00",
+   "return_at": "",
+   "duration": 134,
+   "link": "https://www.aviasales.com/search/MEX2710HOU1?t=Y417930811001793092740000134MEXIAH_d065559b784c1a8aa923468ae804b155_7949&search_date=21102026&expected_price_uuid=01a15c3d-6046-8040-689a-067306f13148&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zltFR4nhEDFyO25lEIH5NA&expected_price_source=share&expected_price_currency=mxn&expected_price=1768",
+   "title": "Flight deals from Mexico City to Houston",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-houston-20261027-d065559b/"
+  },
+  {
    "id": "ee0800c4008fe55634d4d23e50976ad3",
    "kind": "flight",
    "origin": "MEX",
@@ -88,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX2310NYC1?t=VB17927928601792887600001459NLUMTYJFK_ee0800c4008fe55634d4d23e50976ad3_12012&search_date=20102026&expected_price_uuid=01a15b97-12f8-8030-e2ed-4a6424728c5c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fJb_x6a7OochX3Or3z5zMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2673",
    "title": "Flight deals from Mexico City to New York",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261023-ee0800c4/"
-  },
-  {
-   "id": "72ad23bcf84bf9859bf07a2ac820a60a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 9989.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-10T06:55:00-06:00",
-   "return_at": "",
-   "duration": 975,
-   "link": "https://www.aviasales.com/search/MEX1011MAD1?t=BA17942937001794377400000975MEXDFWMAD_72ad23bcf84bf9859bf07a2ac820a60a_44893&search_date=20102026&expected_price_uuid=01a15b09-d690-8040-291f-ad07fe4e00be&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=G5hyYl7ugCbVqa8bWGKj9A&expected_price_source=share&expected_price_currency=mxn&expected_price=9989",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261110-72ad23bc/"
   },
   {
    "id": "24a55e810a926eeffad984de542e2ed3",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2512HKT1?t=HU17981745001798317000001595MEXPEKHKT_a483f2cc0de5289e166d67a2c9ed2f1b_94634&search_date=20102026&expected_price_uuid=01a15ba7-d67f-8030-6971-6b59be1c56bf&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=nBUnDA-gE_Ys9ipjbUMZWg&expected_price_source=share&expected_price_currency=mxn&expected_price=21056",
    "title": "Flight deals from Mexico City to Phuket",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-phuket-20261225-a483f2cc/"
-  },
-  {
-   "id": "dedbf66281a3545351b6f02236ba54fc",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "CZ",
-   "airline_title": "China Southern Airlines",
-   "logo": "https://pics.avs.io/600/150/CZ.png",
-   "logo_tipo": "",
-   "price": 25114.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-01T00:40:00-06:00",
-   "return_at": "",
-   "duration": 1625,
-   "link": "https://www.aviasales.com/search/MEX0111BJS1?t=CZ17934936001793641500001625MEXSZXPKX_dedbf66281a3545351b6f02236ba54fc_112878&search_date=20102026&expected_price_uuid=01a15b9f-04c5-8031-2632-37ee5f101f2c&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=QAVrNSyXrqvhXxWIY2bRJQ&expected_price_source=share&expected_price_currency=mxn&expected_price=25114",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261101-dedbf662/"
   }
  ]
 }

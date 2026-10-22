@@ -1,6 +1,6 @@
 {
- "generated_at": 1792703043.76016,
- "generated_at_str": "22/10/2026 15:04",
+ "generated_at": 1792706665.7639298,
+ "generated_at_str": "22/10/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261204-efd3da5e/"
   },
   {
-   "id": "e210cf36fc700c794271b01e058b7b02",
+   "id": "251e9eac8d041ae8a514efd972125541",
    "kind": "flight",
    "origin": "GDL",
    "origin_name": "Guadalajara",
@@ -42,32 +42,12 @@
    "logo_tipo": "",
    "price": 2377.0,
    "currency": "MXN",
-   "departure_at": "2026-12-03T15:41:00-06:00",
+   "departure_at": "2026-12-03T13:52:00-06:00",
    "return_at": "",
    "duration": 202,
-   "link": "https://www.aviasales.com/search/GDL0312LAX1?t=Y417963124601796317380000202GDLLAX_e210cf36fc700c794271b01e058b7b02_10402&search_date=22102026&expected_price_uuid=01a1655a-e0dc-8040-2c2b-9e6881c05f66&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0XHv2yxppUowFZZeXQl5yA&expected_price_source=share&expected_price_currency=mxn&expected_price=2377",
+   "link": "https://www.aviasales.com/search/GDL0312LAX1?t=Y417963059201796310840000202GDLLAX_251e9eac8d041ae8a514efd972125541_10402&search_date=22102026&expected_price_uuid=01a16599-901f-8040-a41e-0450fa4be13a&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YM03bGnMiEc3yCY8Y9V_pw&expected_price_source=share&expected_price_currency=mxn&expected_price=2377",
    "title": "Flight deals from Guadalajara to Los Angeles",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261203-e210cf36/"
-  },
-  {
-   "id": "ec6172bab9fa30d3415b93c388706c93",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "ONT",
-   "destination_name": "Ontario",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 2526.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-03T21:02:00-06:00",
-   "return_at": "",
-   "duration": 193,
-   "link": "https://www.aviasales.com/search/GDL0312ONT1?t=Y417963317201796336100000193GDLONT_ec6172bab9fa30d3415b93c388706c93_11057&search_date=22102026&expected_price_uuid=01a1655a-e0dc-8040-2c2b-9e6881c05f66&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KaS9NWEX9ZpwJoLnwJIjzA&expected_price_source=share&expected_price_currency=mxn&expected_price=2526",
-   "title": "Flight deals from Guadalajara to Ontario",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20261203-ec6172ba/"
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261203-251e9eac/"
   },
   {
    "id": "723dddf60ea7a4b321375538ef023190",
@@ -120,37 +100,17 @@
    "airline_title": "American Airlines",
    "logo": "https://pics.avs.io/600/150/AA.png",
    "logo_tipo": "",
-   "price": 10698.0,
+   "price": 10697.0,
    "currency": "MXN",
    "departure_at": "2026-11-08T08:06:00-06:00",
    "return_at": "",
    "duration": 879,
-   "link": "https://www.aviasales.com/search/MEX0811MAD1?t=AA17941251601794203100000879MEXCLTMAD_28e3dbae24db9bf5c050ca7af167047e_46823&search_date=22102026&expected_price_uuid=01a16505-f37a-8040-2c55-89173c82af08&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=GbHU_d9hey5WKtnFbfpYvg&expected_price_source=share&expected_price_currency=mxn&expected_price=10698",
+   "link": "https://www.aviasales.com/search/MEX0811MAD1?t=AA17941251601794203100000879MEXCLTMAD_28e3dbae24db9bf5c050ca7af167047e_46823&search_date=22102026&expected_price_uuid=01a16505-f37a-8040-2c55-89173c82af08&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=GbHU_d9hey5WKtnFbfpYvg&expected_price_source=share&expected_price_currency=mxn&expected_price=10697",
    "title": "Flight deals from Mexico City to Madrid",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261108-28e3dbae/"
   },
   {
-   "id": "b2ee799e77d652c6db23ea63806fbb3e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TBS",
-   "destination_name": "Tiflis",
-   "airline": "Z0",
-   "airline_title": "Norse Atlantic UK",
-   "logo": "https://pics.avs.io/600/150/Z0.png",
-   "logo_tipo": "",
-   "price": 12233.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-28T11:10:00-06:00",
-   "return_at": "",
-   "duration": 1845,
-   "link": "https://www.aviasales.com/search/MEX2810TBS1?t=Z017931858001793332500001845MEXMCOLGWSTNSAWTBS_b2ee799e77d652c6db23ea63806fbb3e_53279&search_date=22102026&expected_price_uuid=01a1641b-888b-8040-28b5-6884df1513e8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Oba0lZ6dMhVMqVaSDbmHrA&expected_price_source=share&expected_price_currency=mxn&expected_price=12233",
-   "title": "Flight deals from Mexico City to Tbilisi",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tiflis-20261028-b2ee799e/"
-  },
-  {
-   "id": "47b033800be6836cecbbd00329df2862",
+   "id": "9c0d14e6c97362f3616d531fe5693b91",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -160,14 +120,14 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 20927.0,
+   "price": 15804.0,
    "currency": "MXN",
-   "departure_at": "2027-01-11T22:20:00-06:00",
+   "departure_at": "2027-04-22T17:05:00-05:00",
    "return_at": "",
-   "duration": 1030,
-   "link": "https://www.aviasales.com/search/MEX1101IST1?t=AM17997060001799800200001030MEXCDGIST_47b033800be6836cecbbd00329df2862_91586&search_date=22102026&expected_price_uuid=01a164dc-74bd-8030-2dae-0bb183855e73&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20927",
+   "duration": 1000,
+   "link": "https://www.aviasales.com/search/MEX2204IST1?t=AM18084135001808505900001000MEXCDGIST_9c0d14e6c97362f3616d531fe5693b91_69171&search_date=22102026&expected_price_uuid=01a16563-43f0-8030-e8bd-9d9e587c212e&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=cuVn0LUpwj5omx2lp4u3Cg&expected_price_source=share&expected_price_currency=mxn&expected_price=15804",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270111-47b03380/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270422-9c0d14e6/"
   }
  ]
 }

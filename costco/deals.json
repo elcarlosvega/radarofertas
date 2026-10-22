@@ -1,6 +1,6 @@
 {
- "generated_at": 1792706713.9024804,
- "generated_at_str": "22/10/2026 16:05",
+ "generated_at": 1792710291.6083758,
+ "generated_at_str": "22/10/2026 17:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2211,6 +2211,25 @@
    "in_stock": true,
    "first_seen": 1792393520.9946861,
    "h_dias": 11,
+   "h_min": 1149.0,
+   "h_ayer": 1149.0,
+   "h_min7": 1149.0
+  },
+  {
+   "id": "1938064",
+   "name": "EKO, Bote de Basura de 50 L. Color Vainilla",
+   "url": "https://www.costco.com.mx/Papeleria-y-Negocio/Muebles-de-Oficina/Botes-de-Basura/EKO-Bote-de-Basura-de-50-L-Color-Vainilla/p/1938064",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h16/h9e/491490935308318.jpg",
+   "category": "Papeleria y Negocio",
+   "price_old": 1599.0,
+   "price_new": 1149.0,
+   "pct": 28.1,
+   "amount": 450.0,
+   "starts": "2026-10-22T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792677930.571364,
+   "h_dias": 8,
    "h_min": 1149.0,
    "h_ayer": 1149.0,
    "h_min7": 1149.0
@@ -11769,6 +11788,24 @@
    "h_min7": 7999.0
   },
   {
+   "id": "1942257",
+   "name": "Marcy Gimnasio Multifuncional",
+   "url": "https://www.costco.com.mx/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/Marcy-Gimnasio-Multifuncional/p/1942257",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h81/380667631108126.jpg",
+   "category": "Deportes",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-10-22T06:00:00.000Z",
+   "ends": "2026-10-23T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792677930.571364,
+   "h_dias": 34,
+   "h_min": 6999.0,
+   "h_min7": 7999.0
+  },
+  {
    "id": "1862106",
    "name": "Universal Broadmoore Furniture, Otomano de Tela con Cajones",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Taburetes/Universal-Broadmoore-Furniture-Otomano-de-Tela-con-Cajones/p/1862106",
@@ -13208,25 +13245,6 @@
    "h_min7": 11999.0
   },
   {
-   "id": "524576",
-   "name": "Sealy, Montgomery, Colchón Individual",
-   "url": "https://www.costco.com.mx/c/Sealy-Montgomery-Colchon-Individual/p/524576",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h03/hef/69509744656414.jpg",
-   "category": "Muebles",
-   "price_old": 14499.0,
-   "price_new": 11999.0,
-   "pct": 17.2,
-   "amount": 2500.0,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-10-26T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792393520.9946861,
-   "h_dias": 86,
-   "h_min": 10999.0,
-   "h_ayer": 11999.0,
-   "h_min7": 11999.0
-  },
-  {
    "id": "521811",
    "name": "Sealy, Cleveland, Colchón Queen Size",
    "url": "https://www.costco.com.mx/c/Sealy-Cleveland-Colchon-Queen-Size/p/521811",
@@ -14019,6 +14037,25 @@
    "h_min7": 19999.0
   },
   {
+   "id": "702119",
+   "name": "Weber, Spirit E210 Asador de Gas + accesorios + Grill Academy",
+   "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Weber-Spirit-E210-Asador-de-Gas-accesorios-Grill-Academy/p/702119",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hac/h2c/466285830307870.jpg",
+   "category": "Patio y Jardin",
+   "price_old": 12499.0,
+   "price_new": 10499.0,
+   "pct": 16.0,
+   "amount": 2000.0,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792393520.9946861,
+   "h_dias": 28,
+   "h_min": 8999.0,
+   "h_ayer": 10499.0,
+   "h_min7": 10499.0
+  },
+  {
    "id": "705488",
    "name": "Smeg Combo Eléctrico de Campana de 90 cm + Parrilla de 4 Quemadores + Horno de 90 cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-Electrico-de-Campana-de-90-cm-Parrilla-de-4-Quemadores-Horno-de-90-cm/p/705488",
@@ -14620,25 +14657,6 @@
    "h_min": 32499.0,
    "h_ayer": 36499.0,
    "h_min7": 34499.0
-  },
-  {
-   "id": "524011",
-   "name": "Sealy, Montgomery, Colchón King Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Montgomery-Colchon-King-Size/p/524011",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/hea/69509743050782.jpg",
-   "category": "Muebles",
-   "price_old": 27899.0,
-   "price_new": 23699.0,
-   "pct": 15.1,
-   "amount": 4200.0,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-10-26T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792393520.9946861,
-   "h_dias": 86,
-   "h_min": 22999.0,
-   "h_ayer": 23699.0,
-   "h_min7": 23499.0
   },
   {
    "id": "1740877",

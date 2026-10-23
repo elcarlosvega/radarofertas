@@ -1,6 +1,6 @@
 {
- "generated_at": 1792767906.7881324,
- "generated_at_str": "23/10/2026 09:05",
+ "generated_at": 1792771498.7736964,
+ "generated_at_str": "23/10/2026 10:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -7304,7 +7304,7 @@
    "price_new": 1686.75,
    "pct": 25.0,
    "amount": 562.25,
-   "starts": "2026-10-21T06:00:00.000Z",
+   "starts": "2026-10-23T06:00:00.000Z",
    "ends": "2026-10-26T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1792591511.3296459,
@@ -8615,7 +8615,7 @@
    "price_new": 989.25,
    "pct": 25.0,
    "amount": 329.75,
-   "starts": "2026-10-21T06:00:00.000Z",
+   "starts": "2026-10-23T06:00:00.000Z",
    "ends": "2026-10-26T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1792595116.3348672,
@@ -13165,6 +13165,25 @@
    "h_min": 7799.0,
    "h_ayer": 9099.0,
    "h_min7": 9099.0
+  },
+  {
+   "id": "696525",
+   "name": "LG Refrigerador Instaview 12' Bottom Mount",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/LG-Refrigerador-Instaview-12-Bottom-Mount/p/696525",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0a/h57/382581177253918.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 28999.0,
+   "price_new": 23999.0,
+   "pct": 17.2,
+   "amount": 5000.0,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792393520.9946861,
+   "h_dias": 64,
+   "h_min": 21999.0,
+   "h_ayer": 23999.0,
+   "h_min7": 23999.0
   },
   {
    "id": "647986",

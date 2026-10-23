@@ -1,6 +1,6 @@
 {
- "generated_at": 1792724644.135772,
- "generated_at_str": "22/10/2026 21:04",
+ "generated_at": 1792728244.556712,
+ "generated_at_str": "22/10/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0911PXM1?t=VB17942368201794241440000077NLUPXM_874887d17f5ee3b4e9819182faab0f34_3655&search_date=22102026&expected_price_uuid=01a165bc-f0d4-8030-ef9c-a79528921427&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=B6a_syUsOG4mYdLAkpK9CQ&expected_price_source=share&expected_price_currency=mxn&expected_price=835",
    "title": "Flight deals from Mexico City to Puerto Escondido",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-escondido-20261109-874887d1/"
-  },
-  {
-   "id": "96ebf482ebe0dc6f7d71cf532081b304",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "VSA",
-   "destination_name": "Villahermosa",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 853.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-06T08:12:00-06:00",
-   "return_at": "",
-   "duration": 85,
-   "link": "https://www.aviasales.com/search/MEX0611VSA1?t=VB17939527201793957820000085NLUVSA_96ebf482ebe0dc6f7d71cf532081b304_3734&search_date=22102026&expected_price_uuid=01a165e7-0e8d-8030-a655-26f58b2cefec&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xt7VL8MPVbsS7q3huUXjmg&expected_price_source=share&expected_price_currency=mxn&expected_price=853",
-   "title": "Flight deals from Mexico City to Villahermosa",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20261106-96ebf482/"
   },
   {
    "id": "61c412b30b46ec53a8f3636468ec80a3",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX2002SJD1?t=VB18031254601803129480000127TLCSJD_700f3bbe6f6b52f7c432c2e91769bc1f_7500&search_date=22102026&expected_price_uuid=01a165da-426d-8030-2ee8-5adab51ffa0b&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-qzfGqUqTJjnqP517HALRA&expected_price_source=share&expected_price_currency=mxn&expected_price=1714",
    "title": "Flight deals from Mexico City to San Jose Del Cabo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-cabos-20270220-700f3bbe/"
+  },
+  {
+   "id": "be9e552de39a525c5d697a56ff5d763f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1864.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-31T22:36:00-06:00",
+   "return_at": "",
+   "duration": 200,
+   "link": "https://www.aviasales.com/search/MEX3110TIJ1?t=Y417934861601793494560000200NLUTIJ_be9e552de39a525c5d697a56ff5d763f_8149&search_date=23102026&expected_price_uuid=01a166cd-f5fe-8040-a924-ad7d9e3d8d63&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=We0X_VlGJBlHQVIej9kzHQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1864",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261031-be9e552d/"
   },
   {
    "id": "72a71fbe71724ecd0fb83d0c7e020df0",
@@ -180,12 +180,12 @@
    "airline_title": "United Airlines",
    "logo": "https://pics.avs.io/600/150/UA.png",
    "logo_tipo": "",
-   "price": 7550.0,
+   "price": 7549.0,
    "currency": "MXN",
    "departure_at": "2027-01-13T05:45:00-06:00",
    "return_at": "",
    "duration": 509,
-   "link": "https://www.aviasales.com/search/GDL1301PDX1?t=UA17998191001799842440000509GDLIAHPDX_99cfff9ccaf19b540f79f047722843d0_33005&search_date=23102026&expected_price_uuid=01a16688-170f-8040-ac95-e4da23d8a5c1&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=FMlULXwlXtYvH-ZgIcWrjw&expected_price_source=share&expected_price_currency=mxn&expected_price=7550",
+   "link": "https://www.aviasales.com/search/GDL1301PDX1?t=UA17998191001799842440000509GDLIAHPDX_99cfff9ccaf19b540f79f047722843d0_33005&search_date=23102026&expected_price_uuid=01a16688-170f-8040-ac95-e4da23d8a5c1&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=FMlULXwlXtYvH-ZgIcWrjw&expected_price_source=share&expected_price_currency=mxn&expected_price=7549",
    "title": "Flight deals from Guadalajara to Portland",
    "micro": "/oferta/vuelos/vuelo-guadalajara-portland-20270113-99cfff9c/"
   },

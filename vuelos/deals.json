@@ -1,6 +1,6 @@
 {
- "generated_at": 1792854244.39299,
- "generated_at_str": "24/10/2026 09:04",
+ "generated_at": 1792857843.874821,
+ "generated_at_str": "24/10/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,26 +30,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261109-740b79a4/"
   },
   {
-   "id": "f3e0ecf8b2288a5257a7944edb6334a3",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2688.0,
-   "currency": "MXN",
-   "departure_at": "2027-03-01T09:31:00-06:00",
-   "return_at": "",
-   "duration": 858,
-   "link": "https://www.aviasales.com/search/MEX0103BOG1?t=VB18038934601803948540000858NLUCUNBOG_f3e0ecf8b2288a5257a7944edb6334a3_11568&search_date=24102026&expected_price_uuid=01a16d56-692c-8040-24f9-8767e4074ba3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mRpGudufpliR752LYYh1Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=2688",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20270301-f3e0ecf8/"
-  },
-  {
    "id": "335eb36001c775e4bc8cb2ad3180d909",
    "kind": "flight",
    "origin": "MEX",
@@ -68,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX0611YTO1?t=F817939247001793945400000285MEXYYZ_335eb36001c775e4bc8cb2ad3180d909_18396&search_date=24102026&expected_price_uuid=01a16e19-ed12-8040-202d-af13c40144c2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2pV434C1FE2YjiTYDJ6qrw&expected_price_source=share&expected_price_currency=mxn&expected_price=4275",
    "title": "Flight deals from Mexico City to Toronto",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20261106-335eb360/"
+  },
+  {
+   "id": "e6e3168e4ee6959036c3b7bb1b96445b",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 9689.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-13T20:30:00-06:00",
+   "return_at": "",
+   "duration": 3505,
+   "link": "https://www.aviasales.com/search/GDL1311IST1?t=WS17946018001794844500003505GDLYVRYYCFCOSAW_e6e3168e4ee6959036c3b7bb1b96445b_41693&search_date=24102026&expected_price_uuid=01a16e84-d54a-8030-a18b-eb3cfe04b353&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hkTbUCXw0F57Moej7rCVtA&expected_price_source=share&expected_price_currency=mxn&expected_price=9689",
+   "title": "Flight deals from Guadalajara to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-estambul-20261113-e6e3168e/"
   },
   {
    "id": "2693ca426df5d29a381ff0cd6887a4f7",

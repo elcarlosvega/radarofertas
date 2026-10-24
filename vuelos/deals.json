@@ -1,6 +1,6 @@
 {
- "generated_at": 1792861443.5883126,
- "generated_at_str": "24/10/2026 11:04",
+ "generated_at": 1792865043.6556234,
+ "generated_at_str": "24/10/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0611YTO1?t=F817939247001793945400000285MEXYYZ_335eb36001c775e4bc8cb2ad3180d909_18396&search_date=24102026&expected_price_uuid=01a16e19-ed12-8040-202d-af13c40144c2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2pV434C1FE2YjiTYDJ6qrw&expected_price_source=share&expected_price_currency=mxn&expected_price=4275",
    "title": "Flight deals from Mexico City to Toronto",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-toronto-20261106-335eb360/"
+  },
+  {
+   "id": "c56dfff84f993b969df604e561029055",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HAV",
+   "destination_name": "La Habana",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 8392.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-29T10:50:00-06:00",
+   "return_at": "",
+   "duration": 1260,
+   "link": "https://www.aviasales.com/search/MEX2911HAV1?t=Y417959494001796028600001260MEXCUNHAV_c56dfff84f993b969df604e561029055_36112&search_date=24102026&expected_price_uuid=01a16eeb-f7c7-8030-a265-baab3eb8f8b3&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=FobWnnt84pW3CpiiHwsINg&expected_price_source=share&expected_price_currency=mxn&expected_price=8392",
+   "title": "Flight deals from Mexico City to Havana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261129-c56dfff8/"
   },
   {
    "id": "e6e3168e4ee6959036c3b7bb1b96445b",

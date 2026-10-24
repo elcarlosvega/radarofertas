@@ -1,6 +1,6 @@
 {
- "generated_at": 1792832644.408612,
- "generated_at_str": "24/10/2026 03:04",
+ "generated_at": 1792836244.0059385,
+ "generated_at_str": "24/10/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -88,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX2311HKG1?t=AM17954703001795614000001555MEXNRTHKG_6bc0b524d63931f0d1d18f975bf09256_90984&search_date=24102026&expected_price_uuid=01a16ccc-f72e-8031-2fd4-66201bd9841c&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=zVwIBl2ebhox0kTjVMr4pg&expected_price_source=share&expected_price_currency=mxn&expected_price=21144",
    "title": "Flight deals from Mexico City to Hong Kong",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20261123-6bc0b524/"
+  },
+  {
+   "id": "f056daa3e6d24dd2aef07878aa91b035",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21226.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-03T22:05:00-06:00",
+   "return_at": "",
+   "duration": 1045,
+   "link": "https://www.aviasales.com/search/MEX0312IST1?t=AM17963355001796430600001045MEXCDGIST_f056daa3e6d24dd2aef07878aa91b035_91339&search_date=24102026&expected_price_uuid=01a16d1b-bb42-8040-2d97-9605690af2c3&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=21226",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261203-f056daa3/"
   }
  ]
 }

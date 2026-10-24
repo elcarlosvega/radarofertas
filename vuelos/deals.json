@@ -1,6 +1,6 @@
 {
- "generated_at": 1792839844.3088555,
- "generated_at_str": "24/10/2026 05:04",
+ "generated_at": 1792843444.7554348,
+ "generated_at_str": "24/10/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,24 +50,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20261112-5631bd94/"
   },
   {
-   "id": "6af7d624fd71b01580528f38023bcadb",
+   "id": "d83afd5246e88f42d0f756277404803b",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "MAD",
    "destination_name": "Ciudad de Madrid",
-   "airline": "KL",
-   "airline_title": "KLM",
-   "logo": "https://pics.avs.io/600/150/KL.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 11806.0,
+   "price": 11107.0,
    "currency": "MXN",
-   "departure_at": "2026-10-28T21:50:00-06:00",
+   "departure_at": "2026-11-22T22:05:00-06:00",
    "return_at": "",
-   "duration": 885,
-   "link": "https://www.aviasales.com/search/MEX2810MAD1?t=KL17932242001793302500000885MEXAMSMAD_6af7d624fd71b01580528f38023bcadb_50804&search_date=24102026&expected_price_uuid=01a16c74-ca7b-8030-69d7-ead8b2acc79f&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=7gJ0D9Y_mc_p_Jx6TEO5Qw&expected_price_source=share&expected_price_currency=mxn&expected_price=11806",
+   "duration": 635,
+   "link": "https://www.aviasales.com/search/MEX2211MAD1?t=AM17953851001795448400000635MEXMAD_d83afd5246e88f42d0f756277404803b_47795&search_date=24102026&expected_price_uuid=01a16cfd-47d8-8031-64e7-1491a734ba6d&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=11107",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261028-6af7d624/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261122-d83afd52/"
   },
   {
    "id": "c91368ea9bd99683f887925ea359b6b6",

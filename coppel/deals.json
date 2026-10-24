@@ -1,6 +1,6 @@
 {
- "generated_at": 1792807785.2556837,
- "generated_at_str": "23/10/2026 20:09",
+ "generated_at": 1792811739.1030028,
+ "generated_at_str": "23/10/2026 21:15",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -7780,6 +7780,25 @@
    "h_min7": 5499.0
   },
   {
+   "id": "283313",
+   "name": "Celular Samsung Galaxy A56 5G Liberado 256 GB Rosa",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a56-5g-liberado-256-gb-rosa-pm-2833133",
+   "img": "https://cdn5.coppel.com/pm/2833133-1.jpg",
+   "category": "Celulares",
+   "price_old": 10999.0,
+   "price_new": 5499.0,
+   "pct": 50.0,
+   "amount": 5500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1792069973.2242608,
+   "h_dias": 13,
+   "h_min": 5499.0,
+   "h_ayer": 5499.0,
+   "h_min7": 5499.0
+  },
+  {
    "id": "283305",
    "name": "Celular Samsung Galaxy A56 5G Liberado 256 GB Verde",
    "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a56-5g-liberado-256-gb-verde-pm-2833053",
@@ -7794,25 +7813,6 @@
    "in_stock": true,
    "first_seen": 1792069973.2242608,
    "h_dias": 9,
-   "h_min": 5499.0,
-   "h_ayer": 5499.0,
-   "h_min7": 5499.0
-  },
-  {
-   "id": "283331",
-   "name": "Celular Samsung Galaxy A56 5G Liberado 256 GB Negro",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a56-5g-liberado-256-gb-negro-pm-2833313",
-   "img": "https://cdn5.coppel.com/pm/2833313-1.jpg",
-   "category": "Celulares",
-   "price_old": 10999.0,
-   "price_new": 5499.0,
-   "pct": 50.0,
-   "amount": 5500.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792167248.6675556,
-   "h_dias": 19,
    "h_min": 5499.0,
    "h_ayer": 5499.0,
    "h_min7": 5499.0
@@ -43283,6 +43283,25 @@
    "h_min7": 16699.0
   },
   {
+   "id": "749360914",
+   "name": "Bocina Inalámbrica LG M5 Sound Suite 1.1.1ch con Sonido Espacial y Dolby Atmos FlexConnect",
+   "url": "https://www.coppel.com/pdp/bocina-inalambrica-lg-m5-sound-suite-111ch-con-sonido-espacial-y-dolby-atmos-flexconnect-mkp-749360914",
+   "img": "https://cdn5.coppel.com/mkp/749360914-1.jpg",
+   "category": "Bocinas",
+   "price_old": 6699.0,
+   "price_new": 4299.0,
+   "pct": 35.8,
+   "amount": 2400.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1787904802.0893943,
+   "h_dias": 52,
+   "h_min": 4299.0,
+   "h_ayer": 4299.0,
+   "h_min7": 4299.0
+  },
+  {
    "id": "747944571",
    "name": "Audífonos Inalámbricos Huawei Negro Freeclip 2",
    "url": "https://www.coppel.com/pdp/audifonos-inalambricos-huawei-negro-freeclip-2-mkp-747944571",
@@ -43376,24 +43395,6 @@
    "h_min": 9189.0
   },
   {
-   "id": "750071104",
-   "name": "Pc Lenovo M715 Tiny Ryzen 5 8gb Ram 512gb Ssd  Monitor 19' Reacondicionado",
-   "url": "https://www.coppel.com/pdp/pc-lenovo-m715-tiny-ryzen-5-8gb-ram-512gb-ssd-monitor-19-reacondicionado-mkp-750071104",
-   "img": "https://cdn5.coppel.com/mkp/750071104-1.jpg",
-   "category": "Computadoras",
-   "price_old": 6999.0,
-   "price_new": 4499.0,
-   "pct": 35.7,
-   "amount": 2500.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792444364.2163098,
-   "h_dias": 5,
-   "h_min": 4499.0,
-   "h_ayer": 4499.0
-  },
-  {
    "id": "56941242",
    "name": "Computadora HP Prodesk 600 G3 SFF Core I5 6ta Generación 16 GB RAM 1 TB HDD Monitor 19'' Reacondicionada",
    "url": "https://www.coppel.com/pdp/computadora-hp-prodesk-600-g3-sff-core-i5-6ta-generacion-16-gb-ram-1-tb-hdd-monitor-19-reacondicionada-mkp-56941242",
@@ -43411,6 +43412,24 @@
    "h_min": 4499.0,
    "h_ayer": 4499.0,
    "h_min7": 4499.0
+  },
+  {
+   "id": "750071104",
+   "name": "Pc Lenovo M715 Tiny Ryzen 5 8gb Ram 512gb Ssd  Monitor 19' Reacondicionado",
+   "url": "https://www.coppel.com/pdp/pc-lenovo-m715-tiny-ryzen-5-8gb-ram-512gb-ssd-monitor-19-reacondicionado-mkp-750071104",
+   "img": "https://cdn5.coppel.com/mkp/750071104-1.jpg",
+   "category": "Computadoras",
+   "price_old": 6999.0,
+   "price_new": 4499.0,
+   "pct": 35.7,
+   "amount": 2500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1792444364.2163098,
+   "h_dias": 5,
+   "h_min": 4499.0,
+   "h_ayer": 4499.0
   },
   {
    "id": "234561",
@@ -49511,25 +49530,6 @@
    "h_min7": 11499.0
   },
   {
-   "id": "748175516",
-   "name": "Jbl Partybox 330 Bocina Portátil  280w Rms  Negro",
-   "url": "https://www.coppel.com/pdp/jbl-partybox-330-bocina-portatil-280w-rms-negro-mkp-748175516",
-   "img": "https://cdn5.coppel.com/mkp/748175516-1.jpg",
-   "category": "Bocinas",
-   "price_old": 13999.0,
-   "price_new": 9198.0,
-   "pct": 34.3,
-   "amount": 4801.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792271380.8006802,
-   "h_dias": 57,
-   "h_min": 9198.0,
-   "h_ayer": 9198.0,
-   "h_min7": 9198.0
-  },
-  {
    "id": "47201209",
    "name": "Tablet Apple iPad 8th Gen 128GB Grafito Reacondicionado Grado A 24 Meses de Garantía",
    "url": "https://www.coppel.com/pdp/tablet-apple-ipad-8th-gen-128gb-grafito-reacondicionado-grado-a-24-meses-de-garantia-mkp-47201209",
@@ -54095,10 +54095,10 @@
    "h_min7": 2999.0
   },
   {
-   "id": "208496",
-   "name": "Celular Samsung Galaxy A17 Liberado 128 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a17-liberado-128-gb-azul-pm-2084963",
-   "img": "https://cdn5.coppel.com/pm/2084963-1.jpg",
+   "id": "208518",
+   "name": "Celular Samsung Galaxy A17 Liberado 128 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a17-liberado-128-gb-negro-pm-2085183",
+   "img": "https://cdn5.coppel.com/pm/2085183-1.jpg",
    "category": "Celulares",
    "price_old": 4499.0,
    "price_new": 2999.0,
@@ -54107,8 +54107,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1789197167.4086807,
-   "h_dias": 26,
+   "first_seen": 1789269168.2730112,
+   "h_dias": 34,
    "h_min": 2599.0,
    "h_ayer": 2999.0,
    "h_min7": 2999.0
@@ -57008,10 +57008,10 @@
    "h_min7": 6799.0
   },
   {
-   "id": "239032",
-   "name": "Celular Samsung Galaxy A27 5G Liberado 128 GB Negro",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a27-5g-liberado-128-gb-negro-pm-2390323",
-   "img": "https://cdn5.coppel.com/pm/2390323-1.jpg",
+   "id": "239014",
+   "name": "Celular Samsung Galaxy A27 5G Liberado 128 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-a27-5g-liberado-128-gb-azul-pm-2390143",
+   "img": "https://cdn5.coppel.com/pm/2390143-1.jpg",
    "category": "Celulares",
    "price_old": 6599.0,
    "price_new": 4489.0,
@@ -57020,8 +57020,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792660117.309182,
-   "h_dias": 38,
+   "first_seen": 1792649629.1865728,
+   "h_dias": 42,
    "h_min": 3499.0,
    "h_ayer": 4489.0,
    "h_min7": 4299.0
@@ -58071,10 +58071,10 @@
    "h_min7": 7260.0
   },
   {
-   "id": "237445",
-   "name": "Celular vivo Y05 Liberado 128 GB Azul",
-   "url": "https://www.coppel.com/pdp/celular-vivo-y05-liberado-128-gb-azul-pm-2374453",
-   "img": "https://cdn5.coppel.com/pm/2374453-1.jpg",
+   "id": "237454",
+   "name": "Celular vivo Y05 Liberado 128 GB Negro",
+   "url": "https://www.coppel.com/pdp/celular-vivo-y05-liberado-128-gb-negro-pm-2374543",
+   "img": "https://cdn5.coppel.com/pm/2374543-1.jpg",
    "category": "Celulares",
    "price_old": 5399.0,
    "price_new": 3699.0,
@@ -58083,11 +58083,10 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792505629.2896285,
-   "h_dias": 7,
-   "h_min": 3639.0,
-   "h_ayer": 3699.0,
-   "h_min7": 3699.0
+   "first_seen": 1792487593.693329,
+   "h_dias": 4,
+   "h_min": 3699.0,
+   "h_ayer": 3699.0
   },
   {
    "id": "747922240",
@@ -63237,10 +63236,10 @@
    "h_min7": 13299.0
   },
   {
-   "id": "241469",
-   "name": "Celular Motorola Edge 70 Pro Liberado Dual SIM 512 GB Vino",
-   "url": "https://www.coppel.com/pdp/celular-motorola-edge-70-pro-liberado-dual-sim-512-gb-vino-pm-2414693",
-   "img": "https://cdn5.coppel.com/pm/2414693-1.jpg",
+   "id": "241452",
+   "name": "Celular Motorola Edge 70 Pro Liberado Dual SIM 512 GB Blanco",
+   "url": "https://www.coppel.com/pdp/celular-motorola-edge-70-pro-liberado-dual-sim-512-gb-blanco-pm-2414523",
+   "img": "https://cdn5.coppel.com/pm/2414523-1.jpg",
    "category": "Celulares",
    "price_old": 18999.0,
    "price_new": 13299.0,
@@ -63249,8 +63248,8 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792487593.693329,
-   "h_dias": 21,
+   "first_seen": 1792476785.6298356,
+   "h_dias": 20,
    "h_min": 12499.0,
    "h_ayer": 13299.0,
    "h_min7": 13299.0
@@ -64163,6 +64162,25 @@
    "h_min": 5795.0,
    "h_ayer": 7700.0,
    "h_min7": 7700.0
+  },
+  {
+   "id": "73151342",
+   "name": "Laptop HP 240 G8 14'' HD, Intel Core I3-1115g4 3GHZ, 8GB, 256GB SSD, Windows 10 Home 64-bit, Español, Negro",
+   "url": "https://www.coppel.com/pdp/laptop-hp-240-g8-14-hd-intel-core-i3-1115g4-3ghz-8gb-256gb-ssd-windows-10-home-64-bit-espanol-negro-mkp-73151342",
+   "img": "https://cdn5.coppel.com/mkp/73151342-1.jpg",
+   "category": "Laptops",
+   "price_old": 10529.0,
+   "price_new": 7369.0,
+   "pct": 30.0,
+   "amount": 3160.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1791933336.5618403,
+   "h_dias": 11,
+   "h_min": 7369.0,
+   "h_ayer": 7369.0,
+   "h_min7": 7369.0
   },
   {
    "id": "79291277",
@@ -69867,10 +69885,10 @@
    "h_min7": 2209.0
   },
   {
-   "id": "298922",
-   "name": "Celular Samsung Galaxy Z Fold 7 Liberado 512 GB Plateado",
-   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-z-fold-7-liberado-512-gb-plateado-pm-2989223",
-   "img": "https://cdn5.coppel.com/pm/2989223-1.jpg",
+   "id": "298914",
+   "name": "Celular Samsung Galaxy Z Fold 7 Liberado 512 GB Azul",
+   "url": "https://www.coppel.com/pdp/celular-samsung-galaxy-z-fold-7-liberado-512-gb-azul-pm-2989143",
+   "img": "https://cdn5.coppel.com/pm/2989143-1.jpg",
    "category": "Celulares",
    "price_old": 48999.0,
    "price_new": 34999.0,
@@ -69880,7 +69898,7 @@
    "ends": "",
    "in_stock": true,
    "first_seen": 1786374921.454239,
-   "h_dias": 68,
+   "h_dias": 58,
    "h_min": 29999.0,
    "h_ayer": 34999.0,
    "h_min7": 34999.0
@@ -79859,25 +79877,6 @@
    "in_stock": true,
    "first_seen": 1791616449.679446,
    "h_dias": 40,
-   "h_min": 2599.0,
-   "h_ayer": 2599.0,
-   "h_min7": 2599.0
-  },
-  {
-   "id": "36404490",
-   "name": "Bocina Jbl Charge 6 45w Bluetooth Portátil Impermeable Color Rojo",
-   "url": "https://www.coppel.com/pdp/bocina-jbl-charge-6-45w-bluetooth-portatil-impermeable-color-rojo-mkp-36404490",
-   "img": "https://cdn5.coppel.com/mkp/36404490-1.jpg",
-   "category": "Bocinas",
-   "price_old": 3499.0,
-   "price_new": 2599.0,
-   "pct": 25.7,
-   "amount": 900.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792134839.629216,
-   "h_dias": 8,
    "h_min": 2599.0,
    "h_ayer": 2599.0,
    "h_min7": 2599.0

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792825444.2405055,
- "generated_at_str": "24/10/2026 01:04",
+ "generated_at": 1792829044.6736882,
+ "generated_at_str": "24/10/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX1711MSQ1?t=AM17949141001795107900002690MEXMADSVQSAWVKOZIAMSQ_c91368ea9bd99683f887925ea359b6b6_66521&search_date=24102026&expected_price_uuid=01a16ca1-58c3-8040-a7f0-51ef3ad498ce&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4RLRDvs5Agjgs4cidIztDQ&expected_price_source=share&expected_price_currency=mxn&expected_price=15459",
    "title": "Flight deals from Mexico City to Minsk",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261117-c91368ea/"
+  },
+  {
+   "id": "6bc0b524d63931f0d1d18f975bf09256",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "HKG",
+   "destination_name": "Hong Kong",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21144.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-23T21:45:00-06:00",
+   "return_at": "",
+   "duration": 1555,
+   "link": "https://www.aviasales.com/search/MEX2311HKG1?t=AM17954703001795614000001555MEXNRTHKG_6bc0b524d63931f0d1d18f975bf09256_90984&search_date=24102026&expected_price_uuid=01a16ccc-f72e-8031-2fd4-66201bd9841c&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=zVwIBl2ebhox0kTjVMr4pg&expected_price_source=share&expected_price_currency=mxn&expected_price=21144",
+   "title": "Flight deals from Mexico City to Hong Kong",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20261123-6bc0b524/"
   },
   {
    "id": "f056daa3e6d24dd2aef07878aa91b035",

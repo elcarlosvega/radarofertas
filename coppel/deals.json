@@ -1,6 +1,6 @@
 {
- "generated_at": 1792804507.9785118,
- "generated_at_str": "23/10/2026 19:15",
+ "generated_at": 1792807785.2556837,
+ "generated_at_str": "23/10/2026 20:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1570,7 +1570,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 78,
    "h_min": 5011.0,
    "h_ayer": 5250.0,
@@ -3783,7 +3783,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 1,
    "h_min": 899.0
   },
@@ -33885,7 +33885,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 1,
    "h_min": 2399.0
   },
@@ -47719,7 +47719,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 43,
    "h_min": 649.0,
    "h_ayer": 699.0,
@@ -48663,7 +48663,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 65,
    "h_min": 2598.0,
    "h_ayer": 2599.0,
@@ -49542,7 +49542,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 20,
    "h_min": 4599.0,
    "h_min7": 4599.0
@@ -64165,25 +64165,6 @@
    "h_min7": 7700.0
   },
   {
-   "id": "73151342",
-   "name": "Laptop HP 240 G8 14'' HD, Intel Core I3-1115g4 3GHZ, 8GB, 256GB SSD, Windows 10 Home 64-bit, Español, Negro",
-   "url": "https://www.coppel.com/pdp/laptop-hp-240-g8-14-hd-intel-core-i3-1115g4-3ghz-8gb-256gb-ssd-windows-10-home-64-bit-espanol-negro-mkp-73151342",
-   "img": "https://cdn5.coppel.com/mkp/73151342-1.jpg",
-   "category": "Laptops",
-   "price_old": 10529.0,
-   "price_new": 7369.0,
-   "pct": 30.0,
-   "amount": 3160.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1791933336.5618403,
-   "h_dias": 11,
-   "h_min": 7369.0,
-   "h_ayer": 7369.0,
-   "h_min7": 7369.0
-  },
-  {
    "id": "79291277",
    "name": "Vanlig Sillón Gamer Titan Eléctrico | Confort Premium Con Masaje Reclinable Soporte Lumbar Ajustable",
    "url": "https://www.coppel.com/pdp/sillon-gamer-titan-electrico-confort-premium-con-masaje-reclinable-soporte-lumbar-ajustable-mkp-79291277",
@@ -65272,7 +65253,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792804507.9785118,
+   "first_seen": 1792804519.2211223,
    "h_dias": 80,
    "h_min": 3829.0,
    "h_ayer": 3829.0,
@@ -81427,6 +81408,25 @@
    "h_min": 19999.0,
    "h_ayer": 23999.0,
    "h_min7": 23999.0
+  },
+  {
+   "id": "747427768",
+   "name": "Laptop Gamer Msi Cyborg 15  15.6'' 1920x1080 Full Hd  Intel Core 5 210h  Nvidia Geforce Rtx 5060  32gb  512gb Ssd",
+   "url": "https://www.coppel.com/pdp/laptop-gamer-msi-cyborg-15-156-1920x1080-full-hd-intel-core-5-210h-nvidia-geforce-rtx-5060-32gb-512gb-ssd-mkp-747427768",
+   "img": "https://cdn5.coppel.com/mkp/747427768-1.jpg",
+   "category": "Laptops",
+   "price_old": 29999.0,
+   "price_new": 22499.0,
+   "pct": 25.0,
+   "amount": 7500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1790294871.4266875,
+   "h_dias": 30,
+   "h_min": 22499.0,
+   "h_ayer": 22499.0,
+   "h_min7": 22499.0
   },
   {
    "id": "236092",

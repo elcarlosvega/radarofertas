@@ -1,6 +1,6 @@
 {
- "generated_at": 1792814644.957262,
- "generated_at_str": "23/10/2026 22:04",
+ "generated_at": 1792818244.3706663,
+ "generated_at_str": "23/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "61c412b30b46ec53a8f3636468ec80a3",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ACA",
-   "destination_name": "Acapulco de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1448.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-14T15:32:00-06:00",
-   "return_at": "",
-   "duration": 61,
-   "link": "https://www.aviasales.com/search/MEX1402ACA1?t=VB18026191201802622780000061NLUACA_61c412b30b46ec53a8f3636468ec80a3_6257&search_date=23102026&expected_price_uuid=01a16ae0-7fc9-8031-65f6-5f28bb0a892a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=GAXFdBQFkD-Z5pk_OQnhfw&expected_price_source=share&expected_price_currency=mxn&expected_price=1448",
-   "title": "Flight deals from Mexico City to Acapulco",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20270214-61c412b3/"
-  },
   {
    "id": "339078f8fc4431d645cc0382a345c445",
    "kind": "flight",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0112LON1?t=WS17960877001796215800001775MEXYYCLHR_b32b2a80c1f3288a54a0bca737f85513_30219&search_date=23102026&expected_price_uuid=01a16b1b-14b2-8031-637c-7b38777ea9e3&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-a8bbCsiaT032COYcWxEdQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7019",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261201-b32b2a80/"
+  },
+  {
+   "id": "d42504f4fc51632f1bab38d6a198e9fc",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BEG",
+   "destination_name": "Belgrado",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 9200.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-01T01:15:00-06:00",
+   "return_at": "",
+   "duration": 2045,
+   "link": "https://www.aviasales.com/search/MEX0112BEG1?t=WS17960877001796235600002045MEXYYCCDGBVABEG_d42504f4fc51632f1bab38d6a198e9fc_39588&search_date=24102026&expected_price_uuid=01a16b46-2adc-8040-2b73-ca61b18aa23a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=c6sSjUhwgOekuziK140_pQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9200",
+   "title": "Flight deals from Mexico City to Belgrade",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20261201-d42504f4/"
   },
   {
    "id": "45ccfcaef0113e0233ac50c2d6a76999",

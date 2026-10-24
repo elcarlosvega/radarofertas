@@ -1,6 +1,6 @@
 {
- "generated_at": 1792854318.110663,
- "generated_at_str": "24/10/2026 09:05",
+ "generated_at": 1792857890.5332394,
+ "generated_at_str": "24/10/2026 10:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2919,7 +2919,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 9,
    "h_min": 16499.0,
    "h_min7": 16499.0
@@ -2956,7 +2956,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 14,
    "h_min": 10999.0,
    "h_min7": 10999.0
@@ -3106,7 +3106,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 12,
    "h_min": 13799.0,
    "h_min7": 13999.0
@@ -6223,7 +6223,7 @@
    "starts": "2026-10-10T06:00:00.000Z",
    "ends": "2026-10-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 12,
    "h_min": 2743.3,
    "h_ayer": 2774.25,
@@ -7288,7 +7288,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 67,
    "h_min": 1784.25,
    "h_min7": 1784.25
@@ -9109,7 +9109,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 9,
    "h_min": 12999.0,
    "h_min7": 12999.0
@@ -9544,7 +9544,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 1,
    "h_min": 16999.0
   },
@@ -9773,6 +9773,25 @@
    "first_seen": 1792393520.9946861,
    "h_dias": 88,
    "h_min": 13999.0,
+   "h_ayer": 13999.0,
+   "h_min7": 13999.0
+  },
+  {
+   "id": "685226",
+   "name": "LG Lavadora 22Kg Carga Superior",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Superior/p/685226",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h33/242039888609310.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 17999.0,
+   "price_new": 13999.0,
+   "pct": 22.2,
+   "amount": 4000.0,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-10-26T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792393520.9946861,
+   "h_dias": 75,
+   "h_min": 12999.0,
    "h_ayer": 13999.0,
    "h_min7": 13999.0
   },
@@ -10943,7 +10962,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 33,
    "h_min": 14499.0,
    "h_min7": 17399.0
@@ -13989,7 +14008,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 1,
    "h_min": 17999.0
   },
@@ -17717,7 +17736,7 @@
    "starts": "2026-10-24T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1792854318.110663,
+   "first_seen": 1792854327.1847615,
    "h_dias": 10,
    "h_min": 11999.0,
    "h_min7": 12999.0

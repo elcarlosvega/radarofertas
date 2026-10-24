@@ -1,6 +1,6 @@
 {
- "generated_at": 1792807444.1377656,
- "generated_at_str": "23/10/2026 20:04",
+ "generated_at": 1792811044.3603427,
+ "generated_at_str": "23/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261201-b32b2a80/"
   },
   {
-   "id": "a79f0b2008835eb1ddc0ca528b5fa699",
+   "id": "45ccfcaef0113e0233ac50c2d6a76999",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "MAD",
    "destination_name": "Ciudad de Madrid",
-   "airline": "AA",
-   "airline_title": "American Airlines",
-   "logo": "https://pics.avs.io/600/150/AA.png",
+   "airline": "KL",
+   "airline_title": "KLM",
+   "logo": "https://pics.avs.io/600/150/KL.png",
    "logo_tipo": "",
-   "price": 10666.0,
+   "price": 11826.0,
    "currency": "MXN",
-   "departure_at": "2026-11-13T08:06:00-06:00",
+   "departure_at": "2026-10-26T21:50:00-06:00",
    "return_at": "",
-   "duration": 879,
-   "link": "https://www.aviasales.com/search/MEX1311MAD1?t=AA17945571601794635100000879MEXCLTMAD_a79f0b2008835eb1ddc0ca528b5fa699_46105&search_date=23102026&expected_price_uuid=01a16a7e-2304-8040-63db-afb6f42384af&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=GbHU_d9hey5WKtnFbfpYvg&expected_price_source=share&expected_price_currency=mxn&expected_price=10666",
+   "duration": 885,
+   "link": "https://www.aviasales.com/search/MEX2610MAD1?t=KL17930514001793129700000885MEXAMSMAD_45ccfcaef0113e0233ac50c2d6a76999_50913&search_date=23102026&expected_price_uuid=01a16b09-a120-8030-ede5-778246e93a43&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=7gJ0D9Y_mc_p_Jx6TEO5Qw&expected_price_source=share&expected_price_currency=mxn&expected_price=11826",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261113-a79f0b20/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261026-45ccfcae/"
   },
   {
    "id": "24a55e810a926eeffad984de542e2ed3",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792908244.4341002,
- "generated_at_str": "25/10/2026 00:04",
+ "generated_at": 1792911844.6209383,
+ "generated_at_str": "25/10/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,24 +70,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270130-7b693d69/"
   },
   {
-   "id": "66e83f5db6a867609d9485059bd6c561",
+   "id": "961842e633b71f5dd3ce8d89bf299fec",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "DE",
-   "airline_title": "Condor",
-   "logo": "https://pics.avs.io/600/150/DE.png",
+   "destination": "PAR",
+   "destination_name": "París",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
    "logo_tipo": "",
-   "price": 10344.0,
+   "price": 6534.0,
    "currency": "MXN",
-   "departure_at": "2026-11-23T07:24:00-06:00",
+   "departure_at": "2026-10-26T01:15:00-06:00",
    "return_at": "",
-   "duration": 3041,
-   "link": "https://www.aviasales.com/search/MEX2311IST1?t=DE17954186401795633500003041NLUSJDFRAZRHSAW_66e83f5db6a867609d9485059bd6c561_44513&search_date=25102026&expected_price_uuid=01a17086-7615-8031-2ddd-689e2ff7f85d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DsfHOPbPuUGtcovuErksNw&expected_price_source=share&expected_price_currency=mxn&expected_price=10344",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261123-66e83f5d/"
+   "duration": 1635,
+   "link": "https://www.aviasales.com/search/MEX2610PAR1?t=WS17929773001793100600001635MEXYYCCDG_961842e633b71f5dd3ce8d89bf299fec_28117&search_date=25102026&expected_price_uuid=01a171a3-da14-8030-6e48-f237e4627e21&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=z9DXkxJqAtd2m8bQXIfoPQ&expected_price_source=share&expected_price_currency=mxn&expected_price=6534",
+   "title": "Flight deals from Mexico City to Paris",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261026-961842e6/"
   },
   {
    "id": "9466acf46ac10bca2bdf6053140b8d6b",

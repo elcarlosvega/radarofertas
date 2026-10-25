@@ -1,6 +1,6 @@
 {
- "generated_at": 1792933443.5895624,
- "generated_at_str": "25/10/2026 07:04",
+ "generated_at": 1792937043.425556,
+ "generated_at_str": "25/10/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX3005SAO1?t=DM18116989201811835000002088TLCCUNPUJGRU_d4c1afec07f08f14a37118f9d4a03431_28083&search_date=25102026&expected_price_uuid=01a17305-9c81-8031-6ebc-08d006c305f5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FDVq4uMyTwNVWxJMNmws3Q&expected_price_source=share&expected_price_currency=mxn&expected_price=6423",
    "title": "Flight deals from Mexico City to Sao Paulo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270530-d4c1afec/"
+  },
+  {
+   "id": "d71c158f1e6e2d52ef3ac918d760954d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
+   "logo_tipo": "",
+   "price": 8866.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-10T21:00:00-06:00",
+   "return_at": "",
+   "duration": 610,
+   "link": "https://www.aviasales.com/search/MEX1002LON1?t=BA18022932001802351400000610MEXLHR_d71c158f1e6e2d52ef3ac918d760954d_38762&search_date=25102026&expected_price_uuid=01a1732d-c638-8030-66b4-965699cff4fc&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3ugkBE92_FXOvlCroaDGxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8866",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270210-d71c158f/"
   },
   {
    "id": "4f884435ab5be7dd0e17b61f01b2ecde",

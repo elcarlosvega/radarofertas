@@ -1,6 +1,6 @@
 {
- "generated_at": 1792915443.9504738,
- "generated_at_str": "25/10/2026 02:04",
+ "generated_at": 1792919065.3414483,
+ "generated_at_str": "25/10/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "cfba10359b580d4c9193dfc605bce909",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SJO",
-   "destination_name": "San José",
-   "airline": "Q6",
-   "airline_title": "Volaris Costa Rica",
-   "logo": "https://pics.avs.io/600/150/Q6.png",
-   "logo_tipo": "",
-   "price": 2308.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-27T18:55:00-06:00",
-   "return_at": "",
-   "duration": 181,
-   "link": "https://www.aviasales.com/search/MEX2710SJO1?t=Q617931273001793138160000181MEXSJO_cfba10359b580d4c9193dfc605bce909_9933&search_date=25102026&expected_price_uuid=01a170c8-b4f5-8040-626b-5785ea84b1c7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rmLcpaFBJsz4thiO6PmWUg&expected_price_source=share&expected_price_currency=mxn&expected_price=2308",
-   "title": "Flight deals from Mexico City to San Jose",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261027-cfba1035/"
-  },
   {
    "id": "e05e2cccf7158f36470621b378b100d6",
    "kind": "flight",
@@ -168,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX2101IST1?t=AM18005700001800664200001030MEXCDGIST_17de54881d6d1d3fab6de00f6c618f30_91339&search_date=25102026&expected_price_uuid=01a1720f-4259-8030-6c28-7ac2d4976aa1&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21226",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270121-17de5488/"
+  },
+  {
+   "id": "fc9a08a2879c05dd2e3820f4ee7230fb",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TAS",
+   "destination_name": "Taskent",
+   "airline": "TK",
+   "airline_title": "Turkish Airlines",
+   "logo": "https://pics.avs.io/600/150/TK.png",
+   "logo_tipo": "",
+   "price": 31374.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-27T09:20:00-06:00",
+   "return_at": "",
+   "duration": 1360,
+   "link": "https://www.aviasales.com/search/MEX2710TAS1?t=TK17930928001793214000001360MEXISTTAS_fc9a08a2879c05dd2e3820f4ee7230fb_135007&search_date=25102026&expected_price_uuid=01a1722f-f15c-8031-6b4d-699107f7feb0&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=RwXLDexTCujXAeQ5dTYKXw&expected_price_source=share&expected_price_currency=mxn&expected_price=31374",
+   "title": "Flight deals from Mexico City to Tashkent",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261027-fc9a08a2/"
   }
  ]
 }

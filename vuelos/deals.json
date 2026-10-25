@@ -1,6 +1,6 @@
 {
- "generated_at": 1792893845.441969,
- "generated_at_str": "24/10/2026 20:04",
+ "generated_at": 1792897444.6787736,
+ "generated_at_str": "24/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,6 +48,26 @@
    "link": "https://www.aviasales.com/search/MEX3010CUN1?t=VB17934043201793416080000136TLCCUN_0ee081c6cd5b3224ff6ad27c8f99dca2_5452&search_date=24102026&expected_price_uuid=01a16fcd-ac23-8030-2a28-50d0177f74e8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AFeLXUJEOvl9vsWa30fAEQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1267",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261030-0ee081c6/"
+  },
+  {
+   "id": "cfba10359b580d4c9193dfc605bce909",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SJO",
+   "destination_name": "San José",
+   "airline": "Q6",
+   "airline_title": "Volaris Costa Rica",
+   "logo": "https://pics.avs.io/600/150/Q6.png",
+   "logo_tipo": "",
+   "price": 2308.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-27T18:55:00-06:00",
+   "return_at": "",
+   "duration": 181,
+   "link": "https://www.aviasales.com/search/MEX2710SJO1?t=Q617931273001793138160000181MEXSJO_cfba10359b580d4c9193dfc605bce909_9933&search_date=25102026&expected_price_uuid=01a170c8-b4f5-8040-626b-5785ea84b1c7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rmLcpaFBJsz4thiO6PmWUg&expected_price_source=share&expected_price_currency=mxn&expected_price=2308",
+   "title": "Flight deals from Mexico City to San Jose",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261027-cfba1035/"
   },
   {
    "id": "b81fcbc5d6d795dfa24981a015fb3e5f",

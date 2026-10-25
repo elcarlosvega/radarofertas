@@ -1,6 +1,6 @@
 {
- "generated_at": 1792911844.6209383,
- "generated_at_str": "25/10/2026 01:04",
+ "generated_at": 1792915443.9504738,
+ "generated_at_str": "25/10/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -150,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261102-fb77c80f/"
   },
   {
-   "id": "2f3e9c5b93fd77f0fa78d3a6c1eb699b",
+   "id": "17de54881d6d1d3fab6de00f6c618f30",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MSQ",
-   "destination_name": "Minsk",
+   "destination": "IST",
+   "destination_name": "Estambul",
    "airline": "AM",
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 17108.0,
+   "price": 21226.0,
    "currency": "MXN",
-   "departure_at": "2026-11-23T06:00:00-06:00",
+   "departure_at": "2027-01-21T22:20:00-06:00",
    "return_at": "",
-   "duration": 2620,
-   "link": "https://www.aviasales.com/search/MEX2311MSQ1?t=AM17954136001795603200002620NLUMTYMADSAWVKOMSQ_2f3e9c5b93fd77f0fa78d3a6c1eb699b_73617&search_date=25102026&expected_price_uuid=01a170bb-ff2b-8030-ead8-796d28c3e9b0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j4JrLL9eap7MCqbyLphgHA&expected_price_source=share&expected_price_currency=mxn&expected_price=17108",
-   "title": "Flight deals from Mexico City to Minsk",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261123-2f3e9c5b/"
+   "duration": 1030,
+   "link": "https://www.aviasales.com/search/MEX2101IST1?t=AM18005700001800664200001030MEXCDGIST_17de54881d6d1d3fab6de00f6c618f30_91339&search_date=25102026&expected_price_uuid=01a1720f-4259-8030-6c28-7ac2d4976aa1&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=21226",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270121-17de5488/"
   }
  ]
 }

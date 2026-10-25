@@ -1,6 +1,6 @@
 {
- "generated_at": 1792922643.6071055,
- "generated_at_str": "25/10/2026 04:04",
+ "generated_at": 1792926243.6674035,
+ "generated_at_str": "25/10/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "e05e2cccf7158f36470621b378b100d6",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "LAX",
-   "destination_name": "Los Ángeles",
-   "airline": "AS",
-   "airline_title": "Alaska Airlines",
-   "logo": "https://pics.avs.io/600/150/AS.png",
-   "logo_tipo": "",
-   "price": 2701.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-05T13:22:00-06:00",
-   "return_at": "",
-   "duration": 207,
-   "link": "https://www.aviasales.com/search/GDL0511LAX1?t=AS17938849201793890140000207GDLLAX_e05e2cccf7158f36470621b378b100d6_11623&search_date=25102026&expected_price_uuid=01a17146-e5d3-8040-6966-67cec7e89ce1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1VTwuTMK8oK2is92lxrzwg&expected_price_source=share&expected_price_currency=mxn&expected_price=2701",
-   "title": "Flight deals from Guadalajara to Los Angeles",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261105-e05e2ccc/"
-  },
   {
    "id": "961842e633b71f5dd3ce8d89bf299fec",
    "kind": "flight",

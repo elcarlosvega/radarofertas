@@ -1,6 +1,6 @@
 {
- "generated_at": 1792940643.8319612,
- "generated_at_str": "25/10/2026 09:04",
+ "generated_at": 1792944243.6272604,
+ "generated_at_str": "25/10/2026 10:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0601SJO1?t=AM17992254001799236860000191MEXSJO_314281f06cfb922c7f14bc684f7e432e_14855&search_date=25102026&expected_price_uuid=01a1736f-1920-8030-27e2-6e7a01fba94b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZZw7s82qDQxGmr1asWEfhA&expected_price_source=share&expected_price_currency=mxn&expected_price=3398",
    "title": "Flight deals from Mexico City to San Jose",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20270106-314281f0/"
+  },
+  {
+   "id": "d01ee5c870974a5c62247a39e05d4b6f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PTY",
+   "destination_name": "Ciudad de Panamá",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
+   "logo_tipo": "",
+   "price": 3563.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-05T03:25:00-06:00",
+   "return_at": "",
+   "duration": 220,
+   "link": "https://www.aviasales.com/search/MEX0501PTY1?t=CM17991195001799136300000220MEXPTY_d01ee5c870974a5c62247a39e05d4b6f_15578&search_date=25102026&expected_price_uuid=01a173c1-59fb-8031-215d-c1d72164615d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uVS_dztiCo0eQ-wfZBE98Q&expected_price_source=share&expected_price_currency=mxn&expected_price=3563",
+   "title": "Flight deals from Mexico City to Panama City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-panama-20270105-d01ee5c8/"
   },
   {
    "id": "dabbbec9d0ba1e93369aea991345a8c0",
@@ -130,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-valencia-20270210-88024798/"
   },
   {
-   "id": "4f884435ab5be7dd0e17b61f01b2ecde",
+   "id": "a6804f26b08dfa0f92e0ca8681015049",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "IB",
-   "airline_title": "Iberia",
-   "logo": "https://pics.avs.io/600/150/IB.png",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "PR",
+   "airline_title": "Philippine Airlines",
+   "logo": "https://pics.avs.io/600/150/PR.png",
    "logo_tipo": "",
-   "price": 9799.0,
+   "price": 12326.0,
    "currency": "MXN",
-   "departure_at": "2027-02-11T15:05:00-06:00",
+   "departure_at": "2026-10-27T19:45:00-06:00",
    "return_at": "",
-   "duration": 940,
-   "link": "https://www.aviasales.com/search/MEX1102MAD1?t=IB18023583001802439900000940TLCMTYMAD_4f884435ab5be7dd0e17b61f01b2ecde_42166&search_date=25102026&expected_price_uuid=01a17271-5dfb-8030-e677-9017149c8edd&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=vfPKbtgz_R__-FYbHpa_tg&expected_price_source=share&expected_price_currency=mxn&expected_price=9799",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20270211-4f884435/"
+   "duration": 3010,
+   "link": "https://www.aviasales.com/search/MEX2710BJS1?t=PR17931303001793361300003010MEXLAXMNLPEK_a6804f26b08dfa0f92e0ca8681015049_53888&search_date=25102026&expected_price_uuid=01a173c0-7590-8040-afa6-35d6aba3abef&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cyP9NywUaZeMWoXLFx8cyA&expected_price_source=share&expected_price_currency=mxn&expected_price=12326",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261027-a6804f26/"
   },
   {
    "id": "63403c2e022c897abe8959935d4108d8",

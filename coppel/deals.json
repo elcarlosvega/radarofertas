@@ -1,6 +1,6 @@
 {
- "generated_at": 1792930337.2134135,
- "generated_at_str": "25/10/2026 06:12",
+ "generated_at": 1792934032.8189116,
+ "generated_at_str": "25/10/2026 07:13",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -7545,6 +7545,25 @@
    "in_stock": true,
    "first_seen": 1786202119.0035107,
    "h_dias": 50,
+   "h_min": 349.0,
+   "h_ayer": 349.0,
+   "h_min7": 349.0
+  },
+  {
+   "id": "291154",
+   "name": "Audífonos True Wireless STF Nebula con Cancelación de Ruido",
+   "url": "https://www.coppel.com/pdp/audifonos-true-wireless-stf-nebula-con-cancelacion-de-ruido-pm-2911543",
+   "img": "https://cdn5.coppel.com/pm/2911543-1.jpg",
+   "category": "Audifonos",
+   "price_old": 699.0,
+   "price_new": 349.0,
+   "pct": 50.1,
+   "amount": 350.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 82,
    "h_min": 349.0,
    "h_ayer": 349.0,
    "h_min7": 349.0
@@ -33109,6 +33128,24 @@
    "h_min7": 10999.0
   },
   {
+   "id": "666513",
+   "name": "Refrigerador Midea Top Mount 15 Pies Negro MDRT580MTM28WD",
+   "url": "https://www.coppel.com/pdp/refrigerador-midea-top-mount-15-pies-negro-mdrt580mtm28wd-pm-6665133",
+   "img": "https://cdn5.coppel.com/pm/6665133-1.jpg",
+   "category": "Refrigeradores",
+   "price_old": 16499.0,
+   "price_new": 9899.0,
+   "pct": 40.0,
+   "amount": 6600.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1788333193.9402223,
+   "h_dias": 61,
+   "h_min": 9899.0,
+   "h_min7": 9899.0
+  },
+  {
    "id": "74451042",
    "name": "Lavadora de carga superior de 21 KG Whirlpool WW21BTAHME, color negro.",
    "url": "https://www.coppel.com/pdp/lavadora-de-carga-superior-de-21-kg-whirlpool-ww21btahme-color-negro-mkp-74451042",
@@ -34075,24 +34112,6 @@
    "h_min": 1799.0,
    "h_ayer": 1799.0,
    "h_min7": 1799.0
-  },
-  {
-   "id": "257691",
-   "name": "Audífonos True Wireless Samsung con IA Galaxy Buds 3",
-   "url": "https://www.coppel.com/pdp/audifonos-true-wireless-samsung-con-ia-galaxy-buds-3-pm-2576913",
-   "img": "https://cdn5.coppel.com/pm/2576913-1.jpg",
-   "category": "Audifonos",
-   "price_old": 2999.0,
-   "price_new": 1799.0,
-   "pct": 40.0,
-   "amount": 1200.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792541681.9341948,
-   "h_dias": 5,
-   "h_min": 1799.0,
-   "h_ayer": 1799.0
   },
   {
    "id": "749702111",
@@ -40054,6 +40073,24 @@
    "h_min7": 1299.0
   },
   {
+   "id": "278123",
+   "name": "Tablet Dreamtech Kiddo 8 Pulgadas 64 GB 3 GB RAM",
+   "url": "https://www.coppel.com/pdp/tablet-dreamtech-kiddo-8-pulgadas-64-gb-3-gb-ram-pm-2781233",
+   "img": "https://cdn5.coppel.com/pm/2781233-1.jpg",
+   "category": "Tablets",
+   "price_old": 1599.0,
+   "price_new": 999.0,
+   "pct": 37.5,
+   "amount": 600.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1786018486.9799972,
+   "h_dias": 43,
+   "h_min": 999.0,
+   "h_min7": 999.0
+  },
+  {
    "id": "36402300",
    "name": "Jbl Bocina Bluetooth Clip 4 color Gris",
    "url": "https://www.coppel.com/pdp/jbl-bocina-bluetooth-clip-4-color-gris-mkp-36402300",
@@ -40299,6 +40336,24 @@
    "h_min": 7299.0,
    "h_ayer": 9199.0,
    "h_min7": 9199.0
+  },
+  {
+   "id": "624667",
+   "name": "Refrigerador Hisense Una Puerta 7 Pies Gris RR63D6WGX",
+   "url": "https://www.coppel.com/pdp/refrigerador-hisense-una-puerta-7-pies-gris-rr63d6wgx-pm-6246673",
+   "img": "https://cdn5.coppel.com/pm/6246673-1.jpg",
+   "category": "Refrigeradores",
+   "price_old": 8299.0,
+   "price_new": 5199.0,
+   "pct": 37.4,
+   "amount": 3100.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1792505629.2896285,
+   "h_dias": 39,
+   "h_min": 4999.0,
+   "h_min7": 5199.0
   },
   {
    "id": "279448",
@@ -49642,25 +49697,6 @@
    "h_min7": 9198.0
   },
   {
-   "id": "47201209",
-   "name": "Tablet Apple iPad 8th Gen 128GB Grafito Reacondicionado Grado A 24 Meses de Garantía",
-   "url": "https://www.coppel.com/pdp/tablet-apple-ipad-8th-gen-128gb-grafito-reacondicionado-grado-a-24-meses-de-garantia-mkp-47201209",
-   "img": "https://cdn5.coppel.com/mkp/47201209-1.jpg",
-   "category": "Tablets",
-   "price_old": 6999.0,
-   "price_new": 4599.0,
-   "pct": 34.3,
-   "amount": 2400.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792804519.2211223,
-   "h_dias": 22,
-   "h_min": 4599.0,
-   "h_ayer": 4599.0,
-   "h_min7": 4599.0
-  },
-  {
    "id": "747583803",
    "name": "Smartwatch Samsung Galaxy Watch 8 44mm Grafito",
    "url": "https://www.coppel.com/pdp/smartwatch-samsung-galaxy-watch-8-44mm-grafito-mkp-747583803",
@@ -49716,25 +49752,6 @@
    "h_min": 2399.0,
    "h_ayer": 2399.0,
    "h_min7": 2399.0
-  },
-  {
-   "id": "251683",
-   "name": "Bocina Bluetooth EVL LY-HF52P 100 W Portátil",
-   "url": "https://www.coppel.com/pdp/bocina-bluetooth-evl-ly-hf52p-100-w-portatil-pm-2516833",
-   "img": "https://cdn5.coppel.com/pm/2516833-1.jpg",
-   "category": "Bocinas",
-   "price_old": 3499.0,
-   "price_new": 2299.0,
-   "pct": 34.3,
-   "amount": 1200.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 78,
-   "h_min": 2299.0,
-   "h_ayer": 2299.0,
-   "h_min7": 2299.0
   },
   {
    "id": "252683",
@@ -50414,25 +50431,6 @@
    "h_min": 2912.0,
    "h_ayer": 2912.0,
    "h_min7": 2912.0
-  },
-  {
-   "id": "40151635",
-   "name": "Teclado Logitech Wave Keys Inalámbrico Ergonómico Rose - Venta Internacional.",
-   "url": "https://www.coppel.com/pdp/teclado-logitech-wave-keys-inalambrico-ergonomico-rose-venta-internacional-mkp-40151635",
-   "img": "https://cdn5.coppel.com/mkp/40151635-1.jpg",
-   "category": "PC Gaming",
-   "price_old": 3168.0,
-   "price_new": 2091.0,
-   "pct": 34.0,
-   "amount": 1077.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792394011.4678783,
-   "h_dias": 7,
-   "h_min": 2091.0,
-   "h_ayer": 2091.0,
-   "h_min7": 2091.0
   },
   {
    "id": "5841070",
@@ -62094,25 +62092,6 @@
    "h_min7": 779.0
   },
   {
-   "id": "94861896",
-   "name": "Laptop Gamer Thunderobot Radiant 16” Jt009k00j | Intel Core I9  16gb Ram  1tb Ssd  Nvidia Geforce Rtx 5060 8gb  Windows 11 Home",
-   "url": "https://www.coppel.com/pdp/laptop-gamer-thunderobot-radiant-16-jt009k00j-intel-core-i9-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-8gb-windows-11-home-mkp-94861896",
-   "img": "https://cdn5.coppel.com/mkp/94861896-1.jpg",
-   "category": "Laptops",
-   "price_old": 49999.0,
-   "price_new": 34899.0,
-   "pct": 30.2,
-   "amount": 15100.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 82,
-   "h_min": 34899.0,
-   "h_ayer": 34899.0,
-   "h_min7": 34899.0
-  },
-  {
    "id": "228667",
    "name": "Laptop Gamer Asus TUF Gaming A15 15.6 Pulgadas Ryzen 7 RTX 3050 8 GB RAM 512 GB SSD Negra",
    "url": "https://www.coppel.com/pdp/laptop-gamer-asus-tuf-gaming-a15-156-pulgadas-ryzen-7-rtx-3050-8-gb-ram-512-gb-ssd-negra-pm-2286673",
@@ -66965,25 +66944,6 @@
    "h_min": 1499.0
   },
   {
-   "id": "278132",
-   "name": "Tablet Dreamtech KiddoTab 10 Pulgadas 32 GB 3 GB RAM",
-   "url": "https://www.coppel.com/pdp/tablet-dreamtech-kiddotab-10-pulgadas-32-gb-3-gb-ram-pm-2781323",
-   "img": "https://cdn5.coppel.com/pm/2781323-1.jpg",
-   "category": "Tablets",
-   "price_old": 1999.0,
-   "price_new": 1399.0,
-   "pct": 30.0,
-   "amount": 600.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 58,
-   "h_min": 1399.0,
-   "h_ayer": 1399.0,
-   "h_min7": 1399.0
-  },
-  {
    "id": "747649543",
    "name": "Bocina Amazon Echo Dot 5 a Generación Azul con Alexa - Venta Internacional",
    "url": "https://www.coppel.com/pdp/bocina-amazon-echo-dot-5-a-generacion-azul-con-alexa-venta-internacional-mkp-747649543",
@@ -69543,6 +69503,25 @@
    "h_min": 849.0,
    "h_ayer": 849.0,
    "h_min7": 849.0
+  },
+  {
+   "id": "218084",
+   "name": "Laptop Gamer MSI Cyborg 15 B2RWFKG-452MX 15.6 Pulgadas RTX 5060 Intel Core 7 16 GB RAM 1 TB SSD",
+   "url": "https://www.coppel.com/pdp/laptop-gamer-msi-cyborg-15-b2rwfkg-452mx-156-pulgadas-rtx-5060-intel-core-7-16-gb-ram-1-tb-ssd-pm-2180843",
+   "img": "https://cdn5.coppel.com/pm/2180843-1.jpg",
+   "category": "PC Gaming",
+   "price_old": 42299.0,
+   "price_new": 29999.0,
+   "pct": 29.1,
+   "amount": 12300.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1788415989.2826693,
+   "h_dias": 60,
+   "h_min": 28999.0,
+   "h_ayer": 29999.0,
+   "h_min7": 29999.0
   },
   {
    "id": "250296",
@@ -75691,6 +75670,25 @@
    "h_min7": 8499.0
   },
   {
+   "id": "36405028",
+   "name": "Bocinas Thonet & Vander Kürbis 2.0 Bluetooth 5.0  Control Remoto 72w Rms  Rca  Óptico – Blanco",
+   "url": "https://www.coppel.com/pdp/bocinas-thonet-vander-kurbis-20-bluetooth-50-control-remoto-72w-rms-rca-optico-blanco-mkp-36405028",
+   "img": "https://cdn5.coppel.com/mkp/36405028-1.jpg",
+   "category": "Bocinas",
+   "price_old": 7499.0,
+   "price_new": 5499.0,
+   "pct": 26.7,
+   "amount": 2000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1790832007.5033233,
+   "h_dias": 26,
+   "h_min": 5499.0,
+   "h_ayer": 5499.0,
+   "h_min7": 5499.0
+  },
+  {
    "id": "243382",
    "name": "Smartwatch Samsung Galaxy Watch9 44 mm con GPS Negro",
    "url": "https://www.coppel.com/pdp/smartwatch-samsung-galaxy-watch9-44-mm-con-gps-negro-pm-2433823",
@@ -76976,6 +76974,24 @@
    "h_dias": 81,
    "h_min": 1399.0,
    "h_ayer": 1399.0,
+   "h_min7": 1399.0
+  },
+  {
+   "id": "153488",
+   "name": "Procesador de Alimentos Nutribullet 1 Velocidad",
+   "url": "https://www.coppel.com/pdp/procesador-de-alimentos-nutribullet-1-velocidad-pm-1534883",
+   "img": "https://cdn5.coppel.com/pm/1534883-1.jpg",
+   "category": "Licuadoras",
+   "price_old": 1899.0,
+   "price_new": 1399.0,
+   "pct": 26.3,
+   "amount": 500.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1787120019.6175132,
+   "h_dias": 24,
+   "h_min": 1399.0,
    "h_min7": 1399.0
   },
   {
@@ -82087,7 +82103,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1792930337.2134135,
+   "first_seen": 1792930348.2492464,
    "h_dias": 28,
    "h_min": 6999.0,
    "h_min7": 7499.0

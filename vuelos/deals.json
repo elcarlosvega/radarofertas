@@ -1,6 +1,6 @@
 {
- "generated_at": 1792890243.7878602,
- "generated_at_str": "24/10/2026 19:04",
+ "generated_at": 1792893845.441969,
+ "generated_at_str": "24/10/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261125-66c092d0/"
   },
   {
-   "id": "9e959dfd60460bc73e6e1bda73c864dd",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "NQZ",
-   "destination_name": "Astaná",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 11476.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-03T01:15:00-06:00",
-   "return_at": "",
-   "duration": 2530,
-   "link": "https://www.aviasales.com/search/MEX0312NQZ1?t=WS17962605001796451900002530MEXYYCCDGESBNQZ_9e959dfd60460bc73e6e1bda73c864dd_49383&search_date=24102026&expected_price_uuid=01a16f53-6cb8-8040-a723-b391d7181909&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=s9KVFcDyc_ZFg3nfF2DeAg&expected_price_source=share&expected_price_currency=mxn&expected_price=11476",
-   "title": "Flight deals from Mexico City to Astana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20261203-9e959dfd/"
-  },
-  {
    "id": "2496f29ad2f4076cb49005177896febc",
    "kind": "flight",
    "origin": "MEX",
@@ -170,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261130-2496f29a/"
   },
   {
-   "id": "fc9a08a2879c05dd2e3820f4ee7230fb",
+   "id": "2f3e9c5b93fd77f0fa78d3a6c1eb699b",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TAS",
-   "destination_name": "Taskent",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
+   "destination": "MSQ",
+   "destination_name": "Minsk",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 33465.0,
+   "price": 17108.0,
    "currency": "MXN",
-   "departure_at": "2026-10-27T09:20:00-06:00",
+   "departure_at": "2026-11-23T06:00:00-06:00",
    "return_at": "",
-   "duration": 1360,
-   "link": "https://www.aviasales.com/search/MEX2710TAS1?t=TK17930928001793214000001360MEXISTTAS_fc9a08a2879c05dd2e3820f4ee7230fb_144003&search_date=24102026&expected_price_uuid=01a16f5c-c7a3-8030-ae78-5f4c615afd77&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=RwXLDexTCujXAeQ5dTYKXw&expected_price_source=share&expected_price_currency=mxn&expected_price=33465",
-   "title": "Flight deals from Mexico City to Tashkent",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-taskent-20261027-fc9a08a2/"
+   "duration": 2620,
+   "link": "https://www.aviasales.com/search/MEX2311MSQ1?t=AM17954136001795603200002620NLUMTYMADSAWVKOMSQ_2f3e9c5b93fd77f0fa78d3a6c1eb699b_73617&search_date=25102026&expected_price_uuid=01a170bb-ff2b-8030-ead8-796d28c3e9b0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j4JrLL9eap7MCqbyLphgHA&expected_price_source=share&expected_price_currency=mxn&expected_price=17108",
+   "title": "Flight deals from Mexico City to Minsk",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261123-2f3e9c5b/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1792901044.264258,
- "generated_at_str": "24/10/2026 22:04",
+ "generated_at": 1792904644.4493055,
+ "generated_at_str": "24/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-jose-20261027-cfba1035/"
   },
   {
+   "id": "e05e2cccf7158f36470621b378b100d6",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "AS",
+   "airline_title": "Alaska Airlines",
+   "logo": "https://pics.avs.io/600/150/AS.png",
+   "logo_tipo": "",
+   "price": 2701.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-05T13:22:00-06:00",
+   "return_at": "",
+   "duration": 207,
+   "link": "https://www.aviasales.com/search/GDL0511LAX1?t=AS17938849201793890140000207GDLLAX_e05e2cccf7158f36470621b378b100d6_11623&search_date=25102026&expected_price_uuid=01a17146-e5d3-8040-6966-67cec7e89ce1&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1VTwuTMK8oK2is92lxrzwg&expected_price_source=share&expected_price_currency=mxn&expected_price=2701",
+   "title": "Flight deals from Guadalajara to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261105-e05e2ccc/"
+  },
+  {
    "id": "b81fcbc5d6d795dfa24981a015fb3e5f",
    "kind": "flight",
    "origin": "MEX",
@@ -90,46 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270130-7b693d69/"
   },
   {
-   "id": "faa9239fa459cbde79c83f991229437a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 9461.0,
-   "currency": "MXN",
-   "departure_at": "2026-10-29T01:15:00-06:00",
-   "return_at": "",
-   "duration": 2160,
-   "link": "https://www.aviasales.com/search/MEX2910IST1?t=WS17932365001793398500002160MEXYYCCDGSAW_faa9239fa459cbde79c83f991229437a_40712&search_date=24102026&expected_price_uuid=01a17008-0fbe-8040-207b-81d2a1107e97&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cJBF7WTnkTQG6QOS-o7xAA&expected_price_source=share&expected_price_currency=mxn&expected_price=9461",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261029-faa9239f/"
-  },
-  {
-   "id": "66c092d0e92a26e0630defbb64031cb5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 10019.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-25T14:55:00-06:00",
-   "return_at": "",
-   "duration": 915,
-   "link": "https://www.aviasales.com/search/MEX2511MAD1?t=BA17956185001795698600000915MEXMIAMAD_66c092d0e92a26e0630defbb64031cb5_43111&search_date=24102026&expected_price_uuid=01a16fef-ba2d-8030-2527-df41b00f164e&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=NOyEwTVDdiCeSuJLNVUCJw&expected_price_source=share&expected_price_currency=mxn&expected_price=10019",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261125-66c092d0/"
-  },
-  {
    "id": "9466acf46ac10bca2bdf6053140b8d6b",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX2711AMS1?t=AM17958171001795904100001030MEXMADAMS_9466acf46ac10bca2bdf6053140b8d6b_51250&search_date=25102026&expected_price_uuid=01a17109-ccda-8040-6276-07ac1cc8aae6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sy8A-j8jdcuL3FTw7V1nMQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11910",
    "title": "Flight deals from Mexico City to Amsterdam",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-amsterdam-20261127-9466acf4/"
+  },
+  {
+   "id": "9e959dfd60460bc73e6e1bda73c864dd",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NQZ",
+   "destination_name": "Astaná",
+   "airline": "WS",
+   "airline_title": "WestJet",
+   "logo": "https://pics.avs.io/600/150/WS.png",
+   "logo_tipo": "",
+   "price": 13126.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-03T01:15:00-06:00",
+   "return_at": "",
+   "duration": 2530,
+   "link": "https://www.aviasales.com/search/MEX0312NQZ1?t=WS17962605001796451900002530MEXYYCCDGESBNQZ_9e959dfd60460bc73e6e1bda73c864dd_56483&search_date=25102026&expected_price_uuid=01a1712c-d85d-8040-aae5-ad3d84bdd89a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=s9KVFcDyc_ZFg3nfF2DeAg&expected_price_source=share&expected_price_currency=mxn&expected_price=13126",
+   "title": "Flight deals from Mexico City to Astana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-astana-20261203-9e959dfd/"
   },
   {
    "id": "24a55e810a926eeffad984de542e2ed3",
@@ -188,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2311MSQ1?t=AM17954136001795603200002620NLUMTYMADSAWVKOMSQ_2f3e9c5b93fd77f0fa78d3a6c1eb699b_73617&search_date=25102026&expected_price_uuid=01a170bb-ff2b-8030-ead8-796d28c3e9b0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=j4JrLL9eap7MCqbyLphgHA&expected_price_source=share&expected_price_currency=mxn&expected_price=17108",
    "title": "Flight deals from Mexico City to Minsk",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261123-2f3e9c5b/"
+  },
+  {
+   "id": "a8d59681c95753596afc0bf0869d22cf",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21226.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T22:05:00-06:00",
+   "return_at": "",
+   "duration": 1045,
+   "link": "https://www.aviasales.com/search/MEX0212IST1?t=AM17962491001796344200001045MEXCDGIST_a8d59681c95753596afc0bf0869d22cf_91339&search_date=24102026&expected_price_uuid=01a1702c-48c4-8031-65d1-a9f4138c2433&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=21226",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261202-a8d59681/"
   }
  ]
 }

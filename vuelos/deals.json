@@ -1,6 +1,6 @@
 {
- "generated_at": 1792947843.6968703,
- "generated_at_str": "25/10/2026 11:04",
+ "generated_at": 1792951444.1631494,
+ "generated_at_str": "25/10/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270530-d4c1afec/"
   },
   {
-   "id": "1b672fbf2f81ccb55bfc4d89de700f04",
+   "id": "66cd49de73eb759c46f6603fdb9e075f",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "SCL",
    "destination_name": "Santiago de Chile",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 7293.0,
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 8501.0,
    "currency": "MXN",
-   "departure_at": "2027-01-09T11:06:00-06:00",
+   "departure_at": "2026-12-29T09:55:00-06:00",
    "return_at": "",
-   "duration": 764,
-   "link": "https://www.aviasales.com/search/MEX0901SCL1?t=DM17994927601799549400000764NLUPUJSCL_1b672fbf2f81ccb55bfc4d89de700f04_31885&search_date=25102026&expected_price_uuid=01a17362-15ed-8030-a8f3-752c4b82f499&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=KiWy-nAHrjEzJMqVSg20Pw&expected_price_source=share&expected_price_currency=mxn&expected_price=7293",
+   "duration": 500,
+   "link": "https://www.aviasales.com/search/MEX2912SCL1?t=AM17985381001798578900000500MEXSCL_66cd49de73eb759c46f6603fdb9e075f_37164&search_date=25102026&expected_price_uuid=01a1741a-7199-8030-2a7d-f8b90379cf07&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=ORFk7zeErKhiMXOCLgEbtg&expected_price_source=share&expected_price_currency=mxn&expected_price=8501",
    "title": "Flight deals from Mexico City to Santiago",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270109-1b672fbf/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20261229-66cd49de/"
   },
   {
    "id": "d71c158f1e6e2d52ef3ac918d760954d",

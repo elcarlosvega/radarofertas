@@ -1,6 +1,6 @@
 {
- "generated_at": 1793019913.3325057,
- "generated_at_str": "26/10/2026 07:05",
+ "generated_at": 1793023515.946365,
+ "generated_at_str": "26/10/2026 08:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -11126,25 +11126,6 @@
    "h_min7": 14399.0
   },
   {
-   "id": "2089376",
-   "name": "Arracadas de Oro, 3 Tonos 14K",
-   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Joyeria-de-Moda/Aretes/Arracadas-de-Oro-3-Tonos-14K/p/2089376",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/h3a/509074766364702.jpg",
-   "category": "Joyeria y Relojes",
-   "price_old": 11499.0,
-   "price_new": 8999.0,
-   "pct": 21.7,
-   "amount": 2500.0,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-11-16T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792397107.232639,
-   "h_dias": 8,
-   "h_min": 8999.0,
-   "h_ayer": 8999.0,
-   "h_min7": 8999.0
-  },
-  {
    "id": "686594",
    "name": "Teka Cava de Vinos 32 Botellas",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Teka-Cava-de-Vinos-32-Botellas/p/686594",
@@ -11161,6 +11142,25 @@
    "h_dias": 49,
    "h_min": 7999.0,
    "h_ayer": 9499.0,
+   "h_min7": 8999.0
+  },
+  {
+   "id": "2089376",
+   "name": "Arracadas de Oro, 3 Tonos 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Joyeria-de-Moda/Aretes/Arracadas-de-Oro-3-Tonos-14K/p/2089376",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/h3a/509074766364702.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 11499.0,
+   "price_new": 8999.0,
+   "pct": 21.7,
+   "amount": 2500.0,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-11-16T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792397107.232639,
+   "h_dias": 8,
+   "h_min": 8999.0,
+   "h_ayer": 8999.0,
    "h_min7": 8999.0
   },
   {

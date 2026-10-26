@@ -1,6 +1,6 @@
 {
- "generated_at": 1792973043.6260855,
- "generated_at_str": "25/10/2026 18:04",
+ "generated_at": 1792976643.5723913,
+ "generated_at_str": "25/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX0802CUN1?t=VB18021085201802120100000133TLCCUN_ae73093d33acaff04263600b177e1237_6377&search_date=25102026&expected_price_uuid=01a17497-d35a-8031-248b-ad0742aa3a01&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=bFhvq8tY2kGzLRLq_iTBxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1484",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270208-ae73093d/"
-  },
-  {
-   "id": "86cfa80415577e11d66b215423a0e8d1",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "OAX",
-   "destination_name": "Oaxaca de Juárez",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 3311.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-27T18:54:00-06:00",
-   "return_at": "",
-   "duration": 68,
-   "link": "https://www.aviasales.com/search/MEX2712OAX1?t=VB17983976401798401720000068NLUOAX_86cfa80415577e11d66b215423a0e8d1_14458&search_date=25102026&expected_price_uuid=01a1743a-3296-8030-a056-199a85091977&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=gbNcgTAB5mV20RCb8mRp9w&expected_price_source=share&expected_price_currency=mxn&expected_price=3311",
-   "title": "Flight deals from Mexico City to Oaxaca",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261227-86cfa804/"
   },
   {
    "id": "d3158d42604de6ab09551260314bf709",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0912DXB1?t=AF17968575001796963400001165MEXCDGDXB_24a55e810a926eeffad984de542e2ed3_72109&search_date=25102026&expected_price_uuid=01a17556-d656-8031-682d-afffe04cdcb2&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=16796",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261209-24a55e81/"
+  },
+  {
+   "id": "3156f5471540e5aa653c2d6218d2ad74",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SGN",
+   "destination_name": "Ciudad Ho Chi Minh",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 18630.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-16T22:15:00-06:00",
+   "return_at": "",
+   "duration": 1615,
+   "link": "https://www.aviasales.com/search/MEX1602SGN1?t=AM18028161001802959800001615MEXNRTSGN_3156f5471540e5aa653c2d6218d2ad74_79981&search_date=25102026&expected_price_uuid=01a1755c-ff8a-8030-e513-061f7f4b441e&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=iH7neK0CN4t5T3gpx8X8SA&expected_price_source=share&expected_price_currency=mxn&expected_price=18630",
+   "title": "Flight deals from Mexico City to Ho Chi Minh City",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-ho-chi-minh-20270216-3156f547/"
   }
  ]
 }

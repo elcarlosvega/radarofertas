@@ -1,6 +1,6 @@
 {
- "generated_at": 1793070310.7285368,
- "generated_at_str": "26/10/2026 21:05",
+ "generated_at": 1793073916.3226962,
+ "generated_at_str": "26/10/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -14419,26 +14419,6 @@
    "h_min7": 6999.0
   },
   {
-   "id": "704310",
-   "name": "Montbrook Home, Shara, Reclinable",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Shara-Reclinable/p/704310",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/h28/435741567287326.jpg",
-   "category": "Muebles",
-   "price_old": 8999.0,
-   "price_new": 7499.0,
-   "pct": 16.7,
-   "amount": 1500.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-02T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 90,
-   "h_min": 6999.0,
-   "h_ayer": 6999.0,
-   "h_min7": 6999.0,
-   "h_min90": 6999.0
-  },
-  {
    "id": "690382",
    "name": "SGR by Schecter Guitarra Eléctrica C-1 FR Nogal Satinado",
    "url": "https://www.costco.com.mx/Electronicos/Instrumentos-Musicales/Instrumentos-de-Cuerda/SGR-by-Schecter-Guitarra-Electrica-C-1-FR-Nogal-Satinado/p/690382",
@@ -15963,6 +15943,25 @@
    "h_ayer": 31999.0,
    "h_min7": 31999.0,
    "h_min90": 30999.0
+  },
+  {
+   "id": "704966",
+   "name": "DELL DC15250 Laptop 15.6\" FHD Intel Core i5-1334U 8GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-DC15250-Laptop-156-FHD-Intel-Core-i5-1334U-8GB-512GB-SSD/p/704966",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h72/h8a/484393962668062.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 14799.0,
+   "price_new": 12799.0,
+   "pct": 13.5,
+   "amount": 2000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-10-31T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 54,
+   "h_min": 10499.0,
+   "h_ayer": 11999.0,
+   "h_min7": 11999.0
   },
   {
    "id": "687343",

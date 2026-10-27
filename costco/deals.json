@@ -1,6 +1,6 @@
 {
- "generated_at": 1793127891.1358902,
- "generated_at_str": "27/10/2026 13:04",
+ "generated_at": 1793131513.5147765,
+ "generated_at_str": "27/10/2026 14:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1524,6 +1524,25 @@
    "h_min": 2999.0,
    "h_ayer": 2999.0,
    "h_min7": 2999.0
+  },
+  {
+   "id": "1740698",
+   "name": "Core Set para Campismo",
+   "url": "https://www.costco.com.mx/Deportes/Campismo/Casas-de-Campana/Core-Set-para-Campismo/p/1740698",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h97/296509231562782.jpg",
+   "category": "Deportes",
+   "price_old": 3499.0,
+   "price_new": 2499.0,
+   "pct": 28.6,
+   "amount": 1000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 74,
+   "h_min": 2499.0,
+   "h_ayer": 2499.0,
+   "h_min7": 2499.0
   },
   {
    "id": "1760095",
@@ -3535,25 +3554,6 @@
    "h_min": 4124.25,
    "h_ayer": 4124.25,
    "h_min7": 4124.25
-  },
-  {
-   "id": "750302",
-   "name": "Carolina Herrera Her 0326 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Carolina-Herrera-Her-0326-Armazon-Oftalmico/p/750302",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/h5a/449966751580190.jpg",
-   "category": "Optica",
-   "price_old": 4999.0,
-   "price_new": 3749.25,
-   "pct": 25.0,
-   "amount": 1249.75,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-11-16T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792393520.9946861,
-   "h_dias": 85,
-   "h_min": 3749.25,
-   "h_ayer": 3749.25,
-   "h_min7": 3749.25
   },
   {
    "id": "750320",

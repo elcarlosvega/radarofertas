@@ -1,6 +1,6 @@
 {
- "generated_at": 1793066720.3810186,
- "generated_at_str": "26/10/2026 20:05",
+ "generated_at": 1793070310.7285368,
+ "generated_at_str": "26/10/2026 21:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9417,25 +9417,6 @@
    "h_min7": 1124.25
   },
   {
-   "id": "681056",
-   "name": "Stella Rosa Rosso Vino Tinto 6/750 ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Stella-Rosa-Rosso-Vino-Tinto-6750-ml/p/681056",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h92/hec/240483260727326.jpg",
-   "category": "Vinos",
-   "price_old": 1399.0,
-   "price_new": 1049.25,
-   "pct": 25.0,
-   "amount": 349.75,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-11-16T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792393520.9946861,
-   "h_dias": 7,
-   "h_min": 1049.0,
-   "h_ayer": 1049.25,
-   "h_min7": 1049.25
-  },
-  {
    "id": "678056",
    "name": "Kipling 0KP3159K635 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Kipling-0KP3159K635-Armazon-Oftalmico/p/678056",
@@ -14685,6 +14666,24 @@
    "h_min7": 10199.0
   },
   {
+   "id": "704314",
+   "name": "Montbrook Home, Grecia, Sofá Convertible con Otomano",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Montbrook-Home-Grecia-Sofa-Convertible-con-Otomano/p/704314",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hdc/h8b/435741576790046.jpg",
+   "category": "Muebles",
+   "price_old": 24999.0,
+   "price_new": 20999.0,
+   "pct": 16.0,
+   "amount": 4000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 49,
+   "h_min": 20999.0,
+   "h_min7": 20999.0
+  },
+  {
    "id": "641534",
    "name": "Rheem, Calentador de Agua Instantáneo 25L/min - Gas Natural",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Instalaciones-del-Hogar/Calentadores-de-Agua/Rheem-Calentador-de-Agua-Instantaneo-25Lmin-Gas-Natural/p/641534",
@@ -15964,25 +15963,6 @@
    "h_ayer": 31999.0,
    "h_min7": 31999.0,
    "h_min90": 30999.0
-  },
-  {
-   "id": "704966",
-   "name": "DELL DC15250 Laptop 15.6\" FHD Intel Core i5-1334U 8GB 512GB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-DC15250-Laptop-156-FHD-Intel-Core-i5-1334U-8GB-512GB-SSD/p/704966",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h72/h8a/484393962668062.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 14799.0,
-   "price_new": 12799.0,
-   "pct": 13.5,
-   "amount": 2000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-10-31T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 54,
-   "h_min": 10499.0,
-   "h_ayer": 11999.0,
-   "h_min7": 11999.0
   },
   {
    "id": "687343",

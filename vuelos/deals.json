@@ -1,6 +1,6 @@
 {
- "generated_at": 1793145843.8025172,
- "generated_at_str": "27/10/2026 18:04",
+ "generated_at": 1793149443.6041563,
+ "generated_at_str": "27/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-cancun-20261205-04cdafe1/"
   },
   {
+   "id": "0bfb5c1014483399669e8357e6427077",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BOG",
+   "destination_name": "Bogotá",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 2519.0,
+   "currency": "MXN",
+   "departure_at": "2026-10-28T19:22:00-06:00",
+   "return_at": "",
+   "duration": 278,
+   "link": "https://www.aviasales.com/search/MEX2810BOG1?t=VB17932153201793235600000278NLUBOG_0bfb5c1014483399669e8357e6427077_10864&search_date=27102026&expected_price_uuid=01a17f3e-e5dd-8040-60d3-640041bd633e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FZDJdx-TfESuWuvWem5uAA&expected_price_source=share&expected_price_currency=mxn&expected_price=2519",
+   "title": "Flight deals from Mexico City to Bogota",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261028-0bfb5c10/"
+  },
+  {
    "id": "f3d4014e90c5a78243a8d28a6cefd632",
    "kind": "flight",
    "origin": "MEX",
@@ -208,26 +228,6 @@
    "link": "https://www.aviasales.com/search/MTY0501SEL1?t=AM17991915001799302200000945MTYICN_f1b6f3cc4a3339981af2eee2a01628f5_61883&search_date=27102026&expected_price_uuid=01a17eee-772d-8030-a7bb-56d4d7b6aff3&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=6HN-jJPVU9Bn4pvn1LbPCg&expected_price_source=share&expected_price_currency=mxn&expected_price=14349",
    "title": "Flight deals from Monterrey to Seoul",
    "micro": "/oferta/vuelos/vuelo-monterrey-seul-20270105-f1b6f3cc/"
-  },
-  {
-   "id": "cca51887176541f08f143cdb6a1a1589",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 15919.0,
-   "currency": "MXN",
-   "departure_at": "2027-05-11T16:55:00-05:00",
-   "return_at": "",
-   "duration": 1010,
-   "link": "https://www.aviasales.com/search/MEX1105IST1?t=AM18100545001810147500001010MEXCDGIST_cca51887176541f08f143cdb6a1a1589_68656&search_date=27102026&expected_price_uuid=01a17e81-d607-8031-29bf-80b9043a0b94&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=TllNt1CgO1rwMKeYG3n3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=15919",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270511-cca51887/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1793142243.5197294,
- "generated_at_str": "27/10/2026 17:04",
+ "generated_at": 1793145843.8025172,
+ "generated_at_str": "27/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "da0f4b36cfe43146ceec4b78f53f248e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MTY",
+   "destination_name": "Monterrey",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 411.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-14T07:59:00-06:00",
+   "return_at": "",
+   "duration": 225,
+   "link": "https://www.aviasales.com/search/MEX1401MTY1?t=Y417999135401799927040000225TLCGDLMTY_da0f4b36cfe43146ceec4b78f53f248e_1773&search_date=27102026&expected_price_uuid=01a17f46-bb43-8040-2dba-d5aae0dd6807&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aZ1y7TlMqoVyUJlBdL5SPg&expected_price_source=share&expected_price_currency=mxn&expected_price=411",
+   "title": "Flight deals from Mexico City to Monterrey",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20270114-da0f4b36/"
+  },
   {
    "id": "58092586ba93c66d157533c092a24747",
    "kind": "flight",
@@ -28,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX1012TIJ1?t=Y417969447401796950080000209NLUTIJ_58092586ba93c66d157533c092a24747_2900&search_date=27102026&expected_price_uuid=01a17f4b-0a8d-8040-a330-75b965bf4796&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Dw0tOyqyGWzR5l6GMAjJ0w&expected_price_source=share&expected_price_currency=mxn&expected_price=672",
    "title": "Flight deals from Mexico City to Tijuana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261210-58092586/"
-  },
-  {
-   "id": "e1eb366d4d9b4bbc6330d6d938e7676b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 747.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-12T06:03:00-06:00",
-   "return_at": "",
-   "duration": 103,
-   "link": "https://www.aviasales.com/search/MEX1201MID1?t=Y417997337801799739960000103NLUMID_e1eb366d4d9b4bbc6330d6d938e7676b_3223&search_date=27102026&expected_price_uuid=01a17f46-09d6-8040-6a8c-9764431fbdda&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fogc0YNAfwJYYieZMajHag&expected_price_source=share&expected_price_currency=mxn&expected_price=747",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20270112-e1eb366d/"
   },
   {
    "id": "7bc000368891101b9ea5ff8974cb9ade",
@@ -70,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20270119-7bc00036/"
   },
   {
-   "id": "e3fa99174106f25a5b4414bba78bf1ba",
+   "id": "967ca2ae83833c8958f03c9b63e67119",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -82,12 +82,12 @@
    "logo_tipo": "lockup",
    "price": 1408.0,
    "currency": "MXN",
-   "departure_at": "2027-02-21T18:50:00-06:00",
+   "departure_at": "2027-02-28T18:50:00-06:00",
    "return_at": "",
    "duration": 140,
-   "link": "https://www.aviasales.com/search/MEX2102LAP1?t=VB18032358001803240600000140NLULAP_e3fa99174106f25a5b4414bba78bf1ba_6074&search_date=27102026&expected_price_uuid=01a17f26-8c1e-8040-a8a3-25c8831dbf70&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=y0-rjX2p7Ja4_-K_9RwMnw&expected_price_source=share&expected_price_currency=mxn&expected_price=1408",
+   "link": "https://www.aviasales.com/search/MEX2802LAP1?t=VB18038406001803845400000140NLULAP_967ca2ae83833c8958f03c9b63e67119_6074&search_date=27102026&expected_price_uuid=01a17fa7-f145-8030-23d9-133ac3ae6c5f&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=y0-rjX2p7Ja4_-K_9RwMnw&expected_price_source=share&expected_price_currency=mxn&expected_price=1408",
    "title": "Flight deals from Mexico City to La Paz",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270221-e3fa9917/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270228-967ca2ae/"
   },
   {
    "id": "04cdafe1a587ce5324634d5e4390ef33",

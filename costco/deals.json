@@ -1,6 +1,6 @@
 {
- "generated_at": 1793156736.3706663,
- "generated_at_str": "27/10/2026 21:05",
+ "generated_at": 1793160304.4572155,
+ "generated_at_str": "27/10/2026 22:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -8825,25 +8825,6 @@
    "name": "Nourella Crema Revitalizante 50 ml",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-Crema-Revitalizante-50-ml/p/695712",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hb5/h7b/382305852522526.jpg",
-   "category": "Salud y Belleza",
-   "price_old": 1549.0,
-   "price_new": 1161.75,
-   "pct": 25.0,
-   "amount": 387.25,
-   "starts": "2026-10-19T06:00:00.000Z",
-   "ends": "2026-11-16T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792393520.9946861,
-   "h_dias": 36,
-   "h_min": 1161.75,
-   "h_ayer": 1161.75,
-   "h_min7": 1161.75
-  },
-  {
-   "id": "695711",
-   "name": "Nourella 60 Tabletas",
-   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-60-Tabletas/p/695711",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0d/hc9/382305852227614.jpg",
    "category": "Salud y Belleza",
    "price_old": 1549.0,
    "price_new": 1161.75,
@@ -19255,6 +19236,25 @@
    "h_ayer": 16999.0
   },
   {
+   "id": "695258",
+   "name": "Thor Kitchen Cava de Vinos",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Thor-Kitchen-Cava-de-Vinos/p/695258",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfe/hbc/363894917857310.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 62999.0,
+   "price_new": 57999.0,
+   "pct": 7.9,
+   "amount": 5000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 48,
+   "h_min": 48999.0,
+   "h_ayer": 57999.0,
+   "h_min7": 57999.0
+  },
+  {
    "id": "695259",
    "name": "Thor Kitchen Centro de Bebidas y Vinos",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Thor-Kitchen-Centro-de-Bebidas-y-Vinos/p/695259",
@@ -19531,6 +19531,25 @@
    "h_min": 29999.0,
    "h_ayer": 30999.0,
    "h_min7": 30999.0
+  },
+  {
+   "id": "694480",
+   "name": "Bertazzoni Estufa de Gas 5 Quemadores 91 cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Bertazzoni-Estufa-de-Gas-5-Quemadores-91-cm/p/694480",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3f/he6/363624468742174.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 99999.0,
+   "price_new": 93999.0,
+   "pct": 6.0,
+   "amount": 6000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 74,
+   "h_min": 72999.0,
+   "h_ayer": 93999.0,
+   "h_min7": 93999.0
   },
   {
    "id": "1506395",

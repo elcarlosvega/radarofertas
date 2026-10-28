@@ -1,6 +1,6 @@
 {
- "generated_at": 1793196311.7578325,
- "generated_at_str": "28/10/2026 08:05",
+ "generated_at": 1793199893.5931132,
+ "generated_at_str": "28/10/2026 09:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -518,7 +518,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 68,
    "h_min": 3499.0,
    "h_min7": 3699.0
@@ -1000,7 +1000,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 60,
    "h_min": 1599.0,
    "h_min7": 1899.0
@@ -1018,7 +1018,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 60,
    "h_min": 1599.0,
    "h_min7": 1899.0
@@ -1209,7 +1209,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 56,
    "h_min": 5299.0,
    "h_ayer": 5299.0,
@@ -1228,7 +1228,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 55,
    "h_min": 5299.0,
    "h_ayer": 5299.0,
@@ -1955,7 +1955,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 41,
    "h_min": 3899.0,
    "h_min7": 4199.0
@@ -1973,7 +1973,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 39,
    "h_min": 3899.0,
    "h_min7": 4199.0
@@ -2513,6 +2513,24 @@
    "h_min7": 15999.0
   },
   {
+   "id": "648391",
+   "name": "Samsung Galaxy Watch Ultra 2 47mm Negro",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-2-47mm-Negro/p/648391",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd1/h8d/503791101214750.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 11499.0,
+   "price_new": 8499.0,
+   "pct": 26.1,
+   "amount": 3000.0,
+   "starts": "2026-10-28T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793199893.5931132,
+   "h_dias": 35,
+   "h_min": 8499.0,
+   "h_min7": 8499.0
+  },
+  {
    "id": "648392",
    "name": "Samsung Galaxy Watch Ultra 2 47mm Plata",
    "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-Ultra-2-47mm-Plata/p/648392",
@@ -2525,7 +2543,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 46,
    "h_min": 8499.0,
    "h_min7": 8499.0
@@ -3085,6 +3103,25 @@
    "h_min": 18099.0,
    "h_ayer": 20999.0,
    "h_min7": 20999.0
+  },
+  {
+   "id": "664483",
+   "name": "LG Lavavajillas 60cm 15 Servicios de Empotre",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/LG-Lavavajillas-60cm-15-Servicios-de-Empotre/p/664483",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/hd9/167324986638366.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 21999.0,
+   "price_new": 16499.0,
+   "pct": 25.0,
+   "amount": 5500.0,
+   "starts": "2026-10-28T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793199893.5931132,
+   "h_dias": 91,
+   "h_min": 15199.0,
+   "h_min7": 15999.0,
+   "h_min90": 15199.0
   },
   {
    "id": "1694813",
@@ -10098,7 +10135,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 52,
    "h_min": 12799.0,
    "h_ayer": 16499.0,
@@ -10525,7 +10562,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 76,
    "h_min": 11999.0,
    "h_ayer": 12999.0,
@@ -11005,7 +11042,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 1,
    "h_min": 5199.0
   },
@@ -14004,7 +14041,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 1,
    "h_min": 7999.0
   },
@@ -16345,7 +16382,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 36,
    "h_min": 73999.0,
    "h_min7": 76999.0
@@ -18866,7 +18903,7 @@
    "starts": "2026-10-28T06:00:00.000Z",
    "ends": "2026-11-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793196311.7578325,
+   "first_seen": 1793196320.7154746,
    "h_dias": 66,
    "h_min": 12999.0,
    "h_min7": 13499.0

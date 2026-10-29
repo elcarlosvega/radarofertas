@@ -1,6 +1,6 @@
 {
- "generated_at": 1793293465.0731533,
- "generated_at_str": "29/10/2026 11:04",
+ "generated_at": 1793297043.756193,
+ "generated_at_str": "29/10/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "af30eb816373a3ad4147957827a074b9",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 677.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-10T07:30:00-06:00",
+   "return_at": "",
+   "duration": 208,
+   "link": "https://www.aviasales.com/search/MEX1012TIJ1?t=Y417968878001796893080000208TLCTIJ_af30eb816373a3ad4147957827a074b9_2901&search_date=29102026&expected_price_uuid=01a1880b-40b4-8040-ab80-1cd440159a53&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VJZ0tpprHbZ-qTtaLQh8CQ&expected_price_source=share&expected_price_currency=mxn&expected_price=677",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261210-af30eb81/"
+  },
   {
    "id": "b20890b949e653cd9c50a8dbd1171837",
    "kind": "flight",
@@ -48,26 +68,6 @@
    "link": "https://www.aviasales.com/search/MEX1201MID1?t=Y417997337801799739960000103NLUMID_e1eb366d4d9b4bbc6330d6d938e7676b_3304&search_date=29102026&expected_price_uuid=01a18806-90e7-8040-a4e6-4452c5138fee&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Fogc0YNAfwJYYieZMajHag&expected_price_source=share&expected_price_currency=mxn&expected_price=771",
    "title": "Flight deals from Mexico City to Merida",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20270112-e1eb366d/"
-  },
-  {
-   "id": "af30eb816373a3ad4147957827a074b9",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 783.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-10T07:30:00-06:00",
-   "return_at": "",
-   "duration": 208,
-   "link": "https://www.aviasales.com/search/MEX1012TIJ1?t=Y417968878001796893080000208TLCTIJ_af30eb816373a3ad4147957827a074b9_3356&search_date=29102026&expected_price_uuid=01a18751-9601-8030-6ec9-dd8aa42b8e99&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VJZ0tpprHbZ-qTtaLQh8CQ&expected_price_source=share&expected_price_currency=mxn&expected_price=783",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261210-af30eb81/"
   },
   {
    "id": "155e4e0be19464e0419e16023e05e0e9",

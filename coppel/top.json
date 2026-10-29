@@ -1,7 +1,7 @@
 {
- "generated_at": 1793250658.8363104,
- "generated_at_str": "28/10/2026 23:10",
- "total": 4336,
+ "generated_at": 1793254424.0087042,
+ "generated_at_str": "29/10/2026 00:13",
+ "total": 4322,
  "deals": [
   {
    "id": "74624608",
@@ -35,6 +35,17 @@
    "pct": 55.9,
    "amount": 38000.0,
    "url": "https://www.coppel.com/pdp/centro-de-lavado-lg-wk22ws6p-22-kg-blanco-pm-6694913"
+  },
+  {
+   "id": "639273",
+   "name": "Horno de Microondas Campana Whirlpool 1.9 Pies WMHA9019HZ Plateado",
+   "img": "https://cdn5.coppel.com/pm/6392733-1.jpg",
+   "category": "Electrodomesticos",
+   "price_new": 13999.0,
+   "price_old": 33199.0,
+   "pct": 57.8,
+   "amount": 19200.0,
+   "url": "https://www.coppel.com/pdp/horno-de-microondas-campana-whirlpool-19-pies-wmha9019hz-plateado-pm-6392733"
   },
   {
    "id": "660906",
@@ -114,26 +125,15 @@
    "url": "https://www.coppel.com/pdp/bocina-bluetooth-klipsch-groove-xl-40-w-resistente-al-agua-pm-2627073"
   },
   {
-   "id": "748940995",
-   "name": "Lavadora LG AI DD con Ciclo Pet Care Carga Frontal 16 kg",
-   "img": "https://cdn5.coppel.com/mkp/748940995-1.jpg",
-   "category": "Lavadoras",
-   "price_new": 14999.0,
-   "price_old": 33999.0,
-   "pct": 55.9,
-   "amount": 19000.0,
-   "url": "https://www.coppel.com/pdp/lavadora-lg-ai-dd-con-ciclo-pet-care-carga-frontal-16-kg-mkp-748940995"
-  },
-  {
-   "id": "254518",
-   "name": "Pantalla Smart TV Samsung LED 98 Pulgadas Crystal UHD 4K DU9000",
-   "img": "https://cdn5.coppel.com/pm/2545183-1.jpg",
-   "category": "Pantallas",
-   "price_new": 36999.0,
-   "price_old": 76999.0,
-   "pct": 51.9,
-   "amount": 40000.0,
-   "url": "https://www.coppel.com/pdp/pantalla-smart-tv-samsung-led-98-pulgadas-crystal-uhd-4k-du9000-pm-2545183"
+   "id": "747282601",
+   "name": "Soundcore By Anker Q20i Audífonos Inalámbricos Diadema Con Cancelación Activa De Ruido  Bluetooth  Sonido Hi-res  Bajos Potentes",
+   "img": "https://cdn5.coppel.com/mkp/747282601-1.jpg",
+   "category": "PC Gaming",
+   "price_new": 1599.0,
+   "price_old": 4999.0,
+   "pct": 68.0,
+   "amount": 3400.0,
+   "url": "https://www.coppel.com/pdp/soundcore-by-anker-q20i-audifonos-inalambricos-diadema-con-cancelacion-activa-de-ruido-bluetooth-sonido-hi-res-bajos-potentes-mkp-747282601"
   }
  ]
 }

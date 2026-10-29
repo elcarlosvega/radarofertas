@@ -1,6 +1,6 @@
 {
- "generated_at": 1793261105.0463037,
- "generated_at_str": "29/10/2026 02:05",
+ "generated_at": 1793286323.1345325,
+ "generated_at_str": "29/10/2026 09:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2692,25 +2692,6 @@
    "h_min": 1999.0,
    "h_ayer": 1999.0,
    "h_min7": 1999.0
-  },
-  {
-   "id": "470974",
-   "name": "Kirkland Signature Nature's Domain Alimento para Perro con Salmón y Camote 15.87kg",
-   "url": "https://www.costco.com.mx/Mascotas/Alimentos-y-Premios/Kirkland-Signature-Natures-Domain-Alimento-para-Perro-con-Salmon-y-Camote-1587kg/p/470974",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h9f/11052626771998.jpg",
-   "category": "Mascotas",
-   "price_old": 1199.0,
-   "price_new": 889.0,
-   "pct": 25.9,
-   "amount": 310.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-03T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 51,
-   "h_min": 829.0,
-   "h_ayer": 889.0,
-   "h_min7": 889.0
   },
   {
    "id": "701879",
@@ -8188,25 +8169,6 @@
    "in_stock": true,
    "first_seen": 1792393520.9946861,
    "h_dias": 55,
-   "h_min": 1499.25,
-   "h_ayer": 1499.25,
-   "h_min7": 1499.25
-  },
-  {
-   "id": "741123",
-   "name": "Steve Madden VSD.05074.0SLV.56 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD050740SLV56-Armazon-Oftalmico/p/741123",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h70/hde/434737888985118.jpg",
-   "category": "Optica",
-   "price_old": 1999.0,
-   "price_new": 1499.25,
-   "pct": 25.0,
-   "amount": 499.75,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 61,
    "h_min": 1499.25,
    "h_ayer": 1499.25,
    "h_min7": 1499.25
@@ -14589,6 +14551,25 @@
    "h_min7": 14999.0
   },
   {
+   "id": "704300",
+   "name": "Homelegance, Driggs, Sofá Cama Ajustable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Homelegance-Driggs-Sofa-Cama-Ajustable/p/704300",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/he2/435741541531678.jpg",
+   "category": "Muebles",
+   "price_old": 17999.0,
+   "price_new": 14999.0,
+   "pct": 16.7,
+   "amount": 3000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 52,
+   "h_min": 14999.0,
+   "h_ayer": 14999.0,
+   "h_min7": 14999.0
+  },
+  {
    "id": "685850",
    "name": "Luuna Base Eléctrica Rise Individual Beige",
    "url": "https://www.costco.com.mx/Muebles/Recamara/Bases-de-Cama/Luuna-Base-Electrica-Rise-Individual-Beige/p/685850",
@@ -14780,6 +14761,26 @@
    "h_min": 6999.0,
    "h_ayer": 7499.0,
    "h_min7": 6999.0
+  },
+  {
+   "id": "704310",
+   "name": "Montbrook Home, Shara, Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Shara-Reclinable/p/704310",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h42/h28/435741567287326.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 7499.0,
+   "pct": 16.7,
+   "amount": 1500.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 93,
+   "h_min": 6999.0,
+   "h_ayer": 7499.0,
+   "h_min7": 6999.0,
+   "h_min90": 6999.0
   },
   {
    "id": "690382",
@@ -15455,6 +15456,25 @@
    "h_min": 29999.0,
    "h_ayer": 33999.0,
    "h_min7": 33999.0
+  },
+  {
+   "id": "704308",
+   "name": "Montbrook Home, Saturno, Set de Sala",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofas/Montbrook-Home-Saturno-Set-de-Sala/p/704308",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc2/h7b/435741559619614.jpg",
+   "category": "Muebles",
+   "price_old": 29999.0,
+   "price_new": 25499.0,
+   "pct": 15.0,
+   "amount": 4500.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 64,
+   "h_min": 24999.0,
+   "h_ayer": 25499.0,
+   "h_min7": 25499.0
   },
   {
    "id": "687769",
@@ -18078,6 +18098,23 @@
    "h_min": 11899.0,
    "h_ayer": 12499.0,
    "h_min7": 12499.0
+  },
+  {
+   "id": "706285",
+   "name": "Nintendo Switch 2 Bundle: EA Sports FC27",
+   "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Bundle-EA-Sports-FC27/p/706285",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hed/ha5/509690091995166.jpg",
+   "category": "Electronicos",
+   "price_old": 13999.0,
+   "price_new": 12499.0,
+   "pct": 10.7,
+   "amount": 1500.0,
+   "starts": "2026-10-13T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793286323.1345325,
+   "h_dias": 1,
+   "h_min": 12499.0
   },
   {
    "id": "693460",

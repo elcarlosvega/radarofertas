@@ -1,6 +1,6 @@
 {
- "generated_at": 1793228644.0658011,
- "generated_at_str": "28/10/2026 17:04",
+ "generated_at": 1793232244.92263,
+ "generated_at_str": "28/10/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX1312GDL1?t=Y417971435801797148200000077NLUGDL_0ee4e65fb423b4bade0d1517d16ecade_4266&search_date=28102026&expected_price_uuid=01a184a6-6349-8040-a592-5a1c39df65a1&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=NZeUKCj3JLDGxR0q8FWs2A&expected_price_source=share&expected_price_currency=mxn&expected_price=988",
    "title": "Flight deals from Mexico City to Guadalajara",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20261213-0ee4e65f/"
+  },
+  {
+   "id": "a99926d92665f81f13e37551fd08ba2b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MID",
+   "destination_name": "Mérida",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1375.0,
+   "currency": "MXN",
+   "departure_at": "2027-03-29T06:00:00-06:00",
+   "return_at": "",
+   "duration": 102,
+   "link": "https://www.aviasales.com/search/MEX2903MID1?t=VB18063000001806306120000102NLUMID_a99926d92665f81f13e37551fd08ba2b_5938&search_date=28102026&expected_price_uuid=01a184ca-3cd5-8031-6bcc-3365b7163a21&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=F8xCgpIKHGRfVuutX97TQw&expected_price_source=share&expected_price_currency=mxn&expected_price=1375",
+   "title": "Flight deals from Mexico City to Merida",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20270329-a99926d9/"
   },
   {
    "id": "414e006583bfa2c6590188c132d03bf4",
@@ -130,26 +150,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261110-0ecff8e0/"
   },
   {
-   "id": "eabc2bd9924476f4a0a7214b4e0c1538",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOS",
-   "destination_name": "Boston",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 4895.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-01T19:50:00-06:00",
-   "return_at": "",
-   "duration": 560,
-   "link": "https://www.aviasales.com/search/MEX0102BOS1?t=Y418015114001801548600000560MEXGDLBOS_eabc2bd9924476f4a0a7214b4e0c1538_21146&search_date=28102026&expected_price_uuid=01a183b2-cc91-8040-a9b5-4333d46fa500&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=T1MocWrg9K3X35Cn8TLCpg&expected_price_source=share&expected_price_currency=mxn&expected_price=4895",
-   "title": "Flight deals from Mexico City to Boston",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-boston-20270201-eabc2bd9/"
-  },
-  {
    "id": "365cee654c0587985e7e1a816155c774",
    "kind": "flight",
    "origin": "MEX",
@@ -190,26 +190,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261224-15c2dfe1/"
   },
   {
-   "id": "c74b49978ed812b2d9c73876452c6dfe",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PAR",
-   "destination_name": "París",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11180.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-17T22:05:00-06:00",
-   "return_at": "",
-   "duration": 900,
-   "link": "https://www.aviasales.com/search/MEX1711PAR1?t=AM17949531001795032300000900MEXMADORY_c74b49978ed812b2d9c73876452c6dfe_48293&search_date=28102026&expected_price_uuid=01a18416-0cea-8030-2130-0557c2e8d39c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=APVx10NWEbVYg-quJvI49Q&expected_price_source=share&expected_price_currency=mxn&expected_price=11180",
-   "title": "Flight deals from Mexico City to Paris",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261117-c74b4997/"
-  },
-  {
    "id": "24a55e810a926eeffad984de542e2ed3",
    "kind": "flight",
    "origin": "MEX",
@@ -228,6 +208,26 @@
    "link": "https://www.aviasales.com/search/MEX0912DXB1?t=AF17968575001796963400001165MEXCDGDXB_24a55e810a926eeffad984de542e2ed3_67754&search_date=28102026&expected_price_uuid=01a18419-e1bd-8040-ad79-2c88f852bb98&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=15686",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261209-24a55e81/"
+  },
+  {
+   "id": "6fd8ae5d14f7ab6c17bfe5cb6ee0ce3e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 15902.0,
+   "currency": "MXN",
+   "departure_at": "2027-05-09T16:55:00-05:00",
+   "return_at": "",
+   "duration": 1130,
+   "link": "https://www.aviasales.com/search/MEX0905IST1?t=AM18098817001809981900001130MEXCDGIST_6fd8ae5d14f7ab6c17bfe5cb6ee0ce3e_68687&search_date=28102026&expected_price_uuid=01a184cf-4b1e-8031-2db4-49937fc3fe25&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=xDO6X518zzJnnxf4AtbbwQ&expected_price_source=share&expected_price_currency=mxn&expected_price=15902",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270509-6fd8ae5d/"
   },
   {
    "id": "641540bacac4f5856f5f6a7d92fddbe7",

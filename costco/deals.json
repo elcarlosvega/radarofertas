@@ -1,6 +1,6 @@
 {
- "generated_at": 1793347511.2870197,
- "generated_at_str": "30/10/2026 02:05",
+ "generated_at": 1793351094.9411323,
+ "generated_at_str": "30/10/2026 03:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -141,6 +141,25 @@
    "h_ayer": 10999.0,
    "h_min7": 10999.0,
    "h_min90": 10499.0
+  },
+  {
+   "id": "688592",
+   "name": "Apple AirPods 4 con Cancelación Activa de Ruido",
+   "url": "https://www.costco.com.mx/Electronicos/Apple/Audio-Apple/Apple-AirPods-4-con-Cancelacion-Activa-de-Ruido/p/688592",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h17/h3a/275426356264990.jpg",
+   "category": "Electronicos",
+   "price_old": 4199.0,
+   "price_new": 2899.0,
+   "pct": 31.0,
+   "amount": 1300.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-23T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 11,
+   "h_min": 2899.0,
+   "h_ayer": 2899.0,
+   "h_min7": 2899.0
   },
   {
    "id": "682703",
@@ -2677,25 +2696,6 @@
    "h_ayer": 31999.0,
    "h_min7": 31999.0,
    "h_min90": 31999.0
-  },
-  {
-   "id": "693671",
-   "name": "TCL Pantalla 55\" QLED 4K Google TV 55Q6K",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/TCL-Pantalla-55-QLED-4K-Google-TV-55Q6K/p/693671",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h65/h33/507724386304030.jpg",
-   "category": "Electronicos",
-   "price_old": 8999.0,
-   "price_new": 6699.0,
-   "pct": 25.6,
-   "amount": 2300.0,
-   "starts": "2026-10-01T06:00:00.000Z",
-   "ends": "2026-11-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1791097512.7489524,
-   "h_dias": 18,
-   "h_min": 5699.0,
-   "h_ayer": 6699.0,
-   "h_min7": 6699.0
   },
   {
    "id": "683653",

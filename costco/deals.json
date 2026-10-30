@@ -1,6 +1,6 @@
 {
- "generated_at": 1793394307.866163,
- "generated_at_str": "30/10/2026 15:05",
+ "generated_at": 1793397897.7853572,
+ "generated_at_str": "30/10/2026 16:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -655,7 +655,7 @@
    "starts": "2026-10-26T06:00:00.000Z",
    "ends": "2026-11-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793394307.866163,
+   "first_seen": 1793394317.9978483,
    "h_dias": 66,
    "h_min": 13899.0,
    "h_min7": 13999.0
@@ -11261,7 +11261,7 @@
    "starts": "2026-10-26T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793394307.866163,
+   "first_seen": 1793394317.9978483,
    "h_dias": 65,
    "h_min": 9999.0,
    "h_min7": 10599.0
@@ -12299,7 +12299,7 @@
    "starts": "2026-10-26T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793394307.866163,
+   "first_seen": 1793394317.9978483,
    "h_dias": 31,
    "h_min": 22399.0,
    "h_min7": 23999.0
@@ -14241,7 +14241,7 @@
    "starts": "2026-10-26T06:00:00.000Z",
    "ends": "2026-11-02T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793394307.866163,
+   "first_seen": 1793394317.9978483,
    "h_dias": 83,
    "h_min": 25999.0,
    "h_min7": 25999.0
@@ -14688,6 +14688,25 @@
    "h_ayer": 7499.0,
    "h_min7": 6999.0,
    "h_min90": 6999.0
+  },
+  {
+   "id": "687773",
+   "name": "Montbrook Home, Foster, Sillón Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Foster-Sillon-Reclinable/p/687773",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h37/hc2/261719122935838.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 7499.0,
+   "pct": 16.7,
+   "amount": 1500.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 82,
+   "h_min": 6999.0,
+   "h_ayer": 7499.0,
+   "h_min7": 6999.0
   },
   {
    "id": "687775",
@@ -17969,6 +17988,25 @@
    "h_min7": 12299.0
   },
   {
+   "id": "685720",
+   "name": "Violanti, Sofá Cama De Tres Plazas y Taburete",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama-De-Tres-Plazas-y-Taburete/p/685720",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h89/h60/436931002007582.jpg",
+   "category": "Muebles",
+   "price_old": 18499.0,
+   "price_new": 16499.0,
+   "pct": 10.8,
+   "amount": 2000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 59,
+   "h_min": 14999.0,
+   "h_ayer": 16499.0,
+   "h_min7": 16499.0
+  },
+  {
    "id": "702817",
    "name": "Samsung Galaxy S26+ 512GB Negro",
    "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S26-512GB-Negro/p/702817",
@@ -19189,25 +19227,6 @@
    "h_ayer": 14999.0
   },
   {
-   "id": "1844998",
-   "name": "Anillo de Eternidad, 1.50ctw Diamantes, Oro Blanco de 14K",
-   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Anillos/Anillos-de-Diamantes/Anillo-de-Eternidad-150ctw-Diamantes-Oro-Blanco-de-14K/p/1844998",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h92/ha6/295155588956190.jpg",
-   "category": "Joyeria y Relojes",
-   "price_old": 44999.0,
-   "price_new": 40999.0,
-   "pct": 8.9,
-   "amount": 4000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 27,
-   "h_min": 39999.0,
-   "h_ayer": 40999.0,
-   "h_min7": 40999.0
-  },
-  {
    "id": "1845004",
    "name": "Anillo de Eternidad, 1.50ctw Diamantes, Oro Amarillo de 14K",
    "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Anillos/Anillos-de-Diamantes/Anillo-de-Eternidad-150ctw-Diamantes-Oro-Amarillo-de-14K/p/1845004",
@@ -19281,6 +19300,25 @@
    "h_min": 32999.0,
    "h_ayer": 32999.0,
    "h_min7": 32999.0
+  },
+  {
+   "id": "1995615",
+   "name": "Pulsera Bolo de Diamantes 0.50ctw, Oro Blanco 14K",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Diamantes/Pulsera-Bolo-de-Diamantes-050ctw-Oro-Blanco-14K/p/1995615",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd9/hde/413478284066846.jpg",
+   "category": "Joyeria y Relojes",
+   "price_old": 29999.0,
+   "price_new": 27499.0,
+   "pct": 8.3,
+   "amount": 2500.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 11,
+   "h_min": 27499.0,
+   "h_ayer": 27499.0,
+   "h_min7": 27499.0
   },
   {
    "id": "1880763",

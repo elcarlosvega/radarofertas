@@ -1,6 +1,6 @@
 {
- "generated_at": 1793333043.5292346,
- "generated_at_str": "29/10/2026 22:04",
+ "generated_at": 1793336643.3844936,
+ "generated_at_str": "29/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,6 +30,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20261107-4b3fb5fd/"
   },
   {
+   "id": "9e56ed74a5d2fe4374ec76db99c12c6f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "VER",
+   "destination_name": "Veracruz",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1165.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-04T18:58:00-06:00",
+   "return_at": "",
+   "duration": 67,
+   "link": "https://www.aviasales.com/search/MEX0411VER1?t=VB17938186801793822700000067NLUVER_9e56ed74a5d2fe4374ec76db99c12c6f_5014&search_date=30102026&expected_price_uuid=01a18b24-776b-8031-68c7-d05c4e383d6f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=OeSANFpX_G36WRsMGw3adw&expected_price_source=share&expected_price_currency=mxn&expected_price=1165",
+   "title": "Flight deals from Mexico City to Veracruz",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-veracruz-20261104-9e56ed74/"
+  },
+  {
    "id": "fff580b8bfbbeca1178f2d2561c83c58",
    "kind": "flight",
    "origin": "MEX",
@@ -50,7 +70,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20270112-fff580b8/"
   },
   {
-   "id": "0f48c49df563be09a8c256b8e4a618fa",
+   "id": "2d92a6f9ca8b434826ca2ce0c927055d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +80,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1537.0,
+   "price": 1721.0,
    "currency": "MXN",
-   "departure_at": "2026-12-05T17:42:00-06:00",
+   "departure_at": "2026-11-28T20:45:00-06:00",
    "return_at": "",
-   "duration": 133,
-   "link": "https://www.aviasales.com/search/MEX0512CUN1?t=VB17964925201796504100000133TLCCUN_0f48c49df563be09a8c256b8e4a618fa_6621&search_date=29102026&expected_price_uuid=01a189dc-5d7a-8030-698d-c83eba066ec9&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=bFhvq8tY2kGzLRLq_iTBxQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1537",
+   "duration": 130,
+   "link": "https://www.aviasales.com/search/MEX2811CUN1?t=VB17958987001795910100000130NLUCUN_2d92a6f9ca8b434826ca2ce0c927055d_7406&search_date=30102026&expected_price_uuid=01a18a26-0b03-8030-a658-728a301aba47&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=9Ct1haZKcdlkqkvHBlNrcQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1721",
    "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261205-0f48c49d/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261128-2d92a6f9/"
   },
   {
    "id": "b693e90544fd3118529289baa595f959",
@@ -80,12 +100,12 @@
    "airline_title": "United Airlines",
    "logo": "https://pics.avs.io/600/150/UA.png",
    "logo_tipo": "",
-   "price": 4426.0,
+   "price": 4427.0,
    "currency": "MXN",
    "departure_at": "2026-11-10T09:05:00-06:00",
    "return_at": "",
    "duration": 383,
-   "link": "https://www.aviasales.com/search/MEX1011EGE1?t=UA17943015001794320880000383MEXDENEGE_b693e90544fd3118529289baa595f959_19049&search_date=30102026&expected_price_uuid=01a18ad0-54b9-8040-a555-3a76a272ca9c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2HGsZu_aNIYp5EUUzQ6XHw&expected_price_source=share&expected_price_currency=mxn&expected_price=4426",
+   "link": "https://www.aviasales.com/search/MEX1011EGE1?t=UA17943015001794320880000383MEXDENEGE_b693e90544fd3118529289baa595f959_19049&search_date=30102026&expected_price_uuid=01a18ad0-54b9-8040-a555-3a76a272ca9c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2HGsZu_aNIYp5EUUzQ6XHw&expected_price_source=share&expected_price_currency=mxn&expected_price=4427",
    "title": "Flight deals from Mexico City to Vail",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-vail-20261110-b693e905/"
   },
@@ -128,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX0412SCL1?t=Y417964216001796619900003125MEXLIMSCL_68676fd5cd7644462e7f9618ed0fee79_39157&search_date=29102026&expected_price_uuid=01a189fe-99af-8031-6085-efb3772d8591&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=zv7HN5W2NIUyqR-P8kidFQ&expected_price_source=share&expected_price_currency=mxn&expected_price=9090",
    "title": "Flight deals from Mexico City to Santiago",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20261204-68676fd5/"
-  },
-  {
-   "id": "1df390ea396c01d1b3cc801d2dcca64a",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BEG",
-   "destination_name": "Belgrado",
-   "airline": "FI",
-   "airline_title": "Icelandair",
-   "logo": "https://pics.avs.io/600/150/FI.png",
-   "logo_tipo": "",
-   "price": 9195.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-25T11:10:00-06:00",
-   "return_at": "",
-   "duration": 1660,
-   "link": "https://www.aviasales.com/search/MEX2501BEG1?t=FI18008754001801000200001660MEXMCOKEFARNNYOBEG_1df390ea396c01d1b3cc801d2dcca64a_39607&search_date=29102026&expected_price_uuid=01a189c4-cbb2-8030-646a-019513e4e61f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_AF7J-TF-b-qgBJbSJMT7A&expected_price_source=share&expected_price_currency=mxn&expected_price=9195",
-   "title": "Flight deals from Mexico City to Belgrade",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270125-1df390ea/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

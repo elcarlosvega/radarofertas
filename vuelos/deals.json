@@ -1,6 +1,6 @@
 {
- "generated_at": 1793329443.5828657,
- "generated_at_str": "29/10/2026 21:04",
+ "generated_at": 1793333043.5292346,
+ "generated_at_str": "29/10/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,6 +70,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261205-0f48c49d/"
   },
   {
+   "id": "b693e90544fd3118529289baa595f959",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "EGE",
+   "destination_name": "Vail",
+   "airline": "UA",
+   "airline_title": "United Airlines",
+   "logo": "https://pics.avs.io/600/150/UA.png",
+   "logo_tipo": "",
+   "price": 4426.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-10T09:05:00-06:00",
+   "return_at": "",
+   "duration": 383,
+   "link": "https://www.aviasales.com/search/MEX1011EGE1?t=UA17943015001794320880000383MEXDENEGE_b693e90544fd3118529289baa595f959_19049&search_date=30102026&expected_price_uuid=01a18ad0-54b9-8040-a555-3a76a272ca9c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2HGsZu_aNIYp5EUUzQ6XHw&expected_price_source=share&expected_price_currency=mxn&expected_price=4426",
+   "title": "Flight deals from Mexico City to Vail",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-vail-20261110-b693e905/"
+  },
+  {
    "id": "d76ee82ef3eb0e0d22fead37afd202d8",
    "kind": "flight",
    "origin": "MEX",
@@ -128,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX2501BEG1?t=FI18008754001801000200001660MEXMCOKEFARNNYOBEG_1df390ea396c01d1b3cc801d2dcca64a_39607&search_date=29102026&expected_price_uuid=01a189c4-cbb2-8030-646a-019513e4e61f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_AF7J-TF-b-qgBJbSJMT7A&expected_price_source=share&expected_price_currency=mxn&expected_price=9195",
    "title": "Flight deals from Mexico City to Belgrade",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20270125-1df390ea/"
-  },
-  {
-   "id": "173889db4fa98fe49a2517654131d339",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 9195.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-19T22:05:00-06:00",
-   "return_at": "",
-   "duration": 635,
-   "link": "https://www.aviasales.com/search/MEX1911MAD1?t=AM17951259001795189200000635MEXMAD_173889db4fa98fe49a2517654131d339_39607&search_date=29102026&expected_price_uuid=01a1896f-18ef-8030-e94d-4c1598ddc211&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=9195",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261119-173889db/"
   },
   {
    "id": "1bedf0077badf334d5c1c3157c122e1e",

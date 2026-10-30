@@ -1,6 +1,6 @@
 {
- "generated_at": 1793390697.5853734,
- "generated_at_str": "30/10/2026 14:04",
+ "generated_at": 1793394307.866163,
+ "generated_at_str": "30/10/2026 15:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -641,6 +641,24 @@
    "h_ayer": 13999.0,
    "h_min7": 13999.0,
    "h_min90": 13999.0
+  },
+  {
+   "id": "687739",
+   "name": "Hisense Refrigerador Comercial 9'",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-Comercial-9/p/687739",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h41/hd3/260888201166878.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 19999.0,
+   "price_new": 13999.0,
+   "pct": 30.0,
+   "amount": 6000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-03T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793394307.866163,
+   "h_dias": 66,
+   "h_min": 13899.0,
+   "h_min7": 13999.0
   },
   {
    "id": "702950",
@@ -11231,6 +11249,24 @@
    "h_min90": 54999.0
   },
   {
+   "id": "696201",
+   "name": "GE Lavadora 24Kg Carga Superior",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-24Kg-Carga-Superior/p/696201",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/h34/504702933139486.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13599.0,
+   "price_new": 10599.0,
+   "pct": 22.1,
+   "amount": 3000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793394307.866163,
+   "h_dias": 65,
+   "h_min": 9999.0,
+   "h_min7": 10599.0
+  },
+  {
    "id": "705211",
    "name": "Smeg Combo de Campana 90 cm + Parrilla de Gas de 5 Quemadores de 86 cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Combos/Smeg-Combo-de-Campana-90-cm-Parrilla-de-Gas-de-5-Quemadores-de-86-cm/p/705211",
@@ -11405,6 +11441,24 @@
    "h_min7": 8999.0
   },
   {
+   "id": "686594",
+   "name": "Teka Cava de Vinos 32 Botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Teka-Cava-de-Vinos-32-Botellas/p/686594",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/h56/367064890736670.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 11499.0,
+   "price_new": 8999.0,
+   "pct": 21.7,
+   "amount": 2500.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 50,
+   "h_min": 7999.0,
+   "h_min7": 8999.0
+  },
+  {
    "id": "1105923",
    "name": "Sauna Infrarrojo Dynamic Vittoria Low EMF, 2 Personas",
    "url": "https://www.costco.com.mx/Hogar-y-Bano/Saunas-y-Spa/Saunas/Sauna-Infrarrojo-Dynamic-Vittoria-Low-EMF-2-Personas/p/1105923",
@@ -11477,25 +11531,6 @@
    "first_seen": 1793001911.86595,
    "h_dias": 78,
    "h_min": 19999.0,
-   "h_ayer": 21999.0,
-   "h_min7": 21999.0
-  },
-  {
-   "id": "668825",
-   "name": "Samsung Lavasecadora Eléctrica 22Kg/13Kg con Pedestal",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-Electrica-22Kg13Kg-con-Pedestal/p/668825",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0d/h4e/504676862492702.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 27999.0,
-   "price_new": 21999.0,
-   "pct": 21.4,
-   "amount": 6000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-02T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 85,
-   "h_min": 21499.0,
    "h_ayer": 21999.0,
    "h_min7": 21999.0
   },
@@ -12249,6 +12284,24 @@
    "h_dias": 86,
    "h_min": 22999.0,
    "h_ayer": 23999.0,
+   "h_min7": 23999.0
+  },
+  {
+   "id": "686527",
+   "name": "Teka Campana de Isla 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Campana-de-Isla-90cm/p/686527",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hd3/255868080259102.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 23999.0,
+   "pct": 20.0,
+   "amount": 6000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793394307.866163,
+   "h_dias": 31,
+   "h_min": 22399.0,
    "h_min7": 23999.0
   },
   {
@@ -14176,6 +14229,24 @@
    "h_min7": 74999.0
   },
   {
+   "id": "692489",
+   "name": "Samsung Combo de Lavado de Gas 28Kg/24Kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-28Kg24Kg/p/692489",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h75/h81/364485069078558.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 35999.0,
+   "price_new": 29999.0,
+   "pct": 16.7,
+   "amount": 6000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793394307.866163,
+   "h_dias": 83,
+   "h_min": 25999.0,
+   "h_min7": 25999.0
+  },
+  {
    "id": "686592",
    "name": "Teka Estufa de Gas de Piso de 90cm con 5 Quemadores",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Estufa-de-Gas-de-Piso-de-90cm-con-5-Quemadores/p/686592",
@@ -14617,25 +14688,6 @@
    "h_ayer": 7499.0,
    "h_min7": 6999.0,
    "h_min90": 6999.0
-  },
-  {
-   "id": "687773",
-   "name": "Montbrook Home, Foster, Sillón Reclinable",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Foster-Sillon-Reclinable/p/687773",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h37/hc2/261719122935838.jpg",
-   "category": "Muebles",
-   "price_old": 8999.0,
-   "price_new": 7499.0,
-   "pct": 16.7,
-   "amount": 1500.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-02T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 82,
-   "h_min": 6999.0,
-   "h_ayer": 7499.0,
-   "h_min7": 6999.0
   },
   {
    "id": "687775",
@@ -16786,6 +16838,24 @@
    "h_min7": 21499.0
   },
   {
+   "id": "705220",
+   "name": "Maytag Estufa Eléctrica de Piso de 76cm con 5 Quemadores",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Maytag-Estufa-Electrica-de-Piso-de-76cm-con-5-Quemadores/p/705220",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h12/h3f/507429134041118.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24499.0,
+   "price_new": 21499.0,
+   "pct": 12.2,
+   "amount": 3000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 27,
+   "h_min": 20499.0,
+   "h_min7": 21499.0
+  },
+  {
    "id": "705046",
    "name": "HP All-In-One OmniStudio 24-cu0051la Desktop 23.8\" Full HD Intel Core 5 120U 8GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Desktop/HP-All-In-One-OmniStudio-24-cu0051la-Desktop-238-Full-HD-Intel-Core-5-120U-8GB-512GB-SSD/p/705046",
@@ -17897,25 +17967,6 @@
    "h_min": 11999.0,
    "h_ayer": 12299.0,
    "h_min7": 12299.0
-  },
-  {
-   "id": "685720",
-   "name": "Violanti, Sofá Cama De Tres Plazas y Taburete",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Violanti-Sofa-Cama-De-Tres-Plazas-y-Taburete/p/685720",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h89/h60/436931002007582.jpg",
-   "category": "Muebles",
-   "price_old": 18499.0,
-   "price_new": 16499.0,
-   "pct": 10.8,
-   "amount": 2000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 59,
-   "h_min": 14999.0,
-   "h_ayer": 16499.0,
-   "h_min7": 16499.0
   },
   {
    "id": "702817",
@@ -19230,25 +19281,6 @@
    "h_min": 32999.0,
    "h_ayer": 32999.0,
    "h_min7": 32999.0
-  },
-  {
-   "id": "1995615",
-   "name": "Pulsera Bolo de Diamantes 0.50ctw, Oro Blanco 14K",
-   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Diamantes/Pulsera-Bolo-de-Diamantes-050ctw-Oro-Blanco-14K/p/1995615",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd9/hde/413478284066846.jpg",
-   "category": "Joyeria y Relojes",
-   "price_old": 29999.0,
-   "price_new": 27499.0,
-   "pct": 8.3,
-   "amount": 2500.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 11,
-   "h_min": 27499.0,
-   "h_ayer": 27499.0,
-   "h_min7": 27499.0
   },
   {
    "id": "1880763",

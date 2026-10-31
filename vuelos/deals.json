@@ -1,6 +1,6 @@
 {
- "generated_at": 1793451843.8567905,
- "generated_at_str": "31/10/2026 07:04",
+ "generated_at": 1793455444.1295407,
+ "generated_at_str": "31/10/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,6 +28,26 @@
    "link": "https://www.aviasales.com/search/MEX0401ACA1?t=VB17990877001799091180000058NLUACA_7ab2393df2de04f31e9c915b26a625d8_6424&search_date=31102026&expected_price_uuid=01a191ba-66b9-8031-2376-a9edccd6bb92&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=KoKc1s9_98vEUX0bbKbxzA&expected_price_source=share&expected_price_currency=mxn&expected_price=1503",
    "title": "Flight deals from Mexico City to Acapulco",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20270104-7ab2393d/"
+  },
+  {
+   "id": "a6e1921e087ae84dfdaa7829e811a462",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TQO",
+   "destination_name": "Municipio de Tulum",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1716.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T13:25:00-06:00",
+   "return_at": "",
+   "duration": 115,
+   "link": "https://www.aviasales.com/search/MEX0212TQO1?t=VB17962179001796228400000115NLUTQO_a6e1921e087ae84dfdaa7829e811a462_7335&search_date=31102026&expected_price_uuid=01a1920a-d4db-8030-a407-6ee7ba22b496&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1716",
+   "title": "Flight deals from Mexico City to Tulum",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261202-a6e1921e/"
   },
   {
    "id": "6d8ef9e8ca0dee14e0f6657a7dd5c39a",
@@ -90,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261224-15c2dfe1/"
   },
   {
+   "id": "f776a3570a46e4b521a85b39f96653c4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MSP",
+   "destination_name": "Minneapolis",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 6575.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-10T08:00:00-06:00",
+   "return_at": "",
+   "duration": 964,
+   "link": "https://www.aviasales.com/search/MEX1011MSP1?t=Y417942976001794355440000964MEXDENMSP_f776a3570a46e4b521a85b39f96653c4_28106&search_date=31102026&expected_price_uuid=01a19228-1084-8030-6c2c-0cedbb2c938c&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ClGuV0YvUPp6hPaVdTRVsg&expected_price_source=share&expected_price_currency=mxn&expected_price=6575",
+   "title": "Flight deals from Mexico City to Minneapolis",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minneapolis-20261110-f776a357/"
+  },
+  {
    "id": "f45d59b2c0b6c51feb9c037267a19a9e",
    "kind": "flight",
    "origin": "MEX",
@@ -110,26 +150,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20270120-f45d59b2/"
   },
   {
-   "id": "bcb873f4a7221396e32bdd4b98728bff",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "DE",
-   "airline_title": "Condor",
-   "logo": "https://pics.avs.io/600/150/DE.png",
-   "logo_tipo": "",
-   "price": 13808.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-16T12:09:00-06:00",
-   "return_at": "",
-   "duration": 1501,
-   "link": "https://www.aviasales.com/search/MEX1611IST1?t=DE17948309401794953400001501NLUSJDFRASAW_bcb873f4a7221396e32bdd4b98728bff_59024&search_date=31102026&expected_price_uuid=01a191c0-ded9-8031-2f74-8093531c76ae&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=LaYGaOIUbrC76mMKQwaPaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13808",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261116-bcb873f4/"
-  },
-  {
    "id": "1f4ed0cab713c56703ebddb04e1432eb",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001245001800252600001235MEXMTYICN_1f4ed0cab713c56703ebddb04e1432eb_59916&search_date=31102026&expected_price_uuid=01a191c2-22f7-8031-62ad-140e22299871&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=-SaBHcsN9BDDAN2daIPNkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14017",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-1f4ed0ca/"
+  },
+  {
+   "id": "a8d59681c95753596afc0bf0869d22cf",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21408.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T22:05:00-06:00",
+   "return_at": "",
+   "duration": 1045,
+   "link": "https://www.aviasales.com/search/MEX0212IST1?t=AM17962491001796344200001045MEXCDGIST_a8d59681c95753596afc0bf0869d22cf_91506&search_date=31102026&expected_price_uuid=01a1920a-c462-8030-ed92-4788b7f2601c&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=21408",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261202-a8d59681/"
   }
  ]
 }

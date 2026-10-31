@@ -54,10 +54,10 @@
    "micro_pages": 29
   },
   "elektra": {
-   "last_attempt": 1793415842.0422313,
+   "last_attempt": 1793419442.0048902,
    "items": 0,
    "status": "down",
-   "reason": "HTTP Error 403: Forbidden",
+   "reason": "HTTP Error 500: Internal Server Error",
    "host": "pc",
    "last_complete_sweep": 1790053442.3631513,
    "micro_pages": 9
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1793419467.57931
+ "updated_at": 1793419475.2232683
 }

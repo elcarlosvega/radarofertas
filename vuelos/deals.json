@@ -1,6 +1,6 @@
 {
- "generated_at": 1793405043.0240397,
- "generated_at_str": "30/10/2026 18:04",
+ "generated_at": 1793408642.9727273,
+ "generated_at_str": "30/10/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "967ca2ae83833c8958f03c9b63e67119",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAP",
+   "destination_name": "La Paz",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1038.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-28T18:50:00-06:00",
+   "return_at": "",
+   "duration": 140,
+   "link": "https://www.aviasales.com/search/MEX2802LAP1?t=VB18038406001803845400000140NLULAP_967ca2ae83833c8958f03c9b63e67119_4439&search_date=30102026&expected_price_uuid=01a18f1f-693a-8030-e424-24141ee02f1e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=y0-rjX2p7Ja4_-K_9RwMnw&expected_price_source=share&expected_price_currency=mxn&expected_price=1038",
+   "title": "Flight deals from Mexico City to La Paz",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270228-967ca2ae/"
+  },
   {
    "id": "e0bdccc232ad3c32b36b081ce0ae1a37",
    "kind": "flight",
@@ -40,12 +60,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1990.0,
+   "price": 1549.0,
    "currency": "MXN",
    "departure_at": "2026-11-08T19:15:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX0811CUN1?t=VB17941653001794176700000130NLUCUN_7c0664fa21b74c3de766fdadfc958729_8546&search_date=30102026&expected_price_uuid=01a18e8f-c551-8040-af98-15cc41e313fa&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=XPv8G1otmH3hTxPBI7qd6w&expected_price_source=share&expected_price_currency=mxn&expected_price=1990",
+   "link": "https://www.aviasales.com/search/MEX0811CUN1?t=VB17941653001794176700000130NLUCUN_7c0664fa21b74c3de766fdadfc958729_6621&search_date=31102026&expected_price_uuid=01a18f44-aa37-8040-2d53-2043e298f482&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XPv8G1otmH3hTxPBI7qd6w&expected_price_source=share&expected_price_currency=mxn&expected_price=1549",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261108-7c0664fa/"
   },
@@ -108,26 +128,6 @@
    "link": "https://www.aviasales.com/search/MEX0302SDQ1?t=DM18016976401801720140000255NLUSDQ_b81fcbc5d6d795dfa24981a015fb3e5f_17461&search_date=30102026&expected_price_uuid=01a18f1c-013f-8030-216f-bea227702ed4&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=4084",
    "title": "Flight deals from Mexico City to Santo Domingo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270203-b81fcbc5/"
-  },
-  {
-   "id": "f193ea2bed7878eb988cefca56c3df9c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BUE",
-   "destination_name": "Buenos Aires",
-   "airline": "LA",
-   "airline_title": "LATAM Airlines Group",
-   "logo": "https://pics.avs.io/600/150/LA.png",
-   "logo_tipo": "",
-   "price": 5711.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-03T19:50:00-06:00",
-   "return_at": "",
-   "duration": 710,
-   "link": "https://www.aviasales.com/search/MEX0301BUE1?t=LA17990058001799059200000710MEXSCLEZE_f193ea2bed7878eb988cefca56c3df9c_24522&search_date=30102026&expected_price_uuid=01a18e1f-db55-8030-ec5a-a31db17b6e86&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=5711",
-   "title": "Flight deals from Mexico City to Buenos Aires",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270103-f193ea2b/"
   },
   {
    "id": "9e45cd131e893a939f5bf9335d22220f",

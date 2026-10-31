@@ -1,6 +1,6 @@
 {
- "generated_at": 1793455444.1295407,
- "generated_at_str": "31/10/2026 08:04",
+ "generated_at": 1793459044.0097296,
+ "generated_at_str": "31/10/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261109-e09211bb/"
   },
   {
+   "id": "86c97266ff3d7f63fb7af729b7441635",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PUJ",
+   "destination_name": "Punta Cana",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 4005.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-31T12:02:00-06:00",
+   "return_at": "",
+   "duration": 264,
+   "link": "https://www.aviasales.com/search/MEX3101PUJ1?t=DM18013969201801419960000264NLUPUJ_86c97266ff3d7f63fb7af729b7441635_17118&search_date=31102026&expected_price_uuid=01a19269-bb29-8030-abaa-677bb4fd0c73&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=lLsfXwfX4R777nci1cJuhw&expected_price_source=share&expected_price_currency=mxn&expected_price=4005",
+   "title": "Flight deals from Mexico City to Punta Cana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20270131-86c97266/"
+  },
+  {
    "id": "15c2dfe1308c4802d01380863085c0a5",
    "kind": "flight",
    "origin": "MEX",
@@ -130,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minneapolis-20261110-f776a357/"
   },
   {
-   "id": "f45d59b2c0b6c51feb9c037267a19a9e",
+   "id": "2eb4b23d7706929449d12f065ac05819",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "EVN",
-   "destination_name": "Ereván",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
+   "destination": "RIO",
+   "destination_name": "Río de Janeiro",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
    "logo_tipo": "",
-   "price": 10107.0,
+   "price": 8906.0,
    "currency": "MXN",
-   "departure_at": "2027-01-20T01:15:00-06:00",
+   "departure_at": "2026-11-19T09:10:00-06:00",
    "return_at": "",
-   "duration": 2175,
-   "link": "https://www.aviasales.com/search/MEX2001EVN1?t=WS18004077001800574200002175MEXYYCCDGBVAEVN_f45d59b2c0b6c51feb9c037267a19a9e_43201&search_date=31102026&expected_price_uuid=01a191f1-7da9-8030-e752-f26fd36c1685&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=o7SJzkk_mhxVuYrOSC9C6A&expected_price_source=share&expected_price_currency=mxn&expected_price=10107",
-   "title": "Flight deals from Mexico City to Yerevan",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20270120-f45d59b2/"
+   "duration": 740,
+   "link": "https://www.aviasales.com/search/MEX1911RIO1?t=CM17950794001795134600000740MEXPTYGIG_2eb4b23d7706929449d12f065ac05819_38069&search_date=31102026&expected_price_uuid=01a1923c-19b4-8030-e4fd-ca49f8019230&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AsYzJAzlYBgEIwezq5afKQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8906",
+   "title": "Flight deals from Mexico City to Rio de Janeiro",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-rio-de-janeiro-20261119-2eb4b23d/"
   },
   {
    "id": "1f4ed0cab713c56703ebddb04e1432eb",

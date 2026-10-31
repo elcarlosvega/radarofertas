@@ -1,6 +1,6 @@
 {
- "generated_at": 1793412242.985911,
- "generated_at_str": "30/10/2026 20:04",
+ "generated_at": 1793415843.4730072,
+ "generated_at_str": "30/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270203-b81fcbc5/"
   },
   {
+   "id": "c74b49978ed812b2d9c73876452c6dfe",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PAR",
+   "destination_name": "París",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 11408.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-17T22:05:00-06:00",
+   "return_at": "",
+   "duration": 900,
+   "link": "https://www.aviasales.com/search/MEX1711PAR1?t=AM17949531001795032300000900MEXMADORY_c74b49978ed812b2d9c73876452c6dfe_48777&search_date=30102026&expected_price_uuid=01a18f13-a8e2-8030-2cfa-d7ea426506d7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=APVx10NWEbVYg-quJvI49Q&expected_price_source=share&expected_price_currency=mxn&expected_price=11408",
+   "title": "Flight deals from Mexico City to Paris",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261117-c74b4997/"
+  },
+  {
    "id": "9e45cd131e893a939f5bf9335d22220f",
    "kind": "flight",
    "origin": "MEX",
@@ -188,26 +208,6 @@
    "link": "https://www.aviasales.com/search/MEX0912DXB1?t=AF17968575001796963400001165MEXCDGDXB_24a55e810a926eeffad984de542e2ed3_70718&search_date=30102026&expected_price_uuid=01a18f21-357c-8030-ace2-4d240833c0af&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=16539",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261209-24a55e81/"
-  },
-  {
-   "id": "438bbde34c5b37738cb53e323f4a361b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "EVN",
-   "destination_name": "Ereván",
-   "airline": "LH",
-   "airline_title": "Lufthansa",
-   "logo": "https://pics.avs.io/600/150/LH.png",
-   "logo_tipo": "",
-   "price": 21696.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-10T21:00:00-06:00",
-   "return_at": "",
-   "duration": 1065,
-   "link": "https://www.aviasales.com/search/MEX1012EVN1?t=LH17969364001797036300001065MEXFRAEVN_438bbde34c5b37738cb53e323f4a361b_93164&search_date=30102026&expected_price_uuid=01a18e67-ebd3-8031-2721-0c5b6dd43024&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zN0Vq_Xxc7Tjt_4hJ_h_Zg&expected_price_source=share&expected_price_currency=mxn&expected_price=21696",
-   "title": "Flight deals from Mexico City to Yerevan",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-erevan-20261210-438bbde3/"
   }
  ]
 }

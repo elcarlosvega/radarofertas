@@ -1,6 +1,6 @@
 {
- "generated_at": 1793430243.6432412,
- "generated_at_str": "31/10/2026 01:04",
+ "generated_at": 1793433843.7311065,
+ "generated_at_str": "31/10/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "f1f35a89081538734daabeb60e9c4fd7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
-   "logo_tipo": "",
-   "price": 10561.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-10T01:15:00-06:00",
-   "return_at": "",
-   "duration": 3340,
-   "link": "https://www.aviasales.com/search/MEX1011IST1?t=WS17942733001794506100003340MEXYYCFCOSAW_f1f35a89081538734daabeb60e9c4fd7_45141&search_date=31102026&expected_price_uuid=01a18f89-9c9d-8031-6e39-b50c9d8c1d1a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_7vGT6J2Z3FS7qA1S6sTJg&expected_price_source=share&expected_price_currency=mxn&expected_price=10561",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261110-f1f35a89/"
-  },
   {
    "id": "d33a0f3d235d635fd750a110b41b679f",
    "kind": "flight",

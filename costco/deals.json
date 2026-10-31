@@ -1,6 +1,6 @@
 {
- "generated_at": 1793469899.4766634,
- "generated_at_str": "31/10/2026 12:04",
+ "generated_at": 1793473509.5911639,
+ "generated_at_str": "31/10/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -10523,6 +10523,24 @@
    "h_min7": 6499.0
   },
   {
+   "id": "696881",
+   "name": "MSI Cyborg 15 Laptop Gaming 15.6\" FHD NVIDIA GeForce 5060 AMD Ryzen 7 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/MSI-Cyborg-15-Laptop-Gaming-156-FHD-NVIDIA-GeForce-5060-AMD-Ryzen-7-16GB-1TB-SSD/p/696881",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hbe/hea/438164196360222.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 38499.0,
+   "price_new": 29499.0,
+   "pct": 23.4,
+   "amount": 9000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-02T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793473509.5911639,
+   "h_dias": 88,
+   "h_min": 26499.0,
+   "h_min7": 29499.0
+  },
+  {
    "id": "702769",
    "name": "TCL Pantalla 85\" Miniled 4K Fire TV 85QM64L",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/TCL-Pantalla-85-Miniled-4K-Fire-TV-85QM64L/p/702769",
@@ -15863,6 +15881,25 @@
    "h_min": 7799.0,
    "h_ayer": 9399.0,
    "h_min7": 9099.0
+  },
+  {
+   "id": "648154",
+   "name": "Sony Pantalla 98\" BRAVIA 7 RGB 4K Google TV K-98XR70M2 UCM",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Sony-Pantalla-98-BRAVIA-7-RGB-4K-Google-TV-K-98XR70M2-UCM/p/648154",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfc/hed/490070518071326.jpg",
+   "category": "Electronicos",
+   "price_old": 104999.0,
+   "price_new": 89999.0,
+   "pct": 14.3,
+   "amount": 15000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 76,
+   "h_min": 89999.0,
+   "h_ayer": 89999.0,
+   "h_min7": 89999.0
   },
   {
    "id": "690361",

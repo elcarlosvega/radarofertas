@@ -1,6 +1,6 @@
 {
- "generated_at": 1793415843.4730072,
- "generated_at_str": "30/10/2026 21:04",
+ "generated_at": 1793419443.3247185,
+ "generated_at_str": "30/10/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270203-b81fcbc5/"
   },
   {
+   "id": "bcb8f1c4df10cd4589a329cc3d1a9dd6",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MAD",
+   "destination_name": "Ciudad de Madrid",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 9007.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-20T22:05:00-06:00",
+   "return_at": "",
+   "duration": 635,
+   "link": "https://www.aviasales.com/search/MEX2011MAD1?t=AM17952123001795275600000635MEXMAD_bcb8f1c4df10cd4589a329cc3d1a9dd6_38497&search_date=31102026&expected_price_uuid=01a18f49-0834-8031-60f9-5ca0c8cd192d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=9007",
+   "title": "Flight deals from Mexico City to Madrid",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261120-bcb8f1c4/"
+  },
+  {
    "id": "c74b49978ed812b2d9c73876452c6dfe",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX1711PAR1?t=AM17949531001795032300000900MEXMADORY_c74b49978ed812b2d9c73876452c6dfe_48777&search_date=30102026&expected_price_uuid=01a18f13-a8e2-8030-2cfa-d7ea426506d7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=APVx10NWEbVYg-quJvI49Q&expected_price_source=share&expected_price_currency=mxn&expected_price=11408",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261117-c74b4997/"
-  },
-  {
-   "id": "9e45cd131e893a939f5bf9335d22220f",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "RMO",
-   "destination_name": "Chişinău",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 11592.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T21:25:00-06:00",
-   "return_at": "",
-   "duration": 2205,
-   "link": "https://www.aviasales.com/search/MEX0112RMO1?t=AM17961603001796321400002205MEXAMSBERRMO_9e45cd131e893a939f5bf9335d22220f_49759&search_date=30102026&expected_price_uuid=01a18ecf-0cf2-8040-a760-d884df47855d&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=_DNqrKjWl3t7Jm8j0CfKjA&expected_price_source=share&expected_price_currency=mxn&expected_price=11592",
-   "title": "Flight deals from Mexico City to Chisinau",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chisinau-20261201-9e45cd13/"
   },
   {
    "id": "aca7a5604fe5526e7b1187b650f35a78",

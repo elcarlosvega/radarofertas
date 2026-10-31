@@ -1,6 +1,6 @@
 {
- "generated_at": 1793473443.9850466,
- "generated_at_str": "31/10/2026 13:04",
+ "generated_at": 1793477043.548235,
+ "generated_at_str": "31/10/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20261210-76214d92/"
   },
   {
-   "id": "a6e1921e087ae84dfdaa7829e811a462",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TQO",
-   "destination_name": "Municipio de Tulum",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1716.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-02T13:25:00-06:00",
-   "return_at": "",
-   "duration": 115,
-   "link": "https://www.aviasales.com/search/MEX0212TQO1?t=VB17962179001796228400000115NLUTQO_a6e1921e087ae84dfdaa7829e811a462_7335&search_date=31102026&expected_price_uuid=01a1920a-d4db-8030-a407-6ee7ba22b496&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=-216nzJ0h6SXambdQJsy1Q&expected_price_source=share&expected_price_currency=mxn&expected_price=1716",
-   "title": "Flight deals from Mexico City to Tulum",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261202-a6e1921e/"
-  },
-  {
    "id": "be697c5cad56f0c4c6f676ade72dc30d",
    "kind": "flight",
    "origin": "MEX",
@@ -130,6 +110,46 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20270131-86c97266/"
   },
   {
+   "id": "d7dfd7ac06fce8d4e99939248ae88423",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 4227.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-10T17:18:00-06:00",
+   "return_at": "",
+   "duration": 402,
+   "link": "https://www.aviasales.com/search/MEX1011LAX1?t=VB17943310801794348000000402NLUGDLLAX_d7dfd7ac06fce8d4e99939248ae88423_18068&search_date=31102026&expected_price_uuid=01a1937d-a004-8031-6322-ef37ef49a485&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Jz7myxnbZNBo5SQBnsMIQA&expected_price_source=share&expected_price_currency=mxn&expected_price=4227",
+   "title": "Flight deals from Mexico City to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261110-d7dfd7ac/"
+  },
+  {
+   "id": "e0dd9715195fc5e7f63ab0d9aeac73d7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BUE",
+   "destination_name": "Buenos Aires",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 5711.0,
+   "currency": "MXN",
+   "departure_at": "2027-04-01T10:06:00-06:00",
+   "return_at": "",
+   "duration": 834,
+   "link": "https://www.aviasales.com/search/MEX0104BUE1?t=DM18065739601806634800000834NLUPUJEZE_e0dd9715195fc5e7f63ab0d9aeac73d7_24412&search_date=31102026&expected_price_uuid=01a1936f-ed9e-8040-2084-90e8766f5f77&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i02S781PSCO3bCoW1Qu3xQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5711",
+   "title": "Flight deals from Mexico City to Buenos Aires",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270401-e0dd9715/"
+  },
+  {
    "id": "2722a8f561f2092f15dc20f25c544a75",
    "kind": "flight",
    "origin": "MEX",
@@ -150,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270126-2722a8f5/"
   },
   {
-   "id": "2eb4b23d7706929449d12f065ac05819",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "RIO",
-   "destination_name": "Río de Janeiro",
-   "airline": "CM",
-   "airline_title": "Copa Airlines",
-   "logo": "https://pics.avs.io/600/150/CM.png",
-   "logo_tipo": "",
-   "price": 8906.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-19T09:10:00-06:00",
-   "return_at": "",
-   "duration": 740,
-   "link": "https://www.aviasales.com/search/MEX1911RIO1?t=CM17950794001795134600000740MEXPTYGIG_2eb4b23d7706929449d12f065ac05819_38069&search_date=31102026&expected_price_uuid=01a1923c-19b4-8030-e4fd-ca49f8019230&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AsYzJAzlYBgEIwezq5afKQ&expected_price_source=share&expected_price_currency=mxn&expected_price=8906",
-   "title": "Flight deals from Mexico City to Rio de Janeiro",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-rio-de-janeiro-20261119-2eb4b23d/"
-  },
-  {
    "id": "d7e32917a2f32722bc282257aa057ad4",
    "kind": "flight",
    "origin": "MEX",
@@ -188,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX0611IST1?t=DE17939669401794164700002756NLUSJDFRAZRHSAW_d7e32917a2f32722bc282257aa057ad4_43240&search_date=31102026&expected_price_uuid=01a192be-9900-8040-ae4a-cbdafffb3f5b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cRnPm7eNz1ywHerYAl79wQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10116",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261106-d7e32917/"
+  },
+  {
+   "id": "7c99428102d7f6593e02f3c138eee85d",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21818.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-30T23:15:00-06:00",
+   "return_at": "",
+   "duration": 955,
+   "link": "https://www.aviasales.com/search/MTY3011SEL1?t=AM17960805001796191800000955MTYICN_7c99428102d7f6593e02f3c138eee85d_93259&search_date=31102026&expected_price_uuid=01a1936c-31c3-8040-6087-6f0d66335ce1&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=Lxkl8vxkpmW7qCQMhnMnVw&expected_price_source=share&expected_price_currency=mxn&expected_price=21818",
+   "title": "Flight deals from Monterrey to Seoul",
+   "micro": "/oferta/vuelos/vuelo-monterrey-seul-20261130-7c994281/"
   }
  ]
 }

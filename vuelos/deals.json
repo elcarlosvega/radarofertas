@@ -1,6 +1,6 @@
 {
- "generated_at": 1793538243.3563478,
- "generated_at_str": "01/11/2026 07:04",
+ "generated_at": 1793541842.8019457,
+ "generated_at_str": "01/11/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_8100&search_date=01112026&expected_price_uuid=01a196b4-60fc-8030-206f-ae5ec34c9b94&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1895",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261110-5b14b7b7/"
-  },
-  {
-   "id": "6be4e8ef376f9560498f968401fa35f5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LAX",
-   "destination_name": "Los Ángeles",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4372.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-10T22:05:00-06:00",
-   "return_at": "",
-   "duration": 1545,
-   "link": "https://www.aviasales.com/search/MEX1011LAX1?t=VB17943483001794433800001545NLUMTYLAX_6be4e8ef376f9560498f968401fa35f5_18686&search_date=01112026&expected_price_uuid=01a195e1-4651-8040-2c12-0dd7c7380819&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=HnoYrtqjyVpjjoKzUter0Q&expected_price_source=share&expected_price_currency=mxn&expected_price=4372",
-   "title": "Flight deals from Mexico City to Los Angeles",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261110-6be4e8ef/"
   },
   {
    "id": "ed5aaee102abddf9fc52a13ccd39570f",
@@ -168,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX2511CMN1?t=BA17956185001795801200002685MEXMIAMADCMN_752a8d15b1f33105fa3fe7407694c0e1_57905&search_date=01112026&expected_price_uuid=01a196ca-f31a-8031-6070-5b808e209d23&static_fare_key=TY%7CP1%7CH1%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=dNQTICm-MvD0vsPpzHbIJQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13547",
    "title": "Flight deals from Mexico City to Casablanca",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-casablanca-20261125-752a8d15/"
-  },
-  {
-   "id": "6b8a9205364d8fac2e0f5185f565764b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "DPS",
-   "destination_name": "Denpasar (Bali)",
-   "airline": "3U",
-   "airline_title": "Sichuan Airlines",
-   "logo": "https://pics.avs.io/600/150/3U.png",
-   "logo_tipo": "",
-   "price": 14853.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-08T06:33:00-06:00",
-   "return_at": "",
-   "duration": 2977,
-   "link": "https://www.aviasales.com/search/MEX0811DPS1?t=3U17941195801794348600002977NLUGDLLAXTFUDPS_6b8a9205364d8fac2e0f5185f565764b_63489&search_date=01112026&expected_price_uuid=01a195dd-1e3e-8040-6954-a275ded91c5c&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=YmtP5DTqQcDHDlxsepEUyg&expected_price_source=share&expected_price_currency=mxn&expected_price=14853",
-   "title": "Flight deals from Mexico City to Denpasar (Bali)",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261108-6b8a9205/"
   }
  ]
 }

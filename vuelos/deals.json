@@ -1,6 +1,6 @@
 {
- "generated_at": 1793498643.3534908,
- "generated_at_str": "31/10/2026 20:04",
+ "generated_at": 1793502243.9426718,
+ "generated_at_str": "31/10/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,24 +10,24 @@
  ],
  "deals": [
   {
-   "id": "2d828a21048379df7a26782743b70f13",
+   "id": "20c8d261ddfce492c0e0be6d9c7d6a30",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "ACA",
-   "destination_name": "Acapulco de Juárez",
+   "destination": "VSA",
+   "destination_name": "Villahermosa",
    "airline": "VB",
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1286.0,
+   "price": 955.0,
    "currency": "MXN",
-   "departure_at": "2026-11-09T18:34:00-06:00",
+   "departure_at": "2026-11-12T08:12:00-06:00",
    "return_at": "",
-   "duration": 62,
-   "link": "https://www.aviasales.com/search/MEX0911ACA1?t=VB17942492401794252960000062NLUACA_2d828a21048379df7a26782743b70f13_5499&search_date=31102026&expected_price_uuid=01a193ab-1319-8031-2614-c62b3e75f816&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=9KOCvITxjVGzbH2rAXcpog&expected_price_source=share&expected_price_currency=mxn&expected_price=1286",
-   "title": "Flight deals from Mexico City to Acapulco",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-acapulco-de-juarez-20261109-2d828a21/"
+   "duration": 85,
+   "link": "https://www.aviasales.com/search/MEX1211VSA1?t=VB17944711201794476220000085NLUVSA_20c8d261ddfce492c0e0be6d9c7d6a30_4081&search_date=31102026&expected_price_uuid=01a19448-c3dd-8030-28b3-eef75a1f7d28&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xt7VL8MPVbsS7q3huUXjmg&expected_price_source=share&expected_price_currency=mxn&expected_price=955",
+   "title": "Flight deals from Mexico City to Villahermosa",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-villahermosa-20261112-20c8d261/"
   },
   {
    "id": "5b14b7b704aa8fe9d1a5d57793eff247",
@@ -45,12 +45,12 @@
    "departure_at": "2026-11-10T20:45:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a1949e-0104-8040-2898-855913e75338&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
+   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a194ec-9d56-8040-ac63-888f595ed4ae&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261110-5b14b7b7/"
   },
   {
-   "id": "967ca2ae83833c8958f03c9b63e67119",
+   "id": "9f5451ddebd3bac7c250ffd8071600bb",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -60,14 +60,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1541.0,
+   "price": 1701.0,
    "currency": "MXN",
-   "departure_at": "2027-02-28T18:50:00-06:00",
+   "departure_at": "2026-12-15T15:37:00-06:00",
    "return_at": "",
-   "duration": 140,
-   "link": "https://www.aviasales.com/search/MEX2802LAP1?t=VB18038406001803845400000140NLULAP_967ca2ae83833c8958f03c9b63e67119_6585&search_date=31102026&expected_price_uuid=01a19396-6a21-8040-20ee-b1d763c45137&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=y0-rjX2p7Ja4_-K_9RwMnw&expected_price_source=share&expected_price_currency=mxn&expected_price=1541",
+   "duration": 138,
+   "link": "https://www.aviasales.com/search/MEX1512LAP1?t=VB17973490201797353700000138NLULAP_9f5451ddebd3bac7c250ffd8071600bb_7270&search_date=31102026&expected_price_uuid=01a19445-9d59-8030-a695-cd413f46e25d&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ECC_R_bhA-AtR10t4mW-dA&expected_price_source=share&expected_price_currency=mxn&expected_price=1701",
    "title": "Flight deals from Mexico City to La Paz",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270228-967ca2ae/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20261215-9f5451dd/"
   },
   {
    "id": "44d517d1849489fe92469b64eb7409c9",
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261111-44d517d1/"
   },
   {
-   "id": "01929cccfffcc7c1450ed5262426fd86",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MAD",
-   "destination_name": "Ciudad de Madrid",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 8835.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-21T22:05:00-06:00",
-   "return_at": "",
-   "duration": 635,
-   "link": "https://www.aviasales.com/search/MEX2111MAD1?t=AM17952987001795362000000635MEXMAD_01929cccfffcc7c1450ed5262426fd86_37765&search_date=31102026&expected_price_uuid=01a193b4-0067-8031-663b-602446a0e16e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5h-63rQWPa-JaUTChB4nzg&expected_price_source=share&expected_price_currency=mxn&expected_price=8835",
-   "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261121-01929ccc/"
-  },
-  {
    "id": "1c22c6497bdd5cd97a7e78bf0b68aa62",
    "kind": "flight",
    "origin": "MEX",
@@ -130,24 +110,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-roma-20261126-1c22c649/"
   },
   {
-   "id": "f7c555fcf5164782c3d1767d90e482ad",
+   "id": "241c597abad4f452636887e4629e5c45",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BEG",
-   "destination_name": "Belgrado",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "destination": "SSH",
+   "destination_name": "Sharm el-Sheij",
+   "airline": "DE",
+   "airline_title": "Condor",
+   "logo": "https://pics.avs.io/600/150/DE.png",
    "logo_tipo": "",
-   "price": 11598.0,
+   "price": 11673.0,
    "currency": "MXN",
-   "departure_at": "2026-12-01T21:25:00-06:00",
+   "departure_at": "2026-11-06T12:09:00-06:00",
    "return_at": "",
-   "duration": 2380,
-   "link": "https://www.aviasales.com/search/MEX0112BEG1?t=AM17961603001796328300002380MEXAMSBERBEG_f7c555fcf5164782c3d1767d90e482ad_49575&search_date=31102026&expected_price_uuid=01a1939b-0b78-8040-a4e9-b7e82ec9e29f&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=uiQYbAJid3jrNcO4LPtdWQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11598",
-   "title": "Flight deals from Mexico City to Belgrade",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-belgrado-20261201-f7c555fc/"
+   "duration": 2671,
+   "link": "https://www.aviasales.com/search/MEX0611SSH1?t=DE17939669401794156000002671NLUSJDFRAMXPSSH_241c597abad4f452636887e4629e5c45_49896&search_date=31102026&expected_price_uuid=01a19451-854e-8031-6143-b202ee983330&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WU4NbfKnqLK_JLOeKXQuzA&expected_price_source=share&expected_price_currency=mxn&expected_price=11673",
+   "title": "Flight deals from Mexico City to Sharm el Sheikh",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sharm-el-sheij-20261106-241c597a/"
   },
   {
    "id": "525258b6e397082e54475f1901834c26",
@@ -208,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX1602SGN1?t=AM18028161001802959800001615MEXNRTSGN_3156f5471540e5aa653c2d6218d2ad74_79738&search_date=31102026&expected_price_uuid=01a19445-4293-8031-64bb-da5dc17f22f2&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=iH7neK0CN4t5T3gpx8X8SA&expected_price_source=share&expected_price_currency=mxn&expected_price=18654",
    "title": "Flight deals from Mexico City to Ho Chi Minh City",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-ho-chi-minh-20270216-3156f547/"
+  },
+  {
+   "id": "7816a3b224b1181cd84b4cde3319ac79",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SEL",
+   "destination_name": "Seúl",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 23570.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-24T20:00:00-06:00",
+   "return_at": "",
+   "duration": 1150,
+   "link": "https://www.aviasales.com/search/MEX2411SEL1?t=AM17955504001795673400001150MEXICN_7816a3b224b1181cd84b4cde3319ac79_100748&search_date=31102026&expected_price_uuid=01a1943c-2815-8030-aae9-f9734383aed2&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=kCk_8_ft1wYwg6WC0aZeGA&expected_price_source=share&expected_price_currency=mxn&expected_price=23570",
+   "title": "Flight deals from Mexico City to Seoul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261124-7816a3b2/"
   }
  ]
 }

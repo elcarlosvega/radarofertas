@@ -1,6 +1,6 @@
 {
- "generated_at": 1793527443.5385592,
- "generated_at_str": "01/11/2026 04:04",
+ "generated_at": 1793531043.2874696,
+ "generated_at_str": "01/11/2026 05:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "53b80a6d4f1ccd31a86f5b1921d9fad7",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PVR",
+   "destination_name": "Puerto Vallarta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 579.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-15T14:20:00-06:00",
+   "return_at": "",
+   "duration": 90,
+   "link": "https://www.aviasales.com/search/MEX1512PVR1?t=Y417973444001797349800000090TLCPVR_53b80a6d4f1ccd31a86f5b1921d9fad7_2476&search_date=01112026&expected_price_uuid=01a196b6-b2ed-8031-6ce9-d87cf180f62c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SmnrDR7z0ZsOJESEzlAcxw&expected_price_source=share&expected_price_currency=mxn&expected_price=579",
+   "title": "Flight deals from Mexico City to Puerto Vallarta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261215-53b80a6d/"
+  },
   {
    "id": "5b14b7b704aa8fe9d1a5d57793eff247",
    "kind": "flight",
@@ -20,12 +40,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1897.0,
+   "price": 1895.0,
    "currency": "MXN",
    "departure_at": "2026-11-10T20:45:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_8110&search_date=01112026&expected_price_uuid=01a19681-53b9-8040-6624-e32e625d6d83&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1897",
+   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_8100&search_date=01112026&expected_price_uuid=01a196b4-60fc-8030-206f-ae5ec34c9b94&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1895",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261110-5b14b7b7/"
   },
@@ -68,6 +88,26 @@
    "link": "https://www.aviasales.com/search/GDL0111SLC1?t=Y417935319401793541720000223GDLSLC_e9ac9e767e99271666cc734d49a4b4d4_23644&search_date=01112026&expected_price_uuid=01a19590-5f78-8040-27fa-e01cb7834133&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=zxYhJlXgnjJvIJGQJJDqRQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5531",
    "title": "Flight deals from Guadalajara to Salt Lake City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261101-e9ac9e76/"
+  },
+  {
+   "id": "ed5aaee102abddf9fc52a13ccd39570f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "DE",
+   "airline_title": "Condor",
+   "logo": "https://pics.avs.io/600/150/DE.png",
+   "logo_tipo": "",
+   "price": 10342.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-13T12:09:00-06:00",
+   "return_at": "",
+   "duration": 2721,
+   "link": "https://www.aviasales.com/search/MEX1311IST1?t=DE17945717401794767400002721NLUSJDFRAMUCSAW_ed5aaee102abddf9fc52a13ccd39570f_44205&search_date=01112026&expected_price_uuid=01a196ab-7cd0-8030-ac3c-2c1116b1b390&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5pdxu6cbA3uosEzCcllj8g&expected_price_source=share&expected_price_currency=mxn&expected_price=10342",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261113-ed5aaee1/"
   },
   {
    "id": "6ce00df4c0af84cd91585ba62f936a6c",
@@ -148,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX0811DPS1?t=3U17941195801794348600002977NLUGDLLAXTFUDPS_6b8a9205364d8fac2e0f5185f565764b_63489&search_date=01112026&expected_price_uuid=01a195dd-1e3e-8040-6954-a275ded91c5c&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=YmtP5DTqQcDHDlxsepEUyg&expected_price_source=share&expected_price_currency=mxn&expected_price=14853",
    "title": "Flight deals from Mexico City to Denpasar (Bali)",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261108-6b8a9205/"
-  },
-  {
-   "id": "979f3e19b1b976a7422acdaaf4354d93",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MSQ",
-   "destination_name": "Minsk",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 23658.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-17T11:15:00-06:00",
-   "return_at": "",
-   "duration": 2150,
-   "link": "https://www.aviasales.com/search/MEX1711MSQ1?t=AM17949141001795075500002150MEXMADISTGYDMSQ_979f3e19b1b976a7422acdaaf4354d93_101124&search_date=01112026&expected_price_uuid=01a1956d-6091-8031-6afc-7a72011d9222&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SQk7jHrC0A9N2y3QHhdORg&expected_price_source=share&expected_price_currency=mxn&expected_price=23658",
-   "title": "Flight deals from Mexico City to Minsk",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261117-979f3e19/"
   }
  ]
 }

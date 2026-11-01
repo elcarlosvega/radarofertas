@@ -1,6 +1,6 @@
 {
- "generated_at": 1793549043.06686,
- "generated_at_str": "01/11/2026 10:04",
+ "generated_at": 1793552643.2628593,
+ "generated_at_str": "01/11/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "53b80a6d4f1ccd31a86f5b1921d9fad7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 579.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-15T14:20:00-06:00",
-   "return_at": "",
-   "duration": 90,
-   "link": "https://www.aviasales.com/search/MEX1512PVR1?t=Y417973444001797349800000090TLCPVR_53b80a6d4f1ccd31a86f5b1921d9fad7_2476&search_date=01112026&expected_price_uuid=01a196b6-b2ed-8031-6ce9-d87cf180f62c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SmnrDR7z0ZsOJESEzlAcxw&expected_price_source=share&expected_price_currency=mxn&expected_price=579",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20261215-53b80a6d/"
-  },
   {
    "id": "e3164c56152cb4a5e009d04c982c5369",
    "kind": "flight",
@@ -130,26 +110,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261224-15c2dfe1/"
   },
   {
-   "id": "ed5aaee102abddf9fc52a13ccd39570f",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "DE",
-   "airline_title": "Condor",
-   "logo": "https://pics.avs.io/600/150/DE.png",
-   "logo_tipo": "",
-   "price": 10342.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-13T12:09:00-06:00",
-   "return_at": "",
-   "duration": 2721,
-   "link": "https://www.aviasales.com/search/MEX1311IST1?t=DE17945717401794767400002721NLUSJDFRAMUCSAW_ed5aaee102abddf9fc52a13ccd39570f_44205&search_date=01112026&expected_price_uuid=01a196ab-7cd0-8030-ac3c-2c1116b1b390&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5pdxu6cbA3uosEzCcllj8g&expected_price_source=share&expected_price_currency=mxn&expected_price=10342",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261113-ed5aaee1/"
-  },
-  {
    "id": "409b8afaf45abbff20842d7e81f7f59b",
    "kind": "flight",
    "origin": "MEX",
@@ -170,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270212-409b8afa/"
   },
   {
+   "id": "c7e83c0edcb519b92910a33dadd41de2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIS",
+   "destination_name": "Lisboa",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 11742.0,
+   "currency": "MXN",
+   "departure_at": "2027-07-05T07:00:00-05:00",
+   "return_at": "",
+   "duration": 1010,
+   "link": "https://www.aviasales.com/search/MEX0507LIS1?t=AM18147708001814856600001010MEXGDLMADLIS_c7e83c0edcb519b92910a33dadd41de2_50193&search_date=01112026&expected_price_uuid=01a19785-46ec-8040-6976-967f9d297b80&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=KqXUVx0P9tnwV42FudLs1g&expected_price_source=share&expected_price_currency=mxn&expected_price=11742",
+   "title": "Flight deals from Mexico City to Lisbon",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lisboa-20270705-c7e83c0e/"
+  },
+  {
    "id": "752a8d15b1f33105fa3fe7407694c0e1",
    "kind": "flight",
    "origin": "MEX",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX2511CMN1?t=BA17956185001795801200002685MEXMIAMADCMN_752a8d15b1f33105fa3fe7407694c0e1_57905&search_date=01112026&expected_price_uuid=01a196ca-f31a-8031-6070-5b808e209d23&static_fare_key=TY%7CP1%7CH1%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=dNQTICm-MvD0vsPpzHbIJQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13547",
    "title": "Flight deals from Mexico City to Casablanca",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-casablanca-20261125-752a8d15/"
+  },
+  {
+   "id": "0ff4fd49a10c12f1288817191e6a6209",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "DE",
+   "airline_title": "Condor",
+   "logo": "https://pics.avs.io/600/150/DE.png",
+   "logo_tipo": "",
+   "price": 14118.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-08T10:40:00-06:00",
+   "return_at": "",
+   "duration": 2845,
+   "link": "https://www.aviasales.com/search/MEX0811IST1?t=DE17941344001794337500002845NLUCUNFRASAW_0ff4fd49a10c12f1288817191e6a6209_60348&search_date=01112026&expected_price_uuid=01a197ba-78d9-8030-2c37-a71919e2fac2&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=xvZ_kmveV1jpRWxn8lu34A&expected_price_source=share&expected_price_currency=mxn&expected_price=14118",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261108-0ff4fd49/"
   }
  ]
 }

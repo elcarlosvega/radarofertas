@@ -1,6 +1,6 @@
 {
- "generated_at": 1793531043.2874696,
- "generated_at_str": "01/11/2026 05:04",
+ "generated_at": 1793534643.355934,
+ "generated_at_str": "01/11/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261110-6be4e8ef/"
   },
   {
-   "id": "e9ac9e767e99271666cc734d49a4b4d4",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "SLC",
-   "destination_name": "Salt Lake City",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5531.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-01T11:19:00-06:00",
-   "return_at": "",
-   "duration": 223,
-   "link": "https://www.aviasales.com/search/GDL0111SLC1?t=Y417935319401793541720000223GDLSLC_e9ac9e767e99271666cc734d49a4b4d4_23644&search_date=01112026&expected_price_uuid=01a19590-5f78-8040-27fa-e01cb7834133&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=zxYhJlXgnjJvIJGQJJDqRQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5531",
-   "title": "Flight deals from Guadalajara to Salt Lake City",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261101-e9ac9e76/"
-  },
-  {
    "id": "ed5aaee102abddf9fc52a13ccd39570f",
    "kind": "flight",
    "origin": "MEX",
@@ -150,24 +130,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261128-44380315/"
   },
   {
-   "id": "1f4ed0cab713c56703ebddb04e1432eb",
+   "id": "752a8d15b1f33105fa3fe7407694c0e1",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "destination": "CMN",
+   "destination_name": "Casablanca",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 14000.0,
+   "price": 13547.0,
    "currency": "MXN",
-   "departure_at": "2027-01-16T18:35:00-06:00",
+   "departure_at": "2026-11-25T14:55:00-06:00",
    "return_at": "",
-   "duration": 1235,
-   "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001245001800252600001235MEXMTYICN_1f4ed0cab713c56703ebddb04e1432eb_59841&search_date=01112026&expected_price_uuid=01a19593-5048-8030-eaf7-e0db4d6c316b&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=-SaBHcsN9BDDAN2daIPNkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14000",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-1f4ed0ca/"
+   "duration": 2685,
+   "link": "https://www.aviasales.com/search/MEX2511CMN1?t=BA17956185001795801200002685MEXMIAMADCMN_752a8d15b1f33105fa3fe7407694c0e1_57905&search_date=01112026&expected_price_uuid=01a196ca-f31a-8031-6070-5b808e209d23&static_fare_key=TY%7CP1%7CH1%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=dNQTICm-MvD0vsPpzHbIJQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13547",
+   "title": "Flight deals from Mexico City to Casablanca",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-casablanca-20261125-752a8d15/"
   },
   {
    "id": "6b8a9205364d8fac2e0f5185f565764b",

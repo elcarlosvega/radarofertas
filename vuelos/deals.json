@@ -1,6 +1,6 @@
 {
- "generated_at": 1793505843.6758564,
- "generated_at_str": "31/10/2026 22:04",
+ "generated_at": 1793509443.4085348,
+ "generated_at_str": "31/10/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -188,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX2411SEL1?t=AM17955504001795673400001150MEXICN_7816a3b224b1181cd84b4cde3319ac79_100748&search_date=31102026&expected_price_uuid=01a1943c-2815-8030-aae9-f9734383aed2&static_fare_key=TY%7CP0%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=kCk_8_ft1wYwg6WC0aZeGA&expected_price_source=share&expected_price_currency=mxn&expected_price=23570",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261124-7816a3b2/"
+  },
+  {
+   "id": "979f3e19b1b976a7422acdaaf4354d93",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "MSQ",
+   "destination_name": "Minsk",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 23658.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-17T11:15:00-06:00",
+   "return_at": "",
+   "duration": 2150,
+   "link": "https://www.aviasales.com/search/MEX1711MSQ1?t=AM17949141001795075500002150MEXMADISTGYDMSQ_979f3e19b1b976a7422acdaaf4354d93_101124&search_date=01112026&expected_price_uuid=01a1956d-6091-8031-6afc-7a72011d9222&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SQk7jHrC0A9N2y3QHhdORg&expected_price_source=share&expected_price_currency=mxn&expected_price=23658",
+   "title": "Flight deals from Mexico City to Minsk",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-minsk-20261117-979f3e19/"
   }
  ]
 }

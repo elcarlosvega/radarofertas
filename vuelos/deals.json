@@ -1,6 +1,6 @@
 {
- "generated_at": 1793534643.355934,
- "generated_at_str": "01/11/2026 06:04",
+ "generated_at": 1793538243.3563478,
+ "generated_at_str": "01/11/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -128,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX2811PAR1?t=AM17958876001795971300000975MEXMADBVA_44380315b3ee93681947809533bc3398_45927&search_date=01112026&expected_price_uuid=01a19645-9226-8031-2c99-d8af055136cb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cL0pEG8rAgUUodlol8Ce4A&expected_price_source=share&expected_price_currency=mxn&expected_price=10744",
    "title": "Flight deals from Mexico City to Paris",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261128-44380315/"
+  },
+  {
+   "id": "409b8afaf45abbff20842d7e81f7f59b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "VS",
+   "airline_title": "Virgin Atlantic",
+   "logo": "https://pics.avs.io/600/150/VS.png",
+   "logo_tipo": "",
+   "price": 11291.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-12T19:55:00-06:00",
+   "return_at": "",
+   "duration": 880,
+   "link": "https://www.aviasales.com/search/MEX1202LON1?t=VS18024621001802536500000880MEXCDGLHR_409b8afaf45abbff20842d7e81f7f59b_48264&search_date=01112026&expected_price_uuid=01a19715-8bc6-8040-a044-36f971be530c&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH1%7CR0%7CTBC1&itinerary_key=uPTDyVbG7aEdKhEiCONdBw&expected_price_source=share&expected_price_currency=mxn&expected_price=11291",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20270212-409b8afa/"
   },
   {
    "id": "752a8d15b1f33105fa3fe7407694c0e1",

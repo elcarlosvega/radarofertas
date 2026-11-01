@@ -1,6 +1,6 @@
 {
- "generated_at": 1793513043.5481024,
- "generated_at_str": "01/11/2026 00:04",
+ "generated_at": 1793516643.3113425,
+ "generated_at_str": "01/11/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -25,29 +25,9 @@
    "departure_at": "2026-11-10T20:45:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a1950f-e4ea-8040-2485-659df3e871d8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
+   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a195b6-659f-8040-a9fb-c02a3ce8bdf5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261110-5b14b7b7/"
-  },
-  {
-   "id": "44d517d1849489fe92469b64eb7409c9",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "LAX",
-   "destination_name": "Los Ángeles",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 2718.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-11T18:40:00-06:00",
-   "return_at": "",
-   "duration": 210,
-   "link": "https://www.aviasales.com/search/GDL1111LAX1?t=AM17944224001794427800000210GDLLAX_44d517d1849489fe92469b64eb7409c9_11619&search_date=01112026&expected_price_uuid=01a1946e-ad30-8040-6749-4e5f444693d8&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FpC4sxx8QjIlgAdN3jdaAQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2718",
-   "title": "Flight deals from Guadalajara to Los Angeles",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261111-44d517d1/"
   },
   {
    "id": "e9ac9e767e99271666cc734d49a4b4d4",
@@ -108,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX1601SEL1?t=AM18001245001800252600001235MEXMTYICN_1f4ed0cab713c56703ebddb04e1432eb_59841&search_date=01112026&expected_price_uuid=01a19593-5048-8030-eaf7-e0db4d6c316b&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=-SaBHcsN9BDDAN2daIPNkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=14000",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270116-1f4ed0ca/"
+  },
+  {
+   "id": "6b8a9205364d8fac2e0f5185f565764b",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "DPS",
+   "destination_name": "Denpasar (Bali)",
+   "airline": "3U",
+   "airline_title": "Sichuan Airlines",
+   "logo": "https://pics.avs.io/600/150/3U.png",
+   "logo_tipo": "",
+   "price": 14853.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-08T06:33:00-06:00",
+   "return_at": "",
+   "duration": 2977,
+   "link": "https://www.aviasales.com/search/MEX0811DPS1?t=3U17941195801794348600002977NLUGDLLAXTFUDPS_6b8a9205364d8fac2e0f5185f565764b_63489&search_date=01112026&expected_price_uuid=01a195dd-1e3e-8040-6954-a275ded91c5c&static_fare_key=TY%7CP1%7CH0%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=YmtP5DTqQcDHDlxsepEUyg&expected_price_source=share&expected_price_currency=mxn&expected_price=14853",
+   "title": "Flight deals from Mexico City to Denpasar (Bali)",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20261108-6b8a9205/"
   },
   {
    "id": "979f3e19b1b976a7422acdaaf4354d93",

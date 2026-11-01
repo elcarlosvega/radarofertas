@@ -1,6 +1,6 @@
 {
- "generated_at": 1793520264.6268442,
- "generated_at_str": "01/11/2026 02:04",
+ "generated_at": 1793523843.3684862,
+ "generated_at_str": "01/11/2026 03:04",
  "origins": [
   "MEX",
   "GDL",
@@ -25,7 +25,7 @@
    "departure_at": "2026-11-10T20:45:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a1960f-dab5-8040-68d4-38e593bb3bde&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
+   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a19643-796d-8040-2b29-e68b7bed092d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261110-5b14b7b7/"
   },
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/GDL0111SLC1?t=Y417935319401793541720000223GDLSLC_e9ac9e767e99271666cc734d49a4b4d4_23644&search_date=01112026&expected_price_uuid=01a19590-5f78-8040-27fa-e01cb7834133&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=zxYhJlXgnjJvIJGQJJDqRQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5531",
    "title": "Flight deals from Guadalajara to Salt Lake City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261101-e9ac9e76/"
+  },
+  {
+   "id": "44380315b3ee93681947809533bc3398",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PAR",
+   "destination_name": "París",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 10744.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-28T17:40:00-06:00",
+   "return_at": "",
+   "duration": 975,
+   "link": "https://www.aviasales.com/search/MEX2811PAR1?t=AM17958876001795971300000975MEXMADBVA_44380315b3ee93681947809533bc3398_45927&search_date=01112026&expected_price_uuid=01a19645-9226-8031-2c99-d8af055136cb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cL0pEG8rAgUUodlol8Ce4A&expected_price_source=share&expected_price_currency=mxn&expected_price=10744",
+   "title": "Flight deals from Mexico City to Paris",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261128-44380315/"
   },
   {
    "id": "1f4ed0cab713c56703ebddb04e1432eb",

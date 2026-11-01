@@ -1,6 +1,6 @@
 {
- "generated_at": 1793523843.3684862,
- "generated_at_str": "01/11/2026 03:04",
+ "generated_at": 1793527443.5385592,
+ "generated_at_str": "01/11/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -20,12 +20,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1462.0,
+   "price": 1897.0,
    "currency": "MXN",
    "departure_at": "2026-11-10T20:45:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_6248&search_date=01112026&expected_price_uuid=01a19643-796d-8040-2b29-e68b7bed092d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1462",
+   "link": "https://www.aviasales.com/search/MEX1011CUN1?t=VB17943435001794354900000130NLUCUN_5b14b7b704aa8fe9d1a5d57793eff247_8110&search_date=01112026&expected_price_uuid=01a19681-53b9-8040-6624-e32e625d6d83&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=wIFTxYAnBDN-Kp6IugwlVA&expected_price_source=share&expected_price_currency=mxn&expected_price=1897",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261110-5b14b7b7/"
   },
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/GDL0111SLC1?t=Y417935319401793541720000223GDLSLC_e9ac9e767e99271666cc734d49a4b4d4_23644&search_date=01112026&expected_price_uuid=01a19590-5f78-8040-27fa-e01cb7834133&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=zxYhJlXgnjJvIJGQJJDqRQ&expected_price_source=share&expected_price_currency=mxn&expected_price=5531",
    "title": "Flight deals from Guadalajara to Salt Lake City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-salt-lake-city-20261101-e9ac9e76/"
+  },
+  {
+   "id": "6ce00df4c0af84cd91585ba62f936a6c",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SCL",
+   "destination_name": "Santiago de Chile",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 10404.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-24T10:50:00-06:00",
+   "return_at": "",
+   "duration": 780,
+   "link": "https://www.aviasales.com/search/MEX2402SCL1?t=AM18034662001803523800000780MEXLIMSCL_6ce00df4c0af84cd91585ba62f936a6c_44470&search_date=01112026&expected_price_uuid=01a19650-775a-8031-2487-ef7d789e9192&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=jEHPqWEVl1ZqiyPUfi4sbg&expected_price_source=share&expected_price_currency=mxn&expected_price=10404",
+   "title": "Flight deals from Mexico City to Santiago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270224-6ce00df4/"
   },
   {
    "id": "44380315b3ee93681947809533bc3398",

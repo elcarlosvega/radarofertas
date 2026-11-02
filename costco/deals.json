@@ -1,6 +1,6 @@
 {
- "generated_at": 1793639106.9864814,
- "generated_at_str": "02/11/2026 11:05",
+ "generated_at": 1793642703.752302,
+ "generated_at_str": "02/11/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1199,24 +1199,6 @@
    "h_min7": 1959.3
   },
   {
-   "id": "688565",
-   "name": "Maestro Dobel 50 Extra Añejo Cristalino Tequila 700 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Maestro-Dobel-50-Extra-Anejo-Cristalino-Tequila-700-ml/p/688565",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h14/h48/273984310837278.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 2799.0,
-   "price_new": 1959.3,
-   "pct": 30.0,
-   "amount": 839.7,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793603125.958296,
-   "h_dias": 15,
-   "h_min": 1959.3,
-   "h_min7": 1959.3
-  },
-  {
    "id": "637779",
    "name": "Flor de Caña 7 años Ron Añejo 6/750ml",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Ron/Flor-de-Cana-7-anos-Ron-Anejo-6750ml/p/637779",
@@ -1339,24 +1321,6 @@
    "h_dias": 22,
    "h_min": 1609.3,
    "h_min7": 1609.3
-  },
-  {
-   "id": "634607",
-   "name": "Suntory Hibiki Whisky Japonés 750 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Suntory-Hibiki-Whisky-Japones-750-ml/p/634607",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h58/h01/12698113409054.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 2199.0,
-   "price_new": 1539.3,
-   "pct": 30.0,
-   "amount": 659.7,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793606704.1702116,
-   "h_dias": 7,
-   "h_min": 1539.3,
-   "h_min7": 1539.3
   },
   {
    "id": "686377",
@@ -2335,6 +2299,25 @@
    "h_ayer": 5999.0,
    "h_min7": 5999.0,
    "h_min90": 5799.0
+  },
+  {
+   "id": "1812635",
+   "name": "Tresanti, Mesa de Actividades para Niños con Taburetes",
+   "url": "https://www.costco.com.mx/Muebles/Mesas-y-Escritorios/Escritorios-y-Mesas-de-Oficina/Tresanti-Mesa-de-Actividades-para-Ninos-con-Taburetes/p/1812635",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h14/h16/347089556209694.jpg",
+   "category": "Muebles",
+   "price_old": 6799.0,
+   "price_new": 4799.0,
+   "pct": 29.4,
+   "amount": 2000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 10,
+   "h_min": 4799.0,
+   "h_ayer": 4799.0,
+   "h_min7": 4799.0
   },
   {
    "id": "697563",
@@ -10144,44 +10127,6 @@
    "h_min7": 1124.25
   },
   {
-   "id": "706731",
-   "name": "Kipling 0KP3140 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Kipling-0KP3140-Armazon-Oftalmico/p/706731",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hc3/had/520241698406430.jpg",
-   "category": "Optica",
-   "price_old": 1499.0,
-   "price_new": 1124.25,
-   "pct": 25.0,
-   "amount": 374.75,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 8,
-   "h_min": 1124.25,
-   "h_ayer": 1124.25,
-   "h_min7": 1124.25
-  },
-  {
-   "id": "706730",
-   "name": "Kipling 0KP3133 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Kipling-0KP3133-Armazon-Oftalmico/p/706730",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hb6/hef/520241700175902.jpg",
-   "category": "Optica",
-   "price_old": 1499.0,
-   "price_new": 1124.25,
-   "pct": 25.0,
-   "amount": 374.75,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 8,
-   "h_min": 1124.25,
-   "h_ayer": 1124.25,
-   "h_min7": 1124.25
-  },
-  {
    "id": "705851",
    "name": "Polaroid Pld D612/G Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Polaroid-Pld-D612G-Armazon-Oftalmico/p/705851",
@@ -11771,25 +11716,6 @@
    "h_ayer": 20999.0,
    "h_min7": 19999.0,
    "h_min90": 17999.0
-  },
-  {
-   "id": "685226",
-   "name": "LG Lavadora 22Kg Carga Superior",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/LG-Lavadora-22Kg-Carga-Superior/p/685226",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h33/242039888609310.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13999.0,
-   "pct": 22.2,
-   "amount": 4000.0,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793603125.958296,
-   "h_dias": 84,
-   "h_min": 12999.0,
-   "h_ayer": 13999.0,
-   "h_min7": 13999.0
   },
   {
    "id": "697357",
@@ -18582,25 +18508,6 @@
    "h_ayer": 25999.0,
    "h_min7": 25999.0,
    "h_min90": 15799.0
-  },
-  {
-   "id": "650998",
-   "name": "Whirlpool Refrigerador 25' Side by Side",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/650998",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/hac/11039334563870.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 28999.0,
-   "price_new": 25999.0,
-   "pct": 10.3,
-   "amount": 3000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 87,
-   "h_min": 23199.0,
-   "h_ayer": 25999.0,
-   "h_min7": 25999.0
   },
   {
    "id": "702141",

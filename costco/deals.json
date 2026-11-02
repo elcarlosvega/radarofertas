@@ -1,6 +1,6 @@
 {
- "generated_at": 1793642703.752302,
- "generated_at_str": "02/11/2026 12:05",
+ "generated_at": 1793646307.9023998,
+ "generated_at_str": "02/11/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1321,6 +1321,24 @@
    "h_dias": 22,
    "h_min": 1609.3,
    "h_min7": 1609.3
+  },
+  {
+   "id": "634607",
+   "name": "Suntory Hibiki Whisky Japonés 750 ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Suntory-Hibiki-Whisky-Japones-750-ml/p/634607",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h58/h01/12698113409054.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 2199.0,
+   "price_new": 1539.3,
+   "pct": 30.0,
+   "amount": 659.7,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793606704.1702116,
+   "h_dias": 7,
+   "h_min": 1539.3,
+   "h_min7": 1539.3
   },
   {
    "id": "686377",
@@ -3813,26 +3831,6 @@
    "h_min": 27999.0,
    "h_ayer": 29999.0,
    "h_min7": 29999.0
-  },
-  {
-   "id": "1807228",
-   "name": "Yardistry, Cantina para Exterior de 2.33 m x 2.33 m de 3 Piezas",
-   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Cantina-para-Exterior-de-233-m-x-233-m-de-3-Piezas/p/1807228",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h12/h52/308527883812894.jpg",
-   "category": "Patio y Jardin",
-   "price_old": 39999.0,
-   "price_new": 29999.0,
-   "pct": 25.0,
-   "amount": 10000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 91,
-   "h_min": 27999.0,
-   "h_ayer": 29999.0,
-   "h_min7": 29999.0,
-   "h_min90": 27999.0
   },
   {
    "id": "1500084",
@@ -10127,6 +10125,44 @@
    "h_min7": 1124.25
   },
   {
+   "id": "706731",
+   "name": "Kipling 0KP3140 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Kipling-0KP3140-Armazon-Oftalmico/p/706731",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc3/had/520241698406430.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 8,
+   "h_min": 1124.25,
+   "h_ayer": 1124.25,
+   "h_min7": 1124.25
+  },
+  {
+   "id": "706730",
+   "name": "Kipling 0KP3133 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Kipling-0KP3133-Armazon-Oftalmico/p/706730",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb6/hef/520241700175902.jpg",
+   "category": "Optica",
+   "price_old": 1499.0,
+   "price_new": 1124.25,
+   "pct": 25.0,
+   "amount": 374.75,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 8,
+   "h_min": 1124.25,
+   "h_ayer": 1124.25,
+   "h_min7": 1124.25
+  },
+  {
    "id": "705851",
    "name": "Polaroid Pld D612/G Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Polaroid-Pld-D612G-Armazon-Oftalmico/p/705851",
@@ -13825,25 +13861,6 @@
    "h_min7": 8499.0
   },
   {
-   "id": "1807226",
-   "name": "Agio, Stockholm Comedor para Exterior 6 Piezas",
-   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/Agio-Stockholm-Comedor-para-Exterior-6-Piezas/p/1807226",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd4/hfb/413913881804830.jpg",
-   "category": "Muebles",
-   "price_old": 36999.0,
-   "price_new": 29999.0,
-   "pct": 18.9,
-   "amount": 7000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 64,
-   "h_min": 26999.0,
-   "h_ayer": 29999.0,
-   "h_min7": 29999.0
-  },
-  {
    "id": "702769",
    "name": "TCL Pantalla 85\" Miniled 4K Fire TV 85QM64L",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/TCL-Pantalla-85-Miniled-4K-Fire-TV-85QM64L/p/702769",
@@ -14403,25 +14420,6 @@
    "h_min": 11699.0,
    "h_ayer": 13699.0,
    "h_min7": 13699.0
-  },
-  {
-   "id": "701908",
-   "name": "HP 15-fc0265la Laptop 15.6\" Full HD AMD Ryzen 5 8GB 512GB SSD + 12 Meses M365 Personal",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fc0265la-Laptop-156-Full-HD-AMD-Ryzen-5-8GB-512GB-SSD-12-Meses-M365-Personal/p/701908",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h93/438164211695646.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 12199.0,
-   "price_new": 9999.0,
-   "pct": 18.0,
-   "amount": 2200.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793005514.3634305,
-   "h_dias": 46,
-   "h_min": 7999.0,
-   "h_ayer": 9999.0,
-   "h_min7": 9999.0
   },
   {
    "id": "693300",
@@ -18510,6 +18508,25 @@
    "h_min90": 15799.0
   },
   {
+   "id": "650998",
+   "name": "Whirlpool Refrigerador 25' Side by Side",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/650998",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/hac/11039334563870.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 28999.0,
+   "price_new": 25999.0,
+   "pct": 10.3,
+   "amount": 3000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 87,
+   "h_min": 23199.0,
+   "h_ayer": 25999.0,
+   "h_min7": 25999.0
+  },
+  {
    "id": "702141",
    "name": "Hisense Refrigerador 15' Side By Side",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Refrigerador-15-Side-By-Side/p/702141",
@@ -18775,24 +18792,6 @@
    "h_min90": 19999.0
   },
   {
-   "id": "5959502",
-   "name": "Skanor Muebles, Fontana, Cama King Tapizada",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Skanor-Muebles-Fontana-Cama-King-Tapizada/p/5959502",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h50/h79/332057896026142.jpg",
-   "category": "Muebles",
-   "price_old": 22999.0,
-   "price_new": 20699.0,
-   "pct": 10.0,
-   "amount": 2300.0,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793610328.0670438,
-   "h_dias": 9,
-   "h_min": 20699.0,
-   "h_min7": 20699.0
-  },
-  {
    "id": "702766",
    "name": "Muebles Liz, Varo, Sofá de 2 plazas",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Muebles-Liz-Varo-Sofa-de-2-plazas/p/702766",
@@ -18960,24 +18959,6 @@
    "h_dias": 71,
    "h_min": 12999.0,
    "h_ayer": 13499.0,
-   "h_min7": 13499.0
-  },
-  {
-   "id": "5959508",
-   "name": "Skanor Muebles, Roma, Cama Matrimonial",
-   "url": "https://www.costco.com.mx/Muebles/Recamara/Camas/Skanor-Muebles-Roma-Cama-Matrimonial/p/5959508",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/h43/332060695003166.jpg",
-   "category": "Muebles",
-   "price_old": 14999.0,
-   "price_new": 13499.0,
-   "pct": 10.0,
-   "amount": 1500.0,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793610328.0670438,
-   "h_dias": 9,
-   "h_min": 13499.0,
    "h_min7": 13499.0
   },
   {

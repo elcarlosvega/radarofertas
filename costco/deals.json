@@ -1,6 +1,6 @@
 {
- "generated_at": 1793631895.935514,
- "generated_at_str": "02/11/2026 09:04",
+ "generated_at": 1793635512.0746503,
+ "generated_at_str": "02/11/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -6467,6 +6467,25 @@
    "first_seen": 1793603125.958296,
    "h_dias": 17,
    "h_min": 2999.0,
+   "h_min7": 2999.0
+  },
+  {
+   "id": "1872136",
+   "name": "Tommy Bahama Hamaca Flotante Inflable de 8'",
+   "url": "https://www.costco.com.mx/Deportes/Acuaticos/Inflables/Tommy-Bahama-Hamaca-Flotante-Inflable-de-8/p/1872136",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hb2/h23/397461517860894.jpg",
+   "category": "Deportes",
+   "price_old": 3999.0,
+   "price_new": 2999.0,
+   "pct": 25.0,
+   "amount": 1000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 84,
+   "h_min": 2999.0,
+   "h_ayer": 2999.0,
    "h_min7": 2999.0
   },
   {
@@ -18584,11 +18603,11 @@
    "h_min90": 15799.0
   },
   {
-   "id": "687099",
-   "name": "Samsung Galaxy S25 Ultra 256GB Negro Titanio",
-   "url": "https://www.costco.com.mx/Electronicos/Celulares-y-Smart-Watch/Celulares/Samsung-Galaxy-S25-Ultra-256GB-Negro-Titanio/p/687099",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hf1/326968867061790.jpg",
-   "category": "Electronicos",
+   "id": "650998",
+   "name": "Whirlpool Refrigerador 25' Side by Side",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/650998",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8c/hac/11039334563870.jpg",
+   "category": "Linea Blanca y Cocina",
    "price_old": 28999.0,
    "price_new": 25999.0,
    "pct": 10.3,
@@ -18596,9 +18615,9 @@
    "starts": "2026-10-26T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 89,
-   "h_min": 15799.0,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 87,
+   "h_min": 23199.0,
    "h_ayer": 25999.0,
    "h_min7": 25999.0
   },

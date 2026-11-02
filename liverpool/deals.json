@@ -1,6 +1,6 @@
 {
- "generated_at": 1793592242.7250211,
- "generated_at_str": "01/11/2026 22:10",
+ "generated_at": 1793595842.6956234,
+ "generated_at_str": "01/11/2026 23:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -400,22 +400,6 @@
    "h_min7": 19988.0
   },
   {
-   "id": "1193556937",
-   "name": "MIDEA Lavadora 21 kg automática carga frontal MH04W210/S",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-21-kg-autom-tica-carga-frontal-mh04w210-s/1193556937",
-   "img": "https://sp634.liverpool.com.mx/i/1193556937.jpg",
-   "category": "Lavadoras",
-   "price_old": 29999.0,
-   "price_new": 12599.58,
-   "pct": 58.0,
-   "amount": 17399.42,
-   "ends": "",
-   "first_seen": 1793577841.950726,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 12599.58
-  },
-  {
    "id": "1143027348",
    "name": "MIDEA Refrigerador french door 19 pies cúbicos inverter y no frost MDRF700FGM46",
    "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-19-pies-c-bicos-inverter-y-no-frost-mdrf700fgm46/1143027348",
@@ -788,22 +772,6 @@
    "h_min": 1299.0,
    "h_ayer": 1299.0,
    "h_min7": 1299.0
-  },
-  {
-   "id": "1170808033",
-   "name": "MIDEA Lavadora 22 kg automática carga superior ma500w22/w",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-22-kg-autom-tica-carga-superior-ma500w22-w/1170808033",
-   "img": "https://sp634.liverpool.com.mx/i/1170808033.jpg",
-   "category": "Lavadoras",
-   "price_old": 16799.0,
-   "price_new": 7055.58,
-   "pct": 58.0,
-   "amount": 9743.42,
-   "ends": "",
-   "first_seen": 1793577841.950726,
-   "in_stock": true,
-   "h_dias": 5,
-   "h_min": 7055.58
   },
   {
    "id": "999681682675",
@@ -3518,22 +3486,6 @@
    "h_min7": 15299.0
   },
   {
-   "id": "1170774473",
-   "name": "MIDEA Lavadora 16 kg automática carga superior ma512w16/w",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-16-kg-autom-tica-carga-superior-ma512w16-w/1170774473",
-   "img": "https://sp634.liverpool.com.mx/i/1170774473.jpg",
-   "category": "Lavadoras",
-   "price_old": 12499.0,
-   "price_new": 5687.05,
-   "pct": 54.5,
-   "amount": 6811.95,
-   "ends": "",
-   "first_seen": 1793577841.950726,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 5687.05
-  },
-  {
    "id": "999682056993",
    "name": "SOCHIC Set recámara Firenze de madera",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-firenze-de-madera/999682056993",
@@ -4273,7 +4225,7 @@
    "name": "MIDEA Lavasecadora eléctrica 12.5 kg 7 kg MF200D125WB/T",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-el-ctrica-12-5-kg-7-kg-mf200d125wb-t/1130083362",
    "img": "https://sp634.liverpool.com.mx/i/1130083362.jpg",
-   "category": "Lavadoras",
+   "category": "Secadoras",
    "price_old": 21499.0,
    "price_new": 10534.51,
    "pct": 51.0,
@@ -5279,16 +5231,16 @@
    "img": "https://sp101.liverpool.com.mx/i/1203244939.jpg",
    "category": "Smartwatch",
    "price_old": 2340.75,
-   "price_new": 871.81,
+   "price_new": 871.17,
    "pct": 62.8,
-   "amount": 1468.94,
+   "amount": 1469.58,
    "ends": "",
    "first_seen": 1793394242.0783658,
    "in_stock": true,
    "h_dias": 47,
-   "h_min": 871.81,
+   "h_min": 871.17,
    "h_ayer": 881.74,
-   "h_min7": 871.81
+   "h_min7": 871.17
   },
   {
    "id": "1184604287",
@@ -7502,6 +7454,23 @@
    "h_ayer": 3899.0
   },
   {
+   "id": "1127610386",
+   "name": "MIDEA Lavadora 10 kg semiautomática carga superior MLTS101M2SGDW",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-10-kg-semiautom-tica-carga-superior-mlts101m2sgdw/1127610386",
+   "img": "https://sp634.liverpool.com.mx/i/1127610386.jpg",
+   "category": "Lavadoras",
+   "price_old": 6699.0,
+   "price_new": 3299.0,
+   "pct": 50.8,
+   "amount": 3400.0,
+   "ends": "",
+   "first_seen": 1793595842.6956234,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 3289.0,
+   "h_ayer": 3299.0
+  },
+  {
    "id": "999679927339",
    "name": "LENOVO Laptop 2 en 1 Touch IdeaPad 5 14 pulgadas WUXGA AMD Ryzen AI 7 350 AMD Radeon 16 GB RAM 1 TB",
    "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-ideapad-5-14-pulgadas-wuxga-amd-ryzen-ai-7-350-amd-radeon-16/999679927339",
@@ -8287,24 +8256,6 @@
    "h_min": 1899.0,
    "h_ayer": 1899.0,
    "h_min7": 1899.0
-  },
-  {
-   "id": "1208030732",
-   "name": "MIDEA Lavadora 25 kg automática carga superior MA516W25/C",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-25-kg-autom-tica-carga-superior-ma516w25-c/1208030732",
-   "img": "https://sp634.liverpool.com.mx/i/1208030732.jpg",
-   "category": "Lavadoras",
-   "price_old": 20999.0,
-   "price_new": 11759.44,
-   "pct": 44.0,
-   "amount": 9239.56,
-   "ends": "",
-   "first_seen": 1793577841.950726,
-   "in_stock": true,
-   "h_dias": 14,
-   "h_min": 11759.44,
-   "h_ayer": 13439.36,
-   "h_min7": 11759.44
   },
   {
    "id": "999682412678",
@@ -13015,6 +12966,22 @@
    "h_min": 1099.0,
    "h_ayer": 1099.0,
    "h_min7": 1099.0
+  },
+  {
+   "id": "999696285048",
+   "name": "VANS Tenis para mujer",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/999696285048",
+   "img": "https://sp550.liverpool.com.mx/i/1211810188.jpg",
+   "category": "Tenis",
+   "price_old": 2199.0,
+   "price_new": 1099.5,
+   "pct": 50.0,
+   "amount": 1099.5,
+   "ends": "",
+   "first_seen": 1793595842.6956234,
+   "in_stock": true,
+   "h_dias": 1,
+   "h_min": 1099.5
   },
   {
    "id": "999685797496",
@@ -19421,6 +19388,24 @@
    "h_min": 13899.0,
    "h_ayer": 13899.0,
    "h_min7": 13899.0
+  },
+  {
+   "id": "1126289321",
+   "name": "ACROS Lavadora 22 kg manual carga superior alf2253eb",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-22-kg-manual-carga-superior-alf2253eb/1126289321",
+   "img": "https://sp634.liverpool.com.mx/i/1126289321.jpg",
+   "category": "Lavadoras",
+   "price_old": 7988.0,
+   "price_new": 4879.0,
+   "pct": 38.9,
+   "amount": 3109.0,
+   "ends": "",
+   "first_seen": 1793595842.6956234,
+   "in_stock": true,
+   "h_dias": 47,
+   "h_min": 4729.0,
+   "h_ayer": 4879.0,
+   "h_min7": 4879.0
   },
   {
    "id": "999674343510",

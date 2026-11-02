@@ -1,13 +1,13 @@
 {
  "stores": {
   "costco": {
-   "last_attempt": 1793577919.297959,
-   "last_complete_sweep": 1793577919.297959,
-   "items": 1029,
+   "last_attempt": 1793581524.3996146,
+   "last_complete_sweep": 1793581524.3996146,
+   "items": 1023,
    "status": "ok",
    "reason": "",
    "host": "pc",
-   "micro_pages": 4
+   "micro_pages": 6
   },
   "palacio": {
    "last_attempt": 1793581481.8996747,
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1793581488.2631953
+ "updated_at": 1793581528.679477
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1793649842.72865,
- "generated_at_str": "02/11/2026 14:10",
+ "generated_at": 1793653442.6813416,
+ "generated_at_str": "02/11/2026 15:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -97,23 +97,6 @@
    "h_min7": 7414.76
   },
   {
-   "id": "1193557143",
-   "name": "MIDEA Secadora de gas de 22 kg con 14 ciclos MH04D220/S",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-gas-de-22-kg-con-14-ciclos-mh04d220-s/1193557143",
-   "img": "https://sp634.liverpool.com.mx/i/1193557143.jpg",
-   "category": "Secadoras",
-   "price_old": 22999.0,
-   "price_new": 8049.65,
-   "pct": 65.0,
-   "amount": 14949.35,
-   "ends": "",
-   "first_seen": 1793642642.6389182,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 8049.65,
-   "h_ayer": 8049.65
-  },
-  {
    "id": "1188157463",
    "name": "MASTERCHEF Freidora de aire 12 L Mk-afo-12dt",
    "url": "https://www.liverpool.com.mx/tienda/pdp/freidora-de-aire-12-l-mk-afo-12dt/1188157463",
@@ -166,24 +149,6 @@
    "h_min": 6999.0,
    "h_ayer": 8999.0,
    "h_min7": 8999.0
-  },
-  {
-   "id": "1182516844",
-   "name": "XTELLAR Aspiradora vertical 600 ml",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-vertical-600-ml/1182516844",
-   "img": "https://sp625.liverpool.com.mx/i/1182516844.jpg",
-   "category": "Aspiradoras",
-   "price_old": 13123.81,
-   "price_new": 4497.53,
-   "pct": 65.7,
-   "amount": 8626.28,
-   "ends": "",
-   "first_seen": 1793646242.6480646,
-   "in_stock": true,
-   "h_dias": 47,
-   "h_min": 4497.31,
-   "h_ayer": 4497.31,
-   "h_min7": 4497.31
   },
   {
    "id": "1185609215",
@@ -399,6 +364,23 @@
    "h_min": 19988.0,
    "h_ayer": 19988.0,
    "h_min7": 19988.0
+  },
+  {
+   "id": "1143027348",
+   "name": "MIDEA Refrigerador french door 19 pies cúbicos inverter y no frost MDRF700FGM46",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-19-pies-c-bicos-inverter-y-no-frost-mdrf700fgm46/1143027348",
+   "img": "https://sp634.liverpool.com.mx/i/1143027348.jpg",
+   "category": "Refrigeradores",
+   "price_old": 29030.0,
+   "price_new": 12192.6,
+   "pct": 58.0,
+   "amount": 16837.4,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 12192.6,
+   "h_ayer": 12192.6
   },
   {
    "id": "1180808988",
@@ -4978,6 +4960,24 @@
    "h_min7": 11089.0
   },
   {
+   "id": "1207589795",
+   "name": "MIDEA Refrigerador dúplex inverter y No Frost y automática Mdrs925mgm45a",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-d-plex-inverter-y-no-frost-y-autom-tica-mdrs925mgm45a/1207589795",
+   "img": "https://sp634.liverpool.com.mx/i/1207589795.jpg",
+   "category": "Refrigeradores",
+   "price_old": 37499.0,
+   "price_new": 19686.98,
+   "pct": 47.5,
+   "amount": 17812.02,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 15,
+   "h_min": 19686.98,
+   "h_ayer": 19686.98,
+   "h_min7": 19686.98
+  },
+  {
    "id": "999674151850",
    "name": "M & E MUEBLES Sala 2 piezas Sofia",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-sofia/999674151850",
@@ -5407,6 +5407,23 @@
    "h_min7": 595.0
   },
   {
+   "id": "1163957031",
+   "name": "MIDEA Refrigerador dúplex 20 pies cúbicos inverter y no frost MDRS710FGM46",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-d-plex-20-pies-c-bicos-inverter-y-no-frost-mdrs710fgm46/1163957031",
+   "img": "https://sp634.liverpool.com.mx/i/1163957031.jpg",
+   "category": "Refrigeradores",
+   "price_old": 30999.0,
+   "price_new": 16274.48,
+   "pct": 47.5,
+   "amount": 14724.52,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 14879.52,
+   "h_ayer": 16274.48
+  },
+  {
    "id": "1173842526",
    "name": "VELOCI Bicicleta infantil rodada 16 para niño",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-rodada-16-para-ni-o/1173842526",
@@ -5441,6 +5458,23 @@
    "h_min": 664.01,
    "h_ayer": 664.01,
    "h_min7": 664.01
+  },
+  {
+   "id": "1197392432",
+   "name": "TCL Pantalla Smart TV QD- mini LED 75 pulgadas 4K/UHD 75QM64L con Fire OS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qd-mini-led-75-pulgadas-4k-uhd-75qm64l-con-fire-os/1197392432",
+   "img": "https://sp629.liverpool.com.mx/i/1197392432.jpg",
+   "category": "Pantallas",
+   "price_old": 35999.0,
+   "price_new": 19198.9,
+   "pct": 46.7,
+   "amount": 16800.1,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 9,
+   "h_min": 19198.9,
+   "h_min7": 19198.9
   },
   {
    "id": "1165549933",
@@ -6376,6 +6410,23 @@
    "h_ayer": 4899.0
   },
   {
+   "id": "1171126343",
+   "name": "MIDEA Refrigerador bottom mount 11 pies cúbicos no frost MDRB424FGM46W",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-11-pies-c-bicos-no-frost-mdrb424fgm46w/1171126343",
+   "img": "https://sp634.liverpool.com.mx/i/1171126343.jpg",
+   "category": "Refrigeradores",
+   "price_old": 19999.0,
+   "price_new": 10499.48,
+   "pct": 47.5,
+   "amount": 9499.52,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 10399.48,
+   "h_ayer": 10499.48
+  },
+  {
    "id": "1141122629",
    "name": "CONAIR Secadora de cabello 256PES",
    "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-256pes/1141122629",
@@ -6517,6 +6568,23 @@
    "h_min": 5147.0,
    "h_ayer": 5147.0,
    "h_min7": 5147.0
+  },
+  {
+   "id": "1186067360",
+   "name": "MIDEA Refrigerador top mount 15 pies cúbicos inverter y no frost con fábrica de hielo MDRT580MTM46D",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-15-pies-c-bicos-inverter-y-no-frost-con-f-brica-de-hielo-/1186067360",
+   "img": "https://sp634.liverpool.com.mx/i/1186067360.jpg",
+   "category": "Refrigeradores",
+   "price_old": 18999.0,
+   "price_new": 9974.48,
+   "pct": 47.5,
+   "amount": 9024.52,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 9974.48,
+   "h_ayer": 9974.48
   },
   {
    "id": "1195015313",
@@ -6679,6 +6747,23 @@
    "h_min": 7907.44,
    "h_ayer": 8426.0,
    "h_min7": 8426.0
+  },
+  {
+   "id": "1186067386",
+   "name": "MIDEA Refrigerador Top Mount 12 pies cúbicos inverter y no frost y fábrica de hielo Mdrt489Mtm46Wd",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-12-pies-c-bicos-inverter-y-no-frost-y-f-brica-de-hielo-md/1186067386",
+   "img": "https://sp634.liverpool.com.mx/i/1186067386.jpg",
+   "category": "Refrigeradores",
+   "price_old": 16999.0,
+   "price_new": 8924.48,
+   "pct": 47.5,
+   "amount": 8074.52,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 8924.48,
+   "h_ayer": 8924.48
   },
   {
    "id": "999687444691",
@@ -7897,6 +7982,23 @@
    "h_min7": 542.55
   },
   {
+   "id": "1143027364",
+   "name": "MIDEA Refrigerador top mount 8 pies cúbicos MDRT210CCNLS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-8-pies-c-bicos-mdrt210ccnls/1143027364",
+   "img": "https://sp634.liverpool.com.mx/i/1143027364.jpg",
+   "category": "Refrigeradores",
+   "price_old": 10909.0,
+   "price_new": 5727.23,
+   "pct": 47.5,
+   "amount": 5181.77,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 2,
+   "h_min": 5727.23,
+   "h_ayer": 5727.23
+  },
+  {
    "id": "999674190240",
    "name": "AUX Aire acondicionado mini split frío asw32-h12a2/far3",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-fr-o-asw32-h12a2-far3/999674190240",
@@ -8364,6 +8466,24 @@
    "h_min7": 9899.0
   },
   {
+   "id": "999679447548",
+   "name": "SKULLCANDY Audífonos In-Ear Push Active inalámbricos",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-push-active-inal-mbricos/999679447548",
+   "img": "https://sp101.liverpool.com.mx/i/1202084911.jpg",
+   "category": "Audifonos",
+   "price_old": 2499.0,
+   "price_new": 1125.0,
+   "pct": 55.0,
+   "amount": 1374.0,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 35,
+   "h_min": 1125.0,
+   "h_ayer": 1125.0,
+   "h_min7": 1125.0
+  },
+  {
    "id": "1177422645",
    "name": "HONEYWELL Enfriador evaporativo 40 L CL42HE 127 V",
    "url": "https://www.liverpool.com.mx/tienda/pdp/enfriador-evaporativo-40-l-cl42he-127-v/1177422645",
@@ -8632,24 +8752,6 @@
    "h_min": 799.0,
    "h_ayer": 799.0,
    "h_min7": 799.0
-  },
-  {
-   "id": "1160430636",
-   "name": "LG Refrigerador french door 25 pies cúbicos inverter y no frost GM65BPP",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-25-pies-c-bicos-inverter-y-no-frost-gm65bpp/1160430636",
-   "img": "https://sp634.liverpool.com.mx/i/1160430636.jpg",
-   "category": "Refrigeradores",
-   "price_old": 32499.0,
-   "price_new": 19003.96,
-   "pct": 41.5,
-   "amount": 13495.04,
-   "ends": "",
-   "first_seen": 1793646242.6480646,
-   "in_stock": true,
-   "h_dias": 47,
-   "h_min": 19003.96,
-   "h_ayer": 19003.96,
-   "h_min7": 19003.96
   },
   {
    "id": "1162415588",
@@ -9134,24 +9236,6 @@
    "h_min": 12799.0,
    "h_ayer": 12799.0,
    "h_min7": 12799.0
-  },
-  {
-   "id": "999683640761",
-   "name": "EASY LIVING Set recámara de madera",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-de-madera/999683640761",
-   "img": "https://sp101.liverpool.com.mx/i/1205836523.jpg",
-   "category": "Recamaras",
-   "price_old": 61666.23,
-   "price_new": 37999.0,
-   "pct": 38.4,
-   "amount": 23667.23,
-   "ends": "",
-   "first_seen": 1793412241.8864677,
-   "in_stock": true,
-   "h_dias": 34,
-   "h_min": 36999.0,
-   "h_ayer": 37999.0,
-   "h_min7": 37999.0
   },
   {
    "id": "1173999638",
@@ -9691,6 +9775,22 @@
    "h_min7": 649.0
   },
   {
+   "id": "1197392726",
+   "name": "TCL Pantalla Smart TV QLED de 85 pulgadas 4K/UHD 85A400 con Google TV",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-85-pulgadas-4k-uhd-85a400-con-google-tv/1197392726",
+   "img": "https://sp629.liverpool.com.mx/i/1197392726.jpg",
+   "category": "Pantallas",
+   "price_old": 38999.0,
+   "price_new": 23499.0,
+   "pct": 39.7,
+   "amount": 15500.0,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 21399.0
+  },
+  {
    "id": "99973983464",
    "name": "SWISS CODE Smartwatch Square Pro AMOLED",
    "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-square-pro-amoled/99973983464",
@@ -10175,24 +10275,6 @@
    "h_min7": 31713.25
   },
   {
-   "id": "1200279162",
-   "name": "Pantalla Smart TV QNED de 55 pulgadas 4K 55QNED81BSC con WebOS con AI",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qned-de-55-pulgadas-4k-55qned81bsc-con-webos-con-ai/1200279162",
-   "img": "https://sp629.liverpool.com.mx/i/1200279162.jpg",
-   "category": "Pantallas",
-   "price_old": 22999.0,
-   "price_new": 13570.0,
-   "pct": 41.0,
-   "amount": 9429.0,
-   "ends": "",
-   "first_seen": 1793495042.4890623,
-   "in_stock": true,
-   "h_dias": 36,
-   "h_min": 9998.8,
-   "h_ayer": 13570.0,
-   "h_min7": 13570.0
-  },
-  {
    "id": "1184596063",
    "name": "BELUG Audífonos In-Ear inalámbricos con cancelacion de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelacion-de-ruido/1184596063",
@@ -10421,6 +10503,23 @@
    "h_min": 4290.0,
    "h_ayer": 4290.0,
    "h_min7": 4290.0
+  },
+  {
+   "id": "1197571329",
+   "name": "TCL Pantalla Smart TV QD- mini LED de 85 pulgadas 4K/UHD 85X11L con Google TV",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qd-mini-led-de-85-pulgadas-4k-uhd-85x11l-con-google-tv/1197571329",
+   "img": "https://sp629.liverpool.com.mx/i/1197571329.jpg",
+   "category": "Pantallas",
+   "price_old": 160999.0,
+   "price_new": 105898.8,
+   "pct": 34.2,
+   "amount": 55100.2,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 11,
+   "h_min": 105898.8,
+   "h_min7": 105898.8
   },
   {
    "id": "1177198966",
@@ -11154,6 +11253,23 @@
    "h_min": 1499.0,
    "h_ayer": 1499.0,
    "h_min7": 1499.0
+  },
+  {
+   "id": "1197391541",
+   "name": "TCL Pantallla Smart TV QD- mini LED de 55 pulgadas 4K/UHD 55QM64L con Fire OS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantallla-smart-tv-qd-mini-led-de-55-pulgadas-4k-uhd-55qm64l-con-fire-os/1197391541",
+   "img": "https://sp629.liverpool.com.mx/i/1197391541.jpg",
+   "category": "Pantallas",
+   "price_old": 18999.0,
+   "price_new": 11249.25,
+   "pct": 40.8,
+   "amount": 7749.75,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 7,
+   "h_min": 10499.3,
+   "h_min7": 10499.3
   },
   {
    "id": "99976981818",
@@ -15139,6 +15255,22 @@
    "h_min7": 6579.0
   },
   {
+   "id": "1197391886",
+   "name": "TCL Pantalla Smart TV QD- mini LED 85 pulgadas 4K/UHD 85QM64L con Fire OS",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qd-mini-led-85-pulgadas-4k-uhd-85qm64l-con-fire-os/1197391886",
+   "img": "https://sp629.liverpool.com.mx/i/1197391886.jpg",
+   "category": "Pantallas",
+   "price_old": 43999.0,
+   "price_new": 28605.75,
+   "pct": 35.0,
+   "amount": 15393.25,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 3,
+   "h_min": 24598.7
+  },
+  {
    "id": "999680064616",
    "name": "DUVENTUS Aire acondicionado mini split inverter frío 12000 BTU IVR/OVR9M121FIN2 220 V",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-fr-o-12000-btu-ivr-ovr9m121fin2-220-v/999680064616",
@@ -17451,24 +17583,6 @@
    "h_min7": 19269.0
   },
   {
-   "id": "1150801364",
-   "name": "LOTTO Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/1150801364",
-   "img": "https://sp550.liverpool.com.mx/i/1150801377.jpg",
-   "category": "Tenis",
-   "price_old": 1299.0,
-   "price_new": 649.0,
-   "pct": 50.0,
-   "amount": 650.0,
-   "ends": "",
-   "first_seen": 1793437442.6438074,
-   "in_stock": true,
-   "h_dias": 13,
-   "h_min": 649.0,
-   "h_ayer": 649.0,
-   "h_min7": 649.0
-  },
-  {
    "id": "1162198013",
    "name": "AL HARAMAIN Eau de parfum Amber Oud unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-amber-oud-unisex/1162198013",
@@ -17593,6 +17707,23 @@
    "h_min": 939.0,
    "h_ayer": 939.0,
    "h_min7": 939.0
+  },
+  {
+   "id": "1197570942",
+   "name": "TCL Pantalla Smart TV QD- mini LED 65 pulgadas 4K/UHD 65A400 Pro con Google TV",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qd-mini-led-65-pulgadas-4k-uhd-65a400-pro-con-google-tv/1197570942",
+   "img": "https://sp629.liverpool.com.mx/i/1197570942.jpg",
+   "category": "Pantallas",
+   "price_old": 26999.0,
+   "price_new": 17463.0,
+   "pct": 35.3,
+   "amount": 9536.0,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 9,
+   "h_min": 16298.8,
+   "h_min7": 16298.8
   },
   {
    "id": "1146746531",
@@ -20219,24 +20350,6 @@
    "h_min7": 2999.0
   },
   {
-   "id": "999682414334",
-   "name": "HERGOM Aspirador secreciones",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspirador-secreciones/999682414334",
-   "img": "https://sp101.liverpool.com.mx/i/1204651341.jpg",
-   "category": "Aspiradoras",
-   "price_old": 4999.0,
-   "price_new": 2999.0,
-   "pct": 40.0,
-   "amount": 2000.0,
-   "ends": "",
-   "first_seen": 1793646242.6480646,
-   "in_stock": true,
-   "h_dias": 9,
-   "h_min": 2999.0,
-   "h_ayer": 2999.0,
-   "h_min7": 2999.0
-  },
-  {
    "id": "1123459233",
    "name": "KEURIG CAFETERA CAPSULAS 5344818, MINI, NEGRO",
    "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-5344818-mini-negro/1123459233",
@@ -20307,24 +20420,6 @@
    "h_min": 10669.0,
    "h_ayer": 10669.0,
    "h_min7": 10669.0
-  },
-  {
-   "id": "1182078286",
-   "name": "HP Laptop 255 G10 15.6 pulgadas Full HD AMD Ryzen 3 Integradas 8 GB RAM 512 GB",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-255-g10-15-6-pulgadas-full-hd-amd-ryzen-3-integradas-8-gb-ram-512-gb/1182078286",
-   "img": "https://sp628.liverpool.com.mx/i/1182078286.jpg",
-   "category": "Laptops",
-   "price_old": 15015.0,
-   "price_new": 9699.0,
-   "pct": 35.4,
-   "amount": 5316.0,
-   "ends": "",
-   "first_seen": 1793649842.72865,
-   "in_stock": true,
-   "h_dias": 47,
-   "h_min": 9699.0,
-   "h_ayer": 9699.0,
-   "h_min7": 9699.0
   },
   {
    "id": "1193519497",
@@ -23066,6 +23161,24 @@
    "h_min7": 13790.0
   },
   {
+   "id": "1175822271",
+   "name": "HISENSE Pantalla Smart TV LED de 55 pulgadas 4K/UHD 55A65NV con AI Sports Mode",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-led-de-55-pulgadas-4k-uhd-55a65nv-con-ai-sports-mode/1175822271",
+   "img": "https://sp629.liverpool.com.mx/i/1175822271.jpg",
+   "category": "Pantallas",
+   "price_old": 10199.0,
+   "price_new": 6689.0,
+   "pct": 34.4,
+   "amount": 3510.0,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 25,
+   "h_min": 6689.0,
+   "h_ayer": 6689.0,
+   "h_min7": 6689.0
+  },
+  {
    "id": "1184988743",
    "name": "Consola de 256 GB Nintendo Switch reacondicionado",
    "url": "https://www.liverpool.com.mx/tienda/pdp/consola-de-256-gb-nintendo-switch-reacondicionado/1184988743",
@@ -23459,6 +23572,23 @@
    "h_min": 1299.0,
    "h_ayer": 1299.0,
    "h_min7": 1299.0
+  },
+  {
+   "id": "1148867212",
+   "name": "APPLE iPhone 15 Pro Max 6.6 pulgadas Super Retina XDR reacondicionado",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/iphone-15-pro-max-6-6-pulgadas-super-retina-xdr-reacondicionado/1148867212",
+   "img": "https://sp632.liverpool.com.mx/i/1148867212.jpg",
+   "category": "Celulares",
+   "price_old": 19799.0,
+   "price_new": 13499.0,
+   "pct": 31.8,
+   "amount": 6300.0,
+   "ends": "",
+   "first_seen": 1793653442.6813416,
+   "in_stock": true,
+   "h_dias": 32,
+   "h_min": 12399.0,
+   "h_min7": 13499.0
   },
   {
    "id": "1144500926",
@@ -28110,24 +28240,6 @@
    "h_min": 7899.0,
    "h_ayer": 7899.0,
    "h_min7": 7899.0
-  },
-  {
-   "id": "1181823115",
-   "name": "DAEWOO Aspiradora wet & dry DAVC90-15L 15 litros",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-wet-dry-davc90-15l-15-litros/1181823115",
-   "img": "https://sp625.liverpool.com.mx/i/1181823115.jpg",
-   "category": "Aspiradoras",
-   "price_old": 1789.0,
-   "price_new": 1119.0,
-   "pct": 37.5,
-   "amount": 670.0,
-   "ends": "",
-   "first_seen": 1793646242.6480646,
-   "in_stock": true,
-   "h_dias": 47,
-   "h_min": 1119.0,
-   "h_ayer": 1119.0,
-   "h_min7": 1119.0
   },
   {
    "id": "1131408290",
@@ -33398,24 +33510,6 @@
    "h_min": 591.58,
    "h_ayer": 593.48,
    "h_min7": 591.58
-  },
-  {
-   "id": "1182735767",
-   "name": "KARCHER Aspiradora vertical VCL-1 650 ml",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-vertical-vcl-1-650-ml/1182735767",
-   "img": "https://sp625.liverpool.com.mx/i/1182735767.jpg",
-   "category": "Aspiradoras",
-   "price_old": 1349.0,
-   "price_new": 919.0,
-   "pct": 31.9,
-   "amount": 430.0,
-   "ends": "",
-   "first_seen": 1793408641.9127138,
-   "in_stock": true,
-   "h_dias": 47,
-   "h_min": 909.0,
-   "h_ayer": 919.0,
-   "h_min7": 919.0
   },
   {
    "id": "999679504956",

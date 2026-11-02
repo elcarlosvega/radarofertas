@@ -1,6 +1,6 @@
 {
- "generated_at": 1793613892.318695,
- "generated_at_str": "02/11/2026 04:04",
+ "generated_at": 1793617513.0691803,
+ "generated_at_str": "02/11/2026 05:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -698,7 +698,7 @@
    "starts": "2026-11-02T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793613892.318695,
+   "first_seen": 1793613901.2331862,
    "h_dias": 37,
    "h_min": 20159.3,
    "h_min7": 20159.3
@@ -1335,7 +1335,7 @@
    "starts": "2026-11-02T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793613892.318695,
+   "first_seen": 1793613901.2331862,
    "h_dias": 22,
    "h_min": 1609.3,
    "h_min7": 1609.3
@@ -9498,6 +9498,25 @@
    "h_min7": 1499.25
   },
   {
+   "id": "675007",
+   "name": "Arnette 0AN428301/22 Lentes de Sol",
+   "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Arnette-0AN42830122-Lentes-de-Sol/p/675007",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/h43/122304272629790.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 16,
+   "h_min": 1499.25,
+   "h_ayer": 1499.25,
+   "h_min7": 1499.25
+  },
+  {
    "id": "991081",
    "name": "Guess GU00118@5120F Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Guess-GU001185120F-Lentes-de-Sol/p/991081",
@@ -10699,6 +10718,25 @@
    "name": "Bulova Twist Titanium Sempione Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Sempione-Armazon-Oftalmico/p/701532",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h45/h01/414734038466590.jpg",
+   "category": "Optica",
+   "price_old": 1299.0,
+   "price_new": 974.25,
+   "pct": 25.0,
+   "amount": 324.75,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 52,
+   "h_min": 974.25,
+   "h_ayer": 974.25,
+   "h_min7": 974.25
+  },
+  {
+   "id": "701531",
+   "name": "Bulova Twist Titanium Prospect Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Bulova-Twist-Titanium-Prospect-Armazon-Oftalmico/p/701531",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h92/h93/414734036107294.jpg",
    "category": "Optica",
    "price_old": 1299.0,
    "price_new": 974.25,
@@ -12003,6 +12041,26 @@
    "h_min": 19899.0,
    "h_ayer": 25499.0,
    "h_min7": 24999.0
+  },
+  {
+   "id": "704148",
+   "name": "TCL Pantalla 65\" Miniled 4K Fire TV 65QM64L",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-65-Miniled-4K-Fire-TV-65QM64L/p/704148",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h22/hbd/507724390826014.jpg",
+   "category": "Electronicos",
+   "price_old": 15999.0,
+   "price_new": 12499.0,
+   "pct": 21.9,
+   "amount": 3500.0,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793603125.958296,
+   "h_dias": 92,
+   "h_min": 11999.0,
+   "h_ayer": 12999.0,
+   "h_min7": 12499.0,
+   "h_min90": 11999.0
   },
   {
    "id": "652706",
@@ -16052,6 +16110,24 @@
    "h_min90": 15499.0
   },
   {
+   "id": "697590",
+   "name": "DELL 14 Laptop 14\" Full HD+ AMD Ryzen AI 5 16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-14-Laptop-14-Full-HD-AMD-Ryzen-AI-5-16GB-512GB-SSD/p/697590",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0c/h97/438164201013278.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 19999.0,
+   "price_new": 16999.0,
+   "pct": 15.0,
+   "amount": 3000.0,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793606704.1702116,
+   "h_dias": 79,
+   "h_min": 14999.0,
+   "h_min7": 16999.0
+  },
+  {
    "id": "700078",
    "name": "Montbrook Home, Justine, Sofá Cama",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Montbrook-Home-Justine-Sofa-Cama/p/700078",
@@ -18299,6 +18375,25 @@
    "h_min7": 24999.0
   },
   {
+   "id": "5921193",
+   "name": "Violanti, Cama King Gris",
+   "url": "https://www.costco.com.mx/Muebles/Recamara/Bases-de-Cama/Violanti-Cama-King-Gris/p/5921193",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h67/368463169060894.jpg",
+   "category": "Muebles",
+   "price_old": 13999.0,
+   "price_new": 12499.0,
+   "pct": 10.7,
+   "amount": 1500.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 65,
+   "h_min": 11899.0,
+   "h_ayer": 12499.0,
+   "h_min7": 12499.0
+  },
+  {
    "id": "693460",
    "name": "Apple iPad Chip A16 Wi-fi + Celular 128GB Rosa",
    "url": "https://www.costco.com.mx/Electronicos/Apple/iPad/Apple-iPad-Chip-A16-Wi-fi-Celular-128GB-Rosa/p/693460",
@@ -19130,6 +19225,25 @@
    "h_min": 34999.0,
    "h_ayer": 37999.0,
    "h_min7": 37999.0
+  },
+  {
+   "id": "704132",
+   "name": "Sharp Pantalla 85\" QLED 4K Roku TV 4T-C85HM6320U",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Sharp-Pantalla-85-QLED-4K-Roku-TV-4T-C85HM6320U/p/704132",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h63/h8a/467713412628510.jpg",
+   "category": "Electronicos",
+   "price_old": 20999.0,
+   "price_new": 18999.0,
+   "pct": 9.5,
+   "amount": 2000.0,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793603125.958296,
+   "h_dias": 65,
+   "h_min": 18999.0,
+   "h_ayer": 19499.0,
+   "h_min7": 18999.0
   },
   {
    "id": "697972",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1793585803.1458158,
- "generated_at_str": "01/11/2026 20:16",
+ "generated_at": 1793589211.3779762,
+ "generated_at_str": "01/11/2026 21:13",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -55692,23 +55692,6 @@
    "h_min7": 13475.0
   },
   {
-   "id": "295834",
-   "name": "Pantalla Smart TV LG 75 Pulgadas UHD 75UA7500",
-   "url": "https://www.coppel.com/pdp/pantalla-smart-tv-lg-75-pulgadas-uhd-75ua7500-pm-2958343",
-   "img": "https://cdn5.coppel.com/pm/2958343-1.jpg",
-   "category": "Pantallas",
-   "price_old": 15999.0,
-   "price_new": 10999.0,
-   "pct": 31.3,
-   "amount": 5000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1793538883.80979,
-   "h_dias": 1,
-   "h_min": 10999.0
-  },
-  {
    "id": "749122869",
    "name": "Laptop Asus Vivobook 15 15.6' Full Hd  Intel Core 5 120u  8gb Ram  512gb Ssd  Windows 11 Home",
    "url": "https://www.coppel.com/pdp/laptop-asus-vivobook-15-156-full-hd-intel-core-5-120u-8gb-ram-512gb-ssd-windows-11-home-mkp-749122869",
@@ -61208,6 +61191,25 @@
    "h_min7": 6999.0
   },
   {
+   "id": "47172767",
+   "name": "Laptop Hp Elitebook 840 G6 14” Core I5 16GB Ram 256GB Ssd Windows 11 Pro",
+   "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-840-g6-14-core-i5-16gb-ram-256gb-ssd-windows-11-pro-mkp-47172767",
+   "img": "https://cdn5.coppel.com/mkp/47172767-1.jpg",
+   "category": "Laptops",
+   "price_old": 9999.0,
+   "price_new": 6999.0,
+   "pct": 30.0,
+   "amount": 3000.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1792134839.629216,
+   "h_dias": 24,
+   "h_min": 6799.0,
+   "h_ayer": 6999.0,
+   "h_min7": 6999.0
+  },
+  {
    "id": "750234337",
    "name": "Laptop Dell Latitude 3410  14' Intel Core I5-10a 16gb Ram 256 Gb Ssd Reacondicionado",
    "url": "https://www.coppel.com/pdp/laptop-dell-latitude-3410-14-intel-core-i5-10a-16gb-ram-256-gb-ssd-reacondicionado-mkp-750234337",
@@ -61241,25 +61243,6 @@
    "first_seen": 1792134839.629216,
    "h_dias": 36,
    "h_min": 5999.0,
-   "h_ayer": 6999.0,
-   "h_min7": 6999.0
-  },
-  {
-   "id": "47172767",
-   "name": "Laptop Hp Elitebook 840 G6 14” Core I5 16GB Ram 256GB Ssd Windows 11 Pro",
-   "url": "https://www.coppel.com/pdp/laptop-hp-elitebook-840-g6-14-core-i5-16gb-ram-256gb-ssd-windows-11-pro-mkp-47172767",
-   "img": "https://cdn5.coppel.com/mkp/47172767-1.jpg",
-   "category": "Laptops",
-   "price_old": 9999.0,
-   "price_new": 6999.0,
-   "pct": 30.0,
-   "amount": 3000.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1792134839.629216,
-   "h_dias": 24,
-   "h_min": 6799.0,
    "h_ayer": 6999.0,
    "h_min7": 6999.0
   },

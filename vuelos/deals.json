@@ -1,6 +1,6 @@
 {
- "generated_at": 1793617443.766667,
- "generated_at_str": "02/11/2026 05:04",
+ "generated_at": 1793621043.986416,
+ "generated_at_str": "02/11/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -40,12 +40,12 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1711.0,
+   "price": 1735.0,
    "currency": "MXN",
    "departure_at": "2026-11-28T17:44:00-06:00",
    "return_at": "",
    "duration": 136,
-   "link": "https://www.aviasales.com/search/MEX2811CUN1?t=VB17958878401795899600000136TLCCUN_f9bd8809e72e99e57a0541cf50773991_7396&search_date=02112026&expected_price_uuid=01a19bdb-9865-8040-2605-3c524bed6540&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=1711",
+   "link": "https://www.aviasales.com/search/MEX2811CUN1?t=VB17958878401795899600000136TLCCUN_f9bd8809e72e99e57a0541cf50773991_7499&search_date=02112026&expected_price_uuid=01a19c0a-c318-8030-2d86-2b68c8dbf6e1&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=1735",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261128-f9bd8809/"
   },
@@ -90,26 +90,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261202-43e3e38a/"
   },
   {
-   "id": "43bfa6fb746aab69039eaae8ce022940",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2748.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-13T13:10:00-06:00",
-   "return_at": "",
-   "duration": 625,
-   "link": "https://www.aviasales.com/search/MEX1311BOG1?t=VB17945754001794616500000625NLUGDLBOG_43bfa6fb746aab69039eaae8ce022940_11832&search_date=02112026&expected_price_uuid=01a19ab8-07df-8040-af3e-508e7346863b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=r-E-88TDCQfICwScSf1Y6w&expected_price_source=share&expected_price_currency=mxn&expected_price=2748",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261113-43bfa6fb/"
-  },
-  {
    "id": "28310e654491b0ddf86cc4c6b23b3dfb",
    "kind": "flight",
    "origin": "MEX",
@@ -148,6 +128,26 @@
    "link": "https://www.aviasales.com/search/MEX2412LIM1?t=AM17981094001798134600000360MEXLIM_8c0879917877b3448fade1edd2457cd6_16068&search_date=02112026&expected_price_uuid=01a19bc5-5e22-8031-2515-a49a9d6d7b51&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LgIj7GUmw5zoO5D-LkkPAw&expected_price_source=share&expected_price_currency=mxn&expected_price=3718",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20261224-8c087991/"
+  },
+  {
+   "id": "fc8360d6173b9b0d41c214e0cdbd012e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "RIO",
+   "destination_name": "Río de Janeiro",
+   "airline": "CM",
+   "airline_title": "Copa Airlines",
+   "logo": "https://pics.avs.io/600/150/CM.png",
+   "logo_tipo": "",
+   "price": 10946.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-18T09:10:00-06:00",
+   "return_at": "",
+   "duration": 740,
+   "link": "https://www.aviasales.com/search/MEX1811RIO1?t=CM17949930001795048200000740MEXPTYGIG_fc8360d6173b9b0d41c214e0cdbd012e_47310&search_date=02112026&expected_price_uuid=01a19bea-1f11-8030-64d5-13ecafc43eb5&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=AsYzJAzlYBgEIwezq5afKQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10946",
+   "title": "Flight deals from Mexico City to Rio de Janeiro",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-rio-de-janeiro-20261118-fc8360d6/"
   },
   {
    "id": "1f4ed0cab713c56703ebddb04e1432eb",

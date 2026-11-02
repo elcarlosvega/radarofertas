@@ -1,6 +1,6 @@
 {
- "generated_at": 1793642643.8770087,
- "generated_at_str": "02/11/2026 12:04",
+ "generated_at": 1793646244.5581906,
+ "generated_at_str": "02/11/2026 13:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "14de2d32c34ca27f5f15aa6329476c8f",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PXM",
+   "destination_name": "Puerto Escondido",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1264.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-01T09:56:00-06:00",
+   "return_at": "",
+   "duration": 69,
+   "link": "https://www.aviasales.com/search/MEX0112PXM1?t=VB17961189601796123100000069NLUPXM_14de2d32c34ca27f5f15aa6329476c8f_5533&search_date=02112026&expected_price_uuid=01a19d8c-50f3-8031-6ca5-9eb3a1b2a09d&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=DT5Jt-gx9_GyqAO5T6LKnQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1264",
+   "title": "Flight deals from Mexico City to Puerto Escondido",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-escondido-20261201-14de2d32/"
+  },
   {
    "id": "f9bd8809e72e99e57a0541cf50773991",
    "kind": "flight",
@@ -90,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-panama-20270104-b38cf94c/"
   },
   {
+   "id": "b2d01a09e3b2e39a46666b1f84bf2011",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SCL",
+   "destination_name": "Santiago de Chile",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 7496.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-24T22:00:00-06:00",
+   "return_at": "",
+   "duration": 2140,
+   "link": "https://www.aviasales.com/search/MEX2411SCL1?t=Y417955576001795696800002140MEXLIMSCL_b2d01a09e3b2e39a46666b1f84bf2011_32804&search_date=02112026&expected_price_uuid=01a19d99-7d70-8030-ef76-68bbd9f0525d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EEgAd7RyBMK5785tmMB2fw&expected_price_source=share&expected_price_currency=mxn&expected_price=7496",
+   "title": "Flight deals from Mexico City to Santiago",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20261124-b2d01a09/"
+  },
+  {
    "id": "4fa6866ce3911f46ef38952297b97ecc",
    "kind": "flight",
    "origin": "MEX",
@@ -110,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261109-4fa6866c/"
   },
   {
-   "id": "f1f35a89081538734daabeb60e9c4fd7",
+   "id": "515764eee67d4e99066baef49c9839a8",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "IST",
    "destination_name": "Estambul",
-   "airline": "WS",
-   "airline_title": "WestJet",
-   "logo": "https://pics.avs.io/600/150/WS.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 10273.0,
+   "price": 15851.0,
    "currency": "MXN",
-   "departure_at": "2026-11-10T01:15:00-06:00",
+   "departure_at": "2027-02-10T22:20:00-06:00",
    "return_at": "",
-   "duration": 3340,
-   "link": "https://www.aviasales.com/search/MEX1011IST1?t=WS17942733001794506100003340MEXYYCFCOSAW_f1f35a89081538734daabeb60e9c4fd7_44839&search_date=02112026&expected_price_uuid=01a19c70-a134-8040-2571-475a97592714&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_7vGT6J2Z3FS7qA1S6sTJg&expected_price_source=share&expected_price_currency=mxn&expected_price=10273",
+   "duration": 1030,
+   "link": "https://www.aviasales.com/search/MEX1002IST1?t=AM18022980001802392200001030MEXCDGIST_515764eee67d4e99066baef49c9839a8_69366&search_date=02112026&expected_price_uuid=01a19d81-3628-8030-a016-c9fdaf2a913d&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=15851",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261110-f1f35a89/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270210-515764ee/"
   },
   {
    "id": "8608533d9a38b0ef5c39d0356580cfaf",
@@ -140,12 +180,12 @@
    "airline_title": "Air France",
    "logo": "https://pics.avs.io/600/150/AF.png",
    "logo_tipo": "",
-   "price": 17213.0,
+   "price": 17214.0,
    "currency": "MXN",
    "departure_at": "2026-12-07T23:05:00-06:00",
    "return_at": "",
    "duration": 1400,
-   "link": "https://www.aviasales.com/search/MEX0712CPT1?t=AF17966847001796797500001400MEXCDGCPT_8608533d9a38b0ef5c39d0356580cfaf_75247&search_date=02112026&expected_price_uuid=01a19cb5-6d36-8040-66c7-44833177a64d&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=17213",
+   "link": "https://www.aviasales.com/search/MEX0712CPT1?t=AF17966847001796797500001400MEXCDGCPT_8608533d9a38b0ef5c39d0356580cfaf_75247&search_date=02112026&expected_price_uuid=01a19cb5-6d36-8040-66c7-44833177a64d&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=c-92mb48Vld3En0jlrfmhA&expected_price_source=share&expected_price_currency=mxn&expected_price=17214",
    "title": "Flight deals from Mexico City to Cape Town",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-del-cabo-20261207-8608533d/"
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1793678644.808344,
- "generated_at_str": "02/11/2026 22:04",
+ "generated_at": 1793682243.4451592,
+ "generated_at_str": "02/11/2026 23:04",
  "origins": [
   "MEX",
   "GDL",
@@ -80,34 +80,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 4554.0,
+   "price": 4553.0,
    "currency": "MXN",
    "departure_at": "2026-11-24T18:52:00-06:00",
    "return_at": "",
    "duration": 248,
-   "link": "https://www.aviasales.com/search/GDL2411CHI1?t=VB17955463201795561200000248GDLORD_4098073b3852bb8e97442f0ce056b140_19912&search_date=03112026&expected_price_uuid=01a19ebd-486a-8040-26ec-73447f0dc61e&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=ZGX8zi9eENaG-aDO1ze9pw&expected_price_source=share&expected_price_currency=mxn&expected_price=4554",
+   "link": "https://www.aviasales.com/search/GDL2411CHI1?t=VB17955463201795561200000248GDLORD_4098073b3852bb8e97442f0ce056b140_19912&search_date=03112026&expected_price_uuid=01a19ebd-486a-8040-26ec-73447f0dc61e&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=ZGX8zi9eENaG-aDO1ze9pw&expected_price_source=share&expected_price_currency=mxn&expected_price=4553",
    "title": "Flight deals from Guadalajara to Chicago",
    "micro": "/oferta/vuelos/vuelo-guadalajara-chicago-20261124-4098073b/"
-  },
-  {
-   "id": "7b693d69b9bbd4952adef0e418eb18eb",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "LIM",
-   "destination_name": "Lima",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 4606.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-30T22:00:00-06:00",
-   "return_at": "",
-   "duration": 355,
-   "link": "https://www.aviasales.com/search/MEX3001LIM1?t=Y418013464001801371300000355MEXLIM_7b693d69b9bbd4952adef0e418eb18eb_20144&search_date=02112026&expected_price_uuid=01a19e8f-86d8-8031-2d9d-fca67c241586&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4606",
-   "title": "Flight deals from Mexico City to Lima",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270130-7b693d69/"
   },
   {
    "id": "b757e7fa1e210fc987bb3edf5a704176",
@@ -200,12 +180,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 15812.0,
+   "price": 15809.0,
    "currency": "MXN",
    "departure_at": "2027-05-10T16:55:00-05:00",
    "return_at": "",
    "duration": 1010,
-   "link": "https://www.aviasales.com/search/MEX1005IST1?t=AM18099681001810061100001010MEXCDGIST_266a806db59737aa785afa2128c84032_69140&search_date=03112026&expected_price_uuid=01a19f88-b90e-8040-a469-caca72af369a&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=TllNt1CgO1rwMKeYG3n3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=15812",
+   "link": "https://www.aviasales.com/search/MEX1005IST1?t=AM18099681001810061100001010MEXCDGIST_266a806db59737aa785afa2128c84032_69140&search_date=03112026&expected_price_uuid=01a19f88-b90e-8040-a469-caca72af369a&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=TllNt1CgO1rwMKeYG3n3mQ&expected_price_source=share&expected_price_currency=mxn&expected_price=15809",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270510-266a806d/"
   },
@@ -228,6 +208,26 @@
    "link": "https://www.aviasales.com/search/MEX0912DXB1?t=AF17968575001796963400001165MEXCDGDXB_24a55e810a926eeffad984de542e2ed3_71574&search_date=02112026&expected_price_uuid=01a19e95-3175-8031-6a58-d46b2a2902e5&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=Zt-mqHCPWvJxVGJPzZB3TA&expected_price_source=share&expected_price_currency=mxn&expected_price=16366",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261209-24a55e81/"
+  },
+  {
+   "id": "e21fff871996babd62c0322fd2a90c06",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 25699.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-08T00:40:00-06:00",
+   "return_at": "",
+   "duration": 1625,
+   "link": "https://www.aviasales.com/search/MEX0811BJS1?t=CZ17940984001794246300001625MEXSZXPKX_e21fff871996babd62c0322fd2a90c06_112392&search_date=03112026&expected_price_uuid=01a19fa3-daaa-8030-a188-2820657a05a3&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=QAVrNSyXrqvhXxWIY2bRJQ&expected_price_source=share&expected_price_currency=mxn&expected_price=25699",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261108-e21fff87/"
   }
  ]
 }

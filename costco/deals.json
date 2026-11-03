@@ -1,6 +1,6 @@
 {
- "generated_at": 1793729093.6204205,
- "generated_at_str": "03/11/2026 12:04",
+ "generated_at": 1793732712.4595516,
+ "generated_at_str": "03/11/2026 13:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1080,24 +1080,6 @@
    "h_min7": 2449.3
   },
   {
-   "id": "538764",
-   "name": "Don Julio 1942 Añejo Tequila 750 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Don-Julio-1942-Anejo-Tequila-750-ml/p/538764",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h18/hfd/384372390723614.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 3299.0,
-   "price_new": 2309.3,
-   "pct": 30.0,
-   "amount": 989.7,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793610328.0670438,
-   "h_dias": 2,
-   "h_min": 2309.3,
-   "h_ayer": 2309.3
-  },
-  {
    "id": "547845",
    "name": "Reserva de la Familia Extra Añejo Tequila 750 ml",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Reserva-de-la-Familia-Extra-Anejo-Tequila-750-ml/p/547845",
@@ -1716,10 +1698,10 @@
    "price_new": 909.3,
    "pct": 30.0,
    "amount": 389.7,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
+   "starts": "2026-11-03T06:00:00.000Z",
+   "ends": "2026-11-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793603125.958296,
+   "first_seen": 1793732712.4595516,
    "h_dias": 2,
    "h_min": 909.3,
    "h_ayer": 909.3
@@ -6259,25 +6241,6 @@
    "h_min7": 2999.25
   },
   {
-   "id": "705840",
-   "name": "Marc Jacobs Marc 896 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Marc-Jacobs-Marc-896-Armazon-Oftalmico/p/705840",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfc/h4c/520116491157534.jpg",
-   "category": "Optica",
-   "price_old": 3999.0,
-   "price_new": 2999.25,
-   "pct": 25.0,
-   "amount": 999.75,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 16,
-   "h_min": 2999.25,
-   "h_ayer": 2999.25,
-   "h_min7": 2999.25
-  },
-  {
    "id": "705799",
    "name": "Carrera 3086/S Lentes de Sol",
    "url": "https://www.costco.com.mx/Optica/Optica/Lentes-de-Sol/Carrera-3086S-Lentes-de-Sol/p/705799",
@@ -9479,6 +9442,25 @@
    "in_stock": true,
    "first_seen": 1792393520.9946861,
    "h_dias": 43,
+   "h_min": 1274.25,
+   "h_ayer": 1274.25,
+   "h_min7": 1274.25
+  },
+  {
+   "id": "666703",
+   "name": "Nourkrin Man 60 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-Man-60-Tabletas/p/666703",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h53/309121597308958.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1699.0,
+   "price_new": 1274.25,
+   "pct": 25.0,
+   "amount": 424.75,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-11-16T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792393520.9946861,
+   "h_dias": 39,
    "h_min": 1274.25,
    "h_ayer": 1274.25,
    "h_min7": 1274.25

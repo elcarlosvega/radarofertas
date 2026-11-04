@@ -1,6 +1,6 @@
 {
- "generated_at": 1793765095.7053282,
- "generated_at_str": "03/11/2026 22:04",
+ "generated_at": 1793768716.6685696,
+ "generated_at_str": "03/11/2026 23:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -2021,25 +2021,6 @@
    "h_min7": 769.3
   },
   {
-   "id": "685376",
-   "name": "Patrón Tequila Cristalino 700 ml",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Patron-Tequila-Cristalino-700-ml/p/685376",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h09/hb8/227372220153886.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 1099.0,
-   "price_new": 769.3,
-   "pct": 30.0,
-   "amount": 329.7,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793603125.958296,
-   "h_dias": 15,
-   "h_min": 759.0,
-   "h_ayer": 769.3,
-   "h_min7": 769.3
-  },
-  {
    "id": "679934",
    "name": "Reserva de la Familia Platino Orgánico Tequila 750 ml",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Tequila/Reserva-de-la-Familia-Platino-Organico-Tequila-750-ml/p/679934",
@@ -3710,26 +3691,6 @@
    "h_min": 29999.0,
    "h_ayer": 29999.0,
    "h_min7": 29999.0
-  },
-  {
-   "id": "674600",
-   "name": "Whirlpool Refrigerador 25' Side by Side",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Whirlpool-Refrigerador-25-Side-by-Side/p/674600",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h83/153444905582622.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 35999.0,
-   "price_new": 26999.0,
-   "pct": 25.0,
-   "amount": 9000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 91,
-   "h_min": 24899.0,
-   "h_ayer": 26999.0,
-   "h_min7": 26999.0,
-   "h_min90": 24899.0
   },
   {
    "id": "665578",
@@ -14420,26 +14381,6 @@
    "h_min7": 28999.0
   },
   {
-   "id": "674605",
-   "name": "Whirlpool Lavasecadora Eléctrica 20Kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavasecadora-Electrica-20Kg/p/674605",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6d/hbb/504676863082526.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 34999.0,
-   "price_new": 28999.0,
-   "pct": 17.1,
-   "amount": 6000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793001911.86595,
-   "h_dias": 91,
-   "h_min": 19899.0,
-   "h_ayer": 28999.0,
-   "h_min7": 28999.0,
-   "h_min90": 25499.0
-  },
-  {
    "id": "704966",
    "name": "DELL DC15250 Laptop 15.6\" FHD Intel Core i5-1334U 8GB 512GB SSD",
    "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/DELL-DC15250-Laptop-156-FHD-Intel-Core-i5-1334U-8GB-512GB-SSD/p/704966",
@@ -17216,6 +17157,25 @@
    "in_stock": true,
    "first_seen": 1792998317.1079981,
    "h_dias": 39,
+   "h_min": 20499.0,
+   "h_ayer": 21499.0,
+   "h_min7": 21499.0
+  },
+  {
+   "id": "705220",
+   "name": "Maytag Estufa Eléctrica de Piso de 76cm con 5 Zonas de Cocción",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Maytag-Estufa-Electrica-de-Piso-de-76cm-con-5-Zonas-de-Coccion/p/705220",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h12/h3f/507429134041118.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 24499.0,
+   "price_new": 21499.0,
+   "pct": 12.2,
+   "amount": 3000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792998317.1079981,
+   "h_dias": 31,
    "h_min": 20499.0,
    "h_ayer": 21499.0,
    "h_min7": 21499.0

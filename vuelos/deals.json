@@ -1,6 +1,6 @@
 {
- "generated_at": 1793837043.9456651,
- "generated_at_str": "04/11/2026 18:04",
+ "generated_at": 1793840644.2766743,
+ "generated_at_str": "04/11/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -170,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270414-adfe7237/"
   },
   {
-   "id": "806304f575f344c15ee6ab154dc1f361",
+   "id": "8c9946fb3a36c6c1fb7095992d0a6694",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "DXB",
-   "destination_name": "Dubái",
-   "airline": "AF",
-   "airline_title": "Air France",
-   "logo": "https://pics.avs.io/600/150/AF.png",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "HU",
+   "airline_title": "Hainan Airlines",
+   "logo": "https://pics.avs.io/600/150/HU.png",
    "logo_tipo": "",
-   "price": 16272.0,
+   "price": 17231.0,
    "currency": "MXN",
-   "departure_at": "2026-12-03T19:55:00-06:00",
+   "departure_at": "2026-11-07T04:55:00-06:00",
    "return_at": "",
-   "duration": 1265,
-   "link": "https://www.aviasales.com/search/MEX0312DXB1?t=AF17963277001796439600001265MEXCDGDXB_806304f575f344c15ee6ab154dc1f361_71592&search_date=04112026&expected_price_uuid=01a1a7d3-bb2a-8030-27fb-2787314f1f8b&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=uwsWqiHekUg247KAfS1e3w&expected_price_source=share&expected_price_currency=mxn&expected_price=16272",
-   "title": "Flight deals from Mexico City to Dubai",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261203-806304f5/"
+   "duration": 1065,
+   "link": "https://www.aviasales.com/search/MEX0711BJS1?t=HU17940273001794141600001065MEXTIJPEK_8c9946fb3a36c6c1fb7095992d0a6694_75797&search_date=05112026&expected_price_uuid=01a1a913-e145-8030-6194-7b0551bf4efa&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR1%7CTBC0&itinerary_key=XeiPjJZO1I2w5ikeJHgCVw&expected_price_source=share&expected_price_currency=mxn&expected_price=17231",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261107-8c9946fb/"
   },
   {
    "id": "7ac260d672a117200f2a3fcb63688f5d",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1793891131.1600199,
- "generated_at_str": "05/11/2026 09:05",
+ "generated_at": 1793894723.0305276,
+ "generated_at_str": "05/11/2026 10:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -78,7 +78,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 87,
    "h_min": 33999.0,
    "h_min7": 33999.0
@@ -1055,7 +1055,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 78,
    "h_min": 3499.0,
    "h_min7": 3499.0
@@ -1110,7 +1110,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 2,
    "h_min": 2999.0
   },
@@ -1388,7 +1388,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 2,
    "h_min": 1679.0
   },
@@ -1423,7 +1423,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 2,
    "h_min": 1599.0
   },
@@ -1496,7 +1496,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 1539.3
   },
@@ -1531,7 +1531,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 1469.3
   },
@@ -1605,7 +1605,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 1399.3
   },
@@ -1677,7 +1677,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 1329.3
   },
@@ -1820,7 +1820,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 1119.3
   },
@@ -1837,7 +1837,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 1119.3
   },
@@ -1918,6 +1918,24 @@
    "name": "Hendrick's Ginebra 1 L",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Ginebra/Hendricks-Ginebra-1-L/p/657037",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h59/16902455853086.jpg",
+   "category": "Licores y Gourmet",
+   "price_old": 1399.0,
+   "price_new": 979.3,
+   "pct": 30.0,
+   "amount": 419.7,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793603125.958296,
+   "h_dias": 4,
+   "h_min": 979.3,
+   "h_ayer": 979.3
+  },
+  {
+   "id": "1483766",
+   "name": "Kirkland Signature Islay Peated Single Malt Scotch Whisky 750 ml",
+   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Whisky/Kirkland-Signature-Islay-Peated-Single-Malt-Scotch-Whisky-750-ml/p/1483766",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h86/hc9/383380885864478.jpg",
    "category": "Licores y Gourmet",
    "price_old": 1399.0,
    "price_new": 979.3,
@@ -2237,9 +2255,9 @@
    "pct": 30.0,
    "amount": 329.7,
    "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
+   "ends": "2026-11-23T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793603125.958296,
+   "first_seen": 1793894723.0305276,
    "h_dias": 5,
    "h_min": 769.3,
    "h_ayer": 769.3
@@ -2433,6 +2451,26 @@
    "h_ayer": 25999.0,
    "h_min7": 25999.0,
    "h_min90": 25999.0
+  },
+  {
+   "id": "593501",
+   "name": "Maytag Lavadora 20Kg Carga Superior",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Lavadora-20Kg-Carga-Superior/p/593501",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/h72/14411389403166.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 16999.0,
+   "price_new": 11999.0,
+   "pct": 29.4,
+   "amount": 5000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793001911.86595,
+   "h_dias": 94,
+   "h_min": 10799.0,
+   "h_ayer": 11999.0,
+   "h_min7": 11999.0,
+   "h_min90": 10999.0
   },
   {
    "id": "706808",
@@ -10898,6 +10936,25 @@
    "h_min7": 951.75
   },
   {
+   "id": "628377",
+   "name": "Slender-Duet 90 cápsulas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Control-de-Peso/Slender-Duet-90-capsulas/p/628377",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h25/h7a/15500291244062.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1229.0,
+   "price_new": 921.75,
+   "pct": 25.0,
+   "amount": 307.25,
+   "starts": "2026-10-19T06:00:00.000Z",
+   "ends": "2026-11-16T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1792393520.9946861,
+   "h_dias": 15,
+   "h_min": 921.75,
+   "h_ayer": 921.75,
+   "h_min7": 921.75
+  },
+  {
    "id": "1293824",
    "name": "Yardistry Pérgola de Madera con Techo de Aluminio de 3.7m x 4.9m",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Pergola-de-Madera-con-Techo-de-Aluminio-de-37m-x-49m/p/1293824",
@@ -11884,6 +11941,25 @@
    "h_min90": 8499.0
   },
   {
+   "id": "696201",
+   "name": "GE Lavadora 24Kg Carga Superior",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-24Kg-Carga-Superior/p/696201",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/h34/504702933139486.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13599.0,
+   "price_new": 10599.0,
+   "pct": 22.1,
+   "amount": 3000.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793394317.9978483,
+   "h_dias": 71,
+   "h_min": 9999.0,
+   "h_ayer": 10599.0,
+   "h_min7": 10599.0
+  },
+  {
    "id": "705147",
    "name": "Thor Kitchen Maquina de Hielo 15\"",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Frigobares/Thor-Kitchen-Maquina-de-Hielo-15/p/705147",
@@ -12166,7 +12242,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 47,
    "h_min": 54999.0,
    "h_min7": 54999.0
@@ -12613,7 +12689,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 23,
    "h_min": 7799.0,
    "h_min7": 8699.0
@@ -12631,7 +12707,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 23,
    "h_min": 7799.0,
    "h_min7": 8699.0
@@ -13318,7 +13394,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 12,
    "h_min": 14399.0,
    "h_min7": 14399.0
@@ -13336,7 +13412,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 12,
    "h_min": 14399.0,
    "h_min7": 14399.0
@@ -14105,6 +14181,25 @@
    "h_dias": 2,
    "h_min": 19499.0,
    "h_ayer": 19499.0
+  },
+  {
+   "id": "522046",
+   "name": "Sealy, Denver, Colchón King Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Denver-Colchon-King-Size/p/522046",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h84/hc8/69509800001566.jpg",
+   "category": "Muebles",
+   "price_old": 16999.0,
+   "price_new": 13799.0,
+   "pct": 18.8,
+   "amount": 3200.0,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793603125.958296,
+   "h_dias": 76,
+   "h_min": 12899.0,
+   "h_ayer": 13799.0,
+   "h_min7": 12999.0
   },
   {
    "id": "705342",
@@ -14990,7 +15085,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-06T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 36,
    "h_min": 65999.0,
    "h_min7": 73999.0
@@ -17124,7 +17219,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 1,
    "h_min": 11199.0
   },
@@ -17141,7 +17236,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 5,
    "h_min": 11199.0
   },
@@ -17295,7 +17390,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 18,
    "h_min": 16999.0,
    "h_min7": 17299.0
@@ -17313,7 +17408,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-09T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793891131.1600199,
+   "first_seen": 1793891140.5945058,
    "h_dias": 30,
    "h_min": 15999.0,
    "h_min7": 17299.0
@@ -17449,6 +17544,25 @@
    "h_ayer": 23499.0,
    "h_min7": 22999.0,
    "h_min90": 22799.0
+  },
+  {
+   "id": "701003",
+   "name": "HP 15-fd0281la Laptop 15.6\" FHD Touch Intel Core i7-1355U16GB 512GB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0281la-Laptop-156-FHD-Touch-Intel-Core-i7-1355U16GB-512GB-SSD/p/701003",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd6/hca/484393853485086.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 22999.0,
+   "price_new": 19999.0,
+   "pct": 13.0,
+   "amount": 3000.0,
+   "starts": "2026-11-02T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793606704.1702116,
+   "h_dias": 49,
+   "h_min": 17999.0,
+   "h_ayer": 19999.0,
+   "h_min7": 17999.0
   },
   {
    "id": "693648",
@@ -20638,6 +20752,25 @@
    "h_min": 39999.0,
    "h_ayer": 44499.0,
    "h_min7": 44499.0
+  },
+  {
+   "id": "702846",
+   "name": "Samsung Pantalla 85\" QLED The Frame 4K Smart TV + Marco QN85LS03HEFXZX",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/Samsung-Pantalla-85-QLED-The-Frame-4K-Smart-TV-Marco-QN85LS03HEFXZX/p/702846",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h21/452879657107486.jpg",
+   "category": "Electronicos",
+   "price_old": 37999.0,
+   "price_new": 35999.0,
+   "pct": 5.3,
+   "amount": 2000.0,
+   "starts": "2026-11-01T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793516727.6323543,
+   "h_dias": 81,
+   "h_min": 32999.0,
+   "h_ayer": 35999.0,
+   "h_min7": 35999.0
   },
   {
    "id": "697125",

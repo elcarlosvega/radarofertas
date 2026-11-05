@@ -1,6 +1,6 @@
 {
- "generated_at": 1793898329.3113334,
- "generated_at_str": "05/11/2026 11:05",
+ "generated_at": 1793901921.1809433,
+ "generated_at_str": "05/11/2026 12:05",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -999,7 +999,7 @@
    "starts": "2026-11-05T06:00:00.000Z",
    "ends": "2026-11-19T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1793898329.3113334,
+   "first_seen": 1793898336.953703,
    "h_dias": 2,
    "h_min": 4199.0
   },
@@ -1929,24 +1929,6 @@
    "h_dias": 4,
    "h_min": 1049.3,
    "h_ayer": 1049.3
-  },
-  {
-   "id": "657037",
-   "name": "Hendrick's Ginebra 1 L",
-   "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Ginebra/Hendricks-Ginebra-1-L/p/657037",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h5f/h59/16902455853086.jpg",
-   "category": "Licores y Gourmet",
-   "price_old": 1399.0,
-   "price_new": 979.3,
-   "pct": 30.0,
-   "amount": 419.7,
-   "starts": "2026-11-02T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793603125.958296,
-   "h_dias": 4,
-   "h_min": 979.3,
-   "h_ayer": 979.3
   },
   {
    "id": "1483766",
@@ -10972,25 +10954,6 @@
    "h_min7": 921.75
   },
   {
-   "id": "1293824",
-   "name": "Yardistry Pérgola de Madera con Techo de Aluminio de 3.7m x 4.9m",
-   "url": "https://www.costco.com.mx/Patio-y-Jardin/Pergolas-Sombrillas-y-Carpas/Pergolas/Yardistry-Pergola-de-Madera-con-Techo-de-Aluminio-de-37m-x-49m/p/1293824",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h26/h7b/45346765996062.jpg",
-   "category": "Patio y Jardin",
-   "price_old": 52999.0,
-   "price_new": 39999.0,
-   "pct": 24.5,
-   "amount": 13000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 82,
-   "h_min": 36999.0,
-   "h_ayer": 39999.0,
-   "h_min7": 39999.0
-  },
-  {
    "id": "705233",
    "name": "Maytag Secadora de Gas 28Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-28Kg/p/705233",
@@ -11956,25 +11919,6 @@
    "h_ayer": 10599.0,
    "h_min7": 8499.0,
    "h_min90": 8499.0
-  },
-  {
-   "id": "696201",
-   "name": "GE Lavadora 24Kg Carga Superior",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Lavadora-24Kg-Carga-Superior/p/696201",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h88/h34/504702933139486.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 13599.0,
-   "price_new": 10599.0,
-   "pct": 22.1,
-   "amount": 3000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1793394317.9978483,
-   "h_dias": 71,
-   "h_min": 9999.0,
-   "h_ayer": 10599.0,
-   "h_min7": 10599.0
   },
   {
    "id": "705147",
@@ -13033,25 +12977,6 @@
    "h_dias": 4,
    "h_min": 83199.2,
    "h_ayer": 83199.2
-  },
-  {
-   "id": "1303994",
-   "name": "Portofino, Motion Estate Colección Para Exterior de 13 piezas, Color Turquesa",
-   "url": "https://www.costco.com.mx/Muebles/Muebles-para-Jardin/Colecciones/Portofino-Motion-Estate-Coleccion-Para-Exterior-de-13-piezas-Color-Turquesa/p/1303994",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h61/hfc/12669942366238.jpg",
-   "category": "Muebles",
-   "price_old": 99999.0,
-   "price_new": 79999.0,
-   "pct": 20.0,
-   "amount": 20000.0,
-   "starts": "2026-10-26T06:00:00.000Z",
-   "ends": "2026-11-09T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1792998317.1079981,
-   "h_dias": 83,
-   "h_min": 69999.0,
-   "h_ayer": 79999.0,
-   "h_min7": 79999.0
   },
   {
    "id": "52960",
@@ -14760,6 +14685,24 @@
    "h_min": 11699.0,
    "h_ayer": 13699.0,
    "h_min7": 13699.0
+  },
+  {
+   "id": "701908",
+   "name": "HP 15-fc0265la Laptop 15.6\" Full HD AMD Ryzen 5 8GB 512GB SSD + 12 Meses M365 Personal",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fc0265la-Laptop-156-Full-HD-AMD-Ryzen-5-8GB-512GB-SSD-12-Meses-M365-Personal/p/701908",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h93/438164211695646.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 12199.0,
+   "price_new": 9999.0,
+   "pct": 18.0,
+   "amount": 2200.0,
+   "starts": "2026-10-26T06:00:00.000Z",
+   "ends": "2026-11-09T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1793005514.3634305,
+   "h_dias": 47,
+   "h_min": 7999.0,
+   "h_min7": 9999.0
   },
   {
    "id": "693300",

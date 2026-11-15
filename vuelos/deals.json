@@ -1,6 +1,6 @@
 {
- "generated_at": 1794762272.4588408,
- "generated_at_str": "15/11/2026 11:04",
+ "generated_at": 1794765871.4589357,
+ "generated_at_str": "15/11/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,6 +50,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261205-48803150/"
   },
   {
+   "id": "159fb9b8de2a0f3100ec697a5fc79474",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "NYC",
+   "destination_name": "Nueva York",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 3002.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-25T15:05:00-06:00",
+   "return_at": "",
+   "duration": 495,
+   "link": "https://www.aviasales.com/search/MEX2502NYC1?t=VB18035679001803601200000495TLCMTYJFK_159fb9b8de2a0f3100ec697a5fc79474_13414&search_date=15112026&expected_price_uuid=01a1e021-2ddd-8030-ecde-c471950fd748&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5U11kqJYAn8sHK0yRQm3_g&expected_price_source=share&expected_price_currency=mxn&expected_price=3002",
+   "title": "Flight deals from Mexico City to New York",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20270225-159fb9b8/"
+  },
+  {
    "id": "98536f8fc78eb564a7e6f5272e0afcea",
    "kind": "flight",
    "origin": "MEX",
@@ -68,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX1611DFW1?t=VB17948088601794856560000795TLCMTYDFW_98536f8fc78eb564a7e6f5272e0afcea_17114&search_date=15112026&expected_price_uuid=01a1dfa8-119b-8030-6a00-f85097bfe32a&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=bDFYva3NEkxKZbDqtG9reQ&expected_price_source=share&expected_price_currency=mxn&expected_price=3830",
    "title": "Flight deals from Mexico City to Dallas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dallas-20261116-98536f8f/"
-  },
-  {
-   "id": "cdbf789663ac9e720a30746b449bf4fd",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4850.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-26T10:06:00-06:00",
-   "return_at": "",
-   "duration": 684,
-   "link": "https://www.aviasales.com/search/MEX2611NYC1?t=DM17956875601795732200000684NLUPUJEWR_cdbf789663ac9e720a30746b449bf4fd_21673&search_date=15112026&expected_price_uuid=01a1df5b-f5dc-8040-2da7-34985eba423c&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PrcN9Rj70tnq9sn8E0qTYg&expected_price_source=share&expected_price_currency=mxn&expected_price=4850",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20261126-cdbf7896/"
   },
   {
    "id": "2cb06b42aa33ef0cbdb8b5f260cff81a",
@@ -110,7 +110,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20270122-2cb06b42/"
   },
   {
-   "id": "32ab7b71e020e5005d7eecf13354e539",
+   "id": "b278e4fee3575080309abaf138222d32",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +120,14 @@
    "airline_title": "Singapore Airlines",
    "logo": "https://pics.avs.io/600/150/SQ.png",
    "logo_tipo": "",
-   "price": 13189.0,
+   "price": 13152.0,
    "currency": "MXN",
-   "departure_at": "2027-02-18T08:20:00-06:00",
+   "departure_at": "2027-02-16T08:20:00-06:00",
    "return_at": "",
    "duration": 3005,
-   "link": "https://www.aviasales.com/search/MEX1802DPS1?t=SQ18029388001803169500003005MEXOAKSFOSINDPS_32ab7b71e020e5005d7eecf13354e539_58933&search_date=15112026&expected_price_uuid=01a1dedf-1540-8030-a87f-bbe9d1b8b46e&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=9SpSF5Js0UTbwC5bzI5vmw&expected_price_source=share&expected_price_currency=mxn&expected_price=13189",
+   "link": "https://www.aviasales.com/search/MEX1602DPS1?t=SQ18027660001802996700003005MEXOAKSFOSINDPS_b278e4fee3575080309abaf138222d32_58768&search_date=15112026&expected_price_uuid=01a1df31-c229-8040-25f2-c21a6535fb79&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=9SpSF5Js0UTbwC5bzI5vmw&expected_price_source=share&expected_price_currency=mxn&expected_price=13152",
    "title": "Flight deals from Mexico City to Denpasar (Bali)",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20270218-32ab7b71/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20270216-b278e4fe/"
   },
   {
    "id": "807198d50c27a937105bcab60670d831",

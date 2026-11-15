@@ -1,19 +1,8 @@
 {
- "generated_at": 1794769442.2871497,
- "generated_at_str": "15/11/2026 13:10",
- "total": 2139,
+ "generated_at": 1794776642.311342,
+ "generated_at_str": "15/11/2026 15:09",
+ "total": 2343,
  "deals": [
-  {
-   "id": "1179938843",
-   "name": "HISENSE Pantalla Smart TV QLED de 100 pulgadas 4K/UHD 100QD7N con Google TV",
-   "img": "https://sp629.liverpool.com.mx/i/1179938843.jpg",
-   "category": "Pantallas",
-   "price_new": 35808.99,
-   "price_old": 89999.99,
-   "pct": 60.2,
-   "amount": 54191.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-100-pulgadas-4k-uhd-100qd7n-con-google-tv/1179938843"
-  },
   {
    "id": "999681611510",
    "name": "VANIGLAM Sala 3 piezas Aria de poliestireno",
@@ -24,6 +13,17 @@
    "pct": 61.7,
    "amount": 41000.0,
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-aria-de-poliestireno/999681611510"
+  },
+  {
+   "id": "999681613054",
+   "name": "VANIGLAM Sala 3 piezas Danna de poliestireno",
+   "img": "https://sp101.liverpool.com.mx/i/1204111908.jpeg",
+   "category": "Salas",
+   "price_new": 25500.0,
+   "price_old": 66500.0,
+   "pct": 61.7,
+   "amount": 41000.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-danna-de-poliestireno/999681613054"
   },
   {
    "id": "1155591851",
@@ -57,6 +57,17 @@
    "pct": 62.5,
    "amount": 30000.0,
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-nauka-de-poli-ster/999683486356"
+  },
+  {
+   "id": "1183384607",
+   "name": "DABB Set de bocinas dab-0306",
+   "img": "https://ss630.liverpool.com.mx/lg/1183384607.jpg",
+   "category": "Bocinas",
+   "price_new": 429.0,
+   "price_old": 2539.0,
+   "pct": 83.1,
+   "amount": 2110.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-bocinas-dab-0306/1183384607"
   },
   {
    "id": "1124796195",
@@ -114,26 +125,15 @@
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-2-piezas-victoria/999681682675"
   },
   {
-   "id": "1182516844",
-   "name": "XTELLAR Aspiradora vertical 600 ml",
-   "img": "https://sp625.liverpool.com.mx/i/1182516844.jpg",
-   "category": "Aspiradoras",
-   "price_new": 4497.48,
-   "price_old": 13123.72,
-   "pct": 65.7,
-   "amount": 8626.24,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-vertical-600-ml/1182516844"
-  },
-  {
-   "id": "1192619871",
-   "name": "XTELLAR Audífonos In-Ear 7914 inalámbricos con cancelacion de ruido",
-   "img": "https://sp630.liverpool.com.mx/i/1192619871.jpg",
-   "category": "Audifonos",
-   "price_new": 545.79,
-   "price_old": 2499.0,
-   "pct": 78.2,
-   "amount": 1953.21,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-7914-inal-mbricos-con-cancelacion-de-ruido/1192619871"
+   "id": "1192876539",
+   "name": "MOBICA Sofá cama armable Lodz de tela",
+   "img": "https://ss101.liverpool.com.mx/lg/1192876539.jpg",
+   "category": "Salas",
+   "price_new": 15199.0,
+   "price_old": 37990.0,
+   "pct": 60.0,
+   "amount": 22791.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sof-cama-armable-lodz-de-tela/1192876539"
   }
  ]
 }

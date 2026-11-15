@@ -1,6 +1,6 @@
 {
- "generated_at": 1794776666.569642,
- "generated_at_str": "15/11/2026 15:04",
+ "generated_at": 1794780243.7581458,
+ "generated_at_str": "15/11/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -45,7 +45,7 @@
    "departure_at": "2026-12-06T08:25:00-06:00",
    "return_at": "",
    "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX0612CUN1?t=Y417965455001796557320000137TLCCUN_8ee9da171160f6ee55d3c218153cb000_3278&search_date=15112026&expected_price_uuid=01a1e0fb-f91b-8031-2958-ac4ee494d5d2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=734",
+   "link": "https://www.aviasales.com/search/MEX0612CUN1?t=Y417965455001796557320000137TLCCUN_8ee9da171160f6ee55d3c218153cb000_3277&search_date=15112026&expected_price_uuid=01a1e10b-c9c7-8031-6804-87906596301b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=734",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261206-8ee9da17/"
   },
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270118-7d9b6d3d/"
   },
   {
-   "id": "901634b035c8d0468fa0564f65138816",
+   "id": "54220221124820ef885d1294b88c8212",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
+   "destination": "PXM",
+   "destination_name": "Puerto Escondido",
    "airline": "Y4",
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 2708.0,
+   "price": 1543.0,
    "currency": "MXN",
-   "departure_at": "2026-12-06T00:45:00-06:00",
+   "departure_at": "2027-09-22T08:13:00-05:00",
    "return_at": "",
    "duration": 266,
-   "link": "https://www.aviasales.com/search/MEX0612BOG1?t=Y417965179001796537460000266NLUBOG_901634b035c8d0468fa0564f65138816_12089&search_date=15112026&expected_price_uuid=01a1e0f0-8b8d-8040-23ac-f932d87fd92c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LdzqgVdAwq03V9TQBIt9hQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2708",
-   "title": "Flight deals from Mexico City to Bogota",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261206-901634b0/"
+   "link": "https://www.aviasales.com/search/MEX2209PXM1?t=Y418216007801821616740000266TLCGDLPXM_54220221124820ef885d1294b88c8212_6887&search_date=15112026&expected_price_uuid=01a1e11f-00bc-8030-ee97-46256cf70fac&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=TzEJ90DnEGd9jt1TjiFjtg&expected_price_source=share&expected_price_currency=mxn&expected_price=1543",
+   "title": "Flight deals from Mexico City to Puerto Escondido",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-escondido-20270922-54220221/"
   },
   {
    "id": "9ec24b53bdcc0ccfd5da3b7e54a63a7a",

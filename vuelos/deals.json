@@ -1,6 +1,6 @@
 {
- "generated_at": 1794758665.5205512,
- "generated_at_str": "15/11/2026 10:04",
+ "generated_at": 1794762272.4588408,
+ "generated_at_str": "15/11/2026 11:04",
  "origins": [
   "MEX",
   "GDL",
@@ -30,7 +30,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270126-540fccd1/"
   },
   {
-   "id": "0add2ab6b87973d582f3df1d4e5b8a21",
+   "id": "4880315096f3d98950b484a935610875",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -40,14 +40,14 @@
    "airline_title": "Volaris",
    "logo": "https://pics.avs.io/600/136/Y4.png",
    "logo_tipo": "",
-   "price": 826.0,
+   "price": 1131.0,
    "currency": "MXN",
-   "departure_at": "2027-02-11T08:25:00-06:00",
+   "departure_at": "2026-12-05T19:55:00-06:00",
    "return_at": "",
-   "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX1102CUN1?t=Y418023343001802346120000137TLCCUN_0add2ab6b87973d582f3df1d4e5b8a21_3689&search_date=15112026&expected_price_uuid=01a1ded1-2588-8030-6383-ff8b25d166c6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=826",
+   "duration": 132,
+   "link": "https://www.aviasales.com/search/MEX0512CUN1?t=Y417965005001796512020000132MEXCUN_4880315096f3d98950b484a935610875_5053&search_date=15112026&expected_price_uuid=01a1df44-9688-8030-a826-56d48fac5902&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=w4j1IXG5TKDcaa7IO20pdA&expected_price_source=share&expected_price_currency=mxn&expected_price=1131",
    "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20270211-0add2ab6/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261205-48803150/"
   },
   {
    "id": "98536f8fc78eb564a7e6f5272e0afcea",
@@ -130,6 +130,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-denpasar-bali-20270218-32ab7b71/"
   },
   {
+   "id": "807198d50c27a937105bcab60670d831",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 15860.0,
+   "currency": "MXN",
+   "departure_at": "2027-04-28T17:05:00-05:00",
+   "return_at": "",
+   "duration": 1000,
+   "link": "https://www.aviasales.com/search/MEX2804IST1?t=AM18089319001809024300001000MEXCDGIST_807198d50c27a937105bcab60670d831_70870&search_date=15112026&expected_price_uuid=01a1dffd-cef2-8040-2018-910f3f9d1f34&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=cuVn0LUpwj5omx2lp4u3Cg&expected_price_source=share&expected_price_currency=mxn&expected_price=15860",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270428-807198d5/"
+  },
+  {
    "id": "2baf1ae00e1daff91bca77b074a18520",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX2311HKG1?t=AM17954640001795612500001635MEXICNHKG_2baf1ae00e1daff91bca77b074a18520_83389&search_date=15112026&expected_price_uuid=01a1df50-6587-8030-efd5-d649a781e4a1&static_fare_key=TY%7CP0%7CH1%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=pDKKzDe4b_NTKRVKYbrxVw&expected_price_source=share&expected_price_currency=mxn&expected_price=18662",
    "title": "Flight deals from Mexico City to Hong Kong",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20261123-2baf1ae0/"
-  },
-  {
-   "id": "cfaf912203be14833301dd44b8d5d740",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "IST",
-   "destination_name": "Estambul",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 20951.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-14T22:20:00-06:00",
-   "return_at": "",
-   "duration": 1030,
-   "link": "https://www.aviasales.com/search/MEX1401IST1?t=AM17999652001800059400001030MEXCDGIST_cfaf912203be14833301dd44b8d5d740_93618&search_date=15112026&expected_price_uuid=01a1df96-8f2b-8031-2180-191821bc4d91&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=2LKYH048SKVLv7AJ5yivCQ&expected_price_source=share&expected_price_currency=mxn&expected_price=20951",
-   "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270114-cfaf9122/"
   },
   {
    "id": "3a382a5078f438ab6cf1138cf84e5d18",

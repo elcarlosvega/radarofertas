@@ -1,6 +1,6 @@
 {
- "generated_at": 1794706214.1261728,
- "generated_at_str": "14/11/2026 19:30",
+ "generated_at": 1794708265.2536838,
+ "generated_at_str": "14/11/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -150,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20261118-7947dd65/"
   },
   {
-   "id": "90510b06e20cae365121cf03c05f59e5",
+   "id": "f964b65533acfca5ef062c8ec1412770",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "OAK",
-   "destination_name": "Oakland",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 3712.0,
+   "destination": "SDQ",
+   "destination_name": "Santo Domingo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 4291.0,
    "currency": "MXN",
-   "departure_at": "2027-01-24T08:20:00-06:00",
+   "departure_at": "2027-02-03T17:05:00-06:00",
    "return_at": "",
-   "duration": 280,
-   "link": "https://www.aviasales.com/search/MEX2401OAK1?t=Y418007788001800788400000280MEXOAK_90510b06e20cae365121cf03c05f59e5_16588&search_date=14112026&expected_price_uuid=01a1db83-bad9-8040-6104-e7dee6e49c8e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Uglf9PK9Qcchr_uqaIGPIA&expected_price_source=share&expected_price_currency=mxn&expected_price=3712",
-   "title": "Flight deals from Mexico City to Oakland",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oakland-20270124-90510b06/"
+   "duration": 264,
+   "link": "https://www.aviasales.com/search/MEX0302SDQ1?t=DM18016743001801697340000264NLUSDQ_f964b65533acfca5ef062c8ec1412770_19175&search_date=14112026&expected_price_uuid=01a1dc55-cf0d-8031-6330-9a2b9096b257&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=rnc-JWh6wwWO9C2eO_ghYg&expected_price_source=share&expected_price_currency=mxn&expected_price=4291",
+   "title": "Flight deals from Mexico City to Santo Domingo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270203-f964b655/"
   },
   {
    "id": "659a8653bbdf75d0e5325d903806ae0c",

@@ -1,6 +1,6 @@
 {
- "generated_at": 1794722665.0132675,
- "generated_at_str": "15/11/2026 00:04",
+ "generated_at": 1794726262.6570628,
+ "generated_at_str": "15/11/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,6 +9,26 @@
   "VER"
  ],
  "deals": [
+  {
+   "id": "e0c71c1dd1431ebb39e7fede6c983604",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "GDL",
+   "destination_name": "Guadalajara",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 479.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-25T19:52:00-06:00",
+   "return_at": "",
+   "duration": 67,
+   "link": "https://www.aviasales.com/search/MEX2511GDL1?t=Y417956363201795640340000067TLCGDL_e0c71c1dd1431ebb39e7fede6c983604_2141&search_date=15112026&expected_price_uuid=01a1ddf8-8b36-8030-a69a-13335400b59c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=s_nJnOQxjwwPl2AIRhp5Jw&expected_price_source=share&expected_price_currency=mxn&expected_price=479",
+   "title": "Flight deals from Mexico City to Guadalajara",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-guadalajara-20261125-e0c71c1d/"
+  },
   {
    "id": "3f889deacd66bcdbb6f91eb347de7eed",
    "kind": "flight",
@@ -48,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0512LAP1?t=Y417964841201796488740000137NLULAP_8e7ec85d7a09ba76fe992b7fdfb85aaa_3832&search_date=15112026&expected_price_uuid=01a1dd87-d3be-8040-2d01-3222b57b15e6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CeQLGjtxb9mXwudvYeeM6Q&expected_price_source=share&expected_price_currency=mxn&expected_price=858",
    "title": "Flight deals from Mexico City to La Paz",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20261205-8e7ec85d/"
+  },
+  {
+   "id": "4530ff0cfe9dc157df37be1cdb109bd2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TQO",
+   "destination_name": "Municipio de Tulum",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1223.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-03T13:20:00-06:00",
+   "return_at": "",
+   "duration": 115,
+   "link": "https://www.aviasales.com/search/MEX0302TQO1?t=VB18016608001801671300000115NLUTQO_4530ff0cfe9dc157df37be1cdb109bd2_5467&search_date=15112026&expected_price_uuid=01a1ddec-86f6-8040-2d35-830d3ba90a3f&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ntlZSpXOee2OtbZhxo9XZA&expected_price_source=share&expected_price_currency=mxn&expected_price=1223",
+   "title": "Flight deals from Mexico City to Tulum",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20270203-4530ff0c/"
   },
   {
    "id": "5c2d9bbdf3edcf8e5d4aff3ba697c915",
@@ -90,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261203-8534dac7/"
   },
   {
-   "id": "aacc537acd145990468cf202ee1fb7f5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 2960.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-25T19:30:00-06:00",
-   "return_at": "",
-   "duration": 260,
-   "link": "https://www.aviasales.com/search/MEX2501MDE1?t=VB18009054001800924600000260NLUMDE_aacc537acd145990468cf202ee1fb7f5_13226&search_date=15112026&expected_price_uuid=01a1dda2-db0d-8031-22aa-432faff9bf00&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TTNPkz0xKpGnLxBDar0duA&expected_price_source=share&expected_price_currency=mxn&expected_price=2960",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20270125-aacc537a/"
-  },
-  {
    "id": "cbfc1f51df21644aea77c4c095ff9252",
    "kind": "flight",
    "origin": "MEX",
@@ -148,26 +168,6 @@
    "link": "https://www.aviasales.com/search/MEX2412LIM1?t=Y417981496001798174500000355MEXLIM_dcc00afaede08ee47a0dd98b1c3626f8_20962&search_date=15112026&expected_price_uuid=01a1dd89-d073-8030-a59f-62434b6739d2&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4691",
    "title": "Flight deals from Mexico City to Lima",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20261224-dcc00afa/"
-  },
-  {
-   "id": "659a8653bbdf75d0e5325d903806ae0c",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAO",
-   "destination_name": "São Paulo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 5727.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-03T10:06:00-06:00",
-   "return_at": "",
-   "duration": 824,
-   "link": "https://www.aviasales.com/search/MEX0312SAO1?t=DM17962923601796352600000824NLUPUJGRU_659a8653bbdf75d0e5325d903806ae0c_25589&search_date=15112026&expected_price_uuid=01a1dc85-d68a-8030-2f23-4cf148d5fff8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5RASnjU2jAhl0tZqR4DKfA&expected_price_source=share&expected_price_currency=mxn&expected_price=5727",
-   "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261203-659a8653/"
   },
   {
    "id": "5ee3f632cfd44b9c3796f7dd404d083d",

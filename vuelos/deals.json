@@ -1,6 +1,6 @@
 {
- "generated_at": 1794794643.6004019,
- "generated_at_str": "15/11/2026 20:04",
+ "generated_at": 1794798265.0399098,
+ "generated_at_str": "15/11/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,26 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0612CUN1?t=Y417965455001796557320000137TLCCUN_8ee9da171160f6ee55d3c218153cb000_3252&search_date=15112026&expected_price_uuid=01a1e159-e538-8031-28ce-bafcb1021efb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=728",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261206-8ee9da17/"
-  },
-  {
-   "id": "7ee8b8088bf5c7e4fe55a070cd61cbe5",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 890.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-02T14:08:00-06:00",
-   "return_at": "",
-   "duration": 628,
-   "link": "https://www.aviasales.com/search/MEX0212TIJ1?t=Y417962204801796250960000628NLUGDLTIJ_7ee8b8088bf5c7e4fe55a070cd61cbe5_3973&search_date=15112026&expected_price_uuid=01a1e0d7-5f17-8040-afc2-2c890016a026&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=C0sllF5z5HPPm_WJ1TPD_g&expected_price_source=share&expected_price_currency=mxn&expected_price=890",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261202-7ee8b808/"
   },
   {
    "id": "0b9f833e32317971e0b4f5e48240474c",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/GDL1501MEX1?t=VB18000312601800036000000079GDLNLU_80b6bcba9d3158eab468b28db92616d6_6083&search_date=15112026&expected_price_uuid=01a1e173-7739-8040-66b1-8c74afb36d23&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=hF9UwbLy_6r4_8U9WfbR4w&expected_price_source=share&expected_price_currency=mxn&expected_price=1362",
    "title": "Flight deals from Guadalajara to Mexico City",
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20270115-80b6bcba/"
+  },
+  {
+   "id": "4ce0019dca166bde87e9223b759177a9",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAP",
+   "destination_name": "La Paz",
+   "airline": "VB",
+   "airline_title": "Viva Aerobus",
+   "logo": "https://pics.avs.io/600/310/VB.png",
+   "logo_tipo": "lockup",
+   "price": 1484.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-13T18:52:00-06:00",
+   "return_at": "",
+   "duration": 138,
+   "link": "https://www.aviasales.com/search/MEX1301LAP1?t=VB17998663201799871000000138NLULAP_4ce0019dca166bde87e9223b759177a9_6622&search_date=15112026&expected_price_uuid=01a1e147-24e9-8040-a060-5c3c175c7c23&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=lhd1tLQuohidnYvCzmUrCw&expected_price_source=share&expected_price_currency=mxn&expected_price=1484",
+   "title": "Flight deals from Mexico City to La Paz",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20270113-4ce0019d/"
   },
   {
    "id": "54220221124820ef885d1294b88c8212",
@@ -210,24 +210,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270509-6fd8ae5d/"
   },
   {
-   "id": "8d5abe6cd696fa7db7b566df434c0c71",
+   "id": "edd3e8bc7930af6e3fbddda9524bfa8b",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "CKG",
-   "destination_name": "Chongqing",
-   "airline": "CZ",
-   "airline_title": "China Southern Airlines",
-   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "destination": "SIN",
+   "destination_name": "Singapur",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 23063.0,
+   "price": 17715.0,
    "currency": "MXN",
-   "departure_at": "2027-10-01T02:30:00-05:00",
+   "departure_at": "2027-01-25T22:15:00-06:00",
    "return_at": "",
-   "duration": 1625,
-   "link": "https://www.aviasales.com/search/MEX0110CKG1?t=CZ18223578001822505700001625MEXSZXCKG_8d5abe6cd696fa7db7b566df434c0c71_102924&search_date=15112026&expected_price_uuid=01a1e0e1-e951-8030-6f4c-efbb2bcf6e44&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=MaGt_avZe6OM8EG_uFCP0A&expected_price_source=share&expected_price_currency=mxn&expected_price=23063",
-   "title": "Flight deals from Mexico City to Chongqing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-chongqing-20271001-8d5abe6c/"
+   "duration": 1695,
+   "link": "https://www.aviasales.com/search/MEX2501SIN1?t=AM18009153001801067400001695MEXNRTSIN_edd3e8bc7930af6e3fbddda9524bfa8b_79108&search_date=15112026&expected_price_uuid=01a1e1a1-144a-8030-e075-cd674a0df051&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=m5M0_mgHq7Q_YNaLSWCDvQ&expected_price_source=share&expected_price_currency=mxn&expected_price=17715",
+   "title": "Flight deals from Mexico City to Singapore",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-singapur-20270125-edd3e8bc/"
   }
  ]
 }

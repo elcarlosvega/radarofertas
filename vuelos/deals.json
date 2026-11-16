@@ -1,6 +1,6 @@
 {
- "generated_at": 1794791043.4525194,
- "generated_at_str": "15/11/2026 19:04",
+ "generated_at": 1794794643.6004019,
+ "generated_at_str": "15/11/2026 20:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "2b593438e05ba4c5f06cba9869ee75f7",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "PVR",
-   "destination_name": "Puerto Vallarta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 461.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-23T14:20:00-06:00",
-   "return_at": "",
-   "duration": 90,
-   "link": "https://www.aviasales.com/search/MEX2301PVR1?t=Y418007140001800719400000090TLCPVR_2b593438e05ba4c5f06cba9869ee75f7_2058&search_date=15112026&expected_price_uuid=01a1e0b9-311c-8030-ee92-648acab9ef23&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SmnrDR7z0ZsOJESEzlAcxw&expected_price_source=share&expected_price_currency=mxn&expected_price=461",
-   "title": "Flight deals from Mexico City to Puerto Vallarta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-vallarta-20270123-2b593438/"
-  },
   {
    "id": "8ee9da171160f6ee55d3c218153cb000",
    "kind": "flight",
@@ -110,6 +90,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ciudad-de-mexico-20270115-80b6bcba/"
   },
   {
+   "id": "54220221124820ef885d1294b88c8212",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "PXM",
+   "destination_name": "Puerto Escondido",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 1543.0,
+   "currency": "MXN",
+   "departure_at": "2027-09-22T08:13:00-05:00",
+   "return_at": "",
+   "duration": 266,
+   "link": "https://www.aviasales.com/search/MEX2209PXM1?t=Y418216007801821616740000266TLCGDLPXM_54220221124820ef885d1294b88c8212_6887&search_date=15112026&expected_price_uuid=01a1e11f-00bc-8030-ee97-46256cf70fac&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=TzEJ90DnEGd9jt1TjiFjtg&expected_price_source=share&expected_price_currency=mxn&expected_price=1543",
+   "title": "Flight deals from Mexico City to Puerto Escondido",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-escondido-20270922-54220221/"
+  },
+  {
    "id": "265fecbe40d7beff3dee30ea1d796fe3",
    "kind": "flight",
    "origin": "GDL",
@@ -128,26 +128,6 @@
    "link": "https://www.aviasales.com/search/GDL0312LAX1?t=Y417962989601796303880000202GDLLAX_265fecbe40d7beff3dee30ea1d796fe3_12174&search_date=16112026&expected_price_uuid=01a1e1af-b1c2-8040-6bd7-5054abb43228&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kE3pJbyhsUvgme0WEMfDXw&expected_price_source=share&expected_price_currency=mxn&expected_price=2724",
    "title": "Flight deals from Guadalajara to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261203-265fecbe/"
-  },
-  {
-   "id": "bd91dd222ab05f9327571e57faae0c41",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "BOG",
-   "destination_name": "Bogotá",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 4896.0,
-   "currency": "MXN",
-   "departure_at": "2027-09-01T05:46:00-05:00",
-   "return_at": "",
-   "duration": 474,
-   "link": "https://www.aviasales.com/search/MTY0109BOG1?t=AM18197775601819809600000474MTYMEXBOG_bd91dd222ab05f9327571e57faae0c41_21850&search_date=15112026&expected_price_uuid=01a1e0c5-b6b5-8030-2d8e-fc406086edb4&static_fare_key=TY%7CP0%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=iI5dc-2j0hp5PtY_ul9skw&expected_price_source=share&expected_price_currency=mxn&expected_price=4896",
-   "title": "Flight deals from Monterrey to Bogota",
-   "micro": "/oferta/vuelos/vuelo-monterrey-bogota-20270901-bd91dd22/"
   },
   {
    "id": "659a8653bbdf75d0e5325d903806ae0c",
@@ -200,12 +180,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 13487.0,
+   "price": 13484.0,
    "currency": "MXN",
    "departure_at": "2027-01-25T18:35:00-06:00",
    "return_at": "",
    "duration": 1235,
-   "link": "https://www.aviasales.com/search/MEX2501SEL1?t=AM18009021001801030200001235MEXMTYICN_67f7f4e086be987d4395a1da0b396c69_60267&search_date=16112026&expected_price_uuid=01a1e1a8-e288-8030-6edb-535751f5b45d&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=-SaBHcsN9BDDAN2daIPNkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13487",
+   "link": "https://www.aviasales.com/search/MEX2501SEL1?t=AM18009021001801030200001235MEXMTYICN_67f7f4e086be987d4395a1da0b396c69_60267&search_date=16112026&expected_price_uuid=01a1e1a8-e288-8030-6edb-535751f5b45d&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=-SaBHcsN9BDDAN2daIPNkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=13484",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270125-67f7f4e0/"
   },

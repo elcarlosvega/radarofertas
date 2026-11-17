@@ -54,10 +54,10 @@
    "micro_pages": 16
   },
   "elektra": {
-   "last_attempt": 1794877441.939823,
+   "last_attempt": 1794884641.9347847,
    "items": 0,
    "status": "down",
-   "reason": "HTTP Error 403: Forbidden",
+   "reason": "<urlopen error [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto>",
    "host": "pc",
    "last_complete_sweep": 1790053442.3631513,
    "micro_pages": 9
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1794884745.8683622
+ "updated_at": 1794884758.681765
 }

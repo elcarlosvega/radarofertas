@@ -1,8 +1,30 @@
 {
- "generated_at": 1794960241.8549027,
- "generated_at_str": "17/11/2026 18:10",
- "total": 2347,
+ "generated_at": 1794963841.8055978,
+ "generated_at_str": "17/11/2026 19:10",
+ "total": 2395,
  "deals": [
+  {
+   "id": "99991896557",
+   "name": "MOBICA Sofá cama Lozd",
+   "img": "https://sp101.liverpool.com.mx/i/1189441581.jpg",
+   "category": "Salas",
+   "price_new": 13299.0,
+   "price_old": 37990.0,
+   "pct": 65.0,
+   "amount": 24691.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sof-cama-lozd/99991896557"
+  },
+  {
+   "id": "1192876539",
+   "name": "MOBICA Sofá cama armable Lodz de tela",
+   "img": "https://ss101.liverpool.com.mx/lg/1192876539.jpg",
+   "category": "Salas",
+   "price_new": 13299.0,
+   "price_old": 37990.0,
+   "pct": 65.0,
+   "amount": 24691.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sof-cama-armable-lodz-de-tela/1192876539"
+  },
   {
    "id": "999681611510",
    "name": "VANIGLAM Sala 3 piezas Aria de poliestireno",
@@ -13,6 +35,17 @@
    "pct": 61.1,
    "amount": 40600.0,
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-aria-de-poliestireno/999681611510"
+  },
+  {
+   "id": "999681613054",
+   "name": "VANIGLAM Sala 3 piezas Danna de poliestireno",
+   "img": "https://sp101.liverpool.com.mx/i/1204111908.jpeg",
+   "category": "Salas",
+   "price_new": 25900.0,
+   "price_old": 66500.0,
+   "pct": 61.1,
+   "amount": 40600.0,
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-3-piezas-danna-de-poliestireno/999681613054"
   },
   {
    "id": "1155591851",
@@ -101,39 +134,6 @@
    "pct": 68.3,
    "amount": 8600.0,
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-a-gas-lp-empotrable/9932923386"
-  },
-  {
-   "id": "1182516844",
-   "name": "XTELLAR Aspiradora vertical 600 ml",
-   "img": "https://sp625.liverpool.com.mx/i/1182516844.jpg",
-   "category": "Aspiradoras",
-   "price_new": 4497.48,
-   "price_old": 13123.72,
-   "pct": 65.7,
-   "amount": 8626.24,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-vertical-600-ml/1182516844"
-  },
-  {
-   "id": "1110014224",
-   "name": "SUPRA Combo campana de cocina de cristal templado",
-   "img": "https://sp636.liverpool.com.mx/i/1110014224.jpg",
-   "category": "Estufas",
-   "price_new": 10799.0,
-   "price_old": 27699.0,
-   "pct": 61.0,
-   "amount": 16900.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/combo-campana-de-cocina-de-cristal-templado/1110014224"
-  },
-  {
-   "id": "1116489216",
-   "name": "TRUPER Aspiradora wet & dry ASP-5S",
-   "img": "https://sp625.liverpool.com.mx/i/1116489216.jpg",
-   "category": "Aspiradoras",
-   "price_new": 2499.0,
-   "price_old": 7999.0,
-   "pct": 68.8,
-   "amount": 5500.0,
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-wet-dry-asp-5s/1116489216"
   }
  ]
 }

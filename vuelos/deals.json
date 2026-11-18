@@ -1,6 +1,6 @@
 {
- "generated_at": 1794960245.7874837,
- "generated_at_str": "17/11/2026 18:04",
+ "generated_at": 1794963843.4846616,
+ "generated_at_str": "17/11/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -120,12 +120,12 @@
    "airline_title": "LATAM Airlines Group",
    "logo": "https://pics.avs.io/600/150/LA.png",
    "logo_tipo": "",
-   "price": 4974.0,
+   "price": 4938.0,
    "currency": "MXN",
    "departure_at": "2027-01-05T19:50:00-06:00",
    "return_at": "",
    "duration": 710,
-   "link": "https://www.aviasales.com/search/MEX0501BUE1?t=LA17991786001799232000000710MEXSCLEZE_1ae0b11050d606aab47e361efa1e18ae_22153&search_date=17112026&expected_price_uuid=01a1eb40-7572-8030-62a1-f70911f01b51&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=4974",
+   "link": "https://www.aviasales.com/search/MEX0501BUE1?t=LA17991786001799232000000710MEXSCLEZE_1ae0b11050d606aab47e361efa1e18ae_21990&search_date=17112026&expected_price_uuid=01a1ebe9-fd6b-8030-a35e-1de67c30766d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=67YoDh_AOQdOB-Jyp1m7GA&expected_price_source=share&expected_price_currency=mxn&expected_price=4938",
    "title": "Flight deals from Mexico City to Buenos Aires",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-buenos-aires-20270105-1ae0b110/"
   },
@@ -148,6 +148,26 @@
    "link": "https://www.aviasales.com/search/MEX1601HAV1?t=VB18001049401800132600000401NLUMIDHAV_c84ba2aff2503b5c4c0fc19805e5faa4_27799&search_date=17112026&expected_price_uuid=01a1eadf-d2f9-8031-6bc4-d44fd11b79bb&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=JxKv-DhiGdhI_0SngZgXfw&expected_price_source=share&expected_price_currency=mxn&expected_price=6242",
    "title": "Flight deals from Mexico City to Havana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20270116-c84ba2af/"
+  },
+  {
+   "id": "47a0e4979e8ae01454a31a0c4307732a",
+   "kind": "flight",
+   "origin": "MTY",
+   "origin_name": "Monterrey",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "BA",
+   "airline_title": "British Airways",
+   "logo": "https://pics.avs.io/600/150/BA.png",
+   "logo_tipo": "",
+   "price": 10786.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-31T08:08:00-06:00",
+   "return_at": "",
+   "duration": 2132,
+   "link": "https://www.aviasales.com/search/MTY3101IST1?t=BA18013828801801543200002132MTYDFWMADBEGIST_47a0e4979e8ae01454a31a0c4307732a_48036&search_date=18112026&expected_price_uuid=01a1ec0f-748b-8040-6495-e3030e85f346&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3FLduDC0evv6DcMhGHQxyA&expected_price_source=share&expected_price_currency=mxn&expected_price=10786",
+   "title": "Flight deals from Monterrey to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-monterrey-estambul-20270131-47a0e497/"
   },
   {
    "id": "6351f156f8e52443a10da0488701c152",

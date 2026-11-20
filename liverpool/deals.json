@@ -1,6 +1,6 @@
 {
- "generated_at": 1795158242.0738215,
- "generated_at_str": "20/11/2026 01:10",
+ "generated_at": 1795161842.107574,
+ "generated_at_str": "20/11/2026 02:08",
  "thresholds": {
   "min_pct": 30.0,
   "min_amount": 300.0
@@ -4516,24 +4516,6 @@
    "h_min7": 13850.0
   },
   {
-   "id": "999668933665",
-   "name": "XTELLAR Audífonos In-Ear 7492 inalámbricos con cancelación de ruido",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-7492-inal-mbricos-con-cancelaci-n-de-ruido/999668933665",
-   "img": "https://sp101.liverpool.com.mx/i/1196839751.jpg",
-   "category": "Audifonos",
-   "price_old": 1747.63,
-   "price_new": 559.65,
-   "pct": 68.0,
-   "amount": 1187.98,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 18,
-   "h_min": 553.33,
-   "h_ayer": 559.93,
-   "h_min7": 559.65
-  },
-  {
    "id": "1181785761",
    "name": "SOCHIC Set recámara Pamela de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-pamela-de-mdf/1181785761",
@@ -4802,6 +4784,24 @@
    "h_min": 14939.0,
    "h_ayer": 14939.0,
    "h_min7": 14939.0
+  },
+  {
+   "id": "999687028171",
+   "name": "LG Aire acondicionado mini split inverter Dual Inverter Frío VC122C10",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-dual-inverter-fr-o-vc122c10/999687028171",
+   "img": "https://sp634.liverpool.com.mx/i/1209014927.jpg",
+   "category": "Aire Acondicionado",
+   "price_old": 15999.0,
+   "price_new": 7499.01,
+   "pct": 53.1,
+   "amount": 8499.99,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 53,
+   "h_min": 6799.0,
+   "h_ayer": 7499.01,
+   "h_min7": 6799.0
   },
   {
    "id": "1144761746",
@@ -6474,24 +6474,6 @@
    "h_min7": 569.0
   },
   {
-   "id": "1143027348",
-   "name": "MIDEA Refrigerador french door 19 pies cúbicos inverter y no frost MDRF700FGM46",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-19-pies-c-bicos-inverter-y-no-frost-mdrf700fgm46/1143027348",
-   "img": "https://sp634.liverpool.com.mx/i/1143027348.jpg",
-   "category": "Refrigeradores",
-   "price_old": 29030.0,
-   "price_new": 15095.6,
-   "pct": 48.0,
-   "amount": 13934.4,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 19,
-   "h_min": 12192.6,
-   "h_ayer": 15095.6,
-   "h_min7": 13208.65
-  },
-  {
    "id": "1193576849",
    "name": "SOCHIC Set recámara Ariadna de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-ariadna-de-mdf/1193576849",
@@ -6564,10 +6546,10 @@
    "h_min7": 21990.0
   },
   {
-   "id": "999701424981",
-   "name": "AHVITA Sala modular piamonte de tela",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-piamonte-de-tela/999701424981",
-   "img": "https://sp101.liverpool.com.mx/i/1220353849.jpg",
+   "id": "999701429007",
+   "name": "AHVITA Sala modular derecha piamonte de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-piamonte-de-tela/999701429007",
+   "img": "https://sp101.liverpool.com.mx/i/1220356155.jpg",
    "category": "Salas",
    "price_old": 33990.0,
    "price_new": 17990.0,
@@ -6581,10 +6563,10 @@
    "h_ayer": 17990.0
   },
   {
-   "id": "999701429007",
-   "name": "AHVITA Sala modular derecha piamonte de tela",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-derecha-piamonte-de-tela/999701429007",
-   "img": "https://sp101.liverpool.com.mx/i/1220356155.jpg",
+   "id": "999701424981",
+   "name": "AHVITA Sala modular piamonte de tela",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-piamonte-de-tela/999701424981",
+   "img": "https://sp101.liverpool.com.mx/i/1220353849.jpg",
    "category": "Salas",
    "price_old": 33990.0,
    "price_new": 17990.0,
@@ -7286,7 +7268,7 @@
    "name": "MIDEA Lavasecadora eléctrica 12.5 kg 7 kg MF200D125WB/T",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-el-ctrica-12-5-kg-7-kg-mf200d125wb-t/1130083362",
    "img": "https://sp634.liverpool.com.mx/i/1130083362.jpg",
-   "category": "Lavadoras",
+   "category": "Secadoras",
    "price_old": 21499.0,
    "price_new": 11179.48,
    "pct": 48.0,
@@ -7423,6 +7405,22 @@
    "h_min": 11199.9,
    "h_ayer": 11502.6,
    "h_min7": 11502.6
+  },
+  {
+   "id": "1170720080",
+   "name": "FRIGIDAIRE Centro de lavado Gas natural/LP 20 kg FLCG7522AW",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/centro-de-lavado-gas-natural-lp-20-kg-flcg7522aw/1170720080",
+   "img": "https://sp634.liverpool.com.mx/i/1170720080.jpg",
+   "category": "Lavadoras",
+   "price_old": 51499.0,
+   "price_new": 28839.44,
+   "pct": 44.0,
+   "amount": 22659.56,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 4,
+   "h_min": 23432.05
   },
   {
    "id": "99980439677",
@@ -7693,24 +7691,6 @@
    "h_min": 3499.0,
    "h_ayer": 3699.0,
    "h_min7": 3699.0
-  },
-  {
-   "id": "1208012858",
-   "name": "MIDEA Lavadora 22 kg automática carga superior MA512W22A/W",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-22-kg-autom-tica-carga-superior-ma512w22a-w/1208012858",
-   "img": "https://sp634.liverpool.com.mx/i/1208012858.jpg",
-   "category": "Lavadoras",
-   "price_old": 18899.0,
-   "price_new": 9827.48,
-   "pct": 48.0,
-   "amount": 9071.52,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 28,
-   "h_min": 8599.05,
-   "h_ayer": 9827.48,
-   "h_min7": 8599.05
   },
   {
    "id": "999695302078",
@@ -8127,6 +8107,24 @@
    "h_min7": 17999.0
   },
   {
+   "id": "1207589795",
+   "name": "MIDEA Refrigerador dúplex inverter y No Frost y automática Mdrs925mgm45a",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-d-plex-inverter-y-no-frost-y-autom-tica-mdrs925mgm45a/1207589795",
+   "img": "https://sp634.liverpool.com.mx/i/1207589795.jpg",
+   "category": "Refrigeradores",
+   "price_old": 37499.0,
+   "price_new": 20999.44,
+   "pct": 44.0,
+   "amount": 16499.56,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 30,
+   "h_min": 18374.51,
+   "h_ayer": 20999.44,
+   "h_min7": 18374.51
+  },
+  {
    "id": "1150331443",
    "name": "AVERA Horno a gas natural HE03DLP capacidad 55 L",
    "url": "https://www.liverpool.com.mx/tienda/pdp/horno-a-gas-natural-he03dlp-capacidad-55-l/1150331443",
@@ -8520,6 +8518,24 @@
    "h_min": 304.0,
    "h_ayer": 349.0,
    "h_min7": 349.0
+  },
+  {
+   "id": "1163957031",
+   "name": "MIDEA Refrigerador dúplex 20 pies cúbicos inverter y no frost MDRS710FGM46",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-d-plex-20-pies-c-bicos-inverter-y-no-frost-mdrs710fgm46/1163957031",
+   "img": "https://sp634.liverpool.com.mx/i/1163957031.jpg",
+   "category": "Refrigeradores",
+   "price_old": 30999.0,
+   "price_new": 17359.44,
+   "pct": 44.0,
+   "amount": 13639.56,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 19,
+   "h_min": 14879.52,
+   "h_ayer": 17359.44,
+   "h_min7": 15189.51
   },
   {
    "id": "1185416794",
@@ -10367,24 +10383,6 @@
    "h_min7": 526.25
   },
   {
-   "id": "1186067386",
-   "name": "MIDEA Refrigerador Top Mount 12 pies cúbicos inverter y no frost y fábrica de hielo Mdrt489Mtm46Wd",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-12-pies-c-bicos-inverter-y-no-frost-y-f-brica-de-hielo-md/1186067386",
-   "img": "https://sp634.liverpool.com.mx/i/1186067386.jpg",
-   "category": "Refrigeradores",
-   "price_old": 16999.0,
-   "price_new": 9519.44,
-   "pct": 44.0,
-   "amount": 7479.56,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 18,
-   "h_min": 8329.51,
-   "h_ayer": 9519.44,
-   "h_min7": 8329.51
-  },
-  {
    "id": "1136452882",
    "name": "GENÉRICA Audífonos In-Ear inalámbricos con cancelacion de ruido",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-inal-mbricos-con-cancelacion-de-ruido/1136452882",
@@ -10401,24 +10399,6 @@
    "h_min": 1130.99,
    "h_ayer": 1470.29,
    "h_min7": 1465.29
-  },
-  {
-   "id": "1170808033",
-   "name": "MIDEA Lavadora 22 kg automática carga superior ma500w22/w",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-22-kg-autom-tica-carga-superior-ma500w22-w/1170808033",
-   "img": "https://sp634.liverpool.com.mx/i/1170808033.jpg",
-   "category": "Lavadoras",
-   "price_old": 16799.0,
-   "price_new": 9407.44,
-   "pct": 44.0,
-   "amount": 7391.56,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 24,
-   "h_min": 7055.58,
-   "h_ayer": 9407.44,
-   "h_min7": 8231.51
   },
   {
    "id": "1126267904",
@@ -11995,24 +11975,6 @@
    "h_min7": 1199.0
   },
   {
-   "id": "1143027364",
-   "name": "MIDEA Refrigerador top mount 8 pies cúbicos MDRT210CCNLS",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-8-pies-c-bicos-mdrt210ccnls/1143027364",
-   "img": "https://sp634.liverpool.com.mx/i/1143027364.jpg",
-   "category": "Refrigeradores",
-   "price_old": 10909.0,
-   "price_new": 6109.04,
-   "pct": 44.0,
-   "amount": 4799.96,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 18,
-   "h_min": 5345.41,
-   "h_ayer": 6109.04,
-   "h_min7": 5345.41
-  },
-  {
    "id": "1182741350",
    "name": "MIDEA Aire acondicionado mini split inverter frío y calor 12000 btu mas12h1agm32",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-fr-o-y-calor-12000-btu-mas12h1agm32/1182741350",
@@ -12510,23 +12472,6 @@
    "first_seen": 1795093442.40303,
    "in_stock": true,
    "h_dias": 6,
-   "h_min": 1499.5,
-   "h_ayer": 1499.5
-  },
-  {
-   "id": "999700943516",
-   "name": "ADIDAS ORIGINALS Tenis adistar cushion xlg 2.0 para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-adistar-cushion-xlg-2-0-para-mujer/999700943516",
-   "img": "https://sp550.liverpool.com.mx/i/1219412181.jpg",
-   "category": "Tenis",
-   "price_old": 2999.0,
-   "price_new": 1499.5,
-   "pct": 50.0,
-   "amount": 1499.5,
-   "ends": "",
-   "first_seen": 1795129441.9302592,
-   "in_stock": true,
-   "h_dias": 2,
    "h_min": 1499.5,
    "h_ayer": 1499.5
   },
@@ -13123,24 +13068,6 @@
    "h_min7": 809.0
   },
   {
-   "id": "1208030732",
-   "name": "MIDEA Lavadora 25 kg automática carga superior MA516W25/C",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-25-kg-autom-tica-carga-superior-ma516w25-c/1208030732",
-   "img": "https://sp634.liverpool.com.mx/i/1208030732.jpg",
-   "category": "Lavadoras",
-   "price_old": 20999.0,
-   "price_new": 12599.4,
-   "pct": 40.0,
-   "amount": 8399.6,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 33,
-   "h_min": 11024.48,
-   "h_ayer": 12599.4,
-   "h_min7": 11024.48
-  },
-  {
    "id": "1126286917",
    "name": "WHIRLPOOL Lavadora 18 kg semiautomática carga superior 8mwtw1813mjm",
    "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-18-kg-semiautom-tica-carga-superior-8mwtw1813mjm/1126286917",
@@ -13319,6 +13246,23 @@
    "h_min": 8712.0,
    "h_ayer": 8712.0,
    "h_min7": 8712.0
+  },
+  {
+   "id": "999686030283",
+   "name": "MIDEA Refrigerador Dúplex Side by Side Jazz Black. Tecnología Inverter y Sí MDRS710FGM21",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-d-plex-side-by-side-jazz-black-tecnolog-a-inverter-y-s-mdrs710fgm21/999686030283",
+   "img": "https://sp101.liverpool.com.mx/i/1207354224.jpg",
+   "category": "Refrigeradores",
+   "price_old": 26199.0,
+   "price_new": 15999.0,
+   "pct": 38.9,
+   "amount": 10200.0,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 5,
+   "h_min": 15679.0,
+   "h_ayer": 15999.0
   },
   {
    "id": "1136239356",
@@ -15598,24 +15542,6 @@
    "h_min7": 32570.0
   },
   {
-   "id": "1170774473",
-   "name": "MIDEA Lavadora 16 kg automática carga superior ma512w16/w",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-16-kg-autom-tica-carga-superior-ma512w16-w/1170774473",
-   "img": "https://sp634.liverpool.com.mx/i/1170774473.jpg",
-   "category": "Lavadoras",
-   "price_old": 12499.0,
-   "price_new": 7499.4,
-   "pct": 40.0,
-   "amount": 4999.6,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 21,
-   "h_min": 5687.05,
-   "h_ayer": 7499.4,
-   "h_min7": 6561.98
-  },
-  {
    "id": "1096146244",
    "name": "DISA Parrilla de acero",
    "url": "https://www.liverpool.com.mx/tienda/pdp/parrilla-de-acero/1096146244",
@@ -17070,24 +16996,6 @@
    "h_min7": 25399.0
   },
   {
-   "id": "99982167583",
-   "name": "BAZAR STORE Sala modular Aquiles de lino",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-aquiles-de-lino/99982167583",
-   "img": "https://sp101.liverpool.com.mx/i/1172240191.jpg",
-   "category": "Salas",
-   "price_old": 25999.0,
-   "price_new": 16499.0,
-   "pct": 36.5,
-   "amount": 9500.0,
-   "ends": "",
-   "first_seen": 1795143842.0442095,
-   "in_stock": true,
-   "h_dias": 66,
-   "h_min": 15299.0,
-   "h_ayer": 16499.0,
-   "h_min7": 15299.0
-  },
-  {
    "id": "1189002731",
    "name": "KESSA Set recámara Emilia de MDF",
    "url": "https://www.liverpool.com.mx/tienda/pdp/set-rec-mara-emilia-de-mdf/1189002731",
@@ -17896,24 +17804,6 @@
    "h_min7": 2079.0
   },
   {
-   "id": "1188726018",
-   "name": "MIDEA Aire acondicionado mini split inverter frío y calor 12000 BTU MAS12H2AGM32",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-fr-o-y-calor-12000-btu-mas12h2agm32/1188726018",
-   "img": "https://ss634.liverpool.com.mx/lg/1188726018.jpg",
-   "category": "Aire Acondicionado",
-   "price_old": 16099.0,
-   "price_new": 9999.0,
-   "pct": 37.9,
-   "amount": 6100.0,
-   "ends": "",
-   "first_seen": 1795115041.9540818,
-   "in_stock": true,
-   "h_dias": 62,
-   "h_min": 8819.0,
-   "h_ayer": 9999.0,
-   "h_min7": 9999.0
-  },
-  {
    "id": "99991770242",
    "name": "MIDEA Aire acondicionado mini split inverter frío y calor 12000 btu mas12h2agm32 220 v",
    "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-fr-o-y-calor-12000-btu-mas12h2agm32-220-v/99991770242",
@@ -17930,6 +17820,24 @@
    "h_min": 9799.0,
    "h_ayer": 9999.0,
    "h_min7": 9799.0
+  },
+  {
+   "id": "1188726018",
+   "name": "MIDEA Aire acondicionado mini split inverter frío y calor 12000 BTU MAS12H2AGM32",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-fr-o-y-calor-12000-btu-mas12h2agm32/1188726018",
+   "img": "https://ss634.liverpool.com.mx/lg/1188726018.jpg",
+   "category": "Aire Acondicionado",
+   "price_old": 16099.0,
+   "price_new": 9999.0,
+   "pct": 37.9,
+   "amount": 6100.0,
+   "ends": "",
+   "first_seen": 1795115041.9540818,
+   "in_stock": true,
+   "h_dias": 62,
+   "h_min": 8819.0,
+   "h_ayer": 9999.0,
+   "h_min7": 9999.0
   },
   {
    "id": "1184996061",
@@ -18092,24 +18000,6 @@
    "h_min": 7190.0,
    "h_ayer": 7190.0,
    "h_min7": 7190.0
-  },
-  {
-   "id": "1117220610",
-   "name": "KESSA Sala modular Catania de vinipiel",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-catania-de-vinipiel/1117220610",
-   "img": "https://sp101.liverpool.com.mx/i/1117220610.jpg",
-   "category": "Salas",
-   "price_old": 33339.0,
-   "price_new": 21649.0,
-   "pct": 35.1,
-   "amount": 11690.0,
-   "ends": "",
-   "first_seen": 1795143842.0442095,
-   "in_stock": true,
-   "h_dias": 66,
-   "h_min": 21649.0,
-   "h_ayer": 21649.0,
-   "h_min7": 21649.0
   },
   {
    "id": "1159822687",
@@ -19925,24 +19815,6 @@
    "h_min": 16819.0,
    "h_ayer": 16819.0,
    "h_min7": 16819.0
-  },
-  {
-   "id": "1171126343",
-   "name": "MIDEA Refrigerador bottom mount 11 pies cúbicos no frost MDRB424FGM46W",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-11-pies-c-bicos-no-frost-mdrb424fgm46w/1171126343",
-   "img": "https://sp634.liverpool.com.mx/i/1171126343.jpg",
-   "category": "Refrigeradores",
-   "price_old": 19999.0,
-   "price_new": 12799.36,
-   "pct": 36.0,
-   "amount": 7199.64,
-   "ends": "",
-   "first_seen": 1795158242.0738215,
-   "in_stock": true,
-   "h_dias": 19,
-   "h_min": 10399.48,
-   "h_ayer": 12799.36,
-   "h_min7": 11199.44
   },
   {
    "id": "1189008615",
@@ -22650,23 +22522,6 @@
    "h_min": 9699.0,
    "h_ayer": 9699.0,
    "h_min7": 9699.0
-  },
-  {
-   "id": "9931505428",
-   "name": "LEON Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/9931505428",
-   "img": "https://sp550.liverpool.com.mx/i/1112537593.jpg",
-   "category": "Tenis",
-   "price_old": 849.0,
-   "price_new": 424.5,
-   "pct": 50.0,
-   "amount": 424.5,
-   "ends": "",
-   "first_seen": 1795115041.9540818,
-   "in_stock": true,
-   "h_dias": 2,
-   "h_min": 424.5,
-   "h_ayer": 424.5
   },
   {
    "id": "1199225495",
@@ -25735,6 +25590,24 @@
    "h_min7": 2999.0
   },
   {
+   "id": "1173464939",
+   "name": "LG Horno de microondas convencional de 1.1 pies",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/horno-de-microondas-convencional-de-1-1-pies/1173464939",
+   "img": "https://sp101.liverpool.com.mx/i/1173464939.jpg",
+   "category": "Microondas",
+   "price_old": 4799.0,
+   "price_new": 2999.01,
+   "pct": 37.5,
+   "amount": 1799.99,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 8,
+   "h_min": 2999.01,
+   "h_ayer": 2999.01,
+   "h_min7": 2999.01
+  },
+  {
    "id": "1172933587",
    "name": "MOBLUM Sala modular Landon",
    "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-landon/1172933587",
@@ -26074,24 +25947,6 @@
    "h_min": 1344.55,
    "h_ayer": 1344.55,
    "h_min7": 1344.55
-  },
-  {
-   "id": "999679467772",
-   "name": "TRUPER Aspiradora Linea Hepa de solidos y liquidos 6 galones",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/aspiradora-linea-hepa-de-solidos-y-liquidos-6-galones/999679467772",
-   "img": "https://sp101.liverpool.com.mx/i/1200775453.jpg",
-   "category": "Aspiradoras",
-   "price_old": 3001.0,
-   "price_new": 1821.0,
-   "pct": 39.3,
-   "amount": 1180.0,
-   "ends": "",
-   "first_seen": 1795053841.8301845,
-   "in_stock": true,
-   "h_dias": 56,
-   "h_min": 1591.99,
-   "h_ayer": 1821.0,
-   "h_min7": 1820.99
   },
   {
    "id": "99986476691",
@@ -26650,23 +26505,6 @@
    "h_min7": 1249.0
   },
   {
-   "id": "999674186242",
-   "name": "ADIDAS ORIGINALS Tenis Jabbar Lo W para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-jabbar-lo-w-para-mujer/999674186242",
-   "img": "https://sp101.liverpool.com.mx/i/1200124673-tenis-set-tenis-adidas-origi.jpg",
-   "category": "Tenis",
-   "price_old": 2399.0,
-   "price_new": 1439.4,
-   "pct": 40.0,
-   "amount": 959.6,
-   "ends": "",
-   "first_seen": 1795053841.8301845,
-   "in_stock": true,
-   "h_dias": 3,
-   "h_min": 1439.4,
-   "h_ayer": 1439.4
-  },
-  {
    "id": "1169210132",
    "name": "CENTURFIT Bicicleta eléctrica rodada 10 unisex",
    "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-el-ctrica-rodada-10-unisex/1169210132",
@@ -26989,24 +26827,6 @@
    "h_min": 14959.0,
    "h_ayer": 14959.0,
    "h_min7": 14959.0
-  },
-  {
-   "id": "1186082318",
-   "name": "BOSSA Sala modular Nathalie",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/sala-modular-nathalie/1186082318",
-   "img": "https://sp101.liverpool.com.mx/i/1186082318.jpg",
-   "category": "Salas",
-   "price_old": 29999.0,
-   "price_new": 20999.0,
-   "pct": 30.0,
-   "amount": 9000.0,
-   "ends": "",
-   "first_seen": 1795151042.0586529,
-   "in_stock": true,
-   "h_dias": 8,
-   "h_min": 20999.0,
-   "h_ayer": 20999.0,
-   "h_min7": 20999.0
   },
   {
    "id": "1166351771",
@@ -29465,24 +29285,6 @@
    "h_min7": 5649.0
   },
   {
-   "id": "1192511788",
-   "name": "ADIDAS SPORTSWEAR Tenis Vl Court 3.0 para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-vl-court-3-0-para-mujer/1192511788",
-   "img": "https://sp550.liverpool.com.mx/i/1192511808.jpg",
-   "category": "Tenis",
-   "price_old": 1599.0,
-   "price_new": 959.4,
-   "pct": 40.0,
-   "amount": 639.6,
-   "ends": "",
-   "first_seen": 1795151042.0586529,
-   "in_stock": true,
-   "h_dias": 11,
-   "h_min": 959.4,
-   "h_ayer": 959.4,
-   "h_min7": 959.4
-  },
-  {
    "id": "1186886069",
    "name": "NINJA Licuadora CT800BRN 10 velocidades",
    "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ct800brn-10-velocidades/1186886069",
@@ -31092,24 +30894,6 @@
    "h_dias": 2,
    "h_min": 599.0,
    "h_ayer": 599.0
-  },
-  {
-   "id": "89840147",
-   "name": "KATY PERRY Eau de parfum Purr para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-purr-para-mujer/89840147",
-   "img": "https://sp701.liverpool.com.mx/i/89840147.jpg",
-   "category": "Perfumes",
-   "price_old": 740.0,
-   "price_new": 421.0,
-   "pct": 43.1,
-   "amount": 319.0,
-   "ends": "",
-   "first_seen": 1795046642.0612178,
-   "in_stock": true,
-   "h_dias": 35,
-   "h_min": 421.0,
-   "h_ayer": 421.0,
-   "h_min7": 421.0
   },
   {
    "id": "999688569623",
@@ -33463,6 +33247,24 @@
    "h_min": 2189.0,
    "h_ayer": 2189.0,
    "h_min7": 2189.0
+  },
+  {
+   "id": "999679884806",
+   "name": "SKULLCANDY Audífonos In-Ear Push ANC Active inalámbricos con cancelacion de ruido",
+   "url": "https://www.liverpool.com.mx/tienda/pdp/aud-fonos-in-ear-push-anc-active-inal-mbricos-con-cancelacion-de-ruido/999679884806",
+   "img": "https://sp101.liverpool.com.mx/i/1201156374.jpg",
+   "category": "Audifonos",
+   "price_old": 2599.0,
+   "price_new": 1699.0,
+   "pct": 34.6,
+   "amount": 900.0,
+   "ends": "",
+   "first_seen": 1795161842.107574,
+   "in_stock": true,
+   "h_dias": 11,
+   "h_min": 1699.0,
+   "h_ayer": 1699.0,
+   "h_min7": 1699.0
   },
   {
    "id": "1149057834",
@@ -35886,24 +35688,6 @@
    "h_min7": 536.0
   },
   {
-   "id": "1198993430",
-   "name": "Licuadora Hamilton Beach 58870 10 velocidades",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-58870-10-velocidades/1198993430",
-   "img": "https://sp625.liverpool.com.mx/i/1198993430.jpg",
-   "category": "Licuadoras",
-   "price_old": 4799.0,
-   "price_new": 3359.3,
-   "pct": 30.0,
-   "amount": 1439.7,
-   "ends": "",
-   "first_seen": 1795147442.0398283,
-   "in_stock": true,
-   "h_dias": 20,
-   "h_min": 2879.4,
-   "h_ayer": 3359.3,
-   "h_min7": 2879.4
-  },
-  {
    "id": "1185690560",
    "name": "HYUNDAI Pantalla Smart TV QLED de 32 pulgadas HD HYLED-3258QR con Roku TV",
    "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-qled-de-32-pulgadas-hd-hyled-3258qr-con-roku-tv/1185690560",
@@ -37566,23 +37350,6 @@
    "h_min": 2149.0,
    "h_ayer": 2229.0,
    "h_min7": 2149.0
-  },
-  {
-   "id": "99976006539",
-   "name": "MORA CONFORT Tenis para mujer",
-   "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-para-mujer/99976006539",
-   "img": "https://sp550.liverpool.com.mx/i/1163505611.jpg",
-   "category": "Tenis",
-   "price_old": 1045.0,
-   "price_new": 680.0,
-   "pct": 34.9,
-   "amount": 365.0,
-   "ends": "",
-   "first_seen": 1795115041.9540818,
-   "in_stock": true,
-   "h_dias": 4,
-   "h_min": 575.0,
-   "h_ayer": 575.0
   },
   {
    "id": "999668930423",

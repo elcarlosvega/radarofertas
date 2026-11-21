@@ -1,6 +1,6 @@
 {
- "generated_at": 1795262644.9545476,
- "generated_at_str": "21/11/2026 06:04",
+ "generated_at": 1795266243.6182477,
+ "generated_at_str": "21/11/2026 07:04",
  "origins": [
   "MEX",
   "GDL",
@@ -150,24 +150,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261127-915b0038/"
   },
   {
-   "id": "d45d23dce5281236f58abd1f1a5ce29e",
+   "id": "69cc0481b86cde5720361a6e372201a1",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
    "destination": "IST",
    "destination_name": "Estambul",
-   "airline": "FI",
-   "airline_title": "Icelandair",
-   "logo": "https://pics.avs.io/600/150/FI.png",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 9896.0,
+   "price": 10123.0,
    "currency": "MXN",
-   "departure_at": "2026-12-06T06:33:00-06:00",
+   "departure_at": "2026-12-30T17:45:00-06:00",
    "return_at": "",
-   "duration": 1707,
-   "link": "https://www.aviasales.com/search/MEX0612IST1?t=FI17965387801796673600001707NLUGDLRDUKEFCPHSAW_d45d23dce5281236f58abd1f1a5ce29e_42398&search_date=21112026&expected_price_uuid=01a1fcd1-8861-8030-2720-1dd07bb8d9a4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i39LQwm-ZU86XBEAdo5QNw&expected_price_source=share&expected_price_currency=mxn&expected_price=9896",
+   "duration": 1830,
+   "link": "https://www.aviasales.com/search/MEX3012IST1?t=AM17986527001798794900001830MEXMADBUDIST_69cc0481b86cde5720361a6e372201a1_43367&search_date=21112026&expected_price_uuid=01a1fcfb-9183-8030-2d86-345a7bf88e6a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=veNPjIquD2MotnG0up39pQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10123",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261206-d45d23dc/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261230-69cc0481/"
   },
   {
    "id": "76121e38204abebaaea91193abcdd0fb",
@@ -180,12 +180,12 @@
    "airline_title": "TUI Airways",
    "logo": "https://pics.avs.io/600/150/BY.png",
    "logo_tipo": "",
-   "price": 11154.0,
+   "price": 11155.0,
    "currency": "MXN",
    "departure_at": "2026-12-01T10:40:00-06:00",
    "return_at": "",
    "duration": 870,
-   "link": "https://www.aviasales.com/search/MEX0112LON1?t=BY17961216001796195400000870NLUCUNLGW_76121e38204abebaaea91193abcdd0fb_47787&search_date=21112026&expected_price_uuid=01a1fcf0-ffb2-8040-675e-95679082e485&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0_rORc6idD31Z1Wz4dhcaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11154",
+   "link": "https://www.aviasales.com/search/MEX0112LON1?t=BY17961216001796195400000870NLUCUNLGW_76121e38204abebaaea91193abcdd0fb_47787&search_date=21112026&expected_price_uuid=01a1fcf0-ffb2-8040-675e-95679082e485&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0_rORc6idD31Z1Wz4dhcaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11155",
    "title": "Flight deals from Mexico City to London",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261201-76121e38/"
   },
@@ -240,12 +240,12 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 40824.0,
+   "price": 40825.0,
    "currency": "MXN",
    "departure_at": "2026-11-24T23:15:00-06:00",
    "return_at": "",
    "duration": 1230,
-   "link": "https://www.aviasales.com/search/MTY2411BJS1?t=AM17955621001795686300001230MTYICNPEK_997d7a1cef5cf8bf3611f3f07ac4f331_174895&search_date=21112026&expected_price_uuid=01a1fd1c-85fc-8040-66c3-d8dccd79af37&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=XUY_EVHB5a8Yd03NJLCDXw&expected_price_source=share&expected_price_currency=mxn&expected_price=40824",
+   "link": "https://www.aviasales.com/search/MTY2411BJS1?t=AM17955621001795686300001230MTYICNPEK_997d7a1cef5cf8bf3611f3f07ac4f331_174895&search_date=21112026&expected_price_uuid=01a1fd1c-85fc-8040-66c3-d8dccd79af37&static_fare_key=TY%7CP1%7CH1%7CL1_2_50%7CCH0%7CR0%7CTBC1&itinerary_key=XUY_EVHB5a8Yd03NJLCDXw&expected_price_source=share&expected_price_currency=mxn&expected_price=40825",
    "title": "Flight deals from Monterrey to Beijing",
    "micro": "/oferta/vuelos/vuelo-monterrey-pekin-20261124-997d7a1c/"
   }

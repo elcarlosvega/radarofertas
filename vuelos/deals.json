@@ -1,6 +1,6 @@
 {
- "generated_at": 1795241043.973261,
- "generated_at_str": "21/11/2026 00:04",
+ "generated_at": 1795244643.8258321,
+ "generated_at_str": "21/11/2026 01:04",
  "origins": [
   "MEX",
   "GDL",
@@ -9,26 +9,6 @@
   "VER"
  ],
  "deals": [
-  {
-   "id": "f503b6a0064d0fded9dcb3836c1ee32b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MTY",
-   "destination_name": "Monterrey",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 556.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-21T18:30:00-06:00",
-   "return_at": "",
-   "duration": 94,
-   "link": "https://www.aviasales.com/search/MEX2111MTY1?t=Y417952858001795291440000094TLCMTY_f503b6a0064d0fded9dcb3836c1ee32b_2381&search_date=21112026&expected_price_uuid=01a1fb78-330f-8040-233d-9e844be4523b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vthz8f0f50PAbCkrRFkEQA&expected_price_source=share&expected_price_currency=mxn&expected_price=556",
-   "title": "Flight deals from Mexico City to Monterrey",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-monterrey-20261121-f503b6a0/"
-  },
   {
    "id": "a3b5cfc8176bcb966a85f9789f9ce520",
    "kind": "flight",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0112BWI1?t=UA17961360001796165040000424MEXIAHBWI_d894256858f6727ff47755b9c2c908b6_25116&search_date=21112026&expected_price_uuid=01a1fbf0-de47-8031-6bf2-87a0cd55909c&static_fare_key=TY%7CP0%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=HMSbYeI3g3gJeYrSy2eErA&expected_price_source=share&expected_price_currency=mxn&expected_price=5863",
    "title": "Flight deals from Mexico City to Baltimore",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-baltimore-20261201-d8942568/"
+  },
+  {
+   "id": "d45d23dce5281236f58abd1f1a5ce29e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "FI",
+   "airline_title": "Icelandair",
+   "logo": "https://pics.avs.io/600/150/FI.png",
+   "logo_tipo": "",
+   "price": 9897.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-06T06:33:00-06:00",
+   "return_at": "",
+   "duration": 1707,
+   "link": "https://www.aviasales.com/search/MEX0612IST1?t=FI17965387801796673600001707NLUGDLRDUKEFCPHSAW_d45d23dce5281236f58abd1f1a5ce29e_42398&search_date=21112026&expected_price_uuid=01a1fcd1-8861-8030-2720-1dd07bb8d9a4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=i39LQwm-ZU86XBEAdo5QNw&expected_price_source=share&expected_price_currency=mxn&expected_price=9897",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261206-d45d23dc/"
   },
   {
    "id": "73a70706aff3a1eb08ef313a1914edd2",

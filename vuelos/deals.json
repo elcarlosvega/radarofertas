@@ -1,6 +1,6 @@
 {
- "generated_at": 1795237443.781492,
- "generated_at_str": "20/11/2026 23:04",
+ "generated_at": 1795241043.973261,
+ "generated_at_str": "21/11/2026 00:04",
  "origins": [
   "MEX",
   "GDL",
@@ -48,26 +48,6 @@
    "link": "https://www.aviasales.com/search/GDL1012CUN1?t=Y417969127601796926020000161GDLCUN_a3b5cfc8176bcb966a85f9789f9ce520_7305&search_date=21112026&expected_price_uuid=01a1fbf7-4f9e-8030-a254-70a35127e628&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_aGvGwIOOaMKI8UZTjoHtg&expected_price_source=share&expected_price_currency=mxn&expected_price=1705",
    "title": "Flight deals from Guadalajara to Cancun",
    "micro": "/oferta/vuelos/vuelo-guadalajara-cancun-20261210-a3b5cfc8/"
-  },
-  {
-   "id": "9cada85e59f5aed68fcb1a5eac341704",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MID",
-   "destination_name": "Mérida",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1841.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-28T15:00:00-06:00",
-   "return_at": "",
-   "duration": 112,
-   "link": "https://www.aviasales.com/search/MEX2811MID1?t=VB17958780001795884720000112TLCMID_9cada85e59f5aed68fcb1a5eac341704_7880&search_date=20112026&expected_price_uuid=01a1fb4f-4efa-8030-2374-7959e374871a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=MTaM7QVz-eZNMK-uvRV4Zw&expected_price_source=share&expected_price_currency=mxn&expected_price=1841",
-   "title": "Flight deals from Mexico City to Merida",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-merida-20261128-9cada85e/"
   },
   {
    "id": "e63dfd6f37762b892125a1d7a0185127",
@@ -170,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bogota-20270115-3e730325/"
   },
   {
+   "id": "3c1b02da0a068a5bf96ac108569ec3f2",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ATL",
+   "destination_name": "Atlanta",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 5248.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-01T23:00:00-06:00",
+   "return_at": "",
+   "duration": 690,
+   "link": "https://www.aviasales.com/search/MEX0112ATL1?t=Y417961660001796211000000690MEXGDLATL_3c1b02da0a068a5bf96ac108569ec3f2_22481&search_date=21112026&expected_price_uuid=01a1fc7a-e63b-8030-e4d5-f1c1c9db3ff4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=LlVBlZhapasVEF19GG4T2A&expected_price_source=share&expected_price_currency=mxn&expected_price=5248",
+   "title": "Flight deals from Mexico City to Atlanta",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-atlanta-20261201-3c1b02da/"
+  },
+  {
    "id": "d894256858f6727ff47755b9c2c908b6",
    "kind": "flight",
    "origin": "MEX",
@@ -208,26 +208,6 @@
    "link": "https://www.aviasales.com/search/MEX2611SZX1?t=3U17956527001795860600002625MEXYVRTFUSZX_73a70706aff3a1eb08ef313a1914edd2_54630&search_date=21112026&expected_price_uuid=01a1fc6a-be4f-8030-644a-7557a74f1c18&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xx7n1YsDGULUPyH1UjF84A&expected_price_source=share&expected_price_currency=mxn&expected_price=12752",
    "title": "Flight deals from Mexico City to Shenzhen",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shenzhen-20261126-73a70706/"
-  },
-  {
-   "id": "215af695ca1d5defcaa5c8a021a77272",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BAK",
-   "destination_name": "Bakú",
-   "airline": "TK",
-   "airline_title": "Turkish Airlines",
-   "logo": "https://pics.avs.io/600/150/TK.png",
-   "logo_tipo": "",
-   "price": 25082.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-29T09:30:00-06:00",
-   "return_at": "",
-   "duration": 1265,
-   "link": "https://www.aviasales.com/search/MEX2911BAK1?t=TK17959446001796056500001265MEXISTGYD_215af695ca1d5defcaa5c8a021a77272_107355&search_date=20112026&expected_price_uuid=01a1fb48-1433-8040-ab1d-b9f1899ec8bd&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=IOYJpaea6kSUBM6fCJOYRw&expected_price_source=share&expected_price_currency=mxn&expected_price=25082",
-   "title": "Flight deals from Mexico City to Baku",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-baku-20261129-215af695/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1795230244.2147353,
- "generated_at_str": "20/11/2026 21:04",
+ "generated_at": 1795233843.8310099,
+ "generated_at_str": "20/11/2026 22:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-paz-20261204-e63dfd6f/"
   },
   {
+   "id": "02a5380212eff4232049a4b8015a469d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2745.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-08T20:45:00-06:00",
+   "return_at": "",
+   "duration": 245,
+   "link": "https://www.aviasales.com/search/MEX0812LAX1?t=Y417967627001796770200000245MEXLAX_02a5380212eff4232049a4b8015a469d_11759&search_date=21112026&expected_price_uuid=01a1fc0e-7463-8031-6e26-a64bb8a31a42&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=26r90ZAVE_zOgRUxhR1WlQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2745",
+   "title": "Flight deals from Mexico City to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261208-02a53802/"
+  },
+  {
    "id": "ca77e0e68b94804b6a616aa8b200e34d",
    "kind": "flight",
    "origin": "GDL",
@@ -188,26 +208,6 @@
    "link": "https://www.aviasales.com/search/MEX3012AYT1?t=AM17986527001798821900002280MEXMADMANAYT_5d96a652bbcce0e1dcf199435cec3005_38373&search_date=20112026&expected_price_uuid=01a1faf8-c18d-8031-67d0-82294b26f998&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gteT5Qac2YWgu5MBSkhfcw&expected_price_source=share&expected_price_currency=mxn&expected_price=8965",
    "title": "Flight deals from Mexico City to Antalya",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-antalya-20261230-5d96a652/"
-  },
-  {
-   "id": "536ef273fac7e3e04c1e639f923c4a93",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SEL",
-   "destination_name": "Seúl",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
-   "logo_tipo": "",
-   "price": 15267.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-07T19:00:00-06:00",
-   "return_at": "",
-   "duration": 1210,
-   "link": "https://www.aviasales.com/search/MEX0712SEL1?t=AM17966700001796796600001210MEXMTYICN_536ef273fac7e3e04c1e639f923c4a93_65343&search_date=20112026&expected_price_uuid=01a1fada-9ca3-8030-6349-8efd2515ada8&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=UXp17yqUhXazdxShMDKHDA&expected_price_source=share&expected_price_currency=mxn&expected_price=15267",
-   "title": "Flight deals from Mexico City to Seoul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20261207-536ef273/"
   },
   {
    "id": "215af695ca1d5defcaa5c8a021a77272",

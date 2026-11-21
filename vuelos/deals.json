@@ -1,6 +1,6 @@
 {
- "generated_at": 1795259044.0213447,
- "generated_at_str": "21/11/2026 05:04",
+ "generated_at": 1795262644.9545476,
+ "generated_at_str": "21/11/2026 06:04",
  "origins": [
   "MEX",
   "GDL",
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-charlotte-20261210-8845bf3c/"
   },
   {
+   "id": "05653766f377cadeeae69b7042c5f387",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "ORL",
+   "destination_name": "Orlando",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4866.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-01T06:33:00-06:00",
+   "return_at": "",
+   "duration": 355,
+   "link": "https://www.aviasales.com/search/MEX0112ORL1?t=Y417961067801796131680000355NLUGDLMCO_05653766f377cadeeae69b7042c5f387_20848&search_date=21112026&expected_price_uuid=01a1fdcd-464d-8030-a571-d8095c16640d&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=ZVwGktOLH-RRAXTjfI3O7Q&expected_price_source=share&expected_price_currency=mxn&expected_price=4866",
+   "title": "Flight deals from Mexico City to Orlando",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-orlando-20261201-05653766/"
+  },
+  {
    "id": "915b0038802ce766740421430b18f784",
    "kind": "flight",
    "origin": "MEX",
@@ -128,26 +148,6 @@
    "link": "https://www.aviasales.com/search/MEX2711PUJ1?t=DM17957991001795822140000264NLUPUJ_915b0038802ce766740421430b18f784_22002&search_date=21112026&expected_price_uuid=01a1fd75-33c1-8031-2da3-c47d6b57e893&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wzttcNdMf_OV4faXbkV3Zg&expected_price_source=share&expected_price_currency=mxn&expected_price=5136",
    "title": "Flight deals from Mexico City to Punta Cana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20261127-915b0038/"
-  },
-  {
-   "id": "3c1b02da0a068a5bf96ac108569ec3f2",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "ATL",
-   "destination_name": "Atlanta",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5247.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T23:00:00-06:00",
-   "return_at": "",
-   "duration": 690,
-   "link": "https://www.aviasales.com/search/MEX0112ATL1?t=Y417961660001796211000000690MEXGDLATL_3c1b02da0a068a5bf96ac108569ec3f2_22481&search_date=21112026&expected_price_uuid=01a1fc7a-e63b-8030-e4d5-f1c1c9db3ff4&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=LlVBlZhapasVEF19GG4T2A&expected_price_source=share&expected_price_currency=mxn&expected_price=5247",
-   "title": "Flight deals from Mexico City to Atlanta",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-atlanta-20261201-3c1b02da/"
   },
   {
    "id": "d45d23dce5281236f58abd1f1a5ce29e",

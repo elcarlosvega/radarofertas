@@ -1,6 +1,6 @@
 {
- "generated_at": 1795352644.094477,
- "generated_at_str": "22/11/2026 07:04",
+ "generated_at": 1795356244.099414,
+ "generated_at_str": "22/11/2026 08:04",
  "origins": [
   "MEX",
   "GDL",
@@ -25,7 +25,7 @@
    "departure_at": "2026-12-02T19:15:00-06:00",
    "return_at": "",
    "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX0212CUN1?t=VB17962389001796250300000130NLUCUN_672de47e24334b71c5f1a175e7044cbc_5489&search_date=22112026&expected_price_uuid=01a20349-d47c-8040-626d-0ea028df404b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6lovmOZAQLNMu-1wv5btOg&expected_price_source=share&expected_price_currency=mxn&expected_price=1291",
+   "link": "https://www.aviasales.com/search/MEX0212CUN1?t=VB17962389001796250300000130NLUCUN_672de47e24334b71c5f1a175e7044cbc_5489&search_date=22112026&expected_price_uuid=01a2037b-2d9a-8040-66ba-b9fc6e776af6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6lovmOZAQLNMu-1wv5btOg&expected_price_source=share&expected_price_currency=mxn&expected_price=1291",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261202-672de47e/"
   },
@@ -110,6 +110,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261202-8a905613/"
   },
   {
+   "id": "a2eb8db6d7a8b8b32b2dd3ca4c35837a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SAO",
+   "destination_name": "São Paulo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 7002.0,
+   "currency": "MXN",
+   "departure_at": "2027-02-16T23:36:00-06:00",
+   "return_at": "",
+   "duration": 1189,
+   "link": "https://www.aviasales.com/search/MEX1602SAO1?t=DM18028209601802903100001189NLUGRU_a2eb8db6d7a8b8b32b2dd3ca4c35837a_29779&search_date=22112026&expected_price_uuid=01a2036f-ea33-8030-ae7f-f68be96aec3c&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=upHqdftcjFwMZrVYSmBWiQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7002",
+   "title": "Flight deals from Mexico City to Sao Paulo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270216-a2eb8db6/"
+  },
+  {
    "id": "364eb570f324da52603a749a0a4ac677",
    "kind": "flight",
    "origin": "MEX",
@@ -168,26 +188,6 @@
    "link": "https://www.aviasales.com/search/MEX2812TYO1?t=AM17984943001798612200001065MEXNRT_c21bb0733a638865b2706db699e40020_81836&search_date=22112026&expected_price_uuid=01a20246-27b4-8030-2b02-b8fb3c3f1719&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Gn9gwIFHaNltnylTu5aW8w&expected_price_source=share&expected_price_currency=mxn&expected_price=19103",
    "title": "Flight deals from Mexico City to Tokyo",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261228-c21bb073/"
-  },
-  {
-   "id": "47c393f59b1683229f02577981209177",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BJS",
-   "destination_name": "Pekín",
-   "airline": "CZ",
-   "airline_title": "China Southern Airlines",
-   "logo": "https://pics.avs.io/600/150/CZ.png",
-   "logo_tipo": "",
-   "price": 26629.0,
-   "currency": "MXN",
-   "departure_at": "2026-11-27T01:45:00-06:00",
-   "return_at": "",
-   "duration": 1620,
-   "link": "https://www.aviasales.com/search/MEX2711BJS1?t=CZ17957439001795891500001620MEXSZXPKX_47c393f59b1683229f02577981209177_114080&search_date=22112026&expected_price_uuid=01a20213-62b9-8040-2e98-4f18cb19d87f&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=XJQnWoAXOtdpwf66VvD7ZQ&expected_price_source=share&expected_price_currency=mxn&expected_price=26629",
-   "title": "Flight deals from Mexico City to Beijing",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261127-47c393f5/"
   }
  ]
 }

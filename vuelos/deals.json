@@ -1,6 +1,6 @@
 {
- "generated_at": 1795374244.1566963,
- "generated_at_str": "22/11/2026 13:04",
+ "generated_at": 1795377843.8393118,
+ "generated_at_str": "22/11/2026 14:04",
  "origins": [
   "MEX",
   "GDL",
@@ -10,7 +10,7 @@
  ],
  "deals": [
   {
-   "id": "672de47e24334b71c5f1a175e7044cbc",
+   "id": "5d676c1cea4faf82aef1f97d32ef106d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -20,14 +20,14 @@
    "airline_title": "Viva Aerobus",
    "logo": "https://pics.avs.io/600/310/VB.png",
    "logo_tipo": "lockup",
-   "price": 1291.0,
+   "price": 1764.0,
    "currency": "MXN",
-   "departure_at": "2026-12-02T19:15:00-06:00",
+   "departure_at": "2026-11-25T17:44:00-06:00",
    "return_at": "",
-   "duration": 130,
-   "link": "https://www.aviasales.com/search/MEX0212CUN1?t=VB17962389001796250300000130NLUCUN_672de47e24334b71c5f1a175e7044cbc_5489&search_date=22112026&expected_price_uuid=01a2037b-2d9a-8040-66ba-b9fc6e776af6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6lovmOZAQLNMu-1wv5btOg&expected_price_source=share&expected_price_currency=mxn&expected_price=1291",
+   "duration": 136,
+   "link": "https://www.aviasales.com/search/MEX2511CUN1?t=VB17956286401795640400000136TLCCUN_5d676c1cea4faf82aef1f97d32ef106d_7500&search_date=22112026&expected_price_uuid=01a204c4-c92d-8031-6726-a9b62914694a&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=7DoviFtBAlUqiLuoZQHbwg&expected_price_source=share&expected_price_currency=mxn&expected_price=1764",
    "title": "Flight deals from Mexico City to Cancun",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261202-672de47e/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261125-5d676c1c/"
   },
   {
    "id": "02a5380212eff4232049a4b8015a469d",
@@ -110,7 +110,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270120-776622ce/"
   },
   {
-   "id": "a2eb8db6d7a8b8b32b2dd3ca4c35837a",
+   "id": "79e8a323d1289891ef58656c36b87a0d",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -120,14 +120,14 @@
    "airline_title": "Arajet",
    "logo": "https://pics.avs.io/600/232/DM.png",
    "logo_tipo": "lockup",
-   "price": 7002.0,
+   "price": 7084.0,
    "currency": "MXN",
-   "departure_at": "2027-02-16T23:36:00-06:00",
+   "departure_at": "2026-12-07T16:46:00-06:00",
    "return_at": "",
-   "duration": 1189,
-   "link": "https://www.aviasales.com/search/MEX1602SAO1?t=DM18028209601802903100001189NLUGRU_a2eb8db6d7a8b8b32b2dd3ca4c35837a_29779&search_date=22112026&expected_price_uuid=01a2036f-ea33-8030-ae7f-f68be96aec3c&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=upHqdftcjFwMZrVYSmBWiQ&expected_price_source=share&expected_price_currency=mxn&expected_price=7002",
+   "duration": 774,
+   "link": "https://www.aviasales.com/search/MEX0712SAO1?t=DM17966619601796719200000774NLUPUJGRU_79e8a323d1289891ef58656c36b87a0d_30127&search_date=22112026&expected_price_uuid=01a20473-f7de-8040-a6e5-205e0e2fad6e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WhmhLGHJMngRR3C0bhaLpA&expected_price_source=share&expected_price_currency=mxn&expected_price=7084",
    "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270216-a2eb8db6/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261207-79e8a323/"
   },
   {
    "id": "66c092d0e92a26e0630defbb64031cb5",

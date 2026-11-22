@@ -1,6 +1,6 @@
 {
- "generated_at": 1795331044.0379596,
- "generated_at_str": "22/11/2026 01:04",
+ "generated_at": 1795334644.4593275,
+ "generated_at_str": "22/11/2026 02:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261202-672de47e/"
   },
   {
-   "id": "87ce429d2ea5b496036ad10486403a09",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TIJ",
-   "destination_name": "Tijuana",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 1801.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-04T21:38:00-06:00",
-   "return_at": "",
-   "duration": 211,
-   "link": "https://www.aviasales.com/search/MEX0412TIJ1?t=VB17964202801796425740000211NLUTIJ_87ce429d2ea5b496036ad10486403a09_7716&search_date=22112026&expected_price_uuid=01a200d1-0843-8031-22aa-d0e7aa3ebf34&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=XCcFOwokxw2y0YEA9eqb_g&expected_price_source=share&expected_price_currency=mxn&expected_price=1801",
-   "title": "Flight deals from Mexico City to Tijuana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261204-87ce429d/"
-  },
-  {
    "id": "99bde2e36a38af109c168a5a6529e341",
    "kind": "flight",
    "origin": "MEX",
@@ -108,26 +88,6 @@
    "link": "https://www.aviasales.com/search/MEX0912LAX1?t=Y417968491001796856600000245MEXLAX_99bde2e36a38af109c168a5a6529e341_11245&search_date=22112026&expected_price_uuid=01a2016a-9c31-8040-2459-feaae1d18c8e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=26r90ZAVE_zOgRUxhR1WlQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2625",
    "title": "Flight deals from Mexico City to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261209-99bde2e3/"
-  },
-  {
-   "id": "c128c756b59175c38c389339e9956bd9",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "MDE",
-   "destination_name": "Medellín",
-   "airline": "VB",
-   "airline_title": "Viva Aerobus",
-   "logo": "https://pics.avs.io/600/310/VB.png",
-   "logo_tipo": "lockup",
-   "price": 4135.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-04T19:23:00-06:00",
-   "return_at": "",
-   "duration": 260,
-   "link": "https://www.aviasales.com/search/MEX0412MDE1?t=VB17964121801796431380000260NLUMDE_c128c756b59175c38c389339e9956bd9_17714&search_date=22112026&expected_price_uuid=01a200e5-5da8-8040-2ace-333c1a686d70&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mW1rasWUvRt2xdQzl0DsLQ&expected_price_source=share&expected_price_currency=mxn&expected_price=4135",
-   "title": "Flight deals from Mexico City to Medellin",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-medellin-20261204-c128c756/"
   },
   {
    "id": "2d474ff3c8580e41e5d6132b7a9d747a",
@@ -190,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20261229-5268dc59/"
   },
   {
+   "id": "78e566689d24ea1d03b83aafcfb8629c",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "SZX",
+   "destination_name": "Shenzhen",
+   "airline": "3U",
+   "airline_title": "Sichuan Airlines",
+   "logo": "https://pics.avs.io/600/150/3U.png",
+   "logo_tipo": "",
+   "price": 10475.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-04T05:30:00-06:00",
+   "return_at": "",
+   "duration": 2650,
+   "link": "https://www.aviasales.com/search/MEX0412SZX1?t=3U17963622001796571600002650MEXLAXTFUCTUSZX_78e566689d24ea1d03b83aafcfb8629c_44876&search_date=22112026&expected_price_uuid=01a20212-1ba6-8040-6aef-5532ad97f3a8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2KvydHcZkU4OKfkL8IquDA&expected_price_source=share&expected_price_currency=mxn&expected_price=10475",
+   "title": "Flight deals from Mexico City to Shenzhen",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shenzhen-20261204-78e56668/"
+  },
+  {
    "id": "4c96647a662e56eb7d1521783e3e9ceb",
    "kind": "flight",
    "origin": "MEX",
@@ -208,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX0601BKK1?t=CZ17991960001799345700001715MEXSZXBKK_4c96647a662e56eb7d1521783e3e9ceb_100844&search_date=22112026&expected_price_uuid=01a20127-0a96-8040-236d-e145f8a0c03f&static_fare_key=TY%7CP1%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=WNo9--yObPokiaQxyV0img&expected_price_source=share&expected_price_currency=mxn&expected_price=23539",
    "title": "Flight deals from Mexico City to Bangkok",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20270106-4c96647a/"
+  },
+  {
+   "id": "47c393f59b1683229f02577981209177",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "CZ",
+   "airline_title": "China Southern Airlines",
+   "logo": "https://pics.avs.io/600/150/CZ.png",
+   "logo_tipo": "",
+   "price": 26629.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-27T01:45:00-06:00",
+   "return_at": "",
+   "duration": 1620,
+   "link": "https://www.aviasales.com/search/MEX2711BJS1?t=CZ17957439001795891500001620MEXSZXPKX_47c393f59b1683229f02577981209177_114080&search_date=22112026&expected_price_uuid=01a20213-62b9-8040-2e98-4f18cb19d87f&static_fare_key=TY%7CP0%7CH1%7CL1_2_46%7CCH1%7CR1%7CTBC1&itinerary_key=XJQnWoAXOtdpwf66VvD7ZQ&expected_price_source=share&expected_price_currency=mxn&expected_price=26629",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261127-47c393f5/"
   }
  ]
 }

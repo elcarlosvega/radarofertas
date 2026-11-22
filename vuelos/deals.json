@@ -1,6 +1,6 @@
 {
- "generated_at": 1795356244.099414,
- "generated_at_str": "22/11/2026 08:04",
+ "generated_at": 1795359843.9896283,
+ "generated_at_str": "22/11/2026 09:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-punta-cana-20270215-8bcae966/"
   },
   {
-   "id": "24b6fd208bc010cbc44d0e6276450e2e",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SDQ",
-   "destination_name": "Santo Domingo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 4590.0,
-   "currency": "MXN",
-   "departure_at": "2027-02-15T23:34:00-06:00",
-   "return_at": "",
-   "duration": 255,
-   "link": "https://www.aviasales.com/search/MEX1502SDQ1?t=DM18027344401802756940000255NLUSDQ_24b6fd208bc010cbc44d0e6276450e2e_19522&search_date=22112026&expected_price_uuid=01a202ae-9fc9-8031-6a03-c7c9b5174ede&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=4590",
-   "title": "Flight deals from Mexico City to Santo Domingo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270215-24b6fd20/"
-  },
-  {
    "id": "8a905613e11e60a09466cdcd1eccda85",
    "kind": "flight",
    "origin": "MEX",
@@ -108,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX0212LAS1?t=VB17961912001796217000000550TLCMTYLAS_8a905613e11e60a09466cdcd1eccda85_20489&search_date=22112026&expected_price_uuid=01a2032f-4f0b-8030-a9ab-9f2a92a80da5&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=S57UsrPcTSkjtxIT5oJa7g&expected_price_source=share&expected_price_currency=mxn&expected_price=4818",
    "title": "Flight deals from Mexico City to Las Vegas",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-las-vegas-20261202-8a905613/"
+  },
+  {
+   "id": "776622ceda1abc5090c01dc345a6ac1d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4821.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-20T22:00:00-06:00",
+   "return_at": "",
+   "duration": 355,
+   "link": "https://www.aviasales.com/search/MEX2001LIM1?t=Y418004824001800507300000355MEXLIM_776622ceda1abc5090c01dc345a6ac1d_20504&search_date=22112026&expected_price_uuid=01a203b4-cb90-8030-e9b4-2eaf3008e831&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4821",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20270120-776622ce/"
   },
   {
    "id": "a2eb8db6d7a8b8b32b2dd3ca4c35837a",
@@ -170,24 +170,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-shenzhen-20261204-78e56668/"
   },
   {
-   "id": "c21bb0733a638865b2706db699e40020",
+   "id": "0a92465d93f714117f8bd7fbdaaca196",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "AM",
-   "airline_title": "Aeromexico",
-   "logo": "https://pics.avs.io/600/106/AM.png",
+   "destination": "MLE",
+   "destination_name": "Malé",
+   "airline": "LX",
+   "airline_title": "SWISS",
+   "logo": "https://pics.avs.io/600/150/LX.png",
    "logo_tipo": "",
-   "price": 19103.0,
+   "price": 13741.0,
    "currency": "MXN",
-   "departure_at": "2026-12-28T21:45:00-06:00",
+   "departure_at": "2027-02-28T07:25:00-06:00",
    "return_at": "",
-   "duration": 1065,
-   "link": "https://www.aviasales.com/search/MEX2812TYO1?t=AM17984943001798612200001065MEXNRT_c21bb0733a638865b2706db699e40020_81836&search_date=22112026&expected_price_uuid=01a20246-27b4-8030-2b02-b8fb3c3f1719&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=Gn9gwIFHaNltnylTu5aW8w&expected_price_source=share&expected_price_currency=mxn&expected_price=19103",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261228-c21bb073/"
+   "duration": 2455,
+   "link": "https://www.aviasales.com/search/MEX2802MLE1?t=LX18037995001803986400002455MEXLAXZRHMLE_0a92465d93f714117f8bd7fbdaaca196_58436&search_date=22112026&expected_price_uuid=01a20390-dc18-8030-6377-c227c0d51e81&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wGNLK3oCR_6FCCKN4sQyBw&expected_price_source=share&expected_price_currency=mxn&expected_price=13741",
+   "title": "Flight deals from Mexico City to Male",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-male-20270228-0a92465d/"
   }
  ]
 }

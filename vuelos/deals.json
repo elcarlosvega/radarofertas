@@ -1,6 +1,6 @@
 {
- "generated_at": 1795313043.9524772,
- "generated_at_str": "21/11/2026 20:04",
+ "generated_at": 1795316644.837116,
+ "generated_at_str": "21/11/2026 21:04",
  "origins": [
   "MEX",
   "GDL",
@@ -50,26 +50,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-puerto-escondido-20270110-857bd383/"
   },
   {
-   "id": "ed1f4498b15696cb262e825c61864a4c",
-   "kind": "flight",
-   "origin": "MTY",
-   "origin_name": "Monterrey",
-   "destination": "GDL",
-   "destination_name": "Guadalajara",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 975.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-01T06:00:00-06:00",
-   "return_at": "",
-   "duration": 91,
-   "link": "https://www.aviasales.com/search/MTY0112GDL1?t=Y417961048001796110260000091MTYGDL_ed1f4498b15696cb262e825c61864a4c_4179&search_date=21112026&expected_price_uuid=01a1ffd1-18d9-8030-aca3-6751a12c0cbf&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lPNOgID2i_cXoAoc7aNSIQ&expected_price_source=share&expected_price_currency=mxn&expected_price=975",
-   "title": "Flight deals from Monterrey to Guadalajara",
-   "micro": "/oferta/vuelos/vuelo-monterrey-guadalajara-20261201-ed1f4498/"
-  },
-  {
    "id": "fe3d572e29efbe014faee5aae3081f3a",
    "kind": "flight",
    "origin": "MEX",
@@ -88,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX1212CUN1?t=Y417970570001797068820000137TLCCUN_fe3d572e29efbe014faee5aae3081f3a_4506&search_date=21112026&expected_price_uuid=01a1fff1-3c0b-8030-a46c-89569ebdc65b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8FwYJhLgYiEPhPpOODB-Mw&expected_price_source=share&expected_price_currency=mxn&expected_price=1052",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261212-fe3d572e/"
+  },
+  {
+   "id": "3c005c6244b3f924d3e3ac9f80e7923b",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "TRC",
+   "destination_name": "Torreón",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 1054.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-28T06:34:00-06:00",
+   "return_at": "",
+   "duration": 465,
+   "link": "https://www.aviasales.com/search/GDL2812TRC1?t=AM17984396401798467540000465GDLMEXTRC_3c005c6244b3f924d3e3ac9f80e7923b_4515&search_date=22112026&expected_price_uuid=01a2012b-9a02-8040-a7f6-b5ac5a14a8d8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YaCGaJAhmxv6Z2Mi3JwVXQ&expected_price_source=share&expected_price_currency=mxn&expected_price=1054",
+   "title": "Flight deals from Guadalajara to Torreon",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-torreon-20261228-3c005c62/"
   },
   {
    "id": "72f82392b9321a0eeac863d740360914",

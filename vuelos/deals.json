@@ -1,6 +1,6 @@
 {
- "generated_at": 1795381443.8733644,
- "generated_at_str": "22/11/2026 15:04",
+ "generated_at": 1795385044.194042,
+ "generated_at_str": "22/11/2026 16:04",
  "origins": [
   "MEX",
   "GDL",
@@ -68,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX0212TIJ1?t=Y417962535401796258880000209NLUTIJ_4c3fd8a554e4f489c2c7846d6ca2ba2d_10104&search_date=22112026&expected_price_uuid=01a20479-2d47-8040-26bb-85f685ac1034&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=Dw0tOyqyGWzR5l6GMAjJ0w&expected_price_source=share&expected_price_currency=mxn&expected_price=2370",
    "title": "Flight deals from Mexico City to Tijuana",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261202-4c3fd8a5/"
+  },
+  {
+   "id": "bc2cbe26390436616e299f1039983e9d",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "LAX",
+   "destination_name": "Los Ángeles",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2561.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T13:52:00-06:00",
+   "return_at": "",
+   "duration": 202,
+   "link": "https://www.aviasales.com/search/GDL0212LAX1?t=Y417962195201796224440000202GDLLAX_bc2cbe26390436616e299f1039983e9d_10930&search_date=22112026&expected_price_uuid=01a20510-3d3b-8040-6209-71fc7d0dfd25&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YM03bGnMiEc3yCY8Y9V_pw&expected_price_source=share&expected_price_currency=mxn&expected_price=2561",
+   "title": "Flight deals from Guadalajara to Los Angeles",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-los-angeles-20261202-bc2cbe26/"
   },
   {
    "id": "02a5380212eff4232049a4b8015a469d",
@@ -150,7 +170,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20261207-79e8a323/"
   },
   {
-   "id": "66c092d0e92a26e0630defbb64031cb5",
+   "id": "ea569aae245223dde8a9094809c667d8",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -160,14 +180,14 @@
    "airline_title": "British Airways",
    "logo": "https://pics.avs.io/600/150/BA.png",
    "logo_tipo": "",
-   "price": 9717.0,
+   "price": 9591.0,
    "currency": "MXN",
-   "departure_at": "2026-11-25T14:55:00-06:00",
+   "departure_at": "2027-05-20T14:00:00-05:00",
    "return_at": "",
-   "duration": 915,
-   "link": "https://www.aviasales.com/search/MEX2511MAD1?t=BA17956185001795698600000915MEXMIAMAD_66c092d0e92a26e0630defbb64031cb5_41421&search_date=22112026&expected_price_uuid=01a203d4-0ac3-8031-617d-6dc286fa2198&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=NOyEwTVDdiCeSuJLNVUCJw&expected_price_source=share&expected_price_currency=mxn&expected_price=9717",
+   "duration": 1325,
+   "link": "https://www.aviasales.com/search/MEX2005MAD1?t=BA18108216001810929900001325MEXMIALHRMAD_ea569aae245223dde8a9094809c667d8_40882&search_date=22112026&expected_price_uuid=01a2040b-4a4c-8040-28f0-8d2fbbfd5256&static_fare_key=TY%7CP1%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=lAm2KHrZisoYxTpE_eKh0g&expected_price_source=share&expected_price_currency=mxn&expected_price=9591",
    "title": "Flight deals from Mexico City to Madrid",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20261125-66c092d0/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-ciudad-de-madrid-20270520-ea569aae/"
   },
   {
    "id": "820ea950049138058101ad73ec317281",

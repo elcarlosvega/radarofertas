@@ -54,10 +54,10 @@
    "micro_pages": 47
   },
   "elektra": {
-   "last_attempt": 1795377842.5420542,
+   "last_attempt": 1795381442.552304,
    "items": 0,
    "status": "down",
-   "reason": "HTTP Error 403: Forbidden",
+   "reason": "<urlopen error [Errno 11002] getaddrinfo failed>",
    "host": "pc",
    "last_complete_sweep": 1790053442.3631513,
    "micro_pages": 9
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1795381778.8946886
+ "updated_at": 1795381791.0853205
 }

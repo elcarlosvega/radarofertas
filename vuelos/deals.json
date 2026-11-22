@@ -1,6 +1,6 @@
 {
- "generated_at": 1795338244.708271,
- "generated_at_str": "22/11/2026 03:04",
+ "generated_at": 1795341844.1749454,
+ "generated_at_str": "22/11/2026 04:04",
  "origins": [
   "MEX",
   "GDL",
@@ -90,24 +90,24 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261209-99bde2e3/"
   },
   {
-   "id": "49bb5e9d1fb787f48281388bff51b7f0",
+   "id": "24b6fd208bc010cbc44d0e6276450e2e",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
-   "destination": "NYC",
-   "destination_name": "Nueva York",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 5186.0,
+   "destination": "SDQ",
+   "destination_name": "Santo Domingo",
+   "airline": "DM",
+   "airline_title": "Arajet",
+   "logo": "https://pics.avs.io/600/232/DM.png",
+   "logo_tipo": "lockup",
+   "price": 4590.0,
    "currency": "MXN",
-   "departure_at": "2027-02-02T20:07:00-06:00",
+   "departure_at": "2027-02-15T23:34:00-06:00",
    "return_at": "",
-   "duration": 473,
-   "link": "https://www.aviasales.com/search/MEX0202NYC1?t=Y418015988201801630800000473TLCGDLEWR_49bb5e9d1fb787f48281388bff51b7f0_22219&search_date=22112026&expected_price_uuid=01a2014b-971d-8030-aa54-3c6257101fb3&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=nz3068tQ7C16d3ec0zcYsg&expected_price_source=share&expected_price_currency=mxn&expected_price=5186",
-   "title": "Flight deals from Mexico City to New York",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-nueva-york-20270202-49bb5e9d/"
+   "duration": 255,
+   "link": "https://www.aviasales.com/search/MEX1502SDQ1?t=DM18027344401802756940000255NLUSDQ_24b6fd208bc010cbc44d0e6276450e2e_19522&search_date=22112026&expected_price_uuid=01a202ae-9fc9-8031-6a03-c7c9b5174ede&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=PP9fLdOXS8nq6PBWJdtZ1w&expected_price_source=share&expected_price_currency=mxn&expected_price=4590",
+   "title": "Flight deals from Mexico City to Santo Domingo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20270215-24b6fd20/"
   },
   {
    "id": "5268dc59b8a35ffa2db1594b6dbee46e",

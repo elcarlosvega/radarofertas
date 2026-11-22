@@ -1,6 +1,6 @@
 {
- "generated_at": 1795367044.8959062,
- "generated_at_str": "22/11/2026 11:04",
+ "generated_at": 1795370644.079755,
+ "generated_at_str": "22/11/2026 12:04",
  "origins": [
   "MEX",
   "GDL",
@@ -88,6 +88,26 @@
    "link": "https://www.aviasales.com/search/MEX0212SAN1?t=VB17961912001796285400001690TLCMTYLASSAN_2d474ff3c8580e41e5d6132b7a9d747a_18195&search_date=22112026&expected_price_uuid=01a2041f-32ff-8030-a9eb-e5fdb6b8ffd8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cnEPjqfYE2VtYyeOCXVGCA&expected_price_source=share&expected_price_currency=mxn&expected_price=4278",
    "title": "Flight deals from Mexico City to San Diego",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-san-diego-20261202-2d474ff3/"
+  },
+  {
+   "id": "a46c89dd07f9a3f398551701302e8c0b",
+   "kind": "flight",
+   "origin": "GDL",
+   "origin_name": "Guadalajara",
+   "destination": "MFE",
+   "destination_name": "McAllen",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4656.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T11:54:00-06:00",
+   "return_at": "",
+   "duration": 1451,
+   "link": "https://www.aviasales.com/search/GDL0212MFE1?t=Y417962124401796299500001451GDLLASMFE_a46c89dd07f9a3f398551701302e8c0b_19799&search_date=22112026&expected_price_uuid=01a20444-f92d-8030-e201-9a75fe506de1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CEAgG3ekl3FNkl_GKIhhAw&expected_price_source=share&expected_price_currency=mxn&expected_price=4656",
+   "title": "Flight deals from Guadalajara to McAllen",
+   "micro": "/oferta/vuelos/vuelo-guadalajara-mcallen-20261202-a46c89dd/"
   },
   {
    "id": "776622ceda1abc5090c01dc345a6ac1d",

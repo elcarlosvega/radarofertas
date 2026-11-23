@@ -36,11 +36,11 @@
    "micro_pages": 75
   },
   "ml": {
-   "last_attempt": 1795457042.8685973,
+   "last_attempt": 1795461532.7773173,
    "last_complete_sweep": 1795457042.8685973,
-   "items": 834,
-   "status": "ok",
-   "reason": "",
+   "items": 0,
+   "status": "degraded",
+   "reason": "la API no devolvio ofertas elegibles en ninguna categoria",
    "host": "pc",
    "micro_pages": 22
   },
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1795461310.6767519
+ "updated_at": 1795461535.1667745
 }

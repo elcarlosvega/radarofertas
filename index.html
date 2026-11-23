@@ -16,7 +16,7 @@ gtag('config', 'G-6FC3YSTR2X');
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <title>Ofertas del día en México: Amazon, Coppel, Liverpool, Palacio, Costco y más | Radar Ofertas MX</title>
-<meta name="description" content="Rastreamos descuentos fuertes de Amazon, Coppel, Liverpool, Palacio de Hierro, Costco, Mercado Libre y Elektra, 24/7, y te mostramos solo lo que vale la pena. Actualizado cada hora.">
+<meta name="description" content="Rastreamos descuentos fuertes de Amazon, Coppel, Liverpool, Palacio de Hierro, Costco y Mercado Libre, 24/7, y te mostramos solo lo que vale la pena. Actualizado cada hora.">
 <link rel="canonical" href="https://radarofertas.mx/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Radar Ofertas MX">
@@ -321,7 +321,6 @@ footer{border-top:1px solid var(--line);margin-top:48px;background:#fff}
       <a class="tab" href="/costco/">Costco</a>
       <a class="tab" href="/mercadolibre/">MeLi</a>
       <a class="tab" href="/coppel/">Coppel</a>
-      <a class="tab" href="/elektra/">Elektra</a>
       <a class="tab" href="/liverpool/">Liverpool</a>
     </div>
     <!-- Descuento detectado en los ultimos 7 dias. Sale de home.json ->
@@ -505,10 +504,11 @@ const STORES = [
   {key:'costco',       name:'Costco',            short:'Costco',  path:'costco',       accent:'#e11d2a', dot:'#ff4d5e'},
   {key:'mercadolibre', name:'Mercado Libre',     short:'MeLi',    path:'mercadolibre', accent:'#e6c800', dot:'#ffe600'},
   {key:'coppel',       name:'Coppel',            short:'Coppel',  path:'coppel',       accent:'#2b7cf0', dot:'#4d94ff'},
-  {key:'elektra',      name:'Elektra',           short:'Elektra', path:'elektra',      accent:'#e4002b', dot:'#ff4d5e'},
+  // Elektra retirada del menu el 23-nov-2026 (monitor sin barrer desde el 21-sep). Para volver: descomentar y regresarla a ALLKEYS.
+  // {key:'elektra',      name:'Elektra',           short:'Elektra', path:'elektra',      accent:'#e4002b', dot:'#ff4d5e'},
   {key:'liverpool',    name:'Liverpool',         short:'Liverpool', path:'liverpool',  accent:'#E10098', dot:'#ff4dc4'},
 ];
-const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel','elektra','liverpool'];
+const ALLKEYS = ['palacio','amazon','costco','mercadolibre','coppel','liverpool'];
 const PAGE_N = 12;
 var OKDOM=['elpalaciodehierro.com','amazon.com.mx','media-amazon.com','costco.com.mx','mercadolibre.com.mx','mlstatic.com','coppel.com','liverpool.com.mx','radarofertas.mx','pics.avs.io','vteximg.com.br','vtexassets.com','elektra.mx'];
 function safeUrl(u){try{var p=new URL(u);if(p.protocol!=='https:')return '';var h=p.hostname;for(var i=0;i<OKDOM.length;i++){var d=OKDOM[i];if(h===d||h.slice(-d.length-1)==='.'+d)return u;}}catch(e){}return '';}

@@ -1,6 +1,6 @@
 {
- "generated_at": 1795435994.3695538,
- "generated_at_str": "23/11/2026 06:13",
+ "generated_at": 1795439352.992575,
+ "generated_at_str": "23/11/2026 07:09",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -4336,7 +4336,7 @@
    "starts": "",
    "ends": "",
    "in_stock": true,
-   "first_seen": 1795435994.3695538,
+   "first_seen": 1795436007.5773773,
    "h_dias": 81,
    "h_min": 539.0,
    "h_min7": 539.0
@@ -45808,26 +45808,6 @@
    "h_min90": 1591.0
   },
   {
-   "id": "36381162",
-   "name": "Sony Audífonos Inalámbricos Wh-ch520 Color Blanco",
-   "url": "https://www.coppel.com/pdp/audifonos-inalambricos-wh-ch520-color-blanco-mkp-36381162",
-   "img": "https://cdn5.coppel.com/mkp/36381162-1.jpg",
-   "category": "Audifonos",
-   "price_old": 2747.0,
-   "price_new": 1785.0,
-   "pct": 35.0,
-   "amount": 962.0,
-   "starts": "",
-   "ends": "",
-   "in_stock": true,
-   "first_seen": 1785964414.7510617,
-   "h_dias": 107,
-   "h_min": 1785.0,
-   "h_ayer": 1785.0,
-   "h_min7": 1785.0,
-   "h_min90": 1785.0
-  },
-  {
    "id": "73371238",
    "name": "Lab.G Impresora Eléctrica Autocorte Usb Ethernet Rj11 Pos De 80 Mm Negro",
    "url": "https://www.coppel.com/pdp/impresora-electrica-autocorte-usb-ethernet-rj11-pos-de-80-mm-negro-mkp-73371238",
@@ -51389,6 +51369,25 @@
    "h_min": 1995.0,
    "h_ayer": 1995.0,
    "h_min7": 1995.0
+  },
+  {
+   "id": "258785",
+   "name": "Barra de Sonido RCA SBW721BT con Subwoofer",
+   "url": "https://www.coppel.com/pdp/barra-de-sonido-rca-sbw721bt-con-subwoofer-pm-2587853",
+   "img": "https://cdn5.coppel.com/pm/2587853-1.jpg",
+   "category": "Teatro en casa",
+   "price_old": 2899.0,
+   "price_new": 1929.0,
+   "pct": 33.5,
+   "amount": 970.0,
+   "starts": "",
+   "ends": "",
+   "in_stock": true,
+   "first_seen": 1785964414.7510617,
+   "h_dias": 110,
+   "h_min": 1929.0,
+   "h_min7": 1929.0,
+   "h_min90": 1929.0
   },
   {
    "id": "74121421",

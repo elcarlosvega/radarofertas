@@ -1,6 +1,6 @@
 {
- "generated_at": 1795388644.1345909,
- "generated_at_str": "22/11/2026 17:04",
+ "generated_at": 1795392243.9959812,
+ "generated_at_str": "22/11/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -130,26 +130,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-miami-20261202-9e0c7382/"
   },
   {
-   "id": "a46c89dd07f9a3f398551701302e8c0b",
-   "kind": "flight",
-   "origin": "GDL",
-   "origin_name": "Guadalajara",
-   "destination": "MFE",
-   "destination_name": "McAllen",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 4645.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-02T11:54:00-06:00",
-   "return_at": "",
-   "duration": 1451,
-   "link": "https://www.aviasales.com/search/GDL0212MFE1?t=Y417962124401796299500001451GDLLASMFE_a46c89dd07f9a3f398551701302e8c0b_19799&search_date=22112026&expected_price_uuid=01a20444-f92d-8030-e201-9a75fe506de1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CEAgG3ekl3FNkl_GKIhhAw&expected_price_source=share&expected_price_currency=mxn&expected_price=4645",
-   "title": "Flight deals from Guadalajara to McAllen",
-   "micro": "/oferta/vuelos/vuelo-guadalajara-mcallen-20261202-a46c89dd/"
-  },
-  {
    "id": "79e8a323d1289891ef58656c36b87a0d",
    "kind": "flight",
    "origin": "MEX",
@@ -190,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261203-820ea950/"
   },
   {
-   "id": "01055eb67e9d5e7568ccd49653ca0069",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BKK",
-   "destination_name": "Bangkok",
-   "airline": "3U",
-   "airline_title": "Sichuan Airlines",
-   "logo": "https://pics.avs.io/600/150/3U.png",
-   "logo_tipo": "",
-   "price": 11251.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-06T05:30:00-06:00",
-   "return_at": "",
-   "duration": 2810,
-   "link": "https://www.aviasales.com/search/MEX0612BKK1?t=3U17965350001796750400002810MEXLAXTFUBKK_01055eb67e9d5e7568ccd49653ca0069_47958&search_date=22112026&expected_price_uuid=01a2047c-d277-8031-2c6c-bbb20a1e9b4c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uclnJq62llW1mo2kiTB5aQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11251",
-   "title": "Flight deals from Mexico City to Bangkok",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-bangkok-20261206-01055eb6/"
-  },
-  {
    "id": "3322454ba1ebdc936f9bb8151baf305f",
    "kind": "flight",
    "origin": "MEX",
@@ -228,6 +188,26 @@
    "link": "https://www.aviasales.com/search/MEX0903IST1?t=AM18046299001804725000001045MEXCDGIST_3322454ba1ebdc936f9bb8151baf305f_70455&search_date=22112026&expected_price_uuid=01a20462-c4bd-8030-2f03-c7b319cd9da5&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=16529",
    "title": "Flight deals from Mexico City to Istanbul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270309-3322454b/"
+  },
+  {
+   "id": "8bd9a72ca4510e362b1e7ac22484b36a",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "BJS",
+   "destination_name": "Pekín",
+   "airline": "AC",
+   "airline_title": "Air Canada",
+   "logo": "https://pics.avs.io/600/78/AC.png",
+   "logo_tipo": "",
+   "price": 16576.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-25T07:15:00-06:00",
+   "return_at": "",
+   "duration": 1265,
+   "link": "https://www.aviasales.com/search/MEX2501BJS1?t=AC18008613001800987600001265MEXYVRPEK_8bd9a72ca4510e362b1e7ac22484b36a_70668&search_date=22112026&expected_price_uuid=01a2059d-e078-8030-e53c-455509e0726c&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=5QikUD5TjWz2N1mdjJOY5w&expected_price_source=share&expected_price_currency=mxn&expected_price=16576",
+   "title": "Flight deals from Mexico City to Beijing",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20270125-8bd9a72c/"
   }
  ]
 }

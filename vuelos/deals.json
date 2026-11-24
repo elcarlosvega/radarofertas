@@ -1,6 +1,6 @@
 {
- "generated_at": 1795478664.684924,
- "generated_at_str": "23/11/2026 18:04",
+ "generated_at": 1795482243.5269628,
+ "generated_at_str": "23/11/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -45,7 +45,7 @@
    "departure_at": "2026-12-08T08:25:00-06:00",
    "return_at": "",
    "duration": 137,
-   "link": "https://www.aviasales.com/search/MEX0812CUN1?t=Y417967183001796730120000137TLCCUN_9e4896ebcbcfae0fc8c8a4fe201188bc_4490&search_date=23112026&expected_price_uuid=01a20ac7-c652-8030-a5e9-6531a03121dc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=1051",
+   "link": "https://www.aviasales.com/search/MEX0812CUN1?t=Y417967183001796730120000137TLCCUN_9e4896ebcbcfae0fc8c8a4fe201188bc_4488&search_date=24112026&expected_price_uuid=01a20ae8-e1eb-8031-2d40-10091e184fb4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9tUdYUMRCx3WyeCWXQuYAw&expected_price_source=share&expected_price_currency=mxn&expected_price=1051",
    "title": "Flight deals from Mexico City to Cancun",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-cancun-20261208-9e4896eb/"
   },
@@ -150,6 +150,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-paris-20261209-34aa5c60/"
   },
   {
+   "id": "76121e38204abebaaea91193abcdd0fb",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "BY",
+   "airline_title": "TUI Airways",
+   "logo": "https://pics.avs.io/600/150/BY.png",
+   "logo_tipo": "",
+   "price": 10931.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-01T10:40:00-06:00",
+   "return_at": "",
+   "duration": 870,
+   "link": "https://www.aviasales.com/search/MEX0112LON1?t=BY17961216001796195400000870NLUCUNLGW_76121e38204abebaaea91193abcdd0fb_46710&search_date=23112026&expected_price_uuid=01a20ab0-48e4-8031-613a-6838193db443&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0_rORc6idD31Z1Wz4dhcaQ&expected_price_source=share&expected_price_currency=mxn&expected_price=10931",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261201-76121e38/"
+  },
+  {
    "id": "09006c2979ff2cfaaee2f42e07b32832",
    "kind": "flight",
    "origin": "MEX",
@@ -208,26 +228,6 @@
    "link": "https://www.aviasales.com/search/MEX2611BJS1?t=CA17957124001795844100001355MEXLAXPEK_94504552c4df1bc8b0ba46af0637e144_68239&search_date=23112026&expected_price_uuid=01a20a5a-ac12-8040-6f93-fac12a9ff482&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=Gx9v3qdLGKjKHdf85UkuNA&expected_price_source=share&expected_price_currency=mxn&expected_price=15968",
    "title": "Flight deals from Mexico City to Beijing",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-pekin-20261126-94504552/"
-  },
-  {
-   "id": "1050f1116799262427eb9a4d5a922b57",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TYO",
-   "destination_name": "Tokio",
-   "airline": "NH",
-   "airline_title": "All Nippon Airways",
-   "logo": "https://pics.avs.io/600/150/NH.png",
-   "logo_tipo": "",
-   "price": 18230.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-04T06:15:00-06:00",
-   "return_at": "",
-   "duration": 885,
-   "link": "https://www.aviasales.com/search/MEX0412TYO1?t=NH17963649001796472000000885MEXNRT_1050f1116799262427eb9a4d5a922b57_77902&search_date=23112026&expected_price_uuid=01a20991-7569-8030-22d7-d4ceb8fb58e0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=--BCPtNwYjICIrIGFt1uvg&expected_price_source=share&expected_price_currency=mxn&expected_price=18230",
-   "title": "Flight deals from Mexico City to Tokyo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20261204-1050f111/"
   }
  ]
 }

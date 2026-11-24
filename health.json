@@ -54,10 +54,10 @@
    "micro_pages": 4
   },
   "elektra": {
-   "last_attempt": 1795554242.422231,
+   "last_attempt": 1795557842.5283084,
    "items": 0,
    "status": "down",
-   "reason": "<urlopen error [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host>",
+   "reason": "HTTP Error 403: Forbidden",
    "host": "pc",
    "last_complete_sweep": 1790053442.3631513,
    "micro_pages": 9
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1795557955.392779
+ "updated_at": 1795558097.1463408
 }

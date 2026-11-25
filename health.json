@@ -27,13 +27,13 @@
    "host": "pc"
   },
   "coppel": {
-   "last_attempt": 1795640697.77887,
-   "items": 0,
-   "status": "down",
-   "reason": "anti-bot: 1a categoria inaccesible (fetch fallo tras 3 intentos: DNSError('Failed to perform, curl: (6) Could not resolve host: www.copp)",
+   "last_attempt": 1795644792.0798016,
+   "items": 4367,
+   "status": "ok",
+   "reason": "",
    "host": "pc",
-   "last_complete_sweep": 1795633991.1873634,
-   "micro_pages": 54
+   "last_complete_sweep": 1795644792.0798016,
+   "micro_pages": 68
   },
   "ml": {
    "last_attempt": 1795644243.003358,
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1795644627.4189053
+ "updated_at": 1795644798.5328805
 }

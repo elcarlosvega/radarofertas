@@ -54,10 +54,10 @@
    "micro_pages": 23
   },
   "elektra": {
-   "last_attempt": 1795561442.570258,
+   "last_attempt": 1795565042.4816928,
    "items": 0,
    "status": "down",
-   "reason": "HTTP Error 403: Forbidden",
+   "reason": "Remote end closed connection without response",
    "host": "pc",
    "last_complete_sweep": 1790053442.3631513,
    "micro_pages": 9
@@ -72,5 +72,5 @@
    "host": "pc"
   }
  },
- "updated_at": 1795565156.2403934
+ "updated_at": 1795565277.1885612
 }

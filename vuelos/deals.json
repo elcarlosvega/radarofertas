@@ -1,6 +1,6 @@
 {
- "generated_at": 1795651464.8511496,
- "generated_at_str": "25/11/2026 18:04",
+ "generated_at": 1795655065.343265,
+ "generated_at_str": "25/11/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -28,46 +28,6 @@
    "link": "https://www.aviasales.com/search/MEX0512LAX1?t=Y417965035001796511000000245MEXLAX_3a0b49e4796a3962a119cc1afcd42b96_11673&search_date=25112026&expected_price_uuid=01a214a2-7115-8030-e563-a625ecb59466&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=26r90ZAVE_zOgRUxhR1WlQ&expected_price_source=share&expected_price_currency=mxn&expected_price=2772",
    "title": "Flight deals from Mexico City to Los Angeles",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-los-angeles-20261205-3a0b49e4/"
-  },
-  {
-   "id": "ee43d4ee5dfaecd94addbf1c65fcaf94",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SAO",
-   "destination_name": "São Paulo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 5559.0,
-   "currency": "MXN",
-   "departure_at": "2027-01-13T17:05:00-06:00",
-   "return_at": "",
-   "duration": 785,
-   "link": "https://www.aviasales.com/search/MEX1301SAO1?t=DM17998599001799917800000785NLUPUJGRU_ee43d4ee5dfaecd94addbf1c65fcaf94_23406&search_date=25112026&expected_price_uuid=01a21400-4a79-8030-2ecc-62f60a49d588&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dCjMmViKRed9YYGt9y9Hbw&expected_price_source=share&expected_price_currency=mxn&expected_price=5559",
-   "title": "Flight deals from Mexico City to Sao Paulo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-sao-paulo-20270113-ee43d4ee/"
-  },
-  {
-   "id": "00d0f472bbcaf3fbf446a9249cb55406",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "BCN",
-   "destination_name": "Barcelona",
-   "airline": "BA",
-   "airline_title": "British Airways",
-   "logo": "https://pics.avs.io/600/150/BA.png",
-   "logo_tipo": "",
-   "price": 9201.0,
-   "currency": "MXN",
-   "departure_at": "2027-03-03T06:40:00-06:00",
-   "return_at": "",
-   "duration": 1445,
-   "link": "https://www.aviasales.com/search/MEX0303BCN1?t=BA18040560001804167900001445MEXMIALHRBCN_00d0f472bbcaf3fbf446a9249cb55406_38716&search_date=25112026&expected_price_uuid=01a213f9-8fd6-8031-6848-6805ef64bc94&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=7KUR9gMNYsJPgqMNtbjH6A&expected_price_source=share&expected_price_currency=mxn&expected_price=9201",
-   "title": "Flight deals from Mexico City to Barcelona",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-barcelona-20270303-00d0f472/"
   },
   {
    "id": "ebbb51a6e38371ec476782b8b79afe43",
@@ -108,6 +68,26 @@
    "link": "https://www.aviasales.com/search/MEX1801SEL1?t=AM18002973001800425400001235MEXMTYICN_9fdb339e529f74b6c881b41cba330eed_47871&search_date=25112026&expected_price_uuid=01a21499-0593-8030-2586-5fe545af2287&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=-SaBHcsN9BDDAN2daIPNkQ&expected_price_source=share&expected_price_currency=mxn&expected_price=11369",
    "title": "Flight deals from Mexico City to Seoul",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270118-9fdb339e/"
+  },
+  {
+   "id": "a200e2cad32aacb4d99d80787a11fe8d",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LON",
+   "destination_name": "Londres",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 13306.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-02T22:20:00-06:00",
+   "return_at": "",
+   "duration": 645,
+   "link": "https://www.aviasales.com/search/MEX0212LON1?t=AM17962500001796310300000645MEXLHR_a200e2cad32aacb4d99d80787a11fe8d_55985&search_date=25112026&expected_price_uuid=01a214ee-a0c5-8030-68cb-082ef4402067&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=HSzK4K8yFlMlz38hp-2-9Q&expected_price_source=share&expected_price_currency=mxn&expected_price=13306",
+   "title": "Flight deals from Mexico City to London",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-londres-20261202-a200e2ca/"
   },
   {
    "id": "7c0f79e9eed78c62b1c93f4498473161",
@@ -188,6 +168,26 @@
    "link": "https://www.aviasales.com/search/MEX0212DXB1?t=EK17961948001796300100001155MEXDFWDXB_052714a89f7f513d6e8ac83fb2732bbf_85241&search_date=25112026&expected_price_uuid=01a214d4-01ba-8040-6023-aec86ad61d8b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CctQx8VUTBWxyH4TTQeF3Q&expected_price_source=share&expected_price_currency=mxn&expected_price=20243",
    "title": "Flight deals from Mexico City to Dubai",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-dubai-20261202-052714a8/"
+  },
+  {
+   "id": "7c64e12fcd7a1ad4808e3deb928deff4",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "IST",
+   "destination_name": "Estambul",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 21685.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-06T22:05:00-06:00",
+   "return_at": "",
+   "duration": 1045,
+   "link": "https://www.aviasales.com/search/MEX0612IST1?t=AM17965947001796689800001045MEXCDGIST_7c64e12fcd7a1ad4808e3deb928deff4_91317&search_date=26112026&expected_price_uuid=01a2153f-c358-8030-ebcf-00963ffe7e06&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=21685",
+   "title": "Flight deals from Mexico City to Istanbul",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20261206-7c64e12f/"
   }
  ]
 }

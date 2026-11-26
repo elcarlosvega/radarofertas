@@ -1,6 +1,6 @@
 {
- "generated_at": 1795683915.06167,
- "generated_at_str": "26/11/2026 03:05",
+ "generated_at": 1795687488.135537,
+ "generated_at_str": "26/11/2026 04:04",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1404,7 +1404,7 @@
    "starts": "2026-11-26T06:00:00.000Z",
    "ends": "2026-11-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1795683915.06167,
+   "first_seen": 1795683929.198025,
    "h_dias": 42,
    "h_min": 779.0,
    "h_min7": 859.0
@@ -4654,26 +4654,6 @@
    "h_min7": 21999.0
   },
   {
-   "id": "683662",
-   "name": "América, Nova, Colchón King Size",
-   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Nova-Colchon-King-Size/p/683662",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h64/h90/466270559731742.jpg",
-   "category": "Muebles",
-   "price_old": 14999.0,
-   "price_new": 10999.0,
-   "pct": 26.7,
-   "amount": 4000.0,
-   "starts": "2026-11-23T06:00:00.000Z",
-   "ends": "2026-11-30T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1795421239.8403583,
-   "h_dias": 115,
-   "h_min": 10999.0,
-   "h_ayer": 10999.0,
-   "h_min7": 10999.0,
-   "h_min90": 10999.0
-  },
-  {
    "id": "673355",
    "name": "Elica Campana de Isla 90cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Elica-Campana-de-Isla-90cm/p/673355",
@@ -4692,6 +4672,26 @@
    "h_ayer": 10999.0,
    "h_min7": 10499.0,
    "h_min90": 10499.0
+  },
+  {
+   "id": "683662",
+   "name": "América, Nova, Colchón King Size",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/King-Size/America-Nova-Colchon-King-Size/p/683662",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h64/h90/466270559731742.jpg",
+   "category": "Muebles",
+   "price_old": 14999.0,
+   "price_new": 10999.0,
+   "pct": 26.7,
+   "amount": 4000.0,
+   "starts": "2026-11-23T06:00:00.000Z",
+   "ends": "2026-11-30T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1795421239.8403583,
+   "h_dias": 115,
+   "h_min": 10999.0,
+   "h_ayer": 10999.0,
+   "h_min7": 10999.0,
+   "h_min90": 10999.0
   },
   {
    "id": "1934082",
@@ -4782,7 +4782,7 @@
    "starts": "2026-11-26T06:00:00.000Z",
    "ends": "2026-11-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1795683915.06167,
+   "first_seen": 1795683929.198025,
    "h_dias": 50,
    "h_min": 829.0,
    "h_min7": 829.0
@@ -8888,7 +8888,7 @@
    "starts": "2026-11-26T06:00:00.000Z",
    "ends": "2026-11-30T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1795683915.06167,
+   "first_seen": 1795683929.198025,
    "h_dias": 16,
    "h_min": 1499.0,
    "h_min7": 1499.0
@@ -11347,6 +11347,25 @@
    "h_min90": 15999.0
   },
   {
+   "id": "673670",
+   "name": "Teka Campana de Pared 90cm",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Campana-de-Pared-90cm/p/673670",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/hd7/116304161538078.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 13999.0,
+   "price_new": 10999.0,
+   "pct": 21.4,
+   "amount": 3000.0,
+   "starts": "2026-11-24T06:00:00.000Z",
+   "ends": "2026-11-30T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1795532735.7601366,
+   "h_dias": 18,
+   "h_min": 9999.0,
+   "h_ayer": 10999.0,
+   "h_min7": 9999.0
+  },
+  {
    "id": "706285",
    "name": "Nintendo Switch 2 Bundle: EA Sports FC27",
    "url": "https://www.costco.com.mx/Electronicos/Videojuegos/Nintendo-Switch/Nintendo-Switch-2-Bundle-EA-Sports-FC27/p/706285",
@@ -11383,25 +11402,6 @@
    "h_min": 9999.0,
    "h_ayer": 10999.0,
    "h_min7": 10999.0
-  },
-  {
-   "id": "673670",
-   "name": "Teka Campana de Pared 90cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Campana-de-Pared-90cm/p/673670",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h8a/hd7/116304161538078.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 13999.0,
-   "price_new": 10999.0,
-   "pct": 21.4,
-   "amount": 3000.0,
-   "starts": "2026-11-24T06:00:00.000Z",
-   "ends": "2026-11-30T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1795532735.7601366,
-   "h_dias": 18,
-   "h_min": 9999.0,
-   "h_ayer": 10999.0,
-   "h_min7": 9999.0
   },
   {
    "id": "656849",

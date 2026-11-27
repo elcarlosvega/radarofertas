@@ -1,6 +1,6 @@
 {
- "generated_at": 1795734243.495725,
- "generated_at_str": "26/11/2026 17:04",
+ "generated_at": 1795737844.0041616,
+ "generated_at_str": "26/11/2026 18:04",
  "origins": [
   "MEX",
   "GDL",
@@ -70,26 +70,6 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-oaxaca-de-juarez-20261207-33627f11/"
   },
   {
-   "id": "a1e9a0d1f80604006d2a508a1262eef6",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "TQO",
-   "destination_name": "Municipio de Tulum",
-   "airline": "Y4",
-   "airline_title": "Volaris",
-   "logo": "https://pics.avs.io/600/136/Y4.png",
-   "logo_tipo": "",
-   "price": 1169.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-07T06:33:00-06:00",
-   "return_at": "",
-   "duration": 457,
-   "link": "https://www.aviasales.com/search/MEX0712TQO1?t=Y417966251801796656200000457NLUGDLTQO_a1e9a0d1f80604006d2a508a1262eef6_4868&search_date=26112026&expected_price_uuid=01a2190e-f1d7-8031-2f64-7f029aedb666&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZZHJk3V8DoOvO-r4WexaKw&expected_price_source=share&expected_price_currency=mxn&expected_price=1169",
-   "title": "Flight deals from Mexico City to Tulum",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-municipio-de-tulum-20261207-a1e9a0d1/"
-  },
-  {
    "id": "b488b6307d9ccdd3ac604b1fcfca5bfc",
    "kind": "flight",
    "origin": "GDL",
@@ -108,6 +88,26 @@
    "link": "https://www.aviasales.com/search/GDL0312TIJ1?t=VB17963358001796339400000180GDLTIJ_b488b6307d9ccdd3ac604b1fcfca5bfc_7880&search_date=26112026&expected_price_uuid=01a21a09-4ca2-8040-ab00-ae2c83e5caae&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=pWbqZDAHo05ZU5jclXFugA&expected_price_source=share&expected_price_currency=mxn&expected_price=1892",
    "title": "Flight deals from Guadalajara to Tijuana",
    "micro": "/oferta/vuelos/vuelo-guadalajara-tijuana-20261203-b488b630/"
+  },
+  {
+   "id": "bca8262070a4c5687384ed53fe29f812",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TIJ",
+   "destination_name": "Tijuana",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 2127.0,
+   "currency": "MXN",
+   "departure_at": "2026-12-07T17:18:00-06:00",
+   "return_at": "",
+   "duration": 438,
+   "link": "https://www.aviasales.com/search/MEX0712TIJ1?t=Y417966638801796682960000438NLUGDLTIJ_bca8262070a4c5687384ed53fe29f812_8857&search_date=26112026&expected_price_uuid=01a21a18-61e3-8040-23f1-87457a135550&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=w5Mg28E6AYwniyNByLpIaw&expected_price_source=share&expected_price_currency=mxn&expected_price=2127",
+   "title": "Flight deals from Mexico City to Tijuana",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tijuana-20261207-bca82620/"
   },
   {
    "id": "251e9eac8d041ae8a514efd972125541",
@@ -190,6 +190,26 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20261231-3b19da5d/"
   },
   {
+   "id": "fffc0d3b8110480ab6f3a12cb424c13e",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "LIM",
+   "destination_name": "Lima",
+   "airline": "Y4",
+   "airline_title": "Volaris",
+   "logo": "https://pics.avs.io/600/136/Y4.png",
+   "logo_tipo": "",
+   "price": 4850.0,
+   "currency": "MXN",
+   "departure_at": "2026-11-29T22:00:00-06:00",
+   "return_at": "",
+   "duration": 355,
+   "link": "https://www.aviasales.com/search/MEX2911LIM1?t=Y417959896001796014500000355MEXLIM_fffc0d3b8110480ab6f3a12cb424c13e_20196&search_date=26112026&expected_price_uuid=01a21a24-a3ad-8030-2302-b217d95d39de&static_fare_key=TY%7CP0%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=AfVV86GkYWKy9Hv5LaMWAA&expected_price_source=share&expected_price_currency=mxn&expected_price=4850",
+   "title": "Flight deals from Mexico City to Lima",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-lima-20261129-fffc0d3b/"
+  },
+  {
    "id": "2e1d61340fd1c0d4ae240425d07dc4d4",
    "kind": "flight",
    "origin": "MEX",
@@ -208,26 +228,6 @@
    "link": "https://www.aviasales.com/search/MEX1601SCL1?t=AM18000933001800134100000500MEXSCL_2e1d61340fd1c0d4ae240425d07dc4d4_31224&search_date=26112026&expected_price_uuid=01a2196a-b1ff-8031-6988-51dd1eeadb4f&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ORFk7zeErKhiMXOCLgEbtg&expected_price_source=share&expected_price_currency=mxn&expected_price=7498",
    "title": "Flight deals from Mexico City to Santiago",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santiago-de-chile-20270116-2e1d6134/"
-  },
-  {
-   "id": "469352b3cf5a0a3492cb24287ed33f2b",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "HAV",
-   "destination_name": "La Habana",
-   "airline": "Q4",
-   "airline_title": "Euroairlines",
-   "logo": "https://pics.avs.io/600/150/Q4.png",
-   "logo_tipo": "",
-   "price": 8217.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-19T06:05:00-06:00",
-   "return_at": "",
-   "duration": 205,
-   "link": "https://www.aviasales.com/search/MEX1912HAV1?t=Q417976603001797676200000205NLUHAV_469352b3cf5a0a3492cb24287ed33f2b_34255&search_date=26112026&expected_price_uuid=01a218cd-c5c7-8030-6248-2d4bc41a4f1a&static_fare_key=TY%7CP1%7CH0%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=1SRb16rzLAWNOAKSTxLceg&expected_price_source=share&expected_price_currency=mxn&expected_price=8217",
-   "title": "Flight deals from Mexico City to Havana",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-la-habana-20261219-469352b3/"
   },
   {
    "id": "9fdb339e529f74b6c881b41cba330eed",

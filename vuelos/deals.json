@@ -1,6 +1,6 @@
 {
- "generated_at": 1795737844.0041616,
- "generated_at_str": "26/11/2026 18:04",
+ "generated_at": 1795741444.3064659,
+ "generated_at_str": "26/11/2026 19:04",
  "origins": [
   "MEX",
   "GDL",
@@ -170,26 +170,6 @@
    "micro": "/oferta/vuelos/vuelo-guadalajara-ontario-20261204-75b76c33/"
   },
   {
-   "id": "3b19da5d1c8e9a748e9d0d1471b7e914",
-   "kind": "flight",
-   "origin": "MEX",
-   "origin_name": "Ciudad de México",
-   "destination": "SDQ",
-   "destination_name": "Santo Domingo",
-   "airline": "DM",
-   "airline_title": "Arajet",
-   "logo": "https://pics.avs.io/600/232/DM.png",
-   "logo_tipo": "lockup",
-   "price": 3493.0,
-   "currency": "MXN",
-   "departure_at": "2026-12-31T23:34:00-06:00",
-   "return_at": "",
-   "duration": 255,
-   "link": "https://www.aviasales.com/search/MEX3112SDQ1?t=DM17987600401798782540000255NLUSDQ_3b19da5d1c8e9a748e9d0d1471b7e914_14545&search_date=26112026&expected_price_uuid=01a21913-69f7-8030-6491-aad34d7a2213&static_fare_key=TY%7CP1%7CH0%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=QcliuIm2jZbREhk5Y9y5cA&expected_price_source=share&expected_price_currency=mxn&expected_price=3493",
-   "title": "Flight deals from Mexico City to Santo Domingo",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-santo-domingo-20261231-3b19da5d/"
-  },
-  {
    "id": "fffc0d3b8110480ab6f3a12cb424c13e",
    "kind": "flight",
    "origin": "MEX",
@@ -250,7 +230,7 @@
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-seul-20270118-9fdb339e/"
   },
   {
-   "id": "1a906100f02c548b859d5e7a941355d9",
+   "id": "92661690684be1616e1b645553cd88bf",
    "kind": "flight",
    "origin": "MEX",
    "origin_name": "Ciudad de México",
@@ -260,14 +240,14 @@
    "airline_title": "Aeromexico",
    "logo": "https://pics.avs.io/600/106/AM.png",
    "logo_tipo": "",
-   "price": 15176.0,
+   "price": 16621.0,
    "currency": "MXN",
-   "departure_at": "2027-04-07T22:30:00-05:00",
+   "departure_at": "2027-03-11T22:05:00-06:00",
    "return_at": "",
-   "duration": 950,
-   "link": "https://www.aviasales.com/search/MEX0704IST1?t=AM18071370001807226400000950MEXAMSIST_1a906100f02c548b859d5e7a941355d9_63198&search_date=26112026&expected_price_uuid=01a21902-b2f7-8030-6bdb-7baccc9a9598&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=GotCqrHkHyaueNhS4KYwBg&expected_price_source=share&expected_price_currency=mxn&expected_price=15176",
+   "duration": 1045,
+   "link": "https://www.aviasales.com/search/MEX1103IST1?t=AM18048027001804897800001045MEXCDGIST_92661690684be1616e1b645553cd88bf_69214&search_date=26112026&expected_price_uuid=01a21987-b4d7-8030-2a7d-52c9222668f0&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=_v3kA03w1DveJVdLG7eGZA&expected_price_source=share&expected_price_currency=mxn&expected_price=16621",
    "title": "Flight deals from Mexico City to Istanbul",
-   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270407-1a906100/"
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-estambul-20270311-92661690/"
   },
   {
    "id": "5db218ebbb956090ab02118cd5a27345",
@@ -288,6 +268,26 @@
    "link": "https://www.aviasales.com/search/MEX2911HKG1?t=AM17959887001796131500001540MEXNRTHKG_5db218ebbb956090ab02118cd5a27345_83291&search_date=26112026&expected_price_uuid=01a21990-1a0f-8030-af10-2e66a51bdfb9&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=tNBRTahwc-OFfSKG0-HLag&expected_price_source=share&expected_price_currency=mxn&expected_price=20002",
    "title": "Flight deals from Mexico City to Hong Kong",
    "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-hong-kong-20261129-5db218eb/"
+  },
+  {
+   "id": "a893f9646522e255d153d964888e08f1",
+   "kind": "flight",
+   "origin": "MEX",
+   "origin_name": "Ciudad de México",
+   "destination": "TYO",
+   "destination_name": "Tokio",
+   "airline": "AM",
+   "airline_title": "Aeromexico",
+   "logo": "https://pics.avs.io/600/106/AM.png",
+   "logo_tipo": "",
+   "price": 20110.0,
+   "currency": "MXN",
+   "departure_at": "2027-01-02T22:15:00-06:00",
+   "return_at": "",
+   "duration": 1035,
+   "link": "https://www.aviasales.com/search/MEX0201TYO1?t=AM17989281001799044200001035MEXNRT_a893f9646522e255d153d964888e08f1_83750&search_date=26112026&expected_price_uuid=01a21a2f-09f4-8030-609a-1f9bda72c1bd&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=A7wr6QBrD_noyDQqqjjonw&expected_price_source=share&expected_price_currency=mxn&expected_price=20110",
+   "title": "Flight deals from Mexico City to Tokyo",
+   "micro": "/oferta/vuelos/vuelo-ciudad-de-mexico-tokio-20270102-a893f964/"
   }
  ]
 }
